@@ -208,10 +208,9 @@ const locations = [
         parking_notes: "Large parking lot available",
         lat: 30.4572,
         lng: -97.6539
-    }
-];
+    },
 
-    // Continuing Regular Hours Locations (30 more added)
+    // Regular Hours Locations (36 more)
     {
         id: "reg_01",
         name: "Anita Ferrales Coy Facility",
@@ -617,10 +616,10 @@ const locations = [
         parking_notes: "Large parking lot available",
         lat: 30.4572,
         lng: -97.6539
-        // Note: This was reg_32, now consolidated
     }
 ];
 
+// Note: reg_32 consolidated into reg_28
 // Total: 43 locations (7 extended hours + 36 regular hours)
 // Coverage: Austin core, suburbs, rural Travis County
 // Data collected from Travis County Clerk verified sources
