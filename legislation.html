@@ -1,0 +1,679 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Texas Elections Wiki | Legislation Tracker</title>
+    <meta name="description" content="Live tracker of Texas election and voting legislation">
+    
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&display=swap" rel="stylesheet">
+    
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, sans-serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            background: #f5f5f5;
+        }
+        
+        header {
+            background: #1a1a1a;
+            color: white;
+            padding: 1rem 1.5rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 1rem;
+        }
+        
+        .site-title {
+            font-size: 1.25rem;
+            font-weight: 700;
+            letter-spacing: -0.02em;
+            text-decoration: none;
+            color: white;
+        }
+        
+        .site-title span {
+            color: #c9a227;
+        }
+        
+        nav {
+            display: flex;
+            gap: 1.5rem;
+        }
+        
+        nav a {
+            color: rgba(255,255,255,0.8);
+            text-decoration: none;
+            font-size: 0.9rem;
+            transition: color 0.2s;
+        }
+        
+        nav a:hover, nav a.active {
+            color: white;
+        }
+        
+        .intro {
+            background: white;
+            padding: 2rem 1.5rem;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        
+        .intro h1 {
+            font-size: 1.75rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+        }
+        
+        .intro p {
+            color: #666;
+            max-width: 700px;
+        }
+        
+        .filters {
+            display: flex;
+            gap: 1rem;
+            margin-top: 1rem;
+            flex-wrap: wrap;
+        }
+        
+        .filter-btn {
+            padding: 0.5rem 1rem;
+            border: 1px solid #ddd;
+            background: white;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 0.9rem;
+            transition: all 0.2s;
+        }
+        
+        .filter-btn:hover, .filter-btn.active {
+            background: #1e3a8a;
+            color: white;
+            border-color: #1e3a8a;
+        }
+        
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 1rem;
+            margin: 1.5rem;
+        }
+        
+        .stat-card {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+        
+        .stat-number {
+            font-size: 2rem;
+            font-weight: 700;
+            color: #1e3a8a;
+        }
+        
+        .stat-label {
+            font-size: 0.85rem;
+            color: #666;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+        
+        .content {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 1.5rem;
+        }
+        
+        .bill-card {
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            margin-bottom: 1rem;
+            overflow: hidden;
+        }
+        
+        .bill-header {
+            padding: 1.25rem;
+            background: #f8f9fa;
+            border-bottom: 1px solid #e0e0e0;
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            flex-wrap: wrap;
+            gap: 1rem;
+        }
+        
+        .bill-number {
+            font-size: 1.25rem;
+            font-weight: 700;
+            color: #1a1a1a;
+            text-decoration: none;
+        }
+        
+        .bill-number:hover {
+            color: #1e3a8a;
+        }
+        
+        .bill-meta {
+            display: flex;
+            gap: 1rem;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+        
+        .chamber-badge {
+            padding: 0.25rem 0.5rem;
+            border-radius: 3px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+        
+        .chamber-badge.house {
+            background: #1e3a8a;
+            color: white;
+        }
+        
+        .chamber-badge.senate {
+            background: #c9a227;
+            color: #1a1a1a;
+        }
+        
+        .status-badge {
+            padding: 0.25rem 0.75rem;
+            border-radius: 12px;
+            font-size: 0.8rem;
+            font-weight: 600;
+        }
+        
+        .status-badge.enacted {
+            background: #d4edda;
+            color: #155724;
+        }
+        
+        .status-badge.progress {
+            background: #fff3cd;
+            color: #856404;
+        }
+        
+        .status-badge.committee {
+            background: #d1ecf1;
+            color: #0c5460;
+        }
+        
+        .status-badge.failed {
+            background: #f8d7da;
+            color: #721c24;
+        }
+        
+        .bill-body {
+            padding: 1.25rem;
+        }
+        
+        .bill-title {
+            font-size: 1.1rem;
+            color: #1a1a1a;
+            margin-bottom: 0.75rem;
+            line-height: 1.4;
+        }
+        
+        .bill-subjects {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-bottom: 1rem;
+        }
+        
+        .subject-tag {
+            background: #e9ecef;
+            color: #495057;
+            padding: 0.25rem 0.5rem;
+            border-radius: 3px;
+            font-size: 0.75rem;
+        }
+        
+        .bill-info {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            font-size: 0.9rem;
+            color: #555;
+        }
+        
+        .info-row {
+            display: flex;
+            gap: 0.5rem;
+        }
+        
+        .info-label {
+            font-weight: 600;
+            color: #333;
+            min-width: 80px;
+        }
+        
+        .bill-history {
+            padding: 1rem 1.25rem;
+            background: #f8f9fa;
+            border-top: 1px solid #e0e0e0;
+        }
+        
+        .history-title {
+            font-size: 0.85rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: #666;
+            margin-bottom: 0.75rem;
+        }
+        
+        .timeline {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+        
+        .timeline-item {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-size: 0.85rem;
+        }
+        
+        .timeline-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: #1e3a8a;
+        }
+        
+        .timeline-dot.completed {
+            background: #28a745;
+        }
+        
+        .timeline-dot.pending {
+            background: #ffc107;
+        }
+        
+        .timeline-arrow {
+            color: #999;
+        }
+        
+        footer {
+            background: #1a1a1a;
+            color: rgba(255,255,255,0.7);
+            padding: 1.5rem;
+            text-align: center;
+            font-size: 0.85rem;
+            margin-top: 2rem;
+        }
+        
+        footer a {
+            color: #c9a227;
+            text-decoration: none;
+        }
+        
+        .disclaimer {
+            background: #fff3cd;
+            border: 1px solid #ffeaa7;
+            padding: 1rem;
+            border-radius: 4px;
+            margin-bottom: 1rem;
+            font-size: 0.9rem;
+            color: #856404;
+        }
+        
+        @media (max-width: 768px) {
+            .intro h1 {
+                font-size: 1.4rem;
+            }
+            
+            .bill-header {
+                flex-direction: column;
+            }
+            
+            .stats {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <a href="index.html" class="site-title">Texas<span>Elections</span>.Wiki</a>
+        <nav>
+            <a href="index.html">Map</a>
+            <a href="legislation.html" class="active">Legislation</a>
+            <a href="#about">About</a>
+        </nav>
+    </header>
+    
+    <section class="intro">
+        <h1>Texas Election Legislation Tracker</h1>
+        <p>Live monitoring of bills affecting Texas elections, voting procedures, and voting rights from the 89th Legislature (2025).</p>
+        
+        <div class="filters">
+            <button class="filter-btn active" data-filter="all">All Bills</button>
+            <button class="filter-btn" data-filter="enacted">Enacted</button>
+            <button class="filter-btn" data-filter="in-progress">In Progress</button>
+            <button class="filter-btn" data-filter="senate">Senate Bills</button>
+            <button class="filter-btn" data-filter="house">House Bills</button>
+        </div>
+    </section>
+    
+    <div class="stats" id="stats">
+        <!-- Populated by JavaScript -->
+    </div>
+    
+    <div class="content">
+        <div class="disclaimer">
+            <strong>Data Source:</strong> Texas Legislature Online. This tracker is updated manually and may have a slight delay. Always verify current status at <a href="https://capitol.texas.gov" target="_blank">capitol.texas.gov</a>.
+        </div>
+        
+        <div id="bills-container">
+            <!-- Bills populated by JavaScript -->
+        </div>
+    </div>
+    
+    <footer id="about">
+        <p><strong>Texas Elections Wiki</strong> — A data journalism project.</p>
+        <p>Data: <a href="https://capitol.texas.gov" target="_blank">Texas Legislature Online</a> | 
+        Last updated: April 2026 | 
+        <a href="https://github.com/AR-Davis/texas-elections-wiki" target="_blank">GitHub</a></p>
+    </footer>
+    
+    <script>
+        // Legislation data - would be loaded from JSON file in production
+        const legislationData = {
+            "bills": [
+                {
+                    "bill_number": "SB2217",
+                    "session": "89R",
+                    "chamber": "Senate",
+                    "caption": "Relating to certain election practices and procedures.",
+                    "description": "Relating to certain election practices and procedures.",
+                    "author": "Hughes (Sen)",
+                    "coauthors": ["Hall"],
+                    "sponsor": "Shaheen (House)",
+                    "subjects": ["Elections--Administration", "Elections--Election Officers", "Elections--Voting Systems"],
+                    "house_committee": "Elections",
+                    "senate_committee": "State Affairs",
+                    "last_action_date": "06/20/2025",
+                    "status": "Enacted (Signed by Governor)",
+                    "status_category": "enacted",
+                    "effective_date": "09/01/25",
+                    "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB2217",
+                    "history": [
+                        {"date": "03/11/2025", "action": "Filed", "completed": true},
+                        {"date": "03/25/2025", "action": "Senate Committee", "completed": true},
+                        {"date": "05/01/2025", "action": "Senate Passage", "completed": true},
+                        {"date": "05/02/2025", "action": "House Committee", "completed": true},
+                        {"date": "06/01/2025", "action": "House Passage", "completed": true},
+                        {"date": "06/20/2025", "action": "Signed", "completed": true}
+                    ]
+                },
+                {
+                    "bill_number": "HB5115",
+                    "session": "89R",
+                    "chamber": "House",
+                    "caption": "Relating to the penalty for the crime of election fraud.",
+                    "description": "Relating to the penalty for the crime of election fraud; increasing a criminal penalty.",
+                    "author": "Shaheen (House)",
+                    "sponsor": "Hughes (Sen)",
+                    "subjects": ["Elections--General", "Crimes", "Fraud"],
+                    "house_committee": "Elections",
+                    "senate_committee": "State Affairs",
+                    "last_action_date": "06/20/2025",
+                    "status": "Enacted (Signed by Governor)",
+                    "status_category": "enacted",
+                    "effective_date": "09/01/25",
+                    "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB5115",
+                    "house_committee_vote": "Ayes=7 Nays=2",
+                    "senate_committee_vote": "Ayes=8 Nays=1",
+                    "history": [
+                        {"date": "03/13/2025", "action": "Filed", "completed": true},
+                        {"date": "04/03/2025", "action": "House Committee", "completed": true},
+                        {"date": "05/08/2025", "action": "House Passage", "completed": true},
+                        {"date": "05/21/2025", "action": "Senate Committee", "completed": true},
+                        {"date": "05/28/2025", "action": "Senate Passage", "completed": true},
+                        {"date": "06/20/2025", "action": "Signed", "completed": true}
+                    ]
+                },
+                {
+                    "bill_number": "SB2753",
+                    "session": "89R",
+                    "chamber": "Senate",
+                    "caption": "Relating to the integration of early voting and election day voting.",
+                    "description": "Relating to the integration of early voting by personal appearance and election day voting, including the manner in which election returns are processed.",
+                    "author": "Hall (Sen)",
+                    "sponsor": "Isaac (House)",
+                    "subjects": ["Elections--Administration", "Elections--Early Voting", "County Government"],
+                    "house_committee": "Elections",
+                    "senate_committee": "State Affairs",
+                    "last_action_date": "06/22/2025",
+                    "status": "Enacted (Signed by Governor)",
+                    "status_category": "enacted",
+                    "effective_date": "09/01/25",
+                    "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB2753",
+                    "history": [
+                        {"date": "03/14/2025", "action": "Filed", "completed": true},
+                        {"date": "04/03/2025", "action": "Senate Committee", "completed": true},
+                        {"date": "05/07/2025", "action": "Senate Passage", "completed": true},
+                        {"date": "05/08/2025", "action": "House Committee", "completed": true},
+                        {"date": "06/01/2025", "action": "House Passage", "completed": true},
+                        {"date": "06/22/2025", "action": "Signed", "completed": true}
+                    ]
+                },
+                {
+                    "bill_number": "HB1661",
+                    "session": "89R",
+                    "chamber": "House",
+                    "caption": "Relating to election supplies and conduct of elections.",
+                    "description": "Relating to election supplies and the conduct of elections; creating criminal offenses; increasing criminal penalties.",
+                    "author": "Vasut (House)",
+                    "sponsor": "Bettencourt (Sen)",
+                    "subjects": ["Elections--Administration", "Elections--Registration", "Crimes"],
+                    "house_committee": "Elections",
+                    "senate_committee": "State Affairs",
+                    "last_action_date": "06/20/2025",
+                    "status": "Enacted (Signed by Governor)",
+                    "status_category": "enacted",
+                    "effective_date": "09/01/25",
+                    "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB1661",
+                    "house_committee_vote": "Ayes=6 Nays=3",
+                    "senate_committee_vote": "Ayes=9 Nays=1",
+                    "history": [
+                        {"date": "02/27/2025", "action": "Filed", "completed": true},
+                        {"date": "03/12/2025", "action": "House Committee", "completed": true},
+                        {"date": "05/15/2025", "action": "House Passage", "completed": true},
+                        {"date": "05/22/2025", "action": "Senate Committee", "completed": true},
+                        {"date": "05/26/2025", "action": "Senate Passage", "completed": true},
+                        {"date": "06/20/2025", "action": "Signed", "completed": true}
+                    ]
+                },
+                {
+                    "bill_number": "HB1217",
+                    "session": "88R",
+                    "chamber": "House",
+                    "caption": "Relating to early voting administration.",
+                    "description": "Relating to the administration of and procedures relating to early voting by personal appearance.",
+                    "author": "Swanson (House)",
+                    "sponsor": "Kolkhorst (Sen)",
+                    "subjects": ["Elections--Administration", "Elections--Early Voting"],
+                    "house_committee": "Elections",
+                    "senate_committee": "State Affairs",
+                    "last_action_date": "06/12/2023",
+                    "status": "Enacted (Signed by Governor)",
+                    "status_category": "enacted",
+                    "effective_date": "09/01/23",
+                    "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=88R&Bill=HB1217",
+                    "history": [
+                        {"date": "01/09/2023", "action": "Filed", "completed": true},
+                        {"date": "03/03/2023", "action": "House Committee", "completed": true},
+                        {"date": "05/08/2023", "action": "House Passage", "completed": true},
+                        {"date": "05/15/2023", "action": "Senate Committee", "completed": true},
+                        {"date": "05/26/2023", "action": "Senate Passage", "completed": true},
+                        {"date": "06/12/2023", "action": "Signed", "completed": true}
+                    ]
+                }
+            ]
+        };
+        
+        function getStatusClass(status) {
+            if (status.includes('Enacted') || status.includes('Signed')) { return 'enacted'; }
+            if (status.includes('Committee') || status.includes('Calendar')) { return 'committee'; }
+            if (status.includes('Failed') || status.includes('Veto')) { return 'failed'; }
+            return 'progress';
+        }
+        
+        function renderBills(bills) {
+            const container = document.getElementById('bills-container');
+            
+            if (bills.length === 0) {
+                container.innerHTML = '<p>No bills match the selected filter.</p>';
+                return;
+            }
+            
+            container.innerHTML = bills.map(bill => {
+                const statusClass = getStatusClass(bill.status);
+                const chamberClass = bill.chamber.toLowerCase();
+                
+                const historyTimeline = bill.history.map((h, i) => {
+                    const isLast = i === bill.history.length - 1;
+                    const dotClass = h.completed ? 'completed' : 'pending';
+                    return `
+                        <div class="timeline-item">
+                            <div class="timeline-dot ${dotClass}"></div>
+                            <span>${h.action} (${h.date})</span>
+                            ${!isLast ? '<span class="timeline-arrow">→</span>' : ''}
+                        </div>
+                    `;
+                }).join('');
+                
+                const subjectsHtml = (bill.subjects || []).map(s => 
+                    `<span class="subject-tag">${s}</span>`
+                ).join('');
+                
+                return `
+                    <div class="bill-card" data-category="${bill.status_category}" data-chamber="${chamberClass}">
+                        <div class="bill-header">
+                            <div>
+                                <a href="${bill.url}" target="_blank" class="bill-number">${bill.bill_number}</a>
+                                <div class="bill-meta">
+                                    <span class="chamber-badge ${chamberClass}">${bill.chamber}</span>
+                                    <span class="status-badge ${statusClass}">${bill.status}</span>
+                                </div>
+                            </div>
+                            <div style="text-align: right;">
+                                <div style="font-size: 0.85rem; color: #666;">Last Action: ${bill.last_action_date}</div>
+                                ${bill.effective_date ? `<div style="font-size: 0.8rem; color: #28a745;">Effective: ${bill.effective_date}</div>` : ''}
+                            </div>
+                        </div>
+                        <div class="bill-body">
+                            <div class="bill-title">${bill.caption}</div>
+                            
+                            <div class="bill-subjects">${subjectsHtml}</div>
+                            
+                            <div class="bill-info">
+                                <div class="info-row">
+                                    <span class="info-label">Author:</span>
+                                    <span>${bill.author}</span>
+                                </div>
+                                ${bill.sponsor ? `
+                                <div class="info-row">
+                                    <span class="info-label">Sponsor:</span>
+                                    <span>${bill.sponsor}</span>
+                                </div>` : ''}
+                                <div class="info-row">
+                                    <span class="info-label">House Comm:</span>
+                                    <span>${bill.house_committee || 'N/A'}</span>
+                                </div>
+                                <div class="info-row">
+                                    <span class="info-label">Senate Comm:</span>
+                                    <span>${bill.senate_committee || 'N/A'}</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="bill-history">
+                            <div class="history-title">Progress Timeline</div>
+                            <div class="timeline">${historyTimeline}</div>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+        }
+        
+        function updateStats() {
+            const bills = legislationData.bills;
+            const stats = {
+                total: bills.length,
+                enacted: bills.filter(b => b.status_category === 'enacted').length,
+                senate: bills.filter(b => b.chamber === 'Senate').length,
+                house: bills.filter(b => b.chamber === 'House').length
+            };
+            
+            document.getElementById('stats').innerHTML = `
+                <div class="stat-card">
+                    <div class="stat-number">${stats.total}</div>
+                    <div class="stat-label">Total Bills</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">${stats.enacted}</div>
+                    <div class="stat-label">Enacted</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">${stats.senate}</div>
+                    <div class="stat-label">Senate Bills</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">${stats.house}</div>
+                    <div class="stat-label">House Bills</div>
+                </div>
+            `;
+        }
+        
+        function filterBills(category) {
+            const bills = legislationData.bills;
+            let filtered = bills;
+            
+            if (category === 'enacted') {
+                filtered = bills.filter(b => b.status_category === 'enacted');
+            } else if (category === 'in-progress') {
+                filtered = bills.filter(b => b.status_category !== 'enacted');
+            } else if (category === 'senate') {
+                filtered = bills.filter(b => b.chamber === 'Senate');
+            } else if (category === 'house') {
+                filtered = bills.filter(b => b.chamber === 'House');
+            }
+            
+            renderBills(filtered);
+        }
+        
+        // Event listeners
+        document.addEventListener('DOMContentLoaded', () => {
+            renderBills(legislationData.bills);
+            updateStats();
+            
+            // Filter buttons
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                btn.addEventListener('click', () => {
+                    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+                    filterBills(btn.dataset.filter);
+                });
+            });
+        });
+    </script>
+</body>
+</html>
