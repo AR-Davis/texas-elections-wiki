@@ -6,10 +6,27 @@
     <title>Texas Elections Wiki | Legislation Tracker</title>
     <meta name="description" content="Live tracker of Texas election and voting legislation">
     
-    <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&display=swap" rel="stylesheet">
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
     
     <style>
+        :root {
+            --bg-primary: #0d1117;
+            --bg-secondary: #161b22;
+            --bg-tertiary: #21262d;
+            --text-primary: #e6edf3;
+            --text-secondary: #8b949e;
+            --text-muted: #6e7681;
+            --accent: #58a6ff;
+            --accent-dim: #388bfd;
+            --border: #30363d;
+            --success: #3fb950;
+            --warning: #d29922;
+            --danger: #f85149;
+        }
+        
         * {
             margin: 0;
             padding: 0;
@@ -17,137 +34,342 @@
         }
         
         body {
-            font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, sans-serif;
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
             line-height: 1.6;
-            color: #1a1a1a;
-            background: #f5f5f5;
+            min-height: 100vh;
         }
         
-        header {
-            background: #1a1a1a;
-            color: white;
-            padding: 1rem 1.5rem;
+        /* Layout */
+        .app-container {
             display: flex;
-            justify-content: space-between;
-            align-items: center;
-            flex-wrap: wrap;
-            gap: 1rem;
+            min-height: 100vh;
+        }
+        
+        /* Sidebar */
+        .sidebar {
+            width: 260px;
+            background: var(--bg-secondary);
+            border-right: 1px solid var(--border);
+            display: flex;
+            flex-direction: column;
+            position: fixed;
+            height: 100vh;
+            overflow-y: auto;
+        }
+        
+        .sidebar-header {
+            padding: 1.5rem;
+            border-bottom: 1px solid var(--border);
         }
         
         .site-title {
-            font-size: 1.25rem;
-            font-weight: 700;
-            letter-spacing: -0.02em;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 1rem;
+            font-weight: 600;
+            color: var(--text-primary);
             text-decoration: none;
-            color: white;
+            display: block;
         }
         
         .site-title span {
-            color: #c9a227;
+            color: var(--accent);
         }
         
-        nav {
-            display: flex;
-            gap: 1.5rem;
+        .site-subtitle {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            margin-top: 0.25rem;
         }
         
-        nav a {
-            color: rgba(255,255,255,0.8);
-            text-decoration: none;
-            font-size: 0.9rem;
-            transition: color 0.2s;
+        .nav-section {
+            padding: 1rem 0;
         }
         
-        nav a:hover, nav a.active {
-            color: white;
-        }
-        
-        .intro {
-            background: white;
-            padding: 2rem 1.5rem;
-            border-bottom: 1px solid #e0e0e0;
-        }
-        
-        .intro h1 {
-            font-size: 1.75rem;
-            font-weight: 700;
+        .nav-label {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.7rem;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            padding: 0 1.5rem;
             margin-bottom: 0.5rem;
         }
         
-        .intro p {
-            color: #666;
-            max-width: 700px;
+        .nav-menu {
+            list-style: none;
         }
         
+        .nav-menu li {
+            margin: 0;
+        }
+        
+        .nav-menu a {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            padding: 0.5rem 1.5rem;
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            transition: all 0.15s ease;
+            border-left: 2px solid transparent;
+        }
+        
+        .nav-menu a:hover,
+        .nav-menu a.active {
+            color: var(--text-primary);
+            background: var(--bg-tertiary);
+            border-left-color: var(--accent);
+        }
+        
+        .nav-icon {
+            width: 16px;
+            text-align: center;
+            color: var(--text-muted);
+        }
+        
+        .nav-menu a:hover .nav-icon,
+        .nav-menu a.active .nav-icon {
+            color: var(--accent);
+        }
+        
+        .sidebar-footer {
+            margin-top: auto;
+            padding: 1rem 1.5rem;
+            border-top: 1px solid var(--border);
+        }
+        
+        .sidebar-footer a {
+            color: var(--text-muted);
+            text-decoration: none;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.75rem;
+            transition: color 0.15s;
+        }
+        
+        .sidebar-footer a:hover {
+            color: var(--accent);
+        }
+        
+        /* Main Content */
+        .main-content {
+            flex: 1;
+            margin-left: 260px;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        /* Top Bar */
+        .top-bar {
+            background: var(--bg-secondary);
+            border-bottom: 1px solid var(--border);
+            padding: 0.75rem 1.5rem;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        
+        .breadcrumb {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.8rem;
+            color: var(--text-muted);
+        }
+        
+        .breadcrumb span {
+            color: var(--text-secondary);
+        }
+        
+        .status-indicator {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.75rem;
+            color: var(--text-muted);
+        }
+        
+        .status-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: var(--success);
+            animation: pulse 2s infinite;
+        }
+        
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+        
+        /* Page Navigation */
+        .page-nav {
+            display: flex;
+            gap: 0.5rem;
+            margin-bottom: 1.5rem;
+            flex-wrap: wrap;
+        }
+        
+        .page-nav-item {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.6rem 1rem;
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            transition: all 0.15s ease;
+        }
+        
+        .page-nav-item:hover {
+            border-color: var(--accent);
+            color: var(--text-primary);
+        }
+        
+        .page-nav-item.active {
+            background: var(--accent);
+            border-color: var(--accent);
+            color: var(--bg-primary);
+        }
+        
+        .page-nav-icon {
+            font-size: 1rem;
+        }
+        
+        /* Content Area */
+        .content-area {
+            flex: 1;
+            padding: 1.5rem;
+            overflow-y: auto;
+        }
+        
+        .page-header {
+            margin-bottom: 1.5rem;
+        }
+        
+        .page-header h1 {
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: var(--text-primary);
+            margin-bottom: 0.5rem;
+        }
+        
+        .page-header p {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+        }
+        
+        /* Terminal-style info box */
+        .info-box {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            margin-bottom: 1.5rem;
+            overflow: hidden;
+        }
+        
+        .info-box-header {
+            background: var(--bg-tertiary);
+            padding: 0.5rem 1rem;
+            border-bottom: 1px solid var(--border);
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        
+        .info-box-header span {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.75rem;
+            color: var(--text-muted);
+        }
+        
+        .info-box-content {
+            padding: 1rem;
+        }
+        
+        /* Filters */
         .filters {
             display: flex;
-            gap: 1rem;
-            margin-top: 1rem;
+            gap: 0.5rem;
+            margin-bottom: 1rem;
             flex-wrap: wrap;
         }
         
         .filter-btn {
-            padding: 0.5rem 1rem;
-            border: 1px solid #ddd;
-            background: white;
+            padding: 0.4rem 0.8rem;
+            border: 1px solid var(--border);
+            background: var(--bg-secondary);
             border-radius: 4px;
             cursor: pointer;
-            font-size: 0.9rem;
-            transition: all 0.2s;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+            transition: all 0.15s;
         }
         
-        .filter-btn:hover, .filter-btn.active {
-            background: #1e3a8a;
-            color: white;
-            border-color: #1e3a8a;
+        .filter-btn:hover {
+            border-color: var(--accent);
+            color: var(--text-primary);
         }
         
+        .filter-btn.active {
+            background: var(--accent);
+            border-color: var(--accent);
+            color: var(--bg-primary);
+        }
+        
+        /* Stats Grid */
         .stats {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
             gap: 1rem;
-            margin: 1.5rem;
+            margin-bottom: 1.5rem;
         }
         
         .stat-card {
-            background: white;
-            padding: 1.5rem;
-            border-radius: 8px;
-            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            padding: 1rem;
             text-align: center;
         }
         
         .stat-number {
-            font-size: 2rem;
-            font-weight: 700;
-            color: #1e3a8a;
+            font-size: 1.75rem;
+            font-weight: 600;
+            color: var(--accent);
+            font-family: 'JetBrains Mono', monospace;
         }
         
         .stat-label {
-            font-size: 0.85rem;
-            color: #666;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.7rem;
+            color: var(--text-muted);
             text-transform: uppercase;
             letter-spacing: 0.05em;
+            margin-top: 0.25rem;
         }
         
-        .content {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 1.5rem;
-        }
-        
+        /* Bill Cards */
         .bill-card {
-            background: white;
-            border-radius: 8px;
-            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 6px;
             margin-bottom: 1rem;
             overflow: hidden;
         }
         
         .bill-header {
-            padding: 1.25rem;
-            background: #f8f9fa;
-            border-bottom: 1px solid #e0e0e0;
+            padding: 1rem;
+            background: var(--bg-tertiary);
+            border-bottom: 1px solid var(--border);
             display: flex;
             justify-content: space-between;
             align-items: flex-start;
@@ -156,75 +378,82 @@
         }
         
         .bill-number {
-            font-size: 1.25rem;
-            font-weight: 700;
-            color: #1a1a1a;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: var(--accent);
             text-decoration: none;
         }
         
         .bill-number:hover {
-            color: #1e3a8a;
+            text-decoration: underline;
         }
         
         .bill-meta {
             display: flex;
-            gap: 1rem;
+            gap: 0.5rem;
             align-items: center;
             flex-wrap: wrap;
         }
         
         .chamber-badge {
-            padding: 0.25rem 0.5rem;
+            font-family: 'JetBrains Mono', monospace;
+            padding: 0.2rem 0.5rem;
             border-radius: 3px;
-            font-size: 0.75rem;
+            font-size: 0.7rem;
             font-weight: 600;
             text-transform: uppercase;
         }
         
         .chamber-badge.house {
-            background: #1e3a8a;
-            color: white;
+            background: var(--accent);
+            color: var(--bg-primary);
         }
         
         .chamber-badge.senate {
-            background: #c9a227;
-            color: #1a1a1a;
+            background: var(--warning);
+            color: var(--bg-primary);
         }
         
         .status-badge {
-            padding: 0.25rem 0.75rem;
-            border-radius: 12px;
-            font-size: 0.8rem;
-            font-weight: 600;
+            font-family: 'JetBrains Mono', monospace;
+            padding: 0.2rem 0.5rem;
+            border-radius: 3px;
+            font-size: 0.7rem;
+            font-weight: 500;
         }
         
         .status-badge.enacted {
-            background: #d4edda;
-            color: #155724;
+            background: rgba(63, 185, 80, 0.2);
+            color: var(--success);
+            border: 1px solid var(--success);
         }
         
         .status-badge.progress {
-            background: #fff3cd;
-            color: #856404;
+            background: rgba(210, 153, 34, 0.2);
+            color: var(--warning);
+            border: 1px solid var(--warning);
         }
         
         .status-badge.committee {
-            background: #d1ecf1;
-            color: #0c5460;
+            background: rgba(88, 166, 255, 0.2);
+            color: var(--accent);
+            border: 1px solid var(--accent);
         }
         
         .status-badge.failed {
-            background: #f8d7da;
-            color: #721c24;
+            background: rgba(248, 81, 73, 0.2);
+            color: var(--danger);
+            border: 1px solid var(--danger);
         }
         
         .bill-body {
-            padding: 1.25rem;
+            padding: 1rem;
         }
         
         .bill-title {
-            font-size: 1.1rem;
-            color: #1a1a1a;
+            font-size: 1rem;
+            color: var(--text-primary);
             margin-bottom: 0.75rem;
             line-height: 1.4;
         }
@@ -237,19 +466,20 @@
         }
         
         .subject-tag {
-            background: #e9ecef;
-            color: #495057;
-            padding: 0.25rem 0.5rem;
+            background: var(--bg-tertiary);
+            color: var(--text-secondary);
+            padding: 0.2rem 0.5rem;
             border-radius: 3px;
-            font-size: 0.75rem;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.7rem;
         }
         
         .bill-info {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 1rem;
-            font-size: 0.9rem;
-            color: #555;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 0.75rem;
+            font-size: 0.85rem;
+            color: var(--text-secondary);
         }
         
         .info-row {
@@ -258,143 +488,278 @@
         }
         
         .info-label {
-            font-weight: 600;
-            color: #333;
-            min-width: 80px;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.7rem;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            min-width: 60px;
         }
         
         .bill-history {
-            padding: 1rem 1.25rem;
-            background: #f8f9fa;
-            border-top: 1px solid #e0e0e0;
+            padding: 0.75rem 1rem;
+            background: var(--bg-tertiary);
+            border-top: 1px solid var(--border);
         }
         
         .history-title {
-            font-size: 0.85rem;
-            font-weight: 700;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.7rem;
+            color: var(--text-muted);
             text-transform: uppercase;
             letter-spacing: 0.05em;
-            color: #666;
-            margin-bottom: 0.75rem;
+            margin-bottom: 0.5rem;
         }
         
         .timeline {
             display: flex;
             flex-wrap: wrap;
-            gap: 0.5rem;
+            gap: 0.4rem;
+            align-items: center;
         }
         
         .timeline-item {
             display: flex;
             align-items: center;
-            gap: 0.5rem;
-            font-size: 0.85rem;
+            gap: 0.25rem;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.75rem;
+            color: var(--text-secondary);
         }
         
         .timeline-dot {
-            width: 8px;
-            height: 8px;
+            width: 6px;
+            height: 6px;
             border-radius: 50%;
-            background: #1e3a8a;
+            background: var(--text-muted);
         }
         
         .timeline-dot.completed {
-            background: #28a745;
+            background: var(--success);
         }
         
         .timeline-dot.pending {
-            background: #ffc107;
+            background: var(--warning);
         }
         
         .timeline-arrow {
-            color: #999;
+            color: var(--text-muted);
+            font-size: 0.7rem;
         }
         
-        footer {
-            background: #1a1a1a;
-            color: rgba(255,255,255,0.7);
-            padding: 1.5rem;
-            text-align: center;
+        /* Disclaimer */
+        .disclaimer {
+            background: rgba(210, 153, 34, 0.1);
+            border: 1px solid var(--warning);
+            padding: 1rem;
+            border-radius: 4px;
+            margin-bottom: 1.5rem;
             font-size: 0.85rem;
-            margin-top: 2rem;
+            color: var(--text-secondary);
         }
         
-        footer a {
-            color: #c9a227;
+        .disclaimer strong {
+            color: var(--warning);
+        }
+        
+        .disclaimer a {
+            color: var(--accent);
             text-decoration: none;
         }
         
-        .disclaimer {
-            background: #fff3cd;
-            border: 1px solid #ffeaa7;
-            padding: 1rem;
-            border-radius: 4px;
-            margin-bottom: 1rem;
-            font-size: 0.9rem;
-            color: #856404;
+        .disclaimer a:hover {
+            text-decoration: underline;
         }
         
+        /* Footer */
+        footer {
+            background: var(--bg-secondary);
+            border-top: 1px solid var(--border);
+            padding: 1rem 1.5rem;
+            text-align: center;
+        }
+        
+        footer p {
+            color: var(--text-muted);
+            font-size: 0.8rem;
+            font-family: 'JetBrains Mono', monospace;
+        }
+        
+        footer a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+        
+        footer a:hover {
+            text-decoration: underline;
+        }
+        
+        /* Mobile */
         @media (max-width: 768px) {
-            .intro h1 {
-                font-size: 1.4rem;
+            .sidebar {
+                transform: translateX(-100%);
+                transition: transform 0.2s ease;
+                z-index: 1000;
             }
             
-            .bill-header {
-                flex-direction: column;
+            .sidebar.open {
+                transform: translateX(0);
+            }
+            
+            .main-content {
+                margin-left: 0;
+            }
+            
+            .mobile-menu-toggle {
+                display: block;
+                background: none;
+                border: none;
+                color: var(--text-primary);
+                font-size: 1.25rem;
+                cursor: pointer;
             }
             
             .stats {
                 grid-template-columns: repeat(2, 1fr);
             }
+            
+            .bill-header {
+                flex-direction: column;
+            }
+        }
+        
+        @media (min-width: 769px) {
+            .mobile-menu-toggle {
+                display: none;
+            }
         }
     </style>
 </head>
 <body>
-    <header>
-        <a href="index.html" class="site-title">Texas<span>Elections</span>.Wiki</a>
-        <nav>
-            <a href="index.html">Map</a>
-            <a href="legislation.html" class="active">Legislation</a>
-            <a href="#about">About</a>
-        </nav>
-    </header>
-    
-    <section class="intro">
-        <h1>Texas Election Legislation Tracker</h1>
-        <p>Live monitoring of bills affecting Texas elections, voting procedures, and voting rights from the 89th Legislature (2025).</p>
+    <div class="app-container">
+        <!-- Sidebar Navigation -->
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-header">
+                <a href="index.html" class="site-title">Texas<span>Elections</span>.Wiki</a>
+                <div class="site-subtitle">v1.0.0 — stable</div>
+            </div>
+            
+            <nav class="nav-section">
+                <div class="nav-label">Navigation</div>
+                <ul class="nav-menu">
+                    <li>
+                        <a href="index.html">
+                            <span class="nav-icon">◎</span>
+                            <span>Voting Map</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="legislation.html" class="active">
+                            <span class="nav-icon">§</span>
+                            <span>Legislation</span>
+                        </a>
+                    </li>
+                </ul>
+                
+                <div class="nav-label">Resources</div>
+                <ul class="nav-menu">
+                    <li>
+                        <a href="https://capitol.texas.gov" target="_blank">
+                            <span class="nav-icon">↗</span>
+                            <span>Texas Legislature</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/AR-Davis/texas-elections-wiki" target="_blank">
+                            <span class="nav-icon">⌘</span>
+                            <span>GitHub Repo</span>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+            
+            <div class="sidebar-footer">
+                <a href="#">Last updated: 2026-04-18</a>
+            </div>
+        </aside>
         
-        <div class="filters">
-            <button class="filter-btn active" data-filter="all">All Bills</button>
-            <button class="filter-btn" data-filter="enacted">Enacted</button>
-            <button class="filter-btn" data-filter="in-progress">In Progress</button>
-            <button class="filter-btn" data-filter="senate">Senate Bills</button>
-            <button class="filter-btn" data-filter="house">House Bills</button>
-        </div>
-    </section>
-    
-    <div class="stats" id="stats">
-        <!-- Populated by JavaScript -->
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Top Bar -->
+            <div class="top-bar">
+                <button class="mobile-menu-toggle" onclick="toggleSidebar()">☰</button>
+                
+                <div class="breadcrumb">
+                    <span>~/</span>texas<span>/</span>legislation
+                </div>
+                
+                <div class="status-indicator">
+                    <span class="status-dot"></span>
+                    <span>89th Legislature (2025)</span>
+                </div>
+            </div>
+            
+            <!-- Content Area -->
+            <div class="content-area">
+                <div class="page-header">
+                    <h1>Texas Election Legislation Tracker</h1>
+                    <p>Live monitoring of bills affecting Texas elections, voting procedures, and voting rights.</p>
+                </div>
+                
+                <!-- Page Navigation -->
+                <div class="page-nav">
+                    <a href="index.html" class="page-nav-item">
+                        <span class="page-nav-icon">◎</span>
+                        <span>Voting Map</span>
+                    </a>
+                    <a href="legislation.html" class="page-nav-item active">
+                        <span class="page-nav-icon">§</span>
+                        <span>Legislation Tracker</span>
+                    </a>
+                </div>
+                
+                <!-- Disclaimer -->
+                <div class="disclaimer">
+                    <strong>Data Source:</strong> Texas Legislature Online. Tracker updated manually and may have slight delays. Verify current status at <a href="https://capitol.texas.gov" target="_blank">capitol.texas.gov</a>.
+                </div>
+                
+                <!-- Stats -->
+                <div class="stats" id="stats"></div>
+                
+                <!-- Filters -->
+                <div class="info-box">
+                    <div class="info-box-header">
+                        <span>$ filter --by-status</span>
+                    </div>
+                    <div class="info-box-content">
+                        <div class="filters">
+                            <button class="filter-btn active" data-filter="all">All Bills</button>
+                            <button class="filter-btn" data-filter="enacted">Enacted</button>
+                            <button class="filter-btn" data-filter="in-progress">In Progress</button>
+                            <button class="filter-btn" data-filter="senate">Senate Bills</button>
+                            <button class="filter-btn" data-filter="house">House Bills</button>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Bills Container -->
+                <div id="bills-container"></div>
+            </div>
+            
+            <!-- Footer -->
+            <footer>
+                <p>Data: <a href="https://capitol.texas.gov" target="_blank">capitol.texas.gov</a> | 
+                <a href="https://github.com/AR-Davis/texas-elections-wiki" target="_blank">github.com/AR-Davis/texas-elections-wiki</a></p>
+            </footer>
+        </main>
     </div>
-    
-    <div class="content">
-        <div class="disclaimer">
-            <strong>Data Source:</strong> Texas Legislature Online. This tracker is updated manually and may have a slight delay. Always verify current status at <a href="https://capitol.texas.gov" target="_blank">capitol.texas.gov</a>.
-        </div>
-        
-        <div id="bills-container">
-            <!-- Bills populated by JavaScript -->
-        </div>
-    </div>
-    
-    <footer id="about">
-        <p><strong>Texas Elections Wiki</strong> — A data journalism project.</p>
-        <p>Data: <a href="https://capitol.texas.gov" target="_blank">Texas Legislature Online</a> | 
-        Last updated: April 2026 | 
-        <a href="https://github.com/AR-Davis/texas-elections-wiki" target="_blank">GitHub</a></p>
-    </footer>
     
     <script>
-        // Legislation data - would be loaded from JSON file in production
+        // Mobile sidebar toggle
+        function toggleSidebar() {
+            document.getElementById('sidebar').classList.toggle('open');
+        }
+        
+        // Legislation data
         const legislationData = {
             "bills": [
                 {
@@ -497,183 +862,192 @@
                         {"date": "02/27/2025", "action": "Filed", "completed": true},
                         {"date": "03/12/2025", "action": "House Committee", "completed": true},
                         {"date": "05/15/2025", "action": "House Passage", "completed": true},
-                        {"date": "05/22/2025", "action": "Senate Committee", "completed": true},
-                        {"date": "05/26/2025", "action": "Senate Passage", "completed": true},
+                        {"date": "05/21/2025", "action": "Senate Committee", "completed": true},
+                        {"date": "05/27/2025", "action": "Senate Passage", "completed": true},
                         {"date": "06/20/2025", "action": "Signed", "completed": true}
                     ]
                 },
                 {
-                    "bill_number": "HB1217",
-                    "session": "88R",
+                    "bill_number": "HB218",
+                    "session": "89R",
                     "chamber": "House",
-                    "caption": "Relating to early voting administration.",
-                    "description": "Relating to the administration of and procedures relating to early voting by personal appearance.",
-                    "author": "Swanson (House)",
-                    "sponsor": "Kolkhorst (Sen)",
-                    "subjects": ["Elections--Administration", "Elections--Early Voting"],
+                    "caption": "Relating to the residency of election judges and clerks.",
+                    "description": "Relating to the residency of election judges and clerks.",
+                    "author": "Cook (House)",
+                    "sponsor": "Middleton (Sen)",
+                    "subjects": ["Elections--Administration", "Elections--Election Officers"],
                     "house_committee": "Elections",
                     "senate_committee": "State Affairs",
-                    "last_action_date": "06/12/2023",
+                    "last_action_date": "06/20/2025",
                     "status": "Enacted (Signed by Governor)",
                     "status_category": "enacted",
-                    "effective_date": "09/01/23",
-                    "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=88R&Bill=HB1217",
+                    "effective_date": "09/01/25",
+                    "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB218",
                     "history": [
-                        {"date": "01/09/2023", "action": "Filed", "completed": true},
-                        {"date": "03/03/2023", "action": "House Committee", "completed": true},
-                        {"date": "05/08/2023", "action": "House Passage", "completed": true},
-                        {"date": "05/15/2023", "action": "Senate Committee", "completed": true},
-                        {"date": "05/26/2023", "action": "Senate Passage", "completed": true},
-                        {"date": "06/12/2023", "action": "Signed", "completed": true}
+                        {"date": "11/11/2024", "action": "Filed", "completed": true},
+                        {"date": "03/11/2025", "action": "House Committee", "completed": true},
+                        {"date": "05/15/2025", "action": "House Passage", "completed": true},
+                        {"date": "05/21/2025", "action": "Senate Committee", "completed": true},
+                        {"date": "05/28/2025", "action": "Senate Passage", "completed": true},
+                        {"date": "06/20/2025", "action": "Signed", "completed": true}
+                    ]
+                },
+                {
+                    "bill_number": "SB1324",
+                    "session": "89R",
+                    "chamber": "Senate",
+                    "caption": "Relating to procedures for certain voter challenges at a polling place.",
+                    "description": "Relating to procedures for certain voter challenges at a polling place; providing penalties.",
+                    "author": "Middleton (Sen)",
+                    "sponsor": "Cook (House)",
+                    "subjects": ["Elections--Election Officers", "Elections--Voting Procedures", "Crimes"],
+                    "house_committee": "Elections",
+                    "senate_committee": "State Affairs",
+                    "last_action_date": "05/26/2025",
+                    "status": "Enacted (Veto Session)",
+                    "status_category": "enacted",
+                    "effective_date": "09/01/25",
+                    "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB1324",
+                    "history": [
+                        {"date": "03/17/2025", "action": "Filed", "completed": true},
+                        {"date": "04/08/2025", "action": "Senate Committee", "completed": true},
+                        {"date": "05/13/2025", "action": "Senate Passage", "completed": true},
+                        {"date": "05/14/2025", "action": "House Committee", "completed": true},
+                        {"date": "05/26/2025", "action": "Veto Session Passage", "completed": true}
                     ]
                 }
             ]
         };
         
-        function getStatusClass(status) {
-            if (status.includes('Enacted') || status.includes('Signed')) { return 'enacted'; }
-            if (status.includes('Committee') || status.includes('Calendar')) { return 'committee'; }
-            if (status.includes('Failed') || status.includes('Veto')) { return 'failed'; }
-            return 'progress';
+        // Calculate and display stats
+        function renderStats() {
+            const bills = legislationData.bills;
+            const enacted = bills.filter(b => b.status_category === 'enacted').length;
+            const inProgress = bills.filter(b => b.status_category === 'in-progress').length;
+            const senate = bills.filter(b => b.chamber === 'Senate').length;
+            const house = bills.filter(b => b.chamber === 'House').length;
+            
+            const statsHTML = `
+                <div class="stat-card">
+                    <div class="stat-number">${bills.length}</div>
+                    <div class="stat-label">Total Bills</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">${enacted}</div>
+                    <div class="stat-label">Enacted</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">${inProgress}</div>
+                    <div class="stat-label">In Progress</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">${senate}</div>
+                    <div class="stat-label">Senate</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">${house}</div>
+                    <div class="stat-label">House</div>
+                </div>
+            `;
+            
+            document.getElementById('stats').innerHTML = statsHTML;
         }
         
-        function renderBills(bills) {
+        // Render bills
+        function renderBills(filter = 'all') {
             const container = document.getElementById('bills-container');
+            let bills = legislationData.bills;
             
-            if (bills.length === 0) {
-                container.innerHTML = '<p>No bills match the selected filter.</p>';
-                return;
+            // Apply filter
+            if (filter !== 'all') {
+                if (filter === 'senate') {
+                    bills = bills.filter(b => b.chamber === 'Senate');
+                } else if (filter === 'house') {
+                    bills = bills.filter(b => b.chamber === 'House');
+                } else {
+                    bills = bills.filter(b => b.status_category === filter);
+                }
             }
             
+            // Sort by bill number
+            bills.sort((a, b) => a.bill_number.localeCompare(b.bill_number));
+            
             container.innerHTML = bills.map(bill => {
-                const statusClass = getStatusClass(bill.status);
                 const chamberClass = bill.chamber.toLowerCase();
+                const statusClass = bill.status_category;
                 
-                const historyTimeline = bill.history.map((h, i) => {
-                    const isLast = i === bill.history.length - 1;
-                    const dotClass = h.completed ? 'completed' : 'pending';
-                    return `
-                        <div class="timeline-item">
-                            <div class="timeline-dot ${dotClass}"></div>
-                            <span>${h.action} (${h.date})</span>
-                            ${!isLast ? '<span class="timeline-arrow">→</span>' : ''}
-                        </div>
-                    `;
-                }).join('');
+                // Build timeline
+                const timelineHTML = bill.history.map((h, i) => `
+                    <div class="timeline-item">
+                        <span class="timeline-dot ${h.completed ? 'completed' : 'pending'}"></span>
+                        <span>${h.action} (${h.date.split('/')[0]}/${h.date.split('/')[1]})</span>
+                        ${i < bill.history.length - 1 ? '<span class="timeline-arrow">→</span>' : ''}
+                    </div>
+                `).join('');
                 
-                const subjectsHtml = (bill.subjects || []).map(s => 
+                // Subjects tags
+                const subjectsHTML = bill.subjects.map(s => 
                     `<span class="subject-tag">${s}</span>`
                 ).join('');
+                
+                // Additional info
+                let infoHTML = '';
+                if (bill.house_committee_vote) {
+                    infoHTML += `<div class="info-row"><span class="info-label">House Vote:</span><span>${bill.house_committee_vote}</span></div>`;
+                }
+                if (bill.senate_committee_vote) {
+                    infoHTML += `<div class="info-row"><span class="info-label">Senate Vote:</span><span>${bill.senate_committee_vote}</span></div>`;
+                }
+                if (bill.effective_date) {
+                    infoHTML += `<div class="info-row"><span class="info-label">Effective:</span><span>${bill.effective_date}</span></div>`;
+                }
                 
                 return `
                     <div class="bill-card" data-category="${bill.status_category}" data-chamber="${chamberClass}">
                         <div class="bill-header">
                             <div>
                                 <a href="${bill.url}" target="_blank" class="bill-number">${bill.bill_number}</a>
-                                <div class="bill-meta">
-                                    <span class="chamber-badge ${chamberClass}">${bill.chamber}</span>
-                                    <span class="status-badge ${statusClass}">${bill.status}</span>
-                                </div>
+                                <div style="margin-top: 0.5rem; color: var(--text-muted); font-size: 0.8rem;">${bill.caption}</div>
                             </div>
-                            <div style="text-align: right;">
-                                <div style="font-size: 0.85rem; color: #666;">Last Action: ${bill.last_action_date}</div>
-                                ${bill.effective_date ? `<div style="font-size: 0.8rem; color: #28a745;">Effective: ${bill.effective_date}</div>` : ''}
+                            <div class="bill-meta">
+                                <span class="chamber-badge ${chamberClass}">${bill.chamber}</span>
+                                <span class="status-badge ${statusClass}">${bill.status}</span>
                             </div>
                         </div>
                         <div class="bill-body">
-                            <div class="bill-title">${bill.caption}</div>
-                            
-                            <div class="bill-subjects">${subjectsHtml}</div>
-                            
+                            <div class="bill-title">${bill.description}</div>
+                            <div class="bill-subjects">${subjectsHTML}</div>
                             <div class="bill-info">
-                                <div class="info-row">
-                                    <span class="info-label">Author:</span>
-                                    <span>${bill.author}</span>
-                                </div>
-                                ${bill.sponsor ? `
-                                <div class="info-row">
-                                    <span class="info-label">Sponsor:</span>
-                                    <span>${bill.sponsor}</span>
-                                </div>` : ''}
-                                <div class="info-row">
-                                    <span class="info-label">House Comm:</span>
-                                    <span>${bill.house_committee || 'N/A'}</span>
-                                </div>
-                                <div class="info-row">
-                                    <span class="info-label">Senate Comm:</span>
-                                    <span>${bill.senate_committee || 'N/A'}</span>
-                                </div>
+                                <div class="info-row"><span class="info-label">Author:</span><span>${bill.author}</span></div>
+                                ${bill.sponsor ? `<div class="info-row"><span class="info-label">Sponsor:</span><span>${bill.sponsor}</span></div>` : ''}
+                                <div class="info-row"><span class="info-label">Last Action:</span><span>${bill.last_action_date}</span></div>
+                                ${infoHTML}
                             </div>
                         </div>
                         <div class="bill-history">
                             <div class="history-title">Progress Timeline</div>
-                            <div class="timeline">${historyTimeline}</div>
+                            <div class="timeline">${timelineHTML}</div>
                         </div>
                     </div>
                 `;
-            }).join('');
+            }).join('') || '<p style="color: var(--text-muted); text-align: center; padding: 2rem;">No bills match the selected filter.</p>';
         }
         
-        function updateStats() {
-            const bills = legislationData.bills;
-            const stats = {
-                total: bills.length,
-                enacted: bills.filter(b => b.status_category === 'enacted').length,
-                senate: bills.filter(b => b.chamber === 'Senate').length,
-                house: bills.filter(b => b.chamber === 'House').length
-            };
-            
-            document.getElementById('stats').innerHTML = `
-                <div class="stat-card">
-                    <div class="stat-number">${stats.total}</div>
-                    <div class="stat-label">Total Bills</div>
-                </div>
-                <div class="stat-card">
-                    <div class="stat-number">${stats.enacted}</div>
-                    <div class="stat-label">Enacted</div>
-                </div>
-                <div class="stat-card">
-                    <div class="stat-number">${stats.senate}</div>
-                    <div class="stat-label">Senate Bills</div>
-                </div>
-                <div class="stat-card">
-                    <div class="stat-number">${stats.house}</div>
-                    <div class="stat-label">House Bills</div>
-                </div>
-            `;
-        }
-        
-        function filterBills(category) {
-            const bills = legislationData.bills;
-            let filtered = bills;
-            
-            if (category === 'enacted') {
-                filtered = bills.filter(b => b.status_category === 'enacted');
-            } else if (category === 'in-progress') {
-                filtered = bills.filter(b => b.status_category !== 'enacted');
-            } else if (category === 'senate') {
-                filtered = bills.filter(b => b.chamber === 'Senate');
-            } else if (category === 'house') {
-                filtered = bills.filter(b => b.chamber === 'House');
-            }
-            
-            renderBills(filtered);
-        }
-        
-        // Event listeners
-        document.addEventListener('DOMContentLoaded', () => {
-            renderBills(legislationData.bills);
-            updateStats();
-            
-            // Filter buttons
-            document.querySelectorAll('.filter-btn').forEach(btn => {
-                btn.addEventListener('click', () => {
-                    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-                    btn.classList.add('active');
-                    filterBills(btn.dataset.filter);
-                });
+        // Filter button click handlers
+        document.querySelectorAll('.filter-btn').forEach(btn => {
+            btn.addEventListener('click', function() {
+                // Update active state
+                document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                this.classList.add('active');
+                
+                // Apply filter
+                renderBills(this.dataset.filter);
             });
         });
+        
+        // Initialize
+        renderStats();
+        renderBills();
     </script>
 </body>
 </html>

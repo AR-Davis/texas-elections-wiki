@@ -207,6 +207,44 @@
             50% { opacity: 0.5; }
         }
         
+        /* Page Navigation */
+        .page-nav {
+            display: flex;
+            gap: 0.5rem;
+            margin-bottom: 1.5rem;
+            flex-wrap: wrap;
+        }
+        
+        .page-nav-item {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.6rem 1rem;
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            transition: all 0.15s ease;
+        }
+        
+        .page-nav-item:hover {
+            border-color: var(--accent);
+            color: var(--text-primary);
+        }
+        
+        .page-nav-item.active {
+            background: var(--accent);
+            border-color: var(--accent);
+            color: var(--bg-primary);
+        }
+        
+        .page-nav-icon {
+            font-size: 1rem;
+        }
+        
         /* Content Area */
         .content-area {
             flex: 1;
@@ -500,6 +538,18 @@
                 <div class="page-header">
                     <h1>Travis County Early Voting Locations</h1>
                     <p>43 polling places for the 2024 General Election. Any registered voter in Travis County can vote at any location.</p>
+                </div>
+                
+                <!-- Page Navigation -->
+                <div class="page-nav">
+                    <a href="index.html" class="page-nav-item active">
+                        <span class="page-nav-icon">◎</span>
+                        <span>Voting Map</span>
+                    </a>
+                    <a href="legislation.html" class="page-nav-item">
+                        <span class="page-nav-icon">§</span>
+                        <span>Legislation Tracker</span>
+                    </a>
                 </div>
                 
                 <!-- Info Box with Legend -->
