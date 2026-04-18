@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Texas Elections Wiki | State Legislators</title>
+    <meta name="description" content="Texas 89th Legislature membership, leadership, and election calendar">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    
+    <style>
+        :root {
+            --bg-primary: #0d1117;
+            --bg-secondary: #161b22;
+            --bg-tertiary: #21262d;
+            --text-primary: #e6edf3;
+            --text-secondary: #8b949e;
+            --text-muted: #6e7681;
+            --accent: #58a6ff;
+            --border: #30363d;
+            --success: #3fb950;
+            --warning: #d29922;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Inter', sans-serif; background: var(--bg-primary); color: var(--text-primary); line-height: 1.6; }
+        .app-container { display: flex; min-height: 100vh; }
+        .sidebar { width: 260px; background: var(--bg-secondary); border-right: 1px solid var(--border); position: fixed; height: 100vh; overflow-y: auto; display: flex; flex-direction: column; }
+        .sidebar-header { padding: 1.5rem; border-bottom: 1px solid var(--border); }
+        .site-title { font-family: 'JetBrains Mono', monospace; font-size: 1rem; font-weight: 600; }
+        .site-title span { color: var(--accent); }
+        .site-subtitle { font-family: 'JetBrains Mono', monospace; font-size: 0.75rem; color: var(--text-muted); margin-top: 0.25rem; }
+        .nav-section { padding: 1rem 0; }
+        .nav-label { font-family: 'JetBrains Mono', monospace; font-size: 0.7rem; color: var(--text-muted); text-transform: uppercase; padding: 0 1.5rem; margin-bottom: 0.5rem; }
+        .nav-menu { list-style: none; }
+        .nav-menu a { display: flex; align-items: center; gap: 0.75rem; padding: 0.5rem 1.5rem; color: var(--text-secondary); text-decoration: none; font-family: 'JetBrains Mono', monospace; font-size: 0.85rem; border-left: 2px solid transparent; transition: all 0.15s; }
+        .nav-menu a:hover, .nav-menu a.active { color: var(--text-primary); background: var(--bg-tertiary); border-left-color: var(--accent); }
+        .nav-icon { width: 16px; text-align: center; color: var(--text-muted); }
+        .nav-menu a.active .nav-icon { color: var(--accent); }
+        .sidebar-footer { margin-top: auto; padding: 1rem 1.5rem; border-top: 1px solid var(--border); font-family: 'JetBrains Mono', monospace; font-size: 0.75rem; }
+        .sidebar-footer a { color: var(--text-muted); text-decoration: none; }
+        .main-content { flex: 1; margin-left: 260px; display: flex; flex-direction: column; }
+        .top-bar { background: var(--bg-secondary); border-bottom: 1px solid var(--border); padding: 0.75rem 1.5rem; display: flex; justify-content: space-between; align-items: center; }
+        .breadcrumb { font-family: 'JetBrains Mono', monospace; font-size: 0.8rem; color: var(--text-muted); }
+        .content-area { flex: 1; padding: 1.5rem; }
+        .page-header { margin-bottom: 1.5rem; }
+        .page-header h1 { font-size: 1.5rem; font-weight: 600; margin-bottom: 0.5rem; }
+        .page-header p { color: var(--text-secondary); font-size: 0.9rem; }
+        .page-nav { display: flex; gap: 0.5rem; margin-bottom: 1.5rem; flex-wrap: wrap; }
+        .page-nav-item { display: flex; align-items: center; gap: 0.5rem; padding: 0.6rem 1rem; background: var(--bg-secondary); border: 1px solid var(--border); border-radius: 6px; color: var(--text-secondary); text-decoration: none; font-family: 'JetBrains Mono', monospace; font-size: 0.85rem; transition: all 0.15s; }
+        .page-nav-item:hover { border-color: var(--accent); color: var(--text-primary); }
+        .page-nav-item.active { background: var(--accent); border-color: var(--accent); color: var(--bg-primary); }
+        .info-box { background: var(--bg-secondary); border: 1px solid var(--border); border-radius: 6px; margin-bottom: 1.5rem; overflow: hidden; }
+        .info-box-header { background: var(--bg-tertiary); padding: 0.5rem 1rem; border-bottom: 1px solid var(--border); font-family: 'JetBrains Mono', monospace; font-size: 0.75rem; color: var(--text-muted); }
+        .info-box-content { padding: 1rem; }
+        .research-content { max-width: 900px; }
+        .research-content h2 { font-size: 1.25rem; margin: 2rem 0 1rem; color: var(--accent); border-bottom: 1px solid var(--border); padding-bottom: 0.5rem; }
+        .research-content h3 { font-size: 1.1rem; margin: 1.5rem 0 0.75rem; color: var(--text-primary); }
+        .research-content h4 { font-size: 1rem; margin: 1rem 0 0.5rem; color: var(--text-secondary); }
+        .research-content p { margin-bottom: 1rem; color: var(--text-secondary); line-height: 1.7; }
+        .research-content ul { margin: 1rem 0; padding-left: 1.5rem; color: var(--text-secondary); }
+        .research-content li { margin: 0.5rem 0; }
+        .citation { display: block; font-family: 'JetBrains Mono', monospace; font-size: 0.75rem; color: var(--text-muted); margin: 0.5rem 0 1rem; padding-left: 1rem; border-left: 2px solid var(--accent); }
+        table { width: 100%; border-collapse: collapse; margin: 1rem 0; }
+        th, td { padding: 0.75rem; text-align: left; border-bottom: 1px solid var(--border); font-size: 0.9rem; }
+        th { background: var(--bg-tertiary); color: var(--text-muted); font-family: 'JetBrains Mono', monospace; font-size: 0.8rem; text-transform: uppercase; }
+        tr:hover { background: rgba(88, 166, 255, 0.05); }
+        .stat-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 1rem; margin: 1rem 0; }
+        .stat-item { background: var(--bg-tertiary); border: 1px solid var(--border); border-radius: 4px; padding: 1rem; text-align: center; }
+        .stat-value { font-family: 'JetBrains Mono', monospace; font-size: 1.5rem; color: var(--accent); font-weight: 600; }
+        .stat-label { font-size: 0.75rem; color: var(--text-muted); margin-top: 0.25rem; }
+        .r-badge, .d-badge { display: inline-block; padding: 0.2rem 0.5rem; border-radius: 3px; font-family: 'JetBrains Mono', monospace; font-size: 0.75rem; font-weight: 600; }
+        .r-badge { background: rgba(211, 58, 52, 0.2); color: #ff7b72; }
+        .d-badge { background: rgba(47, 129, 247, 0.2); color: #79c0ff; }
+        .highlight-box { background: rgba(210, 153, 34, 0.1); border: 1px solid var(--warning); border-radius: 6px; padding: 1rem; margin: 1rem 0; }
+        footer { background: var(--bg-secondary); border-top: 1px solid var(--border); padding: 1rem 1.5rem; text-align: center; }
+        footer p { color: var(--text-muted); font-size: 0.8rem; font-family: 'JetBrains Mono', monospace; }
+        footer a { color: var(--accent); text-decoration: none; }
+        @media (max-width: 768px) {
+            .sidebar { transform: translateX(-100%); transition: transform 0.2s; z-index: 1000; }
+            .sidebar.open { transform: translateX(0); }
+            .main-content { margin-left: 0; }
+        }
+    </style>
+</head>
+<body>
+    <div class="app-container">
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <div class="site-title">Texas<span>Elections</span>.Wiki</div>
+                <div class="site-subtitle">v1.1.0 — research</div>
+            </div>
+            <nav class="nav-section">
+                <div class="nav-label">Navigation</div>
+                <ul class="nav-menu">
+                    <li><a href="index.html"><span class="nav-icon">◎</span><span>Voting Map</span></a></li>
+                    <li><a href="legislation.html"><span class="nav-icon">§</span><span>Legislation</span></a></li>
+                </ul>
+                <div class="nav-label">Research</div>
+                <ul class="nav-menu">
+                    <li><a href="voting-systems.html"><span class="nav-icon">⊛</span><span>Voting Systems</span></a></li>
+                    <li><a href="county-admin.html"><span class="nav-icon">⌘</span><span>County Admin</span></a></li>
+                    <li><a href="legislators.html" class="active"><span class="nav-icon">⚖</span><span>Legislators</span></a></li>
+                    <li><a href="resources.html"><span class="nav-icon">⎋</span><span>Resources</span></a></li>
+                    <li><a href="about.html"><span class="nav-icon">?</span><span>About</span></a></li>
+                </ul>
+            </nav>
+            <div class="sidebar-footer"><a href="#">Last updated: 2026-04-18</a></div>
+        </aside>
+        
+        <main class="main-content">
+            <div class="top-bar">
+                <div class="breadcrumb"><span>~/</span>research<span>/</span>legislators</div>
+            </div>
+            
+            <div class="content-area">
+                <div class="page-header">
+                    <h1>Texas 89th Legislature (2025)</h1>
+                    <p>Current state legislators, session dates, and election procedures.</p>
+                </div>
+                
+                <div class="page-nav">
+                    <a href="voting-systems.html" class="page-nav-item">Voting Systems</a>
+                    <a href="county-admin.html" class="page-nav-item">County Admin</a>
+                    <a href="legislators.html" class="page-nav-item active">Legislators</a>
+                </div>
+                
+                <div class="info-box">
+                    <div class="info-box-header">$ legislature --status</div>
+                    <div class="info-box-content">
+                        <p><strong>Session:</strong> 89th Legislature | Jan 14 – June 2, 2025 (Regular Session)</p>
+                        <p><strong>Status:</strong> Republican trifecta (governor + both chambers)</p>
+                        <p><strong>Leadership:</strong> Senate President Dan Patrick (R) | House Speaker Dustin Burrows (R)</p>
+                    </div>
+                </div>
+                
+                <div class="research-content">
+                    <h2>Leadership</h2>
+                    
+                    <h3>Speaker Election 2025</h3>
+                    <p>Dustin Burrows (R) elected January 14, 2025, defeating David Cook (R) <strong>85-55</strong> on second ballot. Burrows received 49 Democratic votes and 36 Republican votes. Former Speaker Dade Phelan did not seek a third term.</p>
+                    
+                    <h2>Partisan Composition</h2>
+                    
+                    <table>
+                        <tr><th>Chamber</th><th>Seats</th><th>Republican</th><th>Democratic</th><th>Vacancies</th></tr>
+                        <tr><td>Senate</td><td>31</td><td><span class="r-badge">20 (65%)</span></td><td><span class="d-badge">11 (35%)</span></td><td>1</td></tr>
+                        <tr><td>House</td><td>150</td><td><span class="r-badge">88 (59%)</span></td><td><span class="d-badge">62 (41%)</span></td><td>—</td></tr>
+                    </table>
+                    
+                    <p>No veto-proof supermajority exists in either chamber. Texas is one of 23 Republican state government trifectas nationwide.</p>
+                    
+                    <h2>Membership Demographics</h2>
+                    
+                    <div class="stat-grid">
+                        <div class="stat-item"><div class="stat-value">181</div><div class="stat-label">Total Members</div></div>
+                        <div class="stat-item"><div class="stat-value">120</div><div class="stat-label">Male</div></div>
+                        <div class="stat-item"><div class="stat-value">61</div><div class="stat-label">Female</div></div>
+                        <div class="stat-item"><div class="stat-value">34</div><div class="stat-label">Freshmen</div></div>
+                    </div>
+                    
+                    <h3>Age Distribution</h3>
+                    
+                    <table>
+                        <tr><th>Age Group</th><th>House</th><th>Senate</th><th>Total</th></tr>
+                        <tr><td>Under 30</td><td>1</td><td>0</td><td>1</td></tr>
+                        <tr><td>30-39</td><td>14</td><td>1</td><td>15</td></tr>
+                        <tr><td>40-49</td><td>48</td><td>3</td><td>51</td></tr>
+                        <tr><td>50-59</td><td>37</td><td>9</td><td>46</td></tr>
+                        <tr><td>60-69</td><td>29</td><td>12</td><td>41</td></tr>
+                        <tr><td>70+</td><td>20</td><td>6</td><td>26</td></tr>
+                        <tr><td><strong>Average Age</strong></td><td><strong>54.1</strong></td><td><strong>60.8</strong></td><td><strong>55.2</strong></td></tr>
+                    </table>
+                    
+                    <span class="citation">Source: Legislative Reference Library of Texas, Preview of the 89th Legislature</span>
+                    
+                    <h2>Freshmen Members (34 Total)</h2>
+                    
+                    <h3>House Freshmen (31)</h3>
+                    <ul>
+                        <li>Daniel Alders <span class="r-badge">R</span> HD 6</li>
+                        <li>Jeff Barry <span class="r-badge">R</span> HD 29</li>
+                        <li>Pat Curry <span class="r-badge">R</span> HD 56</li>
+                        <li>Aicha Davis <span class="d-badge">D</span> HD 109</li>
+                        <li>Paul Dyson <span class="r-badge">R</span> HD 14</li>
+                        <li>Caroline Fairly <span class="r-badge">R</span> HD 87</li>
+                        <li>Linda Garcia <span class="d-badge">D</span> HD 107</li>
+                        <li>Cassandra Garcia Hernandez <span class="d-badge">D</span> HD 115</li>
+                        <li>Hillary Hickland <span class="r-badge">R</span> HD 55</li>
+                        <li>Janis Holt <span class="r-badge">R</span> HD 18</li>
+                        <li>Andy Hopper <span class="r-badge">R</span> HD 64</li>
+                        <li>Helen Kerwin <span class="r-badge">R</span> HD 58</li>
+                        <li>Marc LaHood <span class="r-badge">R</span> HD 121</li>
+                        <li>Mitch Little <span class="r-badge">R</span> HD 65</li>
+                        <li>AJ Louderback <span class="r-badge">R</span> HD 30</li>
+                        <li>David Lowe <span class="r-badge">R</span> HD 91</li>
+                        <li>Shelley Luther <span class="r-badge">R</span> HD 62</li>
+                        <li>Don McLaughlin, Jr. <span class="r-badge">R</span> HD 80</li>
+                        <li>John McQueeney <span class="r-badge">R</span> HD 97</li>
+                        <li>Brent Money <span class="r-badge">R</span> HD 2</li>
+                        <li>Matt Morgan <span class="r-badge">R</span> HD 26</li>
+                        <li>Mike Olcott <span class="r-badge">R</span> HD 60</li>
+                        <li>Vince Perez <span class="d-badge">D</span> HD 77</li>
+                        <li>Katrina Pierson <span class="r-badge">R</span> HD 33</li>
+                        <li>Keresa Richardson <span class="r-badge">R</span> HD 61</li>
+                        <li>Joanne Shofner <span class="r-badge">R</span> HD 11</li>
+                        <li>Lauren A. Simmons <span class="d-badge">D</span> HD 146</li>
+                        <li>Denise Villalobos <span class="r-badge">R</span> HD 34</li>
+                        <li>Wes Virdell <span class="r-badge">R</span> HD 53</li>
+                        <li>Charlene Ward Johnson <span class="d-badge">D</span> HD 139</li>
+                        <li>Trey Wharton <span class="r-badge">R</span> HD 12</li>
+                    </ul>
+                    
+                    <h3>Senate Freshmen (3)</h3>
+                    <ul>
+                        <li>Molly Cook <span class="d-badge">D</span> SD 15 (sworn 5/16/2024 after special election)</li>
+                        <li>Brent Hagenbuch <span class="r-badge">R</span> SD 30</li>
+                        <li>Adam Hinojosa <span class="r-badge">R</span> SD 27</li>
+                    </ul>
+                    
+                    <h2>Elections Calendar</h2>
+                    
+                    <div class="highlight-box">
+                        <strong>Next Election:</strong> November 3, 2026 (General Election)<br>
+                        <strong>Filing Deadline:</strong> December 8, 2025<br>
+                        <strong>Primary:</strong> March 3, 2026 | <strong>Runoff:</strong> May 26, 2026
+                    </div>
+                    
+                    <h3>Key Dates (89th Session)</h3>
+                    
+                    <table>
+                        <tr><th>Day</th><th>Date</th><th>Deadline</th></tr>
+                        <tr><td>60th</td><td>~March 15</td><td>First 60 days (emergency items/flood bills only)</td></tr>
+                        <tr><td>118th</td><td>May 11</td><td>Last day for House committees to report HB/HJRs</td></tr>
+                        <tr><td>124th</td><td>May 17</td><td>Last day for House 2nd reading of HB/HJRs</td></tr>
+                        <tr><td>140th</td><td>June 2</td><td>Sine die (adjournment)</td></tr>
+                    </table>
+                    
+                    <span class="citation">Source: 89th Legislature Deadline Action Calendar, Texas Legislative Reference Library</span>
+                    
+                    <h2>Sources</h2>
+                    
+                    <div class="info-box">
+                        <div class="info-box-content">
+                            <p><strong>1.</strong> Ballotpedia. "2025 Texas legislative session." https://ballotpedia.org/2025_Texas_legislative_session</p>
+                            <p><strong>2.</strong> Legislative Reference Library of Texas. "Preview of the 89th Legislature." https://lrl.texas.gov/whatsNew/client/index.cfm/2025/1/14/Preview-of-the-89th-Legislature</p>
+                            <p><strong>3.</strong> Texas Legislative Reference Library. "89th Legislature - Deadline Action Calendar." https://lrl.texas.gov/scanned/calendars/2025DeadlineActionCalendar.pdf</p>
+                        </div>
+                    </div>
+                    
+                    <p><em>Document compiled: April 18, 2026. Next update: Post-November 2026 general election.</em></p>
+                </div>
+            </div>
+            
+            <footer>
+                <p>Data: <a href="../docs/research/state_legislators.md">Source MD</a> | <a href="https://github.com/AR-Davis/texas-elections-wiki">GitHub</a></p>
+            </footer>
+        </main>
+    </div>
+</body>
+</html>

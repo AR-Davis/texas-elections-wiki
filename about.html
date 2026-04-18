@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Texas Elections Wiki | About</title>
+    <meta name="description" content="About the Texas Elections Research Wiki">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    
+    <style>
+        :root {
+            --bg-primary: #0d1117;
+            --bg-secondary: #161b22;
+            --bg-tertiary: #21262d;
+            --text-primary: #e6edf3;
+            --text-secondary: #8b949e;
+            --text-muted: #6e7681;
+            --accent: #58a6ff;
+            --border: #30363d;
+            --success: #3fb950;
+        }
+        
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Inter', sans-serif; background: var(--bg-primary); color: var(--text-primary); line-height: 1.6; }
+        .app-container { display: flex; min-height: 100vh; }
+        .sidebar { width: 260px; background: var(--bg-secondary); border-right: 1px solid var(--border); position: fixed; height: 100vh; overflow-y: auto; display: flex; flex-direction: column; }
+        .sidebar-header { padding: 1.5rem; border-bottom: 1px solid var(--border); }
+        .site-title { font-family: 'JetBrains Mono', monospace; font-size: 1rem; font-weight: 600; }
+        .site-title span { color: var(--accent); }
+        .site-subtitle { font-family: 'JetBrains Mono', monospace; font-size: 0.75rem; color: var(--text-muted); margin-top: 0.25rem; }
+        .nav-section { padding: 1rem 0; }
+        .nav-label { font-family: 'JetBrains Mono', monospace; font-size: 0.7rem; color: var(--text-muted); text-transform: uppercase; padding: 0 1.5rem; margin-bottom: 0.5rem; }
+        .nav-menu { list-style: none; }
+        .nav-menu a { display: flex; align-items: center; gap: 0.75rem; padding: 0.5rem 1.5rem; color: var(--text-secondary); text-decoration: none; font-family: 'JetBrains Mono', monospace; font-size: 0.85rem; border-left: 2px solid transparent; transition: all 0.15s; }
+        .nav-menu a:hover, .nav-menu a.active { color: var(--text-primary); background: var(--bg-tertiary); border-left-color: var(--accent); }
+        .nav-icon { width: 16px; text-align: center; color: var(--text-muted); }
+        .nav-menu a.active .nav-icon { color: var(--accent); }
+        .sidebar-footer { margin-top: auto; padding: 1rem 1.5rem; border-top: 1px solid var(--border); font-family: 'JetBrains Mono', monospace; font-size: 0.75rem; }
+        .sidebar-footer a { color: var(--text-muted); text-decoration: none; }
+        .main-content { flex: 1; margin-left: 260px; display: flex; flex-direction: column; }
+        .top-bar { background: var(--bg-secondary); border-bottom: 1px solid var(--border); padding: 0.75rem 1.5rem; display: flex; justify-content: space-between; align-items: center; }
+        .breadcrumb { font-family: 'JetBrains Mono', monospace; font-size: 0.8rem; color: var(--text-muted); }
+        .content-area { flex: 1; padding: 2rem; max-width: 800px; }
+        .page-header { margin-bottom: 2rem; }
+        .page-header h1 { font-size: 1.75rem; margin-bottom: 0.5rem; }
+        .page-header h1 span { color: var(--accent); }
+        .page-header p { color: var(--text-secondary); }
+        
+        h2 { font-size: 1.25rem; margin: 2rem 0 1rem; color: var(--accent); border-bottom: 1px solid var(--border); padding-bottom: 0.5rem; }
+        h3 { font-size: 1rem; margin: 1.5rem 0 0.75rem; color: var(--text-primary); font-weight: 600; }
+        p { margin-bottom: 1rem; color: var(--text-secondary); line-height: 1.7; }
+        
+        .feature-list { margin: 1rem 0; padding-left: 1.5rem; color: var(--text-secondary); }
+        .feature-list li { margin: 0.75rem 0; }
+        .feature-list li strong { color: var(--text-primary); font-weight: 500; }
+        
+        .stat-row { display: flex; gap: 1.5rem; margin: 1.5rem 0; flex-wrap: wrap; }
+        .stat-item { background: var(--bg-tertiary); border-radius: 6px; padding: 1rem 1.5rem; min-width: 120px; }
+        .stat-value { font-family: 'JetBrains Mono', monospace; font-size: 1.5rem; color: var(--accent); font-weight: 600; }
+        .stat-label { font-size: 0.75rem; color: var(--text-muted); margin-top: 0.25rem; text-transform: uppercase; }
+        
+        .info-box { background: var(--bg-secondary); border: 1px solid var(--border); border-radius: 6px; padding: 1.5rem; margin: 1.5rem 0; }
+        .info-box h3 { margin-top: 0; }
+        
+        code { background: var(--bg-tertiary); padding: 0.2rem 0.4rem; border-radius: 3px; font-family: 'JetBrains Mono', monospace; font-size: 0.85rem; color: var(--accent); }
+        
+        footer { background: var(--bg-secondary); border-top: 1px solid var(--border); padding: 1rem 1.5rem; text-align: center; }
+        footer p { color: var(--text-muted); font-size: 0.8rem; font-family: 'JetBrains Mono', monospace; margin: 0.5rem 0; }
+        footer a { color: var(--accent); text-decoration: none; }
+        
+        @media (max-width: 768px) {
+            .sidebar { transform: translateX(-100%); transition: transform 0.2s; z-index: 1000; }
+            .sidebar.open { transform: translateX(0); }
+            .main-content { margin-left: 0; }
+        }
+    </style>
+</head>
+<body>
+    <div class="app-container">
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <div class="site-title">Texas<span>Elections</span>.Wiki</div>
+                <div class="site-subtitle">v1.1.0 — research</div>
+            </div>
+            <nav class="nav-section">
+                <div class="nav-label">Navigation</div>
+                <ul class="nav-menu">
+                    <li><a href="index.html"><span class="nav-icon">◎</span><span>Voting Map</span></a></li>
+                    <li><a href="legislation.html"><span class="nav-icon">§</span><span>Legislation</span></a></li>
+                    <li><a href="resources.html"><span class="nav-icon">⌘</span><span>Resources</span></a></li>
+                    <li><a href="about.html" class="active"><span class="nav-icon">?</span><span>About</span></a></li>
+                </ul>
+                <div class="nav-label">Research</div>
+                <ul class="nav-menu">
+                    <li><a href="voting-systems.html"><span class="nav-icon">⊛</span><span>Voting Systems</span></a></li>
+                    <li><a href="county-admin.html"><span class="nav-icon">⌘</span><span>County Admin</span></a></li>
+                    <li><a href="legislators.html"><span class="nav-icon">⚖</span><span>Legislators</span></a></li>
+                </ul>
+            </nav>
+            <div class="sidebar-footer"><a href="#">Last updated: 2026-04-18</a></div>
+        </aside>
+        
+        <main class="main-content">
+            <div class="top-bar">
+                <div class="breadcrumb"><span>~/</span>about</div>
+            </div>
+            
+            <div class="content-area">
+                <div class="page-header">
+                    <h1>About <span>TexasElections.Wiki</span></h1>
+                    <p>Nonpartisan election research and civic data platform</p>
+                </div>
+                
+                <h2>Project Mission</h2>
+                <p>This wiki serves as a centralized, nonpartisan resource for Texas election information—combining official data with research citations to provide accurate, accessible civic knowledge.</p>
+                
+                <div class="stat-row">
+                    <div class="stat-item">
+                        <div class="stat-value">254</div>
+                        <div class="stat-label">Texas Counties</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-value">17M</div>
+                        <div class="stat-label">Registered Voters</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-value">181</div>
+                        <div class="stat-label">State Legislators</div>
+                    </div>
+                </div>
+                
+                <h2>Data Sources</h2>
+                <ul class="feature-list">
+                    <li><strong>Texas Legislature Online:</strong> Bill status, committee information, voting records</li>
+                    <li><strong>Texas Secretary of State:</strong> Election results, voting systems certification</li>
+                    <li><strong>County Election Officials:</strong> Polling locations, early voting procedures</li>
+                    <li><strong>Ballotpedia:</strong> Candidate information, election calendar</li>
+                    <li><strong>Legislative Reference Library:</strong> Historical election data, membership statistics</li>
+                </ul>
+                
+                <h2>Research Standards</h2>
+                <div class="info-box">
+                    <h3>Citation Policy</h3>
+                    <p>All factual claims include inline citations to primary sources. Research documents are versioned with compilation dates. Legal analysis references specific code sections and case citations.</p>
+                </div>
+                
+                <h2>Contributing</h2>
+                <p>This is an open research project. Contributions via pull request welcome:</p>
+                <ul class="feature-list">
+                    <li>Corrections to election data</li>
+                    <li>Documented research on contested races</li>
+                    <li>Legislative tracking updates</li>
+                    <li>County-specific election procedures</li>
+                </ul>
+                
+                <h2>Version History</h2>
+                <ul class="feature-list">
+                    <li><strong>v1.1.0 (Apr 2026):</strong> Research integration — voting systems, county administration, legislators</li>
+                    <li><strong>v1.0.0 (Apr 2026):</strong> Initial launch — Travis County voting map, legislation tracker</li>
+                </ul>
+            </div>
+            
+            <footer>
+                <p>Open source under MIT License</p>
+                <p><a href="https://github.com/AR-Davis/texas-elections-wiki">GitHub Repository</a></p>
+            </footer>
+        </main>
+    </div>
+</body>
+</html>

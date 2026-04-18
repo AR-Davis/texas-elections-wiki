@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Texas Elections Wiki | Resources</title>
+    <meta name="description" content="Official resources and FAQs for Texas elections">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    
+    <style>
+        :root {
+            --bg-primary: #0d1117;
+            --bg-secondary: #161b22;
+            --bg-tertiary: #21262d;
+            --text-primary: #e6edf3;
+            --text-secondary: #8b949e;
+            --text-muted: #6e7681;
+            --accent: #58a6ff;
+            --border: #30363d;
+            --warning: #d29922;
+            --success: #3fb950;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Inter', sans-serif; background: var(--bg-primary); color: var(--text-primary); line-height: 1.6; }
+        .app-container { display: flex; min-height: 100vh; }
+        .sidebar { width: 260px; background: var(--bg-secondary); border-right: 1px solid var(--border); position: fixed; height: 100vh; overflow-y: auto; display: flex; flex-direction: column; }
+        .sidebar-header { padding: 1.5rem; border-bottom: 1px solid var(--border); }
+        .site-title { font-family: 'JetBrains Mono', monospace; font-size: 1rem; font-weight: 600; }
+        .site-title span { color: var(--accent); }
+        .site-subtitle { font-family: 'JetBrains Mono', monospace; font-size: 0.75rem; color: var(--text-muted); margin-top: 0.25rem; }
+        .nav-section { padding: 1rem 0; }
+        .nav-label { font-family: 'JetBrains Mono', monospace; font-size: 0.7rem; color: var(--text-muted); text-transform: uppercase; padding: 0 1.5rem; margin-bottom: 0.5rem; }
+        .nav-menu { list-style: none; }
+        .nav-menu a { display: flex; align-items: center; gap: 0.75rem; padding: 0.5rem 1.5rem; color: var(--text-secondary); text-decoration: none; font-family: 'JetBrains Mono', monospace; font-size: 0.85rem; border-left: 2px solid transparent; transition: all 0.15s; }
+        .nav-menu a:hover, .nav-menu a.active { color: var(--text-primary); background: var(--bg-tertiary); border-left-color: var(--accent); }
+        .nav-icon { width: 16px; text-align: center; color: var(--text-muted); }
+        .nav-menu a.active .nav-icon { color: var(--accent); }
+        .sidebar-footer { margin-top: auto; padding: 1rem 1.5rem; border-top: 1px solid var(--border); font-family: 'JetBrains Mono', monospace; font-size: 0.75rem; }
+        .sidebar-footer a { color: var(--text-muted); text-decoration: none; }
+        .main-content { flex: 1; margin-left: 260px; display: flex; flex-direction: column; }
+        .top-bar { background: var(--bg-secondary); border-bottom: 1px solid var(--border); padding: 0.75rem 1.5rem; display: flex; justify-content: space-between; align-items: center; }
+        .breadcrumb { font-family: 'JetBrains Mono', monospace; font-size: 0.8rem; color: var(--text-muted); }
+        .content-area { flex: 1; padding: 1.5rem; }
+        .page-header { margin-bottom: 1.5rem; }
+        .page-header h1 { font-size: 1.5rem; font-weight: 600; margin-bottom: 0.5rem; }
+        .page-header p { color: var(--text-secondary); font-size: 0.9rem; }
+        
+        .page-nav { display: flex; gap: 0.5rem; margin-bottom: 1.5rem; flex-wrap: wrap; }
+        .page-nav-item { display: flex; align-items: center; gap: 0.5rem; padding: 0.6rem 1rem; background: var(--bg-secondary); border: 1px solid var(--border); border-radius: 6px; color: var(--text-secondary); text-decoration: none; font-family: 'JetBrains Mono', monospace; font-size: 0.85rem; transition: all 0.15s; }
+        .page-nav-item:hover { border-color: var(--accent); color: var(--text-primary); }
+        .page-nav-item.active { background: var(--accent); border-color: var(--accent); color: var(--bg-primary); }
+        
+        .resource-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin-top: 1.5rem; }
+        .resource-card { background: var(--bg-secondary); border: 1px solid var(--border); border-radius: 6px; overflow: hidden; }
+        .resource-header { background: var(--bg-tertiary); padding: 0.75rem 1rem; border-bottom: 1px solid var(--border); font-family: 'JetBrains Mono', monospace; font-size: 0.8rem; color: var(--text-muted); text-transform: uppercase; }
+        .resource-content { padding: 1rem; }
+        .resource-content h3 { font-size: 1rem; margin-bottom: 0.5rem; color: var(--accent); }
+        .resource-list { list-style: none; }
+        .resource-list li { margin: 0.75rem 0; }
+        .resource-list a { color: var(--text-secondary); text-decoration: none; display: flex; align-items: center; gap: 0.5rem; }
+        .resource-list a:hover { color: var(--accent); }
+        .resource-list a::before { content: "→"; color: var(--text-muted); }
+        
+        .faq-item { background: var(--bg-secondary); border: 1px solid var(--border); border-radius: 6px; margin-bottom: 1rem; }
+        .faq-question { padding: 1rem; cursor: pointer; display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid transparent; }
+        .faq-question h4 { font-size: 0.95rem; font-weight: 500; color: var(--text-primary); }
+        .faq-question::after { content: "+"; font-family: 'JetBrains Mono', monospace; color: var(--accent); font-size: 1.2rem; transition: transform 0.2s; }
+        .faq-item.active .faq-question::after { transform: rotate(45deg); }
+        .faq-item.active .faq-question { border-bottom-color: var(--border); }
+        .faq-answer { padding: 0; max-height: 0; overflow: hidden; transition: max-height 0.3s, padding 0.3s; }
+        .faq-item.active .faq-answer { padding: 1rem; max-height: 500px; }
+        .faq-answer p { color: var(--text-secondary); font-size: 0.9rem; line-height: 1.7; }
+        
+        .info-box { background: rgba(210, 153, 34, 0.1); border: 1px solid var(--warning); border-radius: 6px; padding: 1rem; margin-bottom: 1.5rem; }
+        .info-box p { color: var(--text-secondary); font-size: 0.85rem; margin: 0; }
+        
+        footer { background: var(--bg-secondary); border-top: 1px solid var(--border); padding: 1rem 1.5rem; text-align: center; }
+        footer p { color: var(--text-muted); font-size: 0.8rem; font-family: 'JetBrains Mono', monospace; }
+        footer a { color: var(--accent); text-decoration: none; }
+        
+        @media (max-width: 768px) {
+            .sidebar { transform: translateX(-100%); transition: transform 0.2s; z-index: 1000; }
+            .sidebar.open { transform: translateX(0); }
+            .main-content { margin-left: 0; }
+        }
+    </style>
+</head>
+<body>
+    <div class="app-container">
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <div class="site-title">Texas<span>Elections</span>.Wiki</div>
+                <div class="site-subtitle">v1.1.0 — research</div>
+            </div>
+            <nav class="nav-section">
+                <div class="nav-label">Navigation</div>
+                <ul class="nav-menu">
+                    <li><a href="index.html"><span class="nav-icon">◎</span><span>Voting Map</span></a></li>
+                    <li><a href="legislation.html"><span class="nav-icon">§</span><span>Legislation</span></a></li>
+                    <li><a href="resources.html" class="active"><span class="nav-icon">⌘</span><span>Resources</span></a></li>
+                    <li><a href="about.html"><span class="nav-icon">?</span><span>About</span></a></li>
+                </ul>
+                <div class="nav-label">Research</div>
+                <ul class="nav-menu">
+                    <li><a href="voting-systems.html"><span class="nav-icon">⊛</span><span>Voting Systems</span></a></li>
+                    <li><a href="county-admin.html"><span class="nav-icon">⌘</span><span>County Admin</span></a></li>
+                    <li><a href="legislators.html"><span class="nav-icon">⚖</span><span>Legislators</span></a></li>
+                </ul>
+            </nav>
+            <div class="sidebar-footer"><a href="#">Last updated: 2026-04-18</a></div>
+        </aside>
+        
+        <main class="main-content">
+            <div class="top-bar">
+                <div class="breadcrumb"><span>~/</span>resources</div>
+            </div>
+            
+            <div class="content-area">
+                <div class="page-header">
+                    <h1>Official Resources & FAQs</h1>
+                    <p>Verified links and frequently asked questions about Texas elections.</p>
+                </div>
+                
+                <div class="page-nav">
+                    <a href="#official-links" class="page-nav-item">Official Links</a>
+                    <a href="#faqs" class="page-nav-item">FAQs</a>
+                    <a href="#research" class="page-nav-item">Research Access</a>
+                </div>
+                
+                <div class="info-box">
+                    <p><strong>Data Verification:</strong> All official links verified as of April 2026. Always verify current status at <a href="https://www.sos.state.tx.us/elections/" style="color: var(--accent);" target="_blank">sos.state.tx.us</a>.</p>
+                </div>
+                
+                <div class="resource-grid" id="official-links">
+                    <div class="resource-card">
+                        <div class="resource-header">$ state.sources</div>
+                        <div class="resource-content">
+                            <h3>Texas State Government</h3>
+                            <ul class="resource-list">
+                                <li><a href="https://www.sos.state.tx.us/elections/" target="_blank">Secretary of State Elections Division</a></li>
+                                <li><a href="https://capitol.texas.gov" target="_blank">Texas Legislature Online</a></li>
+                                <li><a href="https://www.lrl.texas.gov" target="_blank">Legislative Reference Library</a></li>
+                                <li><a href="https://voterportal.sos.texas.gov" target="_blank">Texas Voter Portal</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="resource-card">
+                        <div class="resource-header">$ county.sources</div>
+                        <div class="resource-content">
+                            <h3>Major County Election Offices</h3>
+                            <ul class="resource-list">
+                                <li><a href="https://votetravis.gov" target="_blank">Travis County Clerk</a></li>
+                                <li><a href="https://www.harrisvotes.com" target="_blank">Harris County Elections</a></li>
+                                <li><a href="https://www.dallascounty.org/departments/dc-elections/" target="_blank">Dallas County Elections</a></li>
+                                <li><a href="https://www.bexar.org/2296/Elections-Department" target="_blank">Bexar County Elections</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="resource-card">
+                        <div class="resource-header">$ research.sources</div>
+                        <div class="resource-content">
+                            <h3>Research & Data</h3>
+                            <ul class="resource-list">
+                                <li><a href="https://ballotpedia.org/Texas" target="_blank">Ballotpedia Texas</a></li>
+                                <li><a href="https://www.followthemoney.org" target="_blank">FollowTheMoney.org</a></li>
+                                <li><a href="https://www.texastribune.org" target="_blank">Texas Tribune</a></li>
+                                <li><a href="https://elections.sos.texas.gov" target="_blank">Election Results Archive</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                
+                <h2 id="faqs" style="margin-top: 2rem;">Frequently Asked Questions</h2>
+                
+                <div class="faq-item">
+                    <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
+                        <h4>When are the next Texas elections?</h4>
+                    </div>
+                    <div class="faq-answer">
+                        <p>The next general election is <strong>November 3, 2026</strong> (federal/state/county offices). Primary elections will be held March 3, 2026 with runoffs May 26, 2026. Uniform elections for political subdivisions occur on May 2, 2026.</p>
+                    </div>
+                </div>
+                
+                <div class="faq-item">
+                    <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
+                        <h4>How do I register to vote in Texas?</h4>
+                    </div>
+                    <div class="faq-answer">
+                        <p>Texas requires voters to register at least 30 days before an election. You can register by mail using Form H-13 (available at <a href="https://www.sos.state.tx.us/elections/forms/" style="color: var(--accent);" target="_blank">sos.state.tx.us</a>) or in person at your county voter registrar's office. Texas does not currently offer online voter registration.</p>
+                    </div>
+                </div>
+                
+                <div class="faq-item">
+                    <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
+                        <h4>What ID do I need to vote?</h4>
+                    </div>
+                    <div class="faq-answer">
+                        <p>Texas requires photo ID: Texas driver's license, Texas Election Identification Certificate, Texas personal ID card, handgun license, military ID, citizenship certificate, or passport. Voters without acceptable ID may vote provisionally if they fill out a Reasonable Impediment Declaration.</p>
+                    </div>
+                </div>
+                
+                <div class="faq-item">
+                    <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
+                        <h4>How do I vote by mail?</h4>
+                    </div>
+                    <div class="faq-answer">
+                        <p>Texas restricts mail ballots to: 65+, disabled, out of county during election, incarcerated but eligible, or expected childbirth. Submit Application for Ballot by Mail (ABBM) to your county clerk starting January 1 of election year. Deadline is Feb 21 for March 3, 2026 primary.</p>
+                    </div>
+                </div>
+                
+                <div class="faq-item">
+                    <div class="faq-question" onclick="this.parentElement.classList.toggle('active')">
+                        <h4>Who is my state representative?</h4>
+                    </div>
+                    <div class="faq-answer">
+                        <p>Find your representatives at <a href="https://capitol.texas.gov" style="color: var(--accent);" target="_blank">capitol.texas.gov</a> using the "Who Represents Me?" tool. The Texas Legislature has 150 House districts and 31 Senate districts.</p>
+                    </div>
+                </div>
+                
+                <h2 id="research" style="margin-top: 2rem;">Research Access</h2>
+                
+                <div class="resource-grid">
+                    <div class="resource-card">
+                        <div class="resource-header">$ wiki.research</div>
+                        <div class="resource-content">
+                            <h3>Research Documents</h3>
+                            <ul class="resource-list">
+                                <li><a href="../docs/research/voting_systems_redistricting.md" target="_blank">Voting Systems & Redistricting (Markdown)</a></li>
+                                <li><a href="../docs/research/county_administration.md" target="_blank">County Administration (Markdown)</a></li>
+                                <li><a href="../docs/research/state_legislators.md" target="_blank">State Legislators (Markdown)</a></li>
+                                <li><a href="../docs/research/DEPLOY_LOG.md" target="_blank">Research Log</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <footer>
+                <p>Data: <a href="https://sos.state.tx.us" target="_blank">sos.state.tx.us</a> | <a href="https://github.com/AR-Davis/texas-elections-wiki">GitHub</a></p>
+            </footer>
+        </main>
+    </div>
+</body>
+</html>
