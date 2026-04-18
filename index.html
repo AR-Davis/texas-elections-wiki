@@ -9,10 +9,28 @@
     <!-- Leaflet CSS -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
     
-    <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&display=swap" rel="stylesheet">
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
     
     <style>
+        :root {
+            --bg-primary: #0d1117;
+            --bg-secondary: #161b22;
+            --bg-tertiary: #21262d;
+            --text-primary: #e6edf3;
+            --text-secondary: #8b949e;
+            --text-muted: #6e7681;
+            --accent: #58a6ff;
+            --accent-dim: #388bfd;
+            --border: #30363d;
+            --success: #3fb950;
+            --warning: #d29922;
+            --extended: #d29922;
+            --regular: #58a6ff;
+        }
+        
         * {
             margin: 0;
             padding: 0;
@@ -20,74 +38,230 @@
         }
         
         body {
-            font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, sans-serif;
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
             line-height: 1.6;
-            color: #1a1a1a;
-            background: #f5f5f5;
+            min-height: 100vh;
         }
         
-        /* Header */
-        header {
-            background: #1a1a1a;
-            color: white;
-            padding: 1rem 1.5rem;
+        /* Layout */
+        .app-container {
             display: flex;
-            justify-content: space-between;
-            align-items: center;
-            flex-wrap: wrap;
-            gap: 1rem;
+            min-height: 100vh;
+        }
+        
+        /* Sidebar */
+        .sidebar {
+            width: 260px;
+            background: var(--bg-secondary);
+            border-right: 1px solid var(--border);
+            display: flex;
+            flex-direction: column;
+            position: fixed;
+            height: 100vh;
+            overflow-y: auto;
+        }
+        
+        .sidebar-header {
+            padding: 1.5rem;
+            border-bottom: 1px solid var(--border);
         }
         
         .site-title {
-            font-size: 1.25rem;
-            font-weight: 700;
-            letter-spacing: -0.02em;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 1rem;
+            font-weight: 600;
+            color: var(--text-primary);
         }
         
         .site-title span {
-            color: #c9a227;
+            color: var(--accent);
         }
         
-        nav {
-            display: flex;
-            gap: 1.5rem;
+        .site-subtitle {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            margin-top: 0.25rem;
         }
         
-        nav a {
-            color: rgba(255,255,255,0.8);
-            text-decoration: none;
-            font-size: 0.9rem;
-            transition: color 0.2s;
+        .nav-section {
+            padding: 1rem 0;
         }
         
-        nav a:hover {
-            color: white;
-        }
-        
-        /* Intro Section */
-        .intro {
-            background: white;
-            padding: 2rem 1.5rem;
-            border-bottom: 1px solid #e0e0e0;
-        }
-        
-        .intro h1 {
-            font-size: 1.75rem;
-            font-weight: 700;
+        .nav-label {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.7rem;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            padding: 0 1.5rem;
             margin-bottom: 0.5rem;
-            color: #1a1a1a;
         }
         
-        .intro p {
-            color: #666;
-            max-width: 600px;
+        .nav-menu {
+            list-style: none;
+        }
+        
+        .nav-menu li {
+            margin: 0;
+        }
+        
+        .nav-menu a {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            padding: 0.5rem 1.5rem;
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            transition: all 0.15s ease;
+            border-left: 2px solid transparent;
+        }
+        
+        .nav-menu a:hover,
+        .nav-menu a.active {
+            color: var(--text-primary);
+            background: var(--bg-tertiary);
+            border-left-color: var(--accent);
+        }
+        
+        .nav-icon {
+            width: 16px;
+            text-align: center;
+            color: var(--text-muted);
+        }
+        
+        .nav-menu a:hover .nav-icon,
+        .nav-menu a.active .nav-icon {
+            color: var(--accent);
+        }
+        
+        .sidebar-footer {
+            margin-top: auto;
+            padding: 1rem 1.5rem;
+            border-top: 1px solid var(--border);
+        }
+        
+        .sidebar-footer a {
+            color: var(--text-muted);
+            text-decoration: none;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.75rem;
+            transition: color 0.15s;
+        }
+        
+        .sidebar-footer a:hover {
+            color: var(--accent);
+        }
+        
+        /* Main Content */
+        .main-content {
+            flex: 1;
+            margin-left: 260px;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        /* Top Bar */
+        .top-bar {
+            background: var(--bg-secondary);
+            border-bottom: 1px solid var(--border);
+            padding: 0.75rem 1.5rem;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        
+        .breadcrumb {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.8rem;
+            color: var(--text-muted);
+        }
+        
+        .breadcrumb span {
+            color: var(--text-secondary);
+        }
+        
+        .status-indicator {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.75rem;
+            color: var(--text-muted);
+        }
+        
+        .status-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: var(--success);
+            animation: pulse 2s infinite;
+        }
+        
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+        
+        /* Content Area */
+        .content-area {
+            flex: 1;
+            padding: 1.5rem;
+            overflow-y: auto;
+        }
+        
+        .page-header {
+            margin-bottom: 1.5rem;
+        }
+        
+        .page-header h1 {
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: var(--text-primary);
+            margin-bottom: 0.5rem;
+        }
+        
+        .page-header p {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+        }
+        
+        /* Terminal-style info box */
+        .info-box {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            margin-bottom: 1.5rem;
+            overflow: hidden;
+        }
+        
+        .info-box-header {
+            background: var(--bg-tertiary);
+            padding: 0.5rem 1rem;
+            border-bottom: 1px solid var(--border);
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        
+        .info-box-header span {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.75rem;
+            color: var(--text-muted);
+        }
+        
+        .info-box-content {
+            padding: 1rem;
         }
         
         /* Legend */
         .legend {
             display: flex;
             gap: 2rem;
-            margin-top: 1rem;
             flex-wrap: wrap;
         }
         
@@ -95,71 +269,94 @@
             display: flex;
             align-items: center;
             gap: 0.5rem;
-            font-size: 0.9rem;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.8rem;
+            color: var(--text-secondary);
         }
         
         .legend-marker {
-            width: 14px;
-            height: 14px;
+            width: 12px;
+            height: 12px;
             border-radius: 50%;
+            border: 2px solid;
         }
         
         .legend-marker.extended {
-            background: #c9a227;
-            border: 2px solid #a88418;
+            background: var(--extended);
+            border-color: var(--extended);
+            box-shadow: 0 0 8px rgba(210, 153, 34, 0.5);
         }
         
         .legend-marker.regular {
-            background: #1e3a8a;
-            border: 2px solid #152c6b;
+            background: var(--regular);
+            border-color: var(--regular);
+            box-shadow: 0 0 8px rgba(88, 166, 255, 0.5);
         }
         
-        /* Map Container */
+        /* Map */
         #map {
-            height: 65vh;
+            height: 60vh;
             min-height: 400px;
-            background: #e8e8e8;
+            background: var(--bg-tertiary);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+        }
+        
+        /* Leaflet overrides for dark theme */
+        .leaflet-popup-content-wrapper {
+            background: var(--bg-secondary);
+            color: var(--text-primary);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+        }
+        
+        .leaflet-popup-tip {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
         }
         
         /* Popup Styles */
         .location-popup h3 {
-            font-size: 1.1rem;
-            font-weight: 700;
+            font-size: 1rem;
+            font-weight: 600;
             margin-bottom: 0.5rem;
-            color: #1a1a1a;
-            line-height: 1.3;
+            color: var(--text-primary);
         }
         
         .location-popup .address {
-            color: #555;
-            font-size: 0.9rem;
+            color: var(--text-secondary);
+            font-size: 0.85rem;
             margin-bottom: 0.25rem;
+            font-family: 'JetBrains Mono', monospace;
         }
         
         .location-popup .room {
-            color: #888;
-            font-size: 0.85rem;
-            font-style: italic;
+            color: var(--text-muted);
+            font-size: 0.8rem;
             margin-bottom: 0.75rem;
         }
         
         .location-popup .hours {
-            background: #f5f5f5;
-            padding: 0.5rem;
+            background: var(--bg-tertiary);
+            border: 1px solid var(--border);
             border-radius: 4px;
-            font-size: 0.85rem;
+            padding: 0.5rem;
+            font-size: 0.8rem;
             margin-bottom: 0.75rem;
+            font-family: 'JetBrains Mono', monospace;
         }
         
         .location-popup .extended-badge {
-            background: #c9a227;
-            color: #1a1a1a;
+            background: rgba(210, 153, 34, 0.2);
+            border: 1px solid var(--extended);
+            color: var(--extended);
             font-size: 0.75rem;
-            font-weight: 600;
+            font-weight: 500;
             padding: 0.25rem 0.5rem;
             border-radius: 3px;
             display: inline-block;
             margin-bottom: 0.75rem;
+            font-family: 'JetBrains Mono', monospace;
         }
         
         .location-popup .info-section {
@@ -167,95 +364,174 @@
         }
         
         .location-popup .info-label {
-            font-size: 0.75rem;
-            font-weight: 700;
+            font-size: 0.7rem;
+            font-weight: 600;
             text-transform: uppercase;
             letter-spacing: 0.05em;
-            color: #888;
+            color: var(--text-muted);
             margin-bottom: 0.25rem;
         }
         
         .location-popup .info-text {
-            font-size: 0.85rem;
-            color: #555;
+            font-size: 0.8rem;
+            color: var(--text-secondary);
         }
         
         /* Footer */
         footer {
-            background: #1a1a1a;
-            color: rgba(255,255,255,0.7);
-            padding: 1.5rem;
+            background: var(--bg-secondary);
+            border-top: 1px solid var(--border);
+            padding: 1rem 1.5rem;
             text-align: center;
-            font-size: 0.85rem;
+        }
+        
+        footer p {
+            color: var(--text-muted);
+            font-size: 0.8rem;
+            font-family: 'JetBrains Mono', monospace;
         }
         
         footer a {
-            color: #c9a227;
+            color: var(--accent);
             text-decoration: none;
         }
         
-        /* Mobile Responsive */
-        @media (max-width: 600px) {
-            header {
-                padding: 1rem;
+        footer a:hover {
+            text-decoration: underline;
+        }
+        
+        /* Mobile */
+        @media (max-width: 768px) {
+            .sidebar {
+                transform: translateX(-100%);
+                transition: transform 0.2s ease;
+                z-index: 1000;
             }
             
-            .site-title {
-                font-size: 1.1rem;
+            .sidebar.open {
+                transform: translateX(0);
             }
             
-            nav {
-                gap: 1rem;
+            .main-content {
+                margin-left: 0;
             }
             
-            .intro {
-                padding: 1.5rem 1rem;
+            .mobile-menu-toggle {
+                display: block;
+                background: none;
+                border: none;
+                color: var(--text-primary);
+                font-size: 1.25rem;
+                cursor: pointer;
             }
-            
-            .intro h1 {
-                font-size: 1.4rem;
-            }
-            
-            #map {
-                height: 60vh;
+        }
+        
+        @media (min-width: 769px) {
+            .mobile-menu-toggle {
+                display: none;
             }
         }
     </style>
 </head>
 <body>
-    <header>
-        <div class="site-title">Texas<span>Elections</span>.Wiki</div>
-        <nav>
-            <a href="#map">Map</a>
-            <a href="#about">About</a>
-            <a href="#data">Data</a>
-        </nav>
-    </header>
-    
-    <section class="intro">
-        <h1>Travis County Early Voting Locations</h1>
-        <p>43 polling places for the 2024 General Election. Any registered voter in Travis County can vote at any location.</p>
+    <div class="app-container">
+        <!-- Sidebar Navigation -->
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-header">
+                <div class="site-title">Texas<span>Elections</span>.Wiki</div>
+                <div class="site-subtitle">v1.0.0 — stable</div>
+            </div>
+            
+            <nav class="nav-section">
+                <div class="nav-label">Navigation</div>
+                <ul class="nav-menu">
+                    <li>
+                        <a href="index.html" class="active">
+                            <span class="nav-icon">◎</span>
+                            <span>Voting Map</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="legislation.html">
+                            <span class="nav-icon">§</span>
+                            <span>Legislation</span>
+                        </a>
+                    </li>
+                </ul>
+                
+                <div class="nav-label">Resources</div>
+                <ul class="nav-menu">
+                    <li>
+                        <a href="https://votetravis.gov" target="_blank">
+                            <span class="nav-icon">↗</span>
+                            <span>Travis County Clerk</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/AR-Davis/texas-elections-wiki" target="_blank">
+                            <span class="nav-icon">⌘</span>
+                            <span>GitHub Repo</span>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+            
+            <div class="sidebar-footer">
+                <a href="#">Last updated: 2026-04-18</a>
+            </div>
+        </aside>
         
-        <div class="legend">
-            <div class="legend-item">
-                <div class="legend-marker extended"></div>
-                <span>Extended Hours (7am–10pm, Oct 31 & Nov 1)</span>
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Top Bar -->
+            <div class="top-bar">
+                <button class="mobile-menu-toggle" onclick="toggleSidebar()">☰</button>
+                <div class="breadcrumb">
+                    <span>~/</span>travis-county<span>/</span>early-voting
+                </div>
+                <div class="status-indicator">
+                    <span class="status-dot"></span>
+                    <span>43 locations loaded</span>
+                </div>
             </div>
-            <div class="legend-item">
-                <div class="legend-marker regular"></div>
-                <span>Regular Hours (7am–7pm)</span>
+            
+            <!-- Content Area -->
+            <div class="content-area">
+                <div class="page-header">
+                    <h1>Travis County Early Voting Locations</h1>
+                    <p>43 polling places for the 2024 General Election. Any registered voter in Travis County can vote at any location.</p>
+                </div>
+                
+                <!-- Info Box with Legend -->
+                <div class="info-box">
+                    <div class="info-box-header">
+                        <span>$ cat legend.txt</span>
+                    </div>
+                    <div class="info-box-content">
+                        <div class="legend">
+                            <div class="legend-item">
+                                <div class="legend-marker extended"></div>
+                                <span>Extended Hours (7am–10pm, Oct 31 & Nov 1)</span>
+                            </div>
+                            <div class="legend-item">
+                                <div class="legend-marker regular"></div>
+                                <span>Regular Hours (7am–7pm)</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Map -->
+                <div id="map"></div>
             </div>
-        </div>
-    </section>
-    
-    <div id="map"></div>
-    
-    <footer id="about">
-        <p><strong>Texas Elections Wiki</strong> — A data journalism project.</p>
-        <p>Data source: <a href="https://votetravis.gov" target="_blank">Travis County Clerk</a> | 
-        Last updated: April 2026 | 
-        <a href="https://github.com/YOURUSERNAME/texas-elections-wiki" target="_blank">GitHub</a></p>
-    </footer>
+            
+            <!-- Footer -->
+            <footer>
+                <p>Data source: <a href="https://votetravis.gov" target="_blank">votetravis.gov</a> | 
+                <a href="https://github.com/AR-Davis/texas-elections-wiki" target="_blank">github.com/AR-Davis/texas-elections-wiki</a></p>
+            </footer>
+        </main>
+    </div>
     
     <!-- Leaflet JS -->
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
@@ -264,27 +540,32 @@
     <script src="data/locations.js"></script>
     
     <script>
+        // Mobile sidebar toggle
+        function toggleSidebar() {
+            document.getElementById('sidebar').classList.toggle('open');
+        }
+        
         // Initialize map centered on Travis County
         const map = L.map('map').setView([30.28, -97.75], 10);
         
-        // CartoDB Positron tiles (clean, light base map)
-        L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+        // Dark theme map tiles (CartoDB Dark Matter)
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
             attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
             subdomains: 'abcd',
             maxZoom: 19
         }).addTo(map);
         
-        // Custom marker styles
+        // Custom marker styles (terminal-inspired)
         const extendedIcon = L.divIcon({
             className: 'custom-marker',
-            html: '<div style="width:16px;height:16px;background:#c9a227;border:2px solid #a88418;border-radius:50%;box-shadow:0 1px 3px rgba(0,0,0,0.3);"></div>',
-            iconSize: [16, 16],
-            iconAnchor: [8, 8]
+            html: '<div style="width:14px;height:14px;background:#d29922;border:2px solid #f0ad4c;border-radius:50%;box-shadow:0 0 10px rgba(210,153,34,0.6);"></div>',
+            iconSize: [14, 14],
+            iconAnchor: [7, 7]
         });
         
         const regularIcon = L.divIcon({
             className: 'custom-marker',
-            html: '<div style="width:12px;height:12px;background:#1e3a8a;border:2px solid #152c6b;border-radius:50%;box-shadow:0 1px 3px rgba(0,0,0,0.3);"></div>',
+            html: '<div style="width:12px;height:12px;background:#58a6ff;border:2px solid #79b8ff;border-radius:50%;box-shadow:0 0 8px rgba(88,166,255,0.5);"></div>',
             iconSize: [12, 12],
             iconAnchor: [6, 6]
         });
@@ -309,20 +590,20 @@
             
             if (isExtended) {
                 popupHTML += `
-                    <div class="extended-badge">⭐ Extended Hours Oct 31 & Nov 1 until 10 PM</div>
+                    <div class="extended-badge">★ EXTENDED</div>
                     <div class="hours">
-                        <strong>Regular:</strong> 7 AM – 7 PM<br>
-                        <strong>Extended:</strong> 7 AM – 10 PM (Oct 31 & Nov 1)
+                        regular: 07:00–19:00<br>
+                        extended: 07:00–22:00 (Oct 31, Nov 1)
                     </div>
                 `;
             } else {
-                popupHTML += `<div class="hours"><strong>Hours:</strong> ${loc.regular_hours || '7 AM – 7 PM (Mon–Sat), 12 PM – 6 PM (Oct 27)'}</div>`;
+                popupHTML += `<div class="hours">hours: ${loc.regular_hours || '07:00–19:00 (Mon–Sat), 12:00–18:00 (Oct 27)'}</div>`;
             }
             
             if (loc.accessibility_notes) {
                 popupHTML += `
                     <div class="info-section">
-                        <div class="info-label">Accessibility</div>
+                        <div class="info-label">accessibility</div>
                         <div class="info-text">${loc.accessibility_notes}</div>
                     </div>
                 `;
@@ -331,7 +612,7 @@
             if (loc.parking_notes) {
                 popupHTML += `
                     <div class="info-section">
-                        <div class="info-label">Parking</div>
+                        <div class="info-label">parking</div>
                         <div class="info-text">${loc.parking_notes}</div>
                     </div>
                 `;
@@ -353,7 +634,7 @@
         }
         
         // Log loaded count
-        console.log(`Loaded ${markers.length} voting locations`);
+        console.log(`[texas-elections] loaded ${markers.length} voting locations`);
     </script>
 </body>
 </html>
