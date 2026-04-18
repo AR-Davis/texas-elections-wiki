@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Texas Elections Wiki | Municipal Elections</title>
+    <meta name="description" content="Texas municipal election structures, council-manager vs strong mayor-council, uniform election dates">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    
+    <style>
+        :root {
+            --bg-primary: #0d1117;
+            --bg-secondary: #161b22;
+            --bg-tertiary: #21262d;
+            --text-primary: #e6edf3;
+            --text-secondary: #8b949e;
+            --text-muted: #6e7681;
+            --accent: #58a6ff;
+            --accent-dim: #388bfd;
+            --border: #30363d;
+            --success: #3fb950;
+            --warning: #d29922;
+        }
+        
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Inter', sans-serif; background: var(--bg-primary); color: var(--text-primary); line-height: 1.6; }
+        .app-container { display: flex; min-height: 100vh; }
+        .sidebar { width: 260px; background: var(--bg-secondary); border-right: 1px solid var(--border); position: fixed; height: 100vh; overflow-y: auto; display: flex; flex-direction: column; }
+        .sidebar-header { padding: 1.5rem; border-bottom: 1px solid var(--border); }
+        .site-title { font-family: 'JetBrains Mono', monospace; font-size: 1rem; font-weight: 600; }
+        .site-title span { color: var(--accent); }
+        .site-subtitle { font-family: 'JetBrains Mono', monospace; font-size: 0.75rem; color: var(--text-muted); margin-top: 0.25rem; }
+        .nav-section { padding: 1rem 0; }
+        .nav-label { font-family: 'JetBrains Mono', monospace; font-size: 0.7rem; color: var(--text-muted); text-transform: uppercase; padding: 0 1.5rem; margin-bottom: 0.5rem; }
+        .nav-menu { list-style: none; }
+        .nav-menu a { display: flex; align-items: center; gap: 0.75rem; padding: 0.5rem 1.5rem; color: var(--text-secondary); text-decoration: none; font-family: 'JetBrains Mono', monospace; font-size: 0.85rem; border-left: 2px solid transparent; transition: all 0.15s; }
+        .nav-menu a:hover, .nav-menu a.active { color: var(--text-primary); background: var(--bg-tertiary); border-left-color: var(--accent); }
+        .nav-icon { width: 16px; text-align: center; color: var(--text-muted); }
+        .nav-menu a.active .nav-icon { color: var(--accent); }
+        .sidebar-footer { margin-top: auto; padding: 1rem 1.5rem; border-top: 1px solid var(--border); font-family: 'JetBrains Mono', monospace; font-size: 0.75rem; }
+        .sidebar-footer a { color: var(--text-muted); text-decoration: none; }
+        .main-content { flex: 1; margin-left: 260px; display: flex; flex-direction: column; }
+        .top-bar { background: var(--bg-secondary); border-bottom: 1px solid var(--border); padding: 0.75rem 1.5rem; display: flex; justify-content: space-between; align-items: center; }
+        .breadcrumb { font-family: 'JetBrains Mono', monospace; font-size: 0.8rem; color: var(--text-muted); }
+        .breadcrumb span { color: var(--text-secondary); }
+        .content-area { flex: 1; padding: 1.5rem; }
+        .page-header { margin-bottom: 1.5rem; }
+        .page-header h1 { font-size: 1.5rem; font-weight: 600; margin-bottom: 0.5rem; }
+        .page-header p { color: var(--text-secondary); font-size: 0.9rem; }
+        .page-nav { display: flex; gap: 0.5rem; margin-bottom: 1.5rem; flex-wrap: wrap; }
+        .page-nav-item { display: flex; align-items: center; gap: 0.5rem; padding: 0.6rem 1rem; background: var(--bg-secondary); border: 1px solid var(--border); border-radius: 6px; color: var(--text-secondary); text-decoration: none; font-family: 'JetBrains Mono', monospace; font-size: 0.85rem; transition: all 0.15s; }
+        .page-nav-item:hover { border-color: var(--accent); color: var(--text-primary); }
+        .page-nav-item.active { background: var(--accent); border-color: var(--accent); color: var(--bg-primary); }
+        .info-box { background: var(--bg-secondary); border: 1px solid var(--border); border-radius: 6px; margin-bottom: 1.5rem; overflow: hidden; }
+        .info-box-header { background: var(--bg-tertiary); padding: 0.5rem 1rem; border-bottom: 1px solid var(--border); font-family: 'JetBrains Mono', monospace; font-size: 0.75rem; color: var(--text-muted); }
+        .info-box-content { padding: 1rem; }
+        .research-content { max-width: 900px; }
+        .research-content h2 { font-size: 1.25rem; margin: 2rem 0 1rem; color: var(--accent); border-bottom: 1px solid var(--border); padding-bottom: 0.5rem; }
+        .research-content h3 { font-size: 1.1rem; margin: 1.5rem 0 0.75rem; color: var(--text-primary); }
+        .research-content h4 { font-size: 1rem; margin: 1rem 0 0.5rem; color: var(--text-secondary); }
+        .research-content p { margin-bottom: 1rem; color: var(--text-secondary); line-height: 1.7; }
+        .research-content ul { margin: 1rem 0; padding-left: 1.5rem; color: var(--text-secondary); }
+        .research-content li { margin: 0.5rem 0; }
+        .citation { display: block; font-family: 'JetBrains Mono', monospace; font-size: 0.75rem; color: var(--text-muted); margin: 0.5rem 0 1rem; padding-left: 1rem; border-left: 2px solid var(--accent); }
+        .highlight-box { background: rgba(88, 166, 255, 0.1); border: 1px solid var(--accent); border-radius: 6px; padding: 1rem; margin: 1rem 0; }
+        .highlight-box.warning { background: rgba(210, 153, 34, 0.1); border-color: var(--warning); }
+        .data-table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.9rem; }
+        .data-table th, .data-table td { padding: 0.75rem 1rem; text-align: left; border-bottom: 1px solid var(--border); }
+        .data-table th { background: var(--bg-tertiary); font-family: 'JetBrains Mono', monospace; font-size: 0.8rem; color: var(--text-muted); font-weight: 500; }
+        .data-table td { color: var(--text-secondary); }
+        .data-table tr:hover td { background: var(--bg-tertiary); }
+        .city-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin: 1rem 0; }
+        .city-card { background: var(--bg-secondary); border: 1px solid var(--border); border-radius: 6px; padding: 1rem; }
+        .city-card h4 { color: var(--accent); margin-bottom: 0.5rem; font-family: 'JetBrains Mono', monospace; }
+        .city-meta { font-size: 0.8rem; color: var(--text-muted); margin-bottom: 0.5rem; }
+        .city-card p { font-size: 0.85rem; margin: 0.25rem 0; }
+        .deadline-table { width: 100%; border-collapse: collapse; margin: 1rem 0; }
+        .deadline-table th, .deadline-table td { padding: 0.75rem 1rem; text-align: left; border-bottom: 1px solid var(--border); }
+        .deadline-table th { background: var(--bg-tertiary); font-family: 'JetBrains Mono', monospace; font-size: 0.8rem; color: var(--text-muted); }
+        .deadline-table td { color: var(--text-secondary); }
+        .form-type { display: inline-block; padding: 0.25rem 0.5rem; border-radius: 4px; font-size: 0.75rem; font-family: 'JetBrains Mono', monospace; margin-top: 0.5rem; }
+        .form-council { background: rgba(63, 185, 80, 0.2); color: #7ee787; }
+        .form-mayor { background: rgba(210, 153, 34, 0.2); color: #e3b341; }
+        footer { background: var(--bg-secondary); border-top: 1px solid var(--border); padding: 1rem 1.5rem; text-align: center; }
+        footer p { color: var(--text-muted); font-size: 0.8rem; font-family: 'JetBrains Mono', monospace; }
+        footer a { color: var(--accent); text-decoration: none; }
+        @media (max-width: 768px) {
+            .sidebar { transform: translateX(-100%); transition: transform 0.2s; z-index: 1000; }
+            .sidebar.open { transform: translateX(0); }
+            .main-content { margin-left: 0; }
+        }
+    </style>
+</head>
+<body>
+    <div class="app-container">
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <div class="site-title">Texas<span>Elections</span>.Wiki</div>
+                <div class="site-subtitle">v1.2.0 — research</div>
+            </div>
+            <nav class="nav-section">
+                <div class="nav-label">Navigation</div>
+                <ul class="nav-menu">
+                    <li><a href="index.html"><span class="nav-icon">◎</span><span>Voting Map</span></a></li>
+                    <li><a href="legislation.html"><span class="nav-icon">§</span><span>Legislation</span></a></li>
+                </ul>
+                <div class="nav-label">Research</div>
+                <ul class="nav-menu">
+                    <li><a href="voting-systems.html"><span class="nav-icon">⊛</span><span>Voting Systems</span></a></li>
+                    <li><a href="voter-registration.html"><span class="nav-icon">✓</span><span>Voter Registration</span></a></li>
+                    <li><a href="county-admin.html"><span class="nav-icon">⌘</span><span>County Admin</span></a></li>
+                    <li><a href="legislators.html"><span class="nav-icon">⚖</span><span>Legislators</span></a></li>
+                    <li><a href="municipal.html" class="active"><span class="nav-icon">★</span><span>Municipal</span></a></li>
+                </ul>
+                <div class="nav-label">Resources</div>
+                <ul class="nav-menu">
+                    <li><a href="resources.html"><span class="nav-icon">⌂</span><span>Resources</span></a></li>
+                    <li><a href="about.html"><span class="nav-icon">ℹ</span><span>About</span></a></li>
+                </ul>
+            </nav>
+            <div class="sidebar-footer">
+                <a href="https://github.com/texas-elections-wiki" target="_blank">GitHub →</a>
+            </div>
+        </aside>
+
+        <main class="main-content">
+            <div class="top-bar">
+                <div class="breadcrumb">Research / <span>Municipal Elections</span></div>
+            </div>
+            
+            <div class="content-area">
+                <div class="page-header">
+                    <h1>Texas Municipal Elections</h1>
+                    <p>Council structures, election calendars, and government forms for Texas cities</p>
+                </div>
+
+                <div class="page-nav">
+                    <a href="#forms" class="page-nav-item">Forms of Govt</a>
+                    <a href="#cities" class="page-nav-item">Major Cities</a>
+                    <a href="#dates" class="page-nav-item">2026 Dates</a>
+                    <a href="#qualifications" class="page-nav-item">Qualifications</a>
+                </div>
+
+                <div class="research-content">
+                    
+                    <h2 id="forms">Forms of Municipal Government</h2>
+                    
+                    <p>Texas cities operate under three primary forms of government, adopted based on city size and charter provisions. Approximately <strong>1,200+ municipalities</strong> hold regular elections for mayor and city council.</p>
+
+                    <h3>Council-Manager Form (Most Common)</h3>
+                    
+                    <div class="highlight-box">
+                        <strong>Usage:</strong> ~58% of Texas home-rule cities (251 of 290)
+                    </div>
+                    
+                    <p><strong>Structure:</strong></p>
+                    <ul>
+                        <li>City council serves as legislative body (sets policy, approves budget)</li>
+                        <li>City manager appointed by council as chief executive</li>
+                        <li>Mayor typically ceremonial, selected from council or elected at-large</li>
+                        <li>Council members elected at-large, by district, or mixed</li>
+                    </ul>
+                    
+                    <p><strong>Examples:</strong> Austin, Dallas, San Antonio, Fort Worth, El Paso, Arlington, Corpus Christi, Plano, Laredo, Lubbock</p>
+                    
+                    <p><strong>History:</strong> First adopted by Amarillo in 1913; Taylor and Denton followed in 1914. By 1947, 58 Texas cities used this form.</p>
+                    
+                    <span class="citation">[1] Texas State Historical Association, "Council-Manager Form of City Government"</span>
+
+                    <h3>Strong Mayor-Council Form (Traditional)</h3>
+                    
+                    <div class="highlight-box warning">
+                        <strong>Usage:</strong> Rare among large Texas cities
+                    </div>
+                    
+                    <p><strong>Structure:</strong></p>
+                    <ul>
+                        <li>Mayor serves as chief executive (appoints department heads, prepares budget)</li>
+                        <li>City council serves as legislative body</li>
+                        <li>Visible leadership with direct electoral accountability</li>
+                    </ul>
+                    
+                    <p><strong>Examples:</strong> Houston (only large Texas city with this structure)</p>
+
+                    <h3>Commission Form (Declining)</h3>
+                    
+                    <p><strong>Structure:</strong> Voters elect commissioners who exercise legislative, executive, and administrative authority. Each commissioner oversees a specific functional area.</p>
+                    
+                    <p><strong>Drawbacks:</strong> Lacks centralized leadership, limited coordination, minimal oversight. Originated in Galveston in 1900 post-hurricane but minimal adoption today.</p>
+
+                    <h2 id="cities">Major Texas Cities: Election Structures</h2>
+
+                    <div class="city-grid">
+                        <div class="city-card">
+                            <h4>Houston</h4>
+                            <div class="city-meta">Pop: 2.3M | Strong Mayor-Council</div>
+                            <p><strong>Council:</strong> 16 members (11 district + 5 at-large)</p>
+                            <p><strong>Mayor:</strong> John Whitmire (D)</p>
+                            <p><strong>Terms:</strong> 4 years, max 2 terms</p>
+                            <p><strong>Next:</strong> November 2027</p>
+                            <span class="form-type form-mayor">STRONG MAYOR</span>
+                        </div>
+                        
+                        <div class="city-card">
+                            <h4>Austin</h4>
+                            <div class="city-meta">Pop: 978K | 10-1 System (since 2014)</div>
+                            <p><strong>Council:</strong> 10 districts + mayor</p>
+                            <p><strong>Mayor:</strong> Kirk Watson</p>
+                            <p><strong>Terms:</strong> 4 years, max 2 terms</p>
+                            <p><strong>Next:</strong> Districts 2,4,6,8,10 in Nov 2025</p>
+                            <span class="form-type form-council">COUNCIL-MANAGER</span>
+                        </div>
+                        
+                        <div class="city-card">
+                            <h4>San Antonio</h4>
+                            <div class="city-meta">Pop: 1.4M | 10-2 Districts</div>
+                            <p><strong>Council:</strong> 10 districts + mayor</p>
+                            <p><strong>Mayor:</strong> Gina Ortiz Jones</p>
+                            <p><strong>Terms:</strong> 4 years (extended by Prop F, Nov 2024)</p>
+                            <p><strong>Next:</strong> May 2029</p>
+                            <span class="form-type form-council">COUNCIL-MANAGER</span>
+                        </div>
+                        
+                        <div class="city-card">
+                            <h4>Dallas</h4>
+                            <div class="city-meta">Pop: 1.3M | Council-Manager</div>
+                            <p><strong>Mayor:</strong> Next election May 2027</p>
+                            <p>Council-manager structure with mayor + council</p>
+                            <span class="form-type form-council">COUNCIL-MANAGER</span>
+                        </div>
+                        
+                        <div class="city-card">
+                            <h4>Fort Worth</h4>
+                            <div class="city-meta">Pop: 935K | Council-Manager</div>
+                            <p><strong>Mayor:</strong> Next election May 2027</p>
+                            <p>Council-manager structure</p>
+                            <span class="form-type form-council">COUNCIL-MANAGER</span>
+                        </div>
+                        
+                        <div class="city-card">
+                            <h4>Arlington</h4>
+                            <div class="city-meta">Pop: 394K | Council-Manager</div>
+                            <p><strong>Election:</strong> May 2, 2026</p>
+                            <p>Mayor + city council positions</p>
+                            <span class="form-type form-council">COUNCIL-MANAGER</span>
+                        </div>
+                        
+                        <div class="city-card">
+                            <h4>Lubbock</h4>
+                            <div class="city-meta">Pop: 257K | Council-Manager</div>
+                            <p><strong>Election:</strong> May 2, 2026</p>
+                            <p>Mayor + Districts 1, 3, 5</p>
+                            <p><strong>Filing Deadline:</strong> Feb 13, 2026</p>
+                            <span class="form-type form-council">COUNCIL-MANAGER</span>
+                        </div>
+                    </div>
+                    
+                    <span class="citation">[2] Ballotpedia; [3] Texas Tribune</span>
+
+                    <h3>Houston Council Districts (District Detail)</h3>
+                    
+                    <table class="data-table">
+                        <thead>
+                            <tr>
+                                <th>District</th>
+                                <th>Character</th>
+                                <th>Notable Areas</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>A</td>
+                                <td>Conservative, older voters</td>
+                                <td>Spring Branch, Katy area</td>
+                            </tr>
+                            <tr>
+                                <td>B</td>
+                                <td>African-American stronghold</td>
+                                <td>Fifth Ward, Acres Homes</td>
+                            </tr>
+                            <tr>
+                                <td>C</td>
+                                <td>"Hipstrict" (progressive, urban)</td>
+                                <td>Heights, Montrose, Museum District</td>
+                            </tr>
+                            <tr>
+                                <td>D</td>
+                                <td>Diverse, university areas</td>
+                                <td>Third Ward, Sunnyside, TSU, UH</td>
+                            </tr>
+                            <tr>
+                                <td>E</td>
+                                <td>Affluent suburban</td>
+                                <td>Kingwood, Clear Lake</td>
+                            </tr>
+                            <tr>
+                                <td>F</td>
+                                <td>Vietnamese-American community</td>
+                                <td>Alief, Westchase, Gulfton</td>
+                            </tr>
+                            <tr>
+                                <td>G</td>
+                                <td>Wealthiest district</td>
+                                <td>Memorial, River Oaks, Tanglewood</td>
+                            </tr>
+                            <tr>
+                                <td>H</td>
+                                <td>Hispanic-majority</td>
+                                <td>Near Northside, East End</td>
+                            </tr>
+                            <tr>
+                                <td>I</td>
+                                <td>Downtown/Southeast</td>
+                                <td>East End communities, Downtown</td>
+                            </tr>
+                            <tr>
+                                <td>J</td>
+                                <td>"Hispanic opportunity district"</td>
+                                <td>Gulfton, Sharpstown</td>
+                            </tr>
+                            <tr>
+                                <td>K</td>
+                                <td>African-American plurality</td>
+                                <td>Brays Oaks, Westbury, Reliant area</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                    <h3>San Antonio Proposition F (November 2024)</h3>
+                    
+                    <div class="highlight-box">
+                        <strong>Approved by voters:</strong> Extended city council and mayoral terms from <strong>2 years to 4 years</strong>, limited to 2 consecutive terms (8 years maximum).
+                    </div>
+
+                    <h2 id="dates">2026 Uniform Election Dates</h2>
+
+                    <h3>May 2, 2026 — Uniform Election Date</h3>
+                    
+                    <p><strong>Applicable to:</strong> Cities, school districts, special districts holding elections in May</p>
+                    
+                    <table class="deadline-table">
+                        <thead>
+                            <tr>
+                                <th>Event</th>
+                                <th>Date</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Registration Deadline</td>
+                                <td><strong>April 2, 2026</strong></td>
+                            </tr>
+                            <tr>
+                                <td>Mail Ballot Application Deadline</td>
+                                <td>April 20, 2026</td>
+                            </tr>
+                            <tr>
+                                <td>Early Voting</td>
+                                <td>April 20-April 28, 2026*</td>
+                            </tr>
+                            <tr>
+                                <td>Election Day</td>
+                                <td><strong>May 2, 2026</strong></td>
+                            </tr>
+                            <tr>
+                                <td>Runoff (if needed)</td>
+                                <td>June 13, 2026</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    
+                    <p><em>*No early voting April 21 (San Jacinto Day)</em></p>
+
+                    <p><strong>Notable May 2026 Races:</strong></p>
+                    <ul>
+                        <li>Arlington mayor + city council</li>
+                        <li>Denton mayor + city council</li>
+                        <li>Lubbock mayor + council (Districts 1, 3, 5)</li>
+                        <li>Waco mayor + city council</li>
+                        <li>Multiple ISD school boards (Dallas ISD, Richardson ISD, Carrollton-Farmers Branch ISD, North East ISD, Hays CISD, Alamo Colleges)</li>
+                    </ul>
+
+                    <h3>November 3, 2026 — Uniform Election Date</h3>
+                    
+                    <p><strong>Applicable to:</strong> State/federal elections + municipalities opted for November cycle</p>
+                    
+                    <table class="deadline-table">
+                        <thead>
+                            <tr>
+                                <th>Event</th>
+                                <th>Date</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Registration Deadline</td>
+                                <td>October 5, 2026</td>
+                            </tr>
+                            <tr>
+                                <td>Early Voting</td>
+                                <td>October 19-30, 2026</td>
+                            </tr>
+                            <tr>
+                                <td>Election Day</td>
+                                <td>November 3, 2026</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    
+                    <span class="citation">[4] Texas Secretary of State; [5] Texas Tribune</span>
+
+                    <h2 id="qualifications">Candidate Qualifications</h2>
+                    
+                    <p><strong>Per Texas Election Code Chapters 11 and 141:</strong></p>
+                    
+                    <ul>
+                        <li>U.S. citizenship</li>
+                        <li>18+ years of age</li>
+                        <li>Qualified voter registration in relevant jurisdiction</li>
+                        <li>Residency: 12 months in Texas, 6 months in city</li>
+                        <li>No felony conviction without pardon/restoration of rights</li>
+                        <li>Not determined mentally incapacitated without voting rights</li>
+                    </ul>
+
+                    <p><strong>Filing Requirements:</strong> Notarized application; filing fee OR petition in lieu of fee (varies by jurisdiction).</p>
+                    
+                    <span class="citation">[6] Universal City, TX; Texas Election Code</span>
+
+                    <h2>Government Classifications</h2>
+
+                    <h3>General Law Cities</h3>
+                    <ul>
+                        <li>Population under 5,000</li>
+                        <li>Powers specifically granted by legislature</li>
+                        <li>Limited annexation/regulatory authority</li>
+                    </ul>
+
+                    <h3>Home Rule Cities</h3>
+                    <ul>
+                        <li>Population 5,000+</li>
+                        <li>May adopt home rule charter</li>
+                        <li>Broader authority (can do anything not prohibited)</li>
+                        <li>May choose form of government</li>
+                    </ul>
+
+                    <h3>Limited Annexation (Large Cities)</h3>
+                    <p>Cities over 225,000 may annex adjoining areas for safety/building codes. Residents vote in mayor/council races but NOT bond elections. Cannot collect sales/property tax from annexed areas. Designed to expire within 3 years.</p>
+                    
+                    <span class="citation">[7] Texas Political Textbook</span>
+
+                    <h2>Comparative Statistics</h2>
+                    
+                    <p><strong>2026 Mayoral Elections (100 Largest U.S. Cities):</strong></p>
+                    <ul>
+                        <li>22 cities holding mayoral elections</li>
+                        <li>Average 5.7 candidates per city</li>
+                        <li>100% of incumbents face at least one opponent</li>
+                        <li>64% of mayors seeking re-election</li>
+                    </ul>
+                    
+                    <span class="citation">[8] Ballotpedia News, April 2026</span>
+
+                </div>
+
+                <footer>
+                    <p>Source: <a href="../docs/research/municipal_elections.md" target="_blank">municipal_elections.md</a> | Data: Ballotpedia, TX Tribune, TSHA | <a href="about.html">Citation Policy</a></p>
+                </footer>
+            </div>
+        </main>
+    </div>
+</body>
+</html>
