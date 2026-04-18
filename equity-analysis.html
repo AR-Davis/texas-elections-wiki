@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Texas Elections Wiki | Travis County Equity Analysis</title>
+    <meta name="description" content="Geographic and demographic analysis of Travis County extended hours voting locations">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    
+    <style>
+        :root {
+            --bg-primary: #0d1117;
+            --bg-secondary: #161b22;
+            --bg-tertiary: #21262d;
+            --text-primary: #e6edf3;
+            --text-secondary: #8b949e;
+            --text-muted: #6e7681;
+            --accent: #58a6ff;
+            --accent-dim: #388bfd;
+            --border: #30363d;
+            --success: #3fb950;
+            --warning: #d29922;
+            --danger: #f85149;
+        }
+        
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Inter', sans-serif; background: var(--bg-primary); color: var(--text-primary); line-height: 1.6; }
+        .app-container { display: flex; min-height: 100vh; }
+        .sidebar { width: 260px; background: var(--bg-secondary); border-right: 1px solid var(--border); position: fixed; height: 100vh; overflow-y: auto; display: flex; flex-direction: column; }
+        .sidebar-header { padding: 1.5rem; border-bottom: 1px solid var(--border); }
+        .site-title { font-family: 'JetBrains Mono', monospace; font-size: 1rem; font-weight: 600; }
+        .site-title span { color: var(--accent); }
+        .site-subtitle { font-family: 'JetBrains Mono', monospace; font-size: 0.75rem; color: var(--text-muted); margin-top: 0.25rem; }
+        .nav-section { padding: 1rem 0; }
+        .nav-label { font-family: 'JetBrains Mono', monospace; font-size: 0.7rem; color: var(--text-muted); text-transform: uppercase; padding: 0 1.5rem; margin-bottom: 0.5rem; }
+        .nav-menu { list-style: none; }
+        .nav-menu a { display: flex; align-items: center; gap: 0.75rem; padding: 0.5rem 1.5rem; color: var(--text-secondary); text-decoration: none; font-family: 'JetBrains Mono', monospace; font-size: 0.85rem; border-left: 2px solid transparent; transition: all 0.15s; }
+        .nav-menu a:hover, .nav-menu a.active { color: var(--text-primary); background: var(--bg-tertiary); border-left-color: var(--accent); }
+        .nav-icon { width: 16px; text-align: center; color: var(--text-muted); }
+        .nav-menu a.active .nav-icon { color: var(--accent); }
+        .sidebar-footer { margin-top: auto; padding: 1rem 1.5rem; border-top: 1px solid var(--border); font-family: 'JetBrains Mono', monospace; font-size: 0.75rem; }
+        .sidebar-footer a { color: var(--text-muted); text-decoration: none; }
+        .main-content { flex: 1; margin-left: 260px; display: flex; flex-direction: column; }
+        .top-bar { background: var(--bg-secondary); border-bottom: 1px solid var(--border); padding: 0.75rem 1.5rem; display: flex; justify-content: space-between; align-items: center; }
+        .breadcrumb { font-family: 'JetBrains Mono', monospace; font-size: 0.8rem; color: var(--text-muted); }
+        .breadcrumb span { color: var(--text-secondary); }
+        .content-area { flex: 1; padding: 1.5rem; }
+        .page-header { margin-bottom: 1.5rem; }
+        .page-header h1 { font-size: 1.5rem; font-weight: 600; margin-bottom: 0.5rem; }
+        .page-header p { color: var(--text-secondary); font-size: 0.9rem; }
+        .research-content { max-width: 900px; }
+        .research-content h2 { font-size: 1.25rem; margin: 2rem 0 1rem; color: var(--accent); border-bottom: 1px solid var(--border); padding-bottom: 0.5rem; }
+        .research-content h3 { font-size: 1.1rem; margin: 1.5rem 0 0.75rem; color: var(--text-primary); }
+        .research-content h4 { font-size: 1rem; margin: 1rem 0 0.5rem; color: var(--text-secondary); }
+        .research-content p { margin-bottom: 1rem; color: var(--text-secondary); line-height: 1.7; }
+        .research-content ul { margin: 1rem 0; padding-left: 1.5rem; color: var(--text-secondary); }
+        .research-content li { margin: 0.5rem 0; }
+        .citation { display: block; font-family: 'JetBrains Mono', monospace; font-size: 0.75rem; color: var(--text-muted); margin: 0.5rem 0 1rem; padding-left: 1rem; border-left: 2px solid var(--accent); }
+        .data-table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.9rem; }
+        .data-table th, .data-table td { padding: 0.75rem 1rem; text-align: left; border-bottom: 1px solid var(--border); }
+        .data-table th { background: var(--bg-tertiary); font-family: 'JetBrains Mono', monospace; font-size: 0.8rem; color: var(--text-muted); font-weight: 500; }
+        .data-table td { color: var(--text-secondary); }
+        .data-table tr:hover td { background: var(--bg-tertiary); }
+        .data-table .numeric { font-family: 'JetBrains Mono', monospace; text-align: right; }
+        .data-table .highlight { color: var(--warning); font-weight: 500; }
+        .highlight-box { background: rgba(88, 166, 255, 0.1); border: 1px solid var(--accent); border-radius: 6px; padding: 1rem; margin: 1rem 0; }
+        .highlight-box.danger { background: rgba(248, 81, 73, 0.1); border-color: var(--danger); }
+        .highlight-box.warning { background: rgba(210, 153, 34, 0.1); border-color: var(--warning); }
+        .stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin: 1.5rem 0; }
+        .stat-card { background: var(--bg-secondary); border: 1px solid var(--border); border-radius: 6px; padding: 1rem; text-align: center; }
+        .stat-value { font-family: 'JetBrains Mono', monospace; font-size: 1.5rem; font-weight: 600; }
+        .stat-value.high { color: var(--success); }
+        .stat-value.low { color: var(--danger); }
+        .stat-value.med { color: var(--warning); }
+        .stat-label { font-size: 0.8rem; color: var(--text-muted); margin-top: 0.25rem; }
+        .comparison-table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.9rem; }
+        .comparison-table th, .comparison-table td { padding: 0.75rem 1rem; text-align: left; border-bottom: 1px solid var(--border); }
+        .comparison-table th { background: var(--bg-tertiary); font-family: 'JetBrains Mono', monospace; font-size: 0.8rem; color: var(--text-muted); font-weight: 500; }
+        .comparison-table td { color: var(--text-secondary); }
+        .comparison-table .west { border-left: 3px solid var(--success); }
+        .comparison-table .east { border-left: 3px solid var(--warning); }
+        .tag { display: inline-block; padding: 0.2rem 0.5rem; border-radius: 4px; font-size: 0.75rem; font-family: 'JetBrains Mono', monospace; }
+        .tag-west { background: rgba(63, 185, 80, 0.2); color: #7ee787; }
+        .tag-east { background: rgba(210, 153, 34, 0.2); color: #e3b341; }
+        .tag-campus { background: rgba(88, 166, 255, 0.2); color: #79b8ff; }
+        footer { background: var(--bg-secondary); border-top: 1px solid var(--border); padding: 1rem 1.5rem; text-align: center; }
+        footer p { color: var(--text-muted); font-size: 0.8rem; font-family: 'JetBrains Mono', monospace; }
+        footer a { color: var(--accent); text-decoration: none; }
+        @media (max-width: 768px) {
+            .sidebar { transform: translateX(-100%); transition: transform 0.2s; z-index: 1000; }
+            .sidebar.open { transform: translateX(0); }
+            .main-content { margin-left: 0; }
+        }
+    </style>
+</head>
+<body>
+    <div class="app-container">
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <div class="site-title">Texas<span>Elections</span>.Wiki</div>
+                <div class="site-subtitle">v1.2.0 — research</div>
+            </div>
+            <nav class="nav-section">
+                <div class="nav-label">Navigation</div>
+                <ul class="nav-menu">
+                    <li><a href="index.html"><span class="nav-icon">◎</span><span>Voting Map</span></a></li>
+                    <li><a href="legislation.html"><span class="nav-icon">§</span><span>Legislation</span></a></li>
+                </ul>
+                <div class="nav-label">Research</div>
+                <ul class="nav-menu">
+                    <li><a href="voting-systems.html"><span class="nav-icon">⊛</span><span>Voting Systems</span></a></li>
+                    <li><a href="voter-registration.html"><span class="nav-icon">✓</span><span>Voter Registration</span></a></li>
+                    <li><a href="county-admin.html"><span class="nav-icon">⌘</span><span>County Admin</span></a></li>
+                    <li><a href="legislators.html"><span class="nav-icon">⚖</span><span>Legislators</span></a></li>
+                    <li><a href="municipal.html"><span class="nav-icon">★</span><span>Municipal</span></a></li>
+                    <li><a href="equity-analysis.html" class="active"><span class="nav-icon">◉</span><span>Equity</span></a></li>
+                </ul>
+                <div class="nav-label">Resources</div>
+                <ul class="nav-menu">
+                    <li><a href="resources.html"><span class="nav-icon">⌂</span><span>Resources</span></a></li>
+                    <li><a href="about.html"><span class="nav-icon">ℹ</span><span>About</span></a></li>
+                </ul>
+            </nav>
+            <div class="sidebar-footer">
+                <a href="https://github.com/texas-elections-wiki" target="_blank">GitHub →</a>
+            </div>
+        </aside>
+
+        <main class="main-content">
+            <div class="top-bar">
+                <div class="breadcrumb">Research / <span>Equity Analysis</span></div>
+            </div>
+            
+            <div class="content-area">
+                <div class="page-header">
+                    <h1>Travis County Voting Location Equity Analysis</h1>
+                    <p>Geographic and demographic disparities in extended hours voting access</p>
+                </div>
+
+                <div class="research-content">
+                    
+                    <div class="highlight-box warning">
+                        <strong>Executive Summary:</strong> Analysis reveals a <strong>geographic disparity</strong> in Travis County's extended hours voting locations, with wealthy, low-density areas receiving disproportionate access compared to dense, lower-income neighborhoods.
+                    </div>
+
+                    <h2>The 7 Extended Hours Locations</h2>
+                    
+                    <table class="data-table">
+                        <thead>
+                            <tr>
+                                <th>Location</th>
+                                <th>ZIP</th>
+                                <th class="numeric">Density</th>
+                                <th class="numeric">Avg Income*</th>
+                                <th>Character</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td><strong>Lakeway Activity Center</strong></td>
+                                <td>78734</td>
+                                <td class="numeric highlight">934/sq mi</td>
+                                <td class="numeric">$715,310</td>
+                                <td><span class="tag tag-west">West/Affluent</span></td>
+                            </tr>
+                            <tr>
+                                <td>UT Texas Union</td>
+                                <td>78712</td>
+                                <td class="numeric">368/sq mi</td>
+                                <td class="numeric">N/A</td>
+                                <td><span class="tag tag-campus">West Campus</span></td>
+                            </tr>
+                            <tr>
+                                <td>Southpark Meadows</td>
+                                <td>78748</td>
+                                <td class="numeric">3,784/sq mi</td>
+                                <td class="numeric">$416,830</td>
+                                <td>South</td>
+                            </tr>
+                            <tr>
+                                <td>PfISD Rock Gym</td>
+                                <td>78660</td>
+                                <td class="numeric">Pflugerville</td>
+                                <td class="numeric">$348,310</td>
+                                <td>Northeast</td>
+                            </tr>
+                            <tr>
+                                <td>Carver Branch Library</td>
+                                <td>78702</td>
+                                <td class="numeric">4,949/sq mi</td>
+                                <td class="numeric">$609,250</td>
+                                <td><span class="tag tag-east">East</span></td>
+                            </tr>
+                            <tr>
+                                <td>Ben Hur Shrine Center</td>
+                                <td>78757</td>
+                                <td class="numeric">5,080/sq mi</td>
+                                <td class="numeric">$494,050</td>
+                                <td>Central/North</td>
+                            </tr>
+                            <tr>
+                                <td>Austin Permitting Center</td>
+                                <td>78752</td>
+                                <td class="numeric">6,764/sq mi</td>
+                                <td class="numeric">$377,950</td>
+                                <td>North</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    
+                    <p><em>*Source: IRS Adjusted Gross Income (2021) via Zip Atlas</em></p>
+
+                    <h2>Key Finding: Inverse Relationship</h2>
+                    
+                    <div class="highlight-box danger">
+                        <strong>Core Disparity:</strong> Wealthy, low-density areas have extended hours; dense, lower-income areas do not.
+                    </div>
+
+                    <h3>Highest-Density ZIPs WITHOUT Extended Hours</h3>
+                    
+                    <table class="data-table">
+                        <thead>
+                            <tr>
+                                <th>ZIP</th>
+                                <th class="numeric">Density</th>
+                                <th class="numeric">Avg Income</th>
+                                <th>Extended Hours?</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td><strong>78705</strong> (West Campus)</td>
+                                <td class="numeric" style="color: var(--danger); font-weight: 600;">15,752/sq mi</td>
+                                <td class="numeric">$643,600</td>
+                                <td><strong>NO</strong></td>
+                            </tr>
+                            <tr>
+                                <td><strong>78741</strong></td>
+                                <td class="numeric" style="color: var(--danger); font-weight: 600;">5,713/sq mi</td>
+                                <td class="numeric">$649,220</td>
+                                <td><strong>NO</strong></td>
+                            </tr>
+                            <tr>
+                                <td><strong>78753</strong></td>
+                                <td class="numeric" style="color: var(--danger); font-weight: 600;">5,278/sq mi</td>
+                                <td class="numeric">$382,630</td>
+                                <td><strong>NO</strong></td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                    <h3>Lowest-Income ZIPs WITHOUT Extended Hours</h3>
+                    
+                    <table class="data-table">
+                        <thead>
+                            <tr>
+                                <th>ZIP</th>
+                                <th class="numeric">Avg Income</th>
+                                <th class="numeric">Density</th>
+                                <th>Extended Hours?</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td><strong>78719</strong> (Airport/Southeast)</td>
+                                <td class="numeric" style="color: var(--danger); font-weight: 600;">$159,600</td>
+                                <td class="numeric">76/sq mi</td>
+                                <td><strong>NO</strong></td>
+                            </tr>
+                            <tr>
+                                <td><strong>78742</strong> (Southeast)</td>
+                                <td class="numeric" style="color: var(--danger); font-weight: 600;">$207,170</td>
+                                <td class="numeric">202/sq mi</td>
+                                <td><strong>NO</strong></td>
+                            </tr>
+                            <tr>
+                                <td><strong>78724</strong> (Northeast)</td>
+                                <td class="numeric" style="color: var(--danger); font-weight: 600;">$260,130</td>
+                                <td class="numeric">2,178/sq mi</td>
+                                <td><strong>NO</strong></td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                    <h2>West vs. East Austin Divide</h2>
+
+                    <div class="stats-grid">
+                        <div class="stat-card">
+                            <div class="stat-value high">3</div>
+                            <div class="stat-label">Extended Hours Sites (Wealthy West)</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-value low">1</div>
+                            <div class="stat-label">Extended Hours Sites (Poorer East)</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-value med">16.8x</div>
+                            <div class="stat-label">Population Density Ratio</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-value low">16.8%</div>
+                            <div class="stat-label">East Income as % of West</div>
+                        </div>
+                    </div>
+
+                    <h3>Wealthy Western Areas</h3>
+                    
+                    <ul>
+                        <li><strong>78746</strong> (West Lake Hills): $1.9M avg income</li>
+                        <li><strong>78735</strong> (West Austin): $1.2M avg income</li>
+                        <li><strong>78734</strong> (Lakeway): $715K income, <strong>extended hours at Lakeway Activity Center</strong></li>
+                    </ul>
+                    
+                    <p><strong>Characteristics:</strong> Low density (368-1,200/sq mi), high car ownership, suburban/exurban</p>
+
+                    <h3>Poorer Eastern Areas</h3>
+                    
+                    <ul>
+                        <li><strong>78719</strong> (Airport/Southeast): $159K avg income, <strong>no extended hours</strong></li>
+                        <li><strong>78742</strong> (Southeast): $207K avg income, <strong>no extended hours</strong></li>
+                        <li><strong>78724</strong> (Northeast): $260K avg income, <strong>no extended hours</strong></li>
+                    </ul>
+                    
+                    <p><strong>Characteristics:</strong> Mixed density, transit-dependent populations, urban/underserved</p>
+
+                    <h2>The Core Disparity</h2>
+                    
+                    <table class="comparison-table">
+                        <thead>
+                            <tr>
+                                <th>Metric</th>
+                                <th class="west">Wealthy West</th>
+                                <th class="east">Poorer East</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Extended Hours Sites</td>
+                                <td><strong>3 sites</strong></td>
+                                <td><strong>1 site</strong> (Carver only)</td>
+                            </tr>
+                            <tr>
+                                <td>Residents per Voting Location</td>
+                                <td>Very low</td>
+                                <td>High</td>
+                            </tr>
+                            <tr>
+                                <td>Transit Access</td>
+                                <td>Car-dependent</td>
+                                <td>Transit-dependent</td>
+                            </tr>
+                            <tr>
+                                <td>Hours Access</td>
+                                <td>Extended hours (Lakeway)</td>
+                                <td>Standard hours only</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                    <div class="highlight-box">
+                        <strong>Critical Finding:</strong> Lakeway Activity Center serves <strong>934 people/sq mi</strong> in a community averaging <strong>$715,000 income</strong> while dense, lower-income East Austin (5-15x the population density) lacks equivalent extended hours access.
+                    </div>
+
+                    <h2>Data Methodology</h2>
+                    
+                    <ul>
+                        <li><strong>Voting Locations:</strong> Travis County Clerk — 2024 Early Voting Locations (43 total sites, 7 extended hours)</li>
+                        <li><strong>Demographics:</strong> Zip Atlas — Austin Metro ZIP code population density and income data (IRS AGI, 2021)</li>
+                        <li><strong>Geographic Classification:</strong> West vs. East Austin ZIP code classification based on I-35 divide</li>
+                    </ul>
+
+                    <h2>Policy Implications</h2>
+                    
+                    <ul>
+                        <li>Carver Library (78702) is the only extended hours site in Eastern Travis County</li>
+                        <li>78705 (West Campus/UT) has highest density (15,752/sq mi) but no dedicated extended hours site</li>
+                        <li>Consider transit access times to extended hours locations for equity assessment</li>
+                        <li>Analysis suggests need for equity-focused voting access policy review</li>
+                    </ul>
+
+                    <span class="citation">[1] Travis County Clerk, 2024 Early Voting Locations; [2] Zip Atlas (IRS AGI 2021)</span>
+
+                </div>
+
+                <footer>
+                    <p>Source: <a href="../docs/research/travis_county_voting_equity_analysis.md" target="_blank">travis_county_voting_equity_analysis.md</a> | Data: Travis County Clerk, Zip Atlas | <a href="about.html">Citation Policy</a></p>
+                </footer>
+            </div>
+        </main>
+    </div>
+</body>
+</html>
