@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Texas Elections Wiki | Voter Registration</title>
+    <meta name="description" content="Texas voter registration statistics, ID requirements, deadlines, and county-level data">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    
+    <style>
+        :root {
+            --bg-primary: #0d1117;
+            --bg-secondary: #161b22;
+            --bg-tertiary: #21262d;
+            --text-primary: #e6edf3;
+            --text-secondary: #8b949e;
+            --text-muted: #6e7681;
+            --accent: #58a6ff;
+            --accent-dim: #388bfd;
+            --border: #30363d;
+            --success: #3fb950;
+            --warning: #d29922;
+            --danger: #f85149;
+        }
+        
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Inter', sans-serif; background: var(--bg-primary); color: var(--text-primary); line-height: 1.6; }
+        .app-container { display: flex; min-height: 100vh; }
+        .sidebar { width: 260px; background: var(--bg-secondary); border-right: 1px solid var(--border); position: fixed; height: 100vh; overflow-y: auto; display: flex; flex-direction: column; }
+        .sidebar-header { padding: 1.5rem; border-bottom: 1px solid var(--border); }
+        .site-title { font-family: 'JetBrains Mono', monospace; font-size: 1rem; font-weight: 600; }
+        .site-title span { color: var(--accent); }
+        .site-subtitle { font-family: 'JetBrains Mono', monospace; font-size: 0.75rem; color: var(--text-muted); margin-top: 0.25rem; }
+        .nav-section { padding: 1rem 0; }
+        .nav-label { font-family: 'JetBrains Mono', monospace; font-size: 0.7rem; color: var(--text-muted); text-transform: uppercase; padding: 0 1.5rem; margin-bottom: 0.5rem; }
+        .nav-menu { list-style: none; }
+        .nav-menu a { display: flex; align-items: center; gap: 0.75rem; padding: 0.5rem 1.5rem; color: var(--text-secondary); text-decoration: none; font-family: 'JetBrains Mono', monospace; font-size: 0.85rem; border-left: 2px solid transparent; transition: all 0.15s; }
+        .nav-menu a:hover, .nav-menu a.active { color: var(--text-primary); background: var(--bg-tertiary); border-left-color: var(--accent); }
+        .nav-icon { width: 16px; text-align: center; color: var(--text-muted); }
+        .nav-menu a.active .nav-icon { color: var(--accent); }
+        .sidebar-footer { margin-top: auto; padding: 1rem 1.5rem; border-top: 1px solid var(--border); font-family: 'JetBrains Mono', monospace; font-size: 0.75rem; }
+        .sidebar-footer a { color: var(--text-muted); text-decoration: none; }
+        .main-content { flex: 1; margin-left: 260px; display: flex; flex-direction: column; }
+        .top-bar { background: var(--bg-secondary); border-bottom: 1px solid var(--border); padding: 0.75rem 1.5rem; display: flex; justify-content: space-between; align-items: center; }
+        .breadcrumb { font-family: 'JetBrains Mono', monospace; font-size: 0.8rem; color: var(--text-muted); }
+        .breadcrumb span { color: var(--text-secondary); }
+        .content-area { flex: 1; padding: 1.5rem; }
+        .page-header { margin-bottom: 1.5rem; }
+        .page-header h1 { font-size: 1.5rem; font-weight: 600; margin-bottom: 0.5rem; }
+        .page-header p { color: var(--text-secondary); font-size: 0.9rem; }
+        .data-table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.9rem; }
+        .data-table th, .data-table td { padding: 0.75rem 1rem; text-align: left; border-bottom: 1px solid var(--border); }
+        .data-table th { background: var(--bg-tertiary); font-family: 'JetBrains Mono', monospace; font-size: 0.8rem; color: var(--text-muted); font-weight: 500; }
+        .data-table td { color: var(--text-secondary); }
+        .data-table tr:hover td { background: var(--bg-tertiary); }
+        .data-table .numeric { font-family: 'JetBrains Mono', monospace; text-align: right; }
+        .citation { display: block; font-family: 'JetBrains Mono', monospace; font-size: 0.75rem; color: var(--text-muted); margin: 0.5rem 0 1rem; padding-left: 1rem; border-left: 2px solid var(--accent); }
+        .info-box { background: var(--bg-secondary); border: 1px solid var(--border); border-radius: 6px; margin-bottom: 1.5rem; overflow: hidden; }
+        .info-box-header { background: var(--bg-tertiary); padding: 0.5rem 1rem; border-bottom: 1px solid var(--border); font-family: 'JetBrains Mono', monospace; font-size: 0.75rem; color: var(--text-muted); }
+        .info-box-content { padding: 1rem; }
+        .stat-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin: 1rem 0; }
+        .stat-item { background: var(--bg-tertiary); border: 1px solid var(--border); border-radius: 4px; padding: 1rem; text-align: center; }
+        .stat-value { font-family: 'JetBrains Mono', monospace; font-size: 1.5rem; color: var(--accent); font-weight: 600; }
+        .stat-label { font-size: 0.8rem; color: var(--text-muted); margin-top: 0.25rem; }
+        .stat-note { font-size: 0.7rem; color: var(--text-muted); margin-top: 0.5rem; }
+        .research-content { max-width: 900px; }
+        .research-content h2 { font-size: 1.25rem; margin: 2rem 0 1rem; color: var(--accent); border-bottom: 1px solid var(--border); padding-bottom: 0.5rem; }
+        .research-content h3 { font-size: 1.1rem; margin: 1.5rem 0 0.75rem; color: var(--text-primary); }
+        .research-content h4 { font-size: 1rem; margin: 1rem 0 0.5rem; color: var(--text-secondary); }
+        .research-content p { margin-bottom: 1rem; color: var(--text-secondary); line-height: 1.7; }
+        .research-content ul { margin: 1rem 0; padding-left: 1.5rem; color: var(--text-secondary); }
+        .research-content li { margin: 0.5rem 0; }
+        .id-list { background: var(--bg-secondary); border: 1px solid var(--border); border-radius: 6px; padding: 1rem; margin: 1rem 0; }
+        .id-list-item { display: flex; align-items: flex-start; gap: 0.75rem; padding: 0.5rem 0; border-bottom: 1px solid var(--border); }
+        .id-list-item:last-child { border-bottom: none; }
+        .id-num { font-family: 'JetBrains Mono', monospace; font-size: 0.75rem; color: var(--accent); min-width: 1.5rem; }
+        .id-text { flex: 1; font-size: 0.9rem; color: var(--text-secondary); }
+        .highlight-box { background: rgba(88, 166, 255, 0.1); border: 1px solid var(--accent); border-radius: 6px; padding: 1rem; margin: 1rem 0; }
+        .highlight-box.warning { background: rgba(217, 153, 34, 0.1); border-color: var(--warning); }
+        .deadline-table { width: 100%; border-collapse: collapse; margin: 1rem 0; }
+        .deadline-table th, .deadline-table td { padding: 0.75rem 1rem; text-align: left; border-bottom: 1px solid var(--border); }
+        .deadline-table th { background: var(--bg-tertiary); font-family: 'JetBrains Mono', monospace; font-size: 0.8rem; color: var(--text-muted); }
+        .deadline-table td { color: var(--text-secondary); }
+        footer { background: var(--bg-secondary); border-top: 1px solid var(--border); padding: 1rem 1.5rem; text-align: center; }
+        footer p { color: var(--text-muted); font-size: 0.8rem; font-family: 'JetBrains Mono', monospace; }
+        footer a { color: var(--accent); text-decoration: none; }
+        @media (max-width: 768px) {
+            .sidebar { transform: translateX(-100%); transition: transform 0.2s; z-index: 1000; }
+            .sidebar.open { transform: translateX(0); }
+            .main-content { margin-left: 0; }
+        }
+    </style>
+</head>
+<body>
+    <div class="app-container">
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <div class="site-title">Texas<span>Elections</span>.Wiki</div>
+                <div class="site-subtitle">v1.2.0 — research</div>
+            </div>
+            <nav class="nav-section">
+                <div class="nav-label">Navigation</div>
+                <ul class="nav-menu">
+                    <li><a href="index.html"><span class="nav-icon">◎</span><span>Voting Map</span></a></li>
+                    <li><a href="legislation.html"><span class="nav-icon">§</span><span>Legislation</span></a></li>
+                </ul>
+                <div class="nav-label">Research</div>
+                <ul class="nav-menu">
+                    <li><a href="voting-systems.html"><span class="nav-icon">⊛</span><span>Voting Systems</span></a></li>
+                    <li><a href="voter-registration.html" class="active"><span class="nav-icon">✓</span><span>Voter Registration</span></a></li>
+                    <li><a href="county-admin.html"><span class="nav-icon">⌘</span><span>County Admin</span></a></li>
+                    <li><a href="legislators.html"><span class="nav-icon">⚖</span><span>Legislators</span></a></li>
+                </ul>
+                <div class="nav-label">Resources</div>
+                <ul class="nav-menu">
+                    <li><a href="resources.html"><span class="nav-icon">⌂</span><span>Resources</span></a></li>
+                    <li><a href="about.html"><span class="nav-icon">ℹ</span><span>About</span></a></li>
+                </ul>
+            </nav>
+            <div class="sidebar-footer">
+                <a href="https://github.com/texas-elections-wiki" target="_blank">GitHub →</a>
+            </div>
+        </aside>
+
+        <main class="main-content">
+            <div class="top-bar">
+                <div class="breadcrumb">Research / <span>Voter Registration</span></div>
+            </div>
+            
+            <div class="content-area">
+                <div class="page-header">
+                    <h1>Texas Voter Registration Analysis</h1>
+                    <p>Voter registration statistics, ID requirements, deadlines, and county-level data for March 2026</p>
+                </div>
+
+                <div class="research-content">
+                    
+                    <h2>Statewide Registration Statistics</h2>
+                    <p>As of the March 2026 Primary Election, Texas recorded its highest voter registration totals in state history:</p>
+                    
+                    <div class="stat-grid">
+                        <div class="stat-item">
+                            <div class="stat-value">18.7M</div>
+                            <div class="stat-label">Total Registered Voters</div>
+                            <div class="stat-note">March 2026 Primary</div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-value">1.23M</div>
+                            <div class="stat-label">Suspense Voters</div>
+                            <div class="stat-note">6.6% of total</div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-value">17.4M</div>
+                            <div class="stat-label">Active Voters</div>
+                            <div class="stat-note">Non-suspense status</div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-value">9,929</div>
+                            <div class="stat-label">Total Precincts</div>
+                            <div class="stat-note">Statewide</div>
+                        </div>
+                    </div>
+
+                    <span class="citation">[1] Texas Secretary of State, "March 2026 Voter Registration Figures," April 2026</span>
+
+                    <div class="info-box">
+                        <div class="info-box-header">Suspense Status Explained</div>
+                        <div class="info-box-content">
+                            <p>Voters are placed on "suspense" status when mail sent by the county voter registrar is returned as undeliverable, the voter fails to respond to address confirmation notices, or the voter's residence address cannot be verified. Suspense voters remain eligible to vote but must verify their current residence address before voting.</p>
+                        </div>
+                    </div>
+
+                    <h2>Major County Breakdowns</h2>
+                    
+                    <table class="data-table">
+                        <thead>
+                            <tr>
+                                <th>County</th>
+                                <th class="numeric">Precincts</th>
+                                <th class="numeric">Total Registered</th>
+                                <th class="numeric">Suspense</th>
+                                <th class="numeric">Active</th>
+                                <th class="numeric">Suspense Rate</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td><strong>Harris</strong></td>
+                                <td class="numeric">1,166</td>
+                                <td class="numeric">2,702,952</td>
+                                <td class="numeric">198,369</td>
+                                <td class="numeric">2,504,583</td>
+                                <td class="numeric">7.34%</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Dallas</strong></td>
+                                <td class="numeric">792</td>
+                                <td class="numeric">1,463,708</td>
+                                <td class="numeric">129,015</td>
+                                <td class="numeric">1,334,693</td>
+                                <td class="numeric">8.81%</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Tarrant</strong></td>
+                                <td class="numeric">708</td>
+                                <td class="numeric">1,306,427</td>
+                                <td class="numeric">73,067</td>
+                                <td class="numeric">1,233,360</td>
+                                <td class="numeric">5.59%</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Bexar</strong></td>
+                                <td class="numeric">807</td>
+                                <td class="numeric">1,293,128</td>
+                                <td class="numeric">64,001</td>
+                                <td class="numeric">1,229,127</td>
+                                <td class="numeric">4.95%</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Travis</strong></td>
+                                <td class="numeric">309</td>
+                                <td class="numeric">920,645</td>
+                                <td class="numeric">71,004</td>
+                                <td class="numeric">849,641</td>
+                                <td class="numeric">7.71%</td>
+                            </tr>
+                            <tr>
+                                <td>Collin</td>
+                                <td class="numeric">274</td>
+                                <td class="numeric">752,502</td>
+                                <td class="numeric">55,975</td>
+                                <td class="numeric">696,527</td>
+                                <td class="numeric">7.44%</td>
+                            </tr>
+                            <tr>
+                                <td>Denton</td>
+                                <td class="numeric">155</td>
+                                <td class="numeric">644,341</td>
+                                <td class="numeric">55,744</td>
+                                <td class="numeric">588,597</td>
+                                <td class="numeric">8.65%</td>
+                            </tr>
+                            <tr>
+                                <td>Fort Bend</td>
+                                <td class="numeric">295</td>
+                                <td class="numeric">567,664</td>
+                                <td class="numeric">43,375</td>
+                                <td class="numeric">524,289</td>
+                                <td class="numeric">7.64%</td>
+                            </tr>
+                            <tr>
+                                <td>Williamson</td>
+                                <td class="numeric">177</td>
+                                <td class="numeric">455,181</td>
+                                <td class="numeric">36,050</td>
+                                <td class="numeric">419,131</td>
+                                <td class="numeric">7.92%</td>
+                            </tr>
+                            <tr>
+                                <td>Hidalgo</td>
+                                <td class="numeric">260</td>
+                                <td class="numeric">451,612</td>
+                                <td class="numeric">18,752</td>
+                                <td class="numeric">432,860</td>
+                                <td class="numeric">4.15%</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                    <span class="citation">[2] Texas Secretary of State, "March 2026 Voter Registration Figures," county-level breakdown</span>
+
+                    <h2>Voter Identification Requirements</h2>
+                    
+                    <h3>Acceptable Photo ID (List A)</h3>
+                    <p>Under Texas Election Code Section 63.0101(a), voters must present one of seven acceptable forms of photo identification:</p>
+                    
+                    <div class="id-list">
+                        <div class="id-list-item">
+                            <span class="id-num">1</span>
+                            <span class="id-text">Texas Driver License (issued by DPS)</span>
+                        </div>
+                        <div class="id-list-item">
+                            <span class="id-num">2</span>
+                            <span class="id-text">Texas Election Identification Certificate (issued by DPS)</span>
+                        </div>
+                        <div class="id-list-item">
+                            <span class="id-num">3</span>
+                            <span class="id-text">Texas Personal Identification Card (issued by DPS)</span>
+                        </div>
+                        <div class="id-list-item">
+                            <span class="id-num">4</span>
+                            <span class="id-text">Texas License to Carry a Handgun (issued by DPS)</span>
+                        </div>
+                        <div class="id-list-item">
+                            <span class="id-num">5</span>
+                            <span class="id-text">United States Military Identification Card (with photograph)</span>
+                        </div>
+                        <div class="id-list-item">
+                            <span class="id-num">6</span>
+                            <span class="id-text">United States Citizenship Certificate (with photograph)</span>
+                        </div>
+                        <div class="id-list-item">
+                            <span class="id-num">7</span>
+                            <span class="id-text">United States Passport (book or card)</span>
+                        </div>
+                    </div>
+
+                    <h3>Expiration Rules</h3>
+                    <table class="deadline-table">
+                        <thead>
+                            <tr>
+                                <th>Age Group</th>
+                                <th>Expiration Tolerance</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Ages 18-69</td>
+                                <td>ID may be expired up to <strong>4 years</strong></td>
+                            </tr>
+                            <tr>
+                                <td>Age 70+</td>
+                                <td>ID may be expired for <strong>any length of time</strong> if otherwise valid</td>
+                            </tr>
+                            <tr>
+                                <td>All Ages</td>
+                                <td>U.S. Citizenship Certificate never expires</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                    <div class="highlight-box warning">
+                        <strong>Address Matching:</strong> Election officers <em>CANNOT</em> reject identification solely because the address on the ID does not match the address on the voter registration list. The ID is used only for identity verification, not residence verification.
+                    </div>
+
+                    <span class="citation">[3] Texas Election Code §63.0101; Texas Secretary of State, "Acceptable Forms of Identification"</span>
+
+                    <h2>Reasonable Impediment Declaration (RID)</h2>
+                    <p>Voters who <strong>do not possess and cannot reasonably obtain</strong> an acceptable photo ID may still vote by presenting a supporting form of ID and completing a Reasonable Impediment Declaration.</p>
+                    
+                    <h3>Supporting Documentation (List B)</h3>
+                    <ul>
+                        <li>Voter registration certificate</li>
+                        <li>Current utility bill</li>
+                        <li>Bank statement</li>
+                        <li>Government check</li>
+                        <li>Paycheck</li>
+                        <li>Certified domestic birth certificate</li>
+                        <li>Other government document showing voter's name and address</li>
+                    </ul>
+
+                    <h3>Reasonable Impediments</h3>
+                    <p>Voters may declare one of the following impediments (per Section 63.001(i)):</p>
+                    <ol>
+                        <li>Lack of transportation</li>
+                        <li>Disability or illness</li>
+                        <li>Lack of birth certificate or documents needed to obtain ID</li>
+                        <li>Work schedule</li>
+                        <li>Family responsibilities</li>
+                        <li>Lost or stolen identification</li>
+                        <li>Photo ID applied for but not received</li>
+                    </ol>
+
+                    <span class="citation">[4] Tex. Elec. Code §63.001(i); SOS "Voter Identification Requirements and Resources," October 2025</span>
+
+                    <h2>Registration Deadlines</h2>
+                    
+                    <table class="deadline-table">
+                        <thead>
+                            <tr>
+                                <th>Election</th>
+                                <th>Registration Deadline</th>
+                                <th>Early Voting</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td><strong>May 2, 2026</strong> (Uniform)</td>
+                                <td>April 2, 2026</td>
+                                <td>April 20-28, 2026</td>
+                            </tr>
+                            <tr>
+                                <td><strong>May 26, 2026</strong> (Primary Runoff)</td>
+                                <td>April 27, 2026</td>
+                                <td>May 12-20, 2026</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                    <p>General rule: Registration must be completed <strong>30 days before Election Day</strong>. Applications must be received by the county voter registrar by the deadline (not postmarked).</p>
+
+                    <h3>Provisional Voting</h3>
+                    <p>If a voter lacks both acceptable photo ID and supporting documentation with RID, they may cast a <strong>provisional ballot</strong>. To have the ballot counted, the voter must appear at the county voter registrar's office within <strong>six calendar days</strong> after Election Day and present acceptable documentation or qualify for an exemption.</p>
+
+                    <span class="citation">[5] Texas Secretary of State, "Voter Identification Requirements and Resources"</span>
+
+                    <h2>2026 Primary Turnout Records</h2>
+                    <p>The March 2026 Primary Election set records for midterm primary participation in Texas:</p>
+                    
+                    <div class="stat-grid">
+                        <div class="stat-item">
+                            <div class="stat-value">4.35M</div>
+                            <div class="stat-label">Total Votes Cast</div>
+                            <div class="stat-note">144% of 2022 primary</div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-value">53%</div>
+                            <div class="stat-label">Early Voting Share</div>
+                            <div class="stat-note">2.3M votes</div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-value">2.2M</div>
+                            <div class="stat-label">Democratic Votes</div>
+                            <div class="stat-note">1.2M early + 981K ED</div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-value">2.15M</div>
+                            <div class="stat-label">Republican Votes</div>
+                            <div class="stat-note">1.08M early + 1.07M ED</div>
+                        </div>
+                    </div>
+
+                    <div class="highlight-box">
+                        <strong>Historical Note:</strong> Democrats led early voting statewide by 133,000 votes—the first time Democrats led Republican early voting in a midterm primary since at least 2010. The competitive Crockett vs. Talarico Senate race is widely credited with driving the Democratic surge.
+                    </div>
+
+                    <span class="citation">[6] TexPolls, "2026 Texas Primary Turnout Results & Voting Data," March 2026</span>
+
+                    <h2>Legal Framework</h2>
+                    
+                    <table class="data-table">
+                        <thead>
+                            <tr>
+                                <th>Code Section</th>
+                                <th>Subject</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Tex. Elec. Code §63.001</td>
+                                <td>Regular Procedure for Accepting Voter</td>
+                            </tr>
+                            <tr>
+                                <td>Tex. Elec. Code §63.0101</td>
+                                <td>Documentation of Proof of Identification</td>
+                            </tr>
+                            <tr>
+                                <td>Tex. Elec. Code §63.011</td>
+                                <td>Provisional Voting</td>
+                            </tr>
+                            <tr>
+                                <td>Tex. Elec. Code §63.0011</td>
+                                <td>Statement of Residence Required</td>
+                            </tr>
+                            <tr>
+                                <td>Tex. Elec. Code §63.0015</td>
+                                <td>Accepting Voters with Certain Disabilities</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                    <h3>Amendment History</h3>
+                    <ul>
+                        <li><strong>2011 (SB 14, 82nd Leg.):</strong> Original photo ID requirement (effective January 1, 2012)</li>
+                        <li><strong>2017 (SB 5, 85th Leg.):</strong> Added Reasonable Impediment Declaration process (effective January 1, 2018)</li>
+                        <li><strong>2021 (HB 368, 87th Leg.):</strong> Technical amendments to identification provisions</li>
+                    </ul>
+
+                    <span class="citation">[7] Texas Election Code §63.0101 Amendment History; Texas Legislature Online</span>
+
+                </div>
+
+                <footer>
+                    <p>Source: <a href="../docs/research/voter_registration.md" target="_blank">voter_registration.md</a> | Data: TX SOS March 2026 | Citation Policy: <a href="about.html">About</a></p>
+                </footer>
+            </div>
+        </main>
+    </div>
+</body>
+</html>
