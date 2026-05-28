@@ -1,0 +1,1160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ken Paxton: The Record | Texas Elections Wiki</title>
+    <meta name="description" content="Opposition research on Ken Paxton's record of legal trouble, corruption allegations, and abuse of public office">
+    
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    
+    <style>
+
+        :root {
+            --bg-primary: #0d1117;
+            --bg-secondary: #161b22;
+            --bg-tertiary: #21262d;
+            --text-primary: #e6edf3;
+            --text-secondary: #8b949e;
+            --text-muted: #6e7681;
+            --accent: #58a6ff;
+            --accent-dim: #388bfd;
+            --border: #30363d;
+            --success: #3fb950;
+            --warning: #d29922;
+            --extended: #d29922;
+            --regular: #58a6ff;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+        
+        /* Layout */
+        .app-container {
+            display: flex;
+            min-height: 100vh;
+        }
+        
+        /* Sidebar */
+        .sidebar {
+            width: 260px;
+            background: var(--bg-secondary);
+            border-right: 1px solid var(--border);
+            display: flex;
+            flex-direction: column;
+            position: fixed;
+            height: 100vh;
+            overflow-y: auto;
+        }
+        
+        .sidebar-header {
+            padding: 1.5rem;
+            border-bottom: 1px solid var(--border);
+        }
+        
+        .site-title {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 1rem;
+            font-weight: 600;
+            color: var(--text-primary);
+        }
+        
+        .site-title span {
+            color: var(--accent);
+        }
+        
+        .site-subtitle {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            margin-top: 0.25rem;
+        }
+        
+        .nav-section {
+            padding: 1rem 0;
+        }
+        
+        .nav-label {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.7rem;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            padding: 0 1.5rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .nav-menu {
+            list-style: none;
+        }
+        
+        .nav-menu li {
+            margin: 0;
+        }
+        
+        .nav-menu a {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            padding: 0.5rem 1.5rem;
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            transition: all 0.15s ease;
+            border-left: 2px solid transparent;
+        }
+        
+        .nav-menu a:hover,
+        .nav-menu a.active {
+            color: var(--text-primary);
+            background: var(--bg-tertiary);
+            border-left-color: var(--accent);
+        }
+        
+        .nav-icon {
+            width: 16px;
+            text-align: center;
+            color: var(--text-muted);
+        }
+        
+        .nav-menu a:hover .nav-icon,
+        .nav-menu a.active .nav-icon {
+            color: var(--accent);
+        }
+        
+        .sidebar-footer {
+            margin-top: auto;
+            padding: 1rem 1.5rem;
+            border-top: 1px solid var(--border);
+        }
+        
+        .sidebar-footer a {
+            color: var(--text-muted);
+            text-decoration: none;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.75rem;
+            transition: color 0.15s;
+        }
+        
+        .sidebar-footer a:hover {
+            color: var(--accent);
+        }
+        
+        /* Main Content */
+        .main-content {
+            flex: 1;
+            margin-left: 260px;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        /* Top Bar */
+        .top-bar {
+            background: var(--bg-secondary);
+            border-bottom: 1px solid var(--border);
+            padding: 0.75rem 1.5rem;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        
+        .breadcrumb {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.8rem;
+            color: var(--text-muted);
+        }
+        
+        .breadcrumb span {
+            color: var(--text-secondary);
+        }
+        
+        .status-indicator {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.75rem;
+            color: var(--text-muted);
+        }
+        
+        .status-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: var(--success);
+            animation: pulse 2s infinite;
+        }
+        
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+        
+        /* Page Navigation */
+        .page-nav {
+            display: flex;
+            gap: 0.5rem;
+            margin-bottom: 1.5rem;
+            flex-wrap: wrap;
+        }
+        
+        .page-nav-item {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.6rem 1rem;
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            transition: all 0.15s ease;
+        }
+        
+        .page-nav-item:hover {
+            border-color: var(--accent);
+            color: var(--text-primary);
+        }
+        
+        .page-nav-item.active {
+            background: var(--accent);
+            border-color: var(--accent);
+            color: var(--bg-primary);
+        }
+        
+        .page-nav-icon {
+            font-size: 1rem;
+        }
+        
+        /* Content Area */
+        .content-area {
+            flex: 1;
+            padding: 1.5rem;
+            overflow-y: auto;
+        }
+        
+        .page-header {
+            margin-bottom: 1.5rem;
+        }
+        
+        .page-header h1 {
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: var(--text-primary);
+            margin-bottom: 0.5rem;
+        }
+        
+        .page-header p {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+        }
+        
+        /* Terminal-style info box */
+        .info-box {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            margin-bottom: 1.5rem;
+            overflow: hidden;
+        }
+        
+        .info-box-header {
+            background: var(--bg-tertiary);
+            padding: 0.5rem 1rem;
+            border-bottom: 1px solid var(--border);
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        
+        .info-box-header span {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.75rem;
+            color: var(--text-muted);
+        }
+        
+        .info-box-content {
+            padding: 1rem;
+        }
+        
+        /* Legend */
+        .legend {
+            display: flex;
+            gap: 2rem;
+            flex-wrap: wrap;
+        }
+        
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+        }
+        
+        .legend-marker {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            border: 2px solid;
+        }
+        
+        .legend-marker.extended {
+            background: var(--extended);
+            border-color: var(--extended);
+            box-shadow: 0 0 8px rgba(210, 153, 34, 0.5);
+        }
+        
+        .legend-marker.regular {
+            background: var(--regular);
+            border-color: var(--regular);
+            box-shadow: 0 0 8px rgba(88, 166, 255, 0.5);
+        }
+        
+        /* Map */
+        #map {
+            height: 60vh;
+            min-height: 400px;
+            background: var(--bg-tertiary);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+        }
+        
+        /* Leaflet overrides for dark theme */
+        .leaflet-popup-content-wrapper {
+            background: var(--bg-secondary);
+            color: var(--text-primary);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+        }
+        
+        .leaflet-popup-tip {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+        }
+        
+        /* Popup Styles */
+        .location-popup h3 {
+            font-size: 1rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+            color: var(--text-primary);
+        }
+        
+        .location-popup .address {
+            color: var(--text-secondary);
+            font-size: 0.85rem;
+            margin-bottom: 0.25rem;
+            font-family: 'JetBrains Mono', monospace;
+        }
+        
+        .location-popup .room {
+            color: var(--text-muted);
+            font-size: 0.8rem;
+            margin-bottom: 0.75rem;
+        }
+        
+        .location-popup .hours {
+            background: var(--bg-tertiary);
+            border: 1px solid var(--border);
+            border-radius: 4px;
+            padding: 0.5rem;
+            font-size: 0.8rem;
+            margin-bottom: 0.75rem;
+            font-family: 'JetBrains Mono', monospace;
+        }
+        
+        .location-popup .extended-badge {
+            background: rgba(210, 153, 34, 0.2);
+            border: 1px solid var(--extended);
+            color: var(--extended);
+            font-size: 0.75rem;
+            font-weight: 500;
+            padding: 0.25rem 0.5rem;
+            border-radius: 3px;
+            display: inline-block;
+            margin-bottom: 0.75rem;
+            font-family: 'JetBrains Mono', monospace;
+        }
+        
+        .location-popup .info-section {
+            margin-top: 0.75rem;
+        }
+        
+        .location-popup .info-label {
+            font-size: 0.7rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: var(--text-muted);
+            margin-bottom: 0.25rem;
+        }
+        
+        .location-popup .info-text {
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+        }
+        
+        /* Footer */
+        footer {
+            background: var(--bg-secondary);
+            border-top: 1px solid var(--border);
+            padding: 1rem 1.5rem;
+            text-align: center;
+        }
+        
+        footer p {
+            color: var(--text-muted);
+            font-size: 0.8rem;
+            font-family: 'JetBrains Mono', monospace;
+        }
+        
+        footer a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+        
+        footer a:hover {
+            text-decoration: underline;
+        }
+        
+        /* Mobile */
+        @media (max-width: 768px) {
+            .sidebar {
+                transform: translateX(-100%);
+                transition: transform 0.2s ease;
+                z-index: 1000;
+            }
+            
+            .sidebar.open {
+                transform: translateX(0);
+            }
+            
+            .main-content {
+                margin-left: 0;
+            }
+            
+            .mobile-menu-toggle {
+                display: block;
+                background: none;
+                border: none;
+                color: var(--text-primary);
+                font-size: 1.25rem;
+                cursor: pointer;
+            }
+        }
+        
+        @media (min-width: 769px) {
+            .mobile-menu-toggle {
+                display: none;
+            }
+        }
+    
+
+        /* Paxton page wrapper */
+        .paxton-wrapper {
+            background: #f5f5f5;
+            padding: 20px;
+            min-height: calc(100vh - 48px);
+        }
+        .paxton-page {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            line-height: 1.6;
+            color: #333;
+        }
+
+        /* Scoped Paxton content styles */
+
+.paxton-page * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+.paxton-page body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: #f5f5f5;
+            padding: 20px;
+        }
+        
+.paxton-page .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        
+.paxton-page h1 {
+            color: #1a1a1a;
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            border-bottom: 4px solid #d32f2f;
+            padding-bottom: 15px;
+        }
+        
+.paxton-page .subtitle {
+            color: #666;
+            font-size: 1.1rem;
+            margin-bottom: 30px;
+            font-style: italic;
+        }
+        
+.paxton-page .key-facts {
+            background: #ffebee;
+            border-left: 4px solid #d32f2f;
+            padding: 20px;
+            margin: 30px 0;
+        }
+        
+.paxton-page .key-facts h2 {
+            color: #c62828;
+            margin-bottom: 15px;
+            font-size: 1.3rem;
+        }
+        
+.paxton-page .key-facts ul {
+            list-style: none;
+            padding-left: 0;
+        }
+        
+.paxton-page .key-facts li {
+            margin: 10px 0;
+            padding-left: 25px;
+            position: relative;
+        }
+        
+.paxton-page .key-facts li:before {
+            content: "⚠️";
+            position: absolute;
+            left: 0;
+        }
+        
+        /* Timeline Styles */
+.paxton-page .timeline {
+            position: relative;
+            margin: 40px 0;
+            padding-left: 30px;
+        }
+        
+.paxton-page .timeline::before {
+            content: '';
+            position: absolute;
+            left: 8px;
+            top: 0;
+            bottom: 0;
+            width: 3px;
+            background: #d32f2f;
+        }
+        
+.paxton-page .timeline-item {
+            position: relative;
+            margin-bottom: 30px;
+            padding-left: 30px;
+        }
+        
+.paxton-page .timeline-item::before {
+            content: '';
+            position: absolute;
+            left: -26px;
+            top: 5px;
+            width: 16px;
+            height: 16px;
+            border-radius: 50%;
+            background: #d32f2f;
+            border: 3px solid #fff;
+            box-shadow: 0 0 0 2px #d32f2f;
+        }
+        
+.paxton-page .timeline-item.indictment::before {
+            background: #c62828;
+            box-shadow: 0 0 0 2px #c62828, 0 0 10px #c62828;
+        }
+        
+.paxton-page .timeline-item.impeachment::before {
+            background: #d32f2f;
+            box-shadow: 0 0 0 2px #d32f2f, 0 0 15px #d32f2f;
+        }
+        
+.paxton-page .timeline-date {
+            font-weight: bold;
+            color: #d32f2f;
+            font-size: 0.95rem;
+            display: block;
+            margin-bottom: 5px;
+        }
+        
+.paxton-page .timeline-content h3 {
+            color: #1a1a1a;
+            font-size: 1.2rem;
+            margin-bottom: 8px;
+        }
+        
+.paxton-page .timeline-content p {
+            color: #444;
+            margin-bottom: 8px;
+        }
+        
+.paxton-page .timeline-content .detail {
+            font-size: 0.9rem;
+            color: #666;
+            margin-top: 10px;
+            padding: 10px;
+            background: #f5f5f5;
+            border-radius: 4px;
+        }
+        
+.paxton-page h2 {
+            color: #1a1a1a;
+            margin: 40px 0 20px 0;
+            font-size: 1.5rem;
+            border-bottom: 2px solid #eee;
+            padding-bottom: 10px;
+        }
+        
+.paxton-page .section {
+            margin: 30px 0;
+        }
+        
+.paxton-page .section h3 {
+            color: #d32f2f;
+            margin: 20px 0 10px 0;
+            font-size: 1.2rem;
+        }
+        
+.paxton-page .document-box {
+            background: #fafafa;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 20px 0;
+        }
+        
+.paxton-page .document-box h4 {
+            color: #333;
+            margin-bottom: 10px;
+        }
+        
+.paxton-page .document-meta {
+            font-size: 0.85rem;
+            color: #666;
+            margin-bottom: 15px;
+        }
+        
+.paxton-page .document-preview {
+            background: #fff;
+            border: 1px solid #e0e0e0;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 4px;
+            font-family: monospace;
+            font-size: 0.85rem;
+            color: #666;
+            max-height: 200px;
+            overflow-y: auto;
+        }
+        
+.paxton-page .document-link {
+            display: inline-block;
+            background: #d32f2f;
+            color: #fff;
+            padding: 8px 16px;
+            text-decoration: none;
+            border-radius: 4px;
+            margin-top: 10px;
+            font-size: 0.9rem;
+        }
+        
+.paxton-page .document-link:hover {
+            background: #b71c1c;
+        }
+        
+.paxton-page .source-list {
+            font-size: 0.9rem;
+            color: #666;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 2px solid #eee;
+        }
+        
+.paxton-page .source-list h3 {
+            color: #333;
+            margin-bottom: 15px;
+        }
+        
+.paxton-page .source-list ul {
+            list-style: none;
+        }
+        
+.paxton-page .source-list li {
+            margin: 8px 0;
+            padding-left: 20px;
+            position: relative;
+        }
+        
+.paxton-page .source-list li::before {
+            content: "🔗";
+            position: absolute;
+            left: 0;
+        }
+        
+.paxton-page .source-list a {
+            color: #d32f2f;
+            text-decoration: none;
+        }
+        
+.paxton-page .source-list a:hover {
+            text-decoration: underline;
+        }
+        
+.paxton-page .callout-box {
+            background: #263238;
+            color: #fff;
+            padding: 25px;
+            border-radius: 8px;
+            margin: 30px 0;
+        }
+        
+.paxton-page .callout-box h3 {
+            color: #ff5252;
+            margin-bottom: 15px;
+            font-size: 1.3rem;
+        }
+        
+.paxton-page .callout-box p {
+            color: #e0e0e0;
+            margin: 10px 0;
+        }
+        
+.paxton-page @media (max-width: 600px) {.paxton-page .container {
+                padding: 20px;
+            }
+            
+.paxton-page h1 {
+                font-size: 1.8rem;
+            }
+            
+.paxton-page .timeline {
+                padding-left: 20px;
+            }
+        }
+    
+    </style>
+</head>
+<body>
+    <div class="app-container">
+<aside class="sidebar" id="sidebar">
+            <div class="sidebar-header">
+                <div class="site-title">Texas<span>Elections</span>.Wiki</div>
+                <div class="site-subtitle">v1.2.0 — research</div>
+            </div>
+            
+            <nav class="nav-section">
+                <div class="nav-label">Navigation</div>
+                <ul class="nav-menu">
+                    <li>
+                        <a href="index.html" >
+                            <span class="nav-icon">◎</span>
+                            <span>Voting Map</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="legislation.html">
+                            <span class="nav-icon">§</span>
+                            <span>Legislation</span>
+                        </a>
+                    </li>
+                    <li><a href="paxtonresearch.html" class="active"><span class="nav-icon">⚠</span><span>Paxton Research</span></a></li>
+                </ul>
+                
+                <div class="nav-label">Research</div>
+                <ul class="nav-menu">
+                    <li>
+                        <a href="voting-systems.html">
+                            <span class="nav-icon">⊛</span>
+                            <span>Voting Systems</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="voter-registration.html">
+                            <span class="nav-icon">✓</span>
+                            <span>Voter Registration</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="county-admin.html">
+                            <span class="nav-icon">⌘</span>
+                            <span>County Admin</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="legislators.html">
+                            <span class="nav-icon">⚖</span>
+                            <span>Legislators</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="municipal.html">
+                            <span class="nav-icon">★</span>
+                            <span>Municipal</span>
+                        </a>
+                    </li>
+
+                </ul>
+                
+                <div class="nav-label">Resources</div>
+                <ul class="nav-menu">
+                    <li>
+                        <a href="resources.html">
+                            <span class="nav-icon">⌂</span>
+                            <span>Resources</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="about.html">
+                            <span class="nav-icon">ℹ</span>
+                            <span>About</span>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+        </aside>
+        
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Top Bar -->
+            <div class="top-bar">
+                <button class="mobile-menu-toggle" onclick="toggleSidebar()">☰</button>
+                <div class="breadcrumb">
+                    <span>~/</span>research<span>/</span>paxton
+                </div>
+                <div class="status-indicator">
+                    <span class="status-dot"></span>
+                    <span>record compiled</span>
+                </div>
+            </div>
+            
+            <!-- Content Area -->
+            <div class="content-area" style="padding:0;">
+                <div class="paxton-wrapper">
+                    <div class="paxton-page">
+<div class="container">
+        <h1>Ken Paxton: The Record</h1>
+        <p class="subtitle">A decade of legal trouble, corruption allegations, and using public office for personal gain</p>
+        
+        <div class="key-facts">
+            <h2>Key Facts at a Glance</h2>
+            <ul>
+                <li><strong>Under criminal indictment for 10+ years</strong> — Felony securities fraud charges from 2015, still awaiting trial</li>
+                <li><strong>Impeached by Texas House</strong> — 121-23 vote on 20 articles of corruption, including bribery and obstruction</li>
+                <li><strong>Used AG office to help political donor</strong> — Intervened in lawsuits, abused open records process for Nate Paul</li>
+                <li><strong>Fired whistleblowers</strong> — Terminated 6 staffers who reported his illegal acts</li>
+                <li><strong>Saved by billionaire oil backers</strong> — Tim Dunn & Farris Wilks poured millions into PACs to protect him</li>
+                <li><strong>$3.3M taxpayer-funded settlement</strong> — Used public money to settle wrongful termination lawsuit</li>
+            </ul>
+        </div>
+
+        <h2>Timeline: A Decade of Corruption</h2>
+        
+        <div class="timeline">
+            <div class="timeline-item indictment">
+                <span class="timeline-date">July 28, 2015</span>
+                <div class="timeline-content">
+                    <h3>Indicted on Felony Securities Fraud</h3>
+                    <p>Collin County grand jury indicts Paxton on <strong>three felony counts</strong>: two first-degree securities fraud charges and one third-degree charge for failing to register as a securities agent.</p>
+                    <div class="detail">
+                        <strong>The Scheme:</strong> Persuaded investors (including State Rep. Byron Cook) to put $600K+ into tech firm Servergy Inc. without disclosing he was receiving <strong>100,000 shares</strong> in compensation.<br><br>
+                        <strong>Penalty if convicted:</strong> 5-99 years or life in prison, plus $10,000 fine per count.
+                    </div>
+                </div>
+            </div>
+            
+            <div class="timeline-item">
+                <span class="timeline-date">August 3, 2015</span>
+                <div class="timeline-content">
+                    <h3>Surrenders to Jail</h3>
+                    <p>Turns himself in at Collin County Jail, books mugshot in pinstriped suit and red tie. Released on $35,000 bond.</p>
+                </div>
+            </div>
+            
+            <div class="timeline-item">
+                <span class="timeline-date">April 11, 2016</span>
+                <div class="timeline-content">
+                    <h3>SEC Files Civil Fraud Charges</h3>
+                    <p>Securities and Exchange Commission charges Paxton with misleading investors in Servergy. Raised $840,000 while hiding commission payments.</p>
+                    <div class="detail">
+                        The company falsely claimed pre-orders from Amazon and Freescale — all lies. Paxton pitched to "friends, business associates, law firm clients" while concealing his compensation.
+                    </div>
+                </div>
+            </div>
+            
+            <div class="timeline-item">
+                <span class="timeline-date">2018</span>
+                <div class="timeline-content">
+                    <h3>Narrowly Wins Reelection</h3>
+                    <p>Indictment becomes campaign issue but survives to second term under criminal cloud. Trial repeatedly delayed by legal maneuvering over venue and prosecutor pay.</p>
+                </div>
+            </div>
+            
+            <div class="timeline-item">
+                <span class="timeline-date">2023</span>
+                <div class="timeline-content">
+                    <h3>The Nate Paul Scandal Erupts</h3>
+                    <p>AG office staff report Paxton to FBI for abusing office to help donor Nate Paul — a real estate developer facing foreclosure.</p>
+                    <div class="detail">
+                        <strong>Key Allegations:</strong><br>
+                        • Intervened in lawsuit between charity and Paul<br>
+                        • Used "straw requestor" Sen. Bryan Hughes to get AG opinion<br>
+                        • Gave Paul confidential law enforcement information<br>
+                        • Hired outside attorney to issue 30+ grand jury subpoenas for Paul's benefit
+                    </div>
+                </div>
+            </div>
+            
+            <div class="timeline-item impeachment">
+                <span class="timeline-date">May 27, 2023</span>
+                <div class="timeline-content">
+                    <h3>Impeached by Texas House</h3>
+                    <p>Historic vote: <strong>121-23</strong> to impeach on 20 articles. Includes 60 Republicans and all 5 Collin County representatives — Paxton's home county.</p>
+                    <div class="detail">
+                        <strong>Articles include:</strong> Bribery, abuse of public trust, dereliction of duty, obstruction of justice, retaliation against whistleblowers, misuse of public information.<br><br>
+                        <strong>Immediate suspension</strong> from office pending Senate trial.
+                    </div>
+                </div>
+            </div>
+            
+            <div class="timeline-item">
+                <span class="timeline-date">September 2023</span>
+                <div class="timeline-content">
+                    <h3>Acquitted in Senate Trial — After Rigged Process</h3>
+                    <p>Dan Patrick presides over trial with rules requiring "beyond reasonable doubt" standard (criminal standard, not impeachment standard).</p>
+                    <div class="detail">
+                        <strong>$3 Million Donation:</strong> Defend Texas Liberty PAC (Dunn/Wilks funded) gave Lt. Gov. Dan Patrick $3M weeks before the trial while he was set to preside as judge.<br><br>
+                        <strong>Improper Influence:</strong> Patrick's committee set rules giving him "near total control" over proceedings. Paxton's alleged mistress never testified.
+                    </div>
+                </div>
+            </div>
+            
+            <div class="timeline-item">
+                <span class="timeline-date">May 26, 2026</span>
+                <div class="timeline-content">
+                    <h3>Wins GOP Senate Nomination</h3>
+                    <p>Defeats John Cornyn in primary runoff. Now faces James Talarico in November general election.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="callout-box">
+            <h3>The Dunn & Wilks Machine</h3>
+            <p>West Texas billionaires <strong>Tim Dunn</strong> and <strong>Farris Wilks</strong> have pumped <strong>$10M+</strong> into pro-Paxton PACs to protect their agenda:</p>
+            <p>• $11M raised by Defend Texas Liberty PAC 2020-2022 — <strong>几乎全部 from Dunn/Wilks</strong></p>
+            <p>• PAC Chairman Jonathan Stickland threatened primaries for pro-impeachment Republicans: "Wait till you see my PAC budget"</p>
+            <p>• PAC later embroiled in scandal over meeting with white supremacist Nick Fuentes</p>
+            <p>• Dunn/Wilks also pushed Christian nationalist agenda: anti-abortion, anti-LGBTQ+, school privatization</p>
+        </div>
+
+        <h2>Primary Source Documents</h2>
+        
+        <div class="document-box">
+            <h4>🔗 Texas House Articles of Impeachment (HR 2377)</h4>
+            <p class="document-meta">Filed May 25, 2023 | Official Texas Legislature Document</p>
+            <div class="document-preview">
+BE IT RESOLVED by the House of Representatives of the 
+State of Texas, That Warren Kenneth Paxton Jr., Attorney 
+General of the State of Texas, is impeached...
+
+ARTICLE I: (Disregard of Official Duty-Protection of 
+Charitable Organization)
+Specifically, Paxton caused employees of his office to 
+intervene in a lawsuit brought by the Roy F. & JoAnn Cole 
+Mitte Foundation against several corporate entities controlled 
+by Nate Paul. Paxton harmed the Mitte Foundation in an effort 
+to benefit Paul.
+
+ARTICLE VI: (Disregard of Official Duty-Termination of 
+Whistleblowers)
+Paxton terminated employees of his office who made good faith 
+reports of his unlawful actions to law enforcement authorities...
+            </div>
+            <a href="https://capitol.texas.gov/tlodocs/88R/billtext/html/HR02377I.htm" class="document-link" target="_blank">View Full Document on Texas Legislature Website</a>
+        </div>
+        
+        <div class="document-box">
+            <h4>🔗 Original Criminal Indictment (July 2015)</h4>
+            <p class="document-meta">Collin County Grand Jury | 416th Judicial District</p>
+            <div class="document-preview">
+THE STATE OF TEXAS v. WARREN KENNETH PAXTON, JR.
+IN THE 416TH JUDICIAL DISTRICT COURT OF COLLIN COUNTY
+
+COUNT 1: Securities Fraud (First Degree Felony)
+...did then and there engage in fraud in connection with 
+the offer for sale and sale of common stock of SERVERGY, INC.
+...by intentionally failing to disclose that defendant would 
+be compensated, and had in fact received compensation...
+in the form of 100,000 shares of SERVERGY stock...
+            </div>
+            <a href="https://www.scribd.com/document/273443157/Paxton-Indictments" class="document-link" target="_blank">View on Scribd (Public Court Document)</a>
+        </div>
+        
+        <div class="document-box">
+            <h4>🔗 Committee Memo on Impeachment Process</h4>
+            <p class="document-meta">House Committee on General Investigating | May 26, 2023</p>
+            <div class="document-preview">
+TO: Members of the House of Representatives
+FROM: House Committee on General Investigating
+RE: Impeachment Process
+
+...Paxton's own request for a taxpayer-funded settlement over his 
+wrongful conduct triggered impeachment...
+
+...Paxton's long-standing pattern of abuse of office and public 
+trust, disregard and dereliction of duty, and obstruction of 
+justice and abuse of judicial process...
+            </div>
+            <a href="https://static.texastribune.org/media/files/37dfc32e8a9ab6db4c41061aabae51d4/GI%20Impeachment%20Memo.pdf" class="document-link" target="_blank">View PDF via Texas Tribune</a>
+        </div>
+
+        <h2>CASE FILE: The Servergy Securities Fraud</h2>
+        
+        <div class="callout-box" style="background: #3c1f1f; border-left: 4px solid #d32f2f;">
+            <h3>📁 Primary Allegations</h3>
+            <p>While serving in the Texas House, Ken Paxton allegedly <strong>agreed to promote Servergy Inc. stock</strong> to investors in exchange for 100,000 shares — all while concealing his compensation and the company's fraudulent claims.</p>
+        </div>
+        
+        <div class="document-box" style="border-color: #d32f2f;">
+            <h4>📄 SEC Litigation Release No. 23515</h4>
+            <p class="document-meta"><strong>Filed:</strong> April 11, 2016 | <strong>Case:</strong> SEC v. William E. Mapp, III, et al., No. 4:16-cv-000246 (E.D. Tex.)</p>
+            
+            <div class="document-preview">
+THE SECURITIES AND EXCHANGE COMMISSION: 
+
+"The SEC alleges that Servergy Inc. and William E. Mapp III sold $26 million worth of company stock in private offerings while misleading investors to believe that the Cleantech CTS-1000 server (the company's sole product) was especially energy-efficient. They said it could replace 'power-hungry' servers found in top data centers and compete directly with top server makers like IBM, Dell, and Hewlett Packard. However... the companies were manufacturing high-performance servers with 64-bit processors while the CTS-1000 had a less powerful 32-bit processor that was being phased out of the industry and could not in reality compete against those companies."
+
+ON PAXTON'S ROLE:
+"While serving in the Texas House of Representatives, Paxton allegedly reached an agreement with Mapp to promote Servergy to prospective investors in return for shares of Servergy stock. According to the SEC's complaint, Paxton raised $840,000 in investor funds for Servergy and received 100,000 shares of stock in return, but never disclosed his commissions to prospective investors while recruiting them."
+            </div>
+            <a href="https://www.sec.gov/litigation/litreleases/2016/lr23515.htm" class="document-link" target="_blank">View Full SEC Litigation Release</a>
+        </div>
+        
+        <div class="section">
+            <h3>🔍 How the Fraud Worked</h3>
+            
+            <table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
+                <tr style="background: #ffebee;">
+                    <td style="padding: 12px; border: 1px solid #ef9a9a; width: 30%;"><strong>THE LIE</strong></td>
+                    <td style="padding: 12px; border: 1px solid #ef9a9a;"><strong>THE REALITY</strong></td>
+                </tr>
+                <tr>
+                    <td style="padding: 12px; border: 1px solid #e0e0e0;">"Energy-efficient server using 80% less power"</td>
+                    <td style="padding: 12px; border: 1px solid #e0e0e0;">Used <strong>obsolete 32-bit processors</strong> being phased out industry-wide</td>
+                </tr>
+                <tr>
+                    <td style="padding: 12px; border: 1px solid #e0e0e0;">"Competes with IBM, Dell, HP"</td>
+                    <td style="padding: 12px; border: 1px solid #e0e0e0;">Competitors manufactured <strong>64-bit systems</strong>; CTS-1000 could not compete</td>
+                </tr>
+                <tr>
+                    <td style="padding: 12px; border: 1px solid #e0e0e0;">"Amazon pre-order"</td>
+                    <td style="padding: 12px; border: 1px solid #e0e0e0;">One Amazon employee contacted Servergy to test in <strong>his free time, for personal use</strong></td>
+                </tr>
+                <tr>
+                    <td style="padding: 12px; border: 1px solid #e0e0e0;">Paxton recommended investment as co-investor</td>
+                    <td style="padding: 12px; border: 1px solid #e0e0e0;">Paxton <strong>received 100,000 shares as commission</strong>, never disclosed</td>
+                </tr>
+            </table>
+        </div>
+        
+        <div class="section">
+            <h3>📧 Paxton's Role: The Timeline</h3>
+            <ul>
+                <li><strong>July 2011:</strong> Meeting at Paxton's McKinney law office with Servergy CEO William Mapp</li>
+                <li><strong>The Offer:</strong> Mapp proposed <strong>10% commission</strong> for investors Paxton recruited</li>
+                <li><strong>Paxton's Response:</strong> Allegedly replied <em>"I will get to work"</em></li>
+                <li><strong>10 Days Later:</strong> Paxton organized pitch meeting, introduced Mapp to investors</li>
+                <li><strong>The Result:</strong> Raised <strong>$840,000</strong> (32% of all 2011 Servergy funding)</li>
+                <li><strong>The Deception:</strong> Never told friends, business associates, or law firm clients he was being paid</li>
+            </ul>
+        </div>
+        
+        <div class="key-facts" style="background: #263238; color: #fff;">
+            <h2 style="color: #ff5252;">Criminal Case Outcome (2024)</h2>
+            <ul style="color: #e0e0e0;">
+                <li><strong>March 2024:</strong> Paxton settled criminal charges</li>
+                <li><strong>Penalty:</strong> Paid <strong>$271,000 restitution</strong> to victims</li>
+                <li><strong>Service:</strong> 100 hours community service</li>
+                <li><strong>Timing:</strong> Settlement came just <strong>months before</strong> Senate primary</li>
+            </ul>
+        </div>
+
+        <h2>Pattern of Abuse: The Details</h2>
+        
+        <div class="section">
+            <h3>1. Securities Fraud Scheme (Servergy)</h3>
+            <p>In 2011, Paxton solicited investments in Servergy Inc. for over $100,000 from at least two individuals, including fellow state Rep. Byron Cook. He failed to disclose he was receiving <strong>100,000 shares of stock</strong> as compensation.</p>
+            <p>He allegedly misrepresented himself as a co-investor when he had not invested his own funds. The company later faced federal investigation for defrauding investors with false claims about Amazon pre-orders and server capabilities.</p>
+        </div>
+        
+        <div class="section">
+            <h3>2. The Nate Paul Corruption</h3>
+            <p>As Attorney General, Paxton allegedly used his office to help real estate developer Nate Paul — a campaign donor facing foreclosure:</p>
+            <ul>
+                <li>Intervened in lawsuit between charity Mitte Foundation and Paul's companies to benefit Paul</li>
+                <li>Issued AG opinion using "straw requestor" Sen. Bryan Hughes to help Paul avoid foreclosure</li>
+                <li>Improperly accessed confidential DPS information and gave it to Paul</li>
+                <li>Hired outside attorney Brandon Cammack to issue 30+ grand jury subpoenas on baseless complaint benefiting Paul</li>
+            </ul>
+        </div>
+        
+        <div class="section">
+            <h3>3. Whistleblower Retaliation</h3>
+            <p>After senior AG staff reported Paxton's misconduct to law enforcement, he <strong>fired six employees</strong> and "engaged in a public and private campaign to impugn the employees' professional reputations."</p>
+            <p>Staff initially reported to FBI in Fall 2020. Paxton then launched "sham investigation" into their complaints and used $3.3M in <strong>taxpayer funds</strong> to settle wrongful termination lawsuit.</p>
+        </div>
+
+        <div class="source-list">
+            <h3>Sources & Further Reading</h3>
+            <ul>
+                <li><a href="https://www.texastribune.org/2019/06/19/ken-paxton-criminal-case-timeline-texas-attorney-general-fraud/" target="_blank">Texas Tribune: Paxton Criminal Case Timeline</a></li>
+                <li><a href="https://www.texastribune.org/2023/05/25/ken-paxton-20-articles-impeachment/" target="_blank">Texas Tribune: The 20 Articles of Impeachment</a></li>
+                <li><a href="https://www.texastribune.org/2023/07/24/ken-paxton-impeachment-dunn-wilks/" target="_blank">Texas Tribune: Paxton's Billionaire Backers</a></li>
+                <li><a href="https://www.star-telegram.com/opinion/bud-kennedy/article315869268.html" target="_blank">Fort Worth Star-Telegram: How Dan Patrick Saved Paxton</a></li>
+                <li><a href="https://www.texastribune.org/2016/04/11/sec-charges-paxton-securities-fraud/" target="_blank">Texas Tribune: SEC Civil Charges</a></li>
+                <li><a href="https://capitol.texas.gov/tlodocs/88R/billtext/html/HR02377I.htm" target="_blank">Official: Texas House Resolution 2377</a></li>
+            </ul>
+            <p style="margin-top: 20px; font-style: italic;">Last updated: May 28, 2026 | Compiled from public records and Texas Tribune reporting</p>
+        </div>
+    </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+    
+    <script>
+        // Mobile sidebar toggle
+        function toggleSidebar() {
+            document.getElementById('sidebar').classList.toggle('open');
+        }
+    </script>
+</body>
+</html>
