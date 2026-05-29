@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paxton Research Hub | Texas Elections Wiki</title>
+    <meta name="description" content="Interactive diagrams and timelines documenting Ken Paxton's corruption networks, scandals, and dark money backing">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+
+    <style>
+        :root {
+            --bg-primary: #0d1117;
+            --bg-secondary: #161b22;
+            --bg-tertiary: #21262d;
+            --text-primary: #e6edf3;
+            --text-secondary: #8b949e;
+            --text-muted: #6e7681;
+            --accent: #58a6ff;
+            --accent-dim: #388bfd;
+            --border: #30363d;
+            --success: #3fb950;
+            --warning: #d29922;
+            --danger: #f85149;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; background: var(--bg-primary); color: var(--text-primary); line-height: 1.6; min-height: 100vh; }
+        .app-container { display: flex; min-height: 100vh; }
+
+        .sidebar { width: 260px; background: var(--bg-secondary); border-right: 1px solid var(--border); display: flex; flex-direction: column; position: fixed; height: 100vh; overflow-y: auto; }
+        .sidebar-header { padding: 1.5rem; border-bottom: 1px solid var(--border); }
+        .site-title { font-family: 'JetBrains Mono', monospace; font-size: 1rem; font-weight: 600; color: var(--text-primary); text-decoration: none; display: block; }
+        .site-title span { color: var(--accent); }
+        .site-subtitle { font-family: 'JetBrains Mono', monospace; font-size: 0.75rem; color: var(--text-muted); margin-top: 0.25rem; }
+        .nav-section { padding: 1rem 0; }
+        .nav-label { font-family: 'JetBrains Mono', monospace; font-size: 0.7rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; padding: 0 1.5rem; margin-bottom: 0.5rem; }
+        .nav-menu { list-style: none; }
+        .nav-menu a { display: flex; align-items: center; gap: 0.75rem; padding: 0.5rem 1.5rem; color: var(--text-secondary); text-decoration: none; font-family: 'JetBrains Mono', monospace; font-size: 0.85rem; transition: all 0.15s ease; border-left: 2px solid transparent; }
+        .nav-menu a:hover, .nav-menu a.active { color: var(--text-primary); background: var(--bg-tertiary); border-left-color: var(--accent); }
+        .nav-icon { width: 16px; text-align: center; color: var(--text-muted); }
+        .nav-menu a:hover .nav-icon, .nav-menu a.active .nav-icon { color: var(--accent); }
+        .sidebar-footer { margin-top: auto; padding: 1rem 1.5rem; border-top: 1px solid var(--border); }
+        .sidebar-footer a { color: var(--text-muted); text-decoration: none; font-family: 'JetBrains Mono', monospace; font-size: 0.75rem; transition: color 0.15s; }
+        .sidebar-footer a:hover { color: var(--accent); }
+
+        .main-content { flex: 1; margin-left: 260px; display: flex; flex-direction: column; }
+        .top-bar { background: var(--bg-secondary); border-bottom: 1px solid var(--border); padding: 0.75rem 1.5rem; display: flex; align-items: center; justify-content: space-between; }
+        .breadcrumb { font-family: 'JetBrains Mono', monospace; font-size: 0.8rem; color: var(--text-muted); }
+        .breadcrumb span { color: var(--text-secondary); }
+        .status-indicator { display: flex; align-items: center; gap: 0.5rem; font-family: 'JetBrains Mono', monospace; font-size: 0.75rem; color: var(--text-muted); }
+        .status-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--danger); animation: pulse 2s infinite; }
+        @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }
+
+        .content-area { flex: 1; padding: 1.5rem; overflow-y: auto; }
+        .page-header { margin-bottom: 1.5rem; }
+        .page-header h1 { font-size: 1.5rem; font-weight: 600; color: var(--text-primary); margin-bottom: 0.5rem; }
+        .page-header p { color: var(--text-secondary); font-size: 0.9rem; }
+
+        .page-nav { display: flex; gap: 0.5rem; margin-bottom: 1.5rem; flex-wrap: wrap; }
+        .page-nav-item { display: flex; align-items: center; gap: 0.5rem; padding: 0.6rem 1rem; background: var(--bg-secondary); border: 1px solid var(--border); border-radius: 6px; color: var(--text-secondary); text-decoration: none; font-family: 'JetBrains Mono', monospace; font-size: 0.85rem; transition: all 0.15s ease; }
+        .page-nav-item:hover { border-color: var(--accent); color: var(--text-primary); }
+        .page-nav-item.active { background: var(--accent); border-color: var(--accent); color: var(--bg-primary); }
+        .page-nav-icon { font-size: 1rem; }
+
+        h2 { color: var(--text-primary); font-size: 1.3rem; margin: 2rem 0 1rem; border-bottom: 2px solid var(--border); padding-bottom: 0.5rem; }
+        h3 { color: var(--accent); font-size: 1rem; margin: 1.5rem 0 0.75rem; font-weight: 600; }
+
+        .research-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin: 1.5rem 0; }
+        .research-card { background: var(--bg-secondary); border: 1px solid var(--border); border-radius: 6px; padding: 1.25rem; transition: all 0.15s; }
+        .research-card:hover { border-color: var(--accent); }
+        .research-card h3 { margin-top: 0; color: var(--danger); font-size: 1.1rem; }
+        .research-card p { color: var(--text-secondary); font-size: 0.9rem; margin-bottom: 1rem; line-height: 1.5; }
+        .research-card a { color: var(--accent); text-decoration: none; font-family: 'JetBrains Mono', monospace; font-size: 0.8rem; }
+        .research-card a:hover { text-decoration: underline; }
+        .research-card .card-meta { font-family: 'JetBrains Mono', monospace; font-size: 0.7rem; color: var(--text-muted); margin-top: 0.75rem; }
+
+        .callout-box { background: var(--bg-secondary); border: 1px solid var(--border); border-left: 4px solid var(--danger); border-radius: 6px; padding: 1.25rem; margin: 1.5rem 0; }
+        .callout-box h3 { color: var(--danger); margin-bottom: 0.75rem; font-size: 1.1rem; }
+        .callout-box p, .callout-box li { color: var(--text-secondary); font-size: 0.9rem; margin: 0.5rem 0; line-height: 1.5; }
+        .callout-box ul { list-style: none; padding-left: 0; }
+        .callout-box li::before { content: "•"; color: var(--danger); margin-right: 0.5rem; }
+        .callout-box strong { color: var(--text-primary); }
+
+        .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 1rem; margin: 1.5rem 0; }
+        .stat-card { background: var(--bg-secondary); border: 1px solid var(--border); border-radius: 6px; padding: 1rem; text-align: center; }
+        .stat-number { font-size: 1.75rem; font-weight: 600; color: var(--danger); font-family: 'JetBrains Mono', monospace; }
+        .stat-label { font-family: 'JetBrains Mono', monospace; font-size: 0.7rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; margin-top: 0.25rem; }
+
+        table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.9rem; }
+        th, td { padding: 0.75rem; border: 1px solid var(--border); text-align: left; }
+        th { background: var(--bg-tertiary); color: var(--text-primary); font-weight: 600; font-size: 0.85rem; }
+        td { color: var(--text-secondary); }
+        tr:nth-child(even) { background: rgba(48,54,61,0.3); }
+
+        .source-list { font-size: 0.9rem; color: var(--text-secondary); margin-top: 2rem; padding-top: 1.5rem; border-top: 2px solid var(--border); }
+        .source-list h3 { color: var(--text-primary); margin-bottom: 1rem; }
+        .source-list ul { list-style: none; padding-left: 0; }
+        .source-list li { margin: 0.6rem 0; padding-left: 1.5rem; position: relative; }
+        .source-list li::before { content: "🔗"; position: absolute; left: 0; }
+        .source-list a { color: var(--accent); text-decoration: none; }
+        .source-list a:hover { text-decoration: underline; }
+
+        .last-updated { margin-top: 1.5rem; font-style: italic; color: var(--text-muted); font-family: 'JetBrains Mono', monospace; font-size: 0.75rem; }
+
+        .ascii-box { background: var(--bg-tertiary); border: 1px solid var(--border); border-radius: 4px; padding: 1rem; margin: 1rem 0; overflow-x: auto; }
+        .ascii-box pre { font-family: 'JetBrains Mono', monospace; font-size: 0.75rem; color: var(--text-secondary); line-height: 1.5; white-space: pre; }
+
+        .mermaid { background: var(--bg-secondary); border: 1px solid var(--border); border-radius: 6px; padding: 1rem; margin: 1rem 0; }
+
+        footer { background: var(--bg-secondary); border-top: 1px solid var(--border); padding: 1rem 1.5rem; text-align: center; }
+        footer p { color: var(--text-muted); font-size: 0.8rem; font-family: 'JetBrains Mono', monospace; }
+        footer a { color: var(--accent); text-decoration: none; }
+        footer a:hover { text-decoration: underline; }
+
+        @media (max-width: 768px) {
+            .sidebar { transform: translateX(-100%); transition: transform 0.2s ease; z-index: 1000; }
+            .sidebar.open { transform: translateX(0); }
+            .main-content { margin-left: 0; }
+            .mobile-menu-toggle { display: block; background: none; border: none; color: var(--text-primary); font-size: 1.25rem; cursor: pointer; }
+        }
+        @media (min-width: 769px) {
+            .mobile-menu-toggle { display: none; }
+        }
+    </style>
+</head>
+<body>
+    <div class="app-container">
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-header">
+                <a href="../index.html" class="site-title">Texas<span>Elections</span>.Wiki</a>
+                <div class="site-subtitle">v1.2.0 — research</div>
+            </div>
+            <nav class="nav-section">
+                <div class="nav-label">Navigation</div>
+                <ul class="nav-menu">
+                    <li><a href="../index.html"><span class="nav-icon">◎</span><span>Voting Map</span></a></li>
+                    <li><a href="../legislation.html"><span class="nav-icon">§</span><span>Legislation</span></a></li>
+                    <li><a href="../paxtonresearch.html"><span class="nav-icon">⚠</span><span>Paxton Research</span></a></li>
+                </ul>
+                <div class="nav-label">Research</div>
+                <ul class="nav-menu">
+                    <li><a href="index.html" class="active"><span class="nav-icon">⊛</span><span>Paxton Research Hub</span></a></li>
+                    <li><a href="networks.html"><span class="nav-icon">🕸</span><span>Network Diagrams</span></a></li>
+                    <li><a href="timelines.html"><span class="nav-icon">⏱</span><span>Timelines</span></a></li>
+                    <li><a href="money.html"><span class="nav-icon">💰</span><span>Dark Money</span></a></li>
+                    <li><a href="../voting-systems.html"><span class="nav-icon">⊛</span><span>Voting Systems</span></a></li>
+                    <li><a href="../voter-registration.html"><span class="nav-icon">✓</span><span>Voter Registration</span></a></li>
+                    <li><a href="../county-admin.html"><span class="nav-icon">⌘</span><span>County Admin</span></a></li>
+                    <li><a href="../legislators.html"><span class="nav-icon">⚖</span><span>Legislators</span></a></li>
+                    <li><a href="../municipal.html"><span class="nav-icon">★</span><span>Municipal</span></a></li>
+                </ul>
+                <div class="nav-label">Resources</div>
+                <ul class="nav-menu">
+                    <li><a href="../resources.html"><span class="nav-icon">⌂</span><span>Resources</span></a></li>
+                    <li><a href="../about.html"><span class="nav-icon">ℹ</span><span>About</span></a></li>
+                </ul>
+            </nav>
+            <div class="sidebar-footer">
+                <a href="#">Last updated: 2026-05-28</a>
+            </div>
+        </aside>
+
+        <main class="main-content">
+            <div class="top-bar">
+                <button class="mobile-menu-toggle" onclick="toggleSidebar()">☰</button>
+                <div class="breadcrumb"><span>~/</span>research<span>/</span>paxton<span>/</span>hub</div>
+                <div class="status-indicator">
+                    <span class="status-dot"></span>
+                    <span>29 entities mapped</span>
+                </div>
+            </div>
+
+            <div class="content-area">
+                <div class="page-header">
+                    <h1>Paxton Research: Interactive Visualizations</h1>
+                    <p>Diagrams and timelines documenting corruption networks, scandal chronologies, and dark money flows connected to Ken Paxton.</p>
+                </div>
+
+                <div class="page-nav">
+                    <a href="../paxtonresearch.html" class="page-nav-item">
+                        <span class="page-nav-icon">⚠</span><span>Overview</span>
+                    </a>
+                    <a href="index.html" class="page-nav-item active">
+                        <span class="page-nav-icon">⊛</span><span>Research Hub</span>
+                    </a>
+                    <a href="networks.html" class="page-nav-item">
+                        <span class="page-nav-icon">🕸</span><span>Networks</span>
+                    </a>
+                    <a href="timelines.html" class="page-nav-item">
+                        <span class="page-nav-icon">⏱</span><span>Timelines</span>
+                    </a>
+                    <a href="money.html" class="page-nav-item">
+                        <span class="page-nav-icon">💰</span><span>Money</span>
+                    </a>
+                </div>
+
+                <div class="stats">
+                    <div class="stat-card">
+                        <div class="stat-number">29</div>
+                        <div class="stat-label">Entities Mapped</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number">33</div>
+                        <div class="stat-label">Relationships</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number">38</div>
+                        <div class="stat-label">Timeline Events</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number">$18.3M+</div>
+                        <div class="stat-label">Money Traced</div>
+                    </div>
+                </div>
+
+                <h2>Research Sections</h2>
+                <div class="research-grid">
+                    <div class="research-card">
+                        <h3>🕸 Network Diagrams</h3>
+                        <p>Interactive network diagrams showing Paxton's web of fixers, victims, and patrons — plus the Dunn/Wilks six-operation media machine.</p>
+                        <a href="networks.html">View Network Diagrams →</a>
+                        <div class="card-meta">17 actors + 12-entity ecosystem</div>
+                    </div>
+                    <div class="research-card">
+                        <h3>⏱ Scandal Timelines</h3>
+                        <p>Chronologies of the Servergy securities fraud (2010-2018) and the Nate Paul bribery scheme (2018-2021) that led to 8 senior AG officials resigning.</p>
+                        <a href="timelines.html">View Timelines →</a>
+                        <div class="card-meta">26 events across two scandals</div>
+                    </div>
+                    <div class="research-card">
+                        <h3>💰 Dark Money Flows</h3>
+                        <p>Money flow diagrams tracing $14M through Defend Texas Liberty PAC and Tim Dunn's $4.65M investment in protecting Paxton.</p>
+                        <a href="money.html">View Money Diagrams →</a>
+                        <div class="card-meta">$14M PAC + $4.65M protection</div>
+                    </div>
+                </div>
+
+                <div class="callout-box">
+                    <h3>The Pattern: Three Corruption Cycles</h3>
+                    <p>Paxton's career follows a repeatable pattern:</p>
+                    <ul>
+                        <li><strong>1. Private Practice (2001-2014):</strong> Servergy securities fraud — unregistered solicitation, fixer absorbs liability</li>
+                        <li><strong>2. Legislature (2013-2015):</strong> Attacked Byron Cook (ethics witness) — retaliate against accountability</li>
+                        <li><strong>3. Attorney General (2015-present):</strong> Nate Paul bribery — use office to benefit donors who pay legal bills</li>
+                    </ul>
+                    <p><strong>Constant:</strong> Dunn/Wilks money ($4.65M) → Protection racket</p>
+                </div>
+
+                <h2>Key Findings</h2>
+                <h3>The Serial Co-Dependency Model</h3>
+                <p>Paxton operates using <strong>dual-role relationships</strong> (lawyer/client + business partner) that create compromised actors who remain loyal due to mutual criminal exposure — identical to Donald Trump's methodology.</p>
+
+                <h3>Financial Patron Network</h3>
+                <table>
+                    <tr>
+                        <th>Patron</th>
+                        <th>Total Given</th>
+                        <th>Role</th>
+                    </tr>
+                    <tr>
+                        <td>Tim Dunn</td>
+                        <td>$4.65M+</td>
+                        <td>"Managing Director" of corruption protection</td>
+                    </tr>
+                    <tr>
+                        <td>Farris Wilks</td>
+                        <td>$4.2M+</td>
+                        <td>Christian nationalist billionaire</td>
+                    </tr>
+                    <tr>
+                        <td>Nate Paul</td>
+                        <td>~$100K</td>
+                        <td>Direct bribery (remodel, girlfriend job)</td>
+                    </tr>
+                </table>
+
+                <h3>The Protection Ecosystem</h3>
+                <ul>
+                    <li><strong>Defend Texas Liberty PAC:</strong> Funds primary challengers against Republicans who cross Paxton</li>
+                    <li><strong>Texas Scorecard:</strong> Publishes hit pieces on Paxton's enemies</li>
+                    <li><strong>Pipeline Media:</strong> Fake "local news" promotes Paxton-friendly narratives</li>
+                    <li><strong>Dan Patrick:</strong> Received $3M before acquitting Paxton at impeachment trial</li>
+                </ul>
+
+                <div class="source-list">
+                    <h3>Research Sources</h3>
+                    <ul>
+                        <li><a href="https://www.texasmonthly.com" target="_blank">Texas Monthly: "The Billionaire Bully" (March 2024)</a></li>
+                        <li><a href="https://www.propublica.org" target="_blank">ProPublica: "A Pair of Billionaire Preachers" (Oct 2024)</a></li>
+                        <li><a href="https://www.cjr.org" target="_blank">Columbia Journalism Review: Pipeline Media investigation</a></li>
+                        <li><a href="https://www.texastribune.org" target="_blank">Texas Tribune: Campaign finance records</a></li>
+                        <li><a href="https://www.sec.gov" target="_blank">SEC filings: Servergy investigation documents</a></li>
+                    </ul>
+                    <p class="last-updated">Last updated: May 28, 2026 | Data available under CC-BY-SA 4.0</p>
+                </div>
+            </div>
+
+            <footer>
+                <p>Data: <a href="https://www.texastribune.org" target="_blank">texastribune.org</a> | <a href="https://www.texasmonthly.com" target="_blank">texasmonthly.com</a> | <a href="https://www.propublica.org" target="_blank">propublica.org</a></p>
+            </footer>
+        </main>
+    </div>
+
+    <script>
+        function toggleSidebar() {
+            document.getElementById('sidebar').classList.toggle('open');
+        }
+        mermaid.initialize({ startOnLoad: true, theme: 'dark' });
+    </script>
+</body>
+</html>

@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paxton Network Diagrams | Texas Elections Wiki</title>
+    <meta name="description" content="Interactive network diagrams of Ken Paxton's corruption web and the Dunn/Wilks media ecosystem">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+    <style>
+        :root { --bg-primary: #0d1117; --bg-secondary: #161b22; --bg-tertiary: #21262d; --text-primary: #e6edf3; --text-secondary: #8b949e; --text-muted: #6e7681; --accent: #58a6ff; --border: #30363d; --success: #3fb950; --warning: #d29922; --danger: #f85149; }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Inter', sans-serif; background: var(--bg-primary); color: var(--text-primary); line-height: 1.6; min-height: 100vh; }
+        .app-container { display: flex; min-height: 100vh; }
+        .sidebar { width: 260px; background: var(--bg-secondary); border-right: 1px solid var(--border); display: flex; flex-direction: column; position: fixed; height: 100vh; overflow-y: auto; }
+        .sidebar-header { padding: 1.5rem; border-bottom: 1px solid var(--border); }
+        .site-title { font-family: 'JetBrains Mono', monospace; font-size: 1rem; font-weight: 600; color: var(--text-primary); text-decoration: none; display: block; }
+        .site-title span { color: var(--accent); }
+        .site-subtitle { font-family: 'JetBrains Mono', monospace; font-size: 0.75rem; color: var(--text-muted); margin-top: 0.25rem; }
+        .nav-section { padding: 1rem 0; }
+        .nav-label { font-family: 'JetBrains Mono', monospace; font-size: 0.7rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; padding: 0 1.5rem; margin-bottom: 0.5rem; }
+        .nav-menu { list-style: none; }
+        .nav-menu a { display: flex; align-items: center; gap: 0.75rem; padding: 0.5rem 1.5rem; color: var(--text-secondary); text-decoration: none; font-family: 'JetBrains Mono', monospace; font-size: 0.85rem; transition: all 0.15s ease; border-left: 2px solid transparent; }
+        .nav-menu a:hover, .nav-menu a.active { color: var(--text-primary); background: var(--bg-tertiary); border-left-color: var(--accent); }
+        .nav-icon { width: 16px; text-align: center; color: var(--text-muted); }
+        .nav-menu a:hover .nav-icon, .nav-menu a.active .nav-icon { color: var(--accent); }
+        .sidebar-footer { margin-top: auto; padding: 1rem 1.5rem; border-top: 1px solid var(--border); }
+        .sidebar-footer a { color: var(--text-muted); text-decoration: none; font-family: 'JetBrains Mono', monospace; font-size: 0.75rem; transition: color 0.15s; }
+        .sidebar-footer a:hover { color: var(--accent); }
+        .main-content { flex: 1; margin-left: 260px; display: flex; flex-direction: column; }
+        .top-bar { background: var(--bg-secondary); border-bottom: 1px solid var(--border); padding: 0.75rem 1.5rem; display: flex; align-items: center; justify-content: space-between; }
+        .breadcrumb { font-family: 'JetBrains Mono', monospace; font-size: 0.8rem; color: var(--text-muted); }
+        .breadcrumb span { color: var(--text-secondary); }
+        .status-indicator { display: flex; align-items: center; gap: 0.5rem; font-family: 'JetBrains Mono', monospace; font-size: 0.75rem; color: var(--text-muted); }
+        .status-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--danger); animation: pulse 2s infinite; }
+        @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }
+        .content-area { flex: 1; padding: 1.5rem; overflow-y: auto; }
+        .page-header { margin-bottom: 1.5rem; }
+        .page-header h1 { font-size: 1.5rem; font-weight: 600; color: var(--text-primary); margin-bottom: 0.5rem; }
+        .page-header p { color: var(--text-secondary); font-size: 0.9rem; }
+        .page-nav { display: flex; gap: 0.5rem; margin-bottom: 1.5rem; flex-wrap: wrap; }
+        .page-nav-item { display: flex; align-items: center; gap: 0.5rem; padding: 0.6rem 1rem; background: var(--bg-secondary); border: 1px solid var(--border); border-radius: 6px; color: var(--text-secondary); text-decoration: none; font-family: 'JetBrains Mono', monospace; font-size: 0.85rem; transition: all 0.15s ease; }
+        .page-nav-item:hover { border-color: var(--accent); color: var(--text-primary); }
+        .page-nav-item.active { background: var(--accent); border-color: var(--accent); color: var(--bg-primary); }
+        .page-nav-icon { font-size: 1rem; }
+        h2 { color: var(--text-primary); font-size: 1.3rem; margin: 2rem 0 1rem; border-bottom: 2px solid var(--border); padding-bottom: 0.5rem; }
+        h3 { color: var(--accent); font-size: 1rem; margin: 1.5rem 0 0.75rem; font-weight: 600; }
+        h4 { color: var(--text-primary); font-size: 0.95rem; margin: 1.25rem 0 0.5rem; font-weight: 600; }
+        p { color: var(--text-secondary); font-size: 0.9rem; line-height: 1.6; margin-bottom: 0.75rem; }
+        ul { padding-left: 1.25rem; margin-bottom: 1rem; }
+        li { color: var(--text-secondary); font-size: 0.9rem; line-height: 1.6; margin: 0.4rem 0; }
+        li::marker { color: var(--danger); }
+        table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.9rem; }
+        th, td { padding: 0.75rem; border: 1px solid var(--border); text-align: left; }
+        th { background: var(--bg-tertiary); color: var(--text-primary); font-weight: 600; font-size: 0.85rem; }
+        td { color: var(--text-secondary); }
+        tr:nth-child(even) { background: rgba(48,54,61,0.3); }
+        .mermaid { background: var(--bg-secondary); border: 1px solid var(--border); border-radius: 6px; padding: 1rem; margin: 1rem 0; }
+        .callout-box { background: var(--bg-secondary); border: 1px solid var(--border); border-left: 4px solid var(--danger); border-radius: 6px; padding: 1.25rem; margin: 1.5rem 0; }
+        .callout-box h3 { color: var(--danger); margin-top: 0; }
+        .callout-box p { color: var(--text-secondary); }
+        .callout-box strong { color: var(--text-primary); }
+        .section-box { background: var(--bg-secondary); border: 1px solid var(--border); border-radius: 6px; padding: 1.25rem; margin-bottom: 1rem; }
+        .section-box h4 { color: var(--danger); margin-top: 0; }
+        .section-box p { color: var(--text-secondary); }
+        .source-list { font-size: 0.9rem; color: var(--text-secondary); margin-top: 2rem; padding-top: 1.5rem; border-top: 2px solid var(--border); }
+        .source-list h3 { color: var(--text-primary); margin-bottom: 1rem; }
+        .source-list ul { list-style: none; padding-left: 0; }
+        .source-list li { margin: 0.6rem 0; padding-left: 1.5rem; position: relative; }
+        .source-list li::before { content: "🔗"; position: absolute; left: 0; }
+        .source-list a { color: var(--accent); text-decoration: none; }
+        .source-list a:hover { text-decoration: underline; }
+        .last-updated { margin-top: 1.5rem; font-style: italic; color: var(--text-muted); font-family: 'JetBrains Mono', monospace; font-size: 0.75rem; }
+        footer { background: var(--bg-secondary); border-top: 1px solid var(--border); padding: 1rem 1.5rem; text-align: center; }
+        footer p { color: var(--text-muted); font-size: 0.8rem; font-family: 'JetBrains Mono', monospace; }
+        footer a { color: var(--accent); text-decoration: none; }
+        footer a:hover { text-decoration: underline; }
+        @media (max-width: 768px) { .sidebar { transform: translateX(-100%); transition: transform 0.2s ease; z-index: 1000; } .sidebar.open { transform: translateX(0); } .main-content { margin-left: 0; } .mobile-menu-toggle { display: block; background: none; border: none; color: var(--text-primary); font-size: 1.25rem; cursor: pointer; } }
+        @media (min-width: 769px) { .mobile-menu-toggle { display: none; } }
+    </style>
+</head>
+<body>
+    <div class="app-container">
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-header"><a href="../index.html" class="site-title">Texas<span>Elections</span>.Wiki</a><div class="site-subtitle">v1.2.0 — research</div></div>
+            <nav class="nav-section">
+                <div class="nav-label">Navigation</div>
+                <ul class="nav-menu">
+                    <li><a href="../index.html"><span class="nav-icon">◎</span><span>Voting Map</span></a></li>
+                    <li><a href="../legislation.html"><span class="nav-icon">§</span><span>Legislation</span></a></li>
+                    <li><a href="../paxtonresearch.html"><span class="nav-icon">⚠</span><span>Paxton Research</span></a></li>
+                </ul>
+                <div class="nav-label">Research</div>
+                <ul class="nav-menu">
+                    <li><a href="index.html"><span class="nav-icon">⊛</span><span>Paxton Research Hub</span></a></li>
+                    <li><a href="networks.html" class="active"><span class="nav-icon">🕸</span><span>Network Diagrams</span></a></li>
+                    <li><a href="timelines.html"><span class="nav-icon">⏱</span><span>Timelines</span></a></li>
+                    <li><a href="money.html"><span class="nav-icon">💰</span><span>Dark Money</span></a></li>
+                    <li><a href="../voting-systems.html"><span class="nav-icon">⊛</span><span>Voting Systems</span></a></li>
+                    <li><a href="../voter-registration.html"><span class="nav-icon">✓</span><span>Voter Registration</span></a></li>
+                    <li><a href="../county-admin.html"><span class="nav-icon">⌘</span><span>County Admin</span></a></li>
+                    <li><a href="../legislators.html"><span class="nav-icon">⚖</span><span>Legislators</span></a></li>
+                    <li><a href="../municipal.html"><span class="nav-icon">★</span><span>Municipal</span></a></li>
+                </ul>
+                <div class="nav-label">Resources</div>
+                <ul class="nav-menu">
+                    <li><a href="../resources.html"><span class="nav-icon">⌂</span><span>Resources</span></a></li>
+                    <li><a href="../about.html"><span class="nav-icon">ℹ</span><span>About</span></a></li>
+                </ul>
+            </nav>
+            <div class="sidebar-footer"><a href="#">Last updated: 2026-05-28</a></div>
+        </aside>
+
+        <main class="main-content">
+            <div class="top-bar">
+                <button class="mobile-menu-toggle" onclick="toggleSidebar()">☰</button>
+                <div class="breadcrumb"><span>~/</span>research<span>/</span>paxton<span>/</span>networks</div>
+                <div class="status-indicator"><span class="status-dot"></span><span>29 entities mapped</span></div>
+            </div>
+
+            <div class="content-area">
+                <div class="page-header">
+                    <h1>Paxton's Corruption Network</h1>
+                    <p>Interactive diagrams of the individuals and organizations connected to Ken Paxton's corruption schemes.</p>
+                </div>
+
+                <div class="page-nav">
+                    <a href="../paxtonresearch.html" class="page-nav-item"><span class="page-nav-icon">⚠</span><span>Overview</span></a>
+                    <a href="index.html" class="page-nav-item"><span class="page-nav-icon">⊛</span><span>Hub</span></a>
+                    <a href="networks.html" class="page-nav-item active"><span class="page-nav-icon">🕸</span><span>Networks</span></a>
+                    <a href="timelines.html" class="page-nav-item"><span class="page-nav-icon">⏱</span><span>Timelines</span></a>
+                    <a href="money.html" class="page-nav-item"><span class="page-nav-icon">💰</span><span>Money</span></a>
+                </div>
+
+                <h2>Diagram 1: Paxton's Corruption Network</h2>
+                <p>Full web of fixers, victims, and patrons. <strong>Central actor:</strong> Ken Paxton, TX Attorney General since 2015. Pattern of using "fixers" who absorb legal liability while he extracts value.</p>
+                <pre class="mermaid">graph TD
+    paxton["Ken Paxton\n(TX Attorney General)"]
+    mowery["Frederick 'Fritz' Mowery\n(Original Fixer 2001-2014)"]
+    paul["Nate Paul\n(AG-Era Fixer 2018-2020)"]
+    cammack["Brandon Cammack\n(Straw Attorney)"]
+    mittag["Eva Guzman Mittag\n(Paxton's AG Chief of Staff)"]
+    cook["Byron Cook\n(Texas Rep - Victim)"]
+    goettsche["William Goettsche\n(Cincinnati Investor - Victim)"]
+    servergy["Servergy Inc.\n(Tech Startup - Scheme)"]
+    dunn["Tim Dunn\n(Billionaire Patron $4.65M)"]
+    stickland["Jonathan Stickland\n(PAC President / Threats)"]
+    patrick["Dan Patrick\n(Lt. Gov / Trial Judge $3M)"]
+    trump["Donald Trump\n(Federal Endorsement)"]
+    wallbuilders["David Barton / WallBuilders\n(Christian Nationalist Advisor)"]
+    tpf["Texas Public Policy Foundation\n(Policy Shield)"]
+    scorecard["Texas Scorecard\n(Attack Media)"]
+    fuentes["Nick Fuentes\n(White Supremacist - Scandal)"]
+
+    mowery -.->|"Shielded securities fraud"| paxton
+    paxton -->|"Received kitchen remodel"| paul
+    paxton -.->|"Gave FBI info"| paul
+    paxton -->|"Hired straw attorney"| cammack
+    cammack -.->|"Hired to benefit"| paul
+    mittag -.->|"Communicated with"| paul
+    paxton -.->|"Sued/attacked"| cook
+    paxton -.->|"Unregistered solicitation"| goettsche
+    paxton -->|"Sold unregistered securities"| servergy
+    mowery -.->|"Took blame for"| servergy
+    dunn -.->|"$4.65M since 2002"| paxton
+    stickland -->|"Threatened to protect"| paxton
+    stickland -.->|"Met at Wilks property"| fuentes
+    dunn -.->|"$3M pre-trial"| patrick
+    patrick -->|"Acquitted at trial"| paxton
+    trump -->|"Endorsed for Senate"| paxton
+    wallbuilders -.->|"Advised"| dunn
+    tpf -.->|"Policy protection"| paxton
+    scorecard -.->|"Media attacks on enemies"| paxton
+
+    classDef person fill:#ffccbc,stroke:#bf360c,stroke-width:2px
+    classDef organization fill:#e3f2fd,stroke:#0d47a1,stroke-width:2px
+    classDef media fill:#e8f5e9,stroke:#1b5e20,stroke-width:2px
+    class paxton,mowery,paul,cammack,mittag,cook,goettsche,dunn,stickland,patrick,trump,fuentes person
+    class servergy,wallbuilders,tpf organization
+    class scorecard media
+                </pre>
+
+                <div class="section-box">
+                    <h4>The Fixers (Liability Shields)</h4>
+                    <p>Three individuals have served as legal/financial shields for Paxton:</p>
+                    <ul>
+                        <li><strong>Fritz Mowery (2001-2014):</strong> Securities dealer who testified he "failed to register" Paxton, absorbing blame for Servergy fraud</li>
+                        <li><strong>Nate Paul (2018-2020):</strong> Real estate investor who paid for Paxton's kitchen remodel and girlfriend's job in exchange for AG office favors</li>
+                        <li><strong>Brandon Cammack (2018-2021):</strong> $19K/year "outside counsel" who issued grand jury subpoenas on Paul's behalf</li>
+                    </ul>
+                </div>
+
+                <div class="section-box">
+                    <h4>The Victims</h4>
+                    <ul>
+                        <li><strong>Byron Cook</strong> — Former Rep who filed ethics complaint; Paxton sued him in retaliation</li>
+                        <li><strong>William Goettsche</strong> — Cincinnati investor who lost $200K in Servergy (Paxton took 30% commission, never disclosed)</li>
+                        <li><strong>Joel Hochberg Estate</strong> — Deceased client whose estate was allegedly mishandled</li>
+                        <li><strong>8 Senior AG Officials</strong> — Resigned in 2020 over Paxton's corruption; whistleblower protections requested</li>
+                    </ul>
+                </div>
+
+                <div class="section-box">
+                    <h4>The Patrons (Protection Racket)</h4>
+                    <ul>
+                        <li><strong>Tim Dunn</strong> — West Texas oil billionaire ($4.65M total; runs Defend Texas Liberty PAC)</li>
+                        <li><strong>Farris Wilks</strong> — FracTech billionaire; Assembly of Yahweh elder</li>
+                        <li><strong>Dan Patrick</strong> — Received $3M from Dunn PAC before presiding over Paxton impeachment trial</li>
+                    </ul>
+                </div>
+
+                <div class="section-box">
+                    <h4>The Protection Ecosystem</h4>
+                    <ul>
+                        <li><strong>Defend Texas Liberty PAC:</strong> Threatens primary challenges against anti-Paxton Republicans</li>
+                        <li><strong>Texas Scorecard:</strong> Michael Quinn Sullivan's attack publication</li>
+                        <li><strong>Texas Public Policy Foundation:</strong> Think tank providing policy cover</li>
+                        <li><strong>David Barton/WallBuilders:</strong> Christian nationalist "history" that justifies theocratic governance</li>
+                    </ul>
+                </div>
+
+                <h2>Diagram 2: The Dunn/Wilks Media Ecosystem</h2>
+                <p>The <strong>six interconnected operations</strong> that manufacture conservative "grassroots" demand while eliminating independent Republican voices. This is not six separate organizations — it is <strong>one integrated system with six faces</strong>.</p>
+                <pre class="mermaid">graph TD
+    dunn["Tim Dunn\n(Billionaire Funder)"]
+    wilks["Farris Wilks\n(Billionaire Funder)"]
+    pipeline["Pipeline Media\n(Fake News Network)"]
+    scorecard["Texas Scorecard\n(Attack Operations)"]
+    tppf["Texas Public Policy Foundation\n(Policy Factory)"]
+    ballotpedia["Ballotpedia\n(Information Control)"]
+    familyproj["Texas Family Project\n(Dark Money Smears)"]
+    parscale["Parscale AI Operation\n(Precision Targeting)"]
+    pac["Defend Texas Liberty PAC\n(Primary Funding)"]
+    sullivan["Michael Quinn Sullivan\n(Attack Publisher)"]
+    stickland["Jonathan Stickland\n(PAC President)"]
+    paxton["Ken Paxton\n(Protected Asset)"]
+
+    dunn -->|"Managing Director"| pipeline
+    dunn -.->|"Board/Funding"| scorecard
+    dunn -->|"Vice Chairman"| tppf
+    dunn -->|"Board/Founder"| ballotpedia
+    dunn -.->|"$9.85M Funding"| pac
+    dunn -.->|"$7.5M Investment"| parscale
+    wilks -.->|"$4.2M Funding"| pac
+    sullivan -->|"Publisher"| scorecard
+    stickland -->|"Former President"| pac
+    stickland -.->|"Connected via"| familyproj
+    pipeline -.->|"Promotes content"| scorecard
+    tppf -.->|"Policy → Stories"| pipeline
+    pac -->|"Protects"| paxton
+    pac -.->|"Funds ($829K)"| familyproj
+    scorecard -.->|"Coordinates attacks"| pac
+
+    classDef person fill:#ffccbc,stroke:#bf360c,stroke-width:2px
+    classDef organization fill:#e3f2fd,stroke:#0d47a1,stroke-width:2px
+    classDef media fill:#e8f5e9,stroke:#1b5e20,stroke-width:2px
+    class dunn,wilks,sullivan,stickland,paxton person
+    class pipeline,tppf,familyproj,parscale,pac organization
+    class scorecard,ballotpedia media
+                </pre>
+
+                <div class="callout-box">
+                    <h3>The Six Operations</h3>
+                    <p><strong>1. Texas Public Policy Foundation (TPPF)</strong> — Policy Creation. Dunn: Vice Chairman since 1998. The 42,000 sq ft "Kremlin on Congress Avenue" drafts model legislation.</p>
+                    <p><strong>2. Pipeline Media</strong> — Disguised Amplification. 1,200+ "local news" websites that look independent but churn out anti-renewable energy "stories" and attacks on disobedient Republicans.</p>
+                    <p><strong>3. Texas Scorecard</strong> — Attack Operations. Publishes 0-100 "fiscal responsibility" scores. Low scorers face funded primary challenges. Former Rep Bennett Ratliff called it <em>"flat extortion, not a thumb on the scale."</em></p>
+                    <p><strong>4. Defend Texas Liberty PAC</strong> — Financial Enforcement. $14.5M from Dunn + Wilks. Funds primary challengers. Nick Fuentes scandal: Stickland met with white supremacist at Wilks property.</p>
+                    <p><strong>5. Texas Family Project</strong> — Direct Voter Manipulation. Sends false text messages, anti-Muslim mailers, dark money "voter guides."</p>
+                    <p><strong>6. Ballotpedia</strong> — Voter Information Control. "Ultra-local" initiative fills news deserts with Dunn-influenced information. Poses as nonpartisan.</p>
+                </div>
+
+                <div class="callout-box">
+                    <h3>The "Russian Oligarchy" Comparison</h3>
+                    <p><em>"That you've got a very few, very wealthy people who essentially own the seats in the Legislature is the very definition of Russian-style oligarchy, and they even have their own Kremlin on Congress."</em> — Former State Senator <strong>Kel Seliger</strong> (R)</p>
+                    <p><em>"They go into other communities and unseat people unwilling to do their bidding... You kiss the ring or you're out."</em> — <strong>Brandon Darby</strong>, Breitbart Texas editor</p>
+                </div>
+
+                <h3>Victims of the Machine</h3>
+                <table>
+                    <tr><th>Victim</th><th>Fate</th><th>"Sin"</th></tr>
+                    <tr><td>Glenn Rogers</td><td>Lost by 27 points</td><td>Voted to impeach Paxton + opposed vouchers</td></tr>
+                    <tr><td>Andrew Murr</td><td>Retired</td><td>Voted for impeachment</td></tr>
+                    <tr><td>Kel Seliger</td><td>Retired</td><td>Low scores on Texans for Fiscal Responsibility</td></tr>
+                    <tr><td>Dan Flynn</td><td>Defeated by Bryan Slaton (Dunn-backed)</td><td>Insufficiently obedient</td></tr>
+                </table>
+
+                <div class="source-list">
+                    <h3>Sources</h3>
+                    <ul>
+                        <li><a href="https://www.texasmonthly.com" target="_blank">Texas Monthly: "The Billionaire Bully" (March 2024)</a></li>
+                        <li><a href="https://www.propublica.org" target="_blank">ProPublica: "A Pair of Billionaire Preachers" (Oct 2024)</a></li>
+                        <li><a href="https://www.cjr.org" target="_blank">Columbia Journalism Review: Pipeline Media investigation</a></li>
+                    </ul>
+                    <p class="last-updated">Last updated: May 28, 2026</p>
+                </div>
+            </div>
+
+            <footer><p>Data: <a href="https://www.texastribune.org" target="_blank">texastribune.org</a> | <a href="https://www.texasmonthly.com" target="_blank">texasmonthly.com</a></p></footer>
+        </main>
+    </div>
+    <script>
+        function toggleSidebar() { document.getElementById('sidebar').classList.toggle('open'); }
+        mermaid.initialize({ startOnLoad: true, theme: 'dark' });
+    </script>
+</body>
+</html>
