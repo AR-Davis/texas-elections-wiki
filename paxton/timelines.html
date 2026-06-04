@@ -314,7 +314,38 @@
     </div>
     <script>
         function toggleSidebar() { document.getElementById('sidebar').classList.toggle('open'); }
-        mermaid.initialize({ startOnLoad: true, theme: 'dark' });
+        mermaid.initialize({
+            startOnLoad: true,
+            theme: 'base',
+            themeVariables: {
+                primaryColor: '#21262d',
+                primaryTextColor: '#e6edf3',
+                primaryBorderColor: '#58a6ff',
+                lineColor: '#8b949e',
+                secondaryColor: '#161b22',
+                tertiaryColor: '#0d1117',
+                background: '#0d1117',
+                mainBkg: '#21262d',
+                secondBkg: '#161b22',
+                tertiaryBkg: '#0d1117',
+                // Gantt specific
+                section0: '#21262d',
+                section1: '#1c2128',
+                section2: '#161b22',
+                section3: '#21262d',
+                taskBkgColor: '#21262d',
+                taskTextColor: '#e6edf3',
+                taskTextOutsideColor: '#e6edf3',
+                activeTaskBkgColor: '#58a6ff',
+                activeTaskBorderColor: '#58a6ff',
+                gridColor: '#30363d',
+                todayLineColor: '#f85149',
+                // Text colors
+                textColor: '#e6edf3',
+                titleColor: '#e6edf3',
+                sectionTextColor: '#e6edf3'
+            }
+        });
     </script>
 </body>
 </html>

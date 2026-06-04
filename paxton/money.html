@@ -299,7 +299,33 @@
     </div>
     <script>
         function toggleSidebar() { document.getElementById('sidebar').classList.toggle('open'); }
-        mermaid.initialize({ startOnLoad: true, theme: 'dark' });
+        mermaid.initialize({
+            startOnLoad: true,
+            theme: 'base',
+            themeVariables: {
+                primaryColor: '#21262d',
+                primaryTextColor: '#e6edf3',
+                primaryBorderColor: '#58a6ff',
+                lineColor: '#8b949e',
+                secondaryColor: '#161b22',
+                tertiaryColor: '#0d1117',
+                background: '#0d1117',
+                mainBkg: '#21262d',
+                secondBkg: '#161b22',
+                tertiaryBkg: '#0d1117',
+                nodeBorder: '#58a6ff',
+                clusterBkg: '#161b22',
+                edgeLabelBackground: '#21262d',
+                nodeTextColor: '#e6edf3',
+                textColor: '#e6edf3',
+                titleColor: '#e6edf3',
+                taskBkgColor: '#21262d',
+                taskTextColor: '#e6edf3',
+                taskTextOutsideColor: '#e6edf3',
+                activeTaskBkgColor: '#58a6ff',
+                gridColor: '#30363d'
+            }
+        });
     </script>
 </body>
 </html>
