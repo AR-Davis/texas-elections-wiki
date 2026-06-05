@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -29,13 +29,7 @@
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Research",
-          "item": "https://texaselections.wiki/#research"
-        },
-        {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "Ken Paxton: The Record",
+          "name": "Paxton Research",
           "item": "https://texaselections.wiki/paxtonresearch.html"
         }
       ]
@@ -66,16 +60,60 @@
         body { font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; background: var(--bg-primary); color: var(--text-primary); line-height: 1.6; min-height: 100vh; }
         .app-container { display: flex; min-height: 100vh; }
 
+        /* Sidebar */
         .sidebar { width: 260px; background: var(--bg-secondary); border-right: 1px solid var(--border); display: flex; flex-direction: column; position: fixed; height: 100vh; overflow-y: auto; }
         .sidebar-header { padding: 1.5rem; border-bottom: 1px solid var(--border); }
         .site-title { font-family: 'JetBrains Mono', monospace; font-size: 1rem; font-weight: 600; color: var(--text-primary); text-decoration: none; display: block; }
         .site-title span { color: var(--accent); }
         .site-subtitle { font-family: 'JetBrains Mono', monospace; font-size: 0.75rem; color: var(--text-muted); margin-top: 0.25rem; }
-        .nav-section { padding: 1rem 0; }
+        
+        /* Collapsible Nav */
+        .nav-section-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0.5rem 1.5rem;
+            cursor: pointer;
+            user-select: none;
+            transition: background 0.15s;
+        }
+        .nav-section-header:hover { background: var(--bg-tertiary); }
+        .nav-section-header .nav-label {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.7rem;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            padding: 0;
+            margin: 0;
+            flex: 1;
+        }
+        .nav-toggle {
+            font-size: 0.7rem;
+            color: var(--text-muted);
+            transition: transform 0.2s;
+            width: 20px;
+            text-align: center;
+        }
+        .nav-section-header.collapsed .nav-toggle {
+            transform: rotate(-90deg);
+        }
+        .nav-subtext {
+            font-size: 0.75rem;
+            color: var(--accent);
+            margin-top: 0.25rem;
+            display: block;
+        }
+        .nav-section-header:hover .nav-subtext {
+            color: var(--text-secondary);
+        }
+        
+        .nav-section { padding: 0.5rem 0; }
         .nav-label { font-family: 'JetBrains Mono', monospace; font-size: 0.7rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; padding: 0 1.5rem; margin-bottom: 0.5rem; }
         .nav-menu { list-style: none; }
         .nav-menu a { display: flex; align-items: center; gap: 0.75rem; padding: 0.5rem 1.5rem; color: var(--text-secondary); text-decoration: none; font-family: 'JetBrains Mono', monospace; font-size: 0.85rem; transition: all 0.15s ease; border-left: 2px solid transparent; }
         .nav-menu a:hover, .nav-menu a.active { color: var(--text-primary); background: var(--bg-tertiary); border-left-color: var(--accent); }
+        .nav-menu.collapsed { display: none; }
         .nav-icon { width: 16px; text-align: center; color: var(--text-muted); }
         .nav-menu a:hover .nav-icon, .nav-menu a.active .nav-icon { color: var(--accent); }
         .sidebar-footer { margin-top: auto; padding: 1rem 1.5rem; border-top: 1px solid var(--border); }
@@ -86,6 +124,8 @@
         .top-bar { background: var(--bg-secondary); border-bottom: 1px solid var(--border); padding: 0.75rem 1.5rem; display: flex; align-items: center; justify-content: space-between; }
         .breadcrumb { font-family: 'JetBrains Mono', monospace; font-size: 0.8rem; color: var(--text-muted); }
         .breadcrumb span { color: var(--text-secondary); }
+        .breadcrumb a { color: var(--accent); text-decoration: none; }
+        .breadcrumb a:hover { text-decoration: underline; }
         .status-indicator { display: flex; align-items: center; gap: 0.5rem; font-family: 'JetBrains Mono', monospace; font-size: 0.75rem; color: var(--text-muted); }
         .status-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--danger); animation: pulse 2s infinite; }
         @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }
@@ -95,12 +135,49 @@
         .page-header h1 { font-size: 1.5rem; font-weight: 600; color: var(--text-primary); margin-bottom: 0.5rem; }
         .page-header p { color: var(--text-secondary); font-size: 0.9rem; }
 
-        /* Page Navigation */
-        .page-nav { display: flex; gap: 0.5rem; margin-bottom: 1.5rem; flex-wrap: wrap; }
-        .page-nav-item { display: flex; align-items: center; gap: 0.5rem; padding: 0.6rem 1rem; background: var(--bg-secondary); border: 1px solid var(--border); border-radius: 6px; color: var(--text-secondary); text-decoration: none; font-family: 'JetBrains Mono', monospace; font-size: 0.85rem; transition: all 0.15s ease; }
-        .page-nav-item:hover { border-color: var(--accent); color: var(--text-primary); }
-        .page-nav-item.active { background: var(--accent); border-color: var(--accent); color: var(--bg-primary); }
-        .page-nav-icon { font-size: 1rem; }
+        /* Sub-navigation for Paxton section */
+        .section-nav {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            padding: 1rem;
+            margin-bottom: 1.5rem;
+        }
+        .section-nav h3 {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.8rem;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            margin-bottom: 0.75rem;
+        }
+        .section-nav-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 0.5rem;
+        }
+        .section-nav-item {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.5rem 0.75rem;
+            background: var(--bg-tertiary);
+            border: 1px solid var(--border);
+            border-radius: 4px;
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.8rem;
+            transition: all 0.15s;
+        }
+        .section-nav-item:hover {
+            border-color: var(--accent);
+            color: var(--text-primary);
+        }
+        .section-nav-item.active {
+            background: var(--danger);
+            border-color: var(--danger);
+            color: var(--bg-primary);
+        }
 
         /* Key Facts */
         .key-facts { background: var(--bg-secondary); border: 1px solid var(--danger); border-left: 4px solid var(--danger); border-radius: 6px; padding: 1.25rem; margin-bottom: 1.5rem; }
@@ -142,7 +219,7 @@
         .callout-box li::before { content: "•"; color: var(--danger); margin-right: 0.5rem; }
         .callout-box strong { color: var(--text-primary); }
 
-        /* Pattern of abuse sections */
+        /* Pattern sections */
         .pattern-section { background: var(--bg-secondary); border: 1px solid var(--border); border-radius: 6px; padding: 1.25rem; margin-bottom: 1rem; }
         .pattern-section h3 { margin-top: 0; color: var(--danger); }
         .pattern-section p, .pattern-section li { color: var(--text-secondary); font-size: 0.9rem; line-height: 1.6; margin-bottom: 0.75rem; }
@@ -179,6 +256,7 @@
             .sidebar.open { transform: translateX(0); }
             .main-content { margin-left: 0; }
             .mobile-menu-toggle { display: block; background: none; border: none; color: var(--text-primary); font-size: 1.25rem; cursor: pointer; }
+            .section-nav-grid { grid-template-columns: 1fr; }
         }
         @media (min-width: 769px) {
             .mobile-menu-toggle { display: none; }
@@ -193,35 +271,59 @@
                 <div class="site-subtitle">v1.2.0 — research</div>
             </div>
             <nav class="nav-section">
-                <div class="nav-label">Navigation</div>
+                <div class="nav-label" style="padding: 0 1.5rem; margin-bottom: 0.5rem;">Navigation</div>
                 <ul class="nav-menu">
                     <li><a href="index.html"><span class="nav-icon">◎</span><span>Voting Map</span></a></li>
                     <li><a href="legislation.html"><span class="nav-icon">§</span><span>Legislation</span></a></li>
-                    <li><a href="paxtonresearch.html" class="active"><span class="nav-icon">⚠</span><span>Paxton Research</span></a></li>
                 </ul>
-                <div class="nav-label">Research</div>
-                <ul class="nav-menu">
+                
+                <div class="nav-section-header" onclick="toggleNavSection('paxton-nav')">
+                    <div>
+                        <div class="nav-label">Paxton Research</div>
+                        <span class="nav-subtext">Click to collapse</span>
+                    </div>
+                    <span class="nav-toggle">▼</span>
+                </div>
+                <ul class="nav-menu" id="paxton-nav">
+                    <li><a href="paxtonresearch.html" class="active"><span class="nav-icon">📋</span><span>Main Report</span></a></li>
+                    <li><a href="paxton/index.html"><span class="nav-icon">⊛</span><span>Research Hub</span></a></li>
+                    <li><a href="paxton/networks.html"><span class="nav-icon">🕸</span><span>Networks</span></a></li>
+                    <li><a href="paxton/timelines.html"><span class="nav-icon">⏱</span><span>Timelines</span></a></li>
+                    <li><a href="paxton/money.html"><span class="nav-icon">💰</span><span>Dark Money</span></a></li>
+                </ul>
+                
+                <div class="nav-section-header collapsed" onclick="toggleNavSection('research-nav')">
+                    <div>
+                        <div class="nav-label">Research</div>
+                        <span class="nav-subtext">Click to expand</span>
+                    </div>
+                    <span class="nav-toggle">▼</span>
+                </div>
+                <ul class="nav-menu collapsed" id="research-nav">
                     <li><a href="voting-systems.html"><span class="nav-icon">⊛</span><span>Voting Systems</span></a></li>
                     <li><a href="voter-registration.html"><span class="nav-icon">✓</span><span>Voter Registration</span></a></li>
                     <li><a href="county-admin.html"><span class="nav-icon">⌘</span><span>County Admin</span></a></li>
                     <li><a href="legislators.html"><span class="nav-icon">⚖</span><span>Legislators</span></a></li>
                     <li><a href="municipal.html"><span class="nav-icon">★</span><span>Municipal</span></a></li>
                 </ul>
-                <div class="nav-label">Resources</div>
+                
+                <div class="nav-label" style="padding: 0 1.5rem; margin-top: 1rem;">Resources</div>
                 <ul class="nav-menu">
                     <li><a href="resources.html"><span class="nav-icon">⌂</span><span>Resources</span></a></li>
                     <li><a href="about.html"><span class="nav-icon">ℹ</span><span>About</span></a></li>
                 </ul>
             </nav>
             <div class="sidebar-footer">
-                <a href="#">Last updated: 2026-05-28</a>
+                <a href="index.html">← Back to Main</a>
             </div>
         </aside>
 
         <main class="main-content">
             <div class="top-bar">
                 <button class="mobile-menu-toggle" onclick="toggleSidebar()">☰</button>
-                <div class="breadcrumb"><span>~/</span>research<span>/</span>paxton</div>
+                <div class="breadcrumb">
+                    <a href="index.html">Home</a> <span>/</span> Paxton Research
+                </div>
                 <div class="status-indicator">
                     <span class="status-dot"></span>
                     <span>record compiled</span>
@@ -234,16 +336,16 @@
                     <p>A decade of legal trouble, corruption allegations, and using public office for personal gain.</p>
                 </div>
 
-                <div class="page-nav">
-                    <a href="index.html" class="page-nav-item">
-                        <span class="page-nav-icon">◎</span><span>Voting Map</span>
-                    </a>
-                    <a href="legislation.html" class="page-nav-item">
-                        <span class="page-nav-icon">§</span><span>Legislation Tracker</span>
-                    </a>
-                    <a href="paxton/index.html" class="page-nav-item active">
-                        <span class="page-nav-icon">⊛</span><span>Research Hub</span>
-                    </a>
+                <!-- Section Navigation -->
+                <div class="section-nav">
+                    <h3>Paxton Research Section</h3>
+                    <div class="section-nav-grid">
+                        <a href="paxtonresearch.html" class="section-nav-item active">📋 Main Report</a>
+                        <a href="paxton/index.html" class="section-nav-item">⊛ Research Hub</a>
+                        <a href="paxton/networks.html" class="section-nav-item">🕸 Networks</a>
+                        <a href="paxton/timelines.html" class="section-nav-item">⏱ Timelines</a>
+                        <a href="paxton/money.html" class="section-nav-item">💰 Dark Money</a>
+                    </div>
                 </div>
 
                 <div class="key-facts">
@@ -528,9 +630,16 @@ ON PAXTON'S ROLE:
         function toggleSidebar() {
             document.getElementById('sidebar').classList.toggle('open');
         }
+
+        function toggleNavSection(sectionId) {
+            const menu = document.getElementById(sectionId);
+            const header = menu.previousElementSibling;
+            menu.classList.toggle('collapsed');
+            header.classList.toggle('collapsed');
+            const subtext = header.querySelector('.nav-subtext');
+            subtext.textContent = menu.classList.contains('collapsed') ? 'Click to expand' : 'Click to collapse';
+        }
     </script>
     <img src="https://aaronrdavis.news/api/track?page=/paxtonresearch.html&site=texaselections.wiki" width="1" height="1" alt="" style="display:none">
 </body>
 </html>
-
-
