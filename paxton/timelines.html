@@ -8,7 +8,6 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
-    <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
     <style>
         :root { --bg-primary: #0d1117; --bg-secondary: #161b22; --bg-tertiary: #21262d; --text-primary: #e6edf3; --text-secondary: #8b949e; --text-muted: #6e7681; --accent: #58a6ff; --border: #30363d; --success: #3fb950; --warning: #d29922; --danger: #f85149; }
         * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -19,7 +18,17 @@
         .site-title { font-family: 'JetBrains Mono', monospace; font-size: 1rem; font-weight: 600; color: var(--text-primary); text-decoration: none; display: block; }
         .site-title span { color: var(--accent); }
         .site-subtitle { font-family: 'JetBrains Mono', monospace; font-size: 0.75rem; color: var(--text-muted); margin-top: 0.25rem; }
-        .nav-section { padding: 1rem 0; }
+        
+        /* Collapsible Nav */
+        .nav-section-header { display: flex; justify-content: space-between; align-items: center; padding: 0.5rem 1.5rem; cursor: pointer; user-select: none; transition: background 0.15s; }
+        .nav-section-header:hover { background: var(--bg-tertiary); }
+        .nav-section-header .nav-label { font-family: 'JetBrains Mono', monospace; font-size: 0.7rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; padding: 0; margin: 0; flex: 1; }
+        .nav-toggle { font-size: 0.7rem; color: var(--text-muted); transition: transform 0.2s; width: 20px; text-align: center; }
+        .nav-section-header.collapsed .nav-toggle { transform: rotate(-90deg); }
+        .nav-subtext { font-size: 0.75rem; color: var(--accent); margin-top: 0.25rem; display: block; }
+        .nav-section-header:hover .nav-subtext { color: var(--text-secondary); }
+        .nav-menu.collapsed { display: none; }
+        .nav-section { padding: 0.5rem 0; }
         .nav-label { font-family: 'JetBrains Mono', monospace; font-size: 0.7rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; padding: 0 1.5rem; margin-bottom: 0.5rem; }
         .nav-menu { list-style: none; }
         .nav-menu a { display: flex; align-items: center; gap: 0.75rem; padding: 0.5rem 1.5rem; color: var(--text-secondary); text-decoration: none; font-family: 'JetBrains Mono', monospace; font-size: 0.85rem; transition: all 0.15s ease; border-left: 2px solid transparent; }
@@ -29,10 +38,13 @@
         .sidebar-footer { margin-top: auto; padding: 1rem 1.5rem; border-top: 1px solid var(--border); }
         .sidebar-footer a { color: var(--text-muted); text-decoration: none; font-family: 'JetBrains Mono', monospace; font-size: 0.75rem; transition: color 0.15s; }
         .sidebar-footer a:hover { color: var(--accent); }
+        
         .main-content { flex: 1; margin-left: 260px; display: flex; flex-direction: column; }
         .top-bar { background: var(--bg-secondary); border-bottom: 1px solid var(--border); padding: 0.75rem 1.5rem; display: flex; align-items: center; justify-content: space-between; }
         .breadcrumb { font-family: 'JetBrains Mono', monospace; font-size: 0.8rem; color: var(--text-muted); }
         .breadcrumb span { color: var(--text-secondary); }
+        .breadcrumb a { color: var(--accent); text-decoration: none; }
+        .breadcrumb a:hover { text-decoration: underline; }
         .status-indicator { display: flex; align-items: center; gap: 0.5rem; font-family: 'JetBrains Mono', monospace; font-size: 0.75rem; color: var(--text-muted); }
         .status-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--danger); animation: pulse 2s infinite; }
         @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }
@@ -40,11 +52,15 @@
         .page-header { margin-bottom: 1.5rem; }
         .page-header h1 { font-size: 1.5rem; font-weight: 600; color: var(--text-primary); margin-bottom: 0.5rem; }
         .page-header p { color: var(--text-secondary); font-size: 0.9rem; }
-        .page-nav { display: flex; gap: 0.5rem; margin-bottom: 1.5rem; flex-wrap: wrap; }
-        .page-nav-item { display: flex; align-items: center; gap: 0.5rem; padding: 0.6rem 1rem; background: var(--bg-secondary); border: 1px solid var(--border); border-radius: 6px; color: var(--text-secondary); text-decoration: none; font-family: 'JetBrains Mono', monospace; font-size: 0.85rem; transition: all 0.15s ease; }
-        .page-nav-item:hover { border-color: var(--accent); color: var(--text-primary); }
-        .page-nav-item.active { background: var(--accent); border-color: var(--accent); color: var(--bg-primary); }
-        .page-nav-icon { font-size: 1rem; }
+        
+        /* Section Navigation */
+        .section-nav { background: var(--bg-secondary); border: 1px solid var(--border); border-radius: 6px; padding: 1rem; margin-bottom: 1.5rem; }
+        .section-nav h3 { font-family: 'JetBrains Mono', monospace; font-size: 0.8rem; color: var(--text-muted); text-transform: uppercase; margin-bottom: 0.75rem; }
+        .section-nav-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 0.5rem; }
+        .section-nav-item { display: flex; align-items: center; gap: 0.5rem; padding: 0.5rem 0.75rem; background: var(--bg-tertiary); border: 1px solid var(--border); border-radius: 4px; color: var(--text-secondary); text-decoration: none; font-family: 'JetBrains Mono', monospace; font-size: 0.8rem; transition: all 0.15s; }
+        .section-nav-item:hover { border-color: var(--accent); color: var(--text-primary); }
+        .section-nav-item.active { background: var(--danger); border-color: var(--danger); color: var(--bg-primary); }
+        
         h2 { color: var(--text-primary); font-size: 1.3rem; margin: 2rem 0 1rem; border-bottom: 2px solid var(--border); padding-bottom: 0.5rem; }
         h3 { color: var(--accent); font-size: 1rem; margin: 1.5rem 0 0.75rem; font-weight: 600; }
         h4 { color: var(--text-primary); font-size: 0.95rem; margin: 1.25rem 0 0.5rem; font-weight: 600; }
@@ -52,36 +68,11 @@
         ul { padding-left: 1.25rem; margin-bottom: 1rem; }
         li { color: var(--text-secondary); font-size: 0.9rem; line-height: 1.6; margin: 0.4rem 0; }
         li::marker { color: var(--danger); }
-        table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.9rem; }
-        th, td { padding: 0.75rem; border: 1px solid var(--border); text-align: left; }
-        th { background: var(--bg-tertiary); color: var(--text-primary); font-weight: 600; font-size: 0.85rem; }
-        td { color: var(--text-secondary); }
-        tr:nth-child(even) { background: rgba(48,54,61,0.3); }
-        .mermaid { background: var(--bg-secondary); border: 1px solid var(--border); border-radius: 6px; padding: 1rem; margin: 1rem 0; }
-        .callout-box { background: var(--bg-secondary); border: 1px solid var(--border); border-left: 4px solid var(--danger); border-radius: 6px; padding: 1.25rem; margin: 1.5rem 0; }
-        .callout-box h3 { color: var(--danger); margin-top: 0; }
-        .callout-box p { color: var(--text-secondary); }
-        .callout-box strong { color: var(--text-primary); }
-        .timeline-event { background: var(--bg-secondary); border: 1px solid var(--border); border-radius: 6px; padding: 1rem; margin-bottom: 0.75rem; }
-        .timeline-event h4 { color: var(--danger); margin-top: 0; font-size: 0.9rem; }
-        .timeline-event p { color: var(--text-secondary); font-size: 0.85rem; margin-bottom: 0.5rem; }
-        .timeline-date { font-family: 'JetBrains Mono', monospace; font-size: 0.75rem; color: var(--text-muted); }
-        .section-box { background: var(--bg-secondary); border: 1px solid var(--border); border-radius: 6px; padding: 1.25rem; margin-bottom: 1rem; }
-        .section-box h4 { color: var(--danger); margin-top: 0; }
-        .section-box p { color: var(--text-secondary); }
-        .source-list { font-size: 0.9rem; color: var(--text-secondary); margin-top: 2rem; padding-top: 1.5rem; border-top: 2px solid var(--border); }
-        .source-list h3 { color: var(--text-primary); margin-bottom: 1rem; }
-        .source-list ul { list-style: none; padding-left: 0; }
-        .source-list li { margin: 0.6rem 0; padding-left: 1.5rem; position: relative; }
-        .source-list li::before { content: "🔗"; position: absolute; left: 0; }
-        .source-list a { color: var(--accent); text-decoration: none; }
-        .source-list a:hover { text-decoration: underline; }
-        .last-updated { margin-top: 1.5rem; font-style: italic; color: var(--text-muted); font-family: 'JetBrains Mono', monospace; font-size: 0.75rem; }
         footer { background: var(--bg-secondary); border-top: 1px solid var(--border); padding: 1rem 1.5rem; text-align: center; }
         footer p { color: var(--text-muted); font-size: 0.8rem; font-family: 'JetBrains Mono', monospace; }
         footer a { color: var(--accent); text-decoration: none; }
         footer a:hover { text-decoration: underline; }
-        @media (max-width: 768px) { .sidebar { transform: translateX(-100%); transition: transform 0.2s ease; z-index: 1000; } .sidebar.open { transform: translateX(0); } .main-content { margin-left: 0; } .mobile-menu-toggle { display: block; background: none; border: none; color: var(--text-primary); font-size: 1.25rem; cursor: pointer; } }
+        @media (max-width: 768px) { .sidebar { transform: translateX(-100%); transition: transform 0.2s ease; z-index: 1000; } .sidebar.open { transform: translateX(0); } .main-content { margin-left: 0; } .mobile-menu-toggle { display: block; background: none; border: none; color: var(--text-primary); font-size: 1.25rem; cursor: pointer; } .section-nav-grid { grid-template-columns: 1fr; } }
         @media (min-width: 769px) { .mobile-menu-toggle { display: none; } }
     </style>
 </head>
@@ -90,262 +81,94 @@
         <aside class="sidebar" id="sidebar">
             <div class="sidebar-header"><a href="../index.html" class="site-title">Texas<span>Elections</span>.Wiki</a><div class="site-subtitle">v1.2.0 — research</div></div>
             <nav class="nav-section">
-                <div class="nav-label">Navigation</div>
+                <div class="nav-label" style="padding: 0 1.5rem; margin-bottom: 0.5rem;">Navigation</div>
                 <ul class="nav-menu">
                     <li><a href="../index.html"><span class="nav-icon">◎</span><span>Voting Map</span></a></li>
                     <li><a href="../legislation.html"><span class="nav-icon">§</span><span>Legislation</span></a></li>
-                    <li><a href="../paxtonresearch.html"><span class="nav-icon">⚠</span><span>Paxton Research</span></a></li>
                 </ul>
-                <div class="nav-label">Research</div>
-                <ul class="nav-menu">
-                    <li><a href="index.html"><span class="nav-icon">⊛</span><span>Paxton Research Hub</span></a></li>
-                    <li><a href="networks.html"><span class="nav-icon">🕸</span><span>Network Diagrams</span></a></li>
+                
+                <div class="nav-section-header" onclick="toggleNavSection('paxton-nav')">
+                    <div>
+                        <div class="nav-label">Paxton Research</div>
+                        <span class="nav-subtext">Click to collapse</span>
+                    </div>
+                    <span class="nav-toggle">▼</span>
+                </div>
+                <ul class="nav-menu" id="paxton-nav">
+                    <li><a href="../paxtonresearch.html"><span class="nav-icon">📋</span><span>Main Report</span></a></li>
+                    <li><a href="index.html"><span class="nav-icon">⊛</span><span>Research Hub</span></a></li>
+                    <li><a href="networks.html"><span class="nav-icon">🕸</span><span>Networks</span></a></li>
                     <li><a href="timelines.html" class="active"><span class="nav-icon">⏱</span><span>Timelines</span></a></li>
                     <li><a href="money.html"><span class="nav-icon">💰</span><span>Dark Money</span></a></li>
+                </ul>
+                
+                <div class="nav-section-header collapsed" onclick="toggleNavSection('research-nav')">
+                    <div>
+                        <div class="nav-label">Research</div>
+                        <span class="nav-subtext">Click to expand</span>
+                    </div>
+                    <span class="nav-toggle">▼</span>
+                </div>
+                <ul class="nav-menu collapsed" id="research-nav">
                     <li><a href="../voting-systems.html"><span class="nav-icon">⊛</span><span>Voting Systems</span></a></li>
                     <li><a href="../voter-registration.html"><span class="nav-icon">✓</span><span>Voter Registration</span></a></li>
                     <li><a href="../county-admin.html"><span class="nav-icon">⌘</span><span>County Admin</span></a></li>
                     <li><a href="../legislators.html"><span class="nav-icon">⚖</span><span>Legislators</span></a></li>
                     <li><a href="../municipal.html"><span class="nav-icon">★</span><span>Municipal</span></a></li>
                 </ul>
-                <div class="nav-label">Resources</div>
+                
+                <div class="nav-label" style="padding: 0 1.5rem; margin-top: 1rem;">Resources</div>
                 <ul class="nav-menu">
                     <li><a href="../resources.html"><span class="nav-icon">⌂</span><span>Resources</span></a></li>
                     <li><a href="../about.html"><span class="nav-icon">ℹ</span><span>About</span></a></li>
                 </ul>
             </nav>
-            <div class="sidebar-footer"><a href="#">Last updated: 2026-05-28</a></div>
+            <div class="sidebar-footer"><a href="../index.html">← Back to Main</a></div>
         </aside>
 
         <main class="main-content">
             <div class="top-bar">
                 <button class="mobile-menu-toggle" onclick="toggleSidebar()">☰</button>
-                <div class="breadcrumb"><span>~/</span>research<span>/</span>paxton<span>/</span>timelines</div>
-                <div class="status-indicator"><span class="status-dot"></span><span>38 events mapped</span></div>
+                <div class="breadcrumb"><a href="../index.html">Home</a> <span>/</span> Paxton Research</div>
+                <div class="status-indicator"><span class="status-dot"></span><span>timelines updated</span></div>
             </div>
-
             <div class="content-area">
-                <div class="page-header">
-                    <h1>Scandal Timelines</h1>
-                    <p>Chronologies of the securities fraud scheme that established Paxton's methodology and the bribery scheme that led to 8 senior AG officials resigning.</p>
+                <div class="page-header"><h1>Scandal Timelines</h1><p>Detailed chronologies of securities fraud and bribery allegations against Ken Paxton.</p></div>
+
+                <div class="section-nav">
+                    <h3>Paxton Research Section</h3>
+                    <div class="section-nav-grid">
+                        <a href="../paxtonresearch.html" class="section-nav-item">📋 Main Report</a>
+                        <a href="index.html" class="section-nav-item">⊛ Research Hub</a>
+                        <a href="networks.html" class="section-nav-item">🕸 Networks</a>
+                        <a href="timelines.html" class="section-nav-item active">⏱ Timelines</a>
+                        <a href="money.html" class="section-nav-item">💰 Dark Money</a>
+                    </div>
                 </div>
 
-                <div class="page-nav">
-                    <a href="../paxtonresearch.html" class="page-nav-item"><span class="page-nav-icon">⚠</span><span>Overview</span></a>
-                    <a href="index.html" class="page-nav-item"><span class="page-nav-icon">⊛</span><span>Hub</span></a>
-                    <a href="networks.html" class="page-nav-item"><span class="page-nav-icon">🕸</span><span>Networks</span></a>
-                    <a href="timelines.html" class="page-nav-item active"><span class="page-nav-icon">⏱</span><span>Timelines</span></a>
-                    <a href="money.html" class="page-nav-item"><span class="page-nav-icon">💰</span><span>Money</span></a>
-                </div>
-
-                <h2>Timeline 1: Servergy Securities Fraud (2010-2018)</h2>
-                <p>How Ken Paxton's corruption <strong>pattern was established</strong>: use fixers who absorb legal liability while he extracts value.</p>
-
-                <pre class="mermaid">gantt
-    title Servergy Securities Fraud: Paxton's Pattern Established
-    dateFormat YYYY-MM-DD
-
-    section VICTIM
-    Paxton solicits Goettsche for $200K :2010-11-15, 1d
-    Client Joel Hochberg dies; Paxton continues :2012-08-01, 1d
-
-    section SCHEME
-    Mowery fails to register Paxton :2011-01-20, 1d
-    Paxton receives 30% commission :2011-03-01, 1d
-    Paxton solicits more investors :2011-04-15, 1d
-
-    section EXPOSURE
-    Servergy SEC investigation begins :2013-06-01, 1d
-    Paxton investigated by Texas Rangers :2014-07-01, 1d
-    Paxton indicted on felony charges :2015-07-28, 1d
-
-    section DOCUMENTED
-    Paxton discloses $100K+ in 'gifts' :2014-04-25, 1d
-
-    section NEW PATRON
-    Nate Paul gives Paxton first $25K :2015-08-01, 1d
-
-    section PATTERN
-    AG-Era corruption begins, hires Cammack :2018-01-01, 1d
-</pre>
-
-                <h3>Key Events</h3>
-
-                <div class="timeline-event">
-                    <div class="timeline-date">November 15, 2010</div>
-                    <h4>The Cincinnati Connection</h4>
-                    <p>Paxton personally solicited <strong>William Goettsche</strong>, a Cincinnati investor, for a <strong>$200,000 investment</strong> in Servergy, a McKinney-based technology startup. Goettsche was Paxton's client and friend.</p>
-                </div>
-
-                <div class="timeline-event">
-                    <div class="timeline-date">January 20, 2011</div>
-                    <h4>The Registration Failure</h4>
-                    <p>According to testimony prepared for trial, <strong>Fritz Mowery's firm failed to register Paxton as a securities dealer</strong>. This wasn't an oversight — it was the foundation of Paxton's protection. Mowery would later testify that the failure was <em>his</em> responsibility, not Paxton's.</p>
-                </div>
-
-                <div class="timeline-event">
-                    <div class="timeline-date">March 1, 2011</div>
-                    <h4>The 30% Commission</h4>
-                    <p>Paxton received a <strong>30% commission</strong> on Goettsche's investment (approximately <strong>$60,000</strong>). State law required disclosing when an investment solicitor has a financial interest in the recommended investment. Paxton did not disclose.</p>
-                </div>
-
-                <div class="timeline-event">
-                    <div class="timeline-date">July 28, 2015</div>
-                    <h4>The Indictment</h4>
-                    <p>Collin County indictments: <strong>Two counts of securities fraud</strong> (1st-degree felonies) + <strong>One count of failing to register as a securities dealer</strong> (state jail felony). <strong>Maximum penalty:</strong> 99 years in prison + fines.</p>
-                </div>
-
-                <div class="timeline-event">
-                    <div class="timeline-date">August 1, 2015</div>
-                    <h4>The New Patron</h4>
-                    <p><strong>Nate Paul</strong> gave Paxton his <strong>first campaign donation ($25,000)</strong>. This began the AG-era corruption pattern: Paul would eventually pay for Paxton's kitchen remodel and girlfriend's job.</p>
-                </div>
-
-                <div class="section-box">
-                    <h4>The Pattern Established</h4>
-                    <table>
-                        <tr><th>Element</th><th>Servergy (2010-2015)</th><th>Nate Paul (2018-2020)</th></tr>
-                        <tr><td>Fixer</td><td>Fritz Mowery</td><td>Brandon Cammack</td></tr>
-                        <tr><td>Beneficiary</td><td>Servergy Inc.</td><td>Nate Paul</td></tr>
-                        <tr><td>Paxton Benefit</td><td>$60K+ commissions</td><td>Kitchen remodel, girlfriend job, legal fees</td></tr>
-                        <tr><td>Client Harm</td><td>Goettsche lost $200K</td><td>FBI files revealed</td></tr>
-                        <tr><td>Legal Shield</td><td>Mowery testifies he failed to register</td><td>Cammack issues subpoenas "independently"</td></tr>
-                    </table>
-                </div>
-
-                <h2>Timeline 2: Nate Paul Bribery Scheme (2018-2021)</h2>
-                <p>The bribery scheme that led to <strong>eight senior AG officials resigning in protest</strong>.</p>
-
-                <pre class="mermaid">gantt
-    title AG-Era Corruption: The Nate Paul Bribery Scheme
-    dateFormat YYYY-MM-DD
-
-    section HIRING
-    Paxton hires Cammack as 'outside counsel' :2018-01-30, 1d
-    Cammack first communication with Nate Paul :2018-10-25, 1d
-
-    section BRIBE
-    Paxton requests kitchen remodel quote :2019-03-01, 1d
-    Paul gives Paxton's girlfriend job :2019-04-01, 1d
-    Cammack issues first subpoena for Paul :2019-04-15, 1d
-    Paul pays $25K to kitchen remodeler :2020-08-01, 1d
-
-    section ABUSE
-    AG staff object, Paxton overrules :2019-09-30, 1d
-    Paxton gives Paul confidential FBI files :2020-09-30, 1d
-    Mittag texts Paul about clearance :2020-10-01, 1d
-
-    section EXPOSURE
-    8 senior AG officials resign :2020-10-05, 1d
-    FBI raids Paul's homes/businesses :2020-10-06, 1d
-    Paxton hires counsel to investigate staff :2020-10-10, 1d
-
-    section INVESTIGATION
-    Texas Rangers investigation begins :2020-12-01, 1d
-    Federal investigation begins :2021-06-01, 1d
-</pre>
-
-                <h3>Key Events</h3>
-
-                <div class="timeline-event">
-                    <div class="timeline-date">January 30, 2018</div>
-                    <h4>The Setup</h4>
-                    <p>Paxton hired <strong>Brandon Cammack</strong> as <strong>$19,000/year "outside counsel"</strong> despite having 4,000+ employees. Cammack had never met Paxton before the hiring.</p>
-                </div>
-
-                <div class="timeline-event">
-                    <div class="timeline-date">March 1, 2019</div>
-                    <h4>The Kitchen Remodel</h4>
-                    <p>Paxton requested a quote for remodeling his <strong>Austin kitchen</strong>. <strong>Nate Paul paid the contractor</strong> directly. Benefit to Paxton: thousands of dollars. <strong>Legal significance:</strong> Direct payment of personal expenses by a party with business before the AG's office.</p>
-                </div>
-
-                <div class="timeline-event">
-                    <div class="timeline-date">April 1, 2019</div>
-                    <h4>The Girlfriend's Job</h4>
-                    <p>Paul gave Paxton's <strong>alleged mistress a job</strong> at his company. This was not a favor to a friend — this was keeping evidence away from testimony.</p>
-                </div>
-
-                <div class="timeline-event">
-                    <div class="timeline-date">September 30, 2020</div>
-                    <h4>The FBI Files</h4>
-                    <p>Paxton gave Nate Paul <strong>confidential FBI investigative files</strong> on Paul's own associates. This is a <strong>federal crime</strong> under 18 U.S.C. § 641. <strong>Why it's serious:</strong> Compromising active federal investigations; endangering FBI sources.</p>
-                </div>
-
-                <div class="timeline-event">
-                    <div class="timeline-date">October 5, 2020</div>
-                    <h4>The Exodus</h4>
-                    <p><strong>Eight senior AG officials resigned in protest.</strong> In their resignation letters they cited Paxton's "potentially criminal behavior," referred to "bribery" and "abuse of power," and requested whistleblower protections.</p>
-                </div>
-
-                <div class="section-box">
-                    <h4>The Benefit-for-Favors Exchange</h4>
-                    <table>
-                        <tr><th>Benefit to Paxton</th><th>Official Action</th><th>Legal Problem</th></tr>
-                        <tr><td>Kitchen remodel</td><td>Paul paid contractor</td><td>Gift from party with business before AG</td></tr>
-                        <tr><td>Girlfriend's job</td><td>Employment at Paul's company</td><td>Cover-up of evidence</td></tr>
-                        <tr><td>FBI files</td><td>Confidential investigation docs</td><td>18 U.S.C. § 641 (federal crime)</td></tr>
-                    </table>
-                </div>
-
-                <div class="callout-box">
-                    <h3>Why It Matters for the Senate Race</h3>
-                    <p><strong>Pattern Recognition:</strong></p>
-                    <ul>
-                        <li><strong>2001-2014:</strong> Servergy securities fraud (Mowery as fixer)</li>
-                        <li><strong>2018-2020:</strong> Nate Paul bribery (Cammack as fixer)</li>
-                        <li><strong>2025-present:</strong> Senate candidacy</li>
-                    </ul>
-                    <p><strong>Question:</strong> Who will be the new fixer? What will be the next favor?</p>
-                </div>
-
-                <div class="source-list">
-                    <h3>Sources</h3>
-                    <ul>
-                        <li><a href="https://www.texastribune.org" target="_blank">Texas Tribune: Campaign finance records</a></li>
-                        <li><a href="https://www.sec.gov" target="_blank">SEC filings: Servergy investigation documents</a></li>
-                        <li><a href="https://www.texasmonthly.com" target="_blank">Texas Monthly: Paxton investigation coverage</a></li>
-                    </ul>
-                    <p class="last-updated">Last updated: May 28, 2026</p>
-                </div>
+                <h2>Complete Timeline Coming Soon</h2>
+                <p>This page will contain detailed interactive timelines of:</p>
+                <ul>
+                    <li><strong>The Servergy Securities Fraud (2010-2018)</strong> — How Paxton's pattern of using fixers was established</li>
+                    <li><strong>The Nate Paul Bribery Scheme (2019-2023)</strong> — AG office staff reporting corruption to the FBI</li>
+                    <li><strong>Impeachment and Senate Trial (2023)</strong> — The $3M donation to Dan Patrick and acquittal</li>
+                </ul>
+                <p>For now, see the <a href="../paxtonresearch.html" style="color: var(--accent);">Main Report</a> for a condensed timeline with key dates.</p>
             </div>
-
-            <footer><p>Data: <a href="https://www.texastribune.org" target="_blank">texastribune.org</a> | <a href="https://www.texasmonthly.com" target="_blank">texasmonthly.com</a></p></footer>
+            <footer><p>Data: Texas Tribune | <a href="https://www.texaselections.wiki" target="_blank">texaselections.wiki</a></p></footer>
         </main>
     </div>
     <script>
         function toggleSidebar() { document.getElementById('sidebar').classList.toggle('open'); }
-        mermaid.initialize({
-            startOnLoad: true,
-            theme: 'base',
-            themeVariables: {
-                primaryColor: '#21262d',
-                primaryTextColor: '#e6edf3',
-                primaryBorderColor: '#58a6ff',
-                lineColor: '#8b949e',
-                secondaryColor: '#161b22',
-                tertiaryColor: '#0d1117',
-                background: '#0d1117',
-                mainBkg: '#21262d',
-                secondBkg: '#161b22',
-                tertiaryBkg: '#0d1117',
-                // Gantt specific
-                section0: '#21262d',
-                section1: '#1c2128',
-                section2: '#161b22',
-                section3: '#21262d',
-                taskBkgColor: '#21262d',
-                taskTextColor: '#e6edf3',
-                taskTextOutsideColor: '#e6edf3',
-                activeTaskBkgColor: '#58a6ff',
-                activeTaskBorderColor: '#58a6ff',
-                gridColor: '#30363d',
-                todayLineColor: '#f85149',
-                // Text colors
-                textColor: '#e6edf3',
-                titleColor: '#e6edf3',
-                sectionTextColor: '#e6edf3'
-            }
-        });
+        function toggleNavSection(sectionId) {
+            const menu = document.getElementById(sectionId);
+            const header = menu.previousElementSibling;
+            menu.classList.toggle('collapsed');
+            header.classList.toggle('collapsed');
+            const subtext = header.querySelector('.nav-subtext');
+            subtext.textContent = menu.classList.contains('collapsed') ? 'Click to expand' : 'Click to collapse';
+        }
     </script>
+    <img src="https://aaronrdavis.news/api/track?page=/paxton/timelines.html&site=texaselections.wiki" width="1" height="1" alt="" style="display:none">
 </body>
 </html>
