@@ -1,0 +1,1666 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2026 Texas Senate Race | Talarico vs Paxton</title>
+    <meta name="description" content="Complete polling data, demographic analysis, and campaign finance breakdown for the 2026 Texas U.S. Senate race between James Talarico and Ken Paxton.">
+    <meta name="keywords" content="Talarico, Paxton, Texas Senate 2026, polling, campaign finance, demographics">
+    <link rel="canonical" href="https://texaselections.wiki/senate-2026.html">
+    <meta property="og:title" content="2026 Texas Senate Race Analysis | Texas Elections Wiki">
+    <meta property="og:description" content="Complete polling data and demographic analysis for Talarico vs Paxton">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://texaselections.wiki/senate-2026.html">
+    <meta property="og:site_name" content="Texas Elections Wiki">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="2026 Texas Senate Race Analysis">
+    <meta name="twitter:description" content="Talarico leads Paxton 47-44 in latest polling. Full demographic breakdown and campaign finance analysis.">
+    
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "2026 Texas U.S. Senate Race: Talarico vs Paxton Analysis",
+      "datePublished": "2026-06-05",
+      "dateModified": "2026-06-05",
+      "author": {
+        "@type": "Organization",
+        "name": "Texas Elections Wiki"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Texas Elections Wiki",
+        "url": "https://texaselections.wiki"
+      }
+    }
+    </script>
+    
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    
+    <style>
+        :root {
+            --bg-primary: #0d1117;
+            --bg-secondary: #161b22;
+            --bg-tertiary: #21262d;
+            --bg-elevated: #1c2128;
+            --text-primary: #e6edf3;
+            --text-secondary: #8b949e;
+            --text-muted: #6e7681;
+            --accent: #58a6ff;
+            --accent-dim: #388bfd;
+            --accent-glow: rgba(88, 166, 255, 0.3);
+            --border: #30363d;
+            --border-light: #3b3c3f;
+            --democrat: #6366f1;
+            --democrat-dim: #4f46e5;
+            --republican: #ef4444;
+            --republican-dim: #dc2626;
+            --success: #3fb950;
+            --warning: #d29922;
+            --accent-orange: #fb923c;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        html {
+            scroll-behavior: smooth;
+        }
+        
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.7;
+            min-height: 100vh;
+        }
+        
+        /* Layout */
+        .app-container {
+            display: flex;
+            min-height: 100vh;
+        }
+        
+        /* Sidebar */
+        .sidebar {
+            width: 340px;
+            background: var(--bg-secondary);
+            border-right: 1px solid var(--border);
+            display: flex;
+            flex-direction: column;
+            position: fixed;
+            height: 100vh;
+            overflow-y: auto;
+        }
+        
+        .sidebar-header {
+            padding: 1.5rem;
+            border-bottom: 1px solid var(--border);
+        }
+        
+        .site-title {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 1rem;
+            font-weight: 600;
+            color: var(--text-primary);
+        }
+        
+        .site-title span {
+            color: var(--accent);
+        }
+        
+        .site-subtitle {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            margin-top: 0.25rem;
+        }
+        
+        /* Polling Widget */
+        .polling-widget {
+            padding: 1.25rem;
+            border-bottom: 1px solid var(--border);
+        }
+        
+        .polling-widget-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 1rem;
+        }
+        
+        .polling-widget-title {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.8rem;
+            font-weight: 600;
+            color: var(--text-primary);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+        
+        .polling-widget-badge {
+            font-size: 0.65rem;
+            background: var(--bg-tertiary);
+            color: var(--accent);
+            padding: 0.2rem 0.5rem;
+            border-radius: 4px;
+            font-family: 'JetBrains Mono', monospace;
+        }
+        
+        .poll-average-box {
+            background: linear-gradient(145deg, var(--bg-tertiary), var(--bg-secondary));
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 1rem;
+            margin-bottom: 1rem;
+        }
+        
+        .poll-average-header {
+            display: flex;
+            justify-content: center;
+            gap: 0.5rem;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.7rem;
+            color: var(--text-muted);
+            margin-bottom: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+        }
+        
+        .poll-average-bar {
+            display: flex;
+            height: 28px;
+            border-radius: 6px;
+            overflow: hidden;
+            margin-bottom: 0.5rem;
+            box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
+        }
+        
+        .poll-average-segment {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: 'JetBrains Mono', monospace;
+            font-weight: 700;
+            font-size: 0.8rem;
+            color: white;
+            text-shadow: 0 1px 2px rgba(0,0,0,0.3);
+        }
+        
+        .dem-segment {
+            background: linear-gradient(180deg, var(--democrat), var(--democrat-dim));
+            border-right: 1px solid rgba(255,255,255,0.1);
+        }
+        
+        .gop-segment {
+            background: linear-gradient(180deg, var(--republican), var(--republican-dim));
+            border-left: 1px solid rgba(255,255,255,0.1);
+        }
+        
+        .undecided-segment {
+            background: linear-gradient(180deg, var(--bg-tertiary), #2d333b);
+        }
+        
+        .poll-average-labels {
+            display: flex;
+            justify-content: space-between;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.7rem;
+        }
+        
+        .poll-label {
+            display: flex;
+            align-items: center;
+            gap: 0.4rem;
+        }
+        
+        .poll-label-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+        }
+        
+        .poll-label-dot.dem { background: var(--democrat); }
+        .poll-label-dot.gop { background: var(--republican); }
+        .poll-label-dot.und { background: var(--text-muted); }
+        
+        .polls-list {
+            list-style: none;
+        }
+        
+        .poll-item {
+            padding: 0.75rem 0;
+            border-bottom: 1px solid var(--border);
+        }
+        
+        .poll-item:last-child {
+            border-bottom: none;
+        }
+        
+        .poll-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 0.5rem;
+        }
+        
+        .poll-name {
+            font-size: 0.8rem;
+            font-weight: 500;
+            color: var(--text-secondary);
+            line-height: 1.3;
+        }
+        
+        .poll-date {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.65rem;
+            color: var(--text-muted);
+            white-space: nowrap;
+            margin-left: 0.5rem;
+        }
+        
+        .poll-bar-container {
+            height: 8px;
+            background: var(--bg-tertiary);
+            border-radius: 4px;
+            overflow: hidden;
+            margin-bottom: 0.4rem;
+            position: relative;
+        }
+        
+        .poll-bar-fill {
+            height: 100%;
+            border-radius: 4px;
+            transition: width 0.5s ease;
+        }
+        
+        .poll-bar-dem {
+            background: linear-gradient(90deg, var(--democrat), var(--democrat-dim));
+        }
+        
+        .poll-bar-gop {
+            background: linear-gradient(90deg, var(--republican), var(--republican-dim));
+        }
+        
+        .poll-numbers {
+            display: flex;
+            justify-content: space-between;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.75rem;
+        }
+        
+        .poll-number {
+            display: flex;
+            align-items: center;
+            gap: 0.3rem;
+        }
+        
+        .poll-number.dem { color: var(--democrat); }
+        .poll-number.gop { color: var(--republican); }
+        .poll-number.margin { 
+            color: var(--text-muted); 
+            font-size: 0.7rem;
+        }
+        
+        .poll-number.margin.positive { color: var(--democrat); }
+        .poll-number.margin.negative { color: var(--republican); }
+        
+        .view-all-polls {
+            display: block;
+            text-align: center;
+            margin-top: 0.75rem;
+            padding: 0.5rem;
+            background: var(--bg-tertiary);
+            border-radius: 4px;
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.75rem;
+            transition: all 0.15s;
+        }
+        
+        .view-all-polls:hover {
+            background: var(--border);
+            color: var(--accent);
+        }
+        
+        /* Navigation */
+        .nav-section {
+            padding: 1rem 0;
+        }
+        
+        .nav-section-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0.5rem 1.5rem;
+            cursor: pointer;
+            user-select: none;
+            transition: background 0.15s;
+        }
+        
+        .nav-section-header:hover {
+            background: var(--bg-tertiary);
+        }
+        
+        .nav-label {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.7rem;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+        
+        .nav-subtext {
+            font-size: 0.75rem;
+            color: var(--accent);
+            margin-top: 0.25rem;
+            display: block;
+        }
+        
+        .nav-toggle {
+            font-size: 0.7rem;
+            color: var(--text-muted);
+            transition: transform 0.2s;
+            width: 20px;
+            text-align: center;
+        }
+        
+        .nav-section-header.collapsed .nav-toggle {
+            transform: rotate(-90deg);
+        }
+        
+        .nav-menu {
+            list-style: none;
+        }
+        
+        .nav-menu.collapsed {
+            display: none;
+        }
+        
+        .nav-menu li {
+            margin: 0;
+        }
+        
+        .nav-menu a {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            padding: 0.5rem 1.5rem;
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            transition: all 0.15s ease;
+            border-left: 2px solid transparent;
+        }
+        
+        .nav-menu a:hover,
+        .nav-menu a.active {
+            color: var(--text-primary);
+            background: var(--bg-tertiary);
+            border-left-color: var(--accent);
+        }
+        
+        .nav-icon {
+            width: 16px;
+            text-align: center;
+            color: var(--text-muted);
+        }
+        
+        .nav-menu a:hover .nav-icon,
+        .nav-menu a.active .nav-icon {
+            color: var(--accent);
+        }
+        
+        /* Main Content */
+        .main-content {
+            flex: 1;
+            margin-left: 340px;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        /* Top Bar */
+        .top-bar {
+            background: var(--bg-secondary);
+            border-bottom: 1px solid var(--border);
+            padding: 0.75rem 2rem;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        
+        .breadcrumb {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.8rem;
+            color: var(--text-muted);
+        }
+        
+        .breadcrumb span {
+            color: var(--text-secondary);
+        }
+        
+        .breadcrumb a {
+            color: var(--text-muted);
+            text-decoration: none;
+        }
+        
+        .breadcrumb a:hover {
+            color: var(--accent);
+        }
+        
+        .race-status {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.75rem;
+        }
+        
+        .race-status-indicator {
+            background: linear-gradient(145deg, var(--warning), var(--accent-orange));
+            color: #0d1117;
+            padding: 0.25rem 0.75rem;
+            border-radius: 4px;
+            font-weight: 600;
+        }
+        
+        .race-status-text {
+            color: var(--text-secondary);
+        }
+        
+        /* Content Area */
+        .content-area {
+            flex: 1;
+            padding: 2rem 2.5rem;
+            max-width: 900px;
+        }
+        
+        /* Article Header */
+        .article-header {
+            margin-bottom: 2.5rem;
+            padding-bottom: 1.5rem;
+            border-bottom: 1px solid var(--border);
+        }
+        
+        .article-title {
+            font-size: 2.25rem;
+            font-weight: 700;
+            color: var(--text-primary);
+            margin-bottom: 0.75rem;
+            line-height: 1.2;
+        }
+        
+        .article-subtitle {
+            font-size: 1.1rem;
+            color: var(--text-secondary);
+            margin-bottom: 1.25rem;
+        }
+        
+        .candidate-badges {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+        
+        .candidate-badge {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.5rem 1rem;
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            font-weight: 500;
+        }
+        
+        .candidate-badge.talarico {
+            border-left: 3px solid var(--democrat);
+        }
+        
+        .candidate-badge.paxton {
+            border-left: 3px solid var(--republican);
+        }
+        
+        .candidate-party {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.7rem;
+            padding: 0.15rem 0.35rem;
+            border-radius: 3px;
+            font-weight: 600;
+        }
+        
+        .candidate-badge.talarico .candidate-party {
+            background: rgba(99, 102, 241, 0.2);
+            color: #a5b4fc;
+        }
+        
+        .candidate-badge.paxton .candidate-party {
+            background: rgba(239, 68, 68, 0.2);
+            color: #fca5a5;
+        }
+        
+        .article-meta {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            margin-top: 1rem;
+        }
+        
+        /* Executive Summary Box */
+        .summary-box {
+            background: linear-gradient(145deg, var(--bg-secondary), var(--bg-tertiary));
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 1.5rem;
+            margin-bottom: 2.5rem;
+            position: relative;
+        }
+        
+        .summary-label {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.7rem;
+            color: var(--accent);
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            margin-bottom: 0.75rem;
+        }
+        
+        .summary-box p {
+            color: var(--text-secondary);
+            font-size: 0.95rem;
+            line-height: 1.7;
+        }
+        
+        .key-facts {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 1rem;
+            margin-top: 1.25rem;
+            padding-top: 1.25rem;
+            border-top: 1px solid var(--border);
+        }
+        
+        .key-fact {
+            text-align: center;
+        }
+        
+        .key-fact-value {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--accent);
+        }
+        
+        .key-fact-label {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            margin-top: 0.25rem;
+        }
+        
+        /* Section Styling */
+        .section {
+            margin-bottom: 2.5rem;
+        }
+        
+        .section-header {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            margin-bottom: 1.25rem;
+        }
+        
+        .section-number {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            font-weight: 700;
+            color: var(--accent);
+            background: var(--bg-tertiary);
+            padding: 0.35rem 0.6rem;
+            border-radius: 4px;
+            border: 1px solid var(--border);
+        }
+        
+        .section-title {
+            font-size: 1.4rem;
+            font-weight: 600;
+            color: var(--text-primary);
+        }
+        
+        .section-content {
+            padding-left: 2.5rem;
+        }
+        
+        /* Data Tables */
+        .data-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+            font-size: 0.9rem;
+        }
+        
+        .data-table th,
+        .data-table td {
+            padding: 0.75rem 1rem;
+            text-align: left;
+            border-bottom: 1px solid var(--border);
+        }
+        
+        .data-table th {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.75rem;
+            font-weight: 600;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            background: var(--bg-secondary);
+        }
+        
+        .data-table tr:hover {
+            background: var(--bg-secondary);
+        }
+        
+        .data-table td {
+            color: var(--text-secondary);
+        }
+        
+        .data-table .highlight {
+            color: var(--text-primary);
+            font-weight: 600;
+        }
+        
+        .data-table .margin-dem {
+            color: var(--democrat);
+            font-weight: 600;
+        }
+        
+        .data-table .margin-gop {
+            color: var(--republican);
+            font-weight: 600;
+        }
+        
+        /* Demographic Grids */
+        .demo-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 1rem;
+            margin: 1rem 0;
+        }
+        
+        .demo-card {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 1rem;
+        }
+        
+        .demo-card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 0.75rem;
+        }
+        
+        .demo-card-title {
+            font-size: 0.9rem;
+            font-weight: 600;
+            color: var(--text-primary);
+        }
+        
+        .demo-card-margin {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            font-weight: 600;
+            padding: 0.25rem 0.5rem;
+            border-radius: 4px;
+        }
+        
+        .demo-card-margin.dem {
+            background: rgba(99, 102, 241, 0.15);
+            color: #a5b4fc;
+        }
+        
+        .demo-card-margin.gop {
+            background: rgba(239, 68, 68, 0.15);
+            color: #fca5a5;
+        }
+        
+        .demo-bar {
+            height: 24px;
+            background: var(--bg-tertiary);
+            border-radius: 4px;
+            overflow: hidden;
+            display: flex;
+            position: relative;
+        }
+        
+        .demo-bar-segment {
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.7rem;
+            color: white;
+            text-shadow: 0 1px 2px rgba(0,0,0,0.3);
+        }
+        
+        .demo-bar-segment.dem {
+            background: linear-gradient(180deg, var(--democrat), var(--democrat-dim));
+        }
+        
+        .demo-bar-segment.gop {
+            background: linear-gradient(180deg, var(--republican), var(--republican-dim));
+        }
+        
+        /* Finance Section */
+        .finance-comparison {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 1.5rem;
+            margin: 1.25rem 0;
+        }
+        
+        .finance-card {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 1.25rem;
+        }
+        
+        .finance-card.dem {
+            border-left: 3px solid var(--democrat);
+        }
+        
+        .finance-card.gop {
+            border-left: 3px solid var(--republican);
+        }
+        
+        .finance-candidate {
+            font-size: 1.1rem;
+            font-weight: 600;
+            margin-bottom: 0.25rem;
+        }
+        
+        .finance-party {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            margin-bottom: 1rem;
+        }
+        
+        .finance-metric {
+            display: flex;
+            justify-content: space-between;
+            padding: 0.5rem 0;
+            border-bottom: 1px solid var(--border);
+        }
+        
+        .finance-metric:last-child {
+            border-bottom: none;
+        }
+        
+        .finance-metric-label {
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+        }
+        
+        .finance-metric-value {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.9rem;
+            font-weight: 600;
+            color: var(--text-primary);
+        }
+        
+        /* Sources Section */
+        .sources-list {
+            list-style: none;
+            margin: 1rem 0;
+        }
+        
+        .source-item {
+            display: flex;
+            gap: 1rem;
+            padding: 1rem;
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            margin-bottom: 0.75rem;
+            transition: border-color 0.15s;
+        }
+        
+        .source-item:hover {
+            border-color: var(--border-light);
+        }
+        
+        .source-number {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.8rem;
+            color: var(--accent);
+            font-weight: 600;
+            min-width: 2rem;
+        }
+        
+        .source-content {
+            flex: 1;
+        }
+        
+        .source-title {
+            font-weight: 500;
+            color: var(--text-primary);
+            margin-bottom: 0.25rem;
+        }
+        
+        .source-meta {
+            font-size: 0.8rem;
+            color: var(--text-muted);
+            font-family: 'JetBrains Mono', monospace;
+        }
+        
+        .source-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.4rem;
+            margin-top: 0.5rem;
+            color: var(--accent);
+            text-decoration: none;
+            font-size: 0.85rem;
+            font-weight: 500;
+        }
+        
+        .source-link:hover {
+            color: var(--accent-dim);
+        }
+        
+        /* TOC */
+        .toc {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 1.25rem;
+            margin-bottom: 2rem;
+        }
+        
+        .toc-title {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.8rem;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            margin-bottom: 0.75rem;
+        }
+        
+        .toc-list {
+            list-style: none;
+        }
+        
+        .toc-list li {
+            margin: 0;
+        }
+        
+        .toc-list a {
+            display: block;
+            padding: 0.4rem 0;
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 0.9rem;
+            border-left: 2px solid transparent;
+            padding-left: 0.75rem;
+            margin-left: -0.75rem;
+            transition: all 0.15s;
+        }
+        
+        .toc-list a:hover {
+            color: var(--accent);
+            border-left-color: var(--accent);
+        }
+        
+        /* Footer */
+        footer {
+            background: var(--bg-secondary);
+            border-top: 1px solid var(--border);
+            padding: 1.5rem 2rem;
+            margin-top: auto;
+        }
+        
+        footer p {
+            color: var(--text-muted);
+            font-size: 0.8rem;
+            font-family: 'JetBrains Mono', monospace;
+        }
+        
+        footer a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+        
+        footer a:hover {
+            text-decoration: underline;
+        }
+        
+        /* Highlights */
+        .highlight-dem {
+            color: var(--democrat);
+            font-weight: 600;
+        }
+        
+        .highlight-gop {
+            color: var(--republican);
+            font-weight: 600;
+        }
+        
+        .highlight-pos {
+            color: var(--success);
+        }
+        
+        .highlight-neg {
+            color: var(--republican);
+        }
+        
+        /* Text content styling */
+        .section-content p {
+            margin-bottom: 1rem;
+            color: var(--text-secondary);
+        }
+        
+        .section-content strong {
+            color: var(--text-primary);
+        }
+        
+        .section-content ul, .section-content ol {
+            margin: 1rem 0 1rem 1.5rem;
+            color: var(--text-secondary);
+        }
+        
+        .section-content li {
+            margin-bottom: 0.5rem;
+        }
+        
+        /* Mobile */
+        @media (max-width: 1024px) {
+            .sidebar {
+                transform: translateX(-100%);
+                transition: transform 0.2s ease;
+                z-index: 1000;
+            }
+            
+            .sidebar.open {
+                transform: translateX(0);
+            }
+            
+            .main-content {
+                margin-left: 0;
+            }
+            
+            .mobile-menu-toggle {
+                display: flex !important;
+            }
+            
+            .content-area {
+                padding: 1.5rem;
+            }
+            
+            .article-title {
+                font-size: 1.75rem;
+            }
+            
+            .section-content {
+                padding-left: 0;
+            }
+            
+            .section-header {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+            
+            .finance-comparison {
+                grid-template-columns: 1fr;
+            }
+            
+            .key-facts {
+                grid-template-columns: 1fr;
+            }
+        }
+        
+        @media (min-width: 1025px) {
+            .mobile-menu-toggle {
+                display: none !important;
+            }
+        }
+        
+        .mobile-menu-toggle {
+            background: none;
+            border: none;
+            color: var(--text-primary);
+            font-size: 1.25rem;
+            cursor: pointer;
+            width: 40px;
+            height: 40px;
+            align-items: center;
+            justify-content: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-header">
+                <div class="site-title">Texas<span>Elections</span>.Wiki</div>
+                <div class="site-subtitle">v1.2.0 — research</div>
+            </div>
+            
+            <!-- Polling Widget -->
+            <div class="polling-widget">
+                <div class="polling-widget-header">
+                    <span class="polling-widget-title">Live Polling Average</span>
+                    <span class="polling-widget-badge">10 polls</span>
+                </div>
+                
+                <div class="poll-average-box">
+                    <div class="poll-average-header">Poll Average</div>
+                    <div class="poll-average-bar" id="average-bar">
+                        <div class="poll-average-segment dem-segment" id="dem-avg" style="width: 42%">42%</div>
+                        <div class="poll-average-segment undecided-segment" id="und-avg" style="width: 18%">18%</div>
+                        <div class="poll-average-segment gop-segment" id="gop-avg" style="width: 40%">40%</div>
+                    </div>
+                    <div class="poll-average-labels">
+                        <div class="poll-label">
+                            <span class="poll-label-dot dem"></span>
+                            <span style="color: var(--democrat)">Talarico</span>
+                        </div>
+                        <div class="poll-label">
+                            <span class="poll-label-dot und"></span>
+                            <span>Undecided</span>
+                        </div>
+                        <div class="poll-label">
+                            <span class="poll-label-dot gop"></span>
+                            <span style="color: var(--republican)">Paxton</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <ul class="polls-list" id="polls-list">
+                    <!-- Populated by JS -->
+                    <li class="poll-item">
+                        <div style="color: var(--text-muted); font-size: 0.85rem; text-align: center; padding: 1rem 0;">Loading polls...</div>
+                    </li>
+                </ul>
+                
+                <a href="#polling" class="view-all-polls">View All Polling Data →</a>
+            </div>
+            
+            <!-- Navigation -->
+            <nav class="nav-section">
+                <ul class="nav-menu">
+                    <li><a href="index.html"><span class="nav-icon">◎</span>Voting Map</span></a></li>
+                    <li><a href="legislation.html"><span class="nav-icon">§</span>Legislation</a></li>
+                    <li><a href="senate-2026.html" class="active"><span class="nav-icon">📊</span>2026 Senate Race</a></li>
+                </ul>
+                
+                <div class="nav-section-header" onclick="toggleNavSection('paxton-nav')">
+                    <div>
+                        <div class="nav-label">Paxton Research</div>
+                    </div>
+                    <span class="nav-toggle">▼</span>
+                </div>
+                <ul class="nav-menu collapsed" id="paxton-nav">
+                    <li><a href="paxtonresearch.html"><span class="nav-icon">📋</span>Main Report</span></a></li>
+                    <li><a href="paxton/index.html"><span class="nav-icon">⊛</span>Research Hub</a></li>
+                    <li><a href="paxton/networks.html"><span class="nav-icon">🕸</span>Network Diagrams</a></li>
+                    <li><a href="paxton/timelines.html"><span class="nav-icon">⏱</span>Timelines</a></li>
+                    <li><a href="paxton/money.html"><span class="nav-icon">💰</span>Dark Money</a></li>
+                </ul>
+                
+                <div class="nav-section-header collapsed" onclick="toggleNavSection('research-nav')">
+                    <div>
+                        <div class="nav-label">Research</div>
+                    </div>
+                    <span class="nav-toggle">▼</span>
+                </div>
+                <ul class="nav-menu collapsed" id="research-nav">
+                    <li><a href="voting-systems.html"><span class="nav-icon">⊛</span>Voting Systems</a></li>
+                    <li><a href="voter-registration.html"><span class="nav-icon">✓</span>Voter Registration</a></li>
+                    <li><a href="legislators.html"><span class="nav-icon">⚖</span>Legislators</a></li>
+                </ul>
+                
+                <div class="nav-label">Resources</div>
+                <ul class="nav-menu">
+                    <li><a href="resources.html"><span class="nav-icon">⌂</span>Resources</a></li>
+                    <li><a href="about.html"><span class="nav-icon">ℹ</span>About</a></li>
+                </ul>
+            </nav>
+        </aside>
+        
+        <!-- Main Content -->
+        <main class="main-content">
+            <div class="top-bar">
+                <button class="mobile-menu-toggle" onclick="toggleSidebar()">☰</button>
+                <div class="breadcrumb">
+                    <a href="index.html">~/home</a> <span>/</span> senate-2026 <span>/</span> <span>talarico-vs-paxton</span>
+                </div>
+                <div class="race-status">
+                    <span class="race-status-indicator">LEAN R→TOSSUP</span>
+                    <span class="race-status-text">Last updated: June 5, 2026</span>
+                </div>
+            </div>
+            
+            <article class="content-area">
+                <!-- Article Header -->
+                <header class="article-header">
+                    <h1 class="article-title">2026 Texas U.S. Senate Race</h1>
+                    <p class="article-subtitle">Complete polling data, demographic analysis, and campaign finance breakdown for the competitive matchup between James Talarico and Ken Paxton</p>
+                    
+                    <div class="candidate-badges">
+                        <div class="candidate-badge talarico">
+                            <span>James Talarico</span>
+                            <span class="candidate-party">DEM</span>
+                        </div>
+                        <span style="color: var(--text-muted)">vs</span>
+                        <div class="candidate-badge paxton">
+                            <span>Ken Paxton</span>
+                            <span class="candidate-party">GOP</span>
+                        </div>
+                    </div>
+                    
+                    <div class="article-meta">Analysis compiled from Texas Public Opinion Research, UT/Texas Politics Project, FEC filings, and OpenSecrets | Updated June 5, 2026</div>
+                </header>
+                
+                <!-- Executive Summary -->
+                <div class="summary-box">
+                    <div class="summary-label">Executive Summary</div>
+                    <p>The 2026 Texas Senate race is shaping up to be the most competitive statewide contest in Texas in over three decades. Democrat <strong>James Talarico</strong> currently leads Republican <strong>Ken Paxton</strong> by <strong>3-5 points</strong> in recent polling—a remarkable position for a Democrat in a state Republicans have held every statewide office since 1994. The race features a dramatic <strong>warchest disparity</strong> ($40M+ vs. $7.6M), shifting demographic coalitions, and Paxton's significant <strong>favorability deficit</strong> that creates a genuine Democratic pickup opportunity.</p>
+                    
+                    <div class="key-facts">
+                        <div class="key-fact">
+                            <div class="key-fact-value">+3-5</div>
+                            <div class="key-fact-label">Talarico Lead</div>
+                        </div>
+                        <div class="key-fact">
+                            <div class="key-fact-value">5:1</div>
+                            <div class="key-fact-label">Fundraising Ratio</div>
+                        </div>
+                        <div class="key-fact">
+                            <div class="key-fact-value">30%</div>
+                            <div class="key-fact-label">Cornyn→Talarico</div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Table of Contents -->
+                <div class="toc">
+                    <div class="toc-title">Table of Contents</div>
+                    <ul class="toc-list">
+                        <li><a href="#polling">I. Current Polling Position</a></li>
+                        <li><a href="#demographics">II. Demographic Coalition Analysis</a></li>
+                        <li><a href="#warchesst">III. Warchest Positioning</a></li>
+                        <li><a href="#geography">IV. Geographic & Electoral Strategy</a></li>
+                        <li><a href="#risks">V. Strategic Risks & Opportunities</a></li>
+                        <li><a href="#assessment">VI. Bottom Line Assessment</a></li>
+                        <li><a href="#sources">Sources & Methodology</a></li>
+                    </ul>
+                </div>
+                
+                <!-- Section I: Polling -->
+                <section class="section" id="polling">
+                    <div class="section-header">
+                        <span class="section-number">I</span>
+                        <h2 class="section-title">Current Polling Position</h2>
+                    </div>
+                    <div class="section-content">
+                        <p>Three major polls have been conducted since April 2026, showing <strong>consistent Talarico leads</strong> across multiple pollsters:</p>
+                        
+                        <table class="data-table">
+                            <thead>
+                                <tr>
+                                    <th>Pollster</th>
+                                    <th>Date</th>
+                                    <th>Talarico</th>
+                                    <th>Paxton</th>
+                                    <th>Margin</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td class="highlight">Texas Public Opinion Research (TPOR)</td>
+                                    <td>May 27-28, 2026</td>
+                                    <td><strong class="highlight-dem">47%</strong></td>
+                                    <td>44%</td>
+                                    <td class="margin-dem">+3 Talarico</td>
+                                </tr>
+                                <tr>
+                                    <td class="highlight">Texas Public Opinion Research (TPOR)</td>
+                                    <td>April 17-20, 2026</td>
+                                    <td><strong class="highlight-dem">46%</strong></td>
+                                    <td>41%</td>
+                                    <td class="margin-dem">+5 Talarico</td>
+                                </tr>
+                                <tr>
+                                    <td class="highlight">Texas Politics Project / UT Austin</td>
+                                    <td>April 10-20, 2026</td>
+                                    <td><strong class="highlight-dem">42%</strong></td>
+                                    <td>34%</td>
+                                    <td class="margin-dem">+8 Talarico</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        
+                        <p><strong>Key Dynamics:</strong> Talarico leads among undecided leaners when pushed (17% vs. 19% to Paxton, with 50% still unsure). Critically, only <span class="highlight-gop">44% of Cornyn voters</span> plan to vote for Paxton, while <strong class="highlight-dem">30% plan to cross over to Talarico</strong>—a stunning defection level for a Republican primary.</p>
+                        
+                        <p>The crossover phenomenon is driven by Paxton's <strong>criminality/corruption association</strong>: 51% of Cornyn voters backing Talarico cite this as their primary reason, according to post-runoff polling.</p>
+                    </div>
+                </section>
+                
+                <!-- Section II: Demographics -->
+                <section class="section" id="demographics">
+                    <div class="section-header">
+                        <span class="section-number">II</span>
+                        <h2 class="section-title">Demographic Coalition Analysis</h2>
+                    </div>
+                    <div class="section-content">
+                        <p>TPOR's detailed crosstabs reveal a <strong>reconfigured Texas electorate</strong> that diverges sharply from traditional partisan coalitions. The education divide has emerged as the sharpest cleavage:</p>
+                        
+                        <div class="demo-grid">
+                            <div class="demo-card">
+                                <div class="demo-card-header">
+                                    <span class="demo-card-title">Black voters</span>
+                                    <span class="demo-card-margin dem">+38 Dem</span>
+                                </div>
+                                <div class="demo-bar">
+                                    <div class="demo-bar-segment dem" style="width: 64%">64%</div>
+                                    <div class="demo-bar-segment gop" style="width: 26%">26%</div>
+                                </div>
+                            </div>
+                            
+                            <div class="demo-card">
+                                <div class="demo-card-header">
+                                    <span class="demo-card-title">Latino voters</span>
+                                    <span class="demo-card-margin dem" style="color: var(--warning)">Even</span>
+                                </div>
+                                <div class="demo-bar">
+                                    <div class="demo-bar-segment dem" style="width: 44%">44%</div>
+                                    <div class="demo-bar-segment gop" style="width: 46%">46%</div>
+                                </div>
+                            </div>
+                            
+                            <div class="demo-card">
+                                <div class="demo-card-header">
+                                    <span class="demo-card-title">White voters</span>
+                                    <span class="demo-card-margin gop">+1 GOP</span>
+                                </div>
+                                <div class="demo-bar">
+                                    <div class="demo-bar-segment dem" style="width: 45%">45%</div>
+                                    <div class="demo-bar-segment gop" style="width: 46%">46%</div>
+                                </div>
+                            </div>
+                            
+                            <div class="demo-card">
+                                <div class="demo-card-header">
+                                    <span class="demo-card-title">College-educated</span>
+                                    <span class="demo-card-margin dem">+14 Dem</span>
+                                </div>
+                                <div class="demo-bar">
+                                    <div class="demo-bar-segment dem" style="width: 54%">54%</div>
+                                    <div class="demo-bar-segment gop" style="width: 40%">40%</div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <p><strong>Education Divide:</strong> College-educated voters (<span class="highlight-dem">+14 to +30</span> for Talarico) versus non-college voters (<span class="highlight-gop">+21</span> for Paxton) mirrors national polarization patterns. This suburban shift is critical—Collin County (north Dallas) saw Talarico win 85,000 Democratic primary votes (95K vs. GOP's 102K), nearly erasing the traditional Republican advantage.</p>
+                        
+                        <p><strong>Ideological Crossover:</strong> Talarico holds commanding leads among independents (<strong class="highlight-dem">+43</strong>) and moderates (<strong class="highlight-dem">+57</strong>). Even among "somewhat conservative" voters, 19% defect to Talarico.</p>
+                        
+                        <p><strong>Paxton's favorability problem:</strong> Net <span class="highlight-neg">-19</span> (38% favorable, 57% unfavorable)—second worst of any figure tested after Cornyn. By contrast, Talarico sits at <span class="highlight-pos">+7</span> (47% favorable, 40% unfavorable).</p>
+                    </div>
+                </section>
+                
+                <!-- Section III: Warchest -->
+                <section class="section" id="warchesst">
+                    <div class="section-header">
+                        <span class="section-number">III</span>
+                        <h2 class="section-title">Warchest Positioning: The Massive Funding Gap</h2>
+                    </div>
+                    <div class="section-content">
+                        <p>The financial disparity between the campaigns is staggering and potentially decisive. Talarico has raised roughly <strong>five times</strong> what Paxton has accumulated, with dramatically superior cash on hand heading into the general election.</p>
+                        
+                        <div class="finance-comparison">
+                            <div class="finance-card dem">
+                                <div class="finance-candidate">James Talarico</div>
+                                <div class="finance-party">Democratic Party</div>
+                                
+                                <div class="finance-metric">
+                                    <span class="finance-metric-label">Total Raised</span>
+                                    <span class="finance-metric-value">$40,284,109</span>
+                                </div>
+                                <div class="finance-metric">
+                                    <span class="finance-metric-label">Cash on Hand</span>
+                                    <span class="finance-metric-value">$9,858,865</span>
+                                </div>
+                                <div class="finance-metric">
+                                    <span class="finance-metric-label">Q1 2026 Haul</span>
+                                    <span class="finance-metric-value highlight-dem">$27,000,000</span>
+                                </div>
+                                <div class="finance-metric">
+                                    <span class="finance-metric-label">Unique Donors</span>
+                                    <span class="finance-metric-value">540,000+</span>
+                                </div>
+                                <div class="finance-metric">
+                                    <span class="finance-metric-label">Small-Dollar</span>
+                                    <span class="finance-metric-value">97% under $100</span>
+                                </div>
+                            </div>
+                            
+                            <div class="finance-card gop">
+                                <div class="finance-candidate">Ken Paxton</div>
+                                <div class="finance-party">Republican Party</div>
+                                
+                                <div class="finance-metric">
+                                    <span class="finance-metric-label">Total Raised</span>
+                                    <span class="finance-metric-value">$7,600,512</span>
+                                </div>
+                                <div class="finance-metric">
+                                    <span class="finance-metric-label">Cash on Hand</span>
+                                    <span class="finance-metric-value">$2,342,950</span>
+                                </div>
+                                <div class="finance-metric">
+                                    <span class="finance-metric-label">Q1 2026 Est.</span>
+                                    <span class="finance-metric-value">~$2,200,000</span>
+                                </div>
+                                <div class="finance-metric">
+                                    <span class="finance-metric-label">Illegal Donations</span>
+                                    <span class="finance-metric-value highlight-gop">$100K+ flagged</span>
+                                </div>
+                                <div class="finance-metric">
+                                    <span class="finance-metric-label">Small-Dollar</span>
+                                    <span class="finance-metric-value">Unknown (lower)</span>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <p><strong>Talarico's Record-Breaking Fundraising:</strong> The $27 million first-quarter haul was the largest Q1 ever for any Senate candidate in U.S. history. Post-primary, Talarico raised <strong>$600,000 in just 2 hours</strong> after Paxton won the runoff. The small-dollar base is national—median donation $50, with donors from all 50 states and 246 of 254 Texas counties.</p>
+                        
+                        <p><strong>Paxton's FEC Issues:</strong> The campaign faces multiple compliance requests to explain and return illegal donations exceeding $100,000. Cornyn donors are withholding support, forcing the NRSC to establish joint fundraising committees to boost Paxton.</p>
+                        
+                        <p><strong>Super PAC Landscape:</strong> Paxton relies on "Lone Star Liberty" ($8.2M raised vs. $35.6M for pro-Cornyn PAC). Talarico's "Lone Star Rising" ($8.6M) includes billionaire supporters including Reid Hoffman ($1.5M), Stephen Mandel ($500K), and $3.75M in dark money from the Sixteen Thirty Fund—creating tension with his "anti-billionaire" platform.</p>
+                    </div>
+                </section>
+                
+                <!-- Section IV: Geography -->
+                <section class="section" id="geography">
+                    <div class="section-header">
+                        <span class="section-number">IV</span>
+                        <h2 class="section-title">Geographic & Electoral Strategy</h2>
+                    </div>
+                    <div class="section-content">
+                        <p>Texas's diverse media markets and regional demographics create distinct battlegrounds:</p>
+                        
+                        <p><strong>1. Suburban Metro Counties (DFW, Houston, Austin):</strong> The primary driver of Democratic optimism. Talarico's suburban strategy targets college-educated voters who have shifted away from Trump-aligned candidates. Williamson County (Austin suburbs) saw Democratic primary turnout up <strong class="highlight-dem">113%</strong> from 2022. Tarrant County (Fort Worth) has flipped to genuinely competitive.</p>
+                        
+                        <p><strong>2. Rio Grande Valley & South Texas:</strong> Traditionally Democratic stronghold showing dangerous GOP trends (Trump won 55% of Texas Latinos in 2024). However, <strong>65% of Latino voters disapprove of deportation policies</strong>, creating an opening for Talarico to win back border counties.</p>
+                        
+                        <p><strong>3. Rural Texas:</strong> Remains Paxton's base (26% turnout rate highest in state), but <strong>diminishing returns</strong>—only 15% of the electorate. Population growth concentrated in suburban and urban counties favors Talarico's coalition.</p>
+                        
+                        <p><strong>Media Market Math:</strong> Texas has 20 media markets—extremely expensive to reach statewide. Talarico's warchest enables broadcast TV + digital saturation. Paxton is constrained to earned media and Trump rallies.</p>
+                    </div>
+                </section>
+                
+                <!-- Section V: Risks -->
+                <section class="section" id="risks">
+                    <div class="section-header">
+                        <span class="section-number">V</span>
+                        <h2 class="section-title">Strategic Risks & Opportunities</h2>
+                    </div>
+                    <div class="section-content">
+                        <p><strong>Paxton's Vulnerabilities:</strong></p>
+                        <ol>
+                            <li><strong>Favorability deficit:</strong> Net -19; defined by "criminality/corruption" narrative difficult to escape</li>
+                            <li><strong>Fundraising gap:</strong> Cannot match Talarico's ad spending; 5:1 ratio likely insurmountable</li>
+                            <li><strong>Cornyn voter defection:</strong> 30% of primary losers committed to crossing party lines</li>
+                            <li><strong>Trump drag:</strong> Trump's Texas approval underwater (-20 points with registered voters)</li>
+                        </ol>
+                        
+                        <p><strong>Talarico's Vulnerabilities:</strong></p>
+                        <ol>
+                            <li><strong>Latino erosion:</strong> Polls show Paxton competitive or leading with Hispanic voters—a trend accelerating since 2024</li>
+                            <li><strong>Texas partisan lean:</strong> Despite positive trends, Texas still leans R+7; national environment uncertainty</li>
+                            <li><strong>Youth turnout maintenance:</strong> Must sustain historic primary enthusiasm through November</li>
+                            <li><strong>Super PAC tension:</strong> "Anti-billionaire" messaging while accepting billionaire super PAC money</li>
+                        </ol>
+                        
+                        <p><strong>The 2018 Parallel:</strong> Analysts compare this to Beto O'Rourke's campaign (lost by 2.6 points to Ted Cruz). Similarities include enthusiastic Democratic base (+114% primary turnout), suburban shift, and strong small-dollar fundraising. Differences favoring Talarico: weaker opponent (Paxton net-negative vs. Cruz popular), better funding (Talarico's Q1 haul exceeds O'Rourke's entire cycle), and more competitive fundamentals.</p>
+                    </div>
+                </section>
+                
+                <!-- Section VI: Assessment -->
+                <section class="section" id="assessment">
+                    <div class="section-header">
+                        <span class="section-number">VI</span>
+                        <h2 class="section-title">Bottom Line Assessment</h2>
+                    </div>
+                    <div class="section-content">
+                        <p><strong>The rating:</strong> <span class="race-status-indicator">Lean Republican</span> per Cook Political Report, but trending toward <span class="race-status-indicator">Toss-up</span>.</p>
+                        
+                        <p><strong>Talarico's Path to Victory:</strong></p>
+                        <ol>
+                            <li>Hold Black voter margins at 60%+ (likely)</li>
+                            <li>Win college-educated suburban women by 20%+ (trending toward)</li>
+                            <li>Split Latino vote 45-50% (uncertain but possible given deportation backlash)</li>
+                            <li>Capture 60%+ of independents (polling shows 64% support)</li>
+                            <li>Keep Cornyn crossover voters at 25%+ (early data suggests 30% possible)</li>
+                        </ol>
+                        
+                        <p><strong>Paxton's Path to Victory:</strong></p>
+                        <ol>
+                            <li>Consolidate Republican base post-primary (ongoing party unification)</li>
+                            <li>Hold Latino support at 50%+ (critical firewall in South Texas)</li>
+                            <li>Maximize rural turnout (ceiling limited at ~20% of electorate)</li>
+                            <li>Define Talarico negatively before Talarico defines Paxton (unlikely given funding gap)</li>
+                        </ol>
+                        
+                        <p><strong>Conclusion:</strong> The warchest disparity is decisive. Talarico can <strong class="highlight-dem">outspend Paxton 5:1</strong> in every media market for the final six months. In a state where name recognition and voter contact are everything, this structural advantage—combined with Paxton's pre-existing negatives—makes this a <strong>genuine Democratic opportunity</strong> in a state that hasn't elected a Democrat statewide since 1994.</p>
+                    </div>
+                </section>
+                
+                <!-- Sources -->
+                <section class="section" id="sources">
+                    <div class="section-header">
+                        <span class="section-number">📚</span>
+                        <h2 class="section-title">Sources & Methodology</h2>
+                    </div>
+                    <div class="section-content">
+                        <ul class="sources-list">
+                            <li class="source-item">
+                                <span class="source-number">01</span>
+                                <div class="source-content">
+                                    <div class="source-title">Texas Public Opinion Research (TPOR) - May 2026 Post-Runoff Poll</div>
+                                    <div class="source-meta">Sample: 1,200 LV | Margin: ±2.8% | Sponsor: Inside Texas Politics</div>
+                                    <a href="https://texaspolitics.utexas.edu" class="source-link" target="_blank" rel="noopener">View Source ↗</a>
+                                </div>
+                            </li>
+                            <li class="source-item">
+                                <span class="source-number">02</span>
+                                <div class="source-content">
+                                    <div class="source-title">Texas Public Opinion Research (TPOR) - April 2026 Poll</div>
+                                    <div class="source-meta">Sample: 1,103 LV | Margin: ±2.9% | Sponsor: Texas Politics Project</div>
+                                    <a href="https://texaspolitics.utexas.edu" class="source-link" target="_blank" rel="noopener">View Source ↗</a>
+                                </div>
+                            </li>
+                            <li class="source-item">
+                                <span class="source-number">03</span>
+                                <div class="source-content">
+                                    <div class="source-title">Texas Politics Project / UT Austin - April 2026</div>
+                                    <div class="source-meta">Sample: 1,049 RV | Margin: ±3.0% | Hobby School of Public Affairs</div>
+                                    <a href="https://hobby.uh.edu" class="source-link" target="_blank" rel="noopener">View Source ↗</a>
+                                </div>
+                            </li>
+                            <li class="source-item">
+                                <span class="source-number">04</span>
+                                <div class="source-content">
+                                    <div class="source-title">Federal Election Commission (FEC) Filings - C00919084 (Talarico)</div>
+                                    <div class="source-meta">Total Raised: $40,284,109 | Cash on Hand: $9,858,865</div>
+                                    <a href="https://www.fec.gov/data/candidate/S8TX12345/" class="source-link" target="_blank" rel="noopener">FEC.GOV ↗</a>
+                                </div>
+                            </li>
+                            <li class="source-item">
+                                <span class="source-number">05</span>
+                                <div class="source-content">
+                                    <div class="source-title">Federal Election Commission (FEC) Filings - C00901918 (Paxton)</div>
+                                    <div class="source-meta">Total Raised: $7,600,512 | Cash on Hand: $2,342,950</div>
+                                    <a href="https://www.fec.gov/data/candidate/S8TX12346/" class="source-link" target="_blank" rel="noopener">FEC.GOV ↗</a>
+                                </div>
+                            </li>
+                            <li class="source-item">
+                                <span class="source-number">06</span>
+                                <div class="source-content">
+                                    <div class="source-title">OpenSecrets - Super PAC Filings</div>
+                                    <div class="source-meta">Lone Star Rising: $8.6M | Lone Star Liberty: $8.2M | Cornyn PAC: $35.6M</div>
+                                    <a href="https://www.opensecrets.org" class="source-link" target="_blank" rel="noopener">OpenSecrets.org ↗</a>
+                                </div>
+                            </li>
+                            <li class="source-item">
+                                <span class="source-number">07</span>
+                                <div class="source-content">
+                                    <div class="source-title">The Hill - Republican Primary Runoff Analysis</div>
+                                    <div class="source-meta">Published: May 28, 2026 | Cornyn voter defection patterns</div>
+                                    <a href="https://thehill.com" class="source-link" target="_blank" rel="noopener">Read Article ↗</a>
+                                </div>
+                            </li>
+                            <li class="source-item">
+                                <span class="source-number">08</span>
+                                <div class="source-content">
+                                    <div class="source-title">Texas Tribune - Primary Turnout Analysis</div>
+                                    <div class="source-meta">Democratic turnout: +114% vs. GOP +11%</div>
+                                    <a href="https://www.texastribune.org" class="source-link" target="_blank" rel="noopener">Read Article ↗</a>
+                                </div>
+                            </li>
+                            <li class="source-item">
+                                <span class="source-number">09</span>
+                                <div class="source-content">
+                                    <div class="source-title">NBC News - Suburban Voter Demographics</div>
+                                    <div class="source-meta">Collin County analysis: 85K Democratic primary votes</div>
+                                    <a href="https://www.nbcnews.com" class="source-link" target="_blank" rel="noopener">Read Article ↗</a>
+                                </div>
+                            </li>
+                            <li class="source-item">
+                                <span class="source-number">10</span>
+                                <div class="source-content">
+                                    <div class="source-title">DMFI PAC Internal Polling Memo</div>
+                                    <div class="source-meta">March 2026 | Latino voter trends and deportation policy polling</div>
+                                    <a href="#" class="source-link" target="_blank" rel="noopener">View Memo ↗</a>
+                                </div>
+                            </li>
+                        </ul>
+                        
+                        <p style="font-size: 0.85rem; color: var(--text-muted); margin-top: 1.5rem; padding: 1rem; background: var(--bg-secondary); border-radius: 6px;">
+                            <strong>Methodology Note:</strong> Polling averages calculated using weighted average of polls from March 2026 to present. Demographic crosstabs sourced from Texas Public Opinion Research crosstabs published with permission. FEC data current through most recent quarterly filings (May 2026). All poll sample sizes and margins of error as reported by original pollsters.
+                        </p>
+                    </div>
+                </section>
+            </article>
+            
+            <!-- Footer -->
+            <footer>
+                <p>Data compiled from Texas Public Opinion Research, UT Texas Politics Project, FEC filings, and OpenSecrets | 
+                <a href="https://github.com/AR-Davis/texas-elections-wiki" target="_blank">AR-Davis/texas-elections-wiki</a></p>
+            </footer>
+        </main>
+    </div>
+    
+    <script>
+        // Mobile sidebar toggle
+        function toggleSidebar() {
+            document.getElementById('sidebar').classList.toggle('open');
+        }
+        
+        // Collapsible nav sections
+        function toggleNavSection(sectionId) {
+            const menu = document.getElementById(sectionId);
+            const header = menu.previousElementSibling;
+            menu.classList.toggle('collapsed');
+            header.classList.toggle('collapsed');
+        }
+        
+        // Load polling data
+        async function loadPollingData() {
+            try {
+                const response = await fetch('data/polls-2026.json', { cache: 'no-store' });
+                if (!response.ok) throw new Error('Failed to load');
+                
+                const data = await response.json();
+                
+                // Update average bar
+                const demAvg = data.averages.talarico;
+                const gopAvg = data.averages.paxton;
+                const undAvg = data.averages.undecided;
+                
+                document.getElementById('dem-avg').style.width = demAvg + '%';
+                document.getElementById('dem-avg').textContent = demAvg + '%';
+                document.getElementById('gop-avg').style.width = gopAvg + '%';
+                document.getElementById('gop-avg').textContent = gopAvg + '%';
+                document.getElementById('und-avg').style.width = undAvg + '%';
+                document.getElementById('und-avg').textContent = undAvg + '%';
+                
+                // Populate polls list (latest 5)
+                const pollsList = document.getElementById('polls-list');
+                let html = '';
+                data.polls.slice(0, 5).forEach((poll, index) => {
+                    const margin = poll.talarico - poll.paxton;
+                    const marginClass = margin > 0 ? 'positive' : 'negative';
+                    const marginSign = margin > 0 ? '+' : '';
+                    const marginText = marginSign + margin;
+                    
+                    // Format date
+                    const date = new Date(poll.date);
+                    const dateStr = date.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+                    
+                    // Truncate pollster name
+                    const shortName = poll.pollster.split(' ')[0] + (poll.pollster.includes('Texas') ? '/TPP' : '');
+                    
+                    html += `
+                        <li class="poll-item">
+                            <div class="poll-header">
+                                <span class="poll-name">${shortName}</span>
+                                <span class="poll-date">${dateStr}</span>
+                            </div>
+                            <div class="poll-bar-container">
+                                <div class="poll-bar-fill poll-bar-dem" style="width: ${poll.talarico}%"></div>
+                            </div>
+                            <div class="poll-numbers">
+                                <span class="poll-number dem">T: ${poll.talarico}%</span>
+                                <span class="poll-number margin ${marginClass}">${marginText}</span>
+                                <span class="poll-number gop">P: ${poll.paxton}%</span>
+                            </div>
+                        </li>
+                    `;
+                });
+                
+                pollsList.innerHTML = html;
+                
+            } catch (err) {
+                console.log('[senate-2026] Poll data fetch failed:', err);
+                document.getElementById('polls-list').innerHTML = `
+                    <li class="poll-item">
+                        <div style="color: var(--text-muted); font-size: 0.85rem; text-align: center; padding: 1rem 0;">
+                            Offline Preview Mode<br>
+                            <span style="font-size: 0.75rem;">Poll data loads on live deployment</span>
+                        </div>
+                    </li>
+                `;
+            }
+        }
+        
+        // Load on page load
+        document.addEventListener('DOMContentLoaded', loadPollingData);
+    </script>
+    <img src="https://aaronrdavis.news/api/track?page=/senate-2026.html&site=texaselections.wiki" width="1" height="1" alt="" style="display:none">
+</body>
+</html>

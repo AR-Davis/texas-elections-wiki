@@ -1,0 +1,133 @@
+{
+  "race": "2026 Texas U.S. Senate Election",
+  "candidates": {
+    "democrat": {
+      "name": "James Talarico",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    "republican": {
+      "name": "Ken Paxton",
+      "party": "Republican",
+      "incumbent": false
+    }
+  },
+  "lastUpdated": "2026-06-05",
+  "polls": [
+    {
+      "pollster": "Texas Public Opinion Research (TPOR)",
+      "sponsor": "Inside Texas Politics",
+      "date": "2026-05-27",
+      "sampleSize": 1200,
+      "marginError": "±2.8%",
+      "talarico": 47,
+      "paxton": 44,
+      "undecided": 9,
+      "method": "LV"
+    },
+    {
+      "pollster": "Texas Public Opinion Research (TPOR)",
+      "sponsor": "Texas Politics Project",
+      "date": "2026-04-17",
+      "sampleSize": 1103,
+      "marginError": "±2.9%",
+      "talarico": 46,
+      "paxton": 41,
+      "undecided": 13,
+      "method": "LV"
+    },
+    {
+      "pollster": "Texas Politics Project / UT Austin",
+      "sponsor": "Hobby School",
+      "date": "2026-04-11",
+      "sampleSize": 1049,
+      "marginError": "±3.0%",
+      "talarico": 42,
+      "paxton": 34,
+      "undecided": 24,
+      "method": "RV"
+    },
+    {
+      "pollster": "DMFI PAC",
+      "sponsor": "Pro-Talarico PAC",
+      "date": "2026-03-28",
+      "sampleSize": 800,
+      "marginError": "±3.5%",
+      "talarico": 45,
+      "paxton": 38,
+      "undecided": 17,
+      "method": "LV"
+    },
+    {
+      "pollster": "UT/Texas Politics Project",
+      "sponsor": "Academic",
+      "date": "2026-02-14",
+      "sampleSize": 1200,
+      "marginError": "±2.8%",
+      "talarico": 41,
+      "paxton": 36,
+      "undecided": 23,
+      "method": "RV"
+    },
+    {
+      "pollster": "Data for Progress",
+      "sponsor": "Third-party",
+      "date": "2026-01-26",
+      "sampleSize": 1045,
+      "marginError": "±3.1%",
+      "talarico": 43,
+      "paxton": 40,
+      "undecided": 17,
+      "method": "LV"
+    },
+    {
+      "pollster": "Texas Public Opinion Research (TPOR)",
+      "sponsor": "Media",
+      "date": "2025-12-08",
+      "sampleSize": 1000,
+      "marginError": "±3.1%",
+      "talarico": 40,
+      "paxton": 42,
+      "undecided": 18,
+      "method": "LV"
+    },
+    {
+      "pollster": "CBS/YouGov",
+      "sponsor": "Media",
+      "date": "2025-11-14",
+      "sampleSize": 1302,
+      "marginError": "±2.7%",
+      "talarico": 38,
+      "paxton": 41,
+      "undecided": 21,
+      "method": "LV"
+    },
+    {
+      "pollster": "Texas Politics Project",
+      "sponsor": "Academic",
+      "date": "2025-10-03",
+      "sampleSize": 987,
+      "marginError": "±3.1%",
+      "talarico": 39,
+      "paxton": 43,
+      "undecided": 18,
+      "method": "RV"
+    },
+    {
+      "pollster": "Emerson College",
+      "sponsor": "Media",
+      "date": "2025-09-18",
+      "sampleSize": 1100,
+      "marginError": "±2.9%",
+      "talarico": 37,
+      "paxton": 44,
+      "undecided": 19,
+      "method": "LV"
+    }
+  ],
+  "averages": {
+    "talarico": 42.2,
+    "paxton": 40.3,
+    "undecided": 17.5
+  }
+}
