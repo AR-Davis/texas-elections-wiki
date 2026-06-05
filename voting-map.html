@@ -1,0 +1,700 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travis County Early Voting Map | Texas Elections Wiki</title>
+    <meta name="description" content="Interactive map of Travis County early voting locations for Texas elections">
+    <link rel="canonical" href="https://texaselections.wiki/voting-map.html">
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+    
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    
+    <style>
+        :root {
+            --bg-primary: #0d1117;
+            --bg-secondary: #161b22;
+            --bg-tertiary: #21262d;
+            --text-primary: #e6edf3;
+            --text-secondary: #8b949e;
+            --text-muted: #6e7681;
+            --accent: #58a6ff;
+            --border: #30363d;
+            --success: #3fb950;
+            --warning: #d29922;
+            --extended: #d29922;
+            --regular: #58a6ff;
+        }
+        
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        
+        body {
+            font-family: 'Inter', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+        
+        .app-container { display: flex; min-height: 100vh; }
+        
+        /* Sidebar */
+        .sidebar {
+            width: 340px;
+            background: var(--bg-secondary);
+            border-right: 1px solid var(--border);
+            display: flex;
+            flex-direction: column;
+            position: fixed;
+            height: 100vh;
+            overflow-y: auto;
+        }
+        
+        .sidebar-header {
+            padding: 1.5rem;
+            border-bottom: 1px solid var(--border);
+        }
+        
+        .site-title {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 1rem;
+            font-weight: 600;
+        }
+        .site-title span { color: var(--accent); }
+        
+        .site-subtitle {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            margin-top: 0.25rem;
+        }
+        
+        .polling-widget {
+            padding: 1.25rem;
+            border-bottom: 1px solid var(--border);
+        }
+        
+        .polling-widget-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 1rem;
+        }
+        
+        .polling-widget-title {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.8rem;
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+        
+        .polling-widget-badge {
+            font-size: 0.65rem;
+            background: var(--bg-tertiary);
+            color: var(--accent);
+            padding: 0.2rem 0.5rem;
+            border-radius: 4px;
+            font-family: 'JetBrains Mono', monospace;
+        }
+        
+        .poll-average-box {
+            background: linear-gradient(145deg, var(--bg-tertiary), var(--bg-secondary));
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 1rem;
+            margin-bottom: 1rem;
+        }
+        
+        .poll-average-header {
+            display: flex;
+            justify-content: center;
+            gap: 0.5rem;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.7rem;
+            color: var(--text-muted);
+            margin-bottom: 0.75rem;
+            text-transform: uppercase;
+        }
+        
+        .poll-average-bar {
+            display: flex;
+            height: 28px;
+            border-radius: 6px;
+            overflow: hidden;
+            margin-bottom: 0.5rem;
+        }
+        
+        .poll-average-segment {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: 'JetBrains Mono', monospace;
+            font-weight: 700;
+            font-size: 0.8rem;
+            color: white;
+        }
+        
+        .dem-segment { background: linear-gradient(180deg, #6366f1, #4f46e5); border-right: 1px solid rgba(255,255,255,0.1); }
+        .gop-segment { background: linear-gradient(180deg, #ef4444, #dc2626); border-left: 1px solid rgba(255,255,255,0.1); }
+        .undecided-segment { background: linear-gradient(180deg, var(--bg-tertiary), #2d333b); }
+        
+        .poll-average-labels {
+            display: flex;
+            justify-content: space-between;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.7rem;
+        }
+        
+        .poll-label { display: flex; align-items: center; gap: 0.4rem; }
+        .poll-label-dot { width: 8px; height: 8px; border-radius: 50%; }
+        .poll-label-dot.dem { background: #6366f1; }
+        .poll-label-dot.gop { background: #ef4444; }
+        .poll-label-dot.und { background: var(--text-muted); }
+        
+        .polls-list { list-style: none; }
+        
+        .poll-item {
+            padding: 0.75rem 0;
+            border-bottom: 1px solid var(--border);
+        }
+        
+        .poll-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 0.5rem;
+        }
+        
+        .poll-name { font-size: 0.8rem; color: var(--text-secondary); }
+        .poll-date { font-family: 'JetBrains Mono', monospace; font-size: 0.65rem; color: var(--text-muted); }
+        
+        .poll-bar-container {
+            height: 8px;
+            background: var(--bg-tertiary);
+            border-radius: 4px;
+            overflow: hidden;
+            margin-bottom: 0.4rem;
+        }
+        
+        .poll-bar-fill { height: 100%; border-radius: 4px; }
+        .poll-bar-dem { background: linear-gradient(90deg, #6366f1, #4f46e5); }
+        .poll-bar-gop { background: linear-gradient(90deg, #ef4444, #dc2626); }
+        
+        .poll-numbers {
+            display: flex;
+            justify-content: space-between;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.75rem;
+        }
+        
+        .poll-number.dem { color: #6366f1; }
+        .poll-number.gop { color: #ef4444; }
+        .poll-number.margin { color: var(--text-muted); }
+        .poll-number.margin.positive { color: #6366f1; }
+        .poll-number.margin.negative { color: #ef4444; }
+        
+        .view-all-polls {
+            display: block;
+            text-align: center;
+            margin-top: 0.75rem;
+            padding: 0.5rem;
+            background: var(--bg-tertiary);
+            border-radius: 4px;
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.75rem;
+            transition: all 0.15s;
+        }
+        
+        .view-all-polls:hover {
+            background: var(--border);
+            color: var(--accent);
+        }
+        
+        .nav-section-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0.5rem 1.5rem;
+            cursor: pointer;
+            user-select: none;
+        }
+        
+        .nav-section-header:hover { background: var(--bg-tertiary); }
+        
+        .nav-label {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.7rem;
+            color: var(--text-muted);
+            text-transform: uppercase;
+        }
+        
+        .nav-toggle { font-size: 0.7rem; color: var(--text-muted); transition: transform 0.2s; }
+        .nav-section-header.collapsed .nav-toggle { transform: rotate(-90deg); }
+        
+        .nav-menu { list-style: none; }
+        .nav-menu.collapsed { display: none; }
+        
+        .nav-menu a {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            padding: 0.5rem 1.5rem;
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            border-left: 2px solid transparent;
+            transition: all 0.15s;
+        }
+        
+        .nav-menu a:hover, .nav-menu a.active {
+            color: var(--text-primary);
+            background: var(--bg-tertiary);
+            border-left-color: var(--accent);
+        }
+        
+        .nav-icon { width: 16px; text-align: center; color: var(--text-muted); }
+        .nav-menu a:hover .nav-icon, .nav-menu a.active .nav-icon { color: var(--accent); }
+        
+        /* Main Content */
+        .main-content {
+            flex: 1;
+            margin-left: 340px;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .top-bar {
+            background: var(--bg-secondary);
+            border-bottom: 1px solid var(--border);
+            padding: 0.75rem 1.5rem;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        
+        .breadcrumb {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.8rem;
+            color: var(--text-muted);
+        }
+        
+        .breadcrumb a { color: var(--text-muted); text-decoration: none; }
+        .breadcrumb a:hover { color: var(--accent); }
+        
+        .breadcrumb span { color: var(--text-secondary); }
+        
+        .content-area {
+            flex: 1;
+            padding: 1.5rem;
+            overflow-y: auto;
+        }
+        
+        .page-header {
+            margin-bottom: 1.5rem;
+        }
+        
+        .page-header h1 {
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: var(--text-primary);
+            margin-bottom: 0.5rem;
+        }
+        
+        .page-header p { color: var(--text-secondary); font-size: 0.9rem; }
+        
+        .legend {
+            display: flex;
+            gap: 2rem;
+            flex-wrap: wrap;
+            margin-bottom: 1rem;
+        }
+        
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+        }
+        
+        .legend-marker {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            border: 2px solid;
+        }
+        
+        .legend-marker.extended {
+            background: var(--extended);
+            border-color: var(--extended);
+            box-shadow: 0 0 8px rgba(210, 153, 34, 0.5);
+        }
+        
+        .legend-marker.regular {
+            background: var(--regular);
+            border-color: var(--regular);
+            box-shadow: 0 0 8px rgba(88, 166, 255, 0.5);
+        }
+        
+        #map {
+            height: 60vh;
+            min-height: 400px;
+            background: var(--bg-tertiary);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+        }
+        
+        /* Leaflet overrides */
+        .leaflet-popup-content-wrapper {
+            background: var(--bg-secondary);
+            color: var(--text-primary);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+        }
+        
+        .leaflet-popup-tip {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+        }
+        
+        .location-popup h3 {
+            font-size: 1rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+        }
+        
+        .location-popup .address {
+            color: var(--text-secondary);
+            font-size: 0.85rem;
+            margin-bottom: 0.25rem;
+            font-family: 'JetBrains Mono', monospace;
+        }
+        
+        .location-popup .room {
+            color: var(--text-muted);
+            font-size: 0.8rem;
+            margin-bottom: 0.75rem;
+        }
+        
+        .location-popup .hours {
+            background: var(--bg-tertiary);
+            border: 1px solid var(--border);
+            border-radius: 4px;
+            padding: 0.5rem;
+            font-size: 0.8rem;
+            margin-bottom: 0.75rem;
+            font-family: 'JetBrains Mono', monospace;
+        }
+        
+        .location-popup .extended-badge {
+            background: rgba(210, 153, 34, 0.2);
+            border: 1px solid var(--extended);
+            color: var(--extended);
+            font-size: 0.75rem;
+            padding: 0.25rem 0.5rem;
+            border-radius: 3px;
+            display: inline-block;
+            margin-bottom: 0.75rem;
+            font-family: 'JetBrains Mono', monospace;
+        }
+        
+        footer {
+            background: var(--bg-secondary);
+            border-top: 1px solid var(--border);
+            padding: 1rem 1.5rem;
+            text-align: center;
+        }
+        
+        footer p {
+            color: var(--text-muted);
+            font-size: 0.8rem;
+            font-family: 'JetBrains Mono', monospace;
+        }
+        
+        footer a { color: var(--accent); text-decoration: none; }
+        footer a:hover { text-decoration: underline; }
+        
+        /* Mobile */
+        @media (max-width: 1024px) {
+            .sidebar {
+                transform: translateX(-100%);
+                transition: transform 0.2s ease;
+                z-index: 1000;
+            }
+            .sidebar.open { transform: translateX(0); }
+            .main-content { margin-left: 0; }
+            .mobile-menu-toggle { display: flex !important; }
+        }
+        
+        .mobile-menu-toggle {
+            display: none;
+            background: none;
+            border: none;
+            color: var(--text-primary);
+            font-size: 1.25rem;
+            cursor: pointer;
+            width: 40px;
+            height: 40px;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        @media (min-width: 1025px) {
+            .mobile-menu-toggle { display: none !important; }
+        }
+    </style>
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-header">
+                <div class="site-title">Texas<span>Elections</span>.Wiki</div>
+                <div class="site-subtitle">race analysis & data</div>
+            </div>
+            
+            <!-- Polling Widget -->
+            <div class="polling-widget">
+                <div class="polling-widget-header">
+                    <span class="polling-widget-title">Senate Poll Average</span>
+                    <span class="polling-widget-badge">10 polls</span>
+                </div>
+                
+                <div class="poll-average-box">
+                    <div class="poll-average-header">Talarico +2</div>
+                    <div class="poll-average-bar">
+                        <div class="poll-average-segment dem-segment" style="width: 42%">42%</div>
+                        <div class="poll-average-segment undecided-segment" style="width: 18%"></div>
+                        <div class="poll-average-segment gop-segment" style="width: 40%">40%</div>
+                    </div>
+                    <div class="poll-average-labels">
+                        <div class="poll-label"><span class="poll-label-dot dem"></span>Talarico</div>
+                        <div class="poll-label"><span class="poll-label-dot und"></span>Und.</div>
+                        <div class="poll-label"><span class="poll-label-dot gop"></span>Paxton</div>
+                    </div>
+                </div>
+                
+                <div id="polls-sidebar">
+                    <ul class="polls-list" id="polls-list">
+                        <li class="poll-item">
+                            <div style="color: var(--text-muted); font-size: 0.85rem; text-align: center; padding: 1rem 0;">Loading...</div>
+                        </li>
+                    </ul>
+                </div>
+                
+                <a href="/" class="view-all-polls">View Full Analysis →</a>
+            </div>
+            
+            <!-- Navigation -->
+            <nav class="nav-section">
+                <ul class="nav-menu">
+                    <li><a href="/"><span class="nav-icon">📊</span>2026 Senate Race</a></li>
+                    <li><a href="voting-map.html" class="active"><span class="nav-icon">◎</span>Travis Voting Map</a></li>
+                    <li><a href="legislation.html"><span class="nav-icon">§</span>Legislation</a></li>
+                </ul>
+                
+                <div class="nav-section-header" onclick="toggleNavSection('paxton-nav')">
+                    <div>
+                        <div class="nav-label">Paxton Research</div>
+                    </div>
+                    <span class="nav-toggle">▼</span>
+                </div>
+                <ul class="nav-menu collapsed" id="paxton-nav">
+                    <li><a href="paxtonresearch.html"><span class="nav-icon">📋</span>Main Report</a></li>
+                    <li><a href="paxton/index.html"><span class="nav-icon">⊛</span>Research Hub</a></li>
+                    <li><a href="paxton/networks.html"><span class="nav-icon">🕸</span>Network Diagrams</a></li>
+                    <li><a href="paxton/timelines.html"><span class="nav-icon">⏱</span>Timelines</a></li>
+                    <li><a href="paxton/money.html"><span class="nav-icon">💰</span>Dark Money</a></li>
+                </ul>
+                
+                <div class="nav-section-header collapsed" onclick="toggleNavSection('research-nav')">
+                    <div>
+                        <div class="nav-label">Research</div>
+                    </div>
+                    <span class="nav-toggle">▼</span>
+                </div>
+                <ul class="nav-menu collapsed" id="research-nav">
+                    <li><a href="voting-systems.html"><span class="nav-icon">⊛</span>Voting Systems</a></li>
+                    <li><a href="voter-registration.html"><span class="nav-icon">✓</span>Voter Registration</a></li>
+                    <li><a href="legislators.html"><span class="nav-icon">⚖</span>Legislators</a></li>
+                </ul>
+                
+                <div class="nav-label">Resources</div>
+                <ul class="nav-menu">
+                    <li><a href="resources.html"><span class="nav-icon">⌂</span>Resources</a></li>
+                    <li><a href="about.html"><span class="nav-icon">ℹ</span>About</a></li>
+                </ul>
+            </nav>
+        </aside>
+        
+        <!-- Main Content -->
+        <main class="main-content">
+            <div class="top-bar">
+                <button class="mobile-menu-toggle" onclick="toggleSidebar()">☰</button>
+                <div class="breadcrumb">
+                    <a href="/">~/</a> <span>/</span> travis-county <span>/</span> early-voting-map
+                </div>
+            </div>
+            
+            <div class="content-area">
+                <div class="page-header">
+                    <h1>Travis County Early Voting Map</h1>
+                    <p>41 polling places. Any registered voter in Travis County can vote at any location.</p>
+                </div>
+                
+                <div class="legend">
+                    <div class="legend-item">
+                        <div class="legend-marker extended"></div>
+                        <span>Extended Hours (7am-10pm, Oct 31 & Nov 1)</span>
+                    </div>
+                    <div class="legend-item">
+                        <div class="legend-marker regular"></div>
+                        <span>Regular Hours (7am-7pm)</span>
+                    </div>
+                </div>
+                
+                <div id="map"></div>
+            </div>
+            
+            <footer>
+                <p>Data: <a href="https://votetravis.gov" target="_blank">votetravis.gov</a> | <a href="https://github.com/AR-Davis/texas-elections-wiki">GitHub</a></p>
+            </footer>
+        </main>
+    </div>
+    
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="data/locations.js"></script>
+    
+    <script>
+        function toggleSidebar() {
+            document.getElementById('sidebar').classList.toggle('open');
+        }
+        
+        function toggleNavSection(sectionId) {
+            const menu = document.getElementById(sectionId);
+            const header = menu.previousElementSibling;
+            menu.classList.toggle('collapsed');
+            header.classList.toggle('collapsed');
+        }
+        
+        async function loadPollingData() {
+            try {
+                const response = await fetch('data/polls-2026.json', { cache: 'no-store' });
+                if (!response.ok) throw new Error('Failed to load');
+                const data = await response.json();
+                
+                const pollsList = document.getElementById('polls-list');
+                let html = '';
+                data.polls.slice(0, 3).forEach(poll => {
+                    const margin = poll.talarico - poll.paxton;
+                    const marginClass = margin > 0 ? 'positive' : 'negative';
+                    const date = new Date(poll.date);
+                    const dateStr = date.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+                    const shortName = poll.pollster.split(' ')[0];
+                    
+                    html += `
+                        <li class="poll-item">
+                            <div class="poll-header">
+                                <span class="poll-name">${shortName} ${dateStr}</span>
+                                <span class="poll-number ${marginClass}">${margin > 0 ? '+' : ''}${margin}</span>
+                            </div>
+                            <div class="poll-bar-container">
+                                <div class="poll-bar-fill poll-bar-dem" style="width: ${poll.talarico}%"></div>
+                            </div>
+                            <div class="poll-numbers">
+                                <span class="poll-number dem">T: ${poll.talarico}%</span>
+                                <span class="poll-number">P: ${poll.paxton}%</span>
+                            </div>
+                        </li>
+                    `;
+                });
+                pollsList.innerHTML = html;
+            } catch (err) {
+                console.log('[sidebar] Poll data unavailable');
+            }
+        }
+        
+        // Map initialization
+        const map = L.map('map').setView([30.28, -97.75], 10);
+        
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+            attribution: '&copy; OSM &copy; CARTO',
+            subdomains: 'abcd',
+            maxZoom: 19
+        }).addTo(map);
+        
+        const extendedIcon = L.divIcon({
+            className: 'custom-marker',
+            html: '<div style="width:14px;height:14px;background:#d29922;border:2px solid #f0ad4c;border-radius:50%;box-shadow:0 0 10px rgba(210,153,34,0.6);"></div>',
+            iconSize: [14, 14],
+            iconAnchor: [7, 7]
+        });
+        
+        const regularIcon = L.divIcon({
+            className: 'custom-marker',
+            html: '<div style="width:12px;height:12px;background:#58a6ff;border:2px solid #79b8ff;border-radius:50%;box-shadow:0 0 8px rgba(88,166,255,0.5);"></div>',
+            iconSize: [12, 12],
+            iconAnchor: [6, 6]
+        });
+        
+        let markers = [];
+        
+        locations.forEach(loc => {
+            if (!loc.lat || !loc.lng) return;
+            
+            const isExtended = loc.has_extended_hours === true || loc.has_extended_hours === 'TRUE' || loc.has_extended_hours === 'true';
+            const icon = isExtended ? extendedIcon : regularIcon;
+            
+            let popupHTML = `
+                <div class="location-popup">
+                    <h3>${loc.name}</h3>
+                    <div class="address">${loc.address}</div>
+                    ${loc.room ? `<div class="room">${loc.room}</div>` : ''}
+            `;
+            
+            if (isExtended) {
+                popupHTML += `
+                    <div class="extended-badge">★ EXTENDED HOURS</div>
+                    <div class="hours">
+                        Regular: 7am-7pm (Mon-Sat)<br>
+                        Extended: 7am-10pm (Oct 31, Nov 1)<br>
+                        Sunday: 12pm-6pm (Oct 27)
+                    </div>
+                `;
+            } else {
+                popupHTML += `
+                    <div class="hours"><strong>Hours:</strong> Mon-Sat 7am-7pm</div>
+                `;
+            }
+            
+            if (loc.accessibility_notes) {
+                popupHTML += `<div style="margin-top:0.5rem;font-size:0.8rem;color:var(--text-muted);"><strong>Access:</strong> ${loc.accessibility_notes}</div>`;
+            }
+            
+            popupHTML += '</div>';
+            
+            const marker = L.marker([loc.lat, loc.lng], { icon }).addTo(map).bindPopup(popupHTML);
+            markers.push(marker);
+        });
+        
+        if (markers.length > 0) {
+            const group = new L.featureGroup(markers);
+            map.fitBounds(group.getBounds().pad(0.1));
+        }
+        
+        document.addEventListener('DOMContentLoaded', loadPollingData);
+    </script>
+    <img src="https://aaronrdavis.news/api/track?page=/voting-map.html&site=texaselections.wiki" width="1" height="1" alt="" style="display:none">
+</body>
+</html>
