@@ -1,0 +1,41 @@
+{
+  "fetchedAt": "2026-06-05T12:00:00.000Z",
+  "count": 5,
+  "items": [
+    {
+      "title": "Texas Legislature concludes special session on school funding",
+      "link": "https://apnews.com/article/texas",
+      "pubDate": "2026-06-05T10:30:00.000Z",
+      "feedSource": "topnews",
+      "texasScore": 5
+    },
+    {
+      "title": "Houston area braces for severe weather as storm system moves inland",
+      "link": "https://apnews.com/article/houston",
+      "pubDate": "2026-06-05T08:15:00.000Z",
+      "feedSource": "usnews",
+      "texasScore": 4
+    },
+    {
+      "title": "Federal judge blocks Texas immigration enforcement law",
+      "link": "https://apnews.com/article/immigration",
+      "pubDate": "2026-06-04T22:00:00.000Z",
+      "feedSource": "politics",
+      "texasScore": 5
+    },
+    {
+      "title": "Austin tech sector sees renewed investment despite market uncertainty",
+      "link": "https://apnews.com/article/austin",
+      "pubDate": "2026-06-04T16:45:00.000Z",
+      "feedSource": "usnews",
+      "texasScore": 3
+    },
+    {
+      "title": "TXLege committee hearings scheduled for next week on election security bills",
+      "link": "https://apnews.com/article/texas-legislature",
+      "pubDate": "2026-06-04T14:20:00.000Z",
+      "feedSource": "politics",
+      "texasScore": 5
+    }
+  ]
+}

@@ -476,6 +476,74 @@
             text-decoration: underline;
         }
         
+        /* News Widget */
+        .news-widget {
+            margin-top: 0.5rem;
+            padding: 0 1.5rem;
+        }
+        
+        .news-widget-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 0.5rem;
+        }
+        
+        .news-widget-header span {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.7rem;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+        
+        .news-widget-header .ap-badge {
+            font-size: 0.65rem;
+            background: var(--bg-tertiary);
+            padding: 0.15rem 0.4rem;
+            border-radius: 3px;
+            color: var(--accent);
+        }
+        
+        .news-list {
+            list-style: none;
+        }
+        
+        .news-list li {
+            padding: 0.5rem 0;
+            border-bottom: 1px solid var(--border);
+        }
+        
+        .news-list li:last-child {
+            border-bottom: none;
+        }
+        
+        .news-list a {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 0.8rem;
+            line-height: 1.4;
+            display: block;
+        }
+        
+        .news-list a:hover {
+            color: var(--accent);
+        }
+        
+        .news-list .meta {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.65rem;
+            color: var(--text-muted);
+            margin-top: 0.25rem;
+        }
+        
+        .news-loading {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            padding: 0.5rem 0;
+        }
+        
         /* Mobile */
         @media (max-width: 768px) {
             .sidebar {
@@ -499,6 +567,10 @@
                 color: var(--text-primary);
                 font-size: 1.25rem;
                 cursor: pointer;
+            }
+            
+            .news-widget {
+                display: none;
             }
         }
         
@@ -595,6 +667,17 @@
                         </a>
                     </li>
                 </ul>
+                
+                <div class="nav-label">Texas News</div>
+                <div class="news-widget" id="news-widget">
+                    <div class="news-widget-header">
+                        <span>$ tail -5 news.txt</span>
+                        <span class="ap-badge">AP</span>
+                    </div>
+                    <ul class="news-list" id="news-list">
+                        <li class="news-loading">Loading...</li>
+                    </ul>
+                </div>
             </nav>
         </aside>
         
@@ -764,6 +847,51 @@
         
         // Log loaded count
         console.log(`[texas-elections] loaded ${markers.length} voting locations`);
+        
+        // Load Texas News
+        async function loadTexasNews() {
+            const newsList = document.getElementById('news-list');
+            try {
+                // Try local cache first, fallback to no news if fetch fails
+                const response = await fetch('data/texas-news.json', { cache: 'no-store' });
+                if (!response.ok) throw new Error('Failed to load');
+                
+                const data = await response.json();
+                if (!data.items || data.items.length === 0) {
+                    newsList.innerHTML = '<li class="news-loading">No Texas news available</li>';
+                    return;
+                }
+                
+                let html = '';
+                data.items.slice(0, 5).forEach(item => {
+                    const date = new Date(item.pubDate);
+                    const timeAgo = Math.floor((Date.now() - date) / (1000 * 60 * 60));
+                    const timeStr = timeAgo < 1 ? 'just now' : 
+                                   timeAgo < 24 ? `${timeAgo}h ago` : 
+                                   `${Math.floor(timeAgo / 24)}d ago`;
+                    
+                    html += `
+                        <li>
+                            <a href="${item.link}" target="_blank" rel="noopener">
+                                ${item.title}
+                                <div class="meta">${timeStr} · ${item.feedSource}</div>
+                            </a>
+                        </li>
+                    `;
+                });
+                
+                newsList.innerHTML = html;
+                
+            } catch (err) {
+                // Silent fail - widget just won't show news
+                newsList.innerHTML = '';
+                document.getElementById('news-widget').style.display = 'none';
+                console.log('[texas-news] News fetch failed, hiding widget');
+            }
+        }
+        
+        // Load news after page loads
+        document.addEventListener('DOMContentLoaded', loadTexasNews);
     </script>
     <img src="https://aaronrdavis.news/api/track?page=/index.html&site=texaselections.wiki" width="1" height="1" alt="" style="display:none">
 </body>
