@@ -12,122 +12,122 @@
       "incumbent": false
     }
   },
-  "lastUpdated": "2026-06-05",
+  "lastUpdated": "2026-06-30",
   "polls": [
+    {
+      "pollster": "A2 Insights",
+      "sponsor": "Independent",
+      "date": "2026-06-23",
+      "sampleSize": 618,
+      "marginError": "\u00b15.3%",
+      "talarico": 48,
+      "paxton": 46,
+      "undecided": 3,
+      "method": "LV"
+    },
+    {
+      "pollster": "NYT / Siena University",
+      "sponsor": "Media",
+      "date": "2026-06-19",
+      "sampleSize": 656,
+      "marginError": "\u00b14.5%",
+      "talarico": 47,
+      "paxton": 47,
+      "undecided": 6,
+      "method": "LV"
+    },
+    {
+      "pollster": "SoCal Strategies (R)",
+      "sponsor": "Republican",
+      "date": "2026-06-21",
+      "sampleSize": 800,
+      "marginError": "\u2014",
+      "talarico": 47,
+      "paxton": 49,
+      "undecided": 4,
+      "method": "LV"
+    },
+    {
+      "pollster": "UT / Texas Politics Project",
+      "sponsor": "Academic",
+      "date": "2026-06-05",
+      "sampleSize": 1200,
+      "marginError": "\u00b12.8%",
+      "talarico": 42,
+      "paxton": 43,
+      "undecided": 10,
+      "method": "RV"
+    },
+    {
+      "pollster": "Quantus Insights (R)",
+      "sponsor": "Republican",
+      "date": "2026-06-03",
+      "sampleSize": 800,
+      "marginError": "\u00b13.5%",
+      "talarico": 43,
+      "paxton": 45,
+      "undecided": 7,
+      "method": "LV"
+    },
+    {
+      "pollster": "Texas A&M / ReconMR / Siena",
+      "sponsor": "Academic",
+      "date": "2026-06-01",
+      "sampleSize": 807,
+      "marginError": "\u00b14.0%",
+      "talarico": 46,
+      "paxton": 46,
+      "undecided": 6,
+      "method": "LV"
+    },
     {
       "pollster": "Texas Public Opinion Research (TPOR)",
       "sponsor": "Inside Texas Politics",
       "date": "2026-05-27",
-      "sampleSize": 1200,
-      "marginError": "±2.8%",
+      "sampleSize": 1670,
+      "marginError": "\u00b12.8%",
       "talarico": 47,
       "paxton": 44,
-      "undecided": 9,
+      "undecided": 7,
+      "method": "LV"
+    },
+    {
+      "pollster": "Public Policy Polling (D)",
+      "sponsor": "Democratic",
+      "date": "2026-05-22",
+      "sampleSize": 643,
+      "marginError": "\u2014",
+      "talarico": 45,
+      "paxton": 38,
+      "undecided": 14,
+      "method": "RV"
+    },
+    {
+      "pollster": "Texas Southern University",
+      "sponsor": "Academic",
+      "date": "2026-04-22",
+      "sampleSize": 1223,
+      "marginError": "\u00b12.8%",
+      "talarico": 45,
+      "paxton": 45,
+      "undecided": 8,
       "method": "LV"
     },
     {
       "pollster": "Texas Public Opinion Research (TPOR)",
       "sponsor": "Texas Politics Project",
       "date": "2026-04-17",
-      "sampleSize": 1103,
-      "marginError": "±2.9%",
+      "sampleSize": 1018,
+      "marginError": "\u00b13.3%",
       "talarico": 46,
       "paxton": 41,
-      "undecided": 13,
-      "method": "LV"
-    },
-    {
-      "pollster": "Texas Politics Project / UT Austin",
-      "sponsor": "Hobby School",
-      "date": "2026-04-11",
-      "sampleSize": 1049,
-      "marginError": "±3.0%",
-      "talarico": 42,
-      "paxton": 34,
-      "undecided": 24,
-      "method": "RV"
-    },
-    {
-      "pollster": "DMFI PAC",
-      "sponsor": "Pro-Talarico PAC",
-      "date": "2026-03-28",
-      "sampleSize": 800,
-      "marginError": "±3.5%",
-      "talarico": 45,
-      "paxton": 38,
-      "undecided": 17,
-      "method": "LV"
-    },
-    {
-      "pollster": "UT/Texas Politics Project",
-      "sponsor": "Academic",
-      "date": "2026-02-14",
-      "sampleSize": 1200,
-      "marginError": "±2.8%",
-      "talarico": 41,
-      "paxton": 36,
-      "undecided": 23,
-      "method": "RV"
-    },
-    {
-      "pollster": "Data for Progress",
-      "sponsor": "Third-party",
-      "date": "2026-01-26",
-      "sampleSize": 1045,
-      "marginError": "±3.1%",
-      "talarico": 43,
-      "paxton": 40,
-      "undecided": 17,
-      "method": "LV"
-    },
-    {
-      "pollster": "Texas Public Opinion Research (TPOR)",
-      "sponsor": "Media",
-      "date": "2025-12-08",
-      "sampleSize": 1000,
-      "marginError": "±3.1%",
-      "talarico": 40,
-      "paxton": 42,
-      "undecided": 18,
-      "method": "LV"
-    },
-    {
-      "pollster": "CBS/YouGov",
-      "sponsor": "Media",
-      "date": "2025-11-14",
-      "sampleSize": 1302,
-      "marginError": "±2.7%",
-      "talarico": 38,
-      "paxton": 41,
-      "undecided": 21,
-      "method": "LV"
-    },
-    {
-      "pollster": "Texas Politics Project",
-      "sponsor": "Academic",
-      "date": "2025-10-03",
-      "sampleSize": 987,
-      "marginError": "±3.1%",
-      "talarico": 39,
-      "paxton": 43,
-      "undecided": 18,
-      "method": "RV"
-    },
-    {
-      "pollster": "Emerson College",
-      "sponsor": "Media",
-      "date": "2025-09-18",
-      "sampleSize": 1100,
-      "marginError": "±2.9%",
-      "talarico": 37,
-      "paxton": 44,
-      "undecided": 19,
+      "undecided": 9,
       "method": "LV"
     }
   ],
   "averages": {
-    "talarico": 42.2,
-    "paxton": 40.3,
-    "undecided": 17.5
+    "talarico": 44.9,
+    "paxton": 44.7,
+    "undecided": 10.4
   }
 }
