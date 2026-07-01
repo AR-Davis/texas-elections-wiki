@@ -693,6 +693,56 @@
             font-weight: 600;
         }
         
+        .poll-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.5rem 0;
+            font-size: 0.9rem;
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            overflow: hidden;
+        }
+        
+        .poll-table thead {
+            background: var(--bg-tertiary);
+        }
+        
+        .poll-table th {
+            padding: 0.75rem 1rem;
+            text-align: left;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.75rem;
+            font-weight: 600;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            border-bottom: 1px solid var(--border);
+        }
+        
+        .poll-table td {
+            padding: 0.6rem 1rem;
+            color: var(--text-secondary);
+            border-bottom: 1px solid var(--border);
+        }
+        
+        .poll-table tbody tr:hover {
+            background: var(--bg-secondary);
+        }
+        
+        .poll-table td.dem {
+            color: var(--democrat);
+            font-weight: 600;
+        }
+        
+        .poll-table td.rep {
+            color: var(--republican);
+            font-weight: 600;
+        }
+        
+        .poll-table tr[style*="font-weight"] td {
+            border-top: 2px solid var(--border);
+        }
+        
         /* Demographic Grids */
         .demo-grid {
             display: grid;
@@ -1182,11 +1232,11 @@
                 <!-- Executive Summary -->
                 <div class="summary-box">
                     <div class="summary-label">Executive Summary</div>
-                    <p>The 2026 Texas Senate race is shaping up to be the most competitive statewide contest in Texas in over three decades. Democrat <strong>James Talarico</strong> currently leads Republican <strong>Ken Paxton</strong> by <strong>3-5 points</strong> in recent polling—a remarkable position for a Democrat in a state Republicans have held every statewide office since 1994. The race features a dramatic <strong>warchest disparity</strong> ($40M+ vs. $7.6M), shifting demographic coalitions, and Paxton's significant <strong>favorability deficit</strong> that creates a genuine Democratic pickup opportunity.</p>
+                    <p>The 2026 Texas Senate race is shaping up to be the most competitive statewide contest in Texas in over three decades. Democrat <strong>James Talarico</strong> and Republican <strong>Ken Paxton</strong> are locked in a <strong>statistical dead heat</strong> as of late June 2026, with Talarico holding a razor-thin +0.2% lead in polling aggregators. The May 26 Republican primary runoff consolidated GOP support behind Paxton, erasing Talarico's early post-primary advantage. The race features a dramatic <strong>warchest disparity</strong> ($40M+ vs. $7.6M), shifting demographic coalitions, and Paxton's significant <strong>favorability deficit</strong>—making this the most competitive Texas Senate race in a generation.</p>
                     
                     <div class="key-facts">
                         <div class="key-fact">
-                            <div class="key-fact-value">+3-5</div>
+                            <div class="key-fact-value">+0.2%</div>
                             <div class="key-fact-label">Talarico Lead</div>
                         </div>
                         <div class="key-fact">
