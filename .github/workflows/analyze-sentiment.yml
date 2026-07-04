@@ -1,0 +1,32 @@
+name: Analyze Race Sentiment
+
+on:
+  schedule:
+    # Run 5 minutes after the news scan (every 30 min at :05 and :35)
+    - cron: '5,35 * * * *'
+  workflow_dispatch:
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run sentiment analysis
+        run: node scripts/analyze-sentiment.js
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/race-sentiment.json
+          git diff --cached --quiet || (git commit -m "chore(sentiment): analyze at $(date -u +%Y-%m-%dT%H:%M:%SZ)" && git push)
