@@ -1,9 +1,60 @@
 {
-  "analyzedAt": "2026-07-04T21:03:17.187Z",
-  "newsFetchedAt": "2026-07-04T20:12:24.369Z",
-  "totalAnalyzed": 31,
+  "analyzedAt": "2026-07-04T22:06:24.714Z",
+  "newsFetchedAt": "2026-07-04T21:29:20.955Z",
+  "totalAnalyzed": 34,
   "newThisRun": 3,
   "stories": [
+    {
+      "title": "Cornyn Sounds Off on SAVE Act, Latest Texas Polling: ‘I’m Not Gonna Say I Told You So, But…’ - Mediaite",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc3ktTzBXZ2Yxc1lMbGxnSjN5b2Z4SHllQnRTWjhJU05DbXZBVWdOR3d0eDhUWjBrZnlVV0psQUdJV1M0RnNhSlNNaHRFdmNaRVNfLVZrRTdfcktaWGpBRFRnSjNSdi1UQlRNVkxNeHZvTldGTjdGd1ZpVy1tRHo1MDhpR3RHMkpYQUZ6OGI5VFZmZkNmYlN5QnhRanFTd0poVmwzZkRBaTBPUXZ5czE4bklvRUFLWjFnaUE?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 16:04:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "cornyn"
+      ],
+      "sentiment": {
+        "positive": 0.022,
+        "negative": 0.978,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "Polling: Texas’ U.S. Senate race statiscally tied - The Black Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdjJ6U2VVc2o4ajJFTXJrbEN0RGJqMVR3U09DT0NlbTFJQ2ktT1NNT3A2UU5mZXRiUXVZamd4Ym9nbnBhX1Jyc0ZzdE5uWmZveVJyejlndzFMWjZmNVVaaFRVdVhJTC1ZN1hYX3pfWVhCRVEyb2QwTk9kU05sZ09iQlcxV2VfZDN0d0Z3?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 23:40:48 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 4,
+      "matchedKeywords": [
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.502,
+        "negative": 0.498,
+        "label": "neutral"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "Texas U.S. Senate Election 2026: Latest Polls - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRnFTY28wbS10QjZaN2NoLURKTUNYNkRlVXJFenVsTWphQVBQS2lySHdTOVVKTGhSSVRsX2JSeVEwUE9hMWpVdWU5Z2JESHJSalV5ZFEtQm5sTzY3LWQ5NFR3WjhLeE9IaUQ4VDRoZkhUOHRxQkc1cnR1TG5YVThJLVlJeW10QkxBYVE?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 17:35:06 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 4,
+      "matchedKeywords": [
+        "senate election"
+      ],
+      "sentiment": {
+        "positive": 0.961,
+        "negative": 0.039,
+        "label": "positive"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W27"
+    },
     {
       "title": "Supreme Court decision loosening campaign finance rules could be boon for Paxton in Senate race - HPPR",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbzE3eWFSQjlOSzdSZDlPeDBUTkVEeWpfYnNtSFUzblRKWjVtQnR3d1d1clNqT3RtNkFvMW5qaXg1REY1YVVmU0licDJYTmVQYWVfZXFUUlZ4S25zVFZEVzlCd2FsbHNHQm0wRWpoaGY2TExPRnFIREx4RXF5UTFJaXhIcXFwd0QzNFBBemVqV3JOdDhfQnVpdWRrMzNha0EyUlI5UUczM2RCX3FhQ2I5cXpTWjhzN05zUnpPeTFUa3VPZVVMLW9wdXk5ZWM0SlN5MVRB?oc=5",
@@ -564,6 +615,11 @@
   ],
   "weekly": {
     "2026-W27": {
+      "general": {
+        "positive": 8,
+        "negative": 5,
+        "total": 14
+      },
       "paxton": {
         "positive": 1,
         "negative": 5,
@@ -573,11 +629,6 @@
         "positive": 1,
         "negative": 7,
         "total": 8
-      },
-      "general": {
-        "positive": 7,
-        "negative": 4,
-        "total": 11
       },
       "both": {
         "positive": 0,
