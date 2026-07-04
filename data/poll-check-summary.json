@@ -1,0 +1,42 @@
+{
+  "lastChecked": "2026-07-04T15:36:46.021Z",
+  "wikiPollCount": 5,
+  "newPollsDetected": 3,
+  "latestPolls": [
+    {
+      "pollster": "New York Times / Siena University",
+      "date": "June 19-27, 2026",
+      "paxton": 47,
+      "talarico": 47,
+      "undecided": 6
+    },
+    {
+      "pollster": "Texas A&M University /ReconMR/ Siena University",
+      "date": "June 1-4, 2026",
+      "paxton": 46,
+      "talarico": 46,
+      "undecided": 6
+    },
+    {
+      "pollster": "Texas Southern University",
+      "date": "April 22 - May 6, 2026",
+      "paxton": 45,
+      "talarico": 45,
+      "undecided": 8
+    },
+    {
+      "pollster": "Emerson College",
+      "date": "January 10-12, 2026",
+      "paxton": 46,
+      "talarico": 46,
+      "undecided": 9
+    },
+    {
+      "pollster": "Ragnar Research Partners (R)",
+      "date": "November 12-17, 2025",
+      "paxton": 44,
+      "talarico": 44,
+      "undecided": 12
+    }
+  ]
+}

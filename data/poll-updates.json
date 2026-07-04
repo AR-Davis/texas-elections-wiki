@@ -1,0 +1,108 @@
+{
+  "updates": [
+    {
+      "detectedAt": "2026-07-04T15:36:46.020Z",
+      "pollster": "Ragnar Research Partners (R)",
+      "date": "November 12-17, 2025",
+      "paxton": 44,
+      "talarico": 44,
+      "undecided": 12
+    },
+    {
+      "detectedAt": "2026-07-04T15:36:46.020Z",
+      "pollster": "Emerson College",
+      "date": "January 10-12, 2026",
+      "paxton": 46,
+      "talarico": 46,
+      "undecided": 9
+    },
+    {
+      "detectedAt": "2026-07-04T15:36:46.018Z",
+      "pollster": "Texas Southern University",
+      "date": "April 22 - May 6, 2026",
+      "paxton": 45,
+      "talarico": 45,
+      "undecided": 8
+    },
+    {
+      "detectedAt": "2026-07-04T15:35:53.395Z",
+      "pollster": "Ragnar Research Partners (R)",
+      "date": "November 12-17, 2025",
+      "paxton": 44,
+      "talarico": 44,
+      "undecided": 12
+    },
+    {
+      "detectedAt": "2026-07-04T15:35:53.395Z",
+      "pollster": "Emerson College",
+      "date": "January 10-12, 2026",
+      "paxton": 46,
+      "talarico": 46,
+      "undecided": 9
+    },
+    {
+      "detectedAt": "2026-07-04T15:35:53.395Z",
+      "pollster": "Texas Southern University",
+      "date": "April 22 - May 6, 2026",
+      "paxton": 45,
+      "talarico": 45,
+      "undecided": 8
+    },
+    {
+      "detectedAt": "2026-07-04T15:35:53.395Z",
+      "pollster": "Texas A&M University /ReconMR/ Siena University",
+      "date": "June 1-4, 2026",
+      "paxton": 46,
+      "talarico": 46,
+      "undecided": 6
+    },
+    {
+      "detectedAt": "2026-07-04T15:35:53.394Z",
+      "pollster": "New York Times / Siena University",
+      "date": "June 19-27, 2026",
+      "paxton": 47,
+      "talarico": 47,
+      "undecided": 6
+    },
+    {
+      "detectedAt": "2026-07-04T15:35:10.807Z",
+      "pollster": "Ragnar Research Partners (R) [ 366 ]",
+      "date": "November 12-17, 2025",
+      "paxton": 44,
+      "talarico": 44,
+      "undecided": 12
+    },
+    {
+      "detectedAt": "2026-07-04T15:35:10.807Z",
+      "pollster": "Emerson College [ 130 ]",
+      "date": "January 10-12, 2026",
+      "paxton": 46,
+      "talarico": 46,
+      "undecided": 9
+    },
+    {
+      "detectedAt": "2026-07-04T15:35:10.807Z",
+      "pollster": "Texas Southern University [ 362 ]",
+      "date": "April 22 - May 6, 2026",
+      "paxton": 45,
+      "talarico": 45,
+      "undecided": 8
+    },
+    {
+      "detectedAt": "2026-07-04T15:35:10.807Z",
+      "pollster": "Texas A&M University /ReconMR/ Siena University [ 358 ]",
+      "date": "June 1-4, 2026",
+      "paxton": 46,
+      "talarico": 46,
+      "undecided": 6
+    },
+    {
+      "detectedAt": "2026-07-04T15:35:10.806Z",
+      "pollster": "New York Times / Siena University [ 354 ]",
+      "date": "June 19-27, 2026",
+      "paxton": 47,
+      "talarico": 47,
+      "undecided": 6
+    }
+  ]
+}
