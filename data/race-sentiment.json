@@ -1,9 +1,83 @@
 {
-  "analyzedAt": "2026-07-04T22:06:24.714Z",
-  "newsFetchedAt": "2026-07-04T21:29:20.955Z",
-  "totalAnalyzed": 34,
-  "newThisRun": 3,
+  "analyzedAt": "2026-07-04T23:33:30.245Z",
+  "newsFetchedAt": "2026-07-04T22:33:42.114Z",
+  "totalAnalyzed": 38,
+  "newThisRun": 4,
   "stories": [
+    {
+      "title": "Shock poll: Talarico ties Paxton in Texas Senate race, threatening GOP stronghold - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM1ltUFNiemsxVFJqNy1SdkxzMWR3cXFKRnJqUGlJVkNEcjVVS0xrTWFMYXhZWWpQNUZSYUhWRDVsQUhzUXlJWWFnd1ZiN1lvd0VVNW9yMWlWTWR6Q3lnSVFBaWs4OS1sMnBHNGFLV0JKLVY4Z1lqRmhpNmhKUTlveA?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 14:24:19 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.053,
+        "negative": 0.947,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "Joe Concha slams James Talarico: ‘There’s too much for this guy to play defense on’ - Washington Examiner",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU1d4ZS13V0EtWFVuTDUzaHFTQnV5WGRNb0c0RHlrTTFjXy0wc2lPZDg1RkhvSTk4U0FlcEdXNkhqQjJFV1BIY2hoa01VSVlKeXVLSThlWFNrTVkydDdiWnVlbnd0OE9KV3RrNzVkRjU2NV8wcDRJb3FDMzhvSk0xeXA3dWxheXdEd3hBYTZpWUk?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 15:24:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.001,
+        "negative": 0.999,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "Supreme Court decision loosening campaign finance rules could be boon for Paxton in Senate race - Daily Kos",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcUpEQnE1VVNNYjJDNEp6azdmeW1MSmVHXy1vVnl5TWdLLThNU3pUa2gzelMzcDlSY1E2cmNCSE9ubVdtd193Nk5FZU1XUnhTN3l5WU9oRS04VlF6QkplZkZ2WGVfcmNWc2owN0ZrS0dIYlJ3YTdLS0V0X2Zja3JLU1dSWmUwNUZ6QWZTUXhVMWtPVFN2RHBWak9aRW9kTVR4eDE3MEFENEJUYjlyVjhDYVlVaGZlQ1FPUWlfbjBQaDZ3ZmtnTFlJQ3BIbGdKakEtYk5aX2djTGR2NFpRNFE1VXE3UXFzWnpmaTNrUExOSQ?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 17:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 8,
+      "matchedKeywords": [
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.017,
+        "negative": 0.983,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "State of Texas – The first Travis County flood 9-1-1 call - KXAN Austin",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWEVfMHM0LW9iajBtb2dadU9Zdk9QUGhTSnBWb2MteThsWlJsV3Z4Q0YzeUliaEVOOHlEZHRHM2JYSFljOGNlYnpJYmd6bWhzbmVtN0xQb0xyckhRd25qX3BESnAteFdURHdnM0NhNzd4cW1OUGhMMUJiTGVZeHlQX1RpSGhRcWpaMG9jWklBNHI1UkNqcmhR?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 19:44:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "travis county"
+      ],
+      "sentiment": {
+        "positive": 0.673,
+        "negative": 0.327,
+        "label": "positive"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W27"
+    },
     {
       "title": "Cornyn Sounds Off on SAVE Act, Latest Texas Polling: ‘I’m Not Gonna Say I Told You So, But…’ - Mediaite",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc3ktTzBXZ2Yxc1lMbGxnSjN5b2Z4SHllQnRTWjhJU05DbXZBVWdOR3d0eDhUWjBrZnlVV0psQUdJV1M0RnNhSlNNaHRFdmNaRVNfLVZrRTdfcktaWGpBRFRnSjNSdi1UQlRNVkxNeHZvTldGTjdGd1ZpVy1tRHo1MDhpR3RHMkpYQUZ6OGI5VFZmZkNmYlN5QnhRanFTd0poVmwzZkRBaTBPUXZ5czE4bklvRUFLWjFnaUE?oc=5",
@@ -615,25 +689,25 @@
   ],
   "weekly": {
     "2026-W27": {
-      "general": {
-        "positive": 8,
-        "negative": 5,
-        "total": 14
-      },
-      "paxton": {
-        "positive": 1,
-        "negative": 5,
-        "total": 6
+      "both": {
+        "positive": 0,
+        "negative": 2,
+        "total": 2
       },
       "talarico": {
         "positive": 1,
-        "negative": 7,
-        "total": 8
+        "negative": 8,
+        "total": 9
       },
-      "both": {
-        "positive": 0,
-        "negative": 1,
-        "total": 1
+      "paxton": {
+        "positive": 1,
+        "negative": 6,
+        "total": 7
+      },
+      "general": {
+        "positive": 9,
+        "negative": 5,
+        "total": 15
       }
     },
     "2026-W26": {
