@@ -1,9 +1,61 @@
 {
-  "analyzedAt": "2026-07-04T17:12:03.052Z",
-  "newsFetchedAt": "2026-07-04T15:32:09.355Z",
-  "totalAnalyzed": 25,
-  "newThisRun": 25,
+  "analyzedAt": "2026-07-04T18:33:36.893Z",
+  "newsFetchedAt": "2026-07-04T17:13:28.723Z",
+  "totalAnalyzed": 28,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "WATCH: James Talarico Says Bill Banning ‘Gender-Affirming Health Care to Trans Children’ Is ‘Christofascism’ - breitbart.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRGJLeXo4SW1DZmNLb205WFBva3h6WXFmM2hiOFdqazdReGdlbDRWUHJHVThFaFdzYktGRkI4aEFhWVVyVEdtQXl0QlEzSVp0alNzaWdnY2hjcHNSTGh3Z2NZMVFUd3h6bjNuRGNhZW03Q1cwTmlDUFNkTUJ2WW0yNWFjTzl5VFdqTkpjSUxMZHR2Z0RhUHk3V0pmVzZUTms3eXl4OFk0aVNzLXFEQjZfVlZXdDJ1c2ZMaVBSenI5OF9lUdIBxwFBVV95cUxQZ0ZySnB3Y3ZmLUxiY0MyU0pBR3VCSnVCMTNRcTlSaEtIZzVuS3NEX3BMclh6d2tuU3hwNWFnSW1iMUozbVlrNHBCSG8zYXpSemR0RUliOW4wczZuSklFUGYwNGhMRG15VU1fd2xLcVptT2Vhd3R0YzJCMGNmSmtkd3hYUVBtVWN3QXZUQlAxSVlWdlo3UFZPOWZQUkFNeWVQd19LVmJFeWwwc2FlVENTaFJHTWVzR3o1czUzbTRWSzRuRzJWUTJr?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 23:08:04 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.009,
+        "negative": 0.991,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "Inside Texas Politics | Full Interview On GOP Midterm Convention with TX GOP Chair D'rinda Randall - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMmZWNWpnM01FUEZuV050WGZKeGRaWmNyY0p1YzAzVmFwdkFnMHozZGpCak4ycGJ2VDhaaEFETWRPVGtIcEMxZW8taHRzXzBXVXE3MmJpQmVHZ2hTUDQ0VF9pdTFYMEJzMl9jRWw5V2RvSnZfd2RVbldoRDZGOTliVERRV1VmWjZJNW02T0x3?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 01:36:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "sentiment": {
+        "positive": 0.834,
+        "negative": 0.166,
+        "label": "positive"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "EAST TEXAS POLITICS: One year later — State senator discusses findings from Texas Hill Country flood investigation - KLTV.com",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZWk0QURLNmJKYmpESmwyOHJMNklySTNXMGNoZ1NRTXhlLV80QWhGcE1uUl9qU1BKOWl0MEdUVjlRSnZDbEI4ZFk4WG1KdHZxOVZYdmF6OEpZVnhOSEszZ0RHZ01BZ3RlNm93SnZLckE4N0lJVDlfQm5BdmVlTnhaZFhybVBwQ1Q5VFg5M1FzWHRQemNzRE56eWRsNkpWTklvaEV4NHBHZmNDZTFneE1ldzdadktPaXpNVTlVdm1rbFpLaGF0YmZVaFowaWNlQVV6X1BpTHpB0gHqAUFVX3lxTFBUdUFzSElndkVPbW1sRFpCMkRzQXVPSkxEcm1qeURzN3RkY0Rjb2xTTjRRWU9Jalg3NDZ4NUdJbzM4bkdWYUZySmVqRl9TSjJmU29QWERObENMOHdoM1RRNlVUS3IwSkZmaTVXNjEwNGFfQWo3ZFpoWHZYQnpXQkFkWDJMeWpESjUzbW40Umw2b1BneDFBNUt0dUVJa09MQTh0cWR1MzVEUlI5TTRsYWo5dktoWXM4bXBtaWxueWpHVlF5M2dRc3ltd0MwOThfOEF6TTh2LWZmWGo1dFdSMEFwdVRORHQ5dlREUQ?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 00:28:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "sentiment": {
+        "positive": 0.948,
+        "negative": 0.052,
+        "label": "positive"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W27"
+    },
     {
       "title": "Paxton, Talarico deadlocked at 47% in new Texas Senate race poll - Waco Tribune-Herald",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUzJuUHd6NVRLcHdwX1ItUFlod0xPMU9aMFI2WDJkV1N3X21XbkxCTVgxN25iSjhLQ2t0amh3SjJlRkVqemgzV09STndEMlJFc0VMbmV4VnZ4UG1EZDYtR2swOHg0YmdKbnA2WHhROHBXZUYtZC16eFg4RC03SEJ1dTBzVjlnR3htbXlHVzJ5WmFyemFZd09GWmxNN1c3SDVGSU1pY3BoZGlleWRKNjU5MzRLYlNVZlB4UmNfTg?oc=5",
@@ -459,6 +511,28 @@
     }
   ],
   "weekly": {
+    "2026-W27": {
+      "talarico": {
+        "positive": 1,
+        "negative": 6,
+        "total": 7
+      },
+      "general": {
+        "positive": 7,
+        "negative": 3,
+        "total": 10
+      },
+      "both": {
+        "positive": 0,
+        "negative": 1,
+        "total": 1
+      },
+      "paxton": {
+        "positive": 1,
+        "negative": 4,
+        "total": 5
+      }
+    },
     "2026-W26": {
       "both": {
         "positive": 0,
@@ -474,28 +548,6 @@
         "positive": 0,
         "negative": 2,
         "total": 2
-      }
-    },
-    "2026-W27": {
-      "both": {
-        "positive": 0,
-        "negative": 1,
-        "total": 1
-      },
-      "general": {
-        "positive": 5,
-        "negative": 3,
-        "total": 8
-      },
-      "talarico": {
-        "positive": 1,
-        "negative": 5,
-        "total": 6
-      },
-      "paxton": {
-        "positive": 1,
-        "negative": 4,
-        "total": 5
       }
     }
   }
