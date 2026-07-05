@@ -1,9 +1,61 @@
 {
-  "analyzedAt": "2026-07-05T19:25:10.100Z",
-  "newsFetchedAt": "2026-07-05T17:18:15.046Z",
-  "totalAnalyzed": 49,
-  "newThisRun": 1,
+  "analyzedAt": "2026-07-05T20:36:56.737Z",
+  "newsFetchedAt": "2026-07-05T20:18:52.648Z",
+  "totalAnalyzed": 52,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Talarico targets Paxton over plea deal in Texas child sex abuse case - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMGhrMTlHdl9adUZDVGhMOS1icXZVTUFBUHNJOTZ5RnZkOHBrSUE3bGhEQkdWWUlLNEJ5eG42cXdta3RJYk5LODJKVnRiOWhZTndYb28xWlVVejhhYlUyNW1FNHg2MDRDejUzMHNEMDV5U3VuQTFtRnA2Xy1EMjJqRVQ1MFRBQ1Z6Z3Q0M296bm9hR0c1c3JjWm4xbVZnQ0dWWUFudlRPTTJTWkJwaG9RMFhzMThWUTYzZ3NuRml3R0I?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 19:09:03 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": {
+        "positive": 0.036,
+        "negative": 0.964,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "Inside Texas Politics | Full Interview on Bible Reading in Public Schools with Dr. Tiffany Clark - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONW5SMWVqWG0tc3hJZXJxUkdoM2xaYnpyX2Q1YXZMaTZEeUp0WVNZUGxWOF9VVWVrSTlYVUNyZDZXa3dGSFdQbWlGZC1HVFBWZ2RuZjJsRVdiOXRjalJfSzNqb0cwWjNmRUNkd1NXeUtQRkt1UzdNN2VjWmwzQllsOHNRSUF1RE81MDlNTUZB?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 01:37:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "sentiment": {
+        "positive": 0.946,
+        "negative": 0.054,
+        "label": "positive"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "Inside Texas Politics | Full Interview On GOP Midterm Convention with TX GOP Chair D'rinda Randall - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPckExTFZVV3cxUnFFcnVrTkFIbGtqTElpY3FiNDhSQUJDUS16S1RaUElfaTZvQ2xpOEtVZmhKMy1Sanl1NlplOFpSVklabl9TeWh4ajVaU1pnNU5ZSXdRVnIxd2hPZzJ2dGM5ZTlDaS16cUR1SjM3ZmQzaDBQTFNCRmJWQ193Wmg1NTZ2bjR3?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 01:36:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "sentiment": {
+        "positive": 0.834,
+        "negative": 0.166,
+        "label": "positive"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W27"
+    },
     {
       "title": "How James Talarico Is Trying to Win Back Latino Voters One Soccer Match and TikTok Video at a Time - Latin Times",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQmlFdTRrYy1LNWp3QUV2NXp0bmNDQU9CdE9iblFCc0t3UTJJNlZOUk44STNJN2ZtZExRLVY5TEx1cHJIclBLUURUUTVOcWNGd0k2b2g1TC1XbWNjcnhkT2toNzhHX0Vvb3I5SWE2WGdKaWQ0bFRab045R1hlRGVfS2ZpZ0JaaGZRaWdzOGJFQ0dEa2pUNjlHS0sweHUxOTNEbC14VjVSRTRrcnNDcVM5MTFRQUFsUGlS?oc=5",
@@ -884,25 +936,25 @@
   ],
   "weekly": {
     "2026-W27": {
+      "both": {
+        "positive": 1,
+        "negative": 3,
+        "total": 4
+      },
+      "general": {
+        "positive": 14,
+        "negative": 9,
+        "total": 24
+      },
       "talarico": {
         "positive": 1,
         "negative": 10,
         "total": 11
       },
-      "general": {
-        "positive": 12,
-        "negative": 9,
-        "total": 22
-      },
       "paxton": {
         "positive": 1,
         "negative": 7,
         "total": 8
-      },
-      "both": {
-        "positive": 1,
-        "negative": 2,
-        "total": 3
       }
     },
     "2026-W26": {
