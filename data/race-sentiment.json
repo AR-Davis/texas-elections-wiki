@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-07-05T20:36:56.737Z",
-  "newsFetchedAt": "2026-07-05T20:18:52.648Z",
-  "totalAnalyzed": 52,
-  "newThisRun": 3,
+  "analyzedAt": "2026-07-05T22:05:54.565Z",
+  "newsFetchedAt": "2026-07-05T21:35:00.696Z",
+  "totalAnalyzed": 53,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Inside Texas Politics | Full Interview on GOP Midterm with Kendall Scudder, Texas Democratic Party - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd0lVN2E3VU9ZVXBpSEM4SXZqRWFjR2NhblpzcFNHVmw3V0hVM3p2SGlBZVktbEJYUkRzUGdhSk1nUFJBa0dBNkFhajc3blRuNTEtZV9hU0ZqT2Y0YXVSeHZiNjJHRHJFb1BUTnM4ZWFaUmpDb1puUEpmdUpKOUJsRFRxWDRlMWZXa2Z5OEtB?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 01:36:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 8,
+      "matchedKeywords": [
+        "texas politics",
+        "texas democrat"
+      ],
+      "sentiment": {
+        "positive": 0.93,
+        "negative": 0.07,
+        "label": "positive"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W27"
+    },
     {
       "title": "Talarico targets Paxton over plea deal in Texas child sex abuse case - Spectrum News",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMGhrMTlHdl9adUZDVGhMOS1icXZVTUFBUHNJOTZ5RnZkOHBrSUE3bGhEQkdWWUlLNEJ5eG42cXdta3RJYk5LODJKVnRiOWhZTndYb28xWlVVejhhYlUyNW1FNHg2MDRDejUzMHNEMDV5U3VuQTFtRnA2Xy1EMjJqRVQ1MFRBQ1Z6Z3Q0M296bm9hR0c1c3JjWm4xbVZnQ0dWWUFudlRPTTJTWkJwaG9RMFhzMThWUTYzZ3NuRml3R0I?oc=5",
@@ -936,15 +954,15 @@
   ],
   "weekly": {
     "2026-W27": {
+      "general": {
+        "positive": 15,
+        "negative": 9,
+        "total": 25
+      },
       "both": {
         "positive": 1,
         "negative": 3,
         "total": 4
-      },
-      "general": {
-        "positive": 14,
-        "negative": 9,
-        "total": 24
       },
       "talarico": {
         "positive": 1,
