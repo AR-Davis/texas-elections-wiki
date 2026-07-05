@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-07-05T16:13:29.189Z",
-  "newsFetchedAt": "2026-07-05T12:21:07.787Z",
-  "totalAnalyzed": 48,
-  "newThisRun": 2,
+  "analyzedAt": "2026-07-05T17:37:29.037Z",
+  "newsFetchedAt": "2026-07-05T17:18:15.046Z",
+  "totalAnalyzed": 49,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "How James Talarico Is Trying to Win Back Latino Voters One Soccer Match and TikTok Video at a Time - Latin Times",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQmlFdTRrYy1LNWp3QUV2NXp0bmNDQU9CdE9iblFCc0t3UTJJNlZOUk44STNJN2ZtZExRLVY5TEx1cHJIclBLUURUUTVOcWNGd0k2b2g1TC1XbWNjcnhkT2toNzhHX0Vvb3I5SWE2WGdKaWQ0bFRab045R1hlRGVfS2ZpZ0JaaGZRaWdzOGJFQ0dEa2pUNjlHS0sweHUxOTNEbC14VjVSRTRrcnNDcVM5MTFRQUFsUGlS?oc=5",
+      "pubDate": "Sun, 05 Jul 2026 16:45:17 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.037,
+        "negative": 0.963,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W27"
+    },
     {
       "title": "Inside Texas Politics - kagstv.com",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORk5STjgxMkFydThFWF81SlpUMzdBVUhGOU0tc3lzYjVaLUtsenNlS0piYURIbXlBSHlUdktmR3hiNFEtRHVBUmdPWFgzSXE3enNvMWtiUzZoeFVhcGhSYzBEQU00em1Hc0tUVzJDMUFRTXF0YmRpamNyZ3FKZ04tQlVMcVVZR3A3X2FITDllT2xhZ2p3QlZWZzBaazdRVkx2aWdmampjeUtqNjdm?oc=5",
@@ -866,6 +884,11 @@
   ],
   "weekly": {
     "2026-W27": {
+      "talarico": {
+        "positive": 1,
+        "negative": 10,
+        "total": 11
+      },
       "general": {
         "positive": 12,
         "negative": 9,
@@ -875,11 +898,6 @@
         "positive": 1,
         "negative": 7,
         "total": 8
-      },
-      "talarico": {
-        "positive": 1,
-        "negative": 9,
-        "total": 10
       },
       "both": {
         "positive": 1,
