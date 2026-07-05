@@ -1,9 +1,46 @@
 {
-  "analyzedAt": "2026-07-05T01:19:11.041Z",
-  "newsFetchedAt": "2026-07-04T22:33:42.114Z",
-  "totalAnalyzed": 38,
-  "newThisRun": 4,
+  "analyzedAt": "2026-07-05T05:41:33.442Z",
+  "newsFetchedAt": "2026-07-05T04:41:51.571Z",
+  "totalAnalyzed": 40,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Texas Senate race now a tossup - MSN",
+      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPQ1Fjc1ZOWU5XbUZEX1N3alBfaVpvakFYVE0zTDlVNTRpQkNJOFlPQmxMUTQtaWRDd1ROS2tOclE5OWdsb2NzXzRlWWxIMjc5REQyQ3ZlQWYyQ05mQXRBcjQtTFR5YkwwTHpzQ1lLUXJDRnM5cXlqRkI1YWNMV3JKRnhLbVJMY0UtRFZvN0pyMVFneGtfc0E1QlRsTnpFNzlnQUNjVU8zaFd0eHNLZkl2V1p0dkJSdFVFNXZpVW55MVNUbG82WjZtRzFnZHFqTVVxVW10dzZHOENGalZ2ZF9KNWNkRzJkUWJ3ZGxhUGduaXpSUG4xMjROcDB6NVJZMEhTbi1zOXZSLVI3MTZyNTViRkFlZDdEWVRDdnZIamFlWlRLbWtFNDJUZ2haM1F3c2NnakE?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 16:26:51 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.029,
+        "negative": 0.971,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "Supreme Court ruling could boost role of national parties in Paxton-Talarico race - CW39 Houston",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdW1wR21pclhya3pCZjgtNVVIUlNSSFNTUlktR1dnQWRhakVwamVjdG5mWGFUdmVFQkxHOWhNVkNJamItemRUOW9EWjdVWkFQNXN6YWtmQzZmRnB3Y1ZabGJiRjJQUWFSaGVMdzhnQzBWOG16OS13VjZiUGpQT1BsbzlmQWpTYjd0UWVFSlB2RG5La1hNUHk1T1I0V3J5Nk5rT2daZVl4SE1NUENHUzhF0gG0AUFVX3lxTE82UjVOQzY2RXpwcnhtTl9sc1c4SkJGdzUyRWNuQUliNV9qdWYtV1BfR0RvQTI5ZFBTR0xUMTVEbDY5STlLdXNGYWJMWXNhYV9CaWx1MjJLQk5kbzF1a1B0Mmp1UWtyMzdlazVzUVZXTmc1MTl6aDYxMjlyVTRXMHBXc2diQVVfRjRMVHhnSVNQeWpMWWtCcGtYNWFycjk3ODU1WVNlOEo5YnlCWGdDcFhvcDl2ag?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 10:13:49 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": {
+        "positive": 0.837,
+        "negative": 0.163,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W27"
+    },
     {
       "title": "Shock poll: Talarico ties Paxton in Texas Senate race, threatening GOP stronghold - AOL.com",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM1ltUFNiemsxVFJqNy1SdkxzMWR3cXFKRnJqUGlJVkNEcjVVS0xrTWFMYXhZWWpQNUZSYUhWRDVsQUhzUXlJWWFnd1ZiN1lvd0VVNW9yMWlWTWR6Q3lnSVFBaWs4OS1sMnBHNGFLV0JKLVY4Z1lqRmhpNmhKUTlveA?oc=5",
@@ -689,10 +726,15 @@
   ],
   "weekly": {
     "2026-W27": {
+      "general": {
+        "positive": 9,
+        "negative": 6,
+        "total": 16
+      },
       "both": {
-        "positive": 0,
+        "positive": 1,
         "negative": 2,
-        "total": 2
+        "total": 3
       },
       "talarico": {
         "positive": 1,
@@ -703,11 +745,6 @@
         "positive": 1,
         "negative": 6,
         "total": 7
-      },
-      "general": {
-        "positive": 9,
-        "negative": 5,
-        "total": 15
       }
     },
     "2026-W26": {
