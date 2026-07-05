@@ -1,9 +1,43 @@
 {
-  "analyzedAt": "2026-07-05T11:17:14.918Z",
-  "newsFetchedAt": "2026-07-05T10:39:11.510Z",
-  "totalAnalyzed": 46,
-  "newThisRun": 3,
+  "analyzedAt": "2026-07-05T12:49:32.194Z",
+  "newsFetchedAt": "2026-07-05T12:21:07.787Z",
+  "totalAnalyzed": 48,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Inside Texas Politics - kagstv.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORk5STjgxMkFydThFWF81SlpUMzdBVUhGOU0tc3lzYjVaLUtsenNlS0piYURIbXlBSHlUdktmR3hiNFEtRHVBUmdPWFgzSXE3enNvMWtiUzZoeFVhcGhSYzBEQU00em1Hc0tUVzJDMUFRTXF0YmRpamNyZ3FKZ04tQlVMcVVZR3A3X2FITDllT2xhZ2p3QlZWZzBaazdRVkx2aWdmampjeUtqNjdm?oc=5",
+      "pubDate": "Sun, 05 Jul 2026 12:00:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "sentiment": {
+        "positive": 0.94,
+        "negative": 0.06,
+        "label": "positive"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "Texas Democratic Party Chairman says the party needs to \"stop this limited thinking\" and the GOP party \"must be real scared\" - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPc1BTb0hJdFdQVWdtdHlEMWM4OHN4LUZvVURtVWRxQlNONlY0bHJHbWY0VFh0dXF4NG52dzQ2MmdYYlctZFRQbXR5eHhPMjNEdGRTTjlJTVNDZTN6X1FsZ25oQ1hKUWFUM294SDhlWHI3T19TWFQyTTlvZi1TRG1CN2VMM3IzVDF1VXYyQzBIZ2RtU2ROQW1Tb2tlV2xQdHpMU1FOeWJ6amlKdElEcGs0RFBhUzU4cEl3SkZpT2F0UTFYUnpvTnFCWExlekplS01PYWw4bzRtTUpsREZq?oc=5",
+      "pubDate": "Sun, 05 Jul 2026 10:00:14 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 4,
+      "matchedKeywords": [
+        "texas democrat"
+      ],
+      "sentiment": {
+        "positive": 0.001,
+        "negative": 0.999,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W27"
+    },
     {
       "title": "Map: Where was Ken Paxton's strongest support in Denton County? - MSN",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOY3hJNEg0bW5fTXo0UFBoS1RKWVhXcnBJdGI5QnhJTkVhR2hFVzgxMEhLM285ZXhIb3lrcGdvX29XMjJocnhRSWtLMUNPNzdsU0prSTc3d1BEUGtCRDA4cXVSazZYUWY5STFEOU52UlJyM29uek1zTDJWUkQ3RDFHanRKOW9yTXpQZFFOTDlialZORVdjeHNYRENsYWJlWWpZTjV6MHhPSGxqQ0Y2Y2JQc1h0bFJCbF92enZmT19XVkJzU2k2TEQzcTJJal8wcUl3VDBrVW9VRG5xclZCQzJEc1d3WTBIeFRudG5Cd0NmZFVHZVZy?oc=5",
@@ -832,15 +866,15 @@
   ],
   "weekly": {
     "2026-W27": {
+      "general": {
+        "positive": 12,
+        "negative": 9,
+        "total": 22
+      },
       "paxton": {
         "positive": 1,
         "negative": 7,
         "total": 8
-      },
-      "general": {
-        "positive": 11,
-        "negative": 8,
-        "total": 20
       },
       "talarico": {
         "positive": 1,
