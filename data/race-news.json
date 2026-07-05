@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-07-05T18:38:20.936Z",
+  "fetchedAt": "2026-07-05T20:18:52.648Z",
   "count": 24,
   "feedsChecked": 8,
-  "itemsScanned": 154,
+  "itemsScanned": 151,
   "items": [
     {
       "title": "Texas Senate race now a tossup - MSN",
@@ -70,6 +70,17 @@
       "matchedKeywords": [
         "talarico",
         "james talarico"
+      ]
+    },
+    {
+      "title": "Talarico targets Paxton over plea deal in Texas child sex abuse case - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMGhrMTlHdl9adUZDVGhMOS1icXZVTUFBUHNJOTZ5RnZkOHBrSUE3bGhEQkdWWUlLNEJ5eG42cXdta3RJYk5LODJKVnRiOWhZTndYb28xWlVVejhhYlUyNW1FNHg2MDRDejUzMHNEMDV5U3VuQTFtRnA2Xy1EMjJqRVQ1MFRBQ1Z6Z3Q0M296bm9hR0c1c3JjWm4xbVZnQ0dWWUFudlRPTTJTWkJwaG9RMFhzMThWUTYzZ3NuRml3R0I?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 19:09:03 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
       ]
     },
     {
@@ -189,18 +200,8 @@
       ]
     },
     {
-      "title": "State of Texas – The first Travis County flood 9-1-1 call - KXAN Austin",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWEVfMHM0LW9iajBtb2dadU9Zdk9QUGhTSnBWb2MteThsWlJsV3Z4Q0YzeUliaEVOOHlEZHRHM2JYSFljOGNlYnpJYmd6bWhzbmVtN0xQb0xyckhRd25qX3BESnAteFdURHdnM0NhNzd4cW1OUGhMMUJiTGVZeHlQX1RpSGhRcWpaMG9jWklBNHI1UkNqcmhR?oc=5",
-      "pubDate": "Sat, 04 Jul 2026 19:44:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "travis county"
-      ]
-    },
-    {
-      "title": "Inside Texas Politics | Full Interview on Bible Reading in Public Schools with Dr. Tiffany Clark - WFAA",
-      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPT2M0Ym42WFh6Zy1nejdJMldGOThPLXUtS25hVS1sNm1heVRka0lFNm1lUVFFUkM2ZWN5dzg0MmJxSklib1h6eFI0a0I0THctNXV5MVU0VldIdXJkMU9uNzYtVUdVUnVERmJlWWFEMWdzWXRMWElpbFd3QmFHZWJoV05WNHI0UjdzLXdlQlR5ODdRcEh3TmhIc2JFLTFRUnRIbkItcHN2bFphYzc3YUlyUEVRS1FGWVZHMHV0bVJHWXRRUjZ3QjBpYThJT1BDWDNGNE02OEp3OEVUZkg4Y3hLVXR3SS1SOUdTMGVrazY0QnRlTS1OaWI0V2owZDFDZ1pJYzZuZGJudXhGVnp3b2R1NnFETzJlSk9wSkdmZjBub1RyVG1zYTk5YUNzT00yb1k?oc=5",
+      "title": "Inside Texas Politics | Full Interview on Bible Reading in Public Schools with Dr. Tiffany Clark - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONW5SMWVqWG0tc3hJZXJxUkdoM2xaYnpyX2Q1YXZMaTZEeUp0WVNZUGxWOF9VVWVrSTlYVUNyZDZXa3dGSFdQbWlGZC1HVFBWZ2RuZjJsRVdiOXRjalJfSzNqb0cwWjNmRUNkd1NXeUtQRkt1UzdNN2VjWmwzQllsOHNRSUF1RE81MDlNTUZB?oc=5",
       "pubDate": "Sat, 04 Jul 2026 01:37:00 GMT",
       "feedSource": "google-news-texas",
       "raceScore": 5,
@@ -209,8 +210,8 @@
       ]
     },
     {
-      "title": "Inside Texas Politics | Full Interview On GOP Midterm Convention with TX GOP Chair D'rinda Randall - WFAA",
-      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOS1JLTV9BVVlOOExOVEhPM2twcnhMY1hKWm5YR1N3M3ZLTjBPT2hKSlRHUVJvV25JNll1enp3cklMS2pzUFhNWktCTVhmYk9CcWs4RXQtUGRab2FpeGJtangyMVFRN1ZjdklfaVctbExLcG92UkRHVlkzTU9saFRwSHlQdFZQR1RtV1R4cnNVZ0pUOU9wU09BWDVsTEVVd3pKSHk0QURabW13OVlQUlBWcGY4RFBFSEpsSTBwLWUweTdwVFlUNXRndURnZ3RDWGowdzRYSnBlNUlhLUdQeVpZSmJKRWRjS1QyMGlXaTBsWWYxTk1PLUc2Y2ZROFJhZUxQREN3VTlLaEFIMzV5R2pkUU5NRGdqUWJfalc3N2VmMTlReG9SNFhhNDkzdThjVWxVcHc?oc=5",
+      "title": "Inside Texas Politics | Full Interview On GOP Midterm Convention with TX GOP Chair D'rinda Randall - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPckExTFZVV3cxUnFFcnVrTkFIbGtqTElpY3FiNDhSQUJDUS16S1RaUElfaTZvQ2xpOEtVZmhKMy1Sanl1NlplOFpSVklabl9TeWh4ajVaU1pnNU5ZSXdRVnIxd2hPZzJ2dGM5ZTlDaS16cUR1SjM3ZmQzaDBQTFNCRmJWQ193Wmg1NTZ2bjR3?oc=5",
       "pubDate": "Sat, 04 Jul 2026 01:36:00 GMT",
       "feedSource": "google-news-texas",
       "raceScore": 5,
