@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-05T08:06:15.657Z",
+  "fetchedAt": "2026-07-05T10:39:11.510Z",
   "count": 25,
   "feedsChecked": 8,
   "itemsScanned": 157,
@@ -72,6 +72,17 @@
       "pubDate": "Thu, 02 Jul 2026 14:40:29 GMT",
       "feedSource": "google-news-race",
       "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ]
+    },
+    {
+      "title": "Map: Where was Ken Paxton's strongest support in Denton County? - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOY3hJNEg0bW5fTXo0UFBoS1RKWVhXcnBJdGI5QnhJTkVhR2hFVzgxMEhLM285ZXhIb3lrcGdvX29XMjJocnhRSWtLMUNPNzdsU0prSTc3d1BEUGtCRDA4cXVSazZYUWY5STFEOU52UlJyM29uek1zTDJWUkQ3RDFHanRKOW9yTXpQZFFOTDlialZORVdjeHNYRENsYWJlWWpZTjV6MHhPSGxqQ0Y2Y2JQc1h0bFJCbF92enZmT19XVkJzU2k2TEQzcTJJal8wcUl3VDBrVW9VRG5xclZCQzJEc1d3WTBIeFRudG5Cd0NmZFVHZVZy?oc=5",
+      "pubDate": "Sun, 05 Jul 2026 00:04:24 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
       "matchedKeywords": [
         "paxton",
         "ken paxton"
@@ -165,8 +176,8 @@
       ]
     },
     {
-      "title": "Republican midterm convention to be held in Dallas | Inside Texas Politics: July 5, 2026 - kiiitv.com",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQeWJhcEVKWWR2dDRucXBIYkY0TEh1eWxVc29ldDhwa211R2ZabEVpR1VJZUhMVTdMSklITDBHZlRFS3JrVEltdm16X0dQSmVIU0k4WHRiWEd6M3J0ZDlxQzZ0S01yYzZaYUNrd2VFLXd6ZFZYQkF3ME1raVE5VGYyTW9SUU1GNC1iQ214Vjh6ZjJOOU1CTWxEamstLWludFVOTkh3aXJJVmV3NHZUOEJhSkVuRVFTWkVXLW1WbkdMcm9vdTdwa1ZqYmRzdXNSUWdZdlljZU5DcGJaV1dQcDk3aTJESkdMRHlUX3Y4LUVvLW95WFhNOUJ2blowQ2JOOHM1OUYzZGhjM29VQlpCOE02MHkyQVp5Rmt5UEE?oc=5",
+      "title": "Republican midterm convention to be held in Dallas | Inside Texas Politics: July 5, 2026 - newswest9.com",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNV1hUYWVLemNyUzloZXFpYzIza1FPc3kycGFnQUZYLTh6SHRoOVZFYXVHOEZfdnR0NTEwbThINTFONTlwTTl1R004dWFMVzBTZ1NWS1VJcDdKWUxyUFl0dVFpSWZpYVNERVFSSUVocUFJWFNnaDlONXVOeHFWSk1IUXJ2OGZqN0tQb1I5SWNqQjVoal9CalNfUFBwTnJCRGFqd1JmSU1Zak9CZmlvTHhXTjN5eUhXRzlNdUhtUExleElPaDFzSDhNSkNpMU1UWVl6akVuNlY0S3N3Q1dwOFVfT0JIMXpDMFdSdi15bFR2ekkwbDdyaFJWZUl2NTdfVEhweE54VXZxZDVxVU9zUTktVjluVU5oRjRieXBnbXJn?oc=5",
       "pubDate": "Fri, 03 Jul 2026 22:27:00 GMT",
       "feedSource": "google-news-texas",
       "raceScore": 6,
@@ -192,6 +203,16 @@
       "raceScore": 6,
       "matchedKeywords": [
         "paxton"
+      ]
+    },
+    {
+      "title": "Inside Texas Politics - KVUE",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTFRFbTNKRWtqVG9yTy03YlRWc09ta21SQVlQaENoeDMyN1kwNFcwcmRUSWJrbUducEpRWnpOTVJDckx3bXpmTzZaNncwR3RtRXVhSUwtdmMyd1VVZXdZclFsTlVQR0VDSm9kQ0EtNWppUHVQNFlYZGZENkNOdElwb2Z3aEZBTEowQTZ6WWZrZHRzaHdBY0lFZ1BzeEt5WnhzU0NIcnhDODkxZw?oc=5",
+      "pubDate": "Sun, 05 Jul 2026 10:30:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas politics"
       ]
     },
     {
@@ -252,26 +273,6 @@
       "raceScore": 5,
       "matchedKeywords": [
         "cornyn"
-      ]
-    },
-    {
-      "title": "Polling: Texas' U.S. Senate race statiscally tied - The Center Square",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONjd2MC1aYktSY2lfdFJjUkppVmszMXNsT1pta2kxbnhnWjRNWGlnSVREX2pmSzlPMF9ETVkxMTdmTFFIXzlNVTdiVGFFM0RoMWlkWGg3OXlHQWxvZE1YWC0xdGZDdC01LTluMzlSaVBuS0xFLXdwR2d0NG1nRy05MnhhWkt3b3hYTkV1dXdPX03SAZYBQVVfeXFMTl9DbEF3R3FHcUY4RGg0d09zbjkzS3N1Y1ZBeENma25aUWdCdllRV0tRMXM4c0FVUTdwY0NjZXZPNVh5RVM4eVFwS213VW5DUmhaUFdIYjlodUFUa3Zmdk5Qa2tpN3poUUY3dDRRSVFBcTdIbVNWZFprbmNVa3FiMWRLSmhvTzc1b1J1Q2RsSTBaT2tiaW1R?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 20:58:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 4,
-      "matchedKeywords": [
-        "senate race"
-      ]
-    },
-    {
-      "title": "Texas U.S. Senate Election 2026: Latest Polls - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRnFTY28wbS10QjZaN2NoLURKTUNYNkRlVXJFenVsTWphQVBQS2lySHdTOVVKTGhSSVRsX2JSeVEwUE9hMWpVdWU5Z2JESHJSalV5ZFEtQm5sTzY3LWQ5NFR3WjhLeE9IaUQ4VDRoZkhUOHRxQkc1cnR1TG5YVThJLVlJeW10QkxBYVE?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 17:35:06 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 4,
-      "matchedKeywords": [
-        "senate election"
       ]
     }
   ]
