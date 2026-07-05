@@ -1,9 +1,63 @@
 {
-  "analyzedAt": "2026-07-05T05:41:33.442Z",
-  "newsFetchedAt": "2026-07-05T04:41:51.571Z",
-  "totalAnalyzed": 40,
-  "newThisRun": 2,
+  "analyzedAt": "2026-07-05T09:12:39.862Z",
+  "newsFetchedAt": "2026-07-05T08:06:15.657Z",
+  "totalAnalyzed": 43,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Texas Senate race now a tossup - MSN",
+      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNc1RJY2xnSUxRRGR0SVZSdkUtREpDRFMyb1pLUDdzelZIUXFRam52Zks3N2lQWVJ2M1d0aExNZHBFT2hGWXNtcjAzZXAxTkdoT01hVG9OeWRZQjJwcjM3T2pSRnEwMTZyelFkeE8tYmNKb0VUemJBR2E1RjEyaGFuNHp1MF81SXlySU5rclNUUzNsSC1vZE1kWmdsLUpoZXM0X2NaQTV4dGdsaEUwUnZJcjdQVFVjdG5oc0t1VXZ4aGFFVjFaZmdKYmNxZGo4S282TDRGenpMbFFmeTZycFA3aXFkU25XMHBxX1NDb0NRcmlKazRxZE1HZ2xzWFBxbUhieTdicHlGc2JfNV9sOTQ3VHdMTU9Vb1RZQ0x1MTFhdFFZR1YxZmdWQTVEbHp2Tzdpamh6SHpVNktNMG5RNlA4MnVxNkVNSEs0cnZwNlJn?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 11:18:54 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.029,
+        "negative": 0.971,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "Emily Compagno calls Texas Democrat Talarico ‘demon in human skin’ - eciks.org",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8yYXZDbS1ldDJNZENXRUVya3hQMlJwd2FrRVN0QUdkNmJFZS1EdHBFRm5aMXFFSjJIaDlUREFSUDg2Q1phWUxSZmN4bDFIRXhGUEctbE1udTh3Z1ZmVVhwLU1NY01sbHdrMWxRa3htV2RQUEVV?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 17:08:49 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 9,
+      "matchedKeywords": [
+        "talarico",
+        "texas democrat"
+      ],
+      "sentiment": {
+        "positive": 0.023,
+        "negative": 0.977,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "Polling: Texas' U.S. Senate race statiscally tied - The Center Square",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONjd2MC1aYktSY2lfdFJjUkppVmszMXNsT1pta2kxbnhnWjRNWGlnSVREX2pmSzlPMF9ETVkxMTdmTFFIXzlNVTdiVGFFM0RoMWlkWGg3OXlHQWxvZE1YWC0xdGZDdC01LTluMzlSaVBuS0xFLXdwR2d0NG1nRy05MnhhWkt3b3hYTkV1dXdPX03SAZYBQVVfeXFMTl9DbEF3R3FHcUY4RGg0d09zbjkzS3N1Y1ZBeENma25aUWdCdllRV0tRMXM4c0FVUTdwY0NjZXZPNVh5RVM4eVFwS213VW5DUmhaUFdIYjlodUFUa3Zmdk5Qa2tpN3poUUY3dDRRSVFBcTdIbVNWZFprbmNVa3FiMWRLSmhvTzc1b1J1Q2RsSTBaT2tiaW1R?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 20:58:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 4,
+      "matchedKeywords": [
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.081,
+        "negative": 0.919,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W27"
+    },
     {
       "title": "Texas Senate race now a tossup - MSN",
       "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPQ1Fjc1ZOWU5XbUZEX1N3alBfaVpvakFYVE0zTDlVNTRpQkNJOFlPQmxMUTQtaWRDd1ROS2tOclE5OWdsb2NzXzRlWWxIMjc5REQyQ3ZlQWYyQ05mQXRBcjQtTFR5YkwwTHpzQ1lLUXJDRnM5cXlqRkI1YWNMV3JKRnhLbVJMY0UtRFZvN0pyMVFneGtfc0E1QlRsTnpFNzlnQUNjVU8zaFd0eHNLZkl2V1p0dkJSdFVFNXZpVW55MVNUbG82WjZtRzFnZHFqTVVxVW10dzZHOENGalZ2ZF9KNWNkRzJkUWJ3ZGxhUGduaXpSUG4xMjROcDB6NVJZMEhTbi1zOXZSLVI3MTZyNTViRkFlZDdEWVRDdnZIamFlWlRLbWtFNDJUZ2haM1F3c2NnakE?oc=5",
@@ -728,18 +782,18 @@
     "2026-W27": {
       "general": {
         "positive": 9,
-        "negative": 6,
-        "total": 16
+        "negative": 8,
+        "total": 18
+      },
+      "talarico": {
+        "positive": 1,
+        "negative": 9,
+        "total": 10
       },
       "both": {
         "positive": 1,
         "negative": 2,
         "total": 3
-      },
-      "talarico": {
-        "positive": 1,
-        "negative": 8,
-        "total": 9
       },
       "paxton": {
         "positive": 1,
