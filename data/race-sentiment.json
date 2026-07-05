@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-07-05T22:05:54.565Z",
-  "newsFetchedAt": "2026-07-05T21:35:00.696Z",
-  "totalAnalyzed": 53,
+  "analyzedAt": "2026-07-05T23:36:46.448Z",
+  "newsFetchedAt": "2026-07-05T23:06:39.257Z",
+  "totalAnalyzed": 54,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Inside Texas Politics | Full Interview on GOP Midterm with Kendall Scudder, Texas Democratic Party - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNVhGOWdoU0UyUl9CMzB1ZmwzUmFCNDJ4TndGclVLNUhuR25XM3NmZDVhaDZkU2lEcV84ZUw1c182ZC1BcWNwNjFtN0tmbFJydm5jWFhlSUhmRnQ2ME5sNTctZTZ1eTYyNEExdzJmbk1Za3ZYLUREV0FiTkNRZTNRTHAydDhsNHhYLTY4Q3Nn?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 01:36:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 8,
+      "matchedKeywords": [
+        "texas politics",
+        "texas democrat"
+      ],
+      "sentiment": {
+        "positive": 0.93,
+        "negative": 0.07,
+        "label": "positive"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W27"
+    },
     {
       "title": "Inside Texas Politics | Full Interview on GOP Midterm with Kendall Scudder, Texas Democratic Party - Yahoo",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd0lVN2E3VU9ZVXBpSEM4SXZqRWFjR2NhblpzcFNHVmw3V0hVM3p2SGlBZVktbEJYUkRzUGdhSk1nUFJBa0dBNkFhajc3blRuNTEtZV9hU0ZqT2Y0YXVSeHZiNjJHRHJFb1BUTnM4ZWFaUmpDb1puUEpmdUpKOUJsRFRxWDRlMWZXa2Z5OEtB?oc=5",
@@ -955,9 +973,9 @@
   "weekly": {
     "2026-W27": {
       "general": {
-        "positive": 15,
+        "positive": 16,
         "negative": 9,
-        "total": 25
+        "total": 26
       },
       "both": {
         "positive": 1,
