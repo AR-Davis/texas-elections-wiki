@@ -1,13 +1,53 @@
 {
-  "fetchedAt": "2026-07-06T06:03:41.064Z",
-  "count": 15,
+  "fetchedAt": "2026-07-06T11:13:35.005Z",
+  "count": 19,
   "feedsChecked": 8,
-  "itemsScanned": 151,
+  "itemsScanned": 171,
   "items": [
     {
-      "title": "Texas Senate race turns into political food fight over eggs, grocery prices - Marshall News Messenger",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYVpkVjdLTzJBWDYtVHhrT25Mbmx2Z3VKZVN0ZV9kcTJBbG1TVVBGbkUzOGJ0T0w4SEI2c2MzeS00RTAyUW9vNDN3WUVwMHNWSTRacnhQWDktUU5zNGFCNjhOVEdLMFB0Wlg4azktUTJ6SHFjLTRBQzVuclJocjd4YzlFb0VsV19YQU9XeHhwMmt4Tm1xSDRTSEdlSDdkTUw3aFNtd2JiLU5faE4zQ1hKcXlSSEFQVF9NeVFxbQ?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 10:43:40 GMT",
+      "title": "James Talarico expected to be defeated by Ken Paxton in Texas Senate election - Sky News Australia",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObFdrVzkycm9DSUtRZFdoRU9MSDNDeV8tZ2Q3cUtlR1JYYzkzcEcwM0k3VEtlaGRJMmRYRzFyV3dRMElaR1pmc2laN0pOb0x2cnF4TXp2Y3llUXZucHRDZGlhMm96VXZsc0w0UGxMdE0tZjItQ3FqMDdHS2xKTVp4Sm5WSUJWNnFTUTg0YlM1cGZ2a0lIMXFjZDlyTzJhS0haRmo0SlNydHBaY0I2YnlpOXhmOFVtbFR5cjZHYjZST0lBVm1CTnJPbm91R01jTnR6SlZsaExVTHBXZWdXRDRxMlhVUGRwQdIB6wFBVV95cUxNRFdJRUhjVFVfSlZsNk56VDZQazU2UGdSU3YzNDJLTzNmdTdZUURqT2RYQUR5cUladFJ2SjZkRG5rVTdsak1oYzZBMHI5ZjVMTE1IOWRiUU42N1VIT2oxME5VNUhiRVh4eTdvSUVRTkw5ekc2d1Q4R09BOUJBRFp3bXpvUDAzOEpmWlA1Nzd3SUQ5TFdRYVBJbXA5WjVieDhHNDY0QXNLSmRaRVM5NkhpZ1o2RHVIVDBoWjYzMGViU3R5dlA0X1lKVENsWTVCdlVVWHpILXJYdk5WNlg2ZS1VXzYzdFVhaUdOWVFv?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 07:20:20 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 31,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate election"
+      ]
+    },
+    {
+      "title": "Why both Ken Paxton and James Talarico should be nervous - Austin American-Statesman",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZVBrNml2SWp6a1hUOWs0Ti1oeTZkOHcyRjhpdkZ6VUM4N2hTTFYySXZ3UVZieDBpZzMtdXlhWnpvRVBpaXlOX2wwdVJ0MlRJTmFvYnU5clZYUEpES0hYaktXVjdRakNRTlpDM1NXQmZSdGJ6ZnZKSTZLV2lzbXRZX2lfUlk0N1NuaWw4RFRpQUlzNjl6YU5Cbnd3?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 10:04:19 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ]
+    },
+    {
+      "title": "Battleground Texas - The latest in the Texas Senate race ahead of November election - FOX 26 Houston",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53X3oyZ3NQR2Q2MkhDUF8tNnItbFhlNk9pdHdUZ28yOGdaSENpb2RCRzVoRktFbHlVQnI0UGZ5MXhZX2xFeUg5aVZ4VUxRNmI5U1NhRUdpeHRnS2NDeVdMZV9vV0M2cjhnNGo40gFrQVVfeXFMTndfejJnc1BHZDYySENQXy02ci1sWGU2T2l0d1RnbzI4Z1pIQ2lvZEJHNWhGS0VseVVCcjRQZnkxeFlfbEV5SDlpVnhVTFE2YjlTU2FFR2l4dGdLY0N5V0xlX29XQzZyOGc0ajg?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 01:00:25 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ]
+    },
+    {
+      "title": "Texas Senate race turns into political food fight over eggs, grocery prices - Tyler Morning Telegraph",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdm1QZ3NXc3ZkVGhFSHFkMjFtMnN3Y2dBOURsTEZwdGNJa0pNZEdtN0NHN2lLNXZzbFVWWlVITXpweC1QemRLQWptbnJ2OURrOGtCVzNhMHRCc3psSHExSGlkSzhtbEcyenRubVF6bUR3dTBqbmgwYXAwcndGRmt3LUNfZk9jOEZQckVjdzdWUVJPWWVfN0tpczNRR1NqOTNMaW5XQm95U21HR3p1c2c?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 09:51:24 GMT",
       "feedSource": "google-news-race",
       "raceScore": 16,
       "matchedKeywords": [
@@ -125,6 +165,16 @@
       ]
     },
     {
+      "title": "TX Senate Rundown: Party of Clinton dings Paxton’s trip with girlfriend | Opinion - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KRkFkMEJTVjJOZUk3MUdBbFZhRXhiZWR3VmI1Q0pqSEQwVjYtNm9BTUE3b0U3UnZwUnplUHk3dmtzVXB2X0hSa3A2eTNLNjZjRW9BUzhMUFF0bVJMZjVHU0FIa0tIeEVPd19IcV9qc0JvY0FGelZDSm40Yw?oc=5",
+      "pubDate": "Sun, 05 Jul 2026 06:01:27 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "paxton"
+      ]
+    },
+    {
       "title": "State of Texas – The first Travis County flood 9-1-1 call - KXAN Austin",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWEVfMHM0LW9iajBtb2dadU9Zdk9QUGhTSnBWb2MteThsWlJsV3Z4Q0YzeUliaEVOOHlEZHRHM2JYSFljOGNlYnpJYmd6bWhzbmVtN0xQb0xyckhRd25qX3BESnAteFdURHdnM0NhNzd4cW1OUGhMMUJiTGVZeHlQX1RpSGhRcWpaMG9jWklBNHI1UkNqcmhR?oc=5",
       "pubDate": "Sat, 04 Jul 2026 19:44:00 GMT",
@@ -135,9 +185,9 @@
       ]
     },
     {
-      "title": "TX Senate Rundown: Party of Clinton dings Paxton’s trip with girlfriend | Opinion - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR3hpX0xWWW5iYmJWWnZEdWpMSmpZUktDdmx4NFg3TEwxUHpxUEZQQVJXbjJNY2ZMSWprRHR5dHBfekpGZnppRE1lSVU2UGJ1VkNvZ0dRcVRucFVfenBUVGI4dWtvaVg2VXFRdUdvdDNFT2xLTE04OWhXNWZSTzBWVk9wZm9NbGR2UzF0djJPbWNrbzdkeWc?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 10:04:00 GMT",
+      "title": "TX Senate rundown: Party of Clinton dings Paxton's trip with girlfriend | Opinion - MSN",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOME9wS3VQV1E1VlE2XzhKS2p6dDVzUVhJLTUyU1FUTDFPLThuWUROVF9idTNwMkRRSEpxOTRyQzJTU1IwTDkwc05HdnprQkI1dWZmeUZCb1l1VmFnaHdGTklOdm5neDJua0JFMUlSTTNIVllfdHo3RnA0ZkczYTYwQXdhTGZyLWdBdlpXZjVKV3RLTGlwZ0hvYzF1QWp3U1E3dERMMDZnVjQ3M3IzMU41WEtSLTF3LUF0M2hDS1QyVU1QWjlaLXVsZGJR?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 15:47:01 GMT",
       "feedSource": "google-news-race",
       "raceScore": 5,
       "matchedKeywords": [
@@ -145,13 +195,13 @@
       ]
     },
     {
-      "title": "Opinion: Texas GOP platform steeped in undemocratic ideas, intolerance - San Antonio Express-News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTVJFX2VzMDVCdTlpX0NRdWlSRnY2MTdBRlhWa2ZHM1prT1JPUDFMS3hLMkNCWW1hSDN5T0xGSjRlUEhtTjJYaVFodHFiVGtBVG92TGUzLWRfY2psaGxMMlBDR05uZk1fc04zMWVPZERLblIzU1JPaDczMlU5b2hvX2N3R3ZNZjRRRndmTFkxNnEtSjVFMEYyQWdxVjA2bHR1?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 09:05:55 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 5,
+      "title": "State of Texas – The first Travis County flood 9-1-1 call - Yourbasin",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSEVUWGdsVjBsOHljR2J3WVI5SE1DNHo2QnhqekJCYzBOemstQ1Z5VkloWG0zQ21uWGt6Q0tvZGVxRGJ3Vm9ZX3BqWlJXNnZKSWM1b3o1X1NTY3VTRHRFRG1VZXV4bzZ4YW1ySFh0dVdrSDN2WUVRU2dVMHpnYXVjVkpjNTNfYlI3dVlXa21XRy1WQzF2bGlMUjY4M2pSUQ?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 03:28:48 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 4,
       "matchedKeywords": [
-        "texas gop"
+        "travis county"
       ]
     },
     {
