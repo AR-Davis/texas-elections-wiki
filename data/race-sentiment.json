@@ -1,9 +1,44 @@
 {
-  "analyzedAt": "2026-07-06T12:53:34.878Z",
-  "newsFetchedAt": "2026-07-06T11:13:35.005Z",
-  "totalAnalyzed": 63,
-  "newThisRun": 7,
+  "analyzedAt": "2026-07-06T18:27:04.532Z",
+  "newsFetchedAt": "2026-07-06T17:48:04.062Z",
+  "totalAnalyzed": 65,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Paxton blasts Talarico over 'transplant' jab tied to military family - El Paso Times",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTDhjY0NaeVNJNGFQM29ObDZmZjh4STJ3WTZYdnh6RmN4RFltSktyY1hwQ3hEVzYweWI3eU5ZNUh5SkFEdHA5TWxvQlptZVpTaU04YU1zRlJfRTZ3UjJkZHlKcmZlWmdIVldjY0FYdWh0YlloYmFHOWMybGZDWXBTc1FmVnlKV2h5LXNZN3ZMTXpzdlAzUXdvZjRfSjcxdWtQUEVrRnYwaXdIQzZDeGhPTjd2V3psNDl2Zkt3UDM2akV4V2lNWGQ3MHJwcDA4R2p5ajloeV9PSGFMMW5FUFlaaWF3eWtLaFNyc2JCU2ZR?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 14:50:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": {
+        "positive": 0.057,
+        "negative": 0.943,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "Holding Pattern: GOP Maintains Slight Edge in Senate Races - News Radio 1200 WOAI",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdVJBa2xsMkkxakZLWkloUmRxN2lkSmMxUlROQWtaWGFERllXM2ZodXY4bGtVZy1qNkFjSDlIVk9UOUw0V2Z2NGFoMHdYYVltVHB5WE8teGNfaXJGRF9aSVZmLW40V3RVSmdZWGZHWXpYaEpoaXN5QUs2QXNINzNCRTk4TVNkNkt6Zi1JM3czYi1DaUhhMEd0NUxUNmdqX014LS1hZ1FoamZxSGZGQ19Mbm9UWVpYTXJEZHBrNUlKckc2Znk5YXZ2dw?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 08:30:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 3,
+      "matchedKeywords": [
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.199,
+        "negative": 0.801,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W27"
+    },
     {
       "title": "James Talarico expected to be defeated by Ken Paxton in Texas Senate election - Sky News Australia",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObFdrVzkycm9DSUtRZFdoRU9MSDNDeV8tZ2Q3cUtlR1JYYzkzcEcwM0k3VEtlaGRJMmRYRzFyV3dRMElaR1pmc2laN0pOb0x2cnF4TXp2Y3llUXZucHRDZGlhMm96VXZsc0w0UGxMdE0tZjItQ3FqMDdHS2xKTVp4Sm5WSUJWNnFTUTg0YlM1cGZ2a0lIMXFjZDlyTzJhS0haRmo0SlNydHBaY0I2YnlpOXhmOFVtbFR5cjZHYjZST0lBVm1CTnJPbm91R01jTnR6SlZsaExVTHBXZWdXRDRxMlhVUGRwQdIB6wFBVV95cUxNRFdJRUhjVFVfSlZsNk56VDZQazU2UGdSU3YzNDJLTzNmdTdZUURqT2RYQUR5cUladFJ2SjZkRG5rVTdsak1oYzZBMHI5ZjVMTE1IOWRiUU42N1VIT2oxME5VNUhiRVh4eTdvSUVRTkw5ekc2d1Q4R09BOUJBRFp3bXpvUDAzOEpmWlA1Nzd3SUQ5TFdRYVBJbXA5WjVieDhHNDY0QXNLSmRaRVM5NkhpZ1o2RHVIVDBoWjYzMGViU3R5dlA0X1lKVENsWTVCdlVVWHpILXJYdk5WNlg2ZS1VXzYzdFVhaUdOWVFv?oc=5",
@@ -1140,13 +1175,13 @@
     "2026-W27": {
       "both": {
         "positive": 1,
-        "negative": 5,
-        "total": 6
+        "negative": 6,
+        "total": 7
       },
       "general": {
         "positive": 17,
-        "negative": 11,
-        "total": 29
+        "negative": 12,
+        "total": 30
       },
       "paxton": {
         "positive": 1,
