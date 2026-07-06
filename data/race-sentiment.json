@@ -1,9 +1,26 @@
 {
-  "analyzedAt": "2026-07-06T04:01:28.163Z",
-  "newsFetchedAt": "2026-07-06T01:16:55.275Z",
-  "totalAnalyzed": 55,
+  "analyzedAt": "2026-07-06T08:38:15.637Z",
+  "newsFetchedAt": "2026-07-06T06:03:41.064Z",
+  "totalAnalyzed": 56,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "TX Senate Rundown: Party of Clinton dings Paxton’s trip with girlfriend | Opinion - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR3hpX0xWWW5iYmJWWnZEdWpMSmpZUktDdmx4NFg3TEwxUHpxUEZQQVJXbjJNY2ZMSWprRHR5dHBfekpGZnppRE1lSVU2UGJ1VkNvZ0dRcVRucFVfenBUVGI4dWtvaVg2VXFRdUdvdDNFT2xLTE04OWhXNWZSTzBWVk9wZm9NbGR2UzF0djJPbWNrbzdkeWc?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 10:04:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "paxton"
+      ],
+      "sentiment": {
+        "positive": 0.002,
+        "negative": 0.998,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W27"
+    },
     {
       "title": "How James Talarico Is Trying to Win Back Latino Voters One Soccer Match and TikTok Video at a Time - inkl",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUFM2RU1sSVZQelI1OTlFcUJKTlhRNkt6OWZvVU5RT2xka0Z3TWp0TUprY3J6NUFYUV9MMnJDQUZma1Z3WDhXVzU0UkNGeHk0T3p0dG50bVJqN2FoN2RFM1hPSXFYUVZtZzYwbmNfNjIwODllaUFScGtKMzB0eUFjTkE3RzdvMU9lOGZycTlvUmpLSTJnNlZ4NngxdjJwQUQxeHlfYktlVjBDQVNGU2MtdEk0MjZ0TnJCUklCQjd5RDNQZw?oc=5",
@@ -990,6 +1007,11 @@
   ],
   "weekly": {
     "2026-W27": {
+      "paxton": {
+        "positive": 1,
+        "negative": 8,
+        "total": 9
+      },
       "talarico": {
         "positive": 1,
         "negative": 11,
@@ -1004,11 +1026,6 @@
         "positive": 1,
         "negative": 3,
         "total": 4
-      },
-      "paxton": {
-        "positive": 1,
-        "negative": 7,
-        "total": 8
       }
     },
     "2026-W26": {
