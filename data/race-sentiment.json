@@ -1,9 +1,28 @@
 {
-  "analyzedAt": "2026-07-06T21:56:12.073Z",
-  "newsFetchedAt": "2026-07-06T20:06:29.535Z",
-  "totalAnalyzed": 68,
-  "newThisRun": 3,
+  "analyzedAt": "2026-07-06T23:12:30.623Z",
+  "newsFetchedAt": "2026-07-06T21:56:19.472Z",
+  "totalAnalyzed": 69,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "At Dallas campaign stop, Talarico says focusing on costs will help him beat Paxton in tight U.S. Senate race in Texas - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcXJtUDNaRlNyYkV2M2p6RWpIdmxTQVVnbEFONHZET3pMT3Judnlyb3VuUXpQeUpiV0xQMDNEbG5tVjFKRXE3VGVwV0h6ZVg3MHBtWndfSzU1MXdaeHM1Zi14QW9mb3ctcDNOd2FpVF8tUzlwZFRkTllocWNkRERISHBTczNqSFBLaDVManN0eW9EX2NqQ1pQVWUzbFFQODdsS3ZqRXQyUFROeEJpbWxLMw?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 21:51:24 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.05,
+        "negative": 0.95,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W27"
+    },
     {
       "title": "‘The Guy Is A Total Creep’: James Talarico Faces Backlash Over Social Media Posts - Dallas Express",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaGJxTmJUbWhwMmVtSWY0dG1US1Q2YUtCY3hFVm1FbjU5NkhHYkxXamU3ekU3bzA0YjBORHJGYkZyNXhRaGZYMG9KZExFaEs5UEt3aTEtMEJnYVpyMDkwNWVSdGxBZmZEX1hPLUJ3V21SUDdEMHZZREx5OUdxc24yWmlJYkpqMWR3bmZGX0hjTnk1ZjIyRzI3UmstVEJLc0xJVTQtdF9CWk9lTEE3Sm5EZTU1Y1c?oc=5",
@@ -1225,6 +1244,11 @@
   ],
   "weekly": {
     "2026-W27": {
+      "both": {
+        "positive": 1,
+        "negative": 7,
+        "total": 8
+      },
       "talarico": {
         "positive": 1,
         "negative": 12,
@@ -1234,11 +1258,6 @@
         "positive": 3,
         "negative": 10,
         "total": 13
-      },
-      "both": {
-        "positive": 1,
-        "negative": 6,
-        "total": 7
       },
       "general": {
         "positive": 17,
