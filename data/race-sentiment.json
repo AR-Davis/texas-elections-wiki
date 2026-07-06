@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-07-05T23:36:46.448Z",
-  "newsFetchedAt": "2026-07-05T23:06:39.257Z",
-  "totalAnalyzed": 54,
+  "analyzedAt": "2026-07-06T04:01:28.163Z",
+  "newsFetchedAt": "2026-07-06T01:16:55.275Z",
+  "totalAnalyzed": 55,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "How James Talarico Is Trying to Win Back Latino Voters One Soccer Match and TikTok Video at a Time - inkl",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUFM2RU1sSVZQelI1OTlFcUJKTlhRNkt6OWZvVU5RT2xka0Z3TWp0TUprY3J6NUFYUV9MMnJDQUZma1Z3WDhXVzU0UkNGeHk0T3p0dG50bVJqN2FoN2RFM1hPSXFYUVZtZzYwbmNfNjIwODllaUFScGtKMzB0eUFjTkE3RzdvMU9lOGZycTlvUmpLSTJnNlZ4NngxdjJwQUQxeHlfYktlVjBDQVNGU2MtdEk0MjZ0TnJCUklCQjd5RDNQZw?oc=5",
+      "pubDate": "Sun, 05 Jul 2026 16:45:17 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.009,
+        "negative": 0.991,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W27"
+    },
     {
       "title": "Inside Texas Politics | Full Interview on GOP Midterm with Kendall Scudder, Texas Democratic Party - Yahoo",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNVhGOWdoU0UyUl9CMzB1ZmwzUmFCNDJ4TndGclVLNUhuR25XM3NmZDVhaDZkU2lEcV84ZUw1c182ZC1BcWNwNjFtN0tmbFJydm5jWFhlSUhmRnQ2ME5sNTctZTZ1eTYyNEExdzJmbk1Za3ZYLUREV0FiTkNRZTNRTHAydDhsNHhYLTY4Q3Nn?oc=5",
@@ -972,6 +990,11 @@
   ],
   "weekly": {
     "2026-W27": {
+      "talarico": {
+        "positive": 1,
+        "negative": 11,
+        "total": 12
+      },
       "general": {
         "positive": 16,
         "negative": 9,
@@ -981,11 +1004,6 @@
         "positive": 1,
         "negative": 3,
         "total": 4
-      },
-      "talarico": {
-        "positive": 1,
-        "negative": 10,
-        "total": 11
       },
       "paxton": {
         "positive": 1,
