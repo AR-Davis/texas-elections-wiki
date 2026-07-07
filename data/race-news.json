@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-07-07T12:30:47.068Z",
+  "fetchedAt": "2026-07-07T15:45:40.706Z",
   "count": 23,
   "feedsChecked": 8,
-  "itemsScanned": 170,
+  "itemsScanned": 171,
   "items": [
     {
       "title": "James Talarico expected to be defeated by Ken Paxton in Texas Senate election - Sky News Australia",
@@ -38,6 +38,30 @@
       "pubDate": "Mon, 06 Jul 2026 01:00:25 GMT",
       "feedSource": "google-news-texas",
       "raceScore": 17,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ]
+    },
+    {
+      "title": "Paxton’s defense attorney endorses Talarico in race for Texas Senate seat - Washington Examiner",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qTTdiX2pudS1rSWZXVm1pWmRHOFVoLThhc0pTcFIyWXFSX2tFaWhZakkwZlBQUm5nakVtWVFiNnpYTDNnRjFnY1lVUktJTWxpSkJMcWVhWUo3bThw?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 05:26:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate"
+      ]
+    },
+    {
+      "title": "Battleground Texas - The latest in the Texas Senate race ahead of November election - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcTJuRC1GTFNNWkJfNm5FcmJjWlBzbEtfempRTnluQWNxU0N0VkNWVlFVR0ZocWxvMW1laXZjU0I3OFRqcWJRZHRCWU01MWdnV2loM0lHZFlsZ1FzQU5wV1J4eWtmRmRxMTRSNGlJX1RyOFBzYW13RnpxZkJpSmNKcXFLcFF2MGNBYVZQQXRwV3E?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 01:00:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 16,
       "matchedKeywords": [
         "texas senate",
         "senate race",
@@ -112,14 +136,14 @@
       ]
     },
     {
-      "title": "Joe Concha slams James Talarico: ‘There’s too much for this guy to play defense on’ - Washington Examiner",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU1d4ZS13V0EtWFVuTDUzaHFTQnV5WGRNb0c0RHlrTTFjXy0wc2lPZDg1RkhvSTk4U0FlcEdXNkhqQjJFV1BIY2hoa01VSVlKeXVLSThlWFNrTVkydDdiWnVlbnd0OE9KV3RrNzVkRjU2NV8wcDRJb3FDMzhvSk0xeXA3dWxheXdEd3hBYTZpWUk?oc=5",
-      "pubDate": "Sat, 04 Jul 2026 15:24:00 GMT",
+      "title": "Senate Leader John Thune and other Cornyn are rallying for Paxton at fundraiser this month - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRWV5ZVpmLUxETUtUT1NqYXFNdHVNbFdOTnRySkRBU1AtdzBjRjBJMkdtWDdaekFwODBFT2J1NHdlR2tSQ0hyNFdHeDc1Q2pYZnZVZFktMHhIZXNQNXBWMEFWWUViY01MMmhXeVh0azBNSE1QdWQ4U2taakVfYmc5OVpTN1FYNm1UWGhZbkhzSGQwRGZLUDUxSzVBcF8yaXc?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 15:36:58 GMT",
       "feedSource": "google-news-race",
-      "raceScore": 11,
+      "raceScore": 10,
       "matchedKeywords": [
-        "talarico",
-        "james talarico"
+        "paxton",
+        "cornyn"
       ]
     },
     {
@@ -127,6 +151,17 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQnExWnVFczhTdXdtUDJpY1JwS1VkWG04MktESHJCWW05QXdwRk9qN2h6QmltODJRekNqVmdTR1NzOUlTU3ZfOGQtTEY1WmZHbG1SNHBRUW41NHRVcDhONDlnUnZHaUphUWloX0VfUW1oRmZCYy1jNXF6dzZ3WTNaYkl1M3RDS1dSbXRTWEI3U2xsUTZKcEZnM19YZFpUcE9tc0R5UUlTN0xRd1hQeUpyTGIxRjBaUVhnYjhtd2tZSXN2ek1ldWE2VjEwc3RYbkxrb05CNFNB?oc=5",
       "pubDate": "Tue, 07 Jul 2026 10:01:00 GMT",
       "feedSource": "google-news-race",
+      "raceScore": 10,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ]
+    },
+    {
+      "title": "Paxton and Talarico are in a cage match for a Senate seat. Suburban Collin County is a battleground - KERA News",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMEp2bF9FdFdmT3NfdlpYZ19kTTlLcks1cnQ0S192RjdhcWQ5SW0tSzJJSGpRX2J2eDFqWGRrTDRkLTN6dGR4UTFjZk9HN3JHY19jdkF3Q2J6QkJaU01CY0FEMk91Rk44bXQ5Wk9xWUZ1enBDN0l4QW1BSWpOMnZ3c0NHMy1GMnd4eFlvUm9TVDM4NDV3cU9kdTdrVmd5eHMtRTMxMkJxdDZqaWR0ODRaN1QwaVlnTVNVVE9oZ0ZIaUs2a1Y5SWUzdDRfVVYwUTNVX21vSHhKcTNuMVJfZU5tYi1OQQ?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 10:01:00 GMT",
+      "feedSource": "google-news-texas",
       "raceScore": 10,
       "matchedKeywords": [
         "talarico",
@@ -146,7 +181,7 @@
     },
     {
       "title": "Talarico courts North Texas voters in tight Senate race - MSN",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU1VKN0VUYVVzR215eTE1dHJvdGRwZ1RwdG5XTEZheS1vSFBhTmdHZHpIeEotSGxESF9NeTVoUHBwSnBuZXRQQVQ2cUdkU2xpYlAwd3JfRE9rLWNoV2JOWDRHZjJ2YlVRcGpvOEFsY2Mxdm13WldjN3dFY2FEMHJZU2ZDYTAwYVpLdjJuWVM1SjZ6ZVFyM2c4dVBEVnRjbzRBdl9lVEEwTmhFTFlZRDY0VGpmM0NHR2g1SUFhTmdlNUFwb1V5VkYtZk5QQTB4MTFM?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQakNrUDEzVkhWQUdHVDFHU2YzNHZzdWZ2bGtiemRrenBTM0pIM1E2LVdqZFM4aVdHc0ZUNXptdEFtbzhDZlFBcVZwT1l5bFZCTkZHeDFWOVRHODJ2UUNjRl9BVEdkRS1LZVl6ekIyczFSTWgzX0VrYTNDQkI4c1lucGIxaVZUWld1WTB5SUhaUkVwOWtTRTd0VC1CSkhqUzhyQnJpM1g4R2ZnVmRna3c?oc=5",
       "pubDate": "Tue, 07 Jul 2026 03:16:39 GMT",
       "feedSource": "google-news-race",
       "raceScore": 9,
@@ -189,6 +224,27 @@
       ]
     },
     {
+      "title": "Texas Democrats turn on embattled Maine Senate hopeful after assault claim - Chron",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT1g5Vm5CLXFpVVdmcGxxaGRfR2t0b19hb3FsNnJYU0xRbHVJVUdrb1FXTzhRcm82VnBHVzUxZUdSQTR1UllBUmFsUkJQQTJBT1R3ZTFWc1ZKT2RGWE54YTRIOXc4UEZUQjVFQk1wS2lFM1hHQkdUb0RZV0RrWkpqUi1uRQ?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 14:38:39 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 7,
+      "matchedKeywords": [
+        "texas democrat",
+        "texas democrats"
+      ]
+    },
+    {
+      "title": "Talarico talks about 2026's top issues &amp; the GOP midterm convention in Dallas - NBC 5 Dallas-Fort Worth",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYU90b1l0cHJDaG5hQ280dDNUVU5sVEhfTXRCYndMME55M2htUzhHOEZha1QxY2QtNXZGTVNiM2dFX2NURTlpRFFURk40Vi0xMmV6NkNxWkxqQ2RKQzNqWHpCWlBsTDRkb2NzMVNQQUl5a0hFUThFYXkzV0tkOXNYRDRsMEVDR1dLbXZvZnZaT0NkWEhwcEtMX3FSdF9CaF9TcjRlemlSalo5M2t6aExyenJZb1ZkWG5uV0JyejgwYWY5OW1TRHdRWGR2QXFqNXRlNDBsVFIwc0xTZTIzcVA00gHnAUFVX3lxTE1nTmdZeFR1d2hPNk01RXpBSGI1SGJ5YWhyd2pQYkVHRGhxRDZBMEF5VDZVNWNGWVB5aUJVU3FBanJINlIxU0NaM0o0MktVNFhfMVJzWUNCekZuWjBtbzVLbjNzNHJZWkNzZHNFQS04QnV0S2dwNENlR2dJaDlva3lvVnJEODJNMU5Tdld1ckJsbW9abzZKQlNERTB3VF95eXlZalBhWXJXNUVxd3NSNFJxQmJnLXV1Mi1pOV9ranc3bFphOUZGcFhkanZJdExzVUNYNUppekh4N0hkb1ZVdHVJeGZJS1NYOA?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 12:57:12 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 7,
+      "matchedKeywords": [
+        "talarico"
+      ]
+    },
+    {
       "title": "Midterm convention, Tarrant Republicans map strategy: The latest in Texas politics - Fort Worth Star-Telegram",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLVB3d1hYUjg1cXRXQmhpZ3NjQ3gzcy1WN2w0OUYzM1B6TkZmY255eUgtZWJLV2RCWXlMMEQ3WnJqMEhzeUxibk50cHBVLVc5S3Y5Y3FKWnhiUTBDcm5ZUkQzVlFEQVU0OWdPVEZjc3k0Ylk4V21pLVBlRmpSYVZfUHpfWDZud0FUZWRwcXNORUFic0thdlHSAZYBQVVfeXFMUHYwS1E2ejZDS0JNZW90cmswbHR4NDBDMlVtVWtDVGxTc1VkUGNTdER2Um5KLTBCazBlTDltWUtfX3JFalpzclR4WlZzOWRXd3JkeXNnVURJMnppOUpHTjJsV201MkRWOEJMbl9lSy16UngtQ2xKLWxSYmNtVi1uaE5rRkg4X0NpSHdjLWI3NlZsNkdwbnJ3?oc=5",
       "pubDate": "Tue, 07 Jul 2026 09:56:00 GMT",
@@ -206,56 +262,6 @@
       "raceScore": 6,
       "matchedKeywords": [
         "paxton"
-      ]
-    },
-    {
-      "title": "Scoop: Thune to attend Paxton fundraiser - Axios",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJT3BCWFdmeDhLY3B2SUZTal9OQnBKVXhZcTM2UjV0SzdIdGpSYkRSSENiM3hvTmE3dWU4MEphRk91bm5XMEV6eHpfRUx5Q2RZNlJra1AwdU1sUUFGYnQxalkxaktVTUpGVHAwV1R0RE5mVEtuQS1WS0hkWQ?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 07:38:26 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "paxton"
-      ]
-    },
-    {
-      "title": "I’m a veteran. Closing Texas GOP primaries betrays conservative values | Opinion - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOWs2NDlfV1JLTk1xcDdjZUNvVWJ2aElGQTBHN0ZRQi1hV3NVNVdScHV0bzlLVjViVThCblZCdjFNSnMzbV9xTUwtaHExOFNDZGNaS0k0RThWd01qRTg2NVJRSEI4VTNtbTVYQ2lTdjRQZGIxTlVnNEJHMnBOd3E2a0hlUzAxbXV1SG4zaVZwakZuYVpkT1Y4alhWM0hoWjV1ejZkMTRRSW5NNW12Nl82REx1YkpucjBn?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 10:18:51 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas gop"
-      ]
-    },
-    {
-      "title": "Inside Texas Politics - WFAA",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTXFqNm96WXdMd1k1MVFJdUt2SjZrR2llUjBhZk90ejdFMzhXVkNCWHl0OE1TMTRHUjZ3UFA3bjFlalI0dU1XRXhOWUQ5ak1teVMzQWhuY0xmTnp3NExBZEN4YkI2b21NQ3l5Q210Q1pGSk1weXRrUmFmeU9yQ1VEcWhTVmdQbzB2Q2ZsSjJydUdMeFAza1dIWHhGcGcxb29sb1h4UlFDQ3ZBZw?oc=5",
-      "pubDate": "Sun, 05 Jul 2026 14:00:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ]
-    },
-    {
-      "title": "Texas Democratic Party Chair says GOP Midterm Convention a sign of Republican desperation - kens5.com",
-      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNVXVhMzcza0VHbkdBdHVTSjFrczByZ3JLVkY0bFpPU3pGU3k1LVVXcEF3blloQkVma29FWnNSek5uWVZTandiOXVWczNwa2xLSmdSa0dVc3lYeVdQdS1IMW1HU1lCV2VDdGRXb0k5WDFnSFM5QlVTaUF2YUg2Q0JTUDI4MGdNNU9YV09oTVJnTUIxN1FCREFsMS1PU2dtOUVjLTBhd3RHS01ldDN2OTVhVHNFanlXQ05Rbl9FSWdXRll3b0hUQXY1TXBiR2xBWjUyWE9fdWFrUW1ic1pndW5peGdMTlA5cnFSbEZIOHI4RnF1cEZadXRNUmNmRk5xYktETUpDWkhlbzN1TXhUS3BLQzc2TE1IYkVvdGZtQ09IQnFYR1FQNjB3UGg2SHR2UQ?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 22:56:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 4,
-      "matchedKeywords": [
-        "texas democrat"
-      ]
-    },
-    {
-      "title": "Texas U.S. Senate Election 2026: Latest Polls - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRnFTY28wbS10QjZaN2NoLURKTUNYNkRlVXJFenVsTWphQVBQS2lySHdTOVVKTGhSSVRsX2JSeVEwUE9hMWpVdWU5Z2JESHJSalV5ZFEtQm5sTzY3LWQ5NFR3WjhLeE9IaUQ4VDRoZkhUOHRxQkc1cnR1TG5YVThJLVlJeW10QkxBYVE?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 13:32:54 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 4,
-      "matchedKeywords": [
-        "senate election"
       ]
     }
   ]
