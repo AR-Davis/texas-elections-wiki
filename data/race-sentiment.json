@@ -1,9 +1,61 @@
 {
-  "analyzedAt": "2026-07-07T01:17:44.426Z",
-  "newsFetchedAt": "2026-07-06T23:20:45.316Z",
-  "totalAnalyzed": 71,
-  "newThisRun": 2,
+  "analyzedAt": "2026-07-07T05:42:55.287Z",
+  "newsFetchedAt": "2026-07-07T01:18:02.484Z",
+  "totalAnalyzed": 74,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Talarico courts North Texas voters in tight senate race - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTTJKQTREMjVNS05IejBIOXRfb2ozN1VZVEYxRWRycnRxTmN6TFdkQmowNDBVUHZPOTI1MGJPaDUyeVlfbTlERUhoSlhsRml2R3haVE1TTXhYUWdXa1Vxd3dwdjZ5S0VBN3JqNEp1bHYxYmtMN2pCQThCdGNlWFlsbThHU2N2OVJpeHg2aS1WTC1lNEZvLVFN?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 00:13:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 9,
+      "matchedKeywords": [
+        "talarico",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.604,
+        "negative": 0.396,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "Texas Democratic Party Chair says GOP Midterm Convention a sign of Republican desperation - kens5.com",
+      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNVXVhMzcza0VHbkdBdHVTSjFrczByZ3JLVkY0bFpPU3pGU3k1LVVXcEF3blloQkVma29FWnNSek5uWVZTandiOXVWczNwa2xLSmdSa0dVc3lYeVdQdS1IMW1HU1lCV2VDdGRXb0k5WDFnSFM5QlVTaUF2YUg2Q0JTUDI4MGdNNU9YV09oTVJnTUIxN1FCREFsMS1PU2dtOUVjLTBhd3RHS01ldDN2OTVhVHNFanlXQ05Rbl9FSWdXRll3b0hUQXY1TXBiR2xBWjUyWE9fdWFrUW1ic1pndW5peGdMTlA5cnFSbEZIOHI4RnF1cEZadXRNUmNmRk5xYktETUpDWkhlbzN1TXhUS3BLQzc2TE1IYkVvdGZtQ09IQnFYR1FQNjB3UGg2SHR2UQ?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 22:56:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 4,
+      "matchedKeywords": [
+        "texas democrat"
+      ],
+      "sentiment": {
+        "positive": 0.009,
+        "negative": 0.991,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "Holding Pattern: GOP Maintains Slight Edge in Senate Races - News Radio 1200 WOAI",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc25rSlBrcHFhSTQ1QlJHNl82UVZKUFNtemlySlZiNnF1NkJhYXJKTkhialk3N3EzNms2UVo5YXktUUZGbVB4ZlhZWnRsT2hNak1nV2s5TjRoZ0lSRTF0SVl1T3JCeGZ2UmdIT2dPd2s3Zm42LXhZMk9GWmJwb1M4R2RBU2N6dllaQ0pWZW9WMlRNc0lBbjlXSHJndVpMS3g3NmtWdF9pZDFhTUZadVFfZnc3LVZoVS1ibHM2MS1n?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 08:30:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 3,
+      "matchedKeywords": [
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.199,
+        "negative": 0.801,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W27"
+    },
     {
       "title": "I’m a veteran. Closing Texas GOP primaries betrays conservative values | Opinion - Houston Chronicle",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOWs2NDlfV1JLTk1xcDdjZUNvVWJ2aElGQTBHN0ZRQi1hV3NVNVdScHV0bzlLVjViVThCblZCdjFNSnMzbV9xTUwtaHExOFNDZGNaS0k0RThWd01qRTg2NVJRSEI4VTNtbTVYQ2lTdjRQZGIxTlVnNEJHMnBOd3E2a0hlUzAxbXV1SG4zaVZwakZuYVpkT1Y4alhWM0hoWjV1ejZkMTRRSW5NNW12Nl82REx1YkpucjBn?oc=5",
@@ -1278,20 +1330,20 @@
   ],
   "weekly": {
     "2026-W27": {
+      "talarico": {
+        "positive": 2,
+        "negative": 12,
+        "total": 14
+      },
       "general": {
         "positive": 18,
-        "negative": 13,
-        "total": 32
+        "negative": 15,
+        "total": 34
       },
       "both": {
         "positive": 1,
         "negative": 7,
         "total": 8
-      },
-      "talarico": {
-        "positive": 1,
-        "negative": 12,
-        "total": 13
       },
       "paxton": {
         "positive": 3,
