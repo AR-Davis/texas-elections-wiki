@@ -1,9 +1,136 @@
 {
-  "analyzedAt": "2026-07-07T15:26:56.976Z",
-  "newsFetchedAt": "2026-07-07T12:30:47.068Z",
-  "totalAnalyzed": 82,
+  "analyzedAt": "2026-07-07T17:33:38.773Z",
+  "newsFetchedAt": "2026-07-07T15:45:40.706Z",
+  "totalAnalyzed": 89,
   "newThisRun": 7,
   "stories": [
+    {
+      "title": "Paxton’s defense attorney endorses Talarico in race for Texas Senate seat - Washington Examiner",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qTTdiX2pudS1rSWZXVm1pWmRHOFVoLThhc0pTcFIyWXFSX2tFaWhZakkwZlBQUm5nakVtWVFiNnpYTDNnRjFnY1lVUktJTWxpSkJMcWVhWUo3bThw?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 05:26:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate"
+      ],
+      "sentiment": {
+        "positive": 0.988,
+        "negative": 0.012,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "Battleground Texas - The latest in the Texas Senate race ahead of November election - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcTJuRC1GTFNNWkJfNm5FcmJjWlBzbEtfempRTnluQWNxU0N0VkNWVlFVR0ZocWxvMW1laXZjU0I3OFRqcWJRZHRCWU01MWdnV2loM0lHZFlsZ1FzQU5wV1J4eWtmRmRxMTRSNGlJX1RyOFBzYW13RnpxZkJpSmNKcXFLcFF2MGNBYVZQQXRwV3E?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 01:00:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.03,
+        "negative": 0.97,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "Senate Leader John Thune and other Cornyn are rallying for Paxton at fundraiser this month - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRWV5ZVpmLUxETUtUT1NqYXFNdHVNbFdOTnRySkRBU1AtdzBjRjBJMkdtWDdaekFwODBFT2J1NHdlR2tSQ0hyNFdHeDc1Q2pYZnZVZFktMHhIZXNQNXBWMEFWWUViY01MMmhXeVh0azBNSE1QdWQ4U2taakVfYmc5OVpTN1FYNm1UWGhZbkhzSGQwRGZLUDUxSzVBcF8yaXc?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 15:36:58 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 10,
+      "matchedKeywords": [
+        "paxton",
+        "cornyn"
+      ],
+      "sentiment": {
+        "positive": 0.948,
+        "negative": 0.052,
+        "label": "positive"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "Paxton and Talarico are in a cage match for a Senate seat. Suburban Collin County is a battleground - KERA News",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMEp2bF9FdFdmT3NfdlpYZ19kTTlLcks1cnQ0S192RjdhcWQ5SW0tSzJJSGpRX2J2eDFqWGRrTDRkLTN6dGR4UTFjZk9HN3JHY19jdkF3Q2J6QkJaU01CY0FEMk91Rk44bXQ5Wk9xWUZ1enBDN0l4QW1BSWpOMnZ3c0NHMy1GMnd4eFlvUm9TVDM4NDV3cU9kdTdrVmd5eHMtRTMxMkJxdDZqaWR0ODRaN1QwaVlnTVNVVE9oZ0ZIaUs2a1Y5SWUzdDRfVVYwUTNVX21vSHhKcTNuMVJfZU5tYi1OQQ?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 10:01:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 10,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": {
+        "positive": 0.987,
+        "negative": 0.013,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "Talarico courts North Texas voters in tight Senate race - MSN",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQakNrUDEzVkhWQUdHVDFHU2YzNHZzdWZ2bGtiemRrenBTM0pIM1E2LVdqZFM4aVdHc0ZUNXptdEFtbzhDZlFBcVZwT1l5bFZCTkZHeDFWOVRHODJ2UUNjRl9BVEdkRS1LZVl6ekIyczFSTWgzX0VrYTNDQkI4c1lucGIxaVZUWld1WTB5SUhaUkVwOWtTRTd0VC1CSkhqUzhyQnJpM1g4R2ZnVmRna3c?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 03:16:39 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 9,
+      "matchedKeywords": [
+        "talarico",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.163,
+        "negative": 0.837,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "Texas Democrats turn on embattled Maine Senate hopeful after assault claim - Chron",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT1g5Vm5CLXFpVVdmcGxxaGRfR2t0b19hb3FsNnJYU0xRbHVJVUdrb1FXTzhRcm82VnBHVzUxZUdSQTR1UllBUmFsUkJQQTJBT1R3ZTFWc1ZKT2RGWE54YTRIOXc4UEZUQjVFQk1wS2lFM1hHQkdUb0RZV0RrWkpqUi1uRQ?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 14:38:39 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 7,
+      "matchedKeywords": [
+        "texas democrat",
+        "texas democrats"
+      ],
+      "sentiment": {
+        "positive": 0.067,
+        "negative": 0.933,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "Talarico talks about 2026's top issues &amp; the GOP midterm convention in Dallas - NBC 5 Dallas-Fort Worth",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYU90b1l0cHJDaG5hQ280dDNUVU5sVEhfTXRCYndMME55M2htUzhHOEZha1QxY2QtNXZGTVNiM2dFX2NURTlpRFFURk40Vi0xMmV6NkNxWkxqQ2RKQzNqWHpCWlBsTDRkb2NzMVNQQUl5a0hFUThFYXkzV0tkOXNYRDRsMEVDR1dLbXZvZnZaT0NkWEhwcEtMX3FSdF9CaF9TcjRlemlSalo5M2t6aExyenJZb1ZkWG5uV0JyejgwYWY5OW1TRHdRWGR2QXFqNXRlNDBsVFIwc0xTZTIzcVA00gHnAUFVX3lxTE1nTmdZeFR1d2hPNk01RXpBSGI1SGJ5YWhyd2pQYkVHRGhxRDZBMEF5VDZVNWNGWVB5aUJVU3FBanJINlIxU0NaM0o0MktVNFhfMVJzWUNCekZuWjBtbzVLbjNzNHJZWkNzZHNFQS04QnV0S2dwNENlR2dJaDlva3lvVnJEODJNMU5Tdld1ckJsbW9abzZKQlNERTB3VF95eXlZalBhWXJXNUVxd3NSNFJxQmJnLXV1Mi1pOV9ranc3bFphOUZGcFhkanZJdExzVUNYNUppekh4N0hkb1ZVdHVJeGZJS1NYOA?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 12:57:12 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 7,
+      "matchedKeywords": [
+        "talarico"
+      ],
+      "sentiment": {
+        "positive": 0.998,
+        "negative": 0.002,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W27"
+    },
     {
       "title": "Here's why you've been seeing television ads for James Talarico in recent weeks - Houston Chronicle",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdU5tUFE4RlRQbVppQmFMdERabjNGT1c4LVd3ZUJKak9CNmRHVzFkRC0xSVlRSF9TQXJVSEpUR3htZ2NTS21Nb3cyYzNHeC1vSkxVUlJjbkg4QzRTNE1fcTVpZWp4Q1lHTnZxd0I4OURDUGZ4ZW9WeXV4RTRrcFJ4ODA4ajlJRlU1SThnSVBaa08yWUtEclpYd2FHcDlFSnFJMlhOSnhyd1ZBZm9OZTNoUUZZajh2WGMxRWc?oc=5",
@@ -1471,25 +1598,25 @@
   ],
   "weekly": {
     "2026-W27": {
-      "talarico": {
-        "positive": 2,
-        "negative": 14,
-        "total": 17
-      },
       "both": {
-        "positive": 2,
+        "positive": 4,
         "negative": 7,
-        "total": 9
-      },
-      "paxton": {
-        "positive": 3,
-        "negative": 11,
-        "total": 14
+        "total": 11
       },
       "general": {
         "positive": 20,
-        "negative": 16,
-        "total": 37
+        "negative": 18,
+        "total": 39
+      },
+      "paxton": {
+        "positive": 4,
+        "negative": 11,
+        "total": 15
+      },
+      "talarico": {
+        "positive": 3,
+        "negative": 15,
+        "total": 19
       }
     },
     "2026-W26": {
