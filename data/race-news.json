@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-07-07T09:53:04.146Z",
-  "count": 21,
+  "fetchedAt": "2026-07-07T12:30:47.068Z",
+  "count": 23,
   "feedsChecked": 8,
-  "itemsScanned": 162,
+  "itemsScanned": 170,
   "items": [
     {
       "title": "James Talarico expected to be defeated by Ken Paxton in Texas Senate election - Sky News Australia",
@@ -54,6 +54,17 @@
         "talarico",
         "paxton",
         "senate race"
+      ]
+    },
+    {
+      "title": "Here's why you've been seeing television ads for James Talarico in recent weeks - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdU5tUFE4RlRQbVppQmFMdERabjNGT1c4LVd3ZUJKak9CNmRHVzFkRC0xSVlRSF9TQXJVSEpUR3htZ2NTS21Nb3cyYzNHeC1vSkxVUlJjbkg4QzRTNE1fcTVpZWp4Q1lHTnZxd0I4OURDUGZ4ZW9WeXV4RTRrcFJ4ODA4ajlJRlU1SThnSVBaa08yWUtEclpYd2FHcDlFSnFJMlhOSnhyd1ZBZm9OZTNoUUZZajh2WGMxRWc?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 11:03:39 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
       ]
     },
     {
@@ -112,9 +123,42 @@
       ]
     },
     {
-      "title": "Talarico courts North Texas voters in tight senate race - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTTJKQTREMjVNS05IejBIOXRfb2ozN1VZVEYxRWRycnRxTmN6TFdkQmowNDBVUHZPOTI1MGJPaDUyeVlfbTlERUhoSlhsRml2R3haVE1TTXhYUWdXa1Vxd3dwdjZ5S0VBN3JqNEp1bHYxYmtMN2pCQThCdGNlWFlsbThHU2N2OVJpeHg2aS1WTC1lNEZvLVFN?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 00:13:00 GMT",
+      "title": "Paxton and Talarico are in a cage match for a Senate seat. Suburban Collin County is a battleground - KERA News",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQnExWnVFczhTdXdtUDJpY1JwS1VkWG04MktESHJCWW05QXdwRk9qN2h6QmltODJRekNqVmdTR1NzOUlTU3ZfOGQtTEY1WmZHbG1SNHBRUW41NHRVcDhONDlnUnZHaUphUWloX0VfUW1oRmZCYy1jNXF6dzZ3WTNaYkl1M3RDS1dSbXRTWEI3U2xsUTZKcEZnM19YZFpUcE9tc0R5UUlTN0xRd1hQeUpyTGIxRjBaUVhnYjhtd2tZSXN2ek1ldWE2VjEwc3RYbkxrb05CNFNB?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 10:01:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 10,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ]
+    },
+    {
+      "title": "GOP chief says Texas convention isn’t about Paxton, but Senate race looms large - Marshall News Messenger",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLU5hczVTNDV3aXpKamJoZmowc1czZTU1clB1Ym9tdXlVYzlMeEJyUUd2bl9rSUlnXzlSZkZib3hrXy0yS09XTU9HTkZTY2tMaTNRNXJQZENIcGM4TlhzN1B0NzBJeVB6bUpZRnY0YTM2dEpoenBXdjktcHp5cXV3YW5WRWxTbWZncVhrdTZiX1RFMnFic0NRZWdTVm90bnJtNVpPclpKeFVUOGMyeERLN2l2Y0t6ZUVMbVcza1ljcko?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 10:26:41 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 9,
+      "matchedKeywords": [
+        "paxton",
+        "senate race"
+      ]
+    },
+    {
+      "title": "Talarico courts North Texas voters in tight Senate race - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU1VKN0VUYVVzR215eTE1dHJvdGRwZ1RwdG5XTEZheS1vSFBhTmdHZHpIeEotSGxESF9NeTVoUHBwSnBuZXRQQVQ2cUdkU2xpYlAwd3JfRE9rLWNoV2JOWDRHZjJ2YlVRcGpvOEFsY2Mxdm13WldjN3dFY2FEMHJZU2ZDYTAwYVpLdjJuWVM1SjZ6ZVFyM2c4dVBEVnRjbzRBdl9lVEEwTmhFTFlZRDY0VGpmM0NHR2g1SUFhTmdlNUFwb1V5VkYtZk5QQTB4MTFM?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 03:16:39 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 9,
+      "matchedKeywords": [
+        "talarico",
+        "senate race"
+      ]
+    },
+    {
+      "title": "Talarico courts North Texas voters as senate race tightens - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNzM5b013MEZ5YnplUjJEUDhfSE90UVNKMnpxT2h3SGhrZVo1QnBINnV2b1dkRGlkRjEwME55T0dRaXB3YlY0TmVFclRZZ2Y0ZWpFYUhFS3JFUjU1c0dpUnMwQ1VwTVFxczVfdnQtdmNJc0N0VUZFdlBHOG5fc25jUnpSWFFvMnVqc2k5NkhQa1dGbFJYdkk0V1BGQQ?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 21:45:00 GMT",
       "feedSource": "google-news-race",
       "raceScore": 9,
       "matchedKeywords": [
@@ -145,6 +189,16 @@
       ]
     },
     {
+      "title": "Midterm convention, Tarrant Republicans map strategy: The latest in Texas politics - Fort Worth Star-Telegram",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLVB3d1hYUjg1cXRXQmhpZ3NjQ3gzcy1WN2w0OUYzM1B6TkZmY255eUgtZWJLV2RCWXlMMEQ3WnJqMEhzeUxibk50cHBVLVc5S3Y5Y3FKWnhiUTBDcm5ZUkQzVlFEQVU0OWdPVEZjc3k0Ylk4V21pLVBlRmpSYVZfUHpfWDZud0FUZWRwcXNORUFic0thdlHSAZYBQVVfeXFMUHYwS1E2ejZDS0JNZW90cmswbHR4NDBDMlVtVWtDVGxTc1VkUGNTdER2Um5KLTBCazBlTDltWUtfX3JFalpzclR4WlZzOWRXd3JkeXNnVURJMnppOUpHTjJsV201MkRWOEJMbl9lSy16UngtQ2xKLWxSYmNtVi1uaE5rRkg4X0NpSHdjLWI3NlZsNkdwbnJ3?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 09:56:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "texas politics"
+      ]
+    },
+    {
       "title": "Star-Telegram opinion roundup: Paxton’s vacation, Arlington’s embarassment - Fort Worth Star-Telegram",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mdGdDSXBMQ1JlLUZlcW9pdHBoNkN1LTVuWmsxQ0ZIQXgxRWY3cGVJZDJGUEJpbWhydVJjWG8wZW1XUmh6dTBKQjQxdWRVOFB4UmVleXRTbU03N3JQd1pJaldXbHZHTFNFNmJv?oc=5",
       "pubDate": "Mon, 06 Jul 2026 17:46:00 GMT",
@@ -157,7 +211,7 @@
     {
       "title": "Scoop: Thune to attend Paxton fundraiser - Axios",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJT3BCWFdmeDhLY3B2SUZTal9OQnBKVXhZcTM2UjV0SzdIdGpSYkRSSENiM3hvTmE3dWU4MEphRk91bm5XMEV6eHpfRUx5Q2RZNlJra1AwdU1sUUFGYnQxalkxaktVTUpGVHAwV1R0RE5mVEtuQS1WS0hkWQ?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 19:30:25 GMT",
+      "pubDate": "Tue, 07 Jul 2026 07:38:26 GMT",
       "feedSource": "google-news-race",
       "raceScore": 5,
       "matchedKeywords": [
@@ -175,9 +229,9 @@
       ]
     },
     {
-      "title": "Inside Texas Politics - KVUE",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTFRFbTNKRWtqVG9yTy03YlRWc09ta21SQVlQaENoeDMyN1kwNFcwcmRUSWJrbUducEpRWnpOTVJDckx3bXpmTzZaNncwR3RtRXVhSUwtdmMyd1VVZXdZclFsTlVQR0VDSm9kQ0EtNWppUHVQNFlYZGZENkNOdElwb2Z3aEZBTEowQTZ6WWZrZHRzaHdBY0lFZ1BzeEt5WnhzU0NIcnhDODkxZw?oc=5",
-      "pubDate": "Sun, 05 Jul 2026 10:30:00 GMT",
+      "title": "Inside Texas Politics - WFAA",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTXFqNm96WXdMd1k1MVFJdUt2SjZrR2llUjBhZk90ejdFMzhXVkNCWHl0OE1TMTRHUjZ3UFA3bjFlalI0dU1XRXhOWUQ5ak1teVMzQWhuY0xmTnp3NExBZEN4YkI2b21NQ3l5Q210Q1pGSk1weXRrUmFmeU9yQ1VEcWhTVmdQbzB2Q2ZsSjJydUdMeFAza1dIWHhGcGcxb29sb1h4UlFDQ3ZBZw?oc=5",
+      "pubDate": "Sun, 05 Jul 2026 14:00:00 GMT",
       "feedSource": "google-news-texas",
       "raceScore": 5,
       "matchedKeywords": [
@@ -202,36 +256,6 @@
       "raceScore": 4,
       "matchedKeywords": [
         "senate election"
-      ]
-    },
-    {
-      "title": "Texas Democratic Party Chairman says the party needs to \"stop this limited thinking\" and the GOP party \"must be real scared\" - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPc1BTb0hJdFdQVWdtdHlEMWM4OHN4LUZvVURtVWRxQlNONlY0bHJHbWY0VFh0dXF4NG52dzQ2MmdYYlctZFRQbXR5eHhPMjNEdGRTTjlJTVNDZTN6X1FsZ25oQ1hKUWFUM294SDhlWHI3T19TWFQyTTlvZi1TRG1CN2VMM3IzVDF1VXYyQzBIZ2RtU2ROQW1Tb2tlV2xQdHpMU1FOeWJ6amlKdElEcGs0RFBhUzU4cEl3SkZpT2F0UTFYUnpvTnFCWExlekplS01PYWw4bzRtTUpsREZq?oc=5",
-      "pubDate": "Sun, 05 Jul 2026 10:00:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 4,
-      "matchedKeywords": [
-        "texas democrat"
-      ]
-    },
-    {
-      "title": "📊 What the polls say in the 8 Senate races that will decide the majority - Decision Desk HQ | Substack",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTGR4U09nLXh3aWk3ckJzdUtHVWg5Sy0xSTlWUU95QmxLY0U4d2xjcnpWSGI4ZXo2U2dPNHJzT1Y1bmx4cVUwVzVla18tY1lMQTZlLTlQWmNiRUdiQV9SaXdmUUR6WG9ONF9vSTRGblpyb1hOYjZaejR3Y3ZsblJsWEV6aVlzNkhyelRMU1dNQkhTYUFXTGdJQURqWENrVnlmbDRKMGlOVVpkbnZ6OG9Eb3FzdkRIRnV6X0wwc08xUWp0QQ?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 15:14:41 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 3,
-      "matchedKeywords": [
-        "senate race"
-      ]
-    },
-    {
-      "title": "Holding Pattern: GOP Maintains Slight Edge in Senate Races - News Radio 1200 WOAI",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc25rSlBrcHFhSTQ1QlJHNl82UVZKUFNtemlySlZiNnF1NkJhYXJKTkhialk3N3EzNms2UVo5YXktUUZGbVB4ZlhZWnRsT2hNak1nV2s5TjRoZ0lSRTF0SVl1T3JCeGZ2UmdIT2dPd2s3Zm42LXhZMk9GWmJwb1M4R2RBU2N6dllaQ0pWZW9WMlRNc0lBbjlXSHJndVpMS3g3NmtWdF9pZDFhTUZadVFfZnc3LVZoVS1ibHM2MS1n?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 08:30:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 3,
-      "matchedKeywords": [
-        "senate race"
       ]
     }
   ]
