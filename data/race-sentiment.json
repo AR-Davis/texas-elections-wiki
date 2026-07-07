@@ -1,9 +1,43 @@
 {
-  "analyzedAt": "2026-07-06T23:12:30.623Z",
-  "newsFetchedAt": "2026-07-06T21:56:19.472Z",
-  "totalAnalyzed": 69,
-  "newThisRun": 1,
+  "analyzedAt": "2026-07-07T01:17:44.426Z",
+  "newsFetchedAt": "2026-07-06T23:20:45.316Z",
+  "totalAnalyzed": 71,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "I’m a veteran. Closing Texas GOP primaries betrays conservative values | Opinion - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOWs2NDlfV1JLTk1xcDdjZUNvVWJ2aElGQTBHN0ZRQi1hV3NVNVdScHV0bzlLVjViVThCblZCdjFNSnMzbV9xTUwtaHExOFNDZGNaS0k0RThWd01qRTg2NVJRSEI4VTNtbTVYQ2lTdjRQZGIxTlVnNEJHMnBOd3E2a0hlUzAxbXV1SG4zaVZwakZuYVpkT1Y4alhWM0hoWjV1ejZkMTRRSW5NNW12Nl82REx1YkpucjBn?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 10:18:51 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas gop"
+      ],
+      "sentiment": {
+        "positive": 0.94,
+        "negative": 0.06,
+        "label": "positive"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "Texas Democratic Party Chair says GOP Midterm Convention a sign of Republican desperation - WFAA",
+      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOeVB6c3ktei00cjdjc19Ldzg0TXd1WThJYXpxeFByenA2ZGdkQko1SUJmVlpKbUxpa29jZDByVDVSUHNfOFFSbVYwUmpVdmZ3aWF5cGlENkY1dWRGbFV2cGFaSFRrZnBoa2JmQmRGdFh3dWNkbF9LamlEbi14QWMzeUkxNktVeTZJTWVCcFJOSGhIYVJqeEo5SWRaeGh4ajI4ZWxzWlF0eWxJU0w1Y2ZWV25wcGdtZUR3M3NUTGhqNV9DV2ZDZm1ZWEJXa3UzY2VkMHZWVGk1UDdfZ1o4QldHRU01bEJfelNZa1g3a1FSLU43STV2cWRicHN1MTNwaDEtUHRBUTBrS1pJWnB6b0IwOF9EV3pXSXh0V0RqS0tCVks2cTZ4Q0kza0JUTzE?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 22:56:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 4,
+      "matchedKeywords": [
+        "texas democrat"
+      ],
+      "sentiment": {
+        "positive": 0.008,
+        "negative": 0.992,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W27"
+    },
     {
       "title": "At Dallas campaign stop, Talarico says focusing on costs will help him beat Paxton in tight U.S. Senate race in Texas - CBS News",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcXJtUDNaRlNyYkV2M2p6RWpIdmxTQVVnbEFONHZET3pMT3Judnlyb3VuUXpQeUpiV0xQMDNEbG5tVjFKRXE3VGVwV0h6ZVg3MHBtWndfSzU1MXdaeHM1Zi14QW9mb3ctcDNOd2FpVF8tUzlwZFRkTllocWNkRERISHBTczNqSFBLaDVManN0eW9EX2NqQ1pQVWUzbFFQODdsS3ZqRXQyUFROeEJpbWxLMw?oc=5",
@@ -1244,6 +1278,11 @@
   ],
   "weekly": {
     "2026-W27": {
+      "general": {
+        "positive": 18,
+        "negative": 13,
+        "total": 32
+      },
       "both": {
         "positive": 1,
         "negative": 7,
@@ -1258,11 +1297,6 @@
         "positive": 3,
         "negative": 10,
         "total": 13
-      },
-      "general": {
-        "positive": 17,
-        "negative": 12,
-        "total": 30
       }
     },
     "2026-W26": {
