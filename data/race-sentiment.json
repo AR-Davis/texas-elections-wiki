@@ -1,9 +1,105 @@
 {
-  "analyzedAt": "2026-07-07T19:22:57.882Z",
-  "newsFetchedAt": "2026-07-07T18:05:24.347Z",
-  "totalAnalyzed": 91,
-  "newThisRun": 2,
+  "analyzedAt": "2026-07-07T21:07:50.882Z",
+  "newsFetchedAt": "2026-07-07T20:26:44.920Z",
+  "totalAnalyzed": 96,
+  "newThisRun": 5,
   "stories": [
+    {
+      "title": "Paxton and Talarico Clash Over Affordability in Texas Senate Race - Readers.id",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qRU1WZzJaWFJVTWVBRk9wRmVpbXRUdldmR2gzN3FoZldQcnlsc2xzOXpJLS1EQ3VJV2E2azhINTBkRG94YXFQSUJEQ3hXTDFYaGhtbkJIUHFlUThMbjVzV1ViVUF2TDFyN1hQWA?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 18:05:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.007,
+        "negative": 0.993,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "Talarico Outspends Paxton on Television Ads in Texas Senate Race - Akses.co.id",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50ZFE2LU5yRktCeUZBM0JKa0hJcEIwMXFCV1ZNY2VQNDM3enBFVjNaeEY0MEhDVlZpNDI0TjdlU2p0b3l4Sl8zNjBveHkzc3RkbFVRZXpBMHhCTWtMemFrNkYxVzBxeTBObXAw?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 17:19:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.086,
+        "negative": 0.914,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "Ken Paxton vowed to crack down on ‘illegal voting.’ He may have violated Texas election law. - KXAN Austin",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOd1h0cU1kNW1xVWphOVg2SVRFcnFVODNwSHlQSDJwME1qbHd3cmRmdEZVUXVEaFEya0tQbUV1YUJqRzFEZGpVUW5DbDNqdWVaV3pIZjVSV3ZFbkFrSF9QcVg3OTFXb19hQzVYcEktcjdrd2EwaXZ6dmxqLVVwUzBLSXVteXBUbmswc0VhTWJUb3JkY1ExZkhWTFZiLTM2UDZnMkd1ZGFDVnNiX2xZbTR2M1EzRmlaRExTUmhFZFJzT3M0c3A2S2twM0ZB0gHPAUFVX3lxTE1Genp1WkNKbktiaHE3QXYxNmNBckhnbWtlSDhsZU1KdUpXWVBFZWliYk9BZXM2NmV0RjB5eEw5Z0dtS3lnc1lkRmdfV3N0SGMyWmp4YnJlNjhVVHNwUTg2c24wZjFrZzBnTnZmbzYxdW91LXNLb21ZR2dVQ25uVVdIZE1ERkZSc3lTZ3FQZDMxYTdqNUljSmxoRTJDYVRIMC1MUFZVaXBRWVY4bGNFY0d5MU0tQXlOUzNSRjdZOUlVVHJSV21Kbl9uWVJlejZfWQ?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 20:14:10 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.007,
+        "negative": 0.993,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "Did Ken Paxton commit voter fraud after separating from wife? - Chron",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mVHg3UERtZ0pjODdBTjNDLUdYR0dqNUt5UVN0d3JETzR2VkEwYWZGak5LVHp6WE5nUk9mekJZWnNLN196SGRzNGs1S0ZzN21GS25zYlRqMF9tV0FxaFo1N2JyemZsbVRvdmhxcWc1Rm9Dem9wdkJFeFJBUWY?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 18:06:31 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.003,
+        "negative": 0.997,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "Talarico knocks Paxton for spending Fourth of July in UK - Washington Examiner",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT1RZc25ubXZYSGhUMm1zNlJaTUx0UVB0ZEZoWXFPajI2SGk2ZWpVS3BzSXE0WGVfb2FkOExrTmpTeTU2MUxYNWI3SlVHUWtlUlk4M243eUptVWFocmtJejZ2a1NIYUVxZDhrNkFlTk05c2lrWExGeDVjc2ZIRDhFNUhOc3g3aUd0aFI0cWYyTUN1UEJEUk53dGNGZXh2LVNXbWNwcVJrUlcwUVgy?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 19:31:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 10,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": {
+        "positive": 0.045,
+        "negative": 0.955,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W27"
+    },
     {
       "title": "Republican Ken Paxton spotted with alleged mistress in England over Independence Day weekend - San Antonio Current",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdF9ObWxCckh0U1VaY01KaE9rd1FLT01QSzhWejAydGk5S3dVUDFhRU5xSm5GTWxxU1BqNFhKYmYxZjFtYVBiRGlfYVJRNHB6Z0t0amFJcDhJMVQ3WDQyMFB3c0Z3NGxzaWZXeFdZTWFIb2U2ajJTTlJINkJ6QW45a0tYMmh2aEtxVUVXOFRsT3BWMEVfRVEzMHN5VGxHQy1NR1kzdVBqeUU1VGd5UFI1QTVYeHE1VnNQSzRxRkxIZEl3Wmk4Y1lRYnEwd1J1VjlFMWY3eW16NzhncEJjY2hVaA?oc=5",
@@ -1634,15 +1730,15 @@
   ],
   "weekly": {
     "2026-W27": {
-      "paxton": {
-        "positive": 4,
-        "negative": 13,
-        "total": 17
-      },
       "both": {
         "positive": 4,
-        "negative": 7,
-        "total": 11
+        "negative": 10,
+        "total": 14
+      },
+      "paxton": {
+        "positive": 4,
+        "negative": 15,
+        "total": 19
       },
       "general": {
         "positive": 20,
