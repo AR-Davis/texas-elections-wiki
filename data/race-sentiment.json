@@ -1,9 +1,140 @@
 {
-  "analyzedAt": "2026-07-07T21:07:50.882Z",
-  "newsFetchedAt": "2026-07-07T20:26:44.920Z",
-  "totalAnalyzed": 96,
-  "newThisRun": 5,
+  "analyzedAt": "2026-07-07T22:38:48.583Z",
+  "newsFetchedAt": "2026-07-07T21:55:57.954Z",
+  "totalAnalyzed": 100,
+  "newThisRun": 7,
   "stories": [
+    {
+      "title": "Polls Show Dead Heat in Texas Senate Race Between Paxton and Talarico - sekbernews.id",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ESjA3cV8xaElOZHlmMkhhczRzZmtZeDFVOW1kdm5WRVQ3SjJxcG9LRG5ZTWtvSkZzckctUFZQX1kxZlRKdVRldnFiZVBoUXlMbFdEdGNjdm95dmVCVVptLWc1SGh0ZElaLWdkSjhBbw?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 17:58:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.082,
+        "negative": 0.918,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "Texas AG Ken Paxton Faces Residency Scrutiny Amid Tight U.S. Senate Race - Azat TV",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYQ0htRHQ0Tnp5bTJISGNmZEsyQ0U4Nk93V0hBS3hSRTdiQzRaRHNnZHFfQjRtYUlOUXlhR1oyRy05enFSN2o2SmdOOGtnb3N1cGp1S3h3TkxlbTA5bGFQbG00ZGNjWEVaOUVHbjZoVkZUUQ?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 19:45:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.008,
+        "negative": 0.992,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "Texas Attorney General Ken Paxton Faces Voter Fraud Allegations - asatunews.co.id",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13UGlNR1k1N3BHd2Z2TTMyX0VlV3VUaHc4OTNiSUpUaEdtNkZURkQ0MDRpM1lJdGhxd1lhc09DTEF1ME9zTUtQZU1yXzBXdFFXUmZYYTdoNlpHRmhVMXMtMF9hTHZwR0p1MVF6b0xEY3FtbnlNWGZXOTB4aw?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 20:39:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "attorney general"
+      ],
+      "sentiment": {
+        "positive": 0.003,
+        "negative": 0.997,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "James Talarico's Houston campaign stop with Black voters missed a key element: their feedback - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTVJqV3RHQUlBRFhHY2U1ekdkOFBIOUoyN3c5Z01VRG96andtc0xSSlE0RDMyZldxZC1oWFlMQjBfZG5Mc3NKQ1RuN2F6SnR5OUl6d1VMS2RMbjhYdUtPTFMyT0ZDQlBhN0NzWGxmaENVUWwwZWIxbENYbktoYzM1aFJzemtDV3BQdlZsb3pJOGF1UXEzdThjRng4U204aWl3QUptdlY4R3EzaFcteTZ0bVdCeHNvb2ZJNlhrem9yUWdyZw?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 21:29:23 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "Ken Paxton vowed to crack down on 'illegal voting.' He may have violated Texas election law - KERA News",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQWVCaTZVUjNyNEEycGtIa0dfbl93dFpGcGpIdF9TVTlXQnZWUDl0d3ItTGQzRk5OUzBUa2JzV0pLelhRQnljVnpDeUUzZW11eENuTGNnVEJGZkZoUDBadmJSMENDTUhER1VGMHZDbTFiNFBOXzdnZGFWa3Iwc1ViX2lpS0JDVFJYM0d3Z1dzWHZVWHFrVFVsRjJRY1dUeUJHaERubjRGR0t2aUJNOURiVU9vZnR5NkNuZHBnbTVjLUo2eXZoWTBUT3Fndkt1dw?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 18:26:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.004,
+        "negative": 0.996,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "Ken Paxton vowed to crack down on “illegal voting.” He may have violated Texas election law. - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9lSTdhdmw1cTVfOWpmRGQ5T2ZwX3FaRS02MlZ4N3JQODhVX1AwUnFZZFJlalJfX1N5QTI4ZmJpR2pPVzlxYVRSZHdqNk5RNnNTcjJ0SHMxbXJia1h4dnJUTkZab2hXWVp2TXQzazJpVFRIT3J3a08xQU15bw?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 17:30:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.012,
+        "negative": 0.988,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "Was Ken Paxton in London for the Fourth of July? - Daily Kos",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdXk4NTlxR0N6SUo1RVBielhTajlqMlEyQS1yQXBERFZPcjJuenJEVU9pTkZZV3E3VW9KSm5GWUZ6bUlkSEYwMmRQV2dwSVByZ1d6UlpvZ1BuZEVxLXpjMXFRSmtpX1BoZkJsZGRtOWc3ZWpPZDBkMWkxOWZ6SFRvcy1vc2RUdTVMSGM3NFdRYzd6N1pWcjFPOVB0SGJqbTZNOUU0eQ?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 20:30:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.015,
+        "negative": 0.985,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W27"
+    },
     {
       "title": "Paxton and Talarico Clash Over Affordability in Texas Senate Race - Readers.id",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qRU1WZzJaWFJVTWVBRk9wRmVpbXRUdldmR2gzN3FoZldQcnlsc2xzOXpJLS1EQ3VJV2E2azhINTBkRG94YXFQSUJEQ3hXTDFYaGhtbkJIUHFlUThMbjVzV1ViVUF2TDFyN1hQWA?oc=5",
@@ -1675,80 +1806,29 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "TX Senate Rundown: Party of Clinton dings Paxton’s trip with girlfriend | Opinion - Fort Worth Star-Telegram",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xX0JZbnhGSl9KbnlfTW8tY1lCc0NFOG1RTHI2WWFSb3dpSFdmSzhsTHBPa21SYzA0RFhuVW9lQkRBMTlZYW05MjI1ekNTVlUyczAwVlZsektHRHFManVfQ2NBcjAzRlVFMzBvX0tDWjhnMHJ0X3p4a2xR?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 10:04:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.004,
-        "negative": 0.996,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W27"
-    },
-    {
-      "title": "Inside Texas Politics | Full Interview on Bible Reading in Public Schools with Dr. Tiffany Clark - WFAA",
-      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPT2M0Ym42WFh6Zy1nejdJMldGOThPLXUtS25hVS1sNm1heVRka0lFNm1lUVFFUkM2ZWN5dzg0MmJxSklib1h6eFI0a0I0THctNXV5MVU0VldIdXJkMU9uNzYtVUdVUnVERmJlWWFEMWdzWXRMWElpbFd3QmFHZWJoV05WNHI0UjdzLXdlQlR5ODdRcEh3TmhIc2JFLTFRUnRIbkItcHN2bFphYzc3YUlyUEVRS1FGWVZHMHV0bVJHWXRRUjZ3QjBpYThJT1BDWDNGNE02OEp3OEVUZkg4Y3hLVXR3SS1SOUdTMGVrazY0QnRlTS1OaWI0V2owZDFDZ1pJYzZuZGJudXhGVnp3b2R1NnFETzJlSk9wSkdmZjBub1RyVG1zYTk5YUNzT00yb1k?oc=5",
-      "pubDate": "Sat, 04 Jul 2026 01:37:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "sentiment": {
-        "positive": 0.983,
-        "negative": 0.017,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W27"
-    },
-    {
-      "title": "Inside Texas Politics | Full Interview On GOP Midterm Convention with TX GOP Chair D'rinda Randall - WFAA",
-      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOS1JLTV9BVVlOOExOVEhPM2twcnhMY1hKWm5YR1N3M3ZLTjBPT2hKSlRHUVJvV25JNll1enp3cklMS2pzUFhNWktCTVhmYk9CcWs4RXQtUGRab2FpeGJtangyMVFRN1ZjdklfaVctbExLcG92UkRHVlkzTU9saFRwSHlQdFZQR1RtV1R4cnNVZ0pUOU9wU09BWDVsTEVVd3pKSHk0QURabW13OVlQUlBWcGY4RFBFSEpsSTBwLWUweTdwVFlUNXRndURnZ3RDWGowdzRYSnBlNUlhLUdQeVpZSmJKRWRjS1QyMGlXaTBsWWYxTk1PLUc2Y2ZROFJhZUxQREN3VTlLaEFIMzV5R2pkUU5NRGdqUWJfalc3N2VmMTlReG9SNFhhNDkzdThjVWxVcHc?oc=5",
-      "pubDate": "Sat, 04 Jul 2026 01:36:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "sentiment": {
-        "positive": 0.967,
-        "negative": 0.033,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W27": {
       "both": {
         "positive": 4,
-        "negative": 10,
-        "total": 14
+        "negative": 11,
+        "total": 15
       },
       "paxton": {
         "positive": 4,
-        "negative": 15,
-        "total": 19
-      },
-      "general": {
-        "positive": 20,
-        "negative": 18,
-        "total": 39
+        "negative": 19,
+        "total": 23
       },
       "talarico": {
         "positive": 3,
-        "negative": 15,
-        "total": 19
+        "negative": 16,
+        "total": 20
+      },
+      "general": {
+        "positive": 18,
+        "negative": 18,
+        "total": 37
       }
     },
     "2026-W26": {
