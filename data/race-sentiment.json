@@ -1,9 +1,26 @@
 {
-  "analyzedAt": "2026-07-07T09:51:03.914Z",
-  "newsFetchedAt": "2026-07-07T01:18:02.484Z",
-  "totalAnalyzed": 74,
-  "newThisRun": 3,
+  "analyzedAt": "2026-07-07T12:29:42.855Z",
+  "newsFetchedAt": "2026-07-07T09:53:04.146Z",
+  "totalAnalyzed": 75,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "📊 What the polls say in the 8 Senate races that will decide the majority - Decision Desk HQ | Substack",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTGR4U09nLXh3aWk3ckJzdUtHVWg5Sy0xSTlWUU95QmxLY0U4d2xjcnpWSGI4ZXo2U2dPNHJzT1Y1bmx4cVUwVzVla18tY1lMQTZlLTlQWmNiRUdiQV9SaXdmUUR6WG9ONF9vSTRGblpyb1hOYjZaejR3Y3ZsblJsWEV6aVlzNkhyelRMU1dNQkhTYUFXTGdJQURqWENrVnlmbDRKMGlOVVpkbnZ6OG9Eb3FzdkRIRnV6X0wwc08xUWp0QQ?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 15:14:41 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 3,
+      "matchedKeywords": [
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.051,
+        "negative": 0.949,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W27"
+    },
     {
       "title": "Talarico courts North Texas voters in tight senate race - CBS News",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTTJKQTREMjVNS05IejBIOXRfb2ozN1VZVEYxRWRycnRxTmN6TFdkQmowNDBVUHZPOTI1MGJPaDUyeVlfbTlERUhoSlhsRml2R3haVE1TTXhYUWdXa1Vxd3dwdjZ5S0VBN3JqNEp1bHYxYmtMN2pCQThCdGNlWFlsbThHU2N2OVJpeHg2aS1WTC1lNEZvLVFN?oc=5",
@@ -1330,15 +1347,15 @@
   ],
   "weekly": {
     "2026-W27": {
+      "general": {
+        "positive": 18,
+        "negative": 16,
+        "total": 35
+      },
       "talarico": {
         "positive": 2,
         "negative": 12,
         "total": 14
-      },
-      "general": {
-        "positive": 18,
-        "negative": 15,
-        "total": 34
       },
       "both": {
         "positive": 1,
