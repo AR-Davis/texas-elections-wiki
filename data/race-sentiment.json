@@ -1,9 +1,45 @@
 {
-  "analyzedAt": "2026-07-07T17:33:38.773Z",
-  "newsFetchedAt": "2026-07-07T15:45:40.706Z",
-  "totalAnalyzed": 89,
-  "newThisRun": 7,
+  "analyzedAt": "2026-07-07T19:22:57.882Z",
+  "newsFetchedAt": "2026-07-07T18:05:24.347Z",
+  "totalAnalyzed": 91,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Republican Ken Paxton spotted with alleged mistress in England over Independence Day weekend - San Antonio Current",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdF9ObWxCckh0U1VaY01KaE9rd1FLT01QSzhWejAydGk5S3dVUDFhRU5xSm5GTWxxU1BqNFhKYmYxZjFtYVBiRGlfYVJRNHB6Z0t0amFJcDhJMVQ3WDQyMFB3c0Z3NGxzaWZXeFdZTWFIb2U2ajJTTlJINkJ6QW45a0tYMmh2aEtxVUVXOFRsT3BWMEVfRVEzMHN5VGxHQy1NR1kzdVBqeUU1VGd5UFI1QTVYeHE1VnNQSzRxRkxIZEl3Wmk4Y1lRYnEwd1J1VjlFMWY3eW16NzhncEJjY2hVaA?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 17:04:09 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.182,
+        "negative": 0.818,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "Senate Leaders Plan Fundraiser for Ken Paxton After Primary Defeat - Readers.id",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84bDVJSFJCQV9DdUhiZU1LckVCTzd6c0lNLWhlbzUxaUN4WldxQ3lhTWw5a3dIUGxXOEl3SXRKRjV5RFh0M2Y2bGh0TGlsc1pZLWhxbFlrQklFZS1CSnJUQmtRQUszVU43NDlZWFhHOA?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 17:57:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.106,
+        "negative": 0.894,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W27"
+    },
     {
       "title": "Paxton’s defense attorney endorses Talarico in race for Texas Senate seat - Washington Examiner",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qTTdiX2pudS1rSWZXVm1pWmRHOFVoLThhc0pTcFIyWXFSX2tFaWhZakkwZlBQUm5nakVtWVFiNnpYTDNnRjFnY1lVUktJTWxpSkJMcWVhWUo3bThw?oc=5",
@@ -1598,6 +1634,11 @@
   ],
   "weekly": {
     "2026-W27": {
+      "paxton": {
+        "positive": 4,
+        "negative": 13,
+        "total": 17
+      },
       "both": {
         "positive": 4,
         "negative": 7,
@@ -1607,11 +1648,6 @@
         "positive": 20,
         "negative": 18,
         "total": 39
-      },
-      "paxton": {
-        "positive": 4,
-        "negative": 11,
-        "total": 15
       },
       "talarico": {
         "positive": 3,
