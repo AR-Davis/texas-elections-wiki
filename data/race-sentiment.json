@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-07-08T21:13:09.986Z",
-  "newsFetchedAt": "2026-07-08T20:04:55.583Z",
+  "analyzedAt": "2026-07-08T22:33:56.403Z",
+  "newsFetchedAt": "2026-07-08T21:43:50.032Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Texas GOP Senate candidate Paxton has been voting illegally, report suggests - MSN",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNdzZCcWhLOGYzQUxFaTNPNDFSYmdkRFYxU3hudklHMWxGUEUwLXRWZFJRdU5aTWkwOEJUNVg4Mmk4LWNZNWN0SW0wTFE4NmVPMW1hQmdJS01nRmhLN0dnSVVCOTJZZHJuRzNBZndkdkZIcWNJV25GelhFV0loS1VjUjhYd0Zxb3RVSmsyZFN3ZV9temw3ODZ3bjQ2cFdZUnRVMklsLTF5eUNQVTYzZmUxV3Y3ZlF6RFpnTWtCNUNVbXhNMmRzRGZVcVlvZF9KUnJoVDd1VzVaUDJDZ0dQeDZCaHFQUVlCa2xyTXFXSTBtUlNQUUhnZEdRMVlQYnJickVIVWR0LXphMG95Zw?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 13:32:12 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 9,
+      "matchedKeywords": [
+        "paxton",
+        "texas gop"
+      ],
+      "sentiment": {
+        "positive": 0.001,
+        "negative": 0.999,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W27"
+    },
     {
       "title": "James Talarico Hires Activist Who Handed Out Sex Toys on Campus to Craft Gun Policy - townhall.com",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQc291WnNad1lZVU1CdXdRalZZM044X1BOZERTVDhXWnRHcEx4YXpmbXpmZjVuaDczTmdxNWJzOEtzYXl3RkNSOFd1TW5FMVFsY056Z1ZMel81MDRWR09nN0JKYjlqaTBqd1IydUdEU1VBTGR5RnlaUDdrWHFVZjNVV09qU3FaMDRlbzhOVndDMnVncEZiYl9OanplN2gyWFNZVTk5UDBrVGswMVVERVJTQ3JleUtUNG9pM2tDaFpmbFpqQ2hDZktSakdfTF9vVFkxTzdoRmM5ZFBPRDRqZkYw?oc=5",
@@ -1792,37 +1810,19 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "Ken Paxton walks back IVF stance, saying he’s open to restrictions that could limit access - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVXFYRkYzbllGd3U3RF9NRGwxNFBZaXFRQi11TE41aE5Qak1MUHM0eS05ZUVSWjl3SlFaSklYYkNKS0ZzUjhKcWFtaWxNQTlmTEJxQm9xR3hnX2QyeTNuQ2JiMFpjUTQtSTdzMWlwV290bDRtTWRzUGd5SGlzM29LX3F0MFQ4c2hQeXlB?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 20:40:42 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.133,
-        "negative": 0.867,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W27": {
-      "talarico": {
-        "positive": 4,
-        "negative": 18,
-        "total": 23
-      },
       "paxton": {
         "positive": 3,
         "negative": 23,
         "total": 26
+      },
+      "talarico": {
+        "positive": 4,
+        "negative": 18,
+        "total": 23
       },
       "both": {
         "positive": 4,
