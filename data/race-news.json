@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-07-07T23:08:43.894Z",
-  "count": 19,
+  "fetchedAt": "2026-07-08T01:02:04.969Z",
+  "count": 21,
   "feedsChecked": 8,
-  "itemsScanned": 158,
+  "itemsScanned": 155,
   "items": [
     {
       "title": "James Talarico expected to be defeated by Ken Paxton in Texas Senate election - Sky News Australia",
@@ -102,12 +102,23 @@
       "title": "Texas Attorney General Ken Paxton Faces Voter Fraud Allegations - asatunews.co.id",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13UGlNR1k1N3BHd2Z2TTMyX0VlV3VUaHc4OTNiSUpUaEdtNkZURkQ0MDRpM1lJdGhxd1lhc09DTEF1ME9zTUtQZU1yXzBXdFFXUmZYYTdoNlpHRmhVMXMtMF9hTHZwR0p1MVF6b0xEY3FtbnlNWGZXOTB4aw?oc=5",
       "pubDate": "Tue, 07 Jul 2026 20:39:00 GMT",
-      "feedSource": "google-news-race",
+      "feedSource": "google-news-texas",
       "raceScore": 14,
       "matchedKeywords": [
         "paxton",
         "ken paxton",
         "attorney general"
+      ]
+    },
+    {
+      "title": "Ken Paxton vowed to crack down on ‘illegal voting.’ He may have violated Texas election law. - KXAN Austin",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOd1h0cU1kNW1xVWphOVg2SVRFcnFVODNwSHlQSDJwME1qbHd3cmRmdEZVUXVEaFEya0tQbUV1YUJqRzFEZGpVUW5DbDNqdWVaV3pIZjVSV3ZFbkFrSF9QcVg3OTFXb19hQzVYcEktcjdrd2EwaXZ6dmxqLVVwUzBLSXVteXBUbmswc0VhTWJUb3JkY1ExZkhWTFZiLTM2UDZnMkd1ZGFDVnNiX2xZbTR2M1EzRmlaRExTUmhFZFJzT3M0c3A2S2twM0ZB0gHPAUFVX3lxTE1Genp1WkNKbktiaHE3QXYxNmNBckhnbWtlSDhsZU1KdUpXWVBFZWliYk9BZXM2NmV0RjB5eEw5Z0dtS3lnc1lkRmdfV3N0SGMyWmp4YnJlNjhVVHNwUTg2c24wZjFrZzBnTnZmbzYxdW91LXNLb21ZR2dVQ25uVVdIZE1ERkZSc3lTZ3FQZDMxYTdqNUljSmxoRTJDYVRIMC1MUFZVaXBRWVY4bGNFY0d5MU0tQXlOUzNSRjdZOUlVVHJSV21Kbl9uWVJlejZfWQ?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 20:14:10 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
       ]
     },
     {
@@ -122,31 +133,9 @@
       ]
     },
     {
-      "title": "Ken Paxton vowed to crack down on 'illegal voting.' He may have violated Texas election law - KERA News",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQWVCaTZVUjNyNEEycGtIa0dfbl93dFpGcGpIdF9TVTlXQnZWUDl0d3ItTGQzRk5OUzBUa2JzV0pLelhRQnljVnpDeUUzZW11eENuTGNnVEJGZkZoUDBadmJSMENDTUhER1VGMHZDbTFiNFBOXzdnZGFWa3Iwc1ViX2lpS0JDVFJYM0d3Z1dzWHZVWHFrVFVsRjJRY1dUeUJHaERubjRGR0t2aUJNOURiVU9vZnR5NkNuZHBnbTVjLUo2eXZoWTBUT3Fndkt1dw?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 18:26:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ]
-    },
-    {
       "title": "Ken Paxton vowed to crack down on “illegal voting.” He may have violated Texas election law. - The Texas Tribune",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9lSTdhdmw1cTVfOWpmRGQ5T2ZwX3FaRS02MlZ4N3JQODhVX1AwUnFZZFJlalJfX1N5QTI4ZmJpR2pPVzlxYVRSZHdqNk5RNnNTcjJ0SHMxbXJia1h4dnJUTkZab2hXWVp2TXQzazJpVFRIT3J3a08xQU15bw?oc=5",
       "pubDate": "Tue, 07 Jul 2026 17:30:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ]
-    },
-    {
-      "title": "Republican Ken Paxton spotted with alleged mistress in England over Independence Day weekend - San Antonio Current",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdF9ObWxCckh0U1VaY01KaE9rd1FLT01QSzhWejAydGk5S3dVUDFhRU5xSm5GTWxxU1BqNFhKYmYxZjFtYVBiRGlfYVJRNHB6Z0t0amFJcDhJMVQ3WDQyMFB3c0Z3NGxzaWZXeFdZTWFIb2U2ajJTTlJINkJ6QW45a0tYMmh2aEtxVUVXOFRsT3BWMEVfRVEzMHN5VGxHQy1NR1kzdVBqeUU1VGd5UFI1QTVYeHE1VnNQSzRxRkxIZEl3Wmk4Y1lRYnEwd1J1VjlFMWY3eW16NzhncEJjY2hVaA?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 17:04:09 GMT",
       "feedSource": "google-news-race",
       "raceScore": 12,
       "matchedKeywords": [
@@ -160,6 +149,17 @@
       "pubDate": "Tue, 07 Jul 2026 11:03:39 GMT",
       "feedSource": "google-news-texas",
       "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ]
+    },
+    {
+      "title": "Vaccinated, Boosted James Talarico Spent Christmas Alone with COVID After Calling Fauci Action Figure His ‘Coolest’ Gift - breitbart.com",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNnItY2xuM3NuR1JlME42T2RYaDlpUUpnV3laTk5YRXNFYm4wOUR2TTNzcF8yUlBkcGZ4ZklMaE0yTjhNclVZei1zUmgzUjJrcDNQTko3dHVDbUg3WWYyTTlFUHhQcU1IbVVYNUhid3FjWjNXVFQ4azJYMlQ1VGdfbHNUYTNCeExLSEFRVXdxam51eDQ4UDkzdVE2Rmp2c1ZxWl8xWWhkWDRETlZQN1M5U1N3a3I2Si12d3RITVYyMUpFNl9TZk1Bb0R4WFdQSnpaMHVkcW90RkYxN3l6SzdJYldnR3hybTk3RUdmeXFDd3V1V0dTbk1V0gH8AUFVX3lxTE1MWDRlMmtTTVQ2WWpNN0xaMzJjX0NGTHZ2cTlXUl9iWEdVMTNVZVlwWG5OcXEtUmJDdXhFOEVzM0UtRWViZWtlMmtEdnl2NDlvMUZCbThsMV91YS10NzRzdXlXdDNOUUMxc3hxdTZGcHd1eG96UjFBYzB3di12aXRTN2t5SUFHNkVBSVczdTY2M0pSYUVjR2NpeVBHYW4tcnA2S1liMGNTaDJZR1V5NzJxSG5ySXh4dUVjWm45LUVaSUR6RFVXclNLOWZycnpvN3A4d1JKbjBJVDJiaDVNRXFodS00bUlkQmFsanVLUk51OVEwUXluX1JEM2c1Zg?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 22:58:21 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
       "matchedKeywords": [
         "talarico",
         "james talarico"
@@ -228,6 +228,28 @@
       "raceScore": 9,
       "matchedKeywords": [
         "paxton",
+        "senate race"
+      ]
+    },
+    {
+      "title": "Talarico courts North Texas voters in tight Senate race - MSN",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQakNrUDEzVkhWQUdHVDFHU2YzNHZzdWZ2bGtiemRrenBTM0pIM1E2LVdqZFM4aVdHc0ZUNXptdEFtbzhDZlFBcVZwT1l5bFZCTkZHeDFWOVRHODJ2UUNjRl9BVEdkRS1LZVl6ekIyczFSTWgzX0VrYTNDQkI4c1lucGIxaVZUWld1WTB5SUhaUkVwOWtTRTd0VC1CSkhqUzhyQnJpM1g4R2ZnVmRna3c?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 03:16:39 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 9,
+      "matchedKeywords": [
+        "talarico",
+        "senate race"
+      ]
+    },
+    {
+      "title": "Talarico courts North Texas voters as senate race tightens - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNzM5b013MEZ5YnplUjJEUDhfSE90UVNKMnpxT2h3SGhrZVo1QnBINnV2b1dkRGlkRjEwME55T0dRaXB3YlY0TmVFclRZZ2Y0ZWpFYUhFS3JFUjU1c0dpUnMwQ1VwTVFxczVfdnQtdmNJc0N0VUZFdlBHOG5fc25jUnpSWFFvMnVqc2k5NkhQa1dGbFJYdkk0V1BGQQ?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 21:45:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 9,
+      "matchedKeywords": [
+        "talarico",
         "senate race"
       ]
     }
