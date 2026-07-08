@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-07-08T18:22:23.597Z",
+  "fetchedAt": "2026-07-08T20:04:55.583Z",
   "count": 22,
   "feedsChecked": 8,
-  "itemsScanned": 162,
+  "itemsScanned": 163,
   "items": [
     {
       "title": "James Talarico expected to be defeated by Ken Paxton in Texas Senate election - Sky News Australia",
@@ -75,18 +75,6 @@
       ]
     },
     {
-      "title": "Trump-Backed Ken Paxton Beats Cornyn in Texas 2026 Senate GOP Primary - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tSFJ4dm5KSlBDQjNIM1VsckJfVmYyUHBjdmlMcEJuVEhsaGZCTVVRZW5wSlRTdjJSVVU4UGkzYUlBYzFVY1pkdnIzeHZuQ0JnTmttWmdSR19Lb2Y4NHFiNnd4Y0U1OWdrU3FpOVVGektETXNVSjhMMG1ZdzlqQQ?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 19:09:11 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "cornyn"
-      ]
-    },
-    {
       "title": "Paxton’s defense attorney endorses Talarico in race for Texas Senate seat - Washington Examiner",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qTTdiX2pudS1rSWZXVm1pWmRHOFVoLThhc0pTcFIyWXFSX2tFaWhZakkwZlBQUm5nakVtWVFiNnpYTDNnRjFnY1lVUktJTWxpSkJMcWVhWUo3bThw?oc=5",
       "pubDate": "Mon, 06 Jul 2026 05:26:00 GMT",
@@ -96,6 +84,18 @@
         "talarico",
         "paxton",
         "texas senate"
+      ]
+    },
+    {
+      "title": "Texas AG Ken Paxton Faces Residency Scrutiny Amid Tight U.S. Senate Race - Azat TV",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYQ0htRHQ0Tnp5bTJISGNmZEsyQ0U4Nk93V0hBS3hSRTdiQzRaRHNnZHFfQjRtYUlOUXlhR1oyRy05enFSN2o2SmdOOGtnb3N1cGp1S3h3TkxlbTA5bGFQbG00ZGNjWEVaOUVHbjZoVkZUUQ?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 19:45:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "senate race"
       ]
     },
     {
@@ -177,11 +177,11 @@
       ]
     },
     {
-      "title": "Why you've been seeing TV ads for James Talarico in recent weeks - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdU5tUFE4RlRQbVppQmFMdERabjNGT1c4LVd3ZUJKak9CNmRHVzFkRC0xSVlRSF9TQXJVSEpUR3htZ2NTS21Nb3cyYzNHeC1vSkxVUlJjbkg4QzRTNE1fcTVpZWp4Q1lHTnZxd0I4OURDUGZ4ZW9WeXV4RTRrcFJ4ODA4ajlJRlU1SThnSVBaa08yWUtEclpYd2FHcDlFSnFJMlhOSnhyd1ZBZm9OZTNoUUZZajh2WGMxRWc?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 11:03:39 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
+      "title": "James Talarico Hires Activist Who Handed Out Sex Toys on Campus to Craft Gun Policy - townhall.com",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQc291WnNad1lZVU1CdXdRalZZM044X1BOZERTVDhXWnRHcEx4YXpmbXpmZjVuaDczTmdxNWJzOEtzYXl3RkNSOFd1TW5FMVFsY056Z1ZMel81MDRWR09nN0JKYjlqaTBqd1IydUdEU1VBTGR5RnlaUDdrWHFVZjNVV09qU3FaMDRlbzhOVndDMnVncEZiYl9OanplN2gyWFNZVTk5UDBrVGswMVVERVJTQ3JleUtUNG9pM2tDaFpmbFpqQ2hDZktSakdfTF9vVFkxTzdoRmM5ZFBPRDRqZkYw?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 18:45:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
       "matchedKeywords": [
         "talarico",
         "james talarico"
@@ -210,17 +210,6 @@
       ]
     },
     {
-      "title": "Talarico targets Paxton over plea deal in Texas child sex abuse case - Spectrum News",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMGhrMTlHdl9adUZDVGhMOS1icXZVTUFBUHNJOTZ5RnZkOHBrSUE3bGhEQkdWWUlLNEJ5eG42cXdta3RJYk5LODJKVnRiOWhZTndYb28xWlVVejhhYlUyNW1FNHg2MDRDejUzMHNEMDV5U3VuQTFtRnA2Xy1EMjJqRVQ1MFRBQ1Z6Z3Q0M296bm9hR0c1c3JjWm4xbVZnQ0dWWUFudlRPTTJTWkJwaG9RMFhzMThWUTYzZ3NuRml3R0I?oc=5",
-      "pubDate": "Sun, 05 Jul 2026 19:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ]
-    },
-    {
       "title": "Talarico knocks Paxton for spending Fourth of July in UK - Washington Examiner",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT1RZc25ubXZYSGhUMm1zNlJaTUx0UVB0ZEZoWXFPajI2SGk2ZWpVS3BzSXE0WGVfb2FkOExrTmpTeTU2MUxYNWI3SlVHUWtlUlk4M243eUptVWFocmtJejZ2a1NIYUVxZDhrNkFlTk05c2lrWExGeDVjc2ZIRDhFNUhOc3g3aUd0aFI0cWYyTUN1UEJEUk53dGNGZXh2LVNXbWNwcVJrUlcwUVgy?oc=5",
       "pubDate": "Tue, 07 Jul 2026 19:31:00 GMT",
@@ -244,8 +233,8 @@
     },
     {
       "title": "Talarico courts North Texas voters in tight Senate race - MSN",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQUhfTFd3RXVSQ2JIemVZV1pveTd5R005ejVyM21zdFAtaURucGxiNmdLZWFKR25vZGh2dU1JR3RBVWw4MUVEbm00RGJPOURZYU1XRFdLbWdoV0lRYzZiQmcyRzBKaF9kZU9oOWZaNkRKQlJCQVNTeFhRMnlBSkJGT2gtdEp2TXBSU25pYU96TmY1VXpQRmw2YXplZGdLR2ZWcHdRWGU3aWtaY3hMdmgwZ1NPNDdPT3hf?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 05:54:44 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbzJxc2Flb2NLYTNIb3Jick5xa2Zka0N4QlhDUm5SYkN1WThPYk1pajJ2Tkxqb1dxaXhIWF9jSlo2dVRRRU0wVUhYNkpSZUh3czVWWXdFVjZkemU4NjNXRVNMYm9fX1JydVpEOFNnMXY3cmtMTFZmV0FvbGpDbDU2S1lVUGo1dkFrYWVzaC1VWmNCcFdvT2VkZ05sU3RNb09rcGV5ODFmRUVrZm8zLU5OQlRRRXdZTUFWaGk5NDZSU0c?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 09:07:50 GMT",
       "feedSource": "google-news-race",
       "raceScore": 9,
       "matchedKeywords": [
@@ -262,6 +251,17 @@
       "matchedKeywords": [
         "paxton",
         "texas gop"
+      ]
+    },
+    {
+      "title": "GOP chief says Texas convention isn’t about Paxton, but Senate race looms large - Marshall News Messenger",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLU5hczVTNDV3aXpKamJoZmowc1czZTU1clB1Ym9tdXlVYzlMeEJyUUd2bl9rSUlnXzlSZkZib3hrXy0yS09XTU9HTkZTY2tMaTNRNXJQZENIcGM4TlhzN1B0NzBJeVB6bUpZRnY0YTM2dEpoenBXdjktcHp5cXV3YW5WRWxTbWZncVhrdTZiX1RFMnFic0NRZWdTVm90bnJtNVpPclpKeFVUOGMyeERLN2l2Y0t6ZUVMbVcza1ljcko?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 10:26:41 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 9,
+      "matchedKeywords": [
+        "paxton",
+        "senate race"
       ]
     }
   ]
