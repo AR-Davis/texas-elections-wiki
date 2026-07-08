@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-07-08T11:23:34.337Z",
-  "newsFetchedAt": "2026-07-08T10:25:01.987Z",
+  "analyzedAt": "2026-07-08T13:08:32.980Z",
+  "newsFetchedAt": "2026-07-08T12:05:21.217Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Texas Dem James Talarico hired brains behind 'Cocks not Glocks' protest to draft gun control bills - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaU5BQmFIMjByQ1d5YjRQOWkxQXJSVjVlWGlJNUFpUVJLNmdXb2tYWVB0NjlHY1JHVC1rQ2RwaHpaWHdSblU4RXJTYU9QWjVuSzNCdnE1MEtKVU5BTl9ieUdrTjJjU2ZPXzZZZXlhc3huQ1hyeTZZSkxQVDA1LTJCY2tYeTZXUEl6dEN5WTNMdlNlaHBScmgxY3o2U2Q3V2F2LXpWRDk1VlBCMUFhLUQyTkxXRGk5TXVoWXhneDJ4REt2SngzQzFOeWc4ekZsOU5U?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 11:11:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.015,
+        "negative": 0.985,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W27"
+    },
     {
       "title": "Trump-Backed Ken Paxton Beats Cornyn in Texas 2026 Senate GOP Primary - AOL.com",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tSFJ4dm5KSlBDQjNIM1VsckJfVmYyUHBjdmlMcEJuVEhsaGZCTVVRZW5wSlRTdjJSVVU4UGkzYUlBYzFVY1pkdnIzeHZuQ0JnTmttWmdSR19Lb2Y4NHFiNnd4Y0U1OWdrU3FpOVVGektETXNVSjhMMG1ZdzlqQQ?oc=5",
@@ -1792,37 +1810,19 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W26"
-    },
-    {
-      "title": "James Talarico Wife: The Truth About His Relationship, Partner Brianna Menard, and the Growing Public Interest - gaza.com.au",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RNUNOa185QXNtT24yMzJZSlRjeW81TEVMRHl2NzVWLVQzUWtwYl9zMTI5MzFla3RTUFpDdk8yUEZ6VVNIX1p3Uld5Zk5aVDZhMC1fbQ?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 19:21:06 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.985,
-        "negative": 0.015,
-        "label": "positive"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W26"
     }
   ],
   "weekly": {
     "2026-W27": {
+      "talarico": {
+        "positive": 5,
+        "negative": 17,
+        "total": 23
+      },
       "paxton": {
         "positive": 4,
         "negative": 21,
         "total": 25
-      },
-      "talarico": {
-        "positive": 5,
-        "negative": 16,
-        "total": 22
       },
       "both": {
         "positive": 4,
@@ -1842,9 +1842,9 @@
         "total": 1
       },
       "talarico": {
-        "positive": 2,
+        "positive": 1,
         "negative": 0,
-        "total": 2
+        "total": 1
       },
       "paxton": {
         "positive": 0,
