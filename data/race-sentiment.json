@@ -1,9 +1,45 @@
 {
-  "analyzedAt": "2026-07-08T03:35:29.548Z",
-  "newsFetchedAt": "2026-07-08T01:02:04.969Z",
+  "analyzedAt": "2026-07-08T06:32:36.288Z",
+  "newsFetchedAt": "2026-07-08T04:49:05.274Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Vaccinated, Boosted James Talarico Spent Christmas Alone with COVID After Calling Fauci Action Figure His ‘Coolest’ Gift - breitbart.com",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNTFg0ZTJrU01UNllqTTdMWjMyY19DRkx2dnE5V1JfYlhHVTEzVWVZcFhuTnFxLVJiQ3V4RThFczNFLUVlYmVrZTJrRHZ5djQ5bzFGQm04bDFfdWEtdDc0c3V5V3QzTlFDMXN4cXU2RnB3dXhvelIxQWMwd3Ytdml0UzdreUlBRzZFQUlXM3U2NjNKUmFFY0djaXlQR2FuLXJwNktZYjBjU2gyWUdVeTcycUhuckl4eHVFY1puOS1FWklEekRVV3JTSzlmcnJ6bzdwOHdSSm4wSVQyYmg1TUVxaHUtNG1JZEJhbGp1S1JOdTlRMFF5bl9SRDNnNWbSAfwBQVVfeXFMTUxYNGUya1NNVDZZak03TFozMmNfQ0ZMdnZxOVdSX2JYR1UxM1VlWXBYbk5xcS1SYkN1eEU4RXMzRS1FZWJla2Uya0R2eXY0OW8xRkJtOGwxX3VhLXQ3NHN1eVd0M05RQzFzeHF1NkZwd3V4b3pSMUFjMHd2LXZpdFM3a3lJQUc2RUFJVzN1NjYzSlJhRWNHY2l5UEdhbi1ycDZLWWIwY1NoMllHVXk3MnFIbnJJeHh1RWNabjktRVpJRHpEVVdyU0s5ZnJyem83cDh3UkpuMElUMmJoNU1FcWh1LTRtSWRCYWxqdUtSTnU5UTBReW5fUkQzZzVm?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 22:58:21 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.997,
+        "negative": 0.003,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "Who Is Tracy Duhon? Ken Paxton Spotted On London Vacation With Christian Influencer - Times Now",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQzljZXBPUkhVZkJqTERZdVMtR2hfZWZhdHpmNzVxUnJqT2ZxTllLREJGSG1OWFN5bDJqZ0tNekh3UzFjNEhna3VmYXl4THRkdm1RWVhLY2FVUlF6NFB2cnM1ZlJkT243NXJSeDBuYVVWZHhMUUJUWHNQaFVGQkdNYmQ2U3QtQWRKbmoyZl9LVmZLQ1doS0N4cnMwbThua2JQZURUVWRoTzdRd3k1X2ltX193Z1JtMDBqNk9FQkw3QkRaSVFvLVA1SThPU3poWVFUcWEtV0tZS05XSU9fdV9R0gHkAUFVX3lxTE9nWFdWbG9ZbkJBSUdoeER3dUR3cWFSN1hVSTNUanBhbmt3dFJVTlB4MXhoSlZEd2VnQU1adVRBREl6ckNJWERfWGc0M3ozU2hZU2tFZFpFcXBNc1k1bDNydFM5VVZvSk1scnRES1hoZ2lhSHpmY3VyQnZoeU90X3ZQaTJweDZVMlRJY0JYM0lOTV9sNU9mc2YzTmFfYUZzanpxTEFaN2VPSGNkbWFsLS1GWEFlS0xwMUxtOFBiTmo2ZFpUUDdib3k1TUE1UzFRY0pQS2dNMWdWbHlmaDNoRUxxbW16aA?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 18:14:16 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.046,
+        "negative": 0.954,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W27"
+    },
     {
       "title": "Vaccinated, Boosted James Talarico Spent Christmas Alone with COVID After Calling Fauci Action Figure His ‘Coolest’ Gift - breitbart.com",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNnItY2xuM3NuR1JlME42T2RYaDlpUUpnV3laTk5YRXNFYm4wOUR2TTNzcF8yUlBkcGZ4ZklMaE0yTjhNclVZei1zUmgzUjJrcDNQTko3dHVDbUg3WWYyTTlFUHhQcU1IbVVYNUhid3FjWjNXVFQ4azJYMlQ1VGdfbHNUYTNCeExLSEFRVXdxam51eDQ4UDkzdVE2Rmp2c1ZxWl8xWWhkWDRETlZQN1M5U1N3a3I2Si12d3RITVYyMUpFNl9TZk1Bb0R4WFdQSnpaMHVkcW90RkYxN3l6SzdJYldnR3hybTk3RUdmeXFDd3V1V0dTbk1V0gH8AUFVX3lxTE1MWDRlMmtTTVQ2WWpNN0xaMzJjX0NGTHZ2cTlXUl9iWEdVMTNVZVlwWG5OcXEtUmJDdXhFOEVzM0UtRWViZWtlMmtEdnl2NDlvMUZCbThsMV91YS10NzRzdXlXdDNOUUMxc3hxdTZGcHd1eG96UjFBYzB3di12aXRTN2t5SUFHNkVBSVczdTY2M0pSYUVjR2NpeVBHYW4tcnA2S1liMGNTaDJZR1V5NzJxSG5ySXh4dUVjWm45LUVaSUR6RFVXclNLOWZycnpvN3A4d1JKbjBJVDJiaDVNRXFodS00bUlkQmFsanVLUk51OVEwUXluX1JEM2c1Zg?oc=5",
@@ -1773,63 +1809,29 @@
       },
       "candidate": "general",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "James Urged to Acknowledge Race in Texas Senate Campaign - Dallas Weekly",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ra05xZ0JJQzNkVk1RREt2ZHc2NmJHRU1HTlRwVVgzbXM0YjFWMWxkM2FpN0ZRdEVTaEUxZVJac1MyMnN5MTl0bFdlY19jWXpVOEtnWmkxUHFsNENJc2hnTE5MX1RRSVNPTlYzcVBR?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 22:16:57 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 7,
-      "matchedKeywords": [
-        "texas senate"
-      ],
-      "sentiment": {
-        "positive": 0.947,
-        "negative": 0.053,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W27"
-    },
-    {
-      "title": "Republican midterm convention to be held in Dallas | Inside Texas Politics: July 5, 2026 - kiiitv.com",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQeWJhcEVKWWR2dDRucXBIYkY0TEh1eWxVc29ldDhwa211R2ZabEVpR1VJZUhMVTdMSklITDBHZlRFS3JrVEltdm16X0dQSmVIU0k4WHRiWEd6M3J0ZDlxQzZ0S01yYzZaYUNrd2VFLXd6ZFZYQkF3ME1raVE5VGYyTW9SUU1GNC1iQ214Vjh6ZjJOOU1CTWxEamstLWludFVOTkh3aXJJVmV3NHZUOEJhSkVuRVFTWkVXLW1WbkdMcm9vdTdwa1ZqYmRzdXNSUWdZdlljZU5DcGJaV1dQcDk3aTJESkdMRHlUX3Y4LUVvLW95WFhNOUJ2blowQ2JOOHM1OUYzZGhjM29VQlpCOE02MHkyQVp5Rmt5UEE?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 22:27:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "sentiment": {
-        "positive": 0.812,
-        "negative": 0.188,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W27": {
       "talarico": {
-        "positive": 4,
+        "positive": 5,
         "negative": 15,
-        "total": 20
+        "total": 21
+      },
+      "paxton": {
+        "positive": 4,
+        "negative": 20,
+        "total": 24
       },
       "both": {
         "positive": 4,
         "negative": 11,
         "total": 15
       },
-      "paxton": {
-        "positive": 4,
-        "negative": 19,
-        "total": 23
-      },
       "general": {
-        "positive": 18,
+        "positive": 16,
         "negative": 18,
-        "total": 37
+        "total": 35
       }
     },
     "2026-W26": {
