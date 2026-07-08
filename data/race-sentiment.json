@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-07-08T00:01:44.695Z",
-  "newsFetchedAt": "2026-07-07T21:55:57.954Z",
+  "analyzedAt": "2026-07-08T03:35:29.548Z",
+  "newsFetchedAt": "2026-07-08T01:02:04.969Z",
   "totalAnalyzed": 100,
-  "newThisRun": 7,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Vaccinated, Boosted James Talarico Spent Christmas Alone with COVID After Calling Fauci Action Figure His ‘Coolest’ Gift - breitbart.com",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNnItY2xuM3NuR1JlME42T2RYaDlpUUpnV3laTk5YRXNFYm4wOUR2TTNzcF8yUlBkcGZ4ZklMaE0yTjhNclVZei1zUmgzUjJrcDNQTko3dHVDbUg3WWYyTTlFUHhQcU1IbVVYNUhid3FjWjNXVFQ4azJYMlQ1VGdfbHNUYTNCeExLSEFRVXdxam51eDQ4UDkzdVE2Rmp2c1ZxWl8xWWhkWDRETlZQN1M5U1N3a3I2Si12d3RITVYyMUpFNl9TZk1Bb0R4WFdQSnpaMHVkcW90RkYxN3l6SzdJYldnR3hybTk3RUdmeXFDd3V1V0dTbk1V0gH8AUFVX3lxTE1MWDRlMmtTTVQ2WWpNN0xaMzJjX0NGTHZ2cTlXUl9iWEdVMTNVZVlwWG5OcXEtUmJDdXhFOEVzM0UtRWViZWtlMmtEdnl2NDlvMUZCbThsMV91YS10NzRzdXlXdDNOUUMxc3hxdTZGcHd1eG96UjFBYzB3di12aXRTN2t5SUFHNkVBSVczdTY2M0pSYUVjR2NpeVBHYW4tcnA2S1liMGNTaDJZR1V5NzJxSG5ySXh4dUVjWm45LUVaSUR6RFVXclNLOWZycnpvN3A4d1JKbjBJVDJiaDVNRXFodS00bUlkQmFsanVLUk51OVEwUXluX1JEM2c1Zg?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 22:58:21 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.997,
+        "negative": 0.003,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W27"
+    },
     {
       "title": "Polls Show Dead Heat in Texas Senate Race Between Paxton and Talarico - sekbernews.id",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ESjA3cV8xaElOZHlmMkhhczRzZmtZeDFVOW1kdm5WRVQ3SjJxcG9LRG5ZTWtvSkZzckctUFZQX1kxZlRKdVRldnFiZVBoUXlMbFdEdGNjdm95dmVCVVptLWc1SGh0ZElaLWdkSjhBbw?oc=5",
@@ -1789,27 +1807,15 @@
       },
       "candidate": "general",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "NY Times Still Trying to Turn Right-Wing Texas Blue With Latest Dem Hope Talarico - newsbusters.org",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU2Z6S2twZ3lZdEx3U3FNeDFJRUNQVjdtdGVtZXFESmpsZTJiX2swRXhBUlNoTWxmMlpkNUdXUFp0QjNYTmFLQUkzY0tzaVhkMUVrOWc1UDVoeVdOUHhfSVRIbWc2Y0wyc3JzYU8taDdGaHRIaTNHclZwak9qT296dlhkQUFXUFhjYlI5X1IxRXJLX0dFT0Z6VWlzOGRWdzJpdXJpTTFmLU1yWkNEZmt0TVZHclZVb0h3Z3ZLSA?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 17:18:19 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "talarico"
-      ],
-      "sentiment": {
-        "positive": 0.012,
-        "negative": 0.988,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W27": {
+      "talarico": {
+        "positive": 4,
+        "negative": 15,
+        "total": 20
+      },
       "both": {
         "positive": 4,
         "negative": 11,
@@ -1819,11 +1825,6 @@
         "positive": 4,
         "negative": 19,
         "total": 23
-      },
-      "talarico": {
-        "positive": 3,
-        "negative": 16,
-        "total": 20
       },
       "general": {
         "positive": 18,
