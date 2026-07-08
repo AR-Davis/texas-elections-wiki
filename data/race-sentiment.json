@@ -1,9 +1,46 @@
 {
-  "analyzedAt": "2026-07-08T09:09:12.660Z",
-  "newsFetchedAt": "2026-07-08T04:49:05.274Z",
+  "analyzedAt": "2026-07-08T11:23:34.337Z",
+  "newsFetchedAt": "2026-07-08T10:25:01.987Z",
   "totalAnalyzed": 100,
   "newThisRun": 2,
   "stories": [
+    {
+      "title": "Trump-Backed Ken Paxton Beats Cornyn in Texas 2026 Senate GOP Primary - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tSFJ4dm5KSlBDQjNIM1VsckJfVmYyUHBjdmlMcEJuVEhsaGZCTVVRZW5wSlRTdjJSVVU4UGkzYUlBYzFVY1pkdnIzeHZuQ0JnTmttWmdSR19Lb2Y4NHFiNnd4Y0U1OWdrU3FpOVVGektETXNVSjhMMG1ZdzlqQQ?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 19:09:11 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "cornyn"
+      ],
+      "sentiment": {
+        "positive": 0.366,
+        "negative": 0.634,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "Talarico courts North Texas voters in tight Senate race - MSN",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTkU1cnUyZFBVNVhocG1PbEFmQjhLdlpnbjN2QmhoaUk4Z19HNFNvejdsZE8wcm1pYm1jUkhfbTJqZV9ocUJvQk5jQzQxazVGblZSdXpZSEZySGVHWkwyamlKV1FxRW5xdEwzdDNLbHV0OTV5blBfZWt5UFg2Y2IyWDVuRnlNdm1tc1dSempuU1NSZEVOdzFzd29EVXhFSE1RNnJtaEN4VVM1dFp4aGU3SkNmbXdtM3dzWkNVUQ?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 03:39:51 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 9,
+      "matchedKeywords": [
+        "talarico",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.163,
+        "negative": 0.837,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W27"
+    },
     {
       "title": "Vaccinated, Boosted James Talarico Spent Christmas Alone with COVID After Calling Fauci Action Figure His ‘Coolest’ Gift - breitbart.com",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNTFg0ZTJrU01UNllqTTdMWjMyY19DRkx2dnE5V1JfYlhHVTEzVWVZcFhuTnFxLVJiQ3V4RThFczNFLUVlYmVrZTJrRHZ5djQ5bzFGQm04bDFfdWEtdDc0c3V5V3QzTlFDMXN4cXU2RnB3dXhvelIxQWMwd3Ytdml0UzdreUlBRzZFQUlXM3U2NjNKUmFFY0djaXlQR2FuLXJwNktZYjBjU2gyWUdVeTcycUhuckl4eHVFY1puOS1FWklEekRVV3JTSzlmcnJ6bzdwOHdSSm4wSVQyYmg1TUVxaHUtNG1JZEJhbGp1S1JOdTlRMFF5bl9SRDNnNWbSAfwBQVVfeXFMTUxYNGUya1NNVDZZak03TFozMmNfQ0ZMdnZxOVdSX2JYR1UxM1VlWXBYbk5xcS1SYkN1eEU4RXMzRS1FZWJla2Uya0R2eXY0OW8xRkJtOGwxX3VhLXQ3NHN1eVd0M05RQzFzeHF1NkZwd3V4b3pSMUFjMHd2LXZpdFM3a3lJQUc2RUFJVzN1NjYzSlJhRWNHY2l5UEdhbi1ycDZLWWIwY1NoMllHVXk3MnFIbnJJeHh1RWNabjktRVpJRHpEVVdyU0s5ZnJyem83cDh3UkpuMElUMmJoNU1FcWh1LTRtSWRCYWxqdUtSTnU5UTBReW5fUkQzZzVm?oc=5",
@@ -1773,55 +1810,19 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W26"
-    },
-    {
-      "title": "Inside Texas Politics | Full Interview on GOP Midterm with Kendall Scudder, Texas Democratic Party - WFAA",
-      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNRG85MTZyOEtUUFFCWDE5N0JHR0xzTkcwcTRtT2l6ZFpkM1NfdERSM3VhSlFYY0hwUkI3WnhxRGh5S0xLdXZjWS1yc19kb1hmOUtGcnF1Qm9oaFFaX0lCbFVzU0ZsbF96ZG0yR2VIV3BOVkdCWFZ1WU5idTE3aXdndEpkSU9vRVJOZU9fSDVWNmx3dWg5bEN1QmFkS0xxZzU3cnhpSWNYcEZzNlZFdU5RX21WNFZZaGFDbWVLZ1I1eklVLUZaU0MwLVBlSzU3NTczbVB1Q1ZOcE5CT1ZFMHRDNnpMa1FrSVZBZHQzRHBGV095d0tVYWRJbDh5Z241Rk53N0d6N1J4SVV6aHo4R1V2VGFrUDFfZXJmZE5jdEltNWN1Qk9SeXg0VjFIdjE5ODJiX3c?oc=5",
-      "pubDate": "Sat, 04 Jul 2026 01:36:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 8,
-      "matchedKeywords": [
-        "texas politics",
-        "texas democrat"
-      ],
-      "sentiment": {
-        "positive": 0.985,
-        "negative": 0.015,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W27"
-    },
-    {
-      "title": "Texas Democrats Face Internal Friction Over Sanders Appearance - Akses.co.id",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Fc3pycHh1eDVhTW1pYzdWV1dwdUl4VU5FVkJlcjFmM3UwNC1FbXp0OExuVTRua0J2T0xxRWkxd3J2akNhTlBEbnVwcVItY0g3VjhQajczNWhsc3laOGd4NDZKQjN2Q0FHbHFnYk5jSXlvd1lPQWlR?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 00:42:15 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 7,
-      "matchedKeywords": [
-        "texas democrat",
-        "texas democrats"
-      ],
-      "sentiment": {
-        "positive": 0.004,
-        "negative": 0.996,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W27": {
-      "talarico": {
-        "positive": 5,
-        "negative": 15,
-        "total": 21
-      },
       "paxton": {
         "positive": 4,
-        "negative": 20,
-        "total": 24
+        "negative": 21,
+        "total": 25
+      },
+      "talarico": {
+        "positive": 5,
+        "negative": 16,
+        "total": 22
       },
       "both": {
         "positive": 4,
@@ -1829,9 +1830,9 @@
         "total": 15
       },
       "general": {
-        "positive": 16,
-        "negative": 18,
-        "total": 35
+        "positive": 15,
+        "negative": 17,
+        "total": 33
       }
     },
     "2026-W26": {
