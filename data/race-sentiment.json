@@ -1,9 +1,45 @@
 {
-  "analyzedAt": "2026-07-08T19:40:15.064Z",
-  "newsFetchedAt": "2026-07-08T18:22:23.597Z",
+  "analyzedAt": "2026-07-08T21:13:09.986Z",
+  "newsFetchedAt": "2026-07-08T20:04:55.583Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "James Talarico Hires Activist Who Handed Out Sex Toys on Campus to Craft Gun Policy - townhall.com",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQc291WnNad1lZVU1CdXdRalZZM044X1BOZERTVDhXWnRHcEx4YXpmbXpmZjVuaDczTmdxNWJzOEtzYXl3RkNSOFd1TW5FMVFsY056Z1ZMel81MDRWR09nN0JKYjlqaTBqd1IydUdEU1VBTGR5RnlaUDdrWHFVZjNVV09qU3FaMDRlbzhOVndDMnVncEZiYl9OanplN2gyWFNZVTk5UDBrVGswMVVERVJTQ3JleUtUNG9pM2tDaFpmbFpqQ2hDZktSakdfTF9vVFkxTzdoRmM5ZFBPRDRqZkYw?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 18:45:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.003,
+        "negative": 0.997,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "Talarico courts North Texas voters in tight Senate race - MSN",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbzJxc2Flb2NLYTNIb3Jick5xa2Zka0N4QlhDUm5SYkN1WThPYk1pajJ2Tkxqb1dxaXhIWF9jSlo2dVRRRU0wVUhYNkpSZUh3czVWWXdFVjZkemU4NjNXRVNMYm9fX1JydVpEOFNnMXY3cmtMTFZmV0FvbGpDbDU2S1lVUGo1dkFrYWVzaC1VWmNCcFdvT2VkZ05sU3RNb09rcGV5ODFmRUVrZm8zLU5OQlRRRXdZTUFWaGk5NDZSU0c?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 09:07:50 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 9,
+      "matchedKeywords": [
+        "talarico",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.163,
+        "negative": 0.837,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W27"
+    },
     {
       "title": "Talarico courts North Texas voters in tight Senate race - MSN",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQUhfTFd3RXVSQ2JIemVZV1pveTd5R005ejVyM21zdFAtaURucGxiNmdLZWFKR25vZGh2dU1JR3RBVWw4MUVEbm00RGJPOURZYU1XRFdLbWdoV0lRYzZiQmcyRzBKaF9kZU9oOWZaNkRKQlJCQVNTeFhRMnlBSkJGT2gtdEp2TXBSU25pYU96TmY1VXpQRmw2YXplZGdLR2ZWcHdRWGU3aWtaY3hMdmgwZ1NPNDdPT3hf?oc=5",
@@ -1774,55 +1810,19 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "James Talarico makes visit to 'iconic' Texas soul food cafe - Chron",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObF9JNmFKWks2Zmh0aWlZMkpwaEF2YVpFdkF0RXZaQTUtMjk5WVpYSGNGVEhGUHdFd2lXUVkwV3FEWjhvTVAxOGhRT2JkU1VYNXROdVVXUzJpdTFJYURMQ253YU96aXRDS2VEMWs3MzB6NTdvNHdEUXZaUXNpMVFFME8zRW15dHM?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 17:51:22 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.999,
-        "negative": 0.001,
-        "label": "positive"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W27"
-    },
-    {
-      "title": "Texas AG Ken Paxton calls for \"restrictions\" on IVF fertility treatments - LGBTQ Nation",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNTQ5S3hfcGNQc0JEd3ByM3lSLWN1Wnp6bDB4ZHJxWDU3ZWZMbkloSmVnUkMyaXpnMU5VNm01RnlXb2hKTU5jdWlLT3hpYzROV2x3WWR5U3pTRnU0SXRRNThBWUFUZlp3U3JqcWhKdHc3V19lSldDbG1sOGxRY0NJQWhieGhOUGROb0FHdUNnMThaLXJFdk83MjdabkNLeUU1MEJwd3RUZVZJbWc?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 14:40:29 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.06,
-        "negative": 0.94,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W27": {
       "talarico": {
-        "positive": 5,
-        "negative": 16,
-        "total": 22
+        "positive": 4,
+        "negative": 18,
+        "total": 23
       },
       "paxton": {
         "positive": 3,
-        "negative": 24,
-        "total": 27
+        "negative": 23,
+        "total": 26
       },
       "both": {
         "positive": 4,
