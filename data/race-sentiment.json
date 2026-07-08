@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-07-08T17:42:22.975Z",
-  "newsFetchedAt": "2026-07-08T16:45:40.218Z",
+  "analyzedAt": "2026-07-08T19:40:15.064Z",
+  "newsFetchedAt": "2026-07-08T18:22:23.597Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Talarico courts North Texas voters in tight Senate race - MSN",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQUhfTFd3RXVSQ2JIemVZV1pveTd5R005ejVyM21zdFAtaURucGxiNmdLZWFKR25vZGh2dU1JR3RBVWw4MUVEbm00RGJPOURZYU1XRFdLbWdoV0lRYzZiQmcyRzBKaF9kZU9oOWZaNkRKQlJCQVNTeFhRMnlBSkJGT2gtdEp2TXBSU25pYU96TmY1VXpQRmw2YXplZGdLR2ZWcHdRWGU3aWtaY3hMdmgwZ1NPNDdPT3hf?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 05:54:44 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 9,
+      "matchedKeywords": [
+        "talarico",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.163,
+        "negative": 0.837,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W27"
+    },
     {
       "title": "Texas AG Ken Paxton, Who Is on a Crusade to Find Election Fraud, May Have Voted Illegally the Past 2 Years: Report - People.com",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTVRBUEdjQ2cwVXhUbldqb2RYc0wyYVcxa2c1c25YYlJqWFlINm0yekwzNG1QN0h5bURWSDV0OFZXOEcwbWxUYm1BeDVseklRWjFLZkNjMVd3VEVaSEE0LUxjZmV0ZEJXdnp5LW9fN0VlVXQwZG8xX3d6XzlNSlpjS1VwQUtVMy0xR2w4U0dHUmF6eTU2NlhrSHlsNGJZMGFQMzktWE1RdFhNRWp4eVFKR3E1RTJDUWRHcnlXOEUtaHlLTUg2R1pHbW9xWEZRLS1pSndZRDlrTQ?oc=5",
@@ -1792,37 +1810,19 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "Polls Show Ken Paxton Performing Favorably Among the Cannibalistic, Chainsaw-Wielding, Human Skin Mask-Wearing Faction of the Texas Electorate - The Hard Times",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOcDBaY1p0eHp4TXFFSGRtTGpVUkRvMUcwZjVkUlBZNEdzVGtpWi1Qc0NLRFM4Sk5IQl9ETWhYZ1JmYURoX3pzRzZiWDFrN0Ewb01fV2ZaWWlhTjROUTFlOXloNlVqeGk4S1VDWklXbW9COXdCN195LS1rNlNkd1NVNUZXTUVuU2N6UlVvRzNkU3g5d0psd0FTd0FnQzk4Z3g3MzQ3aEFOQnFydzFYVWxFZTJzZ1pFNzcyMVhHWU1QU0p4bVV1dnZ0cFFHSG8weHl1TVk1WnBhOXE5MmRBUnRSU0FvUXUtUEFWN0gyRUkyaFNNUF8zSHYzaVBkSXhwcVNtcHk5YQ?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 06:04:40 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.993,
-        "negative": 0.007,
-        "label": "positive"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W27": {
-      "paxton": {
-        "positive": 4,
-        "negative": 24,
-        "total": 28
-      },
       "talarico": {
         "positive": 5,
-        "negative": 15,
-        "total": 21
+        "negative": 16,
+        "total": 22
+      },
+      "paxton": {
+        "positive": 3,
+        "negative": 24,
+        "total": 27
       },
       "both": {
         "positive": 4,
