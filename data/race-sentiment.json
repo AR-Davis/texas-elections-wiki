@@ -1,9 +1,81 @@
 {
-  "analyzedAt": "2026-07-08T22:33:56.403Z",
-  "newsFetchedAt": "2026-07-08T21:43:50.032Z",
+  "analyzedAt": "2026-07-08T23:40:45.605Z",
+  "newsFetchedAt": "2026-07-08T23:14:28.263Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 4,
   "stories": [
+    {
+      "title": "Ken Paxton raises over $9 million in Q2, Senate campaign says - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY19TNUJNcy11M1NQLVFqZVBLMzdEZk12eGctTi1wNnJ4QTMyLUtuS2cyc1BnUllBRTc5QV9oUHFfaEZqaVZqZWFLYzNaRUpnSWFxaUk4Q3hxR05OWHdxS2Zpd2xRajBGa015aFBPRXdPQzFLdWJuMGJUZzNyYWRJTVpMZlJ0WkNGdkduTXhMcV9Udkp6aXFpbENoekNDSHFQSTVUVS11Zw?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 22:35:39 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.376,
+        "negative": 0.624,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "Texas AG Ken Paxton Faces Polling Crisis After London Mistress Sighting During U.S. 250th Anniversary - streamlinefeed.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOY1RSU3c3T1oyYlZYM0Z4Q2J2MEl2RFJLSjJOODQ0QTJKNzZBcnhTVmZsekk0OHNTanRWQjR5WXl5bEcwM29xTzdJb1RycXRLQ04xSGtIbzhyODBRWTdyUWFpLXN3SFQ2Nk56LVJPWjZybjBLSml5TW5kWHRnZzFWRXM0OF9NcjZtSXloZnBDR3BUXzE3OXVuUWFtMGk3SEx4dXlFOERjZjA3NkdpdGYxa0t3a185dElJQVVvaVJxdUtaZm5kWko5NlA3d1lwQQ?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 11:49:17 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.004,
+        "negative": 0.996,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "Ken Paxton Vowed to Crack Down on “Illegal Voting.” He May Have Violated Texas Election Law. - ProPublica",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLW8wZThTWG5ReEJHMVFtRkFmalU5TnUwQkJmSFlkTmhPbXZCZVJoTkhyQmpmOW13c04xNFNUTm9RM1dYcG1WUzEydDEyUVBmdDBybUloTHVjNFZMZS1oSl9DSjFCb0lZQkZnejFzbk5lM2VkOGJ4eWdvUE5CSTY5N3l4SQ?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 17:30:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.008,
+        "negative": 0.992,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "Texas GOP Senate candidate Paxton has been voting illegally, report suggests - MSN",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQZDV4SHpOMVd6VTR3Q3B3NHFLNl84N3otMkpOZm9INnZHYXNZSXlSNWYxZjQ0eWlSYnFCRGZWRFdXaHotWVlKLXpBRFRjemdjTzRiQlZyclZBMGZTMzlPRGszYXd3REdRLTJDMVBtdHBpM0VnRFdDblJGQnozemlxdHZDWHFxYjBFMURpWWhYQUt6ellCdE9KejA1eUFOQTl3VWM1TUw1SDNTRGlQVkFQZURraGNQMkh0UFEydXBQeVoyX2s0WnNhQ3pzQ0s0am0xbkh0clp0Y01NMlNMUzFuZDZMaXdWUF9rMUtEbHZZN3duQ1lMWXZpTldSSmVlb0hFczA1WmFURQ?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 13:32:13 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 9,
+      "matchedKeywords": [
+        "paxton",
+        "texas gop"
+      ],
+      "sentiment": {
+        "positive": 0.001,
+        "negative": 0.999,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W27"
+    },
     {
       "title": "Texas GOP Senate candidate Paxton has been voting illegally, report suggests - MSN",
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNdzZCcWhLOGYzQUxFaTNPNDFSYmdkRFYxU3hudklHMWxGUEUwLXRWZFJRdU5aTWkwOEJUNVg4Mmk4LWNZNWN0SW0wTFE4NmVPMW1hQmdJS01nRmhLN0dnSVVCOTJZZHJuRzNBZndkdkZIcWNJV25GelhFV0loS1VjUjhYd0Zxb3RVSmsyZFN3ZV9temw3ODZ3bjQ2cFdZUnRVMklsLTF5eUNQVTYzZmUxV3Y3ZlF6RFpnTWtCNUNVbXhNMmRzRGZVcVlvZF9KUnJoVDd1VzVaUDJDZ0dQeDZCaHFQUVlCa2xyTXFXSTBtUlNQUUhnZEdRMVlQYnJickVIVWR0LXphMG95Zw?oc=5",
@@ -1736,93 +1808,19 @@
       },
       "candidate": "general",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "WATCH: Video Shows Texas Democrat James Talarico Using the Term ‘Christofascism’ - breitbart.com",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZ0ZySnB3Y3ZmLUxiY0MyU0pBR3VCSnVCMTNRcTlSaEtIZzVuS3NEX3BMclh6d2tuU3hwNWFnSW1iMUozbVlrNHBCSG8zYXpSemR0RUliOW4wczZuSklFUGYwNGhMRG15VU1fd2xLcVptT2Vhd3R0YzJCMGNmSmtkd3hYUVBtVWN3QXZUQlAxSVlWdlo3UFZPOWZQUkFNeWVQd19LVmJFeWwwc2FlVENTaFJHTWVzR3o1czUzbTRWSzRuRzJWUTJr0gHHAUFVX3lxTFBnRnJKcHdjdmYtTGJjQzJTSkFHdUJKdUIxM1FxOVJoS0hnNW5Lc0RfcExyWHp3a25TeHA1YWdJbWIxSjNtWWs0cEJIbzNhelJ6ZHRFSWI5bjBzNm5KSUVQZjA0aExEbXlVTV93bEtxWm1PZWF3dHRjMkIwY2ZKa2R3eFhRUG1VY3dBdlRCUDFJWVZ2WjdQVk85ZlBSQU15ZVB3X0tWYkV5bDBzYWVUQ1NoUkdNZXNHejVzNTNtNFZLNG5HMlZRMms?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 23:08:04 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas democrat"
-      ],
-      "sentiment": {
-        "positive": 0.106,
-        "negative": 0.894,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W27"
-    },
-    {
-      "title": "Democrat James Talarico gets new odds of pulling off an upset in hotly anticipated Texas U.S. Senate race - wonderwall.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSWstLXBwZE5ZQ0xkN1YwTXdvcWVZcm1UdVI0dl9lOUkzTDNYY25KUUFQOXBKd3hzTmNHcFJJTHdSR0xDdGp2LU9zM3ZjbmtIRHZ6VUdBSWxMb3Y3dGdFRDRYa1JNdnN1enJYUmZReGlJQnViN2ZXcDRqNVk5RExwQVFVX0lZTlhvdjROdkJBOHNjTkJ0NFFRN0dGLVVSUUdYQ0MzdW5MSWd4UUlMR0dETmR4anEwTkhsUHRieEJKNUNqR3A4?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 21:05:27 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.982,
-        "negative": 0.018,
-        "label": "positive"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W26"
-    },
-    {
-      "title": "Ken Paxton says settlement will send millions of eggs to Texas food banks - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNGRzeTdyVjZNbmE5dEd5aVQ4Y0V5a3lqUlcyY1FPV0xKUHVsSU1EOThqVWN3VHBXRXgtRTZmTmlIbWVBNURKY21kZXNqWXBFTFBKUEhkN2xQVzFKSEVXdmk4aVZTT0hjdnVybG9oQ3pLa19OMUZjbnprcmRYV0dhS0lxNmI4ZnNVZ0lZRjE4ekhLUVRxQVhtQThMYzMwUnJyS1dnQXhSbw?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 16:34:12 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.016,
-        "negative": 0.984,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W26"
-    },
-    {
-      "title": "Who is Angela Paxton? Texas Senator ends 38-year marriage to Ken Paxton citing ‘adultery’ in divorce filings - MSN",
-      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxQU3lrOHNSYU8tbnNQdmRKVkxXVnc4ZkJiNUhUNVg2Z0pEdDd6QVNBVE5waVlCdHQwdDExb244dnFwMFotZzlVQU50TjVIdk1aaGl0elJabW9OcTd0cmxXcTZvZm04VEJjQjVsRE1SWVlkVzdUR3VpSHhWbmZqalBJYjZpWlhYSENOelI3bkN2cWxqZ1JsR2U4SzlnS1VieTROcDdWb3ZtZERMdmpDdzB6azN6SVhxRXQ2ZmhlR1BNc2p1UW1XejZFS2dZaHo5czVHT21tcVFDc1ltQ1lid3d3VF9MTm82anA1X0VpRXE1SkdFTVk0UEI3djRHbmpmSHpacDIta3pUSmFsdXNXdklHUEFiOURhNFE5LXJ2RV91N25tNDRRMmZTZklqbk5KR295YTBEN1loR2p3Unhkcl82QUVvalNQTC04UkkyN190R2JFLW04YVB0dWRLcVVQbWNGbW1VdmZnV0ROeXp4WkRKRWRyY01LRHBNZXhEc2Zmc2U?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 00:08:47 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.006,
-        "negative": 0.994,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W27": {
       "paxton": {
         "positive": 3,
-        "negative": 23,
-        "total": 26
+        "negative": 26,
+        "total": 29
       },
       "talarico": {
         "positive": 4,
-        "negative": 18,
-        "total": 23
+        "negative": 17,
+        "total": 22
       },
       "both": {
         "positive": 4,
@@ -1837,16 +1835,6 @@
     },
     "2026-W26": {
       "both": {
-        "positive": 0,
-        "negative": 1,
-        "total": 1
-      },
-      "talarico": {
-        "positive": 1,
-        "negative": 0,
-        "total": 1
-      },
-      "paxton": {
         "positive": 0,
         "negative": 1,
         "total": 1
