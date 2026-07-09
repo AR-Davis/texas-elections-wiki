@@ -1,9 +1,30 @@
 {
-  "analyzedAt": "2026-07-09T07:41:25.046Z",
-  "newsFetchedAt": "2026-07-09T05:44:07.847Z",
+  "analyzedAt": "2026-07-09T11:09:12.815Z",
+  "newsFetchedAt": "2026-07-09T10:00:42.009Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "James Talarico out raises Ken Paxton in Texas’ U.S. Senate race. By how much? - Fort Worth Star-Telegram",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYnFyWW5qZ3lvYnp1V2ZaZUE4VGQxd2hnSFZSdjV4VkhYSjBfRTN4Y09MSko2dzFmY1FiM3U4MkFlX2xDWEpkTENzbGxzUjMyMlpqSWE3NnZma1ZDc3U1d2NHSlJzOEw5TmZwUjIzUkloaGtfRzU2ZmtEVWZDWmZwN3ozOTF1MXUxZmFxVm9idllSMF85ZkHSAZYBQVVfeXFMT2Jxclluamd5b2J6dVdmWmVBOFRkMXdoZ0hWUnY1eFZIWEowX0UzeGNPTEpKNncxZmNRYjN1ODJBZV9sQ1hKZExDc2xsc1IzMjJaaklhNzZ2ZmtWQ3N1NXdjR0pSczhMOU5mcFIyM1JJaGhrX0c1NmZrRFVmQ1pmcDd6MzkxdTF1MWZhcVZvYnZZUjBfOWZB?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 00:44:27 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.301,
+        "negative": 0.699,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "James Talarico out raises Ken Paxton in Texas’ U.S. Senate race. By how much? - Fort Worth Star-Telegram",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd2FYXy1kUXFwdm54QVVhVUdxTFBKOTdrcVJ5Y2cxZW1RWEo2LW1CNmtqMTRNd3p5Z2dOYjhJVGtkdy1ZRlNndGFyMk5MNWE3NXkwQ1BzeDdkVGRodS1pVHVRT1ZmenllUFA1SmRQeVNGSFhrWEtKaDhzcmhNTndRRUR0SlFCSVpCYjAxS1pfTzVrckZPRlHSAZYBQVVfeXFMT2Jxclluamd5b2J6dVdmWmVBOFRkMXdoZ0hWUnY1eFZIWEowX0UzeGNPTEpKNncxZmNRYjN1ODJBZV9sQ1hKZExDc2xsc1IzMjJaaklhNzZ2ZmtWQ3N1NXdjR0pSczhMOU5mcFIyM1JJaGhrX0c1NmZrRFVmQ1pmcDd6MzkxdTF1MWZhcVZvYnZZUjBfOWZB?oc=5",
@@ -1792,31 +1813,14 @@
       },
       "candidate": "general",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "EAST TEXAS POLITICS: One year later — State senator discusses findings from Texas Hill Country flood investigation - KLTV.com",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZWk0QURLNmJKYmpESmwyOHJMNklySTNXMGNoZ1NRTXhlLV80QWhGcE1uUl9qU1BKOWl0MEdUVjlRSnZDbEI4ZFk4WG1KdHZxOVZYdmF6OEpZVnhOSEszZ0RHZ01BZ3RlNm93SnZLckE4N0lJVDlfQm5BdmVlTnhaZFhybVBwQ1Q5VFg5M1FzWHRQemNzRE56eWRsNkpWTklvaEV4NHBHZmNDZTFneE1ldzdadktPaXpNVTlVdm1rbFpLaGF0YmZVaFowaWNlQVV6X1BpTHpB0gHqAUFVX3lxTFBUdUFzSElndkVPbW1sRFpCMkRzQXVPSkxEcm1qeURzN3RkY0Rjb2xTTjRRWU9Jalg3NDZ4NUdJbzM4bkdWYUZySmVqRl9TSjJmU29QWERObENMOHdoM1RRNlVUS3IwSkZmaTVXNjEwNGFfQWo3ZFpoWHZYQnpXQkFkWDJMeWpESjUzbW40Umw2b1BneDFBNUt0dUVJa09MQTh0cWR1MzVEUlI5TTRsYWo5dktoWXM4bXBtaWxueWpHVlF5M2dRc3ltd0MwOThfOEF6TTh2LWZmWGo1dFdSMEFwdVRORHQ5dlREUQ?oc=5",
-      "pubDate": "Sat, 04 Jul 2026 00:28:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "sentiment": {
-        "positive": 0.948,
-        "negative": 0.052,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W28": {
       "both": {
         "positive": 1,
-        "negative": 2,
-        "total": 3
+        "negative": 3,
+        "total": 4
       }
     },
     "2026-W27": {
@@ -1836,9 +1840,9 @@
         "total": 14
       },
       "general": {
-        "positive": 15,
+        "positive": 14,
         "negative": 15,
-        "total": 31
+        "total": 30
       }
     }
   }
