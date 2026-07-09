@@ -1,9 +1,47 @@
 {
-  "analyzedAt": "2026-07-08T23:40:45.605Z",
-  "newsFetchedAt": "2026-07-08T23:14:28.263Z",
+  "analyzedAt": "2026-07-09T03:45:24.871Z",
+  "newsFetchedAt": "2026-07-09T01:10:36.416Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "James Talarico raises over $30 million in second quarter, campaign says, more than triple Ken Paxton’s sum - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTGdDN3dXTWRDNXozYXVjanZQZERrelF0a3UtNzFlTzduZ2JCWVBLLU01N2dXLTNOYVNkMWM5RDNlMUExYXppd3c4R0pvTkxERGlfamNYb1NCY2R0WEpuX1dRaFNiSXZfcTRfUnpEbXREdGVoOWN5MmxuNFdieDZHYjZNZndnbDFsR2tKZ0F2ZzRtdG1vNFZtaEI1c1VzN2xQaHR2RGNwdWlRUQ?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 00:02:12 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.756,
+        "negative": 0.244,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "Texas AG Ken Paxton Spent America’s 250th Birthday In London With His Reported Mistress — With Marriott In The Background [Roundup] - View from the Wing",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KVURiQkQ0V3pjVHhZZ2F1NUJMbmZ0QWFfM2tKN3BIX0s3UUZGT2JTc2pPVEZEYm5jeUNnYUUteWNwQkZMU3dMX1YwYzkwUQ?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 21:04:51 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.996,
+        "negative": 0.004,
+        "label": "positive"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W27"
+    },
     {
       "title": "Ken Paxton raises over $9 million in Q2, Senate campaign says - The Texas Tribune",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY19TNUJNcy11M1NQLVFqZVBLMzdEZk12eGctTi1wNnJ4QTMyLUtuS2cyc1BnUllBRTc5QV9oUHFfaEZqaVZqZWFLYzNaRUpnSWFxaUk4Q3hxR05OWHdxS2Zpd2xRajBGa015aFBPRXdPQzFLdWJuMGJUZzNyYWRJTVpMZlJ0WkNGdkduTXhMcV9Udkp6aXFpbENoekNDSHFQSTVUVS11Zw?oc=5",
@@ -1770,52 +1808,21 @@
       },
       "candidate": "both",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "Texas Senate race turns into political food fight over eggs, grocery prices - Marshall News Messenger",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYVpkVjdLTzJBWDYtVHhrT25Mbmx2Z3VKZVN0ZV9kcTJBbG1TVVBGbkUzOGJ0T0w4SEI2c2MzeS00RTAyUW9vNDN3WUVwMHNWSTRacnhQWDktUU5zNGFCNjhOVEdLMFB0Wlg4azktUTJ6SHFjLTRBQzVuclJocjd4YzlFb0VsV19YQU9XeHhwMmt4Tm1xSDRTSEdlSDdkTUw3aFNtd2JiLU5faE4zQ1hKcXlSSEFQVF9NeVFxbQ?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 10:43:40 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.006,
-        "negative": 0.994,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W27"
-    },
-    {
-      "title": "Texas Senate race now a tossup - MSN",
-      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOa05RMEduVDNod3hYWWFjcVlCa3haNFMtXzh6NXpPT2Z1ZDRtYkplRUppUW9LUGF4d1NQdkd5NWp5Y3ZlLVM0NFBJTkt2TkpSbjdQa1pzQ3BEY1E1d3pxbEpPRVdsaVk3NkhrWi1mdnU3dWlsZGJyVHhSOFBieHNWNVM3eGRWS2Q1bjlkQk1zSGFMR0g1VmVPYWpMTXZhVUNPMnI0bGdhOUF4NnFSeVh3YVYtbkcwTWNpVFZiQkdyY3llWnh3dG9zWnE5UkVELXVybTBJMXVnQzVncGdBaWZWMkRvYVdOd3NHN0p6V1cxUS1HNW5BRFlKSjd3STg5NTNEUUJvN1YwRGdDb2dfck1XaGFfNUEyR241eVhVNUJQVndGdFduV1haUDdvVlJ5QTJ5TTU2b2Q5WkJFUmFpU0VNbGF6LUVWN0FYdFdZVFVaaHZSSDJJRlVqMFJVOHMwZw?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 19:01:45 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.029,
-        "negative": 0.971,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
+    "2026-W28": {
+      "both": {
+        "positive": 1,
+        "negative": 0,
+        "total": 1
+      }
+    },
     "2026-W27": {
       "paxton": {
-        "positive": 3,
+        "positive": 4,
         "negative": 26,
-        "total": 29
+        "total": 30
       },
       "talarico": {
         "positive": 4,
@@ -1829,8 +1836,8 @@
       },
       "general": {
         "positive": 15,
-        "negative": 17,
-        "total": 33
+        "negative": 15,
+        "total": 31
       }
     },
     "2026-W26": {
