@@ -1,265 +1,27 @@
 {
-  "fetchedAt": "2026-07-09T16:04:45.184Z",
-  "count": 22,
+  "fetchedAt": "2026-07-09T18:18:48.551Z",
+  "count": 2,
   "feedsChecked": 8,
-  "itemsScanned": 185,
+  "itemsScanned": 100,
   "items": [
     {
-      "title": "James Talarico out raises Ken Paxton in Texas’ U.S. Senate race. By how much? - Fort Worth Star-Telegram",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd2FYXy1kUXFwdm54QVVhVUdxTFBKOTdrcVJ5Y2cxZW1RWEo2LW1CNmtqMTRNd3p5Z2dOYjhJVGtkdy1ZRlNndGFyMk5MNWE3NXkwQ1BzeDdkVGRodS1pVHVRT1ZmenllUFA1SmRQeVNGSFhrWEtKaDhzcmhNTndRRUR0SlFCSVpCYjAxS1pfTzVrckZPRlHSAZYBQVVfeXFMT2Jxclluamd5b2J6dVdmWmVBOFRkMXdoZ0hWUnY1eFZIWEowX0UzeGNPTEpKNncxZmNRYjN1ODJBZV9sQ1hKZExDc2xsc1IzMjJaaklhNzZ2ZmtWQ3N1NXdjR0pSczhMOU5mcFIyM1JJaGhrX0c1NmZrRFVmQ1pmcDd6MzkxdTF1MWZhcVZvYnZZUjBfOWZB?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 00:44:27 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 27,
+      "title": "Democrat Graham Platner says he plans to withdraw from Maine Senate race after sexual assault claim",
+      "link": "https://apnews.com/article/graham-platner-sexual-assault-maine-senate-campaign-a4c732f54ad999abcb73f1854351187f",
+      "pubDate": "2026-07-09T18:18:32.516Z",
+      "feedSource": "politics",
+      "raceScore": 3,
       "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
         "senate race"
       ]
     },
     {
-      "title": "Paxton and Talarico Clash Over Affordability in Texas Senate Race - Readers.id",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qRU1WZzJaWFJVTWVBRk9wRmVpbXRUdldmR2gzN3FoZldQcnlsc2xzOXpJLS1EQ3VJV2E2azhINTBkRG94YXFQSUJEQ3hXTDFYaGhtbkJIUHFlUThMbjVzV1ViVUF2TDFyN1hQWA?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 18:05:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
+      "title": "Maine Democrats plan convention to replace Platner: What to know about Senate race",
+      "link": "https://apnews.com/article/maine-senate-graham-platner-48d472ac4a043792032f3e3f5a33ef1b",
+      "pubDate": "2026-07-09T18:18:32.516Z",
+      "feedSource": "politics",
+      "raceScore": 3,
       "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ]
-    },
-    {
-      "title": "Talarico Outspends Paxton on Television Ads in Texas Senate Race - Akses.co.id",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50ZFE2LU5yRktCeUZBM0JKa0hJcEIwMXFCV1ZNY2VQNDM3enBFVjNaeEY0MEhDVlZpNDI0TjdlU2p0b3l4Sl8zNjBveHkzc3RkbFVRZXpBMHhCTWtMemFrNkYxVzBxeTBObXAw?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 17:19:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ]
-    },
-    {
-      "title": "James Talarico raises over $30 million in second quarter, campaign says, more than triple Ken Paxton’s sum - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQeEcyQkdSTHYwRFJOSkFVakxUUW5WNDIxdkVTYWtWdDVmM1pYYl9kSDFySklQSXdKVkxfVzVaZzY5ZDVxQWtpZXhJdnRSaWhEclRXMUNxWW10djBwbW1MLVczazZ2Z2JBWUViaDMyMGlURFRMcGdJbmVhQTVoYzlLcVZRLXdheHU3bzc1cTJscUxuQ3l3czFtYUZPUk9hb1BJQzVTbVYyS3E3SVdCRWt1bUhSUUduZ2NxYnlyUlZ6TW1sV19PRXNFdkNCVTZqMklZemVBX1ZZazhnczJCTFVrZDNKZjdVRUlzNzI1YnlkSEd2TEli0gH0AUFVX3lxTFB4RzJCR1JMdjBEUk5KQVVqTFRRblY0MjF2RVNha1Z0NWYzWlhiX2RIMXJKSVBJd0pWTF9XNVpnNjlkNXFBa2lleEl2dFJpaERyVFcxQ3FZbXR2MHBtbUwtVzNrNnZnYkFZRWJoMzIwaVREVExwZ0luZWFBNWhjOUtxVlEtd2F4dTdvNzVxMmxxTG5DeXdzMW1hRk9ST2FvUElDNVNtVjJLcTdJV0JFa3VtSFJRR25nY3FieXJSVnpNbWxXX09Fc0V2Q0JVNmoySVl6ZUFfVllrOGdzMkJMVWtkM0pmN1VFSXM3MjVieWRIR3ZMSWI?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 13:42:49 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 23,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ]
-    },
-    {
-      "title": "James Talarico raises over $30 million in second quarter, campaign says, more than triple Ken Paxton’s sum - The Texas Tribune",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTGdDN3dXTWRDNXozYXVjanZQZERrelF0a3UtNzFlTzduZ2JCWVBLLU01N2dXLTNOYVNkMWM5RDNlMUExYXppd3c4R0pvTkxERGlfamNYb1NCY2R0WEpuX1dRaFNiSXZfcTRfUnpEbXREdGVoOWN5MmxuNFdieDZHYjZNZndnbDFsR2tKZ0F2ZzRtdG1vNFZtaEI1c1VzN2xQaHR2RGNwdWlRUQ?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 00:02:12 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 23,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ]
-    },
-    {
-      "title": "Paxton’s defense attorney endorses Talarico in race for Texas Senate seat - Washington Examiner",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qTTdiX2pudS1rSWZXVm1pWmRHOFVoLThhc0pTcFIyWXFSX2tFaWhZakkwZlBQUm5nakVtWVFiNnpYTDNnRjFnY1lVUktJTWxpSkJMcWVhWUo3bThw?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 02:43:55 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate"
-      ]
-    },
-    {
-      "title": "GOP Texas Attorney General Ken Paxton, Who Railed Against ‘Illegal Voting,’ Appears To Have Rep... - uPolitics",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWndVQ0ZOc1hrcGQyYTVHa1BhRXlMcXFVai1uM0d1SUVSNTdrb244d2hBekdxMnJzSEtYSjQwNGl0SUxTZTEzRE1MSnUyWVhDQjd1UDA3clZISXZqSTJpcmhlV2dnM2c5OG04ZGpoY3dtS1NpVmpBLUI2YTR0a2NTOHdjODVxWWFJWEhQRjBBaFBaQ0FCNFBKVkVZdGotMHNYb28zeVZWVjBDZ2hGNWVnN3BudFdiOXRSc1F0djBYdE9EYWVoeW1iV29UQWQ4ZWVRanBOSVpPX0Fzb1RTQnpuWElhQWVNd9IB5gFBVV95cUxPWndVQ0ZOc1hrcGQyYTVHa1BhRXlMcXFVai1uM0d1SUVSNTdrb244d2hBekdxMnJzSEtYSjQwNGl0SUxTZTEzRE1MSnUyWVhDQjd1UDA3clZISXZqSTJpcmhlV2dnM2c5OG04ZGpoY3dtS1NpVmpBLUI2YTR0a2NTOHdjODVxWWFJWEhQRjBBaFBaQ0FCNFBKVkVZdGotMHNYb28zeVZWVjBDZ2hGNWVnN3BudFdiOXRSc1F0djBYdE9EYWVoeW1iV29UQWQ4ZWVRanBOSVpPX0Fzb1RTQnpuWElhQWVNdw?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 05:05:22 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "attorney general"
-      ]
-    },
-    {
-      "title": "Texas Attorney General Ken Paxton Faces Voter Fraud Allegations - asatunews.co.id",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13UGlNR1k1N3BHd2Z2TTMyX0VlV3VUaHc4OTNiSUpUaEdtNkZURkQ0MDRpM1lJdGhxd1lhc09DTEF1ME9zTUtQZU1yXzBXdFFXUmZYYTdoNlpHRmhVMXMtMF9hTHZwR0p1MVF6b0xEY3FtbnlNWGZXOTB4aw?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 20:39:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "attorney general"
-      ]
-    },
-    {
-      "title": "James Talarico Announces Record-Breaking $30 Million Raised in Second Quarter - Texas Metro News",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMWJvYjdaal9LcmI0WG43NUs3S21acnNjT1ZJRGREUW5aLTllLTVuMnZYSDJZT2ZMSXJvT3dmQnlTMGV0Q25hV2tVUVhuQVZySVhnUFZRb1VWX215aTZwUHhCcDJrelRYY1RmbUxGeVhINnVtM3BpQlZaVl9pYmRHLWZaY1hWMVp3YmJEQkxPeVdXTnMxM1lNMmZySHhuQjRZNllOWVFQTXh1MW40eTEyTw?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 12:54:57 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ]
-    },
-    {
-      "title": "Ken Paxton raises over $9 million in Q2, Senate campaign says - The Texas Tribune",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY19TNUJNcy11M1NQLVFqZVBLMzdEZk12eGctTi1wNnJ4QTMyLUtuS2cyc1BnUllBRTc5QV9oUHFfaEZqaVZqZWFLYzNaRUpnSWFxaUk4Q3hxR05OWHdxS2Zpd2xRajBGa015aFBPRXdPQzFLdWJuMGJUZzNyYWRJTVpMZlJ0WkNGdkduTXhMcV9Udkp6aXFpbENoekNDSHFQSTVUVS11Zw?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 22:35:39 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ]
-    },
-    {
-      "title": "Texas Dem James Talarico hired brains behind ‘C–ks not Glocks’ protest to draft gun control bills - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaU5BQmFIMjByQ1d5YjRQOWkxQXJSVjVlWGlJNUFpUVJLNmdXb2tYWVB0NjlHY1JHVC1rQ2RwaHpaWHdSblU4RXJTYU9QWjVuSzNCdnE1MEtKVU5BTl9ieUdrTjJjU2ZPXzZZZXlhc3huQ1hyeTZZSkxQVDA1LTJCY2tYeTZXUEl6dEN5WTNMdlNlaHBScmgxY3o2U2Q3V2F2LXpWRDk1VlBCMUFhLUQyTkxXRGk5TXVoWXhneDJ4REt2SngzQzFOeWc4ekZsOU5U?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 13:52:52 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ]
-    },
-    {
-      "title": "Texas AG Ken Paxton Faces Polling Crisis After London Mistress Sighting During U.S. 250th Anniversary - streamlinefeed.co.ke",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOY1RSU3c3T1oyYlZYM0Z4Q2J2MEl2RFJLSjJOODQ0QTJKNzZBcnhTVmZsekk0OHNTanRWQjR5WXl5bEcwM29xTzdJb1RycXRLQ04xSGtIbzhyODBRWTdyUWFpLXN3SFQ2Nk56LVJPWjZybjBLSml5TW5kWHRnZzFWRXM0OF9NcjZtSXloZnBDR3BUXzE3OXVuUWFtMGk3SEx4dXlFOERjZjA3NkdpdGYxa0t3a185dElJQVVvaVJxdUtaZm5kWko5NlA3d1lwQQ?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 11:49:17 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ]
-    },
-    {
-      "title": "James Talarico's Houston campaign stop with Black voters missed a key element - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTVJqV3RHQUlBRFhHY2U1ekdkOFBIOUoyN3c5Z01VRG96andtc0xSSlE0RDMyZldxZC1oWFlMQjBfZG5Mc3NKQ1RuN2F6SnR5OUl6d1VMS2RMbjhYdUtPTFMyT0ZDQlBhN0NzWGxmaENVUWwwZWIxbENYbktoYzM1aFJzemtDV3BQdlZsb3pJOGF1UXEzdThjRng4U204aWl3QUptdlY4R3EzaFcteTZ0bVdCeHNvb2ZJNlhrem9yUWdyZw?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 00:43:10 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ]
-    },
-    {
-      "title": "Texas AG Ken Paxton, Who Is on a Crusade to Find Election Fraud, May Have Voted Illegally the Past 2 Years: Report - People.com",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTVRBUEdjQ2cwVXhUbldqb2RYc0wyYVcxa2c1c25YYlJqWFlINm0yekwzNG1QN0h5bURWSDV0OFZXOEcwbWxUYm1BeDVseklRWjFLZkNjMVd3VEVaSEE0LUxjZmV0ZEJXdnp5LW9fN0VlVXQwZG8xX3d6XzlNSlpjS1VwQUtVMy0xR2w4U0dHUmF6eTU2NlhrSHlsNGJZMGFQMzktWE1RdFhNRWp4eVFKR3E1RTJDUWRHcnlXOEUtaHlLTUg2R1pHbW9xWEZRLS1pSndZRDlrTQ?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 22:12:20 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ]
-    },
-    {
-      "title": "Ken Paxton vowed to crack down on “illegal voting.” He may have violated Texas election law. - The Texas Tribune",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9lSTdhdmw1cTVfOWpmRGQ5T2ZwX3FaRS02MlZ4N3JQODhVX1AwUnFZZFJlalJfX1N5QTI4ZmJpR2pPVzlxYVRSZHdqNk5RNnNTcjJ0SHMxbXJia1h4dnJUTkZab2hXWVp2TXQzazJpVFRIT3J3a08xQU15bw?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 17:30:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ]
-    },
-    {
-      "title": "Ken Paxton Vowed to Crack Down on “Illegal Voting.” He May Have Violated Texas Election Law. - ProPublica",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLW8wZThTWG5ReEJHMVFtRkFmalU5TnUwQkJmSFlkTmhPbXZCZVJoTkhyQmpmOW13c04xNFNUTm9RM1dYcG1WUzEydDEyUVBmdDBybUloTHVjNFZMZS1oSl9DSjFCb0lZQkZnejFzbk5lM2VkOGJ4eWdvUE5CSTY5N3l4SQ?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 17:30:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ]
-    },
-    {
-      "title": "Republican Ken Paxton spotted with alleged mistress in England over Independence Day weekend - San Antonio Current",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdF9ObWxCckh0U1VaY01KaE9rd1FLT01QSzhWejAydGk5S3dVUDFhRU5xSm5GTWxxU1BqNFhKYmYxZjFtYVBiRGlfYVJRNHB6Z0t0amFJcDhJMVQ3WDQyMFB3c0Z3NGxzaWZXeFdZTWFIb2U2ajJTTlJINkJ6QW45a0tYMmh2aEtxVUVXOFRsT3BWMEVfRVEzMHN5VGxHQy1NR1kzdVBqeUU1VGd5UFI1QTVYeHE1VnNQSzRxRkxIZEl3Wmk4Y1lRYnEwd1J1VjlFMWY3eW16NzhncEJjY2hVaA?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 17:04:09 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ]
-    },
-    {
-      "title": "Why you've been seeing TV ads for James Talarico in recent weeks - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdU5tUFE4RlRQbVppQmFMdERabjNGT1c4LVd3ZUJKak9CNmRHVzFkRC0xSVlRSF9TQXJVSEpUR3htZ2NTS21Nb3cyYzNHeC1vSkxVUlJjbkg4QzRTNE1fcTVpZWp4Q1lHTnZxd0I4OURDUGZ4ZW9WeXV4RTRrcFJ4ODA4ajlJRlU1SThnSVBaa08yWUtEclpYd2FHcDlFSnFJMlhOSnhyd1ZBZm9OZTNoUUZZajh2WGMxRWc?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 11:03:39 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ]
-    },
-    {
-      "title": "Talarico’s $30 Million Haul Crushes Paxton in Texas Race - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaldTX1hTU1NHcDdpaXBaVURoLXJtMkowREdsSVVrNnE3bGtYZElZd29wOTZkQ0pDQy1LNzdXRTFSbW5SeEtocFp4SXR6TE1pRmV3MXMydG9EaEs4S1ZJZS1TSXpQRmJmdFNha3pnRmdVcHhJbDB3LUxQY0ZkMWtJQ3hRdHo5cVBaYzAycjVDYXgyZWVOb2hSMTJobEZrdjU2cFNtZmNBTnJwekczVk92YnNlNA?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 11:11:45 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ]
-    },
-    {
-      "title": "Vaccinated, Boosted James Talarico Spent Christmas Alone with COVID After Calling Fauci Action Figure His ‘Coolest’ Gift - breitbart.com",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNnItY2xuM3NuR1JlME42T2RYaDlpUUpnV3laTk5YRXNFYm4wOUR2TTNzcF8yUlBkcGZ4ZklMaE0yTjhNclVZei1zUmgzUjJrcDNQTko3dHVDbUg3WWYyTTlFUHhQcU1IbVVYNUhid3FjWjNXVFQ4azJYMlQ1VGdfbHNUYTNCeExLSEFRVXdxam51eDQ4UDkzdVE2Rmp2c1ZxWl8xWWhkWDRETlZQN1M5U1N3a3I2Si12d3RITVYyMUpFNl9TZk1Bb0R4WFdQSnpaMHVkcW90RkYxN3l6SzdJYldnR3hybTk3RUdmeXFDd3V1V0dTbk1V0gH8AUFVX3lxTE1MWDRlMmtTTVQ2WWpNN0xaMzJjX0NGTHZ2cTlXUl9iWEdVMTNVZVlwWG5OcXEtUmJDdXhFOEVzM0UtRWViZWtlMmtEdnl2NDlvMUZCbThsMV91YS10NzRzdXlXdDNOUUMxc3hxdTZGcHd1eG96UjFBYzB3di12aXRTN2t5SUFHNkVBSVczdTY2M0pSYUVjR2NpeVBHYW4tcnA2S1liMGNTaDJZR1V5NzJxSG5ySXh4dUVjWm45LUVaSUR6RFVXclNLOWZycnpvN3A4d1JKbjBJVDJiaDVNRXFodS00bUlkQmFsanVLUk51OVEwUXluX1JEM2c1Zg?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 22:58:21 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ]
-    },
-    {
-      "title": "Was Ken Paxton in London for the Fourth of July? - Daily Kos",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdXk4NTlxR0N6SUo1RVBielhTajlqMlEyQS1yQXBERFZPcjJuenJEVU9pTkZZV3E3VW9KSm5GWUZ6bUlkSEYwMmRQV2dwSVByZ1d6UlpvZ1BuZEVxLXpjMXFRSmtpX1BoZkJsZGRtOWc3ZWpPZDBkMWkxOWZ6SFRvcy1vc2RUdTVMSGM3NFdRYzd6N1pWcjFPOVB0SGJqbTZNOUU0eQ?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 20:30:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ]
-    },
-    {
-      "title": "Ken Paxton Loves the Bible and His Country So Much He Took His Alleged Mistress to England on July 4th - them.us",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KN09VS21xR1V6R0NiclRzWjJuTUVFSExqX2ZhQkJnb1VraE9qN1dSN0U3UVhqV18tOEIzT0NoQXBfSUFua1pER0pjWm91RkRpQXNheFpIRjJoeGNFa2JBU0JZUnVsM2ZUV0lobkhybl9Hd3M?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
+        "senate race"
       ]
     }
   ]
