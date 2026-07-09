@@ -1,9 +1,84 @@
 {
-  "analyzedAt": "2026-07-09T14:06:34.880Z",
-  "newsFetchedAt": "2026-07-09T10:00:42.009Z",
+  "analyzedAt": "2026-07-09T17:02:46.821Z",
+  "newsFetchedAt": "2026-07-09T16:04:45.184Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 4,
   "stories": [
+    {
+      "title": "James Talarico raises over $30 million in second quarter, campaign says, more than triple Ken Paxton’s sum - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQeEcyQkdSTHYwRFJOSkFVakxUUW5WNDIxdkVTYWtWdDVmM1pYYl9kSDFySklQSXdKVkxfVzVaZzY5ZDVxQWtpZXhJdnRSaWhEclRXMUNxWW10djBwbW1MLVczazZ2Z2JBWUViaDMyMGlURFRMcGdJbmVhQTVoYzlLcVZRLXdheHU3bzc1cTJscUxuQ3l3czFtYUZPUk9hb1BJQzVTbVYyS3E3SVdCRWt1bUhSUUduZ2NxYnlyUlZ6TW1sV19PRXNFdkNCVTZqMklZemVBX1ZZazhnczJCTFVrZDNKZjdVRUlzNzI1YnlkSEd2TEli0gH0AUFVX3lxTFB4RzJCR1JMdjBEUk5KQVVqTFRRblY0MjF2RVNha1Z0NWYzWlhiX2RIMXJKSVBJd0pWTF9XNVpnNjlkNXFBa2lleEl2dFJpaERyVFcxQ3FZbXR2MHBtbUwtVzNrNnZnYkFZRWJoMzIwaVREVExwZ0luZWFBNWhjOUtxVlEtd2F4dTdvNzVxMmxxTG5DeXdzMW1hRk9ST2FvUElDNVNtVjJLcTdJV0JFa3VtSFJRR25nY3FieXJSVnpNbWxXX09Fc0V2Q0JVNmoySVl6ZUFfVllrOGdzMkJMVWtkM0pmN1VFSXM3MjVieWRIR3ZMSWI?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 13:42:49 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.779,
+        "negative": 0.221,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "GOP Texas Attorney General Ken Paxton, Who Railed Against ‘Illegal Voting,’ Appears To Have Rep... - uPolitics",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWndVQ0ZOc1hrcGQyYTVHa1BhRXlMcXFVai1uM0d1SUVSNTdrb244d2hBekdxMnJzSEtYSjQwNGl0SUxTZTEzRE1MSnUyWVhDQjd1UDA3clZISXZqSTJpcmhlV2dnM2c5OG04ZGpoY3dtS1NpVmpBLUI2YTR0a2NTOHdjODVxWWFJWEhQRjBBaFBaQ0FCNFBKVkVZdGotMHNYb28zeVZWVjBDZ2hGNWVnN3BudFdiOXRSc1F0djBYdE9EYWVoeW1iV29UQWQ4ZWVRanBOSVpPX0Fzb1RTQnpuWElhQWVNd9IB5gFBVV95cUxPWndVQ0ZOc1hrcGQyYTVHa1BhRXlMcXFVai1uM0d1SUVSNTdrb244d2hBekdxMnJzSEtYSjQwNGl0SUxTZTEzRE1MSnUyWVhDQjd1UDA3clZISXZqSTJpcmhlV2dnM2c5OG04ZGpoY3dtS1NpVmpBLUI2YTR0a2NTOHdjODVxWWFJWEhQRjBBaFBaQ0FCNFBKVkVZdGotMHNYb28zeVZWVjBDZ2hGNWVnN3BudFdiOXRSc1F0djBYdE9EYWVoeW1iV29UQWQ4ZWVRanBOSVpPX0Fzb1RTQnpuWElhQWVNdw?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 05:05:22 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "attorney general"
+      ],
+      "sentiment": {
+        "positive": 0.043,
+        "negative": 0.957,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "James Talarico Announces Record-Breaking $30 Million Raised in Second Quarter - Texas Metro News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMWJvYjdaal9LcmI0WG43NUs3S21acnNjT1ZJRGREUW5aLTllLTVuMnZYSDJZT2ZMSXJvT3dmQnlTMGV0Q25hV2tVUVhuQVZySVhnUFZRb1VWX215aTZwUHhCcDJrelRYY1RmbUxGeVhINnVtM3BpQlZaVl9pYmRHLWZaY1hWMVp3YmJEQkxPeVdXTnMxM1lNMmZySHhuQjRZNllOWVFQTXh1MW40eTEyTw?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 12:54:57 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.996,
+        "negative": 0.004,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "Ken Paxton Loves the Bible and His Country So Much He Took His Alleged Mistress to England on July 4th - them.us",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KN09VS21xR1V6R0NiclRzWjJuTUVFSExqX2ZhQkJnb1VraE9qN1dSN0U3UVhqV18tOEIzT0NoQXBfSUFua1pER0pjWm91RkRpQXNheFpIRjJoeGNFa2JBU0JZUnVsM2ZUV0lobkhybl9Hd3M?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.998,
+        "negative": 0.002,
+        "label": "positive"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W27"
+    },
     {
       "title": "James Talarico out raises Ken Paxton in Texas’ U.S. Senate race. By how much? - Fort Worth Star-Telegram",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYnFyWW5qZ3lvYnp1V2ZaZUE4VGQxd2hnSFZSdjV4VkhYSjBfRTN4Y09MSko2dzFmY1FiM3U4MkFlX2xDWEpkTENzbGxzUjMyMlpqSWE3NnZma1ZDc3U1d2NHSlJzOEw5TmZwUjIzUkloaGtfRzU2ZmtEVWZDWmZwN3ozOTF1MXUxZmFxVm9idllSMF85ZkHSAZYBQVVfeXFMT2Jxclluamd5b2J6dVdmWmVBOFRkMXdoZ0hWUnY1eFZIWEowX0UzeGNPTEpKNncxZmNRYjN1ODJBZV9sQ1hKZExDc2xsc1IzMjJaaklhNzZ2ZmtWQ3N1NXdjR0pSczhMOU5mcFIyM1JJaGhrX0c1NmZrRFVmQ1pmcDd6MzkxdTF1MWZhcVZvYnZZUjBfOWZB?oc=5",
@@ -1744,95 +1819,36 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "NY Times Still Trying to Turn Right-Wing Texas Blue With Latest Dem Hope Talarico - newsbusters.org",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNU94SG84TXdGRjh0VWJBTHVicFVDbHJXU3JiNWVkTEd5bG9hM2FBVVRxZTcxMF9pYUdYQnlZcERreFFhVjdaWDRzM3JWYl9GeGVFeGd2enlTX0o0elBaNllZOW55dVhWUlBnbi1MOTh4SEYyZlVNdlp1aE9pSl9OZ2ItUXo0Q1BaNzNIRGRHVVJGS080N2FrTDc2OVhjMFo0bXJseFF1ekRRU05QNGI2TjV5ektBV3pDeGRGVUxobzZaUQ?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 17:18:19 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "talarico"
-      ],
-      "sentiment": {
-        "positive": 0.012,
-        "negative": 0.988,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W27"
-    },
-    {
-      "title": "Opinion: Texas GOP platform steeped in undemocratic ideas, intolerance - San Antonio Express-News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTVJFX2VzMDVCdTlpX0NRdWlSRnY2MTdBRlhWa2ZHM1prT1JPUDFMS3hLMkNCWW1hSDN5T0xGSjRlUEhtTjJYaVFodHFiVGtBVG92TGUzLWRfY2psaGxMMlBDR05uZk1fc04zMWVPZERLblIzU1JPaDczMlU5b2hvX2N3R3ZNZjRRRndmTFkxNnEtSjVFMEYyQWdxVjA2bHR1?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 09:05:55 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas gop"
-      ],
-      "sentiment": {
-        "positive": 0.027,
-        "negative": 0.973,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W27"
-    },
-    {
-      "title": "WATCH: James Talarico Says Bill Banning ‘Gender-Affirming Health Care to Trans Children’ Is ‘Christofascism’ - breitbart.com",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRGJLeXo4SW1DZmNLb205WFBva3h6WXFmM2hiOFdqazdReGdlbDRWUHJHVThFaFdzYktGRkI4aEFhWVVyVEdtQXl0QlEzSVp0alNzaWdnY2hjcHNSTGh3Z2NZMVFUd3h6bjNuRGNhZW03Q1cwTmlDUFNkTUJ2WW0yNWFjTzl5VFdqTkpjSUxMZHR2Z0RhUHk3V0pmVzZUTms3eXl4OFk0aVNzLXFEQjZfVlZXdDJ1c2ZMaVBSenI5OF9lUdIBxwFBVV95cUxQZ0ZySnB3Y3ZmLUxiY0MyU0pBR3VCSnVCMTNRcTlSaEtIZzVuS3NEX3BMclh6d2tuU3hwNWFnSW1iMUozbVlrNHBCSG8zYXpSemR0RUliOW4wczZuSklFUGYwNGhMRG15VU1fd2xLcVptT2Vhd3R0YzJCMGNmSmtkd3hYUVBtVWN3QXZUQlAxSVlWdlo3UFZPOWZQUkFNeWVQd19LVmJFeWwwc2FlVENTaFJHTWVzR3o1czUzbTRWSzRuRzJWUTJr?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 23:08:04 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.009,
-        "negative": 0.991,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W27"
-    },
-    {
-      "title": "Inside Texas Politics | Full Interview On GOP Midterm Convention with TX GOP Chair D'rinda Randall - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMmZWNWpnM01FUEZuV050WGZKeGRaWmNyY0p1YzAzVmFwdkFnMHozZGpCak4ycGJ2VDhaaEFETWRPVGtIcEMxZW8taHRzXzBXVXE3MmJpQmVHZ2hTUDQ0VF9pdTFYMEJzMl9jRWw5V2RvSnZfd2RVbldoRDZGOTliVERRV1VmWjZJNW02T0x3?oc=5",
-      "pubDate": "Sat, 04 Jul 2026 01:36:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "sentiment": {
-        "positive": 0.834,
-        "negative": 0.166,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W28": {
       "both": {
-        "positive": 1,
+        "positive": 2,
         "negative": 3,
-        "total": 4
+        "total": 5
+      },
+      "paxton": {
+        "positive": 0,
+        "negative": 1,
+        "total": 1
+      },
+      "talarico": {
+        "positive": 1,
+        "negative": 0,
+        "total": 1
       }
     },
     "2026-W27": {
       "paxton": {
-        "positive": 4,
+        "positive": 5,
         "negative": 26,
-        "total": 30
+        "total": 31
       },
       "talarico": {
         "positive": 4,
-        "negative": 17,
-        "total": 22
+        "negative": 15,
+        "total": 20
       },
       "both": {
         "positive": 4,
@@ -1840,9 +1856,9 @@
         "total": 14
       },
       "general": {
-        "positive": 14,
-        "negative": 15,
-        "total": 30
+        "positive": 13,
+        "negative": 14,
+        "total": 28
       }
     }
   }
