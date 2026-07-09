@@ -1,9 +1,102 @@
 {
-  "analyzedAt": "2026-07-09T18:55:33.358Z",
-  "newsFetchedAt": "2026-07-09T18:18:48.551Z",
+  "analyzedAt": "2026-07-09T20:50:17.134Z",
+  "newsFetchedAt": "2026-07-09T20:22:26.220Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 5,
   "stories": [
+    {
+      "title": "James Talarico outraises Ken Paxton by 3-1 margin in the race for US Senate - Austin American-Statesman",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTk9BOTVnV2d5bW9UQkdGVjMwVjN5QVlleWQ1Y0FXQmJEREJTQmhNTjFoTUM0cm5lRS1yOVM0cE9pNExCbjRuakFBc09hdjkxbEdJbU1VM21neXJ6bks3dFdZd211bnRsVW9WTkhzcFQxOEtkN19FeUdDOTdRVkl5WHpHX0M1dWdRcmxMYk4wOVBoZ3F4a3Z2ZlJR?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 16:11:12 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.985,
+        "negative": 0.015,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "Let’s Make Texas Senate Race About Character - Word&amp;Way",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONE5ERDBkRWphSVpNbFRWQXpGbWdSd0QwVDNSWTFvQnhKOVZvcGJTdHpDYUNkZDN4cGZtcGtVM3l3UF9KcXBhejRGSkZ0WWxVV29YcEVmQTV2OUpaRFJGcDZlVnAwOHduekh5a1FGN2lJWENWWFJMNElWMWtmcGNNZG5zTlA?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 17:07:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.024,
+        "negative": 0.976,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "It's time for Texans to biblically divorce themselves from Ken Paxton - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVy05UzJqNmtKYmJzUUFVRnI4RXVZbVJpZWlTUVh4eElOSGgxVm5zQnR4NmVQazdITVliTFhkUnBianUtTS11U1pfVEtrTmFZUXd2Y0hMUFNycTdFYjNhY3FZM0dkeEFQTlV2b1Y5enhQUEd1RlV1QmlvTFJNZ1NIMEF3M3FXODFjbXNNV25BbFVEN2RqanRXTk1OZzN6eWoxSHNnaWpDelk2YlJxbG5yMkVEUUE?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 11:12:49 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.016,
+        "negative": 0.984,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "Ken Paxton vowed to crack down on 'illegal voting.' He may have violated Texas election law. - kens5.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOXFvWFl1elBtRzJVMUVIMHRLRVpqZVFfTUxEVmQtUk5QVmIyZEEyN2tuWmZtNm4wMkZIZjN5cmZhREw1Y1JwUjZlMjVMWUUxZTQtYlN6NVlST3RfYW9CTThWYzhNRTFwaFJwS05iU1BndnBhdUplaUZUanRHRlJFM25HUlBlM0g4c0VnRHlHRTEwU2pib1ZsUnR0OEFVSEw2TWlUSWYzc0xmd0ozdGZramIxeEVmQQ?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 20:40:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.008,
+        "negative": 0.992,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W27"
+    },
+    {
+      "title": "Ted Cruz warns Talarico has “real chance” to beat Paxton - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUkZmM3kwZ3VsdC1iOEdtX1JHS1J3cjBUbUEyMFV4MktjRXphMzBuUVBob3hiejJtUENMT2hKQ3FIUGFSejJhbTZMWHdXSllYelZDXzZ4V21INGRsTkxRQnJHOHA5VE9saFFCRmtFNURNQzV1cGViVzdWWnMzZllwalp1QU5GSC1OM0VWd2x1LU9NeXAtLXN4elJ1T0c?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 17:07:18 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": {
+        "positive": 0.047,
+        "negative": 0.953,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "Democrat Graham Platner says he plans to withdraw from Maine Senate race after sexual assault claim",
       "link": "https://apnews.com/article/graham-platner-sexual-assault-maine-senate-campaign-a4c732f54ad999abcb73f1854351187f",
@@ -1731,106 +1824,19 @@
       },
       "candidate": "both",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "Joe Concha slams James Talarico: ‘There’s too much for this guy to play defense on’ - Washington Examiner",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU1d4ZS13V0EtWFVuTDUzaHFTQnV5WGRNb0c0RHlrTTFjXy0wc2lPZDg1RkhvSTk4U0FlcEdXNkhqQjJFV1BIY2hoa01VSVlKeXVLSThlWFNrTVkydDdiWnVlbnd0OE9KV3RrNzVkRjU2NV8wcDRJb3FDMzhvSk0xeXA3dWxheXdEd3hBYTZpWUk?oc=5",
-      "pubDate": "Sat, 04 Jul 2026 15:24:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.001,
-        "negative": 0.999,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W27"
-    },
-    {
-      "title": "Supreme Court decision loosening campaign finance rules could be boon for Paxton in Senate race - Daily Kos",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcUpEQnE1VVNNYjJDNEp6azdmeW1MSmVHXy1vVnl5TWdLLThNU3pUa2gzelMzcDlSY1E2cmNCSE9ubVdtd193Nk5FZU1XUnhTN3l5WU9oRS04VlF6QkplZkZ2WGVfcmNWc2owN0ZrS0dIYlJ3YTdLS0V0X2Zja3JLU1dSWmUwNUZ6QWZTUXhVMWtPVFN2RHBWak9aRW9kTVR4eDE3MEFENEJUYjlyVjhDYVlVaGZlQ1FPUWlfbjBQaDZ3ZmtnTFlJQ3BIbGdKakEtYk5aX2djTGR2NFpRNFE1VXE3UXFzWnpmaTNrUExOSQ?oc=5",
-      "pubDate": "Sat, 04 Jul 2026 17:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 8,
-      "matchedKeywords": [
-        "paxton",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.017,
-        "negative": 0.983,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W27"
-    },
-    {
-      "title": "State of Texas – The first Travis County flood 9-1-1 call - KXAN Austin",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWEVfMHM0LW9iajBtb2dadU9Zdk9QUGhTSnBWb2MteThsWlJsV3Z4Q0YzeUliaEVOOHlEZHRHM2JYSFljOGNlYnpJYmd6bWhzbmVtN0xQb0xyckhRd25qX3BESnAteFdURHdnM0NhNzd4cW1OUGhMMUJiTGVZeHlQX1RpSGhRcWpaMG9jWklBNHI1UkNqcmhR?oc=5",
-      "pubDate": "Sat, 04 Jul 2026 19:44:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "travis county"
-      ],
-      "sentiment": {
-        "positive": 0.673,
-        "negative": 0.327,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W27"
-    },
-    {
-      "title": "Cornyn Sounds Off on SAVE Act, Latest Texas Polling: ‘I’m Not Gonna Say I Told You So, But…’ - Mediaite",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc3ktTzBXZ2Yxc1lMbGxnSjN5b2Z4SHllQnRTWjhJU05DbXZBVWdOR3d0eDhUWjBrZnlVV0psQUdJV1M0RnNhSlNNaHRFdmNaRVNfLVZrRTdfcktaWGpBRFRnSjNSdi1UQlRNVkxNeHZvTldGTjdGd1ZpVy1tRHo1MDhpR3RHMkpYQUZ6OGI5VFZmZkNmYlN5QnhRanFTd0poVmwzZkRBaTBPUXZ5czE4bklvRUFLWjFnaUE?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 16:04:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "cornyn"
-      ],
-      "sentiment": {
-        "positive": 0.022,
-        "negative": 0.978,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W27"
-    },
-    {
-      "title": "Polling: Texas’ U.S. Senate race statiscally tied - The Black Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdjJ6U2VVc2o4ajJFTXJrbEN0RGJqMVR3U09DT0NlbTFJQ2ktT1NNT3A2UU5mZXRiUXVZamd4Ym9nbnBhX1Jyc0ZzdE5uWmZveVJyejlndzFMWjZmNVVaaFRVdVhJTC1ZN1hYX3pfWVhCRVEyb2QwTk9kU05sZ09iQlcxV2VfZDN0d0Z3?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 23:40:48 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 4,
-      "matchedKeywords": [
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.502,
-        "negative": 0.498,
-        "label": "neutral"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W28": {
+      "both": {
+        "positive": 3,
+        "negative": 4,
+        "total": 7
+      },
       "general": {
         "positive": 1,
-        "negative": 1,
-        "total": 2
-      },
-      "both": {
-        "positive": 2,
-        "negative": 3,
-        "total": 5
+        "negative": 2,
+        "total": 3
       },
       "paxton": {
         "positive": 0,
@@ -1846,13 +1852,13 @@
     "2026-W27": {
       "paxton": {
         "positive": 5,
-        "negative": 25,
-        "total": 30
+        "negative": 26,
+        "total": 31
       },
       "talarico": {
         "positive": 4,
-        "negative": 15,
-        "total": 20
+        "negative": 14,
+        "total": 19
       },
       "both": {
         "positive": 4,
@@ -1860,9 +1866,9 @@
         "total": 14
       },
       "general": {
-        "positive": 12,
-        "negative": 14,
-        "total": 27
+        "positive": 11,
+        "negative": 13,
+        "total": 24
       }
     }
   }
