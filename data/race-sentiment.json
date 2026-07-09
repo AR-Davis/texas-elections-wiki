@@ -1,9 +1,51 @@
 {
-  "analyzedAt": "2026-07-09T03:45:24.871Z",
-  "newsFetchedAt": "2026-07-09T01:10:36.416Z",
+  "analyzedAt": "2026-07-09T07:41:25.046Z",
+  "newsFetchedAt": "2026-07-09T05:44:07.847Z",
   "totalAnalyzed": 100,
   "newThisRun": 2,
   "stories": [
+    {
+      "title": "James Talarico out raises Ken Paxton in Texas’ U.S. Senate race. By how much? - Fort Worth Star-Telegram",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd2FYXy1kUXFwdm54QVVhVUdxTFBKOTdrcVJ5Y2cxZW1RWEo2LW1CNmtqMTRNd3p5Z2dOYjhJVGtkdy1ZRlNndGFyMk5MNWE3NXkwQ1BzeDdkVGRodS1pVHVRT1ZmenllUFA1SmRQeVNGSFhrWEtKaDhzcmhNTndRRUR0SlFCSVpCYjAxS1pfTzVrckZPRlHSAZYBQVVfeXFMT2Jxclluamd5b2J6dVdmWmVBOFRkMXdoZ0hWUnY1eFZIWEowX0UzeGNPTEpKNncxZmNRYjN1ODJBZV9sQ1hKZExDc2xsc1IzMjJaaklhNzZ2ZmtWQ3N1NXdjR0pSczhMOU5mcFIyM1JJaGhrX0c1NmZrRFVmQ1pmcDd6MzkxdTF1MWZhcVZvYnZZUjBfOWZB?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 00:44:27 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.301,
+        "negative": 0.699,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "Talarico’s $30 Million Haul Crushes Paxton in Texas Senate Race - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaldTX1hTU1NHcDdpaXBaVURoLXJtMkowREdsSVVrNnE3bGtYZElZd29wOTZkQ0pDQy1LNzdXRTFSbW5SeEtocFp4SXR6TE1pRmV3MXMydG9EaEs4S1ZJZS1TSXpQRmJmdFNha3pnRmdVcHhJbDB3LUxQY0ZkMWtJQ3hRdHo5cVBaYzAycjVDYXgyZWVOb2hSMTJobEZrdjU2cFNtZmNBTnJwekczVk92YnNlNA?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 02:13:18 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.023,
+        "negative": 0.977,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "James Talarico raises over $30 million in second quarter, campaign says, more than triple Ken Paxton’s sum - The Texas Tribune",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTGdDN3dXTWRDNXozYXVjanZQZERrelF0a3UtNzFlTzduZ2JCWVBLLU01N2dXLTNOYVNkMWM5RDNlMUExYXppd3c4R0pvTkxERGlfamNYb1NCY2R0WEpuX1dRaFNiSXZfcTRfUnpEbXREdGVoOWN5MmxuNFdieDZHYjZNZndnbDFsR2tKZ0F2ZzRtdG1vNFZtaEI1c1VzN2xQaHR2RGNwdWlRUQ?oc=5",
@@ -1767,55 +1809,14 @@
       },
       "candidate": "general",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "Paxton, Talarico deadlocked at 47% in new Texas Senate race poll - Waco Tribune-Herald",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUzJuUHd6NVRLcHdwX1ItUFlod0xPMU9aMFI2WDJkV1N3X21XbkxCTVgxN25iSjhLQ2t0amh3SjJlRkVqemgzV09STndEMlJFc0VMbmV4VnZ4UG1EZDYtR2swOHg0YmdKbnA2WHhROHBXZUYtZC16eFg4RC03SEJ1dTBzVjlnR3htbXlHVzJ5WmFyemFZd09GWmxNN1c3SDVGSU1pY3BoZGlleWRKNjU5MzRLYlNVZlB4UmNfTg?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 22:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.097,
-        "negative": 0.903,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W26"
-    },
-    {
-      "title": "Ken Paxton takes issue with James Talarico labeling him a California transplant - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNHJ4SjZUMEpzQ2dPcFBoRmtoQXZCUkgwaG1VMHJoSW83c19EdHpNZnp3WWNPa2ZYYzllZG4tZVp4YzZwdnpPZjRTUktzUW5TSF9rQmYyMWVIV0pDWDZSUEZZM3kzLXBfMl9xNGYta0prclZOaUtYMkxYWGxnU1lrZHlQWXA3NndqRzlmclpqN21MU1NsV2pVNVp0OGp2ekE0WVNxLUFlWU1sbl9xbldLTGx4TkFHbmF2U0pEeVNR?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 11:04:10 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 23,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.373,
-        "negative": 0.627,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W28": {
       "both": {
         "positive": 1,
-        "negative": 0,
-        "total": 1
+        "negative": 2,
+        "total": 3
       }
     },
     "2026-W27": {
@@ -1831,20 +1832,13 @@
       },
       "both": {
         "positive": 4,
-        "negative": 11,
-        "total": 15
+        "negative": 10,
+        "total": 14
       },
       "general": {
         "positive": 15,
         "negative": 15,
         "total": 31
-      }
-    },
-    "2026-W26": {
-      "both": {
-        "positive": 0,
-        "negative": 1,
-        "total": 1
       }
     }
   }
