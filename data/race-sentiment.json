@@ -1,9 +1,43 @@
 {
-  "analyzedAt": "2026-07-09T17:02:46.821Z",
-  "newsFetchedAt": "2026-07-09T16:04:45.184Z",
+  "analyzedAt": "2026-07-09T18:55:33.358Z",
+  "newsFetchedAt": "2026-07-09T18:18:48.551Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Democrat Graham Platner says he plans to withdraw from Maine Senate race after sexual assault claim",
+      "link": "https://apnews.com/article/graham-platner-sexual-assault-maine-senate-campaign-a4c732f54ad999abcb73f1854351187f",
+      "pubDate": "2026-07-09T18:18:32.516Z",
+      "feedSource": "politics",
+      "raceScore": 3,
+      "matchedKeywords": [
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.005,
+        "negative": 0.995,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "Maine Democrats plan convention to replace Platner: What to know about Senate race",
+      "link": "https://apnews.com/article/maine-senate-graham-platner-48d472ac4a043792032f3e3f5a33ef1b",
+      "pubDate": "2026-07-09T18:18:32.516Z",
+      "feedSource": "politics",
+      "raceScore": 3,
+      "matchedKeywords": [
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.994,
+        "negative": 0.006,
+        "label": "positive"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "James Talarico raises over $30 million in second quarter, campaign says, more than triple Ken Paxton’s sum - Houston Public Media",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQeEcyQkdSTHYwRFJOSkFVakxUUW5WNDIxdkVTYWtWdDVmM1pYYl9kSDFySklQSXdKVkxfVzVaZzY5ZDVxQWtpZXhJdnRSaWhEclRXMUNxWW10djBwbW1MLVczazZ2Z2JBWUViaDMyMGlURFRMcGdJbmVhQTVoYzlLcVZRLXdheHU3bzc1cTJscUxuQ3l3czFtYUZPUk9hb1BJQzVTbVYyS3E3SVdCRWt1bUhSUUduZ2NxYnlyUlZ6TW1sV19PRXNFdkNCVTZqMklZemVBX1ZZazhnczJCTFVrZDNKZjdVRUlzNzI1YnlkSEd2TEli0gH0AUFVX3lxTFB4RzJCR1JMdjBEUk5KQVVqTFRRblY0MjF2RVNha1Z0NWYzWlhiX2RIMXJKSVBJd0pWTF9XNVpnNjlkNXFBa2lleEl2dFJpaERyVFcxQ3FZbXR2MHBtbUwtVzNrNnZnYkFZRWJoMzIwaVREVExwZ0luZWFBNWhjOUtxVlEtd2F4dTdvNzVxMmxxTG5DeXdzMW1hRk9ST2FvUElDNVNtVjJLcTdJV0JFa3VtSFJRR25nY3FieXJSVnpNbWxXX09Fc0V2Q0JVNmoySVl6ZUFfVllrOGdzMkJMVWtkM0pmN1VFSXM3MjVieWRIR3ZMSWI?oc=5",
@@ -1784,45 +1818,15 @@
       },
       "candidate": "general",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "Texas U.S. Senate Election 2026: Latest Polls - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRnFTY28wbS10QjZaN2NoLURKTUNYNkRlVXJFenVsTWphQVBQS2lySHdTOVVKTGhSSVRsX2JSeVEwUE9hMWpVdWU5Z2JESHJSalV5ZFEtQm5sTzY3LWQ5NFR3WjhLeE9IaUQ4VDRoZkhUOHRxQkc1cnR1TG5YVThJLVlJeW10QkxBYVE?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 17:35:06 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 4,
-      "matchedKeywords": [
-        "senate election"
-      ],
-      "sentiment": {
-        "positive": 0.961,
-        "negative": 0.039,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W27"
-    },
-    {
-      "title": "Supreme Court decision loosening campaign finance rules could be boon for Paxton in Senate race - HPPR",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbzE3eWFSQjlOSzdSZDlPeDBUTkVEeWpfYnNtSFUzblRKWjVtQnR3d1d1clNqT3RtNkFvMW5qaXg1REY1YVVmU0licDJYTmVQYWVfZXFUUlZ4S25zVFZEVzlCd2FsbHNHQm0wRWpoaGY2TExPRnFIREx4RXF5UTFJaXhIcXFwd0QzNFBBemVqV3JOdDhfQnVpdWRrMzNha0EyUlI5UUczM2RCX3FhQ2I5cXpTWjhzN05zUnpPeTFUa3VPZVVMLW9wdXk5ZWM0SlN5MVRB?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 19:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 8,
-      "matchedKeywords": [
-        "paxton",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.021,
-        "negative": 0.979,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W28": {
+      "general": {
+        "positive": 1,
+        "negative": 1,
+        "total": 2
+      },
       "both": {
         "positive": 2,
         "negative": 3,
@@ -1842,8 +1846,8 @@
     "2026-W27": {
       "paxton": {
         "positive": 5,
-        "negative": 26,
-        "total": 31
+        "negative": 25,
+        "total": 30
       },
       "talarico": {
         "positive": 4,
@@ -1856,9 +1860,9 @@
         "total": 14
       },
       "general": {
-        "positive": 13,
+        "positive": 12,
         "negative": 14,
-        "total": 28
+        "total": 27
       }
     }
   }
