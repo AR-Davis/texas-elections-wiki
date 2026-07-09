@@ -1,9 +1,29 @@
 {
-  "analyzedAt": "2026-07-09T20:50:17.134Z",
-  "newsFetchedAt": "2026-07-09T20:22:26.220Z",
+  "analyzedAt": "2026-07-09T22:26:22.766Z",
+  "newsFetchedAt": "2026-07-09T22:02:11.498Z",
   "totalAnalyzed": 100,
-  "newThisRun": 5,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "James Talarico outraises Ken Paxton by 3-1 margin in the race for US Senate - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRlNyRlNYQlNRQ0RiSlVsdkN3bXNWZjJSSi1NQTVsR1FnOExnUDltaVlVSGZsZC1xSXJvZlpQSEh6a2l6RldDenhsNHNrUTRhSk1OYnI4MFNRbDdjTnRPRlBZaUtDaDB0UTRMQWF5Q2RfbDVkaUJOb2tDZlRLODhlQXN1ekN4NDBkaFlSdlpPYlpBUi1mVFk0NDRXY3lUSjNucUlz?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 19:33:56 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.985,
+        "negative": 0.015,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "James Talarico outraises Ken Paxton by 3-1 margin in the race for US Senate - Austin American-Statesman",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTk9BOTVnV2d5bW9UQkdGVjMwVjN5QVlleWQ1Y0FXQmJEREJTQmhNTjFoTUM0cm5lRS1yOVM0cE9pNExCbjRuakFBc09hdjkxbEdJbU1VM21neXJ6bks3dFdZd211bnRsVW9WTkhzcFQxOEtkN19FeUdDOTdRVkl5WHpHX0M1dWdRcmxMYk4wOVBoZ3F4a3Z2ZlJR?oc=5",
@@ -1803,35 +1823,14 @@
       },
       "candidate": "both",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "Shock poll: Talarico ties Paxton in Texas Senate race, threatening GOP stronghold - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM1ltUFNiemsxVFJqNy1SdkxzMWR3cXFKRnJqUGlJVkNEcjVVS0xrTWFMYXhZWWpQNUZSYUhWRDVsQUhzUXlJWWFnd1ZiN1lvd0VVNW9yMWlWTWR6Q3lnSVFBaWs4OS1sMnBHNGFLV0JKLVY4Z1lqRmhpNmhKUTlveA?oc=5",
-      "pubDate": "Sat, 04 Jul 2026 14:24:19 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.053,
-        "negative": 0.947,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W28": {
       "both": {
-        "positive": 3,
+        "positive": 4,
         "negative": 4,
-        "total": 7
+        "total": 8
       },
       "general": {
         "positive": 1,
@@ -1862,8 +1861,8 @@
       },
       "both": {
         "positive": 4,
-        "negative": 10,
-        "total": 14
+        "negative": 9,
+        "total": 13
       },
       "general": {
         "positive": 11,
