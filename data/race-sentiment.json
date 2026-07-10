@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-07-10T03:47:22.113Z",
-  "newsFetchedAt": "2026-07-09T23:47:28.493Z",
+  "analyzedAt": "2026-07-10T07:40:49.022Z",
+  "newsFetchedAt": "2026-07-10T03:53:11.503Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "‘Suspicious’: Talarico says Paxton won’t release records in child sexual abuse case - Fort Worth Star-Telegram",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObDBUXzFFTk1YLXpDWWRjZWJ2bHRwUzdCS3g3Q1NreXhBRXNJVGFlQkJaZHh3ZVV5dXNON2xSd3lKVnBzUElIUnlrTFdQRmxJdnRfWlVvQ2F3Y3VobmdpY3RTT1l4Y2lXQlhnZDF5eWxxLXh0TXFHbHNlTlZRVEZQcXhPWWRuME96QnhBQ0k5NXVFRWlHbXfSAZYBQVVfeXFMTmwwVF8xRU5NWC16Q1lkY2Vidmx0cFM3Qkt4N0NTa3l4QUVzSVRhZUJCWmR4d2VVeXVzTjdsUnd5SlZwc1BJSFJ5a0xXUEZsSXZ0X1pVb0Nhd2N1aG5naWN0U09ZeGNpV0JYZ2QxeXlscS14dE1xR2xzZU5WUVRGUHF4T1lkbjBPekJ4QUNJOTV1RUVpR213?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 22:08:19 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": {
+        "positive": 0.002,
+        "negative": 0.998,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "Texas Senate race enters new phase with fundraising - NBC 5 Dallas-Fort Worth",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ0tJV25va0RqRFVwZncxQ3Y0YXJ5dFpVc3RQSWVYNjlCQlBoTTE0UEtSNHpLUFhjTFFwQkV6ODY2WFFqZTE2SlJwMklpdHctcEtLVkhOVFZpX0pMWmhFSjhTaldENGhPOGs2dlVEeEMyRThsYUpRYmtISWg4S1FBUC1xcHY1bVR3WFhHekdfZXprc1JFMXNYN09nM09UeXotU0xFeUcyY9IBrwFBVV95cUxQU1E0dDdCMlpZRU43a29JM0xRcTU2amxNSUh2Y1NkZGNWMU12YUpoWHhWTzZpSzVNb05iZWNFcXlsQl9XLVRrUVRReU1ZN2NvN0pGR25qUXhQLW9WQUs1bnNmNzI5cGtYWUxOdEhaZ1Q4Qk9haHUyTGF6UjNRZXFxX2hBOE1taTNKaFVwQVA3WDNGb2E5N3p6NndWaXM0UUh5MDAtZ1VYLWl2SGpnTWVn?oc=5",
@@ -1806,36 +1824,19 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "Polling: Texas' U.S. Senate race statiscally tied - The Center Square",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONjd2MC1aYktSY2lfdFJjUkppVmszMXNsT1pta2kxbnhnWjRNWGlnSVREX2pmSzlPMF9ETVkxMTdmTFFIXzlNVTdiVGFFM0RoMWlkWGg3OXlHQWxvZE1YWC0xdGZDdC01LTluMzlSaVBuS0xFLXdwR2d0NG1nRy05MnhhWkt3b3hYTkV1dXdPX03SAZYBQVVfeXFMTl9DbEF3R3FHcUY4RGg0d09zbjkzS3N1Y1ZBeENma25aUWdCdllRV0tRMXM4c0FVUTdwY0NjZXZPNVh5RVM4eVFwS213VW5DUmhaUFdIYjlodUFUa3Zmdk5Qa2tpN3poUUY3dDRRSVFBcTdIbVNWZFprbmNVa3FiMWRLSmhvTzc1b1J1Q2RsSTBaT2tiaW1R?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 20:58:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 4,
-      "matchedKeywords": [
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.081,
-        "negative": 0.919,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W28": {
+      "both": {
+        "positive": 4,
+        "negative": 5,
+        "total": 9
+      },
       "general": {
         "positive": 2,
         "negative": 2,
         "total": 4
-      },
-      "both": {
-        "positive": 4,
-        "negative": 4,
-        "total": 8
       },
       "paxton": {
         "positive": 0,
@@ -1866,8 +1867,8 @@
       },
       "general": {
         "positive": 11,
-        "negative": 12,
-        "total": 23
+        "negative": 11,
+        "total": 22
       }
     }
   }
