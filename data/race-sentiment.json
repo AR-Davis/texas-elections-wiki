@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-07-10T22:32:41.878Z",
-  "newsFetchedAt": "2026-07-10T21:11:22.039Z",
+  "analyzedAt": "2026-07-10T23:32:17.351Z",
+  "newsFetchedAt": "2026-07-10T22:33:32.060Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Republicans have beef with Texas Rep. James Talarico – why does meat matter in US politics? - Iosco County News Herald",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeGtRejZPbnpGMjMtNkJJcHdqSEhScWt6ZlZobHN2d2dqU0RIOVA0b3RFN1VnWVpqcEsyMzVoQTd1MTVvbmZDd3ctSVVVX05ZYUI0aGpPbUF1S2k5amx4djRfMjFHdUdkM0U2LUpGa3VuT3FxOFdSbE5iaUpSblpaM0xJVS1FOWpQSDJCSm5Jam0?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 13:04:09 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.04,
+        "negative": 0.96,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "Cruz: Talarico Could Win Texas Senate Race - News Radio 1200 WOAI",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOW9LejU2dF9iS29mZXdBTm5HTHhVeXVBZ1NuUGsxWm5DS1Ffc3N4QlVPLU5JekRHb0tlYUxYUWxrV2dYbGxuZzVTZmt4VzNPbjlERE43cHVmWUJCemhZbmdWaTl3cEZ6MFhycW5kMG9mZmJiRGpqWFBvWFhtdFc4akZWRFNSZ25DR3A3UlVMc2ZvNEZjOTZybFhSRVZObks1VTJEQ1F0c0ZYazAwQzFKTTFCdw?oc=5",
@@ -1830,36 +1848,14 @@
       },
       "candidate": "general",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "James Talarico expected to be defeated by Ken Paxton in Texas Senate election - Sky News Australia",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObFdrVzkycm9DSUtRZFdoRU9MSDNDeV8tZ2Q3cUtlR1JYYzkzcEcwM0k3VEtlaGRJMmRYRzFyV3dRMElaR1pmc2laN0pOb0x2cnF4TXp2Y3llUXZucHRDZGlhMm96VXZsc0w0UGxMdE0tZjItQ3FqMDdHS2xKTVp4Sm5WSUJWNnFTUTg0YlM1cGZ2a0lIMXFjZDlyTzJhS0haRmo0SlNydHBaY0I2YnlpOXhmOFVtbFR5cjZHYjZST0lBVm1CTnJPbm91R01jTnR6SlZsaExVTHBXZWdXRDRxMlhVUGRwQdIB6wFBVV95cUxNRFdJRUhjVFVfSlZsNk56VDZQazU2UGdSU3YzNDJLTzNmdTdZUURqT2RYQUR5cUladFJ2SjZkRG5rVTdsak1oYzZBMHI5ZjVMTE1IOWRiUU42N1VIT2oxME5VNUhiRVh4eTdvSUVRTkw5ekc2d1Q4R09BOUJBRFp3bXpvUDAzOEpmWlA1Nzd3SUQ5TFdRYVBJbXA5WjVieDhHNDY0QXNLSmRaRVM5NkhpZ1o2RHVIVDBoWjYzMGViU3R5dlA0X1lKVENsWTVCdlVVWHpILXJYdk5WNlg2ZS1VXzYzdFVhaUdOWVFv?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 07:20:20 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 31,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "texas senate",
-        "senate election"
-      ],
-      "sentiment": {
-        "positive": 0.005,
-        "negative": 0.995,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W28": {
       "talarico": {
         "positive": 4,
-        "negative": 7,
-        "total": 11
+        "negative": 8,
+        "total": 12
       },
       "both": {
         "positive": 7,
@@ -1890,8 +1886,8 @@
       },
       "both": {
         "positive": 3,
-        "negative": 7,
-        "total": 10
+        "negative": 6,
+        "total": 9
       },
       "general": {
         "positive": 3,
