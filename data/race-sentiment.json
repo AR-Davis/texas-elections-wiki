@@ -1,9 +1,29 @@
 {
-  "analyzedAt": "2026-07-10T21:10:01.916Z",
-  "newsFetchedAt": "2026-07-10T19:45:31.070Z",
+  "analyzedAt": "2026-07-10T22:32:41.878Z",
+  "newsFetchedAt": "2026-07-10T21:11:22.039Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Cruz: Talarico Could Win Texas Senate Race - News Radio 1200 WOAI",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOW9LejU2dF9iS29mZXdBTm5HTHhVeXVBZ1NuUGsxWm5DS1Ffc3N4QlVPLU5JekRHb0tlYUxYUWxrV2dYbGxuZzVTZmt4VzNPbjlERE43cHVmWUJCemhZbmdWaTl3cEZ6MFhycW5kMG9mZmJiRGpqWFBvWFhtdFc4akZWRFNSZ25DR3A3UlVMc2ZvNEZjOTZybFhSRVZObks1VTJEQ1F0c0ZYazAwQzFKTTFCdw?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 08:50:02 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.83,
+        "negative": 0.17,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "Ted Cruz: Talarico Poses 'Real' Challenge in Texas Senate Race - Newsmax",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN0NwLVpFUkRnUlFjRkh1MWhZN2g5c25BMFFBdm1sOFpPNzJ3UWdYVDhOeEtsVG5TUG16ZHI0RkFXbmRtRWo2VEhKemloZ3lnVzRLM3JDSWNlOTF4c0lmNHF6Yzh3aHB3b1ExeFE1MFZ1R2ZUa2ZHekx4VnZNRlhQTGlDUkszUDNIVTBZUGhjTQ?oc=5",
@@ -1832,34 +1852,14 @@
       },
       "candidate": "both",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "Why both Ken Paxton and James Talarico should be nervous - Austin American-Statesman",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZVBrNml2SWp6a1hUOWs0Ti1oeTZkOHcyRjhpdkZ6VUM4N2hTTFYySXZ3UVZieDBpZzMtdXlhWnpvRVBpaXlOX2wwdVJ0MlRJTmFvYnU5clZYUEpES0hYaktXVjdRakNRTlpDM1NXQmZSdGJ6ZnZKSTZLV2lzbXRZX2lfUlk0N1NuaWw4RFRpQUlzNjl6YU5Cbnd3?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 10:04:19 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 23,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.013,
-        "negative": 0.987,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W28": {
       "talarico": {
-        "positive": 3,
+        "positive": 4,
         "negative": 7,
-        "total": 10
+        "total": 11
       },
       "both": {
         "positive": 7,
@@ -1890,8 +1890,8 @@
       },
       "both": {
         "positive": 3,
-        "negative": 8,
-        "total": 11
+        "negative": 7,
+        "total": 10
       },
       "general": {
         "positive": 3,
