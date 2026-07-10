@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-07-10T11:11:09.127Z",
+  "fetchedAt": "2026-07-10T13:28:44.335Z",
   "count": 24,
   "feedsChecked": 8,
-  "itemsScanned": 185,
+  "itemsScanned": 182,
   "items": [
     {
       "title": "James Talarico out raises Ken Paxton in Texas’ U.S. Senate race. By how much? - Fort Worth Star-Telegram",
@@ -16,20 +16,6 @@
         "paxton",
         "ken paxton",
         "senate race"
-      ]
-    },
-    {
-      "title": "Polls Show Dead Heat in Texas Senate Race Between Paxton and Talarico - sekbernews.id",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ESjA3cV8xaElOZHlmMkhhczRzZmtZeDFVOW1kdm5WRVQ3SjJxcG9LRG5ZTWtvSkZzckctUFZQX1kxZlRKdVRldnFiZVBoUXlMbFdEdGNjdm95dmVCVVptLWc1SGh0ZElaLWdkSjhBbw?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 17:58:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
       ]
     },
     {
@@ -160,6 +146,18 @@
       ]
     },
     {
+      "title": "Cruz: Talarico has ‘real chance’ to beat Paxton in Senate race - KXAN Austin",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd1lfa2NSWkhvWnl6MEFCcmp1TkllbzRLdTVrWmlfZEppU29nV0xsVVBjSmIwT1o2dHV3eHNjUmtkaWFZWV95VjF6dGUwREhNcUpJRnp5VGpuSWdXcXVvSEVyTVk2ZUVMajZTMHp0VUV5Zi1ZbVlKWXNhNVBGTjhkR0czYXNsS1BTT3BROG0zMUlsQVQ0ZzhzajJxZFNOdDQyMHBB0gGoAUFVX3lxTE10TXBDeUx1TUdyOHc2cEZrR3loZVlNdmhINlpZZW1vb1ZGLUNNS2g3X0Fxc3hzR3E0RHYzX1VTMnkyc2wxaXZxSy1ISUhFS1QwdWpTZ09sTFhrYmRXeFlzSklZS3ZBLUJwQW9RSUhFeV9Ra0NVZXBGMlo0WDV0VlRMN0JrSWZaZDFJWmtnZWtBYkk0ekIxUS1XMVJOMjVkWjZqR1VCc3RMZg?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 11:59:12 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ]
+    },
+    {
       "title": "GOP Texas Attorney General Ken Paxton, Who Railed Against ‘Illegal Voting,’ Appears To Have Rep... - uPolitics",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWndVQ0ZOc1hrcGQyYTVHa1BhRXlMcXFVai1uM0d1SUVSNTdrb244d2hBekdxMnJzSEtYSjQwNGl0SUxTZTEzRE1MSnUyWVhDQjd1UDA3clZISXZqSTJpcmhlV2dnM2c5OG04ZGpoY3dtS1NpVmpBLUI2YTR0a2NTOHdjODVxWWFJWEhQRjBBaFBaQ0FCNFBKVkVZdGotMHNYb28zeVZWVjBDZ2hGNWVnN3BudFdiOXRSc1F0djBYdE9EYWVoeW1iV29UQWQ4ZWVRanBOSVpPX0Fzb1RTQnpuWElhQWVNd9IB5gFBVV95cUxPWndVQ0ZOc1hrcGQyYTVHa1BhRXlMcXFVai1uM0d1SUVSNTdrb244d2hBekdxMnJzSEtYSjQwNGl0SUxTZTEzRE1MSnUyWVhDQjd1UDA3clZISXZqSTJpcmhlV2dnM2c5OG04ZGpoY3dtS1NpVmpBLUI2YTR0a2NTOHdjODVxWWFJWEhQRjBBaFBaQ0FCNFBKVkVZdGotMHNYb28zeVZWVjBDZ2hGNWVnN3BudFdiOXRSc1F0djBYdE9EYWVoeW1iV29UQWQ4ZWVRanBOSVpPX0Fzb1RTQnpuWElhQWVNdw?oc=5",
       "pubDate": "Thu, 09 Jul 2026 05:05:22 GMT",
@@ -195,14 +193,14 @@
       ]
     },
     {
-      "title": "Ken Paxton vowed to crack down on ‘illegal voting.’ He may have violated Texas election law - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQODN0UlEtRkY3WERTRmdBZEE3VTZWQ3Y2WTZFMUxiQW9XbWs3cFptXzAzWVBwY0ZKdWtiaUlYT21ZLThQRU00ZDRYcUM0N3BkMGoybldtZXNwRkdsWmFpbjY2QTgyajRDd0NuWE5tSFVEY2pUNC0ybmlvckJFRTRkUzM5WGR1V2FweW9WMzJqQ05wUHkxTl9McEhGZ0pmS21kT1HSAaoBQVVfeXFMT19aRTRjUHpCQ1VvT1FVTW84OXJiUXJjR3hwaS0yeXFtUDZPWFFnQXB3WGFBZHA3TmtScXphVWhJZ25TLUZQUWZ6bE91VWRHSUU1NG5mUzFVdFFZaVVYc0ZJWXZvTFNvMnFZdXRPbnowOUFBeV9oMnRORDJYUHNESm9vTUtXZmR3c2dUR2V4VDlKckNNMmo5czQ1UlRSTEtCWkxIQTAyQTU0SHc?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 12:00:33 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 13,
+      "title": "Republicans have beef with Texas Rep. James Talarico – why does meat matter in US politics? - The Conversation",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdnFKT2RzcHhhY2pkek0xYnRoN1ItNXJ2Mkk4dlVIZlBoYkUyUnpVazhISWNvaDhZWmFSRGE4TlQtcHlQc2E1amtDT05kdW5KSFlWNEtnSk9LMWdnZDk5Yl9YUVBlbV9KUzk1M0hybHVFYlhqNHlEYTB3eE5RUmhzM1p3X3ZzR0EzaTkzeElWM2Ewb2J3RXY1NG1QMTZGMmpkeTltSGs2RndiTVo5NXlTOXFnT0UxMWRkaExTYWZacw?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 12:08:05 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
       "matchedKeywords": [
-        "paxton",
-        "ken paxton"
+        "talarico",
+        "james talarico"
       ]
     },
     {
@@ -228,6 +226,17 @@
       ]
     },
     {
+      "title": "Ken Paxton vowed to crack down on 'illegal voting,' but may have violated Texas law himself - Tucson Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSWwtMnI5UkVSeng0VnAzUTJHM1kyOTN5Ql8tWUlqNDdKNzJlX0w4bFVHT3EwYmNFWXRoWEFqVTMzM2VlWDZ6S1BiM1lCeE9LaEpBUmFicFNleHJJZXNrUW80UFYwMDY3bEVEZUtBTWZqTURaX0pyOWtBaGhQV19vdW40aS1WZTVYYVdEdnF1ancwOWh5dVQtcHRJN0tUWExUSlI4cU1QcUQwZjh2YUNtdkt0WmVVZVExWklJQkh0ck1nd0RvTjVRUEFneHFMNkljeVpYNjhHQ1FQUjJnSUFIQnc0XzMzNl9SWWc?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 18:55:17 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ]
+    },
+    {
       "title": "Texas Dem James Talarico hired brains behind ‘C–ks not Glocks’ protest to draft gun control bills - New York Post",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaU5BQmFIMjByQ1d5YjRQOWkxQXJSVjVlWGlJNUFpUVJLNmdXb2tYWVB0NjlHY1JHVC1rQ2RwaHpaWHdSblU4RXJTYU9QWjVuSzNCdnE1MEtKVU5BTl9ieUdrTjJjU2ZPXzZZZXlhc3huQ1hyeTZZSkxQVDA1LTJCY2tYeTZXUEl6dEN5WTNMdlNlaHBScmgxY3o2U2Q3V2F2LXpWRDk1VlBCMUFhLUQyTkxXRGk5TXVoWXhneDJ4REt2SngzQzFOeWc4ekZsOU5U?oc=5",
       "pubDate": "Wed, 08 Jul 2026 13:52:52 GMT",
@@ -236,28 +245,6 @@
       "matchedKeywords": [
         "talarico",
         "james talarico"
-      ]
-    },
-    {
-      "title": "Texas AG Ken Paxton Faces Polling Crisis After London Mistress Sighting During U.S. 250th Anniversary - streamlinefeed.co.ke",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOY1RSU3c3T1oyYlZYM0Z4Q2J2MEl2RFJLSjJOODQ0QTJKNzZBcnhTVmZsekk0OHNTanRWQjR5WXl5bEcwM29xTzdJb1RycXRLQ04xSGtIbzhyODBRWTdyUWFpLXN3SFQ2Nk56LVJPWjZybjBLSml5TW5kWHRnZzFWRXM0OF9NcjZtSXloZnBDR3BUXzE3OXVuUWFtMGk3SEx4dXlFOERjZjA3NkdpdGYxa0t3a185dElJQVVvaVJxdUtaZm5kWko5NlA3d1lwQQ?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 11:49:17 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ]
-    },
-    {
-      "title": "It's time for Texans to biblically divorce themselves from Ken Paxton - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVy05UzJqNmtKYmJzUUFVRnI4RXVZbVJpZWlTUVh4eElOSGgxVm5zQnR4NmVQazdITVliTFhkUnBianUtTS11U1pfVEtrTmFZUXd2Y0hMUFNycTdFYjNhY3FZM0dkeEFQTlV2b1Y5enhQUEd1RlV1QmlvTFJNZ1NIMEF3M3FXODFjbXNNV25BbFVEN2RqanRXTk1OZzN6eWoxSHNnaWpDelk2YlJxbG5yMkVEUUE?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 11:12:49 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
       ]
     },
     {
@@ -291,6 +278,17 @@
       "matchedKeywords": [
         "paxton",
         "ken paxton"
+      ]
+    },
+    {
+      "title": "‘Suspicious’: Talarico says Paxton won’t release records in child sexual abuse case - Fort Worth Star-Telegram",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObDBUXzFFTk1YLXpDWWRjZWJ2bHRwUzdCS3g3Q1NreXhBRXNJVGFlQkJaZHh3ZVV5dXNON2xSd3lKVnBzUElIUnlrTFdQRmxJdnRfWlVvQ2F3Y3VobmdpY3RTT1l4Y2lXQlhnZDF5eWxxLXh0TXFHbHNlTlZRVEZQcXhPWWRuME96QnhBQ0k5NXVFRWlHbXfSAZYBQVVfeXFMTmwwVF8xRU5NWC16Q1lkY2Vidmx0cFM3Qkt4N0NTa3l4QUVzSVRhZUJCWmR4d2VVeXVzTjdsUnd5SlZwc1BJSFJ5a0xXUEZsSXZ0X1pVb0Nhd2N1aG5naWN0U09ZeGNpV0JYZ2QxeXlscS14dE1xR2xzZU5WUVRGUHF4T1lkbjBPekJ4QUNJOTV1RUVpR213?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 22:08:19 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
       ]
     }
   ]
