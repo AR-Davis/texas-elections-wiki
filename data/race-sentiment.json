@@ -1,9 +1,46 @@
 {
-  "analyzedAt": "2026-07-09T23:46:41.784Z",
-  "newsFetchedAt": "2026-07-09T22:02:11.498Z",
+  "analyzedAt": "2026-07-10T03:47:22.113Z",
+  "newsFetchedAt": "2026-07-09T23:47:28.493Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Texas Senate race enters new phase with fundraising - NBC 5 Dallas-Fort Worth",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ0tJV25va0RqRFVwZncxQ3Y0YXJ5dFpVc3RQSWVYNjlCQlBoTTE0UEtSNHpLUFhjTFFwQkV6ODY2WFFqZTE2SlJwMklpdHctcEtLVkhOVFZpX0pMWmhFSjhTaldENGhPOGs2dlVEeEMyRThsYUpRYmtISWg4S1FBUC1xcHY1bVR3WFhHekdfZXprc1JFMXNYN09nM09UeXotU0xFeUcyY9IBrwFBVV95cUxQU1E0dDdCMlpZRU43a29JM0xRcTU2amxNSUh2Y1NkZGNWMU12YUpoWHhWTzZpSzVNb05iZWNFcXlsQl9XLVRrUVRReU1ZN2NvN0pGR25qUXhQLW9WQUs1bnNmNzI5cGtYWUxOdEhaZ1Q4Qk9haHUyTGF6UjNRZXFxX2hBOE1taTNKaFVwQVA3WDNGb2E5N3p6NndWaXM0UUh5MDAtZ1VYLWl2SGpnTWVn?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 21:33:51 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 18,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.99,
+        "negative": 0.01,
+        "label": "positive"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "Ken Paxton vowed to crack down on ‘illegal voting.’ He may have violated Texas election law - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQODN0UlEtRkY3WERTRmdBZEE3VTZWQ3Y2WTZFMUxiQW9XbWs3cFptXzAzWVBwY0ZKdWtiaUlYT21ZLThQRU00ZDRYcUM0N3BkMGoybldtZXNwRkdsWmFpbjY2QTgyajRDd0NuWE5tSFVEY2pUNC0ybmlvckJFRTRkUzM5WGR1V2FweW9WMzJqQ05wUHkxTl9McEhGZ0pmS21kT1HSAaoBQVVfeXFMT19aRTRjUHpCQ1VvT1FVTW84OXJiUXJjR3hwaS0yeXFtUDZPWFFnQXB3WGFBZHA3TmtScXphVWhJZ25TLUZQUWZ6bE91VWRHSUU1NG5mUzFVdFFZaVVYc0ZJWXZvTFNvMnFZdXRPbnowOUFBeV9oMnRORDJYUHNESm9vTUtXZmR3c2dUR2V4VDlKckNNMmo5czQ1UlRSTEtCWkxIQTAyQTU0SHc?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 12:00:33 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.008,
+        "negative": 0.992,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W27"
+    },
     {
       "title": "James Talarico outraises Ken Paxton by 3-1 margin in the race for US Senate - Houston Chronicle",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRlNyRlNYQlNRQ0RiSlVsdkN3bXNWZjJSSi1NQTVsR1FnOExnUDltaVlVSGZsZC1xSXJvZlpQSEh6a2l6RldDenhsNHNrUTRhSk1OYnI4MFNRbDdjTnRPRlBZaUtDaDB0UTRMQWF5Q2RfbDVkaUJOb2tDZlRLODhlQXN1ekN4NDBkaFlSdlpPYlpBUi1mVFk0NDRXY3lUSjNucUlz?oc=5",
@@ -1786,56 +1823,19 @@
       },
       "candidate": "general",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "Texas Senate race now a tossup - MSN",
-      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPQ1Fjc1ZOWU5XbUZEX1N3alBfaVpvakFYVE0zTDlVNTRpQkNJOFlPQmxMUTQtaWRDd1ROS2tOclE5OWdsb2NzXzRlWWxIMjc5REQyQ3ZlQWYyQ05mQXRBcjQtTFR5YkwwTHpzQ1lLUXJDRnM5cXlqRkI1YWNMV3JKRnhLbVJMY0UtRFZvN0pyMVFneGtfc0E1QlRsTnpFNzlnQUNjVU8zaFd0eHNLZkl2V1p0dkJSdFVFNXZpVW55MVNUbG82WjZtRzFnZHFqTVVxVW10dzZHOENGalZ2ZF9KNWNkRzJkUWJ3ZGxhUGduaXpSUG4xMjROcDB6NVJZMEhTbi1zOXZSLVI3MTZyNTViRkFlZDdEWVRDdnZIamFlWlRLbWtFNDJUZ2haM1F3c2NnakE?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 16:26:51 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.029,
-        "negative": 0.971,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W27"
-    },
-    {
-      "title": "Supreme Court ruling could boost role of national parties in Paxton-Talarico race - CW39 Houston",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdW1wR21pclhya3pCZjgtNVVIUlNSSFNTUlktR1dnQWRhakVwamVjdG5mWGFUdmVFQkxHOWhNVkNJamItemRUOW9EWjdVWkFQNXN6YWtmQzZmRnB3Y1ZabGJiRjJQUWFSaGVMdzhnQzBWOG16OS13VjZiUGpQT1BsbzlmQWpTYjd0UWVFSlB2RG5La1hNUHk1T1I0V3J5Nk5rT2daZVl4SE1NUENHUzhF0gG0AUFVX3lxTE82UjVOQzY2RXpwcnhtTl9sc1c4SkJGdzUyRWNuQUliNV9qdWYtV1BfR0RvQTI5ZFBTR0xUMTVEbDY5STlLdXNGYWJMWXNhYV9CaWx1MjJLQk5kbzF1a1B0Mmp1UWtyMzdlazVzUVZXTmc1MTl6aDYxMjlyVTRXMHBXc2diQVVfRjRMVHhnSVNQeWpMWWtCcGtYNWFycjk3ODU1WVNlOEo5YnlCWGdDcFhvcDl2ag?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 10:13:49 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.837,
-        "negative": 0.163,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W28": {
+      "general": {
+        "positive": 2,
+        "negative": 2,
+        "total": 4
+      },
       "both": {
         "positive": 4,
         "negative": 4,
         "total": 8
-      },
-      "general": {
-        "positive": 1,
-        "negative": 2,
-        "total": 3
       },
       "paxton": {
         "positive": 0,
@@ -1851,8 +1851,8 @@
     "2026-W27": {
       "paxton": {
         "positive": 5,
-        "negative": 26,
-        "total": 31
+        "negative": 27,
+        "total": 32
       },
       "talarico": {
         "positive": 4,
@@ -1860,14 +1860,14 @@
         "total": 19
       },
       "both": {
-        "positive": 4,
+        "positive": 3,
         "negative": 9,
-        "total": 13
+        "total": 12
       },
       "general": {
         "positive": 11,
-        "negative": 13,
-        "total": 24
+        "negative": 12,
+        "total": 23
       }
     }
   }
