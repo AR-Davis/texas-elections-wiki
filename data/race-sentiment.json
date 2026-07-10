@@ -1,9 +1,67 @@
 {
-  "analyzedAt": "2026-07-10T19:39:29.498Z",
-  "newsFetchedAt": "2026-07-10T17:56:20.781Z",
+  "analyzedAt": "2026-07-10T21:10:01.916Z",
+  "newsFetchedAt": "2026-07-10T19:45:31.070Z",
   "totalAnalyzed": 100,
-  "newThisRun": 5,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Ted Cruz: Talarico Poses 'Real' Challenge in Texas Senate Race - Newsmax",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN0NwLVpFUkRnUlFjRkh1MWhZN2g5c25BMFFBdm1sOFpPNzJ3UWdYVDhOeEtsVG5TUG16ZHI0RkFXbmRtRWo2VEhKemloZ3lnVzRLM3JDSWNlOTF4c0lmNHF6Yzh3aHB3b1ExeFE1MFZ1R2ZUa2ZHekx4VnZNRlhQTGlDUkszUDNIVTBZUGhjTQ?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 18:35:39 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.979,
+        "negative": 0.021,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "As Paxton, Talarico report big fundraising totals, Adam Hoffman case hangs over US Senate race - KVUE",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPWVBhOVBwUHRKZzdsQWN3MUhoT1VvNVJlMlVFNTlUdktZc2JtTEV5YThERWNQMjN6OTZSYkpBZ1FtcTYtbng4YzRzR0NRWVFBajlGa29YWFNpR0tDeHNydjF5UUJvQkRMRUYzSGlwak50bS1ncjZINnNEdXYxM25GUkpnXzlvM1lRZnFCUHJMSW5nazdta2o3U1g2YkNaR0hLY0gwNlVrYS1JQUx0a01uUjhsbVpxTzZJeEdHd0g5T1RtOHR1MjVRb2JXbXZWWjN3Skt5NFVUZTZ0N0VTZXJ3YXZ0eGktTEtRM1lORFA0ZDNDUjlQZG52Z3dfWUl5RTVseXJhOWlEN1dtTmVn?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 22:34:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.009,
+        "negative": 0.991,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "Cruz: Talarico has ‘real chance’ to beat Paxton in Senate race - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52UGNjUGNhQnBzYV93Y2pZMGZiNEpDczVHaG5QQVJCWnBobE1TLUVQNkp6YXk4NnZXRDhGcmFJNVNuSTZEN1hHYlJJU19adW52bGtzeXFISTVaY1FpMWVWbDJROFdaLW85elZ4cXBoc1F1R0FPTHhfZUZ1NNIBgAFBVV95cUxPMEhlZ0xZT3lDRDdKQ3pQVDZEdTljUE53VkFrUHJwUVZDNVhBeWIwcVdSMmZ6Wl9qTEk0NUhZbGU0S3lKbm5RVmw5NkF3c2JUdzZlcHRhcXA4SUVKd3ZmLWtKWHVVLW1Uc09rTlBscVlPTnFpUFUyMHJUcHQtRThDdg?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 21:42:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.999,
+        "negative": 0.001,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "Talarico details tax plan, Paxton stays vague in Texas US Senate race - El Paso Times",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRWlOdjdFd19OdzJxZjVLQXdUS2hVUWlHczhna3YxR2tDblFTejkxVmpEMzdmT1J6WThYMDBoaDVQQmlpazZYOXE5SUk5NW5sNUlGcUVnZHdBREM0RzFIUGxNa1Y4NUFQNDhZSTR0ZlFnTGVpY0d2MVQ5eGtUY084ajFudmMxU0JSRVFndEVRcjZqbmNfbHRmXzdNZnFTZHYwMzlqZVRGaDlTa1ktVDhpNlM3bVJ6em1yTVEtbGE1dWFpS092UDVLOGZYMldXQ29PR2JZVDBvOWItM3hIcnpDS3dROGxOOVRHMHkzTEdUMkNOaGhG?oc=5",
@@ -1794,79 +1852,24 @@
       },
       "candidate": "both",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "Battleground Texas - The latest in the Texas Senate race ahead of November election - FOX 26 Houston",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53X3oyZ3NQR2Q2MkhDUF8tNnItbFhlNk9pdHdUZ28yOGdaSENpb2RCRzVoRktFbHlVQnI0UGZ5MXhZX2xFeUg5aVZ4VUxRNmI5U1NhRUdpeHRnS2NDeVdMZV9vV0M2cjhnNGo40gFrQVVfeXFMTndfejJnc1BHZDYySENQXy02ci1sWGU2T2l0d1RnbzI4Z1pIQ2lvZEJHNWhGS0VseVVCcjRQZnkxeFlfbEV5SDlpVnhVTFE2YjlTU2FFR2l4dGdLY0N5V0xlX29XQzZyOGc0ajg?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 01:00:25 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.978,
-        "negative": 0.022,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W27"
-    },
-    {
-      "title": "Texas Senate race turns into political food fight over eggs, grocery prices - Tyler Morning Telegraph",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdm1QZ3NXc3ZkVGhFSHFkMjFtMnN3Y2dBOURsTEZwdGNJa0pNZEdtN0NHN2lLNXZzbFVWWlVITXpweC1QemRLQWptbnJ2OURrOGtCVzNhMHRCc3psSHExSGlkSzhtbEcyenRubVF6bUR3dTBqbmgwYXAwcndGRmt3LUNfZk9jOEZQckVjdzdWUVJPWWVfN0tpczNRR1NqOTNMaW5XQm95U21HR3p1c2c?oc=5",
-      "pubDate": "Sat, 04 Jul 2026 09:51:24 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.005,
-        "negative": 0.995,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W27"
-    },
-    {
-      "title": "TX Senate Rundown: Party of Clinton dings Paxton’s trip with girlfriend | Opinion - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KRkFkMEJTVjJOZUk3MUdBbFZhRXhiZWR3VmI1Q0pqSEQwVjYtNm9BTUE3b0U3UnZwUnplUHk3dmtzVXB2X0hSa3A2eTNLNjZjRW9BUzhMUFF0bVJMZjVHU0FIa0tIeEVPd19IcV9qc0JvY0FGelZDSm40Yw?oc=5",
-      "pubDate": "Sun, 05 Jul 2026 06:01:27 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.002,
-        "negative": 0.998,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W28": {
+      "talarico": {
+        "positive": 3,
+        "negative": 7,
+        "total": 10
+      },
       "both": {
-        "positive": 6,
-        "negative": 9,
-        "total": 15
+        "positive": 7,
+        "negative": 10,
+        "total": 17
       },
       "paxton": {
         "positive": 0,
         "negative": 3,
         "total": 3
-      },
-      "talarico": {
-        "positive": 2,
-        "negative": 7,
-        "total": 9
       },
       "general": {
         "positive": 2,
@@ -1877,8 +1880,8 @@
     "2026-W27": {
       "paxton": {
         "positive": 5,
-        "negative": 25,
-        "total": 30
+        "negative": 24,
+        "total": 29
       },
       "talarico": {
         "positive": 4,
@@ -1891,9 +1894,9 @@
         "total": 11
       },
       "general": {
-        "positive": 4,
-        "negative": 8,
-        "total": 12
+        "positive": 3,
+        "negative": 7,
+        "total": 10
       }
     }
   }
