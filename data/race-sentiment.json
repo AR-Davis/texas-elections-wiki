@@ -1,9 +1,29 @@
 {
-  "analyzedAt": "2026-07-10T11:09:31.787Z",
-  "newsFetchedAt": "2026-07-10T07:42:24.390Z",
+  "analyzedAt": "2026-07-10T13:28:08.522Z",
+  "newsFetchedAt": "2026-07-10T11:11:09.127Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Cruz: Talarico Could Win Texas Senate Race - News Radio 1200 WOAI",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUHpZbFdTc1RYTTgyR0RnaFp6VTFfTXNaWTRRTnVzbU9xemdkby1SS1FvWnFKaDRKVFo2cEIzSnVzZjdmdkdHYXppWnllOGMtQy1sUmNWa2ZfRF9tdGVHSW9mZUI5bHhpVng3SjZCUEI0d0FjVDVpaTRHODhlQlFNX1g4NUowaXVDYm5uQmRnYmtHSUVmb01hWVJROE0zYjQ0azBoZ0FKbkd6UE5RcWNkR19nY1dVbkkwVFE?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 08:50:02 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.83,
+        "negative": 0.17,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "James Talarico urges Ken Paxton to release the ‘Hoffman Files’ after denied records request - KTSM 9 News",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTUxzajlDVGdTNjlDOW9XRW1pdHhNTkVFdTUwWUVqZXdXSjhpdzFhdy0wTkxIYm14UmV5Njlzc29BNERhSko3Z09ZR0RPRFpVb2s0U0RaS2UyTXZMX3pkRVA4RFNiaXB4dWdOUnpTbl9oZF8tRERkNU5DY2NSZlpQcWM3Y2lvdlMtXzRtVjF5MVVUWGpVNVBvT0F1TmREellMNUNtT3QyaXZrZmtLTU1IcUtMYllSRzhCZW12SXFSSXd1al9Qajh5VzZ6UTlWZ1h60gHQAUFVX3lxTE1NTHNqOUNUZ1M2OUM5b1dFbWl0eE1ORUV1NTBZRWpld1dKOGl3MWF3LTBOTEhibXhSZXk2OXNzb0E0RGFKSjdnT1lHRE9EWlVvazRTRFpLZTJNdkxfemRFUDhEU2JpcHh1Z05SelNuX2hkXy1ERGQ1TkNjY1JmWlBxYzdjaW92Uy1fNG1WMXkxVVRYalU1UG9PQXVOZER6WUw1Q21PdDJpdmtma0tNTUhxS0xiWVJHOEJlbXZJcVJJd3VqX1BqOHlXNnpROVZnWHo?oc=5",
@@ -1809,36 +1829,19 @@
       },
       "candidate": "general",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "Inside Texas Politics - KVUE",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTFRFbTNKRWtqVG9yTy03YlRWc09ta21SQVlQaENoeDMyN1kwNFcwcmRUSWJrbUducEpRWnpOTVJDckx3bXpmTzZaNncwR3RtRXVhSUwtdmMyd1VVZXdZclFsTlVQR0VDSm9kQ0EtNWppUHVQNFlYZGZENkNOdElwb2Z3aEZBTEowQTZ6WWZrZHRzaHdBY0lFZ1BzeEt5WnhzU0NIcnhDODkxZw?oc=5",
-      "pubDate": "Sun, 05 Jul 2026 10:30:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "sentiment": {
-        "positive": 0.996,
-        "negative": 0.004,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W28": {
+      "talarico": {
+        "positive": 2,
+        "negative": 1,
+        "total": 3
+      },
       "both": {
         "positive": 4,
         "negative": 6,
         "total": 10
-      },
-      "talarico": {
-        "positive": 1,
-        "negative": 1,
-        "total": 2
       },
       "general": {
         "positive": 2,
@@ -1868,9 +1871,9 @@
         "total": 12
       },
       "general": {
-        "positive": 11,
+        "positive": 10,
         "negative": 10,
-        "total": 21
+        "total": 20
       }
     }
   }
