@@ -1,9 +1,64 @@
 {
-  "analyzedAt": "2026-07-10T13:28:08.522Z",
-  "newsFetchedAt": "2026-07-10T11:11:09.127Z",
+  "analyzedAt": "2026-07-10T15:56:54.974Z",
+  "newsFetchedAt": "2026-07-10T13:28:44.335Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Cruz: Talarico has ‘real chance’ to beat Paxton in Senate race - KXAN Austin",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd1lfa2NSWkhvWnl6MEFCcmp1TkllbzRLdTVrWmlfZEppU29nV0xsVVBjSmIwT1o2dHV3eHNjUmtkaWFZWV95VjF6dGUwREhNcUpJRnp5VGpuSWdXcXVvSEVyTVk2ZUVMajZTMHp0VUV5Zi1ZbVlKWXNhNVBGTjhkR0czYXNsS1BTT3BROG0zMUlsQVQ0ZzhzajJxZFNOdDQyMHBB0gGoAUFVX3lxTE10TXBDeUx1TUdyOHc2cEZrR3loZVlNdmhINlpZZW1vb1ZGLUNNS2g3X0Fxc3hzR3E0RHYzX1VTMnkyc2wxaXZxSy1ISUhFS1QwdWpTZ09sTFhrYmRXeFlzSklZS3ZBLUJwQW9RSUhFeV9Ra0NVZXBGMlo0WDV0VlRMN0JrSWZaZDFJWmtnZWtBYkk0ekIxUS1XMVJOMjVkWjZqR1VCc3RMZg?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 11:59:12 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.999,
+        "negative": 0.001,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "Republicans have beef with Texas Rep. James Talarico – why does meat matter in US politics? - The Conversation",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdnFKT2RzcHhhY2pkek0xYnRoN1ItNXJ2Mkk4dlVIZlBoYkUyUnpVazhISWNvaDhZWmFSRGE4TlQtcHlQc2E1amtDT05kdW5KSFlWNEtnSk9LMWdnZDk5Yl9YUVBlbV9KUzk1M0hybHVFYlhqNHlEYTB3eE5RUmhzM1p3X3ZzR0EzaTkzeElWM2Ewb2J3RXY1NG1QMTZGMmpkeTltSGs2RndiTVo5NXlTOXFnT0UxMWRkaExTYWZacw?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 12:08:05 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.024,
+        "negative": 0.976,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "Ken Paxton vowed to crack down on 'illegal voting,' but may have violated Texas law himself - Tucson Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSWwtMnI5UkVSeng0VnAzUTJHM1kyOTN5Ql8tWUlqNDdKNzJlX0w4bFVHT3EwYmNFWXRoWEFqVTMzM2VlWDZ6S1BiM1lCeE9LaEpBUmFicFNleHJJZXNrUW80UFYwMDY3bEVEZUtBTWZqTURaX0pyOWtBaGhQV19vdW40aS1WZTVYYVdEdnF1ancwOWh5dVQtcHRJN0tUWExUSlI4cU1QcUQwZjh2YUNtdkt0WmVVZVExWklJQkh0ck1nd0RvTjVRUEFneHFMNkljeVpYNjhHQ1FQUjJnSUFIQnc0XzMzNl9SWWc?oc=5",
+      "pubDate": "Wed, 08 Jul 2026 18:55:17 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.007,
+        "negative": 0.993,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W27"
+    },
     {
       "title": "Cruz: Talarico Could Win Texas Senate Race - News Radio 1200 WOAI",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUHpZbFdTc1RYTTgyR0RnaFp6VTFfTXNaWTRRTnVzbU9xemdkby1SS1FvWnFKaDRKVFo2cEIzSnVzZjdmdkdHYXppWnllOGMtQy1sUmNWa2ZfRF9tdGVHSW9mZUI5bHhpVng3SjZCUEI0d0FjVDVpaTRHODhlQlFNX1g4NUowaXVDYm5uQmRnYmtHSUVmb01hWVJROE0zYjQ0azBoZ0FKbkd6UE5RcWNkR19nY1dVbkkwVFE?oc=5",
@@ -1777,71 +1832,19 @@
       },
       "candidate": "general",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "Texas Democratic Party Chairman says the party needs to \"stop this limited thinking\" and the GOP party \"must be real scared\" - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPc1BTb0hJdFdQVWdtdHlEMWM4OHN4LUZvVURtVWRxQlNONlY0bHJHbWY0VFh0dXF4NG52dzQ2MmdYYlctZFRQbXR5eHhPMjNEdGRTTjlJTVNDZTN6X1FsZ25oQ1hKUWFUM294SDhlWHI3T19TWFQyTTlvZi1TRG1CN2VMM3IzVDF1VXYyQzBIZ2RtU2ROQW1Tb2tlV2xQdHpMU1FOeWJ6amlKdElEcGs0RFBhUzU4cEl3SkZpT2F0UTFYUnpvTnFCWExlekplS01PYWw4bzRtTUpsREZq?oc=5",
-      "pubDate": "Sun, 05 Jul 2026 10:00:14 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 4,
-      "matchedKeywords": [
-        "texas democrat"
-      ],
-      "sentiment": {
-        "positive": 0.001,
-        "negative": 0.999,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W27"
-    },
-    {
-      "title": "Map: Where was Ken Paxton's strongest support in Denton County? - MSN",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOY3hJNEg0bW5fTXo0UFBoS1RKWVhXcnBJdGI5QnhJTkVhR2hFVzgxMEhLM285ZXhIb3lrcGdvX29XMjJocnhRSWtLMUNPNzdsU0prSTc3d1BEUGtCRDA4cXVSazZYUWY5STFEOU52UlJyM29uek1zTDJWUkQ3RDFHanRKOW9yTXpQZFFOTDlialZORVdjeHNYRENsYWJlWWpZTjV6MHhPSGxqQ0Y2Y2JQc1h0bFJCbF92enZmT19XVkJzU2k2TEQzcTJJal8wcUl3VDBrVW9VRG5xclZCQzJEc1d3WTBIeFRudG5Cd0NmZFVHZVZy?oc=5",
-      "pubDate": "Sun, 05 Jul 2026 00:04:24 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.002,
-        "negative": 0.998,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W27"
-    },
-    {
-      "title": "Republican midterm convention to be held in Dallas | Inside Texas Politics: July 5, 2026 - newswest9.com",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNV1hUYWVLemNyUzloZXFpYzIza1FPc3kycGFnQUZYLTh6SHRoOVZFYXVHOEZfdnR0NTEwbThINTFONTlwTTl1R004dWFMVzBTZ1NWS1VJcDdKWUxyUFl0dVFpSWZpYVNERVFSSUVocUFJWFNnaDlONXVOeHFWSk1IUXJ2OGZqN0tQb1I5SWNqQjVoal9CalNfUFBwTnJCRGFqd1JmSU1Zak9CZmlvTHhXTjN5eUhXRzlNdUhtUExleElPaDFzSDhNSkNpMU1UWVl6akVuNlY0S3N3Q1dwOFVfT0JIMXpDMFdSdi15bFR2ekkwbDdyaFJWZUl2NTdfVEhweE54VXZxZDVxVU9zUTktVjluVU5oRjRieXBnbXJn?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 22:27:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "sentiment": {
-        "positive": 0.937,
-        "negative": 0.063,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W28": {
+      "both": {
+        "positive": 5,
+        "negative": 6,
+        "total": 11
+      },
       "talarico": {
         "positive": 2,
-        "negative": 1,
-        "total": 3
-      },
-      "both": {
-        "positive": 4,
-        "negative": 6,
-        "total": 10
+        "negative": 2,
+        "total": 4
       },
       "general": {
         "positive": 2,
@@ -1871,9 +1874,9 @@
         "total": 12
       },
       "general": {
-        "positive": 10,
-        "negative": 10,
-        "total": 20
+        "positive": 9,
+        "negative": 9,
+        "total": 18
       }
     }
   }
