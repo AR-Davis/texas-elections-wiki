@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-07-11T20:56:00.886Z",
-  "newsFetchedAt": "2026-07-11T20:24:12.821Z",
+  "analyzedAt": "2026-07-11T21:55:04.679Z",
+  "newsFetchedAt": "2026-07-11T21:23:55.797Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "James Talarico bringing Frontera Tour campaign stop to Laredo - Laredo Morning Times",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOEppUjkxemt3dG8wVzFaZjJjVFk2Snd6YVZSMVM3QTlGNlFRWkh1OHR1dDFGdXplZDRCT2xfVlpkS3c1aTZXMnJLWU9KR2FLN0NBbUoxUlhKUDRQRVpNRnVEOFlHcjRGaV9xQWl0SHF3YzFPTXk4dGlsaDIzY3gzQ184ZHJmc3dRZ2JubWhQTWVobnAzNTFqQmJLc3d0TGpUT080?oc=5",
+      "pubDate": "Sat, 11 Jul 2026 20:41:20 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.981,
+        "negative": 0.019,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "U.S. Senate Candidate James Talarico Makes Announcement - C-SPAN",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRjNZQXg2WElpZG9XbEIzaDdfd2thdFNxeDdmUDFwWGpLRDl2Q01HU0xjVHpTSTRjaFBTNUFZT0pGd19oaktyMk5HSkRYTG1UTWFOWlpURE4wWEN6UjBud2ZnalBxNHh1aXpTZ0U2NkNTWEdQN2g2WU1qRUJrWVI1UENCMnZiTTVEYkcxVXZhQXZpLVdlQTdkb20xakF0a0RMWlBBNVFVNF8?oc=5",
@@ -1838,31 +1856,14 @@
       },
       "candidate": "general",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "Holding Pattern: GOP Maintains Slight Edge in Senate Races - News Radio 1200 WOAI",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc25rSlBrcHFhSTQ1QlJHNl82UVZKUFNtemlySlZiNnF1NkJhYXJKTkhialk3N3EzNms2UVo5YXktUUZGbVB4ZlhZWnRsT2hNak1nV2s5TjRoZ0lSRTF0SVl1T3JCeGZ2UmdIT2dPd2s3Zm42LXhZMk9GWmJwb1M4R2RBU2N6dllaQ0pWZW9WMlRNc0lBbjlXSHJndVpMS3g3NmtWdF9pZDFhTUZadVFfZnc3LVZoVS1ibHM2MS1n?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 08:30:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 3,
-      "matchedKeywords": [
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.199,
-        "negative": 0.801,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W28": {
       "talarico": {
-        "positive": 7,
+        "positive": 8,
         "negative": 9,
-        "total": 16
+        "total": 17
       },
       "general": {
         "positive": 3,
@@ -1898,8 +1899,8 @@
       },
       "general": {
         "positive": 2,
-        "negative": 5,
-        "total": 7
+        "negative": 4,
+        "total": 6
       }
     }
   }
