@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-07-11T19:42:45.950Z",
-  "newsFetchedAt": "2026-07-11T16:27:04.242Z",
+  "analyzedAt": "2026-07-11T20:56:00.886Z",
+  "newsFetchedAt": "2026-07-11T20:24:12.821Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "U.S. Senate Candidate James Talarico Makes Announcement - C-SPAN",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRjNZQXg2WElpZG9XbEIzaDdfd2thdFNxeDdmUDFwWGpLRDl2Q01HU0xjVHpTSTRjaFBTNUFZT0pGd19oaktyMk5HSkRYTG1UTWFOWlpURE4wWEN6UjBud2ZnalBxNHh1aXpTZ0U2NkNTWEdQN2g2WU1qRUJrWVI1UENCMnZiTTVEYkcxVXZhQXZpLVdlQTdkb20xakF0a0RMWlBBNVFVNF8?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 19:08:55 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.982,
+        "negative": 0.018,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "Cruz: Talarico Could Win Texas Senate Race - NewsRadio 740 KTRH",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRjA4cTNFWjRhd2dqbDhWcVZwdHN6TWJmNzJfbEh6VzhXVnBhVWNHVHRzODJxZTBmeEpfUlh2ZGJCRzNUWVBPSlh2bjJnb09nNkNwSjlKUVdNcWpJa0ZTRk1xVE00SFRTbXI3SVBwQmUwdTFxeXhrQ1gyMndhTDZOWm9JSTBoamRKeHBvOU5qYW84Q3VJdWhMRjU0V2JPX1lqcmV5cjVvTjk0Vk12ZVNTN3hEMNIBlgFBVV95cUxOeDNEQkFfaERuSEdQbEdNdkkyZC1XUmFUdEk4d1RBSktycDhkTHFWazRrZG5PWE5qNzJOSWh3TUZhdDRtNDM4a1NOdEhuT3A0LVhPT0VFallqT2FOMFdfR3dXbHhSdEpGZmFsbG5ld1JVczhtYVNRQU5kR0tsSGMxd1lTN3lvamJNQmxhaGQ1S1hDVExxMUE?oc=5",
@@ -1837,31 +1855,14 @@
       },
       "candidate": "general",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "I’m a veteran. Closing Texas GOP primaries betrays conservative values | Opinion - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOWs2NDlfV1JLTk1xcDdjZUNvVWJ2aElGQTBHN0ZRQi1hV3NVNVdScHV0bzlLVjViVThCblZCdjFNSnMzbV9xTUwtaHExOFNDZGNaS0k0RThWd01qRTg2NVJRSEI4VTNtbTVYQ2lTdjRQZGIxTlVnNEJHMnBOd3E2a0hlUzAxbXV1SG4zaVZwakZuYVpkT1Y4alhWM0hoWjV1ejZkMTRRSW5NNW12Nl82REx1YkpucjBn?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 10:18:51 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas gop"
-      ],
-      "sentiment": {
-        "positive": 0.94,
-        "negative": 0.06,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W28": {
       "talarico": {
-        "positive": 6,
+        "positive": 7,
         "negative": 9,
-        "total": 15
+        "total": 16
       },
       "general": {
         "positive": 3,
@@ -1896,9 +1897,9 @@
         "total": 7
       },
       "general": {
-        "positive": 3,
+        "positive": 2,
         "negative": 5,
-        "total": 8
+        "total": 7
       }
     }
   }
