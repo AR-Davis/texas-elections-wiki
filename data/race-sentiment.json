@@ -1,9 +1,43 @@
 {
-  "analyzedAt": "2026-07-11T06:36:37.013Z",
-  "newsFetchedAt": "2026-07-11T06:19:47.540Z",
+  "analyzedAt": "2026-07-11T08:50:41.727Z",
+  "newsFetchedAt": "2026-07-11T08:21:19.067Z",
   "totalAnalyzed": 100,
   "newThisRun": 2,
   "stories": [
+    {
+      "title": "Victor Marx wins the Republican primary for Colorado governor",
+      "link": "https://apnews.com/article/election-colorado-republican-primary-marx-b570a0ebea909683fb7ae9559ea260e7",
+      "pubDate": "2026-07-11T08:21:07.931Z",
+      "feedSource": "politics",
+      "raceScore": 3,
+      "matchedKeywords": [
+        "republican primary"
+      ],
+      "sentiment": {
+        "positive": 0.999,
+        "negative": 0.001,
+        "label": "positive"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "Platner formally withdraws from Maine Senate race and Democrats announce process to name new nominee",
+      "link": "https://apnews.com/article/graham-platner-maine-senate-53839ed2762e9f84557a299ae922f2dd",
+      "pubDate": "2026-07-11T08:21:07.786Z",
+      "feedSource": "usnews",
+      "raceScore": 3,
+      "matchedKeywords": [
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.014,
+        "negative": 0.986,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "James Talarico's odds of beating Ken Paxton in Texas - knewz.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa0ZNX2ZzaXVrcHhOLTE1ZV8zbmE0T1lSUjFzVnV5Tk1KdnowUEFEYzByd2k0TkUzdkhxRXN1a0RIanUwcGkwdmJBREZZaDhwei1QcV80WHRCNTRqUi0weXBJMEtDak1FOC0tUEZpRDZaTzI3aTY0emNPbjFnd1ZVS3d4OFFTS3U0VnhiQUVKbnJ4dnQ4dVA2R0Ryb2xBZmpFOU5DLTlPSGZlZw?oc=5",
@@ -1818,45 +1852,15 @@
       },
       "candidate": "both",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "‘The Guy Is A Total Creep’: James Talarico Faces Backlash Over Social Media Posts - Dallas Express",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaGJxTmJUbWhwMmVtSWY0dG1US1Q2YUtCY3hFVm1FbjU5NkhHYkxXamU3ekU3bzA0YjBORHJGYkZyNXhRaGZYMG9KZExFaEs5UEt3aTEtMEJnYVpyMDkwNWVSdGxBZmZEX1hPLUJ3V21SUDdEMHZZREx5OUdxc24yWmlJYkpqMWR3bmZGX0hjTnk1ZjIyRzI3UmstVEJLc0xJVTQtdF9CWk9lTEE3Sm5EZTU1Y1c?oc=5",
-      "pubDate": "Sat, 04 Jul 2026 07:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.002,
-        "negative": 0.998,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W27"
-    },
-    {
-      "title": "Star-Telegram opinion roundup: Paxton’s vacation, Arlington’s embarassment - Fort Worth Star-Telegram",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mdGdDSXBMQ1JlLUZlcW9pdHBoNkN1LTVuWmsxQ0ZIQXgxRWY3cGVJZDJGUEJpbWhydVJjWG8wZW1XUmh6dTBKQjQxdWRVOFB4UmVleXRTbU03N3JQd1pJaldXbHZHTFNFNmJv?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 17:46:30 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.979,
-        "negative": 0.021,
-        "label": "positive"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W28": {
+      "general": {
+        "positive": 3,
+        "negative": 3,
+        "total": 6
+      },
       "both": {
         "positive": 9,
         "negative": 10,
@@ -1871,23 +1875,18 @@
         "positive": 0,
         "negative": 3,
         "total": 3
-      },
-      "general": {
-        "positive": 2,
-        "negative": 2,
-        "total": 4
       }
     },
     "2026-W27": {
       "paxton": {
-        "positive": 4,
+        "positive": 3,
         "negative": 24,
-        "total": 28
+        "total": 27
       },
       "talarico": {
         "positive": 4,
-        "negative": 11,
-        "total": 16
+        "negative": 10,
+        "total": 15
       },
       "both": {
         "positive": 3,
