@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-07-11T01:00:50.438Z",
-  "newsFetchedAt": "2026-07-10T22:33:32.060Z",
+  "analyzedAt": "2026-07-11T04:18:02.599Z",
+  "newsFetchedAt": "2026-07-11T03:53:40.077Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Ted Cruz says Talarico has ‘a real chance’ to beat Paxton - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNajVjOEt6bFhfMmJ1WlBTanBqdks2N0g3ZGRzSlVKVjJBaHFWdnlJazljUjQ3X1Fjb1pOZTNtRUZPQmVfOFVnVXlIV0tMUHM2aVRmQ0RLNVl0Uko2U3g1QmlZMjhqZS1NOE9rSUlBVW1xU0wzMmZ3bTdWNFo0M05feGVoNVhlLXg3U0lYbHNHUmJ2TmNQVHdaRnlWUTZWbV9DRU84MG1lcEROWFNHZE00REVzYzNINXM?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 16:29:09 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": {
+        "positive": 0.999,
+        "negative": 0.001,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "Republicans have beef with Texas Rep. James Talarico – why does meat matter in US politics? - Iosco County News Herald",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeGtRejZPbnpGMjMtNkJJcHdqSEhScWt6ZlZobHN2d2dqU0RIOVA0b3RFN1VnWVpqcEsyMzVoQTd1MTVvbmZDd3ctSVVVX05ZYUI0aGpPbUF1S2k5amx4djRfMjFHdUdkM0U2LUpGa3VuT3FxOFdSbE5iaUpSblpaM0xJVS1FOWpQSDJCSm5Jam0?oc=5",
@@ -1831,36 +1849,19 @@
       },
       "candidate": "both",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "Holding Pattern: GOP Maintains Slight Edge in Senate Races - News Radio 1200 WOAI",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdVJBa2xsMkkxakZLWkloUmRxN2lkSmMxUlROQWtaWGFERllXM2ZodXY4bGtVZy1qNkFjSDlIVk9UOUw0V2Z2NGFoMHdYYVltVHB5WE8teGNfaXJGRF9aSVZmLW40V3RVSmdZWGZHWXpYaEpoaXN5QUs2QXNINzNCRTk4TVNkNkt6Zi1JM3czYi1DaUhhMEd0NUxUNmdqX014LS1hZ1FoamZxSGZGQ19Mbm9UWVpYTXJEZHBrNUlKckc2Znk5YXZ2dw?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 08:30:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 3,
-      "matchedKeywords": [
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.199,
-        "negative": 0.801,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W28": {
+      "both": {
+        "positive": 8,
+        "negative": 10,
+        "total": 18
+      },
       "talarico": {
         "positive": 4,
         "negative": 8,
         "total": 12
-      },
-      "both": {
-        "positive": 7,
-        "negative": 10,
-        "total": 17
       },
       "paxton": {
         "positive": 0,
@@ -1891,8 +1892,8 @@
       },
       "general": {
         "positive": 3,
-        "negative": 7,
-        "total": 10
+        "negative": 6,
+        "total": 9
       }
     }
   }
