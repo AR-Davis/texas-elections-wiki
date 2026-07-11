@@ -1,9 +1,48 @@
 {
-  "analyzedAt": "2026-07-11T04:18:02.599Z",
-  "newsFetchedAt": "2026-07-11T03:53:40.077Z",
+  "analyzedAt": "2026-07-11T06:36:37.013Z",
+  "newsFetchedAt": "2026-07-11T06:19:47.540Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "James Talarico's odds of beating Ken Paxton in Texas - knewz.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa0ZNX2ZzaXVrcHhOLTE1ZV8zbmE0T1lSUjFzVnV5Tk1KdnowUEFEYzByd2k0TkUzdkhxRXN1a0RIanUwcGkwdmJBREZZaDhwei1QcV80WHRCNTRqUi0weXBJMEtDak1FOC0tUEZpRDZaTzI3aTY0emNPbjFnd1ZVS3d4OFFTS3U0VnhiQUVKbnJ4dnQ4dVA2R0Ryb2xBZmpFOU5DLTlPSGZlZw?oc=5",
+      "pubDate": "Sat, 11 Jul 2026 06:11:55 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.963,
+        "negative": 0.037,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "Texas Senate candidate James Talarico brings campaign to El Paso - El Paso Times",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMzQySXFJWDR1dlFfUTFxRG9VaTlEZDJ1ZzBRVG1jYVhCV0VsOVZ5VGtCUUFEbTJXckVCUGdoeHRrcDU3LTM5MDNGa05sQkU2TExkWHNpNkdhSFlJTm1kY0pnRlJjRUx0bng4MTM4VmJjV3cxS1BmZnJxQzB6amwwVlBHb2k3NDQ1YWxfd0ZXUjViMEdBMFVWMmFWcnk5Y1hVeGQ5TXhPX1ZwUE9HaXZmOWg2NnNHZjJkbHk2dXBERDhONEpIRU9j?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 16:15:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 18,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate"
+      ],
+      "sentiment": {
+        "positive": 0.998,
+        "negative": 0.002,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "Ted Cruz says Talarico has ‘a real chance’ to beat Paxton - Houston Chronicle",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNajVjOEt6bFhfMmJ1WlBTanBqdks2N0g3ZGRzSlVKVjJBaHFWdnlJazljUjQ3X1Fjb1pOZTNtRUZPQmVfOFVnVXlIV0tMUHM2aVRmQ0RLNVl0Uko2U3g1QmlZMjhqZS1NOE9rSUlBVW1xU0wzMmZ3bTdWNFo0M05feGVoNVhlLXg3U0lYbHNHUmJ2TmNQVHdaRnlWUTZWbV9DRU84MG1lcEROWFNHZE00REVzYzNINXM?oc=5",
@@ -1814,54 +1853,19 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "Scoop: Thune to attend Paxton fundraiser - Axios",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJT3BCWFdmeDhLY3B2SUZTal9OQnBKVXhZcTM2UjV0SzdIdGpSYkRSSENiM3hvTmE3dWU4MEphRk91bm5XMEV6eHpfRUx5Q2RZNlJra1AwdU1sUUFGYnQxalkxaktVTUpGVHAwV1R0RE5mVEtuQS1WS0hkWQ?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 19:29:57 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.926,
-        "negative": 0.074,
-        "label": "positive"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W27"
-    },
-    {
-      "title": "Paxton blasts Talarico over 'transplant' jab tied to military family - El Paso Times",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTDhjY0NaeVNJNGFQM29ObDZmZjh4STJ3WTZYdnh6RmN4RFltSktyY1hwQ3hEVzYweWI3eU5ZNUh5SkFEdHA5TWxvQlptZVpTaU04YU1zRlJfRTZ3UjJkZHlKcmZlWmdIVldjY0FYdWh0YlloYmFHOWMybGZDWXBTc1FmVnlKV2h5LXNZN3ZMTXpzdlAzUXdvZjRfSjcxdWtQUEVrRnYwaXdIQzZDeGhPTjd2V3psNDl2Zkt3UDM2akV4V2lNWGQ3MHJwcDA4R2p5ajloeV9PSGFMMW5FUFlaaWF3eWtLaFNyc2JCU2ZR?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 14:50:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.057,
-        "negative": 0.943,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W28": {
       "both": {
-        "positive": 8,
+        "positive": 9,
         "negative": 10,
-        "total": 18
+        "total": 19
       },
       "talarico": {
-        "positive": 4,
+        "positive": 5,
         "negative": 8,
-        "total": 12
+        "total": 13
       },
       "paxton": {
         "positive": 0,
@@ -1876,9 +1880,9 @@
     },
     "2026-W27": {
       "paxton": {
-        "positive": 5,
+        "positive": 4,
         "negative": 24,
-        "total": 29
+        "total": 28
       },
       "talarico": {
         "positive": 4,
@@ -1887,8 +1891,8 @@
       },
       "both": {
         "positive": 3,
-        "negative": 6,
-        "total": 9
+        "negative": 5,
+        "total": 8
       },
       "general": {
         "positive": 3,
