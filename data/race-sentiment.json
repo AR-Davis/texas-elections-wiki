@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-07-11T12:31:34.855Z",
-  "newsFetchedAt": "2026-07-11T08:21:19.067Z",
+  "analyzedAt": "2026-07-11T14:02:26.000Z",
+  "newsFetchedAt": "2026-07-11T13:40:11.108Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Wait, That Cannot Be James Talarico's Latest Voter Outreach Strategy? - townhall.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRFJrdC03S2xBZGdmVG1VeWJDUnQ0Z3lNaFprUmhIVlJNaUptUGNUZnA5ZnU1VVU2VXV0NkVRd2JWQmxyS2FiMmZsYjJoQThPN1FKbV9kMGdTTHBTRmNUa1AwNlk4dXpZY1RPTzFJMHNjM0NLWVlGVHoyU012eG01dGpDaDZ0VVlJNS14LWQwNV9PSXVQVURNNjFucmdUSmxXUGU3RDFYSDY3NUp4d2dqTVFQMVp5Vl9FRXkwVENiZXd2SmNx?oc=5",
+      "pubDate": "Sat, 11 Jul 2026 11:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.001,
+        "negative": 0.999,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "Victor Marx wins the Republican primary for Colorado governor",
       "link": "https://apnews.com/article/election-colorado-republican-primary-marx-b570a0ebea909683fb7ae9559ea260e7",
@@ -1833,29 +1851,15 @@
       },
       "candidate": "general",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "At Dallas campaign stop, Talarico says focusing on costs will help him beat Paxton in tight U.S. Senate race in Texas - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcXJtUDNaRlNyYkV2M2p6RWpIdmxTQVVnbEFONHZET3pMT3Judnlyb3VuUXpQeUpiV0xQMDNEbG5tVjFKRXE3VGVwV0h6ZVg3MHBtWndfSzU1MXdaeHM1Zi14QW9mb3ctcDNOd2FpVF8tUzlwZFRkTllocWNkRERISHBTczNqSFBLaDVManN0eW9EX2NqQ1pQVWUzbFFQODdsS3ZqRXQyUFROeEJpbWxLMw?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 21:51:24 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.05,
-        "negative": 0.95,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W28": {
+      "talarico": {
+        "positive": 5,
+        "negative": 9,
+        "total": 14
+      },
       "general": {
         "positive": 3,
         "negative": 3,
@@ -1865,11 +1869,6 @@
         "positive": 9,
         "negative": 10,
         "total": 19
-      },
-      "talarico": {
-        "positive": 5,
-        "negative": 8,
-        "total": 13
       },
       "paxton": {
         "positive": 0,
@@ -1890,8 +1889,8 @@
       },
       "both": {
         "positive": 3,
-        "negative": 5,
-        "total": 8
+        "negative": 4,
+        "total": 7
       },
       "general": {
         "positive": 3,
