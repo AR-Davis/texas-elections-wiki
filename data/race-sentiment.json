@@ -1,9 +1,29 @@
 {
-  "analyzedAt": "2026-07-11T16:04:21.997Z",
-  "newsFetchedAt": "2026-07-11T13:40:11.108Z",
+  "analyzedAt": "2026-07-11T17:09:35.774Z",
+  "newsFetchedAt": "2026-07-11T16:27:04.242Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Cruz: Talarico Could Win Texas Senate Race - NewsRadio 740 KTRH",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRjA4cTNFWjRhd2dqbDhWcVZwdHN6TWJmNzJfbEh6VzhXVnBhVWNHVHRzODJxZTBmeEpfUlh2ZGJCRzNUWVBPSlh2bjJnb09nNkNwSjlKUVdNcWpJa0ZTRk1xVE00SFRTbXI3SVBwQmUwdTFxeXhrQ1gyMndhTDZOWm9JSTBoamRKeHBvOU5qYW84Q3VJdWhMRjU0V2JPX1lqcmV5cjVvTjk0Vk12ZVNTN3hEMNIBlgFBVV95cUxOeDNEQkFfaERuSEdQbEdNdkkyZC1XUmFUdEk4d1RBSktycDhkTHFWazRrZG5PWE5qNzJOSWh3TUZhdDRtNDM4a1NOdEhuT3A0LVhPT0VFallqT2FOMFdfR3dXbHhSdEpGZmFsbG5ld1JVczhtYVNRQU5kR0tsSGMxd1lTN3lvamJNQmxhaGQ1S1hDVExxMUE?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 08:50:02 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.865,
+        "negative": 0.135,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "Wait, That Cannot Be James Talarico's Latest Voter Outreach Strategy? - townhall.com",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRFJrdC03S2xBZGdmVG1VeWJDUnQ0Z3lNaFprUmhIVlJNaUptUGNUZnA5ZnU1VVU2VXV0NkVRd2JWQmxyS2FiMmZsYjJoQThPN1FKbV9kMGdTTHBTRmNUa1AwNlk4dXpZY1RPTzFJMHNjM0NLWVlGVHoyU012eG01dGpDaDZ0VVlJNS14LWQwNV9PSXVQVURNNjFucmdUSmxXUGU3RDFYSDY3NUp4d2dqTVFQMVp5Vl9FRXkwVENiZXd2SmNx?oc=5",
@@ -1834,31 +1854,14 @@
       },
       "candidate": "general",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "Texas Democratic Party Chair says GOP Midterm Convention a sign of Republican desperation - WFAA",
-      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOeVB6c3ktei00cjdjc19Ldzg0TXd1WThJYXpxeFByenA2ZGdkQko1SUJmVlpKbUxpa29jZDByVDVSUHNfOFFSbVYwUmpVdmZ3aWF5cGlENkY1dWRGbFV2cGFaSFRrZnBoa2JmQmRGdFh3dWNkbF9LamlEbi14QWMzeUkxNktVeTZJTWVCcFJOSGhIYVJqeEo5SWRaeGh4ajI4ZWxzWlF0eWxJU0w1Y2ZWV25wcGdtZUR3M3NUTGhqNV9DV2ZDZm1ZWEJXa3UzY2VkMHZWVGk1UDdfZ1o4QldHRU01bEJfelNZa1g3a1FSLU43STV2cWRicHN1MTNwaDEtUHRBUTBrS1pJWnB6b0IwOF9EV3pXSXh0V0RqS0tCVks2cTZ4Q0kza0JUTzE?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 22:56:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 4,
-      "matchedKeywords": [
-        "texas democrat"
-      ],
-      "sentiment": {
-        "positive": 0.008,
-        "negative": 0.992,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W28": {
       "talarico": {
-        "positive": 5,
+        "positive": 6,
         "negative": 9,
-        "total": 14
+        "total": 15
       },
       "general": {
         "positive": 3,
@@ -1894,8 +1897,8 @@
       },
       "general": {
         "positive": 3,
-        "negative": 6,
-        "total": 9
+        "negative": 5,
+        "total": 8
       }
     }
   }
