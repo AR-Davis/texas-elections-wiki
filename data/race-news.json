@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-07-11T15:00:12.746Z",
+  "fetchedAt": "2026-07-11T16:27:04.242Z",
   "count": 25,
   "feedsChecked": 8,
-  "itemsScanned": 170,
+  "itemsScanned": 168,
   "items": [
     {
       "title": "James Talarico out raises Ken Paxton in Texas’ U.S. Senate race. By how much? - Fort Worth Star-Telegram",
@@ -84,8 +84,8 @@
       ]
     },
     {
-      "title": "Cruz: Talarico Could Win Texas Senate Race - News Radio 1200 WOAI",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUHpZbFdTc1RYTTgyR0RnaFp6VTFfTXNaWTRRTnVzbU9xemdkby1SS1FvWnFKaDRKVFo2cEIzSnVzZjdmdkdHYXppWnllOGMtQy1sUmNWa2ZfRF9tdGVHSW9mZUI5bHhpVng3SjZCUEI0d0FjVDVpaTRHODhlQlFNX1g4NUowaXVDYm5uQmRnYmtHSUVmb01hWVJROE0zYjQ0azBoZ0FKbkd6UE5RcWNkR19nY1dVbkkwVFE?oc=5",
+      "title": "Cruz: Talarico Could Win Texas Senate Race - NewsRadio 740 KTRH",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRjA4cTNFWjRhd2dqbDhWcVZwdHN6TWJmNzJfbEh6VzhXVnBhVWNHVHRzODJxZTBmeEpfUlh2ZGJCRzNUWVBPSlh2bjJnb09nNkNwSjlKUVdNcWpJa0ZTRk1xVE00SFRTbXI3SVBwQmUwdTFxeXhrQ1gyMndhTDZOWm9JSTBoamRKeHBvOU5qYW84Q3VJdWhMRjU0V2JPX1lqcmV5cjVvTjk0Vk12ZVNTN3hEMNIBlgFBVV95cUxOeDNEQkFfaERuSEdQbEdNdkkyZC1XUmFUdEk4d1RBSktycDhkTHFWazRrZG5PWE5qNzJOSWh3TUZhdDRtNDM4a1NOdEhuT3A0LVhPT0VFallqT2FOMFdfR3dXbHhSdEpGZmFsbG5ld1JVczhtYVNRQU5kR0tsSGMxd1lTN3lvamJNQmxhaGQ1S1hDVExxMUE?oc=5",
       "pubDate": "Fri, 10 Jul 2026 08:50:02 GMT",
       "feedSource": "google-news-race",
       "raceScore": 21,
@@ -251,17 +251,6 @@
       ]
     },
     {
-      "title": "Republicans have beef with Texas Rep. James Talarico – why does meat matter in US politics? - Shelby News",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOUDF1Z0VOM1VPQURrRVJYM0xPT1BBZ1pDR3h2dVJabURwaXdjZ3NzQmZUT3Q2c3lCOHAzVDVDNHNyc0hPS1c5YzRPOWNCNUM4MlNrY0IxenJidGhNeTVQek9YTFBzTHMwbDAxRnpQRFVKQjdOOXd5V3l5X0dpRDNBQk1WS3BnNldPVTB6WTBkVXhjUHlYb05mUnlDTGpRTDI1STllYzJOb3c4SmVoeEtyYnFEVFJWc2xibmdVY3R4cW1QVGxhTDFZTkR1Wk5oR1ctdVozb2VMYzNWb1JUb19jS2lqc3lhQnZNWG1HQWtHLVJGTEtSQU5wdy1CM1F4ejdFdXJYMlJhZ0JTdw?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 13:04:09 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ]
-    },
-    {
       "title": "Republicans have beef with Texas Rep. James Talarico – why does meat matter in US politics? - The Conversation",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdnFKT2RzcHhhY2pkek0xYnRoN1ItNXJ2Mkk4dlVIZlBoYkUyUnpVazhISWNvaDhZWmFSRGE4TlQtcHlQc2E1amtDT05kdW5KSFlWNEtnSk9LMWdnZDk5Yl9YUVBlbV9KUzk1M0hybHVFYlhqNHlEYTB3eE5RUmhzM1p3X3ZzR0EzaTkzeElWM2Ewb2J3RXY1NG1QMTZGMmpkeTltSGs2RndiTVo5NXlTOXFnT0UxMWRkaExTYWZacw?oc=5",
       "pubDate": "Fri, 10 Jul 2026 12:08:05 GMT",
@@ -299,6 +288,17 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNajVjOEt6bFhfMmJ1WlBTanBqdks2N0g3ZGRzSlVKVjJBaHFWdnlJazljUjQ3X1Fjb1pOZTNtRUZPQmVfOFVnVXlIV0tMUHM2aVRmQ0RLNVl0Uko2U3g1QmlZMjhqZS1NOE9rSUlBVW1xU0wzMmZ3bTdWNFo0M05feGVoNVhlLXg3U0lYbHNHUmJ2TmNQVHdaRnlWUTZWbV9DRU84MG1lcEROWFNHZE00REVzYzNINXM?oc=5",
       "pubDate": "Fri, 10 Jul 2026 16:29:09 GMT",
       "feedSource": "google-news-texas",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ]
+    },
+    {
+      "title": "‘Suspicious’: Talarico says Paxton won’t release records in child sexual abuse case - Fort Worth Star-Telegram",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTG9lQ3JvSlE0RXF1b0hyV3RnNTYyQXZGd2lVaV9saVZzbUkwX1pndVI2NHJ1OGJ0SjI0NGpjNkR1TXpFZ0dSbFNKUkJseVdyZWdQN2Z0S3J6Mmxpc2FETkxWU1ZSODJhRkFHZG52Q1poZWRIUHZkZHl1bDg4RVI0Q0d5T3RiLXRXTWhRdFd5aGRYakZfMFHSAZYBQVVfeXFMTmwwVF8xRU5NWC16Q1lkY2Vidmx0cFM3Qkt4N0NTa3l4QUVzSVRhZUJCWmR4d2VVeXVzTjdsUnd5SlZwc1BJSFJ5a0xXUEZsSXZ0X1pVb0Nhd2N1aG5naWN0U09ZeGNpV0JYZ2QxeXlscS14dE1xR2xzZU5WUVRGUHF4T1lkbjBPekJ4QUNJOTV1RUVpR213?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 22:08:00 GMT",
+      "feedSource": "google-news-race",
       "raceScore": 11,
       "matchedKeywords": [
         "talarico",
