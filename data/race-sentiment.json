@@ -1,9 +1,28 @@
 {
-  "analyzedAt": "2026-07-12T08:39:47.214Z",
-  "newsFetchedAt": "2026-07-12T07:32:53.994Z",
+  "analyzedAt": "2026-07-12T10:37:30.879Z",
+  "newsFetchedAt": "2026-07-12T09:56:26.358Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "After shattering fundraising records, Democrat James Talarico gets fresh odds of flipping Texas Senate seat - NewsBreak: Local News &amp; Alerts",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcjYyOWVFQi1QNXFKSy1JMWp6VWpsMDRpeUtjc2dUSjNjdmNQdjZwVjR4QURxdU1sS0FNMmdrVlFOd0w5OFlMWExzbHRqRVhWZ0taU2RDcEFyem00NzhEODZqQjJSaUVXX1hmY3R3MS14Z1pkSW1sTkExQnVLaGpYajhyVndUNDVmeEpSM0stOHpaekxnaUR5bzk5RlVPNTlLQ3BfMmdSOFBRYnNia19sWVB0d2Q3LTJpSlYweGxDaWo5TkVOWl9aYzhJWXVkN3Uwd243QnlFRGNVYjRqeTJxSzF3Z0FKQmJYWnA4X1FsZjIxZS01bklMaXh5RQ?oc=5",
+      "pubDate": "Sun, 12 Jul 2026 01:54:03 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate"
+      ],
+      "sentiment": {
+        "positive": 0.996,
+        "negative": 0.004,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "Talarico polling stronger with Texas’ Black voters than expected, but enthusiasm questions remain - Houston Public Media",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVVdNc09DbWFKbUpBRVNTZHg5Vi1DS3RfS2oxWWF0OE02bDk3R0tVaElOc0V5NUhJc3Q2ZVR5RmFqRFg3dUU0U3ppU1J1cWhsdjYzdDBCbmFBdXpxV2pfeUttUFZSd1pFTHRBRTNmNUNISjY5d3luZXM5amh2dVdzRlNZdThOSkxIS1h5eVpULXRXNjJtVDJKQXc5OHM5cW5NMnVvdDVJQTNWOFVjOFc0UUxCQ0RWU1VOZEE0TFRtUW5Ua3PSAcsBQVVfeXFMUHdBWmFmMTg2S3Z3TXBfTFFpdXZBaVA2WlZQaEVsZGJOMG1HT2V5WHhJQ2JvdDl3UkZlNXJrT0hvdmp4SWNrdVBBRWhhVjVKVkhRMWhHc1owWUd5ZlgwNkdpWTZ4VERhRVMxOUxpUFp3WlZNLXdONEpNQmpmRUdReHIzbFBidnpkY1RMQTRrMXpzOVVUeVdud1dfRWRSaEFwOExwaXE1N3pMeHV5bml1eldRY1RpYVRFRmJlcGxPNlh5MElLZTNNTjVHa3M?oc=5",
@@ -1842,32 +1861,14 @@
       },
       "candidate": "both",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "GOP chief says Texas convention isn’t about Paxton, but Senate race looms large - Marshall News Messenger",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLU5hczVTNDV3aXpKamJoZmowc1czZTU1clB1Ym9tdXlVYzlMeEJyUUd2bl9rSUlnXzlSZkZib3hrXy0yS09XTU9HTkZTY2tMaTNRNXJQZENIcGM4TlhzN1B0NzBJeVB6bUpZRnY0YTM2dEpoenBXdjktcHp5cXV3YW5WRWxTbWZncVhrdTZiX1RFMnFic0NRZWdTVm90bnJtNVpPclpKeFVUOGMyeERLN2l2Y0t6ZUVMbVcza1ljcko?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 10:26:41 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 9,
-      "matchedKeywords": [
-        "paxton",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.015,
-        "negative": 0.985,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W28": {
       "talarico": {
-        "positive": 9,
+        "positive": 10,
         "negative": 10,
-        "total": 19
+        "total": 20
       },
       "both": {
         "positive": 11,
@@ -1888,8 +1889,8 @@
     "2026-W27": {
       "paxton": {
         "positive": 3,
-        "negative": 24,
-        "total": 27
+        "negative": 23,
+        "total": 26
       },
       "talarico": {
         "positive": 3,
