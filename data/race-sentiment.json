@@ -1,9 +1,28 @@
 {
-  "analyzedAt": "2026-07-12T21:56:27.463Z",
-  "newsFetchedAt": "2026-07-12T20:58:02.577Z",
+  "analyzedAt": "2026-07-12T22:55:09.444Z",
+  "newsFetchedAt": "2026-07-12T22:00:43.685Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Ted Cruz warns James Talarico has “real chance” to flip Texas Senate seat - Salon.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUlpHaG1MaDJ4NmptaWRYSkNDMGl6Z3EwTmhCTlNQMVZhSGhjdUV3OGtqclMtUUhuTjFQSmVpWE5SNG1PMkF5dXhKVjhSeVNuVlpCd1YxM0VyLUc2cl80VXNVS0s4NzNhQUxMS0VYa3JnV2oyMWpFWTFNQnpuMUR4djBZVUgyM0ZiSE9ua0tSXzRSQW16dHdBNjhac3haLUJCeHdEemRWLVA4VWRabXY3T0JvcWJZeXdG?oc=5",
+      "pubDate": "Sun, 12 Jul 2026 10:00:19 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate"
+      ],
+      "sentiment": {
+        "positive": 0.02,
+        "negative": 0.98,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "Texas Dem says James Talarico needs to ‘pay’ blacks to get their vote - bizpacreview.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNjFTeTJOdTByeU5pU3BIYjdrbUxsS3ozamwzTlNSSk9IMUsyVUNWN1o5TFRkN1Y3OXI3ZTFsVEJOVjFTNVFBX1RQd0tOdWd5aUdNUTlSVEY4ZmJNaDdoYWpPdzV1ZjFIU1k0N1pBUkx6TFlwTXBYX3dNUVhqdERTWDBHdFBtTjdjRVVXak9CcEVpclN6V1hydF9MdVdDYWlNOE1GN094WndPdi1iRHQwVVZFUnl2ZFk?oc=5",
@@ -1835,32 +1854,14 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "Was Ken Paxton in London for the Fourth of July? - Daily Kos",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdXk4NTlxR0N6SUo1RVBielhTajlqMlEyQS1yQXBERFZPcjJuenJEVU9pTkZZV3E3VW9KSm5GWUZ6bUlkSEYwMmRQV2dwSVByZ1d6UlpvZ1BuZEVxLXpjMXFRSmtpX1BoZkJsZGRtOWc3ZWpPZDBkMWkxOWZ6SFRvcy1vc2RUdTVMSGM3NFdRYzd6N1pWcjFPOVB0SGJqbTZNOUU0eQ?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 20:30:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.015,
-        "negative": 0.985,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W28": {
       "talarico": {
         "positive": 14,
-        "negative": 14,
-        "total": 28
+        "negative": 15,
+        "total": 29
       },
       "both": {
         "positive": 12,
@@ -1881,8 +1882,8 @@
     "2026-W27": {
       "paxton": {
         "positive": 2,
-        "negative": 19,
-        "total": 21
+        "negative": 18,
+        "total": 20
       },
       "talarico": {
         "positive": 2,
