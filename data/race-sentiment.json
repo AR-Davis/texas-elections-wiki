@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-07-12T13:47:53.596Z",
-  "newsFetchedAt": "2026-07-12T12:28:51.482Z",
+  "analyzedAt": "2026-07-12T15:01:11.678Z",
+  "newsFetchedAt": "2026-07-12T14:08:43.188Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Democratic Senate candidate James Talarico visits El Paso - El Paso Times",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOenAwWTlKN1o3Q2FtSi1qTE5nRVBIckI1OTA4Sl9HdlhmUHI3Mi1ZMUVubmdOdXlzVUtmMWRyMDNFNDZkZF9ZMkJPY25RWEhpTW5LRGFFME1PeWo4LWwwZnlLVEJzTUtCM2p3MGhpOVBKWkd3bEtYWENXeHRabThuTldpcVo4cWV5dXBOeUI1RnJZSGVBNl82NUNvRExMeUw4STh0VkFuWDF6aHdRWUhFT2Rxd0o4ZjNLOEhEdEtfWnJoMU1weTFkNUJpNHZGbFlOcEY3Vjhn?oc=5",
+      "pubDate": "Sun, 12 Jul 2026 12:41:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.982,
+        "negative": 0.018,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "Democratic Senate nominee James Talarico talks affordability, school funding, corruption in third El Paso campaign stop - El Paso Matters",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUExrRURzejZJaUZwMFpuNFgxRW9BeURja09xNDY0M1lLVzZtZ0xsNTMyaWl0X0xvVWRsSzNTVjRJeTRTMzVpdkpKMVZIenhsR0RzeUV4WmNHN19ILTJhX1RDdHhFSE9ZeURRYzcyQU1vWkp2NzlCZWFyeHY5SXdkaUhuMm1ROEhYaW02blZ5WlZCdHI1d1RwOVQxTGstSVdpaUxVajZ5ZHdMd1Fz?oc=5",
@@ -1842,32 +1860,14 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "Texas Democrats turn on embattled Maine Senate hopeful after assault claim - Chron",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT1g5Vm5CLXFpVVdmcGxxaGRfR2t0b19hb3FsNnJYU0xRbHVJVUdrb1FXTzhRcm82VnBHVzUxZUdSQTR1UllBUmFsUkJQQTJBT1R3ZTFWc1ZKT2RGWE54YTRIOXc4UEZUQjVFQk1wS2lFM1hHQkdUb0RZV0RrWkpqUi1uRQ?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 14:38:39 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 7,
-      "matchedKeywords": [
-        "texas democrat",
-        "texas democrats"
-      ],
-      "sentiment": {
-        "positive": 0.067,
-        "negative": 0.933,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W28": {
       "talarico": {
-        "positive": 11,
+        "positive": 12,
         "negative": 11,
-        "total": 22
+        "total": 23
       },
       "general": {
         "positive": 4,
@@ -1903,8 +1903,8 @@
       },
       "general": {
         "positive": 0,
-        "negative": 2,
-        "total": 2
+        "negative": 1,
+        "total": 1
       }
     }
   }
