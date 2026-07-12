@@ -1,9 +1,45 @@
 {
-  "analyzedAt": "2026-07-12T20:56:11.292Z",
-  "newsFetchedAt": "2026-07-12T19:44:18.993Z",
+  "analyzedAt": "2026-07-12T21:56:27.463Z",
+  "newsFetchedAt": "2026-07-12T20:58:02.577Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Texas Dem says James Talarico needs to ‘pay’ blacks to get their vote - bizpacreview.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNjFTeTJOdTByeU5pU3BIYjdrbUxsS3ozamwzTlNSSk9IMUsyVUNWN1o5TFRkN1Y3OXI3ZTFsVEJOVjFTNVFBX1RQd0tOdWd5aUdNUTlSVEY4ZmJNaDdoYWpPdzV1ZjFIU1k0N1pBUkx6TFlwTXBYX3dNUVhqdERTWDBHdFBtTjdjRVVXak9CcEVpclN6V1hydF9MdVdDYWlNOE1GN094WndPdi1iRHQwVVZFUnl2ZFk?oc=5",
+      "pubDate": "Sat, 11 Jul 2026 12:02:41 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.001,
+        "negative": 0.999,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "'We're uniting Texas' Talarico rallies El Paso voters in US Senate race - El Paso Times",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQbmhNd0duVnhXUzVUUi1OdnYxQnlWb21uSnNSRVp3Rng1bElITDkwRUVIV1dLdDlVMUFSMXBqa1FvRUtfZGYxdjNEdXI5bTdmcUw0c2NyUWxMaGNFcHNvWmNaclV3a1VGWXI2WUZ1V2NsNVA4X2pCTlJSdDNtQzQ2VFJWYXVQNEpoT1BpR3htNE16Mkg0eldrT1Yyc25ORjl5dGd5QVZKMFUxR2VWODBwcVRUdXdwTHVKMXpFSDFWcEtQS1B2M0JpamVqR3pDNHc3QlNPYWlQdnBBSW1XMXhFUnlESzkzc29yZ2h5OGRhUFFvWTY2WHBlUGlrLVVLZ1pH?oc=5",
+      "pubDate": "Sun, 12 Jul 2026 12:42:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 10,
+      "matchedKeywords": [
+        "talarico",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.995,
+        "negative": 0.005,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "James Talarico outraises Ken Paxton by 3-1 margin in the race for US Senate - San Antonio Express-News",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSmxXaEpOSVdDejh5MjREbmNMTkEzUTdVWXlBUU9Fb2xCdWtnRUY2V2ZjbEJnNVgyV3dYYmFWMkJBd1FIdVNWc084VnlvQTNqSVgzRnBSRVVmSnBoemYwQUp6TE0zby1fdTA0Q0c2RllYM2NOZnlnQVFFanc4NThFem96Q1pDWFROaGxtSGN5STkwbmdTNndoUk1jaEE?oc=5",
@@ -1817,52 +1853,15 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "Paxton and Talarico Clash Over Affordability in Texas Senate Race - Readers.id",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qRU1WZzJaWFJVTWVBRk9wRmVpbXRUdldmR2gzN3FoZldQcnlsc2xzOXpJLS1EQ3VJV2E2azhINTBkRG94YXFQSUJEQ3hXTDFYaGhtbkJIUHFlUThMbjVzV1ViVUF2TDFyN1hQWA?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 18:05:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.007,
-        "negative": 0.993,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W27"
-    },
-    {
-      "title": "Talarico Outspends Paxton on Television Ads in Texas Senate Race - Akses.co.id",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50ZFE2LU5yRktCeUZBM0JKa0hJcEIwMXFCV1ZNY2VQNDM3enBFVjNaeEY0MEhDVlZpNDI0TjdlU2p0b3l4Sl8zNjBveHkzc3RkbFVRZXpBMHhCTWtMemFrNkYxVzBxeTBObXAw?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 17:19:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.086,
-        "negative": 0.914,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W28": {
+      "talarico": {
+        "positive": 14,
+        "negative": 14,
+        "total": 28
+      },
       "both": {
         "positive": 12,
         "negative": 15,
@@ -1872,11 +1871,6 @@
         "positive": 7,
         "negative": 3,
         "total": 10
-      },
-      "talarico": {
-        "positive": 13,
-        "negative": 13,
-        "total": 26
       },
       "paxton": {
         "positive": 1,
@@ -1897,8 +1891,8 @@
       },
       "both": {
         "positive": 0,
-        "negative": 3,
-        "total": 3
+        "negative": 1,
+        "total": 1
       }
     }
   }
