@@ -1,9 +1,47 @@
 {
-  "analyzedAt": "2026-07-12T00:00:36.417Z",
-  "newsFetchedAt": "2026-07-11T23:29:36.735Z",
+  "analyzedAt": "2026-07-12T03:31:25.509Z",
+  "newsFetchedAt": "2026-07-12T01:08:59.421Z",
   "totalAnalyzed": 100,
   "newThisRun": 2,
   "stories": [
+    {
+      "title": "James Talarico raises over $30 million in second quarter, campaign says, more than triple Ken Paxton’s sum - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVmowX3lwdEZ0b3U4OVNCRVV1UVk4OXRlQThRcFdjc0tyUVUzZHNVNHVrQnE1eExLRWF4OHMxbnAybnRzd1ZSWExZRTNZdU9vZEdlZ1dQX2tKUzhJVHp5U3FKdnd0QjJHaEdYTWhQQk5BVHZPR2YyNF9YMGw2c1NuQ1ZlMnA2X0dpeVBzYVpDZTZVNVRtTEtCZmtjcWpuVlBERzVHWFhHeTVJYThTcEJReTVWVERaaGk5QWtDWkFTZXFveU4tZk1Cb0Z3UVEyaHlXdlA2dWFvOG45Qkg5YnJZY3Eyb3ZkOVExTFU4T9IB9AFBVV95cUxQeEcyQkdSTHYwRFJOSkFVakxUUW5WNDIxdkVTYWtWdDVmM1pYYl9kSDFySklQSXdKVkxfVzVaZzY5ZDVxQWtpZXhJdnRSaWhEclRXMUNxWW10djBwbW1MLVczazZ2Z2JBWUViaDMyMGlURFRMcGdJbmVhQTVoYzlLcVZRLXdheHU3bzc1cTJscUxuQ3l3czFtYUZPUk9hb1BJQzVTbVYyS3E3SVdCRWt1bUhSUUduZ2NxYnlyUlZ6TW1sV19PRXNFdkNCVTZqMklZemVBX1ZZazhnczJCTFVrZDNKZjdVRUlzNzI1YnlkSEd2TEli?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 13:42:49 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.779,
+        "negative": 0.221,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "Talarico campaign fundraising numbers dwarf rival Paxton’s with $30 million haul - Washington Examiner",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVXM2UWFkTS1TTlNTU1A3bHZFU2tLWkx5ai1sdTBYNGQ0aF9qc1VMak9BRDVISVZoT0U2SE54blBQYVh0QTV2OWdkWmJBQktMZi1vcGtiNVQ0QWVaY2RTT01WWk9wVWxVZFlVOTlaMlNiWEs3eVJBMFMtNkVJTlZHd1VEOERtenJHaElRS2xxMnZmajBMSDRiaG42OElRZ3pmV2lkWmNzN1ZkOFBReVo5RmJNeDdwaGlWaU9ENkw2QThjY3VXZFlWNEpFZWIyV0tPR01jeGtTZkRRd1J0MGc?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 16:56:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 10,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": {
+        "positive": 0.012,
+        "negative": 0.988,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "State of Texas: Record money flows into Talarico v. Paxton race - KXAN Austin",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRTY5Z1NRRGtkODFuT3R2dHJoYXlaSEdZd2s1NWNFdGVhSVlvWmZ1Mm9SX1VQdnliTDlNbG1remtzVnNKaEFGbUxZSHJ0R3pOeDBnXy1KRUZWWnNLMEd1a1h0VzFoZWZlTWRlZ2tBbnlzM2hkbkN1b1E2NE9yRk5IVHVIY09Ka01GbnhNN1IxZjVVOEtWMkFURnJwQXdCWlk?oc=5",
@@ -1823,48 +1861,14 @@
       },
       "candidate": "general",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "Inside Texas Politics - WFAA",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTXFqNm96WXdMd1k1MVFJdUt2SjZrR2llUjBhZk90ejdFMzhXVkNCWHl0OE1TMTRHUjZ3UFA3bjFlalI0dU1XRXhOWUQ5ak1teVMzQWhuY0xmTnp3NExBZEN4YkI2b21NQ3l5Q210Q1pGSk1weXRrUmFmeU9yQ1VEcWhTVmdQbzB2Q2ZsSjJydUdMeFAza1dIWHhGcGcxb29sb1h4UlFDQ3ZBZw?oc=5",
-      "pubDate": "Sun, 05 Jul 2026 14:00:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "sentiment": {
-        "positive": 0.994,
-        "negative": 0.006,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W27"
-    },
-    {
-      "title": "📊 What the polls say in the 8 Senate races that will decide the majority - Decision Desk HQ | Substack",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTGR4U09nLXh3aWk3ckJzdUtHVWg5Sy0xSTlWUU95QmxLY0U4d2xjcnpWSGI4ZXo2U2dPNHJzT1Y1bmx4cVUwVzVla18tY1lMQTZlLTlQWmNiRUdiQV9SaXdmUUR6WG9ONF9vSTRGblpyb1hOYjZaejR3Y3ZsblJsWEV6aVlzNkhyelRMU1dNQkhTYUFXTGdJQURqWENrVnlmbDRKMGlOVVpkbnZ6OG9Eb3FzdkRIRnV6X0wwc08xUWp0QQ?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 15:14:41 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 3,
-      "matchedKeywords": [
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.051,
-        "negative": 0.949,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W28": {
       "both": {
-        "positive": 9,
-        "negative": 11,
-        "total": 20
+        "positive": 10,
+        "negative": 12,
+        "total": 22
       },
       "talarico": {
         "positive": 9,
@@ -1899,9 +1903,9 @@
         "total": 7
       },
       "general": {
-        "positive": 2,
-        "negative": 3,
-        "total": 5
+        "positive": 1,
+        "negative": 2,
+        "total": 3
       }
     }
   }
