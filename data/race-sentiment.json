@@ -1,9 +1,45 @@
 {
-  "analyzedAt": "2026-07-11T22:55:27.788Z",
-  "newsFetchedAt": "2026-07-11T21:23:55.797Z",
+  "analyzedAt": "2026-07-12T00:00:36.417Z",
+  "newsFetchedAt": "2026-07-11T23:29:36.735Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "State of Texas: Record money flows into Talarico v. Paxton race - KXAN Austin",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRTY5Z1NRRGtkODFuT3R2dHJoYXlaSEdZd2s1NWNFdGVhSVlvWmZ1Mm9SX1VQdnliTDlNbG1remtzVnNKaEFGbUxZSHJ0R3pOeDBnXy1KRUZWWnNLMEd1a1h0VzFoZWZlTWRlZ2tBbnlzM2hkbkN1b1E2NE9yRk5IVHVIY09Ka01GbnhNN1IxZjVVOEtWMkFURnJwQXdCWlk?oc=5",
+      "pubDate": "Sat, 11 Jul 2026 20:31:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": {
+        "positive": 0.018,
+        "negative": 0.982,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "U.S. Senate Candidate James Talarico Makes Announcement - C-SPAN",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQjRLMklmRkh6eDdNUGFmUFU0R0MzeXpxWXF3c0dUbTlsUk9UYlllUVRPSnJLN29sQlNxdW9iQlRacTV4bVUzU0R4a3czbUZCSk9XenVQZEEtN2NFSjY3WU9VNlN1NnAyTlY4UlZrTXB5NHdBLUxCYW5pTTZNc2hYUEsxZW1WRXhSRW5vZEhaM2pWdTRCakQzaXVKNjBGclFGS05Xb0RB?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 04:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.982,
+        "negative": 0.018,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "James Talarico bringing Frontera Tour campaign stop to Laredo - Laredo Morning Times",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOEppUjkxemt3dG8wVzFaZjJjVFk2Snd6YVZSMVM3QTlGNlFRWkh1OHR1dDFGdXplZDRCT2xfVlpkS3c1aTZXMnJLWU9KR2FLN0NBbUoxUlhKUDRQRVpNRnVEOFlHcjRGaV9xQWl0SHF3YzFPTXk4dGlsaDIzY3gzQ184ZHJmc3dRZ2JubWhQTWVobnAzNTFqQmJLc3d0TGpUT080?oc=5",
@@ -1821,59 +1857,24 @@
       },
       "candidate": "general",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "Talarico courts North Texas voters in tight senate race - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTTJKQTREMjVNS05IejBIOXRfb2ozN1VZVEYxRWRycnRxTmN6TFdkQmowNDBVUHZPOTI1MGJPaDUyeVlfbTlERUhoSlhsRml2R3haVE1TTXhYUWdXa1Vxd3dwdjZ5S0VBN3JqNEp1bHYxYmtMN2pCQThCdGNlWFlsbThHU2N2OVJpeHg2aS1WTC1lNEZvLVFN?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 00:13:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 9,
-      "matchedKeywords": [
-        "talarico",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.604,
-        "negative": 0.396,
-        "label": "positive"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W27"
-    },
-    {
-      "title": "Texas Democratic Party Chair says GOP Midterm Convention a sign of Republican desperation - kens5.com",
-      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNVXVhMzcza0VHbkdBdHVTSjFrczByZ3JLVkY0bFpPU3pGU3k1LVVXcEF3blloQkVma29FWnNSek5uWVZTandiOXVWczNwa2xLSmdSa0dVc3lYeVdQdS1IMW1HU1lCV2VDdGRXb0k5WDFnSFM5QlVTaUF2YUg2Q0JTUDI4MGdNNU9YV09oTVJnTUIxN1FCREFsMS1PU2dtOUVjLTBhd3RHS01ldDN2OTVhVHNFanlXQ05Rbl9FSWdXRll3b0hUQXY1TXBiR2xBWjUyWE9fdWFrUW1ic1pndW5peGdMTlA5cnFSbEZIOHI4RnF1cEZadXRNUmNmRk5xYktETUpDWkhlbzN1TXhUS3BLQzc2TE1IYkVvdGZtQ09IQnFYR1FQNjB3UGg2SHR2UQ?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 22:56:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 4,
-      "matchedKeywords": [
-        "texas democrat"
-      ],
-      "sentiment": {
-        "positive": 0.009,
-        "negative": 0.991,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W28": {
+      "both": {
+        "positive": 9,
+        "negative": 11,
+        "total": 20
+      },
       "talarico": {
-        "positive": 8,
+        "positive": 9,
         "negative": 9,
-        "total": 17
+        "total": 18
       },
       "general": {
         "positive": 3,
         "negative": 3,
         "total": 6
-      },
-      "both": {
-        "positive": 9,
-        "negative": 10,
-        "total": 19
       },
       "paxton": {
         "positive": 0,
@@ -1888,9 +1889,9 @@
         "total": 27
       },
       "talarico": {
-        "positive": 4,
+        "positive": 3,
         "negative": 10,
-        "total": 15
+        "total": 14
       },
       "both": {
         "positive": 3,
@@ -1899,8 +1900,8 @@
       },
       "general": {
         "positive": 2,
-        "negative": 4,
-        "total": 6
+        "negative": 3,
+        "total": 5
       }
     }
   }
