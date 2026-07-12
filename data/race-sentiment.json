@@ -1,9 +1,44 @@
 {
-  "analyzedAt": "2026-07-12T03:31:25.509Z",
-  "newsFetchedAt": "2026-07-12T01:08:59.421Z",
+  "analyzedAt": "2026-07-12T06:18:34.060Z",
+  "newsFetchedAt": "2026-07-12T04:56:05.492Z",
   "totalAnalyzed": 100,
   "newThisRun": 2,
   "stories": [
+    {
+      "title": "Talarico’s Chances of Beating Paxton As He Scores Major Fundraising Win - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbVdFdUFvdmhyUFMzdDZZdmxXVzRsYmpBeW9FWnBfS1Z5NVZ2YjZkcU81MGh5bGVsYmFzRUVDTlVLYXYyYjhzMl8wYkY3WE5Rb3F3ZFZYRzU1cHgwV2hhR085UXBkTE5iZ0lNVWxKMUNKb3g0VkhTaXhZRUhsMUw4VzJjMjd4WTlxaWZfZQ?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 15:50:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 10,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": {
+        "positive": 0.99,
+        "negative": 0.01,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "Aaron Reitz, former AG candidate and Paxton aide, named U.S. attorney in Southern District of Texas - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWGtoOEY5blJKSWs4WjFmMjc4XzBuY00xdS1uVzZjQm44TTFqZzFfTFVDRF9lTnhrU0pKNzVWdDZjb243UTZfaXltNlBqZkdqaVp6ZzZnai1IU29CanZ1SkhnNTJvTEJtc1MwSEtiNlhYNy00a05UNGpjdVJzQWI0NndyT2FqX3pVblhzYTFveEZDcHMxYWxSQnFsLXdnR0xZenBFQmVFZlQyQWFPUVVWSXJR?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 22:59:28 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 7,
+      "matchedKeywords": [
+        "paxton"
+      ],
+      "sentiment": {
+        "positive": 0.984,
+        "negative": 0.016,
+        "label": "positive"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "James Talarico raises over $30 million in second quarter, campaign says, more than triple Ken Paxton’s sum - Houston Public Media",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVmowX3lwdEZ0b3U4OVNCRVV1UVk4OXRlQThRcFdjc0tyUVUzZHNVNHVrQnE1eExLRWF4OHMxbnAybnRzd1ZSWExZRTNZdU9vZEdlZ1dQX2tKUzhJVHp5U3FKdnd0QjJHaEdYTWhQQk5BVHZPR2YyNF9YMGw2c1NuQ1ZlMnA2X0dpeVBzYVpDZTZVNVRtTEtCZmtjcWpuVlBERzVHWFhHeTVJYThTcEJReTVWVERaaGk5QWtDWkFTZXFveU4tZk1Cb0Z3UVEyaHlXdlA2dWFvOG45Qkg5YnJZY3Eyb3ZkOVExTFU4T9IB9AFBVV95cUxQeEcyQkdSTHYwRFJOSkFVakxUUW5WNDIxdkVTYWtWdDVmM1pYYl9kSDFySklQSXdKVkxfVzVaZzY5ZDVxQWtpZXhJdnRSaWhEclRXMUNxWW10djBwbW1MLVczazZ2Z2JBWUViaDMyMGlURFRMcGdJbmVhQTVoYzlLcVZRLXdheHU3bzc1cTJscUxuQ3l3czFtYUZPUk9hb1BJQzVTbVYyS3E3SVdCRWt1bUhSUUduZ2NxYnlyUlZ6TW1sV19PRXNFdkNCVTZqMklZemVBX1ZZazhnczJCTFVrZDNKZjdVRUlzNzI1YnlkSEd2TEli?oc=5",
@@ -1826,49 +1861,19 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "Talarico courts North Texas voters as senate race tightens - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNzM5b013MEZ5YnplUjJEUDhfSE90UVNKMnpxT2h3SGhrZVo1QnBINnV2b1dkRGlkRjEwME55T0dRaXB3YlY0TmVFclRZZ2Y0ZWpFYUhFS3JFUjU1c0dpUnMwQ1VwTVFxczVfdnQtdmNJc0N0VUZFdlBHOG5fc25jUnpSWFFvMnVqc2k5NkhQa1dGbFJYdkk0V1BGQQ?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 21:45:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 9,
-      "matchedKeywords": [
-        "talarico",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.412,
-        "negative": 0.588,
-        "label": "neutral"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W27"
-    },
-    {
-      "title": "Midterm convention, Tarrant Republicans map strategy: The latest in Texas politics - Fort Worth Star-Telegram",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLVB3d1hYUjg1cXRXQmhpZ3NjQ3gzcy1WN2w0OUYzM1B6TkZmY255eUgtZWJLV2RCWXlMMEQ3WnJqMEhzeUxibk50cHBVLVc5S3Y5Y3FKWnhiUTBDcm5ZUkQzVlFEQVU0OWdPVEZjc3k0Ylk4V21pLVBlRmpSYVZfUHpfWDZud0FUZWRwcXNORUFic0thdlHSAZYBQVVfeXFMUHYwS1E2ejZDS0JNZW90cmswbHR4NDBDMlVtVWtDVGxTc1VkUGNTdER2Um5KLTBCazBlTDltWUtfX3JFalpzclR4WlZzOWRXd3JkeXNnVURJMnppOUpHTjJsV201MkRWOEJMbl9lSy16UngtQ2xKLWxSYmNtVi1uaE5rRkg4X0NpSHdjLWI3NlZsNkdwbnJ3?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 09:56:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "sentiment": {
-        "positive": 0.988,
-        "negative": 0.012,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W28": {
       "both": {
-        "positive": 10,
+        "positive": 11,
         "negative": 12,
-        "total": 22
+        "total": 23
+      },
+      "paxton": {
+        "positive": 1,
+        "negative": 3,
+        "total": 4
       },
       "talarico": {
         "positive": 9,
@@ -1879,11 +1884,6 @@
         "positive": 3,
         "negative": 3,
         "total": 6
-      },
-      "paxton": {
-        "positive": 0,
-        "negative": 3,
-        "total": 3
       }
     },
     "2026-W27": {
@@ -1895,7 +1895,7 @@
       "talarico": {
         "positive": 3,
         "negative": 10,
-        "total": 14
+        "total": 13
       },
       "both": {
         "positive": 3,
@@ -1903,9 +1903,9 @@
         "total": 7
       },
       "general": {
-        "positive": 1,
+        "positive": 0,
         "negative": 2,
-        "total": 3
+        "total": 2
       }
     }
   }
