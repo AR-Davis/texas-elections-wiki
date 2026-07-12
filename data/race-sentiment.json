@@ -1,9 +1,26 @@
 {
-  "analyzedAt": "2026-07-12T06:18:34.060Z",
-  "newsFetchedAt": "2026-07-12T04:56:05.492Z",
+  "analyzedAt": "2026-07-12T08:39:47.214Z",
+  "newsFetchedAt": "2026-07-12T07:32:53.994Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Talarico polling stronger with Texas’ Black voters than expected, but enthusiasm questions remain - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVVdNc09DbWFKbUpBRVNTZHg5Vi1DS3RfS2oxWWF0OE02bDk3R0tVaElOc0V5NUhJc3Q2ZVR5RmFqRFg3dUU0U3ppU1J1cWhsdjYzdDBCbmFBdXpxV2pfeUttUFZSd1pFTHRBRTNmNUNISjY5d3luZXM5amh2dVdzRlNZdThOSkxIS1h5eVpULXRXNjJtVDJKQXc5OHM5cW5NMnVvdDVJQTNWOFVjOFc0UUxCQ0RWU1VOZEE0TFRtUW5Ua3PSAcsBQVVfeXFMUHdBWmFmMTg2S3Z3TXBfTFFpdXZBaVA2WlZQaEVsZGJOMG1HT2V5WHhJQ2JvdDl3UkZlNXJrT0hvdmp4SWNrdVBBRWhhVjVKVkhRMWhHc1owWUd5ZlgwNkdpWTZ4VERhRVMxOUxpUFp3WlZNLXdONEpNQmpmRUdReHIzbFBidnpkY1RMQTRrMXpzOVVUeVdud1dfRWRSaEFwOExwaXE1N3pMeHV5bml1eldRY1RpYVRFRmJlcGxPNlh5MElLZTNNTjVHa3M?oc=5",
+      "pubDate": "Thu, 09 Jul 2026 16:33:35 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 7,
+      "matchedKeywords": [
+        "talarico"
+      ],
+      "sentiment": {
+        "positive": 0.059,
+        "negative": 0.941,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "Talarico’s Chances of Beating Paxton As He Scores Major Fundraising Win - Newsweek",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbVdFdUFvdmhyUFMzdDZZdmxXVzRsYmpBeW9FWnBfS1Z5NVZ2YjZkcU81MGh5bGVsYmFzRUVDTlVLYXYyYjhzMl8wYkY3WE5Rb3F3ZFZYRzU1cHgwV2hhR085UXBkTE5iZ0lNVWxKMUNKb3g0VkhTaXhZRUhsMUw4VzJjMjd4WTlxaWZfZQ?oc=5",
@@ -1843,28 +1860,15 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "Talarico courts North Texas voters in tight Senate race - MSN",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU1VKN0VUYVVzR215eTE1dHJvdGRwZ1RwdG5XTEZheS1vSFBhTmdHZHpIeEotSGxESF9NeTVoUHBwSnBuZXRQQVQ2cUdkU2xpYlAwd3JfRE9rLWNoV2JOWDRHZjJ2YlVRcGpvOEFsY2Mxdm13WldjN3dFY2FEMHJZU2ZDYTAwYVpLdjJuWVM1SjZ6ZVFyM2c4dVBEVnRjbzRBdl9lVEEwTmhFTFlZRDY0VGpmM0NHR2g1SUFhTmdlNUFwb1V5VkYtZk5QQTB4MTFM?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 03:16:39 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 9,
-      "matchedKeywords": [
-        "talarico",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.163,
-        "negative": 0.837,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W28": {
+      "talarico": {
+        "positive": 9,
+        "negative": 10,
+        "total": 19
+      },
       "both": {
         "positive": 11,
         "negative": 12,
@@ -1874,11 +1878,6 @@
         "positive": 1,
         "negative": 3,
         "total": 4
-      },
-      "talarico": {
-        "positive": 9,
-        "negative": 9,
-        "total": 18
       },
       "general": {
         "positive": 3,
@@ -1894,8 +1893,8 @@
       },
       "talarico": {
         "positive": 3,
-        "negative": 10,
-        "total": 13
+        "negative": 9,
+        "total": 12
       },
       "both": {
         "positive": 3,
