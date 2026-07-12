@@ -1,9 +1,61 @@
 {
-  "analyzedAt": "2026-07-12T12:03:03.354Z",
-  "newsFetchedAt": "2026-07-12T09:56:26.358Z",
+  "analyzedAt": "2026-07-12T13:47:53.596Z",
+  "newsFetchedAt": "2026-07-12T12:28:51.482Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Democratic Senate nominee James Talarico talks affordability, school funding, corruption in third El Paso campaign stop - El Paso Matters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUExrRURzejZJaUZwMFpuNFgxRW9BeURja09xNDY0M1lLVzZtZ0xsNTMyaWl0X0xvVWRsSzNTVjRJeTRTMzVpdkpKMVZIenhsR0RzeUV4WmNHN19ILTJhX1RDdHhFSE9ZeURRYzcyQU1vWkp2NzlCZWFyeHY5SXdkaUhuMm1ROEhYaW02blZ5WlZCdHI1d1RwOVQxTGstSVdpaUxVajZ5ZHdMd1Fz?oc=5",
+      "pubDate": "Sun, 12 Jul 2026 04:18:09 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.995,
+        "negative": 0.005,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "3 new reporters join expanded Texas politics team - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNWNlUk5GUHZaVjZNb181UlNXVTE4UjhqMjNlNlBMM3dJSy1laTM4WEdZeFFRSjZYeXZxV0JBLVNxbXhlQmFXV3NkdVlXMHM3MVItTmVBSTFULW1NZ04tcHFEcF93MjJhUGw3R2xqcEpZcEhEWWp5c0Fhc3RGNndGTnVHVUoxQW5HV3hCZEF6NWo5aE13WWZJSFMtY0JDdw?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 17:06:42 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "sentiment": {
+        "positive": 0.999,
+        "negative": 0.001,
+        "label": "positive"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "'Sounds like a preacher' Why Cruz says Talarico could win Texas - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRDkxM3B6c2NGUjFFMWRXYW55Q19BbS1jb1BiZ2hkVFcxWkt2dDFhUDY2dVJqZWVILWowUUlhYlRjbkFRdE5iMTdGa1VvQnBsQzFlYnJqUDFyTWdaUWg1T2hxODRNeDJEV0ZNaUNoUUUyZER5NFFQNmFQM2dPX1FJS2xEY19GcHpEcmd0eHBCWEwwLXdlRjFWU1NmMVdHeEM5MkVSc1BjQzZUeEczQkx6eTlONkpwVlhsbXhlZU40N2JNdzJiQ29TWVE4QXB5cFk4VGc?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 14:54:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "talarico"
+      ],
+      "sentiment": {
+        "positive": 0.012,
+        "negative": 0.988,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "After shattering fundraising records, Democrat James Talarico gets fresh odds of flipping Texas Senate seat - NewsBreak: Local News &amp; Alerts",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcjYyOWVFQi1QNXFKSy1JMWp6VWpsMDRpeUtjc2dUSjNjdmNQdjZwVjR4QURxdU1sS0FNMmdrVlFOd0w5OFlMWExzbHRqRVhWZ0taU2RDcEFyem00NzhEODZqQjJSaUVXX1hmY3R3MS14Z1pkSW1sTkExQnVLaGpYajhyVndUNDVmeEpSM0stOHpaekxnaUR5bzk5RlVPNTlLQ3BfMmdSOFBRYnNia19sWVB0d2Q3LTJpSlYweGxDaWo5TkVOWl9aYzhJWXVkN3Uwd243QnlFRGNVYjRqeTJxSzF3Z0FKQmJYWnA4X1FsZjIxZS01bklMaXh5RQ?oc=5",
@@ -1808,67 +1860,19 @@
       },
       "candidate": "general",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "Talarico talks about 2026's top issues &amp; the GOP midterm convention in Dallas - NBC 5 Dallas-Fort Worth",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYU90b1l0cHJDaG5hQ280dDNUVU5sVEhfTXRCYndMME55M2htUzhHOEZha1QxY2QtNXZGTVNiM2dFX2NURTlpRFFURk40Vi0xMmV6NkNxWkxqQ2RKQzNqWHpCWlBsTDRkb2NzMVNQQUl5a0hFUThFYXkzV0tkOXNYRDRsMEVDR1dLbXZvZnZaT0NkWEhwcEtMX3FSdF9CaF9TcjRlemlSalo5M2t6aExyenJZb1ZkWG5uV0JyejgwYWY5OW1TRHdRWGR2QXFqNXRlNDBsVFIwc0xTZTIzcVA00gHnAUFVX3lxTE1nTmdZeFR1d2hPNk01RXpBSGI1SGJ5YWhyd2pQYkVHRGhxRDZBMEF5VDZVNWNGWVB5aUJVU3FBanJINlIxU0NaM0o0MktVNFhfMVJzWUNCekZuWjBtbzVLbjNzNHJZWkNzZHNFQS04QnV0S2dwNENlR2dJaDlva3lvVnJEODJNMU5Tdld1ckJsbW9abzZKQlNERTB3VF95eXlZalBhWXJXNUVxd3NSNFJxQmJnLXV1Mi1pOV9ranc3bFphOUZGcFhkanZJdExzVUNYNUppekh4N0hkb1ZVdHVJeGZJS1NYOA?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 12:57:12 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 7,
-      "matchedKeywords": [
-        "talarico"
-      ],
-      "sentiment": {
-        "positive": 0.998,
-        "negative": 0.002,
-        "label": "positive"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W27"
-    },
-    {
-      "title": "Here's why you've been seeing television ads for James Talarico in recent weeks - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdU5tUFE4RlRQbVppQmFMdERabjNGT1c4LVd3ZUJKak9CNmRHVzFkRC0xSVlRSF9TQXJVSEpUR3htZ2NTS21Nb3cyYzNHeC1vSkxVUlJjbkg4QzRTNE1fcTVpZWp4Q1lHTnZxd0I4OURDUGZ4ZW9WeXV4RTRrcFJ4ODA4ajlJRlU1SThnSVBaa08yWUtEclpYd2FHcDlFSnFJMlhOSnhyd1ZBZm9OZTNoUUZZajh2WGMxRWc?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 11:03:39 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.009,
-        "negative": 0.991,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W27"
-    },
-    {
-      "title": "Paxton and Talarico are in a cage match for a Senate seat. Suburban Collin County is a battleground - KERA News",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQnExWnVFczhTdXdtUDJpY1JwS1VkWG04MktESHJCWW05QXdwRk9qN2h6QmltODJRekNqVmdTR1NzOUlTU3ZfOGQtTEY1WmZHbG1SNHBRUW41NHRVcDhONDlnUnZHaUphUWloX0VfUW1oRmZCYy1jNXF6dzZ3WTNaYkl1M3RDS1dSbXRTWEI3U2xsUTZKcEZnM19YZFpUcE9tc0R5UUlTN0xRd1hQeUpyTGIxRjBaUVhnYjhtd2tZSXN2ek1ldWE2VjEwc3RYbkxrb05CNFNB?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 10:01:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 10,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.987,
-        "negative": 0.013,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W28": {
       "talarico": {
-        "positive": 10,
-        "negative": 10,
-        "total": 20
+        "positive": 11,
+        "negative": 11,
+        "total": 22
+      },
+      "general": {
+        "positive": 4,
+        "negative": 3,
+        "total": 7
       },
       "both": {
         "positive": 11,
@@ -1879,11 +1883,6 @@
         "positive": 1,
         "negative": 3,
         "total": 4
-      },
-      "general": {
-        "positive": 3,
-        "negative": 3,
-        "total": 6
       }
     },
     "2026-W27": {
@@ -1893,14 +1892,14 @@
         "total": 26
       },
       "talarico": {
-        "positive": 3,
-        "negative": 9,
-        "total": 12
+        "positive": 2,
+        "negative": 8,
+        "total": 10
       },
       "both": {
-        "positive": 3,
+        "positive": 2,
         "negative": 4,
-        "total": 7
+        "total": 6
       },
       "general": {
         "positive": 0,
