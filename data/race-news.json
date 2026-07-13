@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-07-13T21:03:04.384Z",
+  "fetchedAt": "2026-07-13T22:29:41.128Z",
   "count": 25,
   "feedsChecked": 8,
-  "itemsScanned": 178,
+  "itemsScanned": 180,
   "items": [
     {
       "title": "In tight Texas Senate race, Talarico and Paxton clash over affordability - CBS News",
@@ -74,6 +74,18 @@
       "pubDate": "Mon, 13 Jul 2026 10:07:29 GMT",
       "feedSource": "google-news-race",
       "raceScore": 15,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "cornyn"
+      ]
+    },
+    {
+      "title": "\"Who do I vote for?\": Cornyn voters weigh Paxton, Talarico or sitting out in November - KEYE",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd0M4NVBUd25mQjFOcnR4Mzd1UU1DZmdJUW9nY093bk1NNlVqODlVRHVsczk2VENSVFpVU1E0WXVFTFR1S0hDd25ST0EwQkdpSENDTzI1VktxN2U3SDBWMFVHZXUxajQtdm5EalRZYmRVTkNZbUhMRGVIT3RWc01PS2pFTGxpdWdBTDlxdFczZl81bkdtR0VzZzNvZ0JoaDVvLWM4MmhrUkszUlRCc3Ywb0xuY1M4aEhPSmwtX0xn?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 12:55:21 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
       "matchedKeywords": [
         "talarico",
         "paxton",
@@ -180,8 +192,8 @@
       ]
     },
     {
-      "title": "Talarico, Paxton campaigning in Texas this week. See events - Treasure Coast News",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUVNlWGNkVkZtdUdDQmpuOEtMNFlEUnM3d0ZmMTBhTkVGdDZnUUlscWZfbzJRMGZqM3Y0MmJzZHozWkxoUmhuRXFBbUJuUXdBQ293VEhzTFgwVDFaOEZvNlJwc0RqZkNwNElZUFh5VXVtWmJXQTMyUHZDNzFHeV9wazEzMG56aTNKdzQ2bmdrV3FPTEY0LUVIWUR3NkZidWxxY1VvbXg3VExrSUVqWFdwaHdmV2ZXcm1mcTM3NA?oc=5",
+      "title": "Talarico, Paxton campaigning in Texas this week. See events - Greenville Online",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQd1VIMDdwM0p3dWZPZEVvMTZJWU5DbFpEZk5qaXRObl9kLVkyd3Z1MFNBeG9sNzZ2NkJmZE11Y0tOeVlqTFZGRi1IM2dRZnlaQ2lQYmdHMHVUTEJUZkI3MHpUNnFtSGhvZG5XRG8zd1MzenRxaERvaWRfMUZxOW5YSDVEVkltcEV2aTFyZXduYkdlZmNPNktTdzZ3dnJHQ1d6alRUNkpueHNJRkZsd0NvOUE1aWhBZm82SHZKZ0Z2OTdRVzFreGhwcWZ3?oc=5",
       "pubDate": "Mon, 13 Jul 2026 19:29:00 GMT",
       "feedSource": "google-news-race",
       "raceScore": 11,
@@ -205,17 +217,6 @@
       "title": "State of Texas: Record money flows into Talarico v. Paxton race - Yourbasin",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYlVrTXkyZ25MeUVlaE94VVhtYXdiNzhvX3hGazBEMzVBdjllVFVTTHphQTdOY0RZVlA5c3MxSl9nemstSFlzUl93aGo4RlR6M2VhOTlIU0lHcFh6Sk1pWTNzdnFVUzY5elJsZGxvTkhCLWszU0VQd3hva3lZMTdid2k3azR3UC1oV0tqRmZqU1JOYXlZbnU5eEVEUm9ETUdvQ3pCNV93?oc=5",
       "pubDate": "Sun, 12 Jul 2026 09:38:31 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ]
-    },
-    {
-      "title": "State of Texas: Record money flows into Talarico v. Paxton race - KETK.com",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWmpuaE9NcHl2Y2pLNHVhZll3VXVMU1hGZVlmdXAwNEFlbFNMMTVhVlBzdXFuRVJ2YkJ3YjRocldxQmMzZ2JoWWxSZG5NUjFicHIxakF5TERUeU1iTFp0WjNQaTB1ak0xSlo1amk4a3Y2UlkxbUVKd0VVRVRPUER4Qmc5TlZlRTg0bjVGYmVnWm1mZTFMeWpCUzMzckxJMjA?oc=5",
-      "pubDate": "Sun, 12 Jul 2026 00:37:10 GMT",
       "feedSource": "google-news-texas",
       "raceScore": 11,
       "matchedKeywords": [
