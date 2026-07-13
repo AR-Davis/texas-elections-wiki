@@ -1,9 +1,26 @@
 {
-  "analyzedAt": "2026-07-13T23:00:53.033Z",
-  "newsFetchedAt": "2026-07-13T22:29:41.128Z",
+  "analyzedAt": "2026-07-13T23:58:22.854Z",
+  "newsFetchedAt": "2026-07-13T23:29:58.030Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Why Sen. Lindsey Graham’s death could impact Texas politics - KXAN Austin",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcm5xLUh0VGlsT1JOQjdlVndTQWdRbmlhUHJzX1EwcWVRZmxNb2FxcEt2NkJFdTNtSFVGVFljNjVOLTJrVmdmUEZCTk5OazU4Nl82MHhUV0tCU2NWbHUyTEhrM2VaOTM5M05LT1lrZ2IySy1leDFQZjE1TFNnZkxtQjRNSVAyVzZPMm1kc2VZTXBXcVlWaDF2SmFrdEtoZFh40gGmAUFVX3lxTE1FSHZFbml0MVR2MTg0TzJDenJUal9rQXdualFZRjd4OGJwZ0k2VDJlRm5MZDdWcjFVb0VsNDNFdnh4d0tlNlFGeDRwNF9pVW9SMjN0eXYwc2VBMmNpUllvOFJwOVVXMFJmUjluMHlVZlJfZEpYeUdhaFNQenNVcTlzNWkyY2VIeEo3T1BXZ2JTQmtxaUdYbm0ta0JUbS1ZWHlTeEdjeFE?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 01:56:39 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "sentiment": {
+        "positive": 0.019,
+        "negative": 0.981,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "Talarico, Paxton campaigning in Texas this week. See events - Greenville Online",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQd1VIMDdwM0p3dWZPZEVvMTZJWU5DbFpEZk5qaXRObl9kLVkyd3Z1MFNBeG9sNzZ2NkJmZE11Y0tOeVlqTFZGRi1IM2dRZnlaQ2lQYmdHMHVUTEJUZkI3MHpUNnFtSGhvZG5XRG8zd1MzenRxaERvaWRfMUZxOW5YSDVEVkltcEV2aTFyZXduYkdlZmNPNktTdzZ3dnJHQ1d6alRUNkpueHNJRkZsd0NvOUE1aWhBZm82SHZKZ0Z2OTdRVzFreGhwcWZ3?oc=5",
@@ -1833,35 +1850,19 @@
       },
       "candidate": "both",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "Talarico’s $30 Million Haul Crushes Paxton in Texas Senate Race - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaldTX1hTU1NHcDdpaXBaVURoLXJtMkowREdsSVVrNnE3bGtYZElZd29wOTZkQ0pDQy1LNzdXRTFSbW5SeEtocFp4SXR6TE1pRmV3MXMydG9EaEs4S1ZJZS1TSXpQRmJmdFNha3pnRmdVcHhJbDB3LUxQY0ZkMWtJQ3hRdHo5cVBaYzAycjVDYXgyZWVOb2hSMTJobEZrdjU2cFNtZmNBTnJwekczVk92YnNlNA?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 02:13:18 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.023,
-        "negative": 0.977,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W28": {
+      "general": {
+        "positive": 7,
+        "negative": 5,
+        "total": 12
+      },
       "both": {
         "positive": 17,
-        "negative": 21,
-        "total": 38
+        "negative": 20,
+        "total": 37
       },
       "talarico": {
         "positive": 19,
@@ -1872,11 +1873,6 @@
         "positive": 2,
         "negative": 3,
         "total": 5
-      },
-      "general": {
-        "positive": 7,
-        "negative": 4,
-        "total": 11
       }
     },
     "2026-W27": {
