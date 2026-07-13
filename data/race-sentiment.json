@@ -1,9 +1,46 @@
 {
-  "analyzedAt": "2026-07-13T19:35:03.867Z",
-  "newsFetchedAt": "2026-07-13T17:31:14.854Z",
+  "analyzedAt": "2026-07-13T20:40:56.713Z",
+  "newsFetchedAt": "2026-07-13T19:37:10.763Z",
   "totalAnalyzed": 100,
-  "newThisRun": 5,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "\"Who do I vote for?\": Cornyn voters weigh Paxton, Talarico or sitting out in November - KEYE",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd0M4NVBUd25mQjFOcnR4Mzd1UU1DZmdJUW9nY093bk1NNlVqODlVRHVsczk2VENSVFpVU1E0WXVFTFR1S0hDd25ST0EwQkdpSENDTzI1VktxN2U3SDBWMFVHZXUxajQtdm5EalRZYmRVTkNZbUhMRGVIT3RWc01PS2pFTGxpdWdBTDlxdFczZl81bkdtR0VzZzNvZ0JoaDVvLWM4MmhrUkszUlRCc3Ywb0xuY1M4aEhPSmwtX0xn?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 12:55:21 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "cornyn"
+      ],
+      "sentiment": {
+        "positive": 0.006,
+        "negative": 0.994,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "Talarico, Paxton campaigning in Texas this week. See events - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN2JZbEowU1Uzai1Ga1VpRDFHY2hmeEpDSTFUellqY19GRnZ3aDlrdXBTZTladVltTm5EVnVmWnhtcHhPN3hydlNhUkV5T0trY202OWFOcEdIdC1JMGZQUC1JRmFIWHdob2xRLWxDTjUwQTU4MDh2Nm9GTzdDNlJSdWhjaXpoWlhxcHZPOGloWl9fLXotc0IxZUoyNEx0MzJWTi1XdzVjZW93N2ZMX09YeFp1MWhMWEYxbHZtU0d3bw?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 19:29:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": {
+        "positive": 0.91,
+        "negative": 0.09,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "Texas Senate candidate James Talarico visits El Paso church - El Paso Times",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM0ZYekVRU0FoWXQ4M2pwaXZlTmZrYjNDdEM4TS1BODNMVzBPQ0N2NW9VM2U2OFotbVhKN2trcmhoS2JSeDRxd0N1dnhkNGx3VU5RUF9VYjJva1VuaExtSmhUclZTR2tWaHJsWkc0b1NWQkJ6aVJkOWFUczdRb1FwRGJFS2hBX2tKU3ZadnZnM196VFhqLWFCbG1MQm83ZnNXXzFpUTlTTVFXVnVWdzh4dHExNzNtemRYM0FiMUo4STd6Nnc?oc=5",
@@ -1820,46 +1857,15 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "Texas GOP Senate candidate Paxton has been voting illegally, report suggests - MSN",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQZDV4SHpOMVd6VTR3Q3B3NHFLNl84N3otMkpOZm9INnZHYXNZSXlSNWYxZjQ0eWlSYnFCRGZWRFdXaHotWVlKLXpBRFRjemdjTzRiQlZyclZBMGZTMzlPRGszYXd3REdRLTJDMVBtdHBpM0VnRFdDblJGQnozemlxdHZDWHFxYjBFMURpWWhYQUt6ellCdE9KejA1eUFOQTl3VWM1TUw1SDNTRGlQVkFQZURraGNQMkh0UFEydXBQeVoyX2s0WnNhQ3pzQ0s0am0xbkh0clp0Y01NMlNMUzFuZDZMaXdWUF9rMUtEbHZZN3duQ1lMWXZpTldSSmVlb0hFczA1WmFURQ?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 13:32:13 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 9,
-      "matchedKeywords": [
-        "paxton",
-        "texas gop"
-      ],
-      "sentiment": {
-        "positive": 0.001,
-        "negative": 0.999,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W27"
-    },
-    {
-      "title": "Texas GOP Senate candidate Paxton has been voting illegally, report suggests - MSN",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNdzZCcWhLOGYzQUxFaTNPNDFSYmdkRFYxU3hudklHMWxGUEUwLXRWZFJRdU5aTWkwOEJUNVg4Mmk4LWNZNWN0SW0wTFE4NmVPMW1hQmdJS01nRmhLN0dnSVVCOTJZZHJuRzNBZndkdkZIcWNJV25GelhFV0loS1VjUjhYd0Zxb3RVSmsyZFN3ZV9temw3ODZ3bjQ2cFdZUnRVMklsLTF5eUNQVTYzZmUxV3Y3ZlF6RFpnTWtCNUNVbXhNMmRzRGZVcVlvZF9KUnJoVDd1VzVaUDJDZ0dQeDZCaHFQUVlCa2xyTXFXSTBtUlNQUUhnZEdRMVlQYnJickVIVWR0LXphMG95Zw?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 13:32:12 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 9,
-      "matchedKeywords": [
-        "paxton",
-        "texas gop"
-      ],
-      "sentiment": {
-        "positive": 0.001,
-        "negative": 0.999,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W28": {
+      "both": {
+        "positive": 17,
+        "negative": 19,
+        "total": 36
+      },
       "talarico": {
         "positive": 19,
         "negative": 20,
@@ -1870,11 +1876,6 @@
         "negative": 3,
         "total": 5
       },
-      "both": {
-        "positive": 16,
-        "negative": 18,
-        "total": 34
-      },
       "general": {
         "positive": 7,
         "negative": 4,
@@ -1884,8 +1885,8 @@
     "2026-W27": {
       "paxton": {
         "positive": 2,
-        "negative": 9,
-        "total": 11
+        "negative": 7,
+        "total": 9
       }
     }
   }
