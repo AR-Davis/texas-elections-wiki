@@ -1,9 +1,47 @@
 {
-  "analyzedAt": "2026-07-13T06:38:18.055Z",
-  "newsFetchedAt": "2026-07-13T05:02:50.422Z",
+  "analyzedAt": "2026-07-13T10:31:22.122Z",
+  "newsFetchedAt": "2026-07-13T08:33:59.476Z",
   "totalAnalyzed": 100,
   "newThisRun": 2,
   "stories": [
+    {
+      "title": "James Talarico got fresh odds of beating Ken Paxton in Texas - wonderwall.com",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNblFCSkxLVnpueFdwbWhwOFc3bzJSeWtfX3U1ZEtLMjRKTXB6OF85VVZrV2tfWTQwc0M1UDlpamVLVFlSVzNvMTBYbEJPMEcwVXBObTlGVHJncWpPTW5sbUV0R2JOaWJIcjVhVU9xR2w5SEZlclJCRFYweGRoTWlBS0RDcXI2Mm40cjBQcmdlQXgzcVpnQWxMa3pPOTN5QWwydFpCdUhaVVBzbC1hWmlxYXd2bnN4c0dSX0lmc1g0UjBCMDJxR2h6R2l6enZCTTIwWGNHNnQwV3BIZw?oc=5",
+      "pubDate": "Sat, 11 Jul 2026 06:33:58 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.998,
+        "negative": 0.002,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "New polling shows Talarico leads Paxton among Hispanic business owners - MS NOW",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNUxfSHdPdUZJWmF4bG9naFlpZmJXNE9jNWdrTVVZNDhrOGJZdC0xMkJtM1p6eVNXdFMteWszOVVkanVjZlJrT1NVOWgxdnVvTjNDOEQ4U1FzQ2ZyZ0lSZnBtZlVWYWJMUHJESkEtT1JsUnh5TV83LWhzZUhlVlViekMwWlFhdWJRUGg2X2RFRU45UE04YTNobnhn?oc=5",
+      "pubDate": "Sun, 12 Jul 2026 21:06:20 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 10,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": {
+        "positive": 0.982,
+        "negative": 0.018,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "GOP official says James Talarico should lose election because he \"couldn't lift a 10-pound weight\" - LGBTQ Nation",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPX0E4TUlLR29OczRFTkozelBEdF84VDdFZm1DdmtSaHIycjl5bVdiLXc3YmFYS2wyTHFMNE1fckRSb0VKdVNsWG9XSUtZSkcxY1JIczMzanZuUVA3b3ZTN3FSZ05NX1dmWmcyVU5Hb0kzMkdxeFdka0xFNzJPM2l2eExEVXVFaFpUQ0s2bmExbi15NnRtVlVadzRGd2d0SnlUQWl4UDJrQi02VGpzWUdrTUZ2b0g3eDRiSktSMUFrMXVLTEVvNEJqdEhkV1U?oc=5",
@@ -1814,49 +1852,15 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "Vaccinated, Boosted James Talarico Spent Christmas Alone with COVID After Calling Fauci Action Figure His ‘Coolest’ Gift - breitbart.com",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNnItY2xuM3NuR1JlME42T2RYaDlpUUpnV3laTk5YRXNFYm4wOUR2TTNzcF8yUlBkcGZ4ZklMaE0yTjhNclVZei1zUmgzUjJrcDNQTko3dHVDbUg3WWYyTTlFUHhQcU1IbVVYNUhid3FjWjNXVFQ4azJYMlQ1VGdfbHNUYTNCeExLSEFRVXdxam51eDQ4UDkzdVE2Rmp2c1ZxWl8xWWhkWDRETlZQN1M5U1N3a3I2Si12d3RITVYyMUpFNl9TZk1Bb0R4WFdQSnpaMHVkcW90RkYxN3l6SzdJYldnR3hybTk3RUdmeXFDd3V1V0dTbk1V0gH8AUFVX3lxTE1MWDRlMmtTTVQ2WWpNN0xaMzJjX0NGTHZ2cTlXUl9iWEdVMTNVZVlwWG5OcXEtUmJDdXhFOEVzM0UtRWViZWtlMmtEdnl2NDlvMUZCbThsMV91YS10NzRzdXlXdDNOUUMxc3hxdTZGcHd1eG96UjFBYzB3di12aXRTN2t5SUFHNkVBSVczdTY2M0pSYUVjR2NpeVBHYW4tcnA2S1liMGNTaDJZR1V5NzJxSG5ySXh4dUVjWm45LUVaSUR6RFVXclNLOWZycnpvN3A4d1JKbjBJVDJiaDVNRXFodS00bUlkQmFsanVLUk51OVEwUXluX1JEM2c1Zg?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 22:58:21 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.997,
-        "negative": 0.003,
-        "label": "positive"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W27"
-    },
-    {
-      "title": "Polls Show Dead Heat in Texas Senate Race Between Paxton and Talarico - sekbernews.id",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ESjA3cV8xaElOZHlmMkhhczRzZmtZeDFVOW1kdm5WRVQ3SjJxcG9LRG5ZTWtvSkZzckctUFZQX1kxZlRKdVRldnFiZVBoUXlMbFdEdGNjdm95dmVCVVptLWc1SGh0ZElaLWdkSjhBbw?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 17:58:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.082,
-        "negative": 0.918,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W28": {
+      "both": {
+        "positive": 16,
+        "negative": 16,
+        "total": 32
+      },
       "talarico": {
         "positive": 14,
         "negative": 16,
@@ -1866,11 +1870,6 @@
         "positive": 7,
         "negative": 4,
         "total": 11
-      },
-      "both": {
-        "positive": 14,
-        "negative": 16,
-        "total": 30
       },
       "paxton": {
         "positive": 1,
@@ -1885,14 +1884,9 @@
         "total": 16
       },
       "talarico": {
-        "positive": 2,
+        "positive": 1,
         "negative": 6,
-        "total": 8
-      },
-      "both": {
-        "positive": 0,
-        "negative": 1,
-        "total": 1
+        "total": 7
       }
     }
   }
