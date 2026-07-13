@@ -1,9 +1,28 @@
 {
-  "analyzedAt": "2026-07-13T10:31:22.122Z",
-  "newsFetchedAt": "2026-07-13T08:33:59.476Z",
+  "analyzedAt": "2026-07-13T13:01:10.976Z",
+  "newsFetchedAt": "2026-07-13T12:12:03.133Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "“Who do I vote for?”: Cornyn voters weigh Paxton, Talarico or sitting out in November - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaXpyLTJ6MUFRRjRNWHNLYldSLXFlbUpIcW9iT1JEUWNIVmNGUE5hcWNnMjBXei1WOC1FS1RTTi1MU1ZGcWp5Z0lEZnhFRk13eWlQUjJKRDU3bWNsLXRRMXBobDlJYkxzSDVlUlVCUUZRbWQ1SDkwMGxneVJ3N0lsa2xZbXRZY0h6UWIyU0RISVZzT2gzYXpSaGpOXzNUVlg0eXYwcmtET1I?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 10:07:29 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "cornyn"
+      ],
+      "sentiment": {
+        "positive": 0.012,
+        "negative": 0.988,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "James Talarico got fresh odds of beating Ken Paxton in Texas - wonderwall.com",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNblFCSkxLVnpueFdwbWhwOFc3bzJSeWtfX3U1ZEtLMjRKTXB6OF85VVZrV2tfWTQwc0M1UDlpamVLVFlSVzNvMTBYbEJPMEcwVXBObTlGVHJncWpPTW5sbUV0R2JOaWJIcjVhVU9xR2w5SEZlclJCRFYweGRoTWlBS0RDcXI2Mm40cjBQcmdlQXgzcVpnQWxMa3pPOTN5QWwydFpCdUhaVVBzbC1hWmlxYXd2bnN4c0dSX0lmc1g0UjBCMDJxR2h6R2l6enZCTTIwWGNHNnQwV3BIZw?oc=5",
@@ -1834,32 +1853,14 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "Who Is Tracy Duhon? Ken Paxton Spotted On London Vacation With Christian Influencer - Times Now",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQzljZXBPUkhVZkJqTERZdVMtR2hfZWZhdHpmNzVxUnJqT2ZxTllLREJGSG1OWFN5bDJqZ0tNekh3UzFjNEhna3VmYXl4THRkdm1RWVhLY2FVUlF6NFB2cnM1ZlJkT243NXJSeDBuYVVWZHhMUUJUWHNQaFVGQkdNYmQ2U3QtQWRKbmoyZl9LVmZLQ1doS0N4cnMwbThua2JQZURUVWRoTzdRd3k1X2ltX193Z1JtMDBqNk9FQkw3QkRaSVFvLVA1SThPU3poWVFUcWEtV0tZS05XSU9fdV9R0gHkAUFVX3lxTE9nWFdWbG9ZbkJBSUdoeER3dUR3cWFSN1hVSTNUanBhbmt3dFJVTlB4MXhoSlZEd2VnQU1adVRBREl6ckNJWERfWGc0M3ozU2hZU2tFZFpFcXBNc1k1bDNydFM5VVZvSk1scnRES1hoZ2lhSHpmY3VyQnZoeU90X3ZQaTJweDZVMlRJY0JYM0lOTV9sNU9mc2YzTmFfYUZzanpxTEFaN2VPSGNkbWFsLS1GWEFlS0xwMUxtOFBiTmo2ZFpUUDdib3k1TUE1UzFRY0pQS2dNMWdWbHlmaDNoRUxxbW16aA?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 18:14:16 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.046,
-        "negative": 0.954,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W28": {
       "both": {
         "positive": 16,
-        "negative": 16,
-        "total": 32
+        "negative": 17,
+        "total": 33
       },
       "talarico": {
         "positive": 14,
@@ -1880,8 +1881,8 @@
     "2026-W27": {
       "paxton": {
         "positive": 2,
-        "negative": 14,
-        "total": 16
+        "negative": 13,
+        "total": 15
       },
       "talarico": {
         "positive": 1,
