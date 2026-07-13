@@ -1,9 +1,44 @@
 {
-  "analyzedAt": "2026-07-13T03:28:45.349Z",
-  "newsFetchedAt": "2026-07-13T01:11:14.120Z",
+  "analyzedAt": "2026-07-13T06:38:18.055Z",
+  "newsFetchedAt": "2026-07-13T05:02:50.422Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "GOP official says James Talarico should lose election because he \"couldn't lift a 10-pound weight\" - LGBTQ Nation",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPX0E4TUlLR29OczRFTkozelBEdF84VDdFZm1DdmtSaHIycjl5bVdiLXc3YmFYS2wyTHFMNE1fckRSb0VKdVNsWG9XSUtZSkcxY1JIczMzanZuUVA3b3ZTN3FSZ05NX1dmWmcyVU5Hb0kzMkdxeFdka0xFNzJPM2l2eExEVXVFaFpUQ0s2bmExbi15NnRtVlVadzRGd2d0SnlUQWl4UDJrQi02VGpzWUdrTUZ2b0g3eDRiSktSMUFrMXVLTEVvNEJqdEhkV1U?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 17:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "Why Sen. Lindsey Graham’s death could impact Texas politics - KXAN Austin",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV3p4cnA3aU10UjdUcEx3SHlrS3BOSS1GNk15QXZseGJnUy15VnZpTEJLSXI1RnVsZkNMYTZuVkw2MGlENVIzTzJsN1hPSjhWdGxTSUZ6R2tHOEZkU2dRTWFsYWdLMDZIeDBVY25fSHl5R19KSEI2RkV3eTBCeWVydzFnX3VtSmQwVmZsT2NDTUU5RDhjbjd0Qlh0eHFfTkt4cVpodWRR?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 02:37:48 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "sentiment": {
+        "positive": 0.019,
+        "negative": 0.981,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "State of Texas: Record money flows into Talarico v. Paxton race - Yourbasin",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYlVrTXkyZ25MeUVlaE94VVhtYXdiNzhvX3hGazBEMzVBdjllVFVTTHphQTdOY0RZVlA5c3MxSl9nemstSFlzUl93aGo4RlR6M2VhOTlIU0lHcFh6Sk1pWTNzdnFVUzY5elJsZGxvTkhCLWszU0VQd3hva3lZMTdid2k3azR3UC1oV0tqRmZqU1JOYXlZbnU5eEVEUm9ETUdvQ3pCNV93?oc=5",
@@ -1818,62 +1853,24 @@
       },
       "candidate": "both",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "Texas AG Ken Paxton Faces Residency Scrutiny Amid Tight U.S. Senate Race - Azat TV",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYQ0htRHQ0Tnp5bTJISGNmZEsyQ0U4Nk93V0hBS3hSRTdiQzRaRHNnZHFfQjRtYUlOUXlhR1oyRy05enFSN2o2SmdOOGtnb3N1cGp1S3h3TkxlbTA5bGFQbG00ZGNjWEVaOUVHbjZoVkZUUQ?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 19:45:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.008,
-        "negative": 0.992,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W27"
-    },
-    {
-      "title": "Texas Attorney General Ken Paxton Faces Voter Fraud Allegations - asatunews.co.id",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13UGlNR1k1N3BHd2Z2TTMyX0VlV3VUaHc4OTNiSUpUaEdtNkZURkQ0MDRpM1lJdGhxd1lhc09DTEF1ME9zTUtQZU1yXzBXdFFXUmZYYTdoNlpHRmhVMXMtMF9hTHZwR0p1MVF6b0xEY3FtbnlNWGZXOTB4aw?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 20:39:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "attorney general"
-      ],
-      "sentiment": {
-        "positive": 0.003,
-        "negative": 0.997,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W28": {
-      "both": {
+      "talarico": {
         "positive": 14,
         "negative": 16,
         "total": 30
       },
-      "talarico": {
-        "positive": 14,
-        "negative": 15,
-        "total": 29
-      },
       "general": {
         "positive": 7,
-        "negative": 3,
-        "total": 10
+        "negative": 4,
+        "total": 11
+      },
+      "both": {
+        "positive": 14,
+        "negative": 16,
+        "total": 30
       },
       "paxton": {
         "positive": 1,
@@ -1884,8 +1881,8 @@
     "2026-W27": {
       "paxton": {
         "positive": 2,
-        "negative": 16,
-        "total": 18
+        "negative": 14,
+        "total": 16
       },
       "talarico": {
         "positive": 2,
