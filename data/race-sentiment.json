@@ -1,9 +1,80 @@
 {
-  "analyzedAt": "2026-07-13T20:40:56.713Z",
-  "newsFetchedAt": "2026-07-13T19:37:10.763Z",
+  "analyzedAt": "2026-07-13T22:00:44.229Z",
+  "newsFetchedAt": "2026-07-13T21:03:04.384Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 4,
   "stories": [
+    {
+      "title": "Texas Skeptical of James Talarico's Chances, Despite Successful Fundraiser: 'Money doesn't matter. Votes do' - The Nerd Stash",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRjFLQ3QtcHFoWWRqYTNRQkFFS0hGQ2R5Nm1RTDdRRWVHSDJZVjM5Q3FDbmdTeURId2lCMmpRS3BRemU3N09JOFY4elI4RTFSMWxnNUVab0JjMF9UaFdPeHFob1Y3VXZoR1VDV2s0V0k4NWlNSVpBa3R1LWczNVJJbnJaMEt4N1RqVy13ZkZ0U29YZUk0dk1DYldPTXV3UUFnN1hMdE5Fb0V5RHdrOGswZGFJRU5DZkdmM0lOaU5vZk0tbzRXbVE?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 20:55:59 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.005,
+        "negative": 0.995,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "Talarico, Paxton campaigning in Texas this week. See events - Treasure Coast News",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUVNlWGNkVkZtdUdDQmpuOEtMNFlEUnM3d0ZmMTBhTkVGdDZnUUlscWZfbzJRMGZqM3Y0MmJzZHozWkxoUmhuRXFBbUJuUXdBQ293VEhzTFgwVDFaOEZvNlJwc0RqZkNwNElZUFh5VXVtWmJXQTMyUHZDNzFHeV9wazEzMG56aTNKdzQ2bmdrV3FPTEY0LUVIWUR3NkZidWxxY1VvbXg3VExrSUVqWFdwaHdmV2ZXcm1mcTM3NA?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 19:29:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": {
+        "positive": 0.956,
+        "negative": 0.044,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "State of Texas: Record money flows into Talarico v. Paxton race - KETK.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWmpuaE9NcHl2Y2pLNHVhZll3VXVMU1hGZVlmdXAwNEFlbFNMMTVhVlBzdXFuRVJ2YkJ3YjRocldxQmMzZ2JoWWxSZG5NUjFicHIxakF5TERUeU1iTFp0WjNQaTB1ak0xSlo1amk4a3Y2UlkxbUVKd0VVRVRPUER4Qmc5TlZlRTg0bjVGYmVnWm1mZTFMeWpCUzMzckxJMjA?oc=5",
+      "pubDate": "Sun, 12 Jul 2026 00:37:10 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": {
+        "positive": 0.016,
+        "negative": 0.984,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "Talarico polling stronger with Texas' Black voters than expected, but enthusiasm questions remain - 88.9 KETR",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbm96clFMX2hnYzdfV3lpUUY5VlVlTXVaT1lvaWd6cVVEVDRPNHhNaXdtalV2QnFKamx0cFFkZS13dzlfUjFNN3RILThfZmZjUkkxY3c2YkJYcHdVRm5LUmtnQzE4LVZlUEFUSzRaLTNXX3F3WWhONU1TTGZSY2ZJU0NFdTBrNDJCZElhcFd2dUowY2lkWnpHeFJEZTFBWHd1QXY0TFIyNTRvbml3QTA5S1o1d2ZEQjdfelBNcTFZSHdPa2QwaWEzY0NYMldBcFhacmdBbXJxR3JremNmQ3RlYUVLVDYxZHV2Z3dj?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 15:32:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "talarico"
+      ],
+      "sentiment": {
+        "positive": 0.041,
+        "negative": 0.959,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "\"Who do I vote for?\": Cornyn voters weigh Paxton, Talarico or sitting out in November - KEYE",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd0M4NVBUd25mQjFOcnR4Mzd1UU1DZmdJUW9nY093bk1NNlVqODlVRHVsczk2VENSVFpVU1E0WXVFTFR1S0hDd25ST0EwQkdpSENDTzI1VktxN2U3SDBWMFVHZXUxajQtdm5EalRZYmRVTkNZbUhMRGVIT3RWc01PS2pFTGxpdWdBTDlxdFczZl81bkdtR0VzZzNvZ0JoaDVvLWM4MmhrUkszUlRCc3Ywb0xuY1M4aEhPSmwtX0xn?oc=5",
@@ -1785,91 +1856,19 @@
       },
       "candidate": "both",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "Texas AG Ken Paxton Spent America’s 250th Birthday In London With His Reported Mistress — With Marriott In The Background [Roundup] - View from the Wing",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KVURiQkQ0V3pjVHhZZ2F1NUJMbmZ0QWFfM2tKN3BIX0s3UUZGT2JTc2pPVEZEYm5jeUNnYUUteWNwQkZMU3dMX1YwYzkwUQ?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 21:04:51 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.996,
-        "negative": 0.004,
-        "label": "positive"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W27"
-    },
-    {
-      "title": "Ken Paxton raises over $9 million in Q2, Senate campaign says - The Texas Tribune",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY19TNUJNcy11M1NQLVFqZVBLMzdEZk12eGctTi1wNnJ4QTMyLUtuS2cyc1BnUllBRTc5QV9oUHFfaEZqaVZqZWFLYzNaRUpnSWFxaUk4Q3hxR05OWHdxS2Zpd2xRajBGa015aFBPRXdPQzFLdWJuMGJUZzNyYWRJTVpMZlJ0WkNGdkduTXhMcV9Udkp6aXFpbENoekNDSHFQSTVUVS11Zw?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 22:35:39 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.376,
-        "negative": 0.624,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W27"
-    },
-    {
-      "title": "Texas AG Ken Paxton Faces Polling Crisis After London Mistress Sighting During U.S. 250th Anniversary - streamlinefeed.co.ke",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOY1RSU3c3T1oyYlZYM0Z4Q2J2MEl2RFJLSjJOODQ0QTJKNzZBcnhTVmZsekk0OHNTanRWQjR5WXl5bEcwM29xTzdJb1RycXRLQ04xSGtIbzhyODBRWTdyUWFpLXN3SFQ2Nk56LVJPWjZybjBLSml5TW5kWHRnZzFWRXM0OF9NcjZtSXloZnBDR3BUXzE3OXVuUWFtMGk3SEx4dXlFOERjZjA3NkdpdGYxa0t3a185dElJQVVvaVJxdUtaZm5kWko5NlA3d1lwQQ?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 11:49:17 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.004,
-        "negative": 0.996,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W27"
-    },
-    {
-      "title": "Ken Paxton Vowed to Crack Down on “Illegal Voting.” He May Have Violated Texas Election Law. - ProPublica",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLW8wZThTWG5ReEJHMVFtRkFmalU5TnUwQkJmSFlkTmhPbXZCZVJoTkhyQmpmOW13c04xNFNUTm9RM1dYcG1WUzEydDEyUVBmdDBybUloTHVjNFZMZS1oSl9DSjFCb0lZQkZnejFzbk5lM2VkOGJ4eWdvUE5CSTY5N3l4SQ?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 17:30:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.008,
-        "negative": 0.992,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W28": {
-      "both": {
-        "positive": 17,
-        "negative": 19,
-        "total": 36
-      },
       "talarico": {
         "positive": 19,
+        "negative": 22,
+        "total": 41
+      },
+      "both": {
+        "positive": 18,
         "negative": 20,
-        "total": 39
+        "total": 38
       },
       "paxton": {
         "positive": 2,
@@ -1884,9 +1883,9 @@
     },
     "2026-W27": {
       "paxton": {
-        "positive": 2,
-        "negative": 7,
-        "total": 9
+        "positive": 1,
+        "negative": 4,
+        "total": 5
       }
     }
   }
