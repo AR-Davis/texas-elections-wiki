@@ -1,9 +1,100 @@
 {
-  "analyzedAt": "2026-07-13T15:46:11.108Z",
-  "newsFetchedAt": "2026-07-13T15:24:07.597Z",
+  "analyzedAt": "2026-07-13T17:58:23.442Z",
+  "newsFetchedAt": "2026-07-13T17:31:14.854Z",
   "totalAnalyzed": 100,
-  "newThisRun": 6,
+  "newThisRun": 5,
   "stories": [
+    {
+      "title": "Texas Senate candidate James Talarico visits El Paso church - El Paso Times",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM0ZYekVRU0FoWXQ4M2pwaXZlTmZrYjNDdEM4TS1BODNMVzBPQ0N2NW9VM2U2OFotbVhKN2trcmhoS2JSeDRxd0N1dnhkNGx3VU5RUF9VYjJva1VuaExtSmhUclZTR2tWaHJsWkc0b1NWQkJ6aVJkOWFUczdRb1FwRGJFS2hBX2tKU3ZadnZnM196VFhqLWFCbG1MQm83ZnNXXzFpUTlTTVFXVnVWdzh4dHExNzNtemRYM0FiMUo4STd6Nnc?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 16:32:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 18,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate"
+      ],
+      "sentiment": {
+        "positive": 0.984,
+        "negative": 0.016,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "James Talarico Kicks Off Texas Border Tour With Renewed Push for 'Comprehensive Immigration Reform' - Latin Times",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd1p5RkVXLVg2SDBMMDctS0tTcEVnUkVfTEZsWmdMaExvdU9GSkIzNWhVN25hOVBRQS1EQkpWYmtnVUxIRnFlY1RYN2FheHNCN3hUaUNBVERBekxXMU1SYTVxTEEtQ3FOMUlPdHpUNl9LaEw3dHBBcDQxdjRSTVNWQzlmbFhhdzMwdEt3ZGFWcS04cXB6Z2l6ZDg4UFBWaG5EckpVVWpvamFDYWcyLWhrd01uWkpTRUpYYTl5N1VnWQ?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 17:08:30 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.996,
+        "negative": 0.004,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "Battleground House GOP candidates aren’t running away from Ken Paxton in Texas - Washington Examiner",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUDZ1aWNQMEtvVXQxbDFpUmVGdUlEaVljWmhva3Z1cVc5OERpWkIxN2FXVlZvUTdmek1RbkpZdGFVZGt6ZEtPTTgycDZEbUcxa3hBajdjTXBTb21KSm1aNHlXZGItUzE2bGV0UWRCR1BhYmZ4X0Zic2hMTXhxWFNvVFJxbEw3MC1ESjdPaXY3T0J6blhCNWFUMlpTNHNnR2l2WlFpRFp1eXpDLVpBTkluU3d0TTA4REk?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 16:22:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.993,
+        "negative": 0.007,
+        "label": "positive"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "Democrats are Pouring Record-Breaking Donations Into James Talarico's Campaign - townhall.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWk5uWTZpeEVUbUhxbk1YcVlMaWJPUXhQeU5iQ2hoWEJPUEVmSW02LWhjS3Y0LVRsd2pwNTVIYU1PTGtPMEw4ZDEwQTRxdlN2dVplUk5OZjNLQmRXdVJiVVpTdnZGZ2NJNDVSWFJuNUhXSGxIbGl5WUIyN1pTZDRpMk1uaV9jY09YdEdrQ2FKSGpib2NwbmQxM1o1SQ?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 17:15:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.042,
+        "negative": 0.958,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "Dan Patrick roasts James Talarico: 'Couldn't lift a 10-pound weight' - Chron",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMzA4cTk1T0xpQmVaUnJnNThuTzhRZTFtb1p4Y2lDY3V2bEtuX240azZSdHdxYU81R3p6bEh2c2tWMFVqRHFxOHUtem1hRjNIYnE5a1ZzZDBoZUdZSHlFSDMyZXJjN0lySHo4aTlqb1hINzhpNldmMGZYMXB5dExTZUh2ZmVfOEVGNU9VeE9oNmQ4TW5WeVc0?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 19:47:21 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.004,
+        "negative": 0.996,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "In tight Texas Senate race, Talarico and Paxton clash over affordability - MSN",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUklnS2pOOXNWeUR0ajN4SkZldG9fSmhXYXhCR3dmS2ZSSE5XZFNoZmJQTV9Wb3RyRUs2U1RKUGJ5T2U3d3ZiRmpIaHltLUUwVWxYM1pvWHhaUVFtQUFTb3dvWlllbVpVOElaSnFaZlFlS0tNdFdTbmtPR2ZOZnVWQzZkT1lFMzNnLTBFaFlqaXIwNkxRLWNHQTYzdHBwNklkZTFHNEhKUWFsUlVfRE5FeVp4bDc3VkJMSUZ2X0otLVdoQ0FNTW5PbUlnVktwTzA4cGptRmhB?oc=5",
@@ -1765,131 +1856,36 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "James Talarico Hires Activist Who Handed Out Sex Toys on Campus to Craft Gun Policy - townhall.com",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQc291WnNad1lZVU1CdXdRalZZM044X1BOZERTVDhXWnRHcEx4YXpmbXpmZjVuaDczTmdxNWJzOEtzYXl3RkNSOFd1TW5FMVFsY056Z1ZMel81MDRWR09nN0JKYjlqaTBqd1IydUdEU1VBTGR5RnlaUDdrWHFVZjNVV09qU3FaMDRlbzhOVndDMnVncEZiYl9OanplN2gyWFNZVTk5UDBrVGswMVVERVJTQ3JleUtUNG9pM2tDaFpmbFpqQ2hDZktSakdfTF9vVFkxTzdoRmM5ZFBPRDRqZkYw?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 18:45:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.003,
-        "negative": 0.997,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W27"
-    },
-    {
-      "title": "Talarico courts North Texas voters in tight Senate race - MSN",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbzJxc2Flb2NLYTNIb3Jick5xa2Zka0N4QlhDUm5SYkN1WThPYk1pajJ2Tkxqb1dxaXhIWF9jSlo2dVRRRU0wVUhYNkpSZUh3czVWWXdFVjZkemU4NjNXRVNMYm9fX1JydVpEOFNnMXY3cmtMTFZmV0FvbGpDbDU2S1lVUGo1dkFrYWVzaC1VWmNCcFdvT2VkZ05sU3RNb09rcGV5ODFmRUVrZm8zLU5OQlRRRXdZTUFWaGk5NDZSU0c?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 09:07:50 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 9,
-      "matchedKeywords": [
-        "talarico",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.163,
-        "negative": 0.837,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W27"
-    },
-    {
-      "title": "Talarico courts North Texas voters in tight Senate race - MSN",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQUhfTFd3RXVSQ2JIemVZV1pveTd5R005ejVyM21zdFAtaURucGxiNmdLZWFKR25vZGh2dU1JR3RBVWw4MUVEbm00RGJPOURZYU1XRFdLbWdoV0lRYzZiQmcyRzBKaF9kZU9oOWZaNkRKQlJCQVNTeFhRMnlBSkJGT2gtdEp2TXBSU25pYU96TmY1VXpQRmw2YXplZGdLR2ZWcHdRWGU3aWtaY3hMdmgwZ1NPNDdPT3hf?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 05:54:44 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 9,
-      "matchedKeywords": [
-        "talarico",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.163,
-        "negative": 0.837,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W27"
-    },
-    {
-      "title": "Texas AG Ken Paxton, Who Is on a Crusade to Find Election Fraud, May Have Voted Illegally the Past 2 Years: Report - People.com",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTVRBUEdjQ2cwVXhUbldqb2RYc0wyYVcxa2c1c25YYlJqWFlINm0yekwzNG1QN0h5bURWSDV0OFZXOEcwbWxUYm1BeDVseklRWjFLZkNjMVd3VEVaSEE0LUxjZmV0ZEJXdnp5LW9fN0VlVXQwZG8xX3d6XzlNSlpjS1VwQUtVMy0xR2w4U0dHUmF6eTU2NlhrSHlsNGJZMGFQMzktWE1RdFhNRWp4eVFKR3E1RTJDUWRHcnlXOEUtaHlLTUg2R1pHbW9xWEZRLS1pSndZRDlrTQ?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 22:12:20 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.003,
-        "negative": 0.997,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W27"
-    },
-    {
-      "title": "Talarico courts North Texas voters in tight Senate race - MSN",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeldmWlFUSmVhZjFlQ1FuS2N2ZS1ocmtxeldEeUgxbDNac09UejZzVmloZUM5OWFUZzhxNWU2STNzTkFQS21iMnFtRWVKWXEzb1lZS05XZm5YejNHWnFKS0tVOXlwa3dVaE1kQmtCcExiU1NuU3hGUkEyQVlwanlTNm1sV2ZEb2Q1N014b3Ffc1g5ZUlicThhUlowQXhkNENzS0NjYmJJaHZNVks4azU3elFrMDhUa2JzZG95V2RqSQ?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 07:29:10 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 9,
-      "matchedKeywords": [
-        "talarico",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.163,
-        "negative": 0.837,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W28": {
+      "talarico": {
+        "positive": 19,
+        "negative": 20,
+        "total": 39
+      },
+      "paxton": {
+        "positive": 2,
+        "negative": 3,
+        "total": 5
+      },
       "both": {
         "positive": 16,
         "negative": 18,
         "total": 34
       },
-      "talarico": {
-        "positive": 17,
-        "negative": 18,
-        "total": 35
-      },
       "general": {
         "positive": 7,
         "negative": 4,
         "total": 11
-      },
-      "paxton": {
-        "positive": 1,
-        "negative": 3,
-        "total": 4
       }
     },
     "2026-W27": {
       "paxton": {
         "positive": 2,
-        "negative": 10,
-        "total": 12
-      },
-      "talarico": {
-        "positive": 0,
-        "negative": 4,
-        "total": 4
+        "negative": 9,
+        "total": 11
       }
     }
   }
