@@ -1,9 +1,47 @@
 {
-  "analyzedAt": "2026-07-14T16:46:27.694Z",
-  "newsFetchedAt": "2026-07-14T16:23:11.369Z",
+  "analyzedAt": "2026-07-14T18:07:50.583Z",
+  "newsFetchedAt": "2026-07-14T17:42:13.927Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Texas Senate Race: Talarico's Focus on Black Community - Dallas Weekly",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRG1oSTBXcFRPLU1KQ09obDNyVlBkS0lIWGFtSGl5bmVzTTZIZzJHVEt3c09oVVgzUEhkdVQwNVRNdFVUVzFaMFl6VEhMRDNDR1B4dDNtbFRnb2FYREVyUTBCUHpvZlBQX2VHdGJDWDk2a1VzcGFOSlJrV2FLMGdMTXR1NA?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 17:40:54 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.981,
+        "negative": 0.019,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "James Talarico slams ‘corrupt’ Big Bend border wall on campaign trail - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQckk2V0UzallCVUZUWmRkYTRzWmxKWE0yRnlGYTg4RjNSTVVVOGx5am1VRS1SU01BdV9ZNHdVdDNZeU05bmhqY0hTd3NJaTE5LWE3QkZfcGMwNHUwT0ViOUFxalRFRnlsQjJsQmxxQWsxRG1fYnFWc0RDYWp5UlRhOUxVNDlmdWhDRGNIRzgxb3pSSkFOVERxcTZSakFSUUQ1anNfaTd5NS1LZmFMM2dqLUxKYVRnZjRfU3pRUU9Tcll2NnRNelhFUkZaZVZsV3FtZ0w1ZzA4YjFITFVLTGl2SDJ1WElHOFMyaUJUd0IwMURqai1BTWtj0gH3AUFVX3lxTFBySTZXRTNqWUJVRlRaZGRhNHNabEpYTTJGeUZhODhGM1JNVVU4bHlqbVVFLVJTTUF1X1k0d1V0M1l5TTluaGpjSFN3c0lpMTktYTdCRl9wYzA0dTBPRWI5QXFqVEVGeWxCMmxCbHFBazFEbV9icVZzRENhanlSVGE5TFU0OWZ1aENEY0hHODFvelJKQU5URHFxNlJqQVJRRDVqc19pN3k1LUtmYUwzZ2otTEphVGdmNF9TelFRT1NyWXY2dE16WEVSRlplVmxXcW1nTDVnMDhiMUhMVUtMaXZIMnVYSUc4UzJpQlR3QjAxRGpqLUFNa2M?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 13:40:47 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.012,
+        "negative": 0.988,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "Why everyone will bring Ken Paxton’s abortion record up in his Senate race - The 19th News",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2aktGY2RDbjhxeXJ4aTZ3c252UEpWQ1Izb3N5TDluSVN5b1dMZmVkTjRBSENNWHg5UmMtRFE0VXNZcDBJeXNzbmxqNHlmOW1sZm5qR2tFZWVjQzV2bmx6WmgtMTRWU0d2b3lWbmk5QUYwTG53aXdRR1ZmVlF2UQ?oc=5",
@@ -1806,47 +1844,15 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "‘Suspicious’: Talarico says Paxton won’t release records in child sexual abuse case - Fort Worth Star-Telegram",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObDBUXzFFTk1YLXpDWWRjZWJ2bHRwUzdCS3g3Q1NreXhBRXNJVGFlQkJaZHh3ZVV5dXNON2xSd3lKVnBzUElIUnlrTFdQRmxJdnRfWlVvQ2F3Y3VobmdpY3RTT1l4Y2lXQlhnZDF5eWxxLXh0TXFHbHNlTlZRVEZQcXhPWWRuME96QnhBQ0k5NXVFRWlHbXfSAZYBQVVfeXFMTmwwVF8xRU5NWC16Q1lkY2Vidmx0cFM3Qkt4N0NTa3l4QUVzSVRhZUJCWmR4d2VVeXVzTjdsUnd5SlZwc1BJSFJ5a0xXUEZsSXZ0X1pVb0Nhd2N1aG5naWN0U09ZeGNpV0JYZ2QxeXlscS14dE1xR2xzZU5WUVRGUHF4T1lkbjBPekJ4QUNJOTV1RUVpR213?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 22:08:19 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.002,
-        "negative": 0.998,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "Texas Senate race enters new phase with fundraising - NBC 5 Dallas-Fort Worth",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ0tJV25va0RqRFVwZncxQ3Y0YXJ5dFpVc3RQSWVYNjlCQlBoTTE0UEtSNHpLUFhjTFFwQkV6ODY2WFFqZTE2SlJwMklpdHctcEtLVkhOVFZpX0pMWmhFSjhTaldENGhPOGs2dlVEeEMyRThsYUpRYmtISWg4S1FBUC1xcHY1bVR3WFhHekdfZXprc1JFMXNYN09nM09UeXotU0xFeUcyY9IBrwFBVV95cUxQU1E0dDdCMlpZRU43a29JM0xRcTU2amxNSUh2Y1NkZGNWMU12YUpoWHhWTzZpSzVNb05iZWNFcXlsQl9XLVRrUVRReU1ZN2NvN0pGR25qUXhQLW9WQUs1bnNmNzI5cGtYWUxOdEhaZ1Q4Qk9haHUyTGF6UjNRZXFxX2hBOE1taTNKaFVwQVA3WDNGb2E5N3p6NndWaXM0UUh5MDAtZ1VYLWl2SGpnTWVn?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 21:33:51 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 18,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.99,
-        "negative": 0.01,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W28": {
+      "talarico": {
+        "positive": 20,
+        "negative": 28,
+        "total": 48
+      },
       "paxton": {
         "positive": 5,
         "negative": 6,
@@ -1854,18 +1860,13 @@
       },
       "both": {
         "positive": 14,
-        "negative": 18,
-        "total": 32
-      },
-      "talarico": {
-        "positive": 19,
-        "negative": 27,
-        "total": 46
+        "negative": 17,
+        "total": 31
       },
       "general": {
-        "positive": 6,
+        "positive": 5,
         "negative": 4,
-        "total": 10
+        "total": 9
       }
     },
     "2026-W27": {
