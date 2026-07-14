@@ -1,9 +1,46 @@
 {
-  "analyzedAt": "2026-07-14T13:55:14.730Z",
-  "newsFetchedAt": "2026-07-14T12:49:19.283Z",
+  "analyzedAt": "2026-07-14T15:26:18.570Z",
+  "newsFetchedAt": "2026-07-14T14:58:27.917Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Inside the Texas Senate Race Where Masculinity Became a Political Weapon - streamlinefeed.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQelYtdlNTVnJnR1BwVTVHN0xxV1daN19GU1NsMlk1am1tYUVvUXFMbHFicHdsdzRDZ0ZLUy1UMG1NeklMZHk2a0ZTYmk2M1ZXSnJxV2VZc0lGaDlDeV9mWjdHNG5neDVDQVBMQWVhYldYSU4xMW9qOHFCRUlyVEE5RlhEWGJHbUMweG4xb0JNWEJYamtPaWhYNV9Wc3FQZEpRWG4xZmZENjItUQ?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 11:01:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.026,
+        "negative": 0.974,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "James Talarico slams ‘corrupt’ Big Bend border wall on campaign trail - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNVjFEclFoMTFUdmhlNkZkRTlDZG1pN0VMNHB2Nm1VaHNkOTBseUFTbmJVX0FmOTBIakJyUXVLMkw1eFdwUHM1WUlUc0hLQlpSVHNYblRVTThVNWVROWdqQXo3d1NiMkQ3YUxxbWIxRDJMVzNKSDZLUkZLRGVydXJlMGpFRTdXSkYyVXNBakZmUXZObFVTVlM3dkgxbm9tUXRwX3RrV3B2R19kY2tMSDRDM0pGcEJpZHMyMzlDVmc0dVdjWnBnOVNwUEpjYldlNl9RcTVUWE1oRUh0dUdZOXJkRzhNYWhqSVVONHcyT2dHbEhvanVqeGg5R3VMb1ZuMWo4NDNzQkludGdQcXNFVlRrTWZfVHFFMmZwaWs3M0JEbGhSUnhLS1lSbjBmUzY1WDFuelVZMmdBaHBNZmNqa1lNSmczLU04T0VlNGctdkJmZWlPbkw1aFItWEdyaHVGd2ZX0gHgAkFVX3lxTE1WMURyUWgxMVR2aGU2RmRFOUNkbWk3RUw0cHY2bVVoc2Q5MGx5QVNuYlVfQWY5MEhqQnJRdUsyTDV4V3BQczVZSVRzSEtCWlJUc1huVFVNOFU1ZVE5Z2pBejd3U2IyRDdhTHFtYjFEMkxXM0pINktSRktEZXJ1cmUwakVFN1dKRjJVc0FqRmZRdk5sVVNWUzd2SDFub21RdHBfdGtXcHZHX2Rja0xINEMzSkZwQmlkczIzOUNWZzR1V2NacGc5U3BQSmNiV2U2X1FxNVRYTWhFSHR1R1k5cmRHOE1haGpJVU40dzJPZ0dsSG9qdWp4aDlHdUxvVm4xajg0M3NCSW50Z1Bxc0VWVGtNZl9UcUUyZnBpazczQkRsaFJSeEtLWVJuMGZTNjVYMW56VVkyZ0FocE1mY2prWU1KZzMtTThPRWU0Zy12QmZlaU9uTDVoUi1YR3JodUZ3Zlc?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 13:40:47 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.012,
+        "negative": 0.988,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "Texas senate candidate Talarico holds border security press conference in Sanderson - CBS7",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOODdSTTQ2ZzJyWHVkelBUS2ZJLTVwMW54VmJEVFlqbzhBbTlpS18wRXlvdVFkc0pNVGpFYS13WDRZSDVZT2FCcC1EVERGOFhqbDVfRXFOWEZuUlFaVFRzOHZRSjZfaWpBRWs1VllhQ09xNlNkcVVJTnhmbi1OZnl2UG51czhXNWRzQlNUSWdnZ0RpMnVuREJub0NaMHBqbkpBVWdKTEp2dlg0V3hrczhGTURIWXVDWnI1MjJZY096aURLanMy?oc=5",
@@ -1808,60 +1845,23 @@
       },
       "candidate": "both",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "Let’s Make Texas Senate Race About Character - Word&amp;Way",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONE5ERDBkRWphSVpNbFRWQXpGbWdSd0QwVDNSWTFvQnhKOVZvcGJTdHpDYUNkZDN4cGZtcGtVM3l3UF9KcXBhejRGSkZ0WWxVV29YcEVmQTV2OUpaRFJGcDZlVnAwOHduekh5a1FGN2lJWENWWFJMNElWMWtmcGNNZG5zTlA?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 17:07:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.024,
-        "negative": 0.976,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "It's time for Texans to biblically divorce themselves from Ken Paxton - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVy05UzJqNmtKYmJzUUFVRnI4RXVZbVJpZWlTUVh4eElOSGgxVm5zQnR4NmVQazdITVliTFhkUnBianUtTS11U1pfVEtrTmFZUXd2Y0hMUFNycTdFYjNhY3FZM0dkeEFQTlV2b1Y5enhQUEd1RlV1QmlvTFJNZ1NIMEF3M3FXODFjbXNNV25BbFVEN2RqanRXTk1OZzN6eWoxSHNnaWpDelk2YlJxbG5yMkVEUUE?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 11:12:49 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.016,
-        "negative": 0.984,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W27"
     }
   ],
   "weekly": {
     "2026-W28": {
+      "general": {
+        "positive": 6,
+        "negative": 4,
+        "total": 10
+      },
       "talarico": {
         "positive": 19,
-        "negative": 25,
-        "total": 44
+        "negative": 26,
+        "total": 45
       },
       "paxton": {
         "positive": 5,
         "negative": 5,
-        "total": 10
-      },
-      "general": {
-        "positive": 6,
-        "negative": 4,
         "total": 10
       },
       "both": {
@@ -1873,8 +1873,8 @@
     "2026-W27": {
       "paxton": {
         "positive": 0,
-        "negative": 3,
-        "total": 3
+        "negative": 2,
+        "total": 2
       }
     }
   }
