@@ -1,9 +1,63 @@
 {
-  "analyzedAt": "2026-07-13T23:58:22.854Z",
-  "newsFetchedAt": "2026-07-13T23:29:58.030Z",
+  "analyzedAt": "2026-07-14T02:50:51.486Z",
+  "newsFetchedAt": "2026-07-14T00:58:24.277Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Texas Republican U.S. Senate Candidate Ken Paxton Holds Rally in McAllen - C-SPAN",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZFljZ2dSMlNHWlpOdkNNbEZEOGlnTFNydlRUeXI2R2ptN1ZUQWFBRDJSak1ERjQ4VDhIV1I3WlVibkk3aHp1WkRDem1jZDNUQzZxS2I3VHdhbTJCbUN5SjFPN3VFd0NWS2hfQmxpLXdOcHVZZkFybmNvUW9vUThESGpnNUIyX0dfcDJfcFBJUWx2WElzSVJzNTI4bFZkVUVGS0RndWhIN2FPdDFhVWxzaThabElWSmwteGdSQmJxTQ?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 00:07:12 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas republican"
+      ],
+      "sentiment": {
+        "positive": 0.927,
+        "negative": 0.073,
+        "label": "positive"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "Cornyn hints at midterm convention snub after loss to Paxton: ‘May have a conflict’ - Washington Examiner",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdmFlTk9Va3djUjhXeEhLUVNlc3ZBYlQyNHhDTlpibHlSNjZ1VHpxaEctM29fS3FYazluUGtES2lkWHlkRXVPRURTMmV0RzYxcjVrYTdCUEZ3WDM1Z1BTMS1CMEt2OW9KS2lrUjItWFhndHlkZHo5QUNwaEwtaW4wd25XUmhWVzVHbVhWTzNZUU9VVk0xMER5SVhhdWlpVUFsSkJlTFJZeW5hZVZxQ3dYZlZHYWstanM?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 00:16:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 9,
+      "matchedKeywords": [
+        "paxton",
+        "cornyn"
+      ],
+      "sentiment": {
+        "positive": 0.014,
+        "negative": 0.986,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "Texas U.S. Senate candidate Talarico holds border security press conference in Sanderson - CBS7",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOckt2ZjZrRGlRZDdMQUY3VnBvbmNIWmxyNmpsS19QTWI4UmVjTDI1YW9UNnpOeGV6MlVlNTRmbVhkYVl5Y2NtakxSSEdMUXQtQkhBSDJfRml5dTNoRFZTSlJHMDdsYVFsaEx0S2R0SnBWSERBT2JQZllVb2VIQkdfeWtlOVFzVnk2RzFpV3dheEY5NFBBMGFZeFFDbWhDXzNtSk1NbS1vdTVFMndtYWRuVVdFc3B0M0VySWtRUmxvU0pJWk50SDduMjlWMFZRS1RzLWRRUTlKalBIUDZO?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 18:38:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "talarico"
+      ],
+      "sentiment": {
+        "positive": 0.246,
+        "negative": 0.754,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "Why Sen. Lindsey Graham’s death could impact Texas politics - KXAN Austin",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcm5xLUh0VGlsT1JOQjdlVndTQWdRbmlhUHJzX1EwcWVRZmxNb2FxcEt2NkJFdTNtSFVGVFljNjVOLTJrVmdmUEZCTk5OazU4Nl82MHhUV0tCU2NWbHUyTEhrM2VaOTM5M05LT1lrZ2IySy1leDFQZjE1TFNnZkxtQjRNSVAyVzZPMm1kc2VZTXBXcVlWaDF2SmFrdEtoZFh40gGmAUFVX3lxTE1FSHZFbml0MVR2MTg0TzJDenJUal9rQXdualFZRjd4OGJwZ0k2VDJlRm5MZDdWcjFVb0VsNDNFdnh4d0tlNlFGeDRwNF9pVW9SMjN0eXYwc2VBMmNpUllvOFJwOVVXMFJmUjluMHlVZlJfZEpYeUdhaFNQenNVcTlzNWkyY2VIeEo3T1BXZ2JTQmtxaUdYbm0ta0JUbS1ZWHlTeEdjeFE?oc=5",
@@ -1790,70 +1844,20 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "Ken Paxton Loves the Bible and His Country So Much He Took His Alleged Mistress to England on July 4th - them.us",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KN09VS21xR1V6R0NiclRzWjJuTUVFSExqX2ZhQkJnb1VraE9qN1dSN0U3UVhqV18tOEIzT0NoQXBfSUFua1pER0pjWm91RkRpQXNheFpIRjJoeGNFa2JBU0JZUnVsM2ZUV0lobkhybl9Hd3M?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.998,
-        "negative": 0.002,
-        "label": "positive"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W27"
-    },
-    {
-      "title": "James Talarico out raises Ken Paxton in Texas’ U.S. Senate race. By how much? - Fort Worth Star-Telegram",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYnFyWW5qZ3lvYnp1V2ZaZUE4VGQxd2hnSFZSdjV4VkhYSjBfRTN4Y09MSko2dzFmY1FiM3U4MkFlX2xDWEpkTENzbGxzUjMyMlpqSWE3NnZma1ZDc3U1d2NHSlJzOEw5TmZwUjIzUkloaGtfRzU2ZmtEVWZDWmZwN3ozOTF1MXUxZmFxVm9idllSMF85ZkHSAZYBQVVfeXFMT2Jxclluamd5b2J6dVdmWmVBOFRkMXdoZ0hWUnY1eFZIWEowX0UzeGNPTEpKNncxZmNRYjN1ODJBZV9sQ1hKZExDc2xsc1IzMjJaaklhNzZ2ZmtWQ3N1NXdjR0pSczhMOU5mcFIyM1JJaGhrX0c1NmZrRFVmQ1pmcDd6MzkxdTF1MWZhcVZvYnZZUjBfOWZB?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 00:44:27 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.301,
-        "negative": 0.699,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "James Talarico out raises Ken Paxton in Texas’ U.S. Senate race. By how much? - Fort Worth Star-Telegram",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd2FYXy1kUXFwdm54QVVhVUdxTFBKOTdrcVJ5Y2cxZW1RWEo2LW1CNmtqMTRNd3p5Z2dOYjhJVGtkdy1ZRlNndGFyMk5MNWE3NXkwQ1BzeDdkVGRodS1pVHVRT1ZmenllUFA1SmRQeVNGSFhrWEtKaDhzcmhNTndRRUR0SlFCSVpCYjAxS1pfTzVrckZPRlHSAZYBQVVfeXFMT2Jxclluamd5b2J6dVdmWmVBOFRkMXdoZ0hWUnY1eFZIWEowX0UzeGNPTEpKNncxZmNRYjN1ODJBZV9sQ1hKZExDc2xsc1IzMjJaaklhNzZ2ZmtWQ3N1NXdjR0pSczhMOU5mcFIyM1JJaGhrX0c1NmZrRFVmQ1pmcDd6MzkxdTF1MWZhcVZvYnZZUjBfOWZB?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 00:44:27 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.301,
-        "negative": 0.699,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W28": {
+      "paxton": {
+        "positive": 3,
+        "negative": 4,
+        "total": 7
+      },
+      "talarico": {
+        "positive": 19,
+        "negative": 23,
+        "total": 42
+      },
       "general": {
         "positive": 7,
         "negative": 5,
@@ -1861,25 +1865,15 @@
       },
       "both": {
         "positive": 17,
-        "negative": 20,
-        "total": 37
-      },
-      "talarico": {
-        "positive": 19,
-        "negative": 22,
-        "total": 41
-      },
-      "paxton": {
-        "positive": 2,
-        "negative": 3,
-        "total": 5
+        "negative": 18,
+        "total": 35
       }
     },
     "2026-W27": {
       "paxton": {
-        "positive": 1,
+        "positive": 0,
         "negative": 4,
-        "total": 5
+        "total": 4
       }
     }
   }
