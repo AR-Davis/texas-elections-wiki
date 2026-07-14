@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-07-14T10:18:16.845Z",
-  "newsFetchedAt": "2026-07-14T09:08:41.106Z",
+  "analyzedAt": "2026-07-14T11:56:36.271Z",
+  "newsFetchedAt": "2026-07-14T11:08:52.804Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "How suing Biden more than 100 times fueled Ken Paxton’s rise and reshaped Texans’ lives - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRGpROHNlTmkySEU0a21yOXZ1NTFtLWFkY0l4ajAyT3dHdVM5MGlKY2FBcHA2dkhvWUs5cFRFN1JXeXMyLXhJWF92M2EzR3FkNmh5a1Zoa0ZkcWtnbDhxUHZkSTBGYkNfZFBfQTdNOGVlN2V2U1Bsa0NoUmFjamo5cGVTV21YZlQxRzd0Zk1iT3dGQU5NWmxpRlF2X0gxOFQ3ZnFQYTY4Vk1nRUg4?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 10:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.993,
+        "negative": 0.007,
+        "label": "positive"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "Texas GOP Senate Nominee Ken Paxton Photographed In London With His Alleged Christian Influencer Mistress O... - uPolitics",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNTBIZHFFa2FWWm03QzZtckFJSEZNak9raTVVcVZqdE0yc09XZU5kZWxCaFFUT0JQdm1yZkVPNUstQmxsbkNEdFRrdnNyRndqSkdvLTNROFBUdTBFMlVnWmJaY2lnZW1QX1ExWlBDZ05sejgxdmdHdkszSFJzd01XTVpRYzY2dndRaVY3WDkxcHZGWU5GVWEzbmFlUXhRdDUxVVhyTmVHRHVCclFlemNkWmZleXJTb0cxN2o2Ti1pY0kteWE1dXAyamxvcnhVOVUySzlGNGlENXUzZWPSAeABQVVfeXFMT1YwZEYzb3VUSXE3dTZHUUUwSy1fMWMtRlNWRGpYOVhfY1FPS29zRDVUcVdXSWtrRVFaQWN2YkN2QkxJb1ZCZzBLZHliUmFISFFCdmp6dS1vRGQ1d0xIc2dWOWJTVzEweGhXVlJpMzNib24xcFBWODE0QzllVjBpZGtyOWZLazBNWVlUQkJwZUZRa05FT2RmNk53Y2hZc2NlR0d4VWVTVWpGZ2o0OE0xRnllUHFBaWp5M19SN19HMDFGR19WeXcxX1FqNzM2LW1qck91bGh3X3R2a0JkZDR2dUE?oc=5",
@@ -1827,32 +1845,14 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "Ted Cruz warns Talarico has “real chance” to beat Paxton - The Texas Tribune",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUkZmM3kwZ3VsdC1iOEdtX1JHS1J3cjBUbUEyMFV4MktjRXphMzBuUVBob3hiejJtUENMT2hKQ3FIUGFSejJhbTZMWHdXSllYelZDXzZ4V21INGRsTkxRQnJHOHA5VE9saFFCRmtFNURNQzV1cGViVzdWWnMzZllwalp1QU5GSC1OM0VWd2x1LU9NeXAtLXN4elJ1T0c?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 17:07:18 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.047,
-        "negative": 0.953,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W28": {
       "paxton": {
-        "positive": 4,
+        "positive": 5,
         "negative": 5,
-        "total": 9
+        "total": 10
       },
       "talarico": {
         "positive": 19,
@@ -1866,8 +1866,8 @@
       },
       "both": {
         "positive": 16,
-        "negative": 18,
-        "total": 34
+        "negative": 17,
+        "total": 33
       }
     },
     "2026-W27": {
