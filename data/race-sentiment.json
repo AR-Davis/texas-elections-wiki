@@ -1,9 +1,63 @@
 {
-  "analyzedAt": "2026-07-14T02:50:51.486Z",
-  "newsFetchedAt": "2026-07-14T00:58:24.277Z",
+  "analyzedAt": "2026-07-14T05:35:59.401Z",
+  "newsFetchedAt": "2026-07-14T04:11:14.988Z",
   "totalAnalyzed": 100,
   "newThisRun": 3,
   "stories": [
+    {
+      "title": "Report raises questions over Attorney General Ken Paxton’s voter registration - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSkltV2pqVmJ6ZmJvOUJhWVVtUUFqdU94Uk1JanNKWmdMODkzUFJxNnVBaEczajhab0p1LUZKUUtSUUpCc2RsVUlyeFRXZ1dicWFIOVdZbUZQMUJZcmcwSHdjd0tQVGVoR2tReURhY2k1UXk5a3NTem9BczNzbmpoZjdHZnhoVTllaWIyZks0OGczSldwUXBOaURHdGZ2T0dCVW01YVVHejVmUQ?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 01:45:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "attorney general"
+      ],
+      "sentiment": {
+        "positive": 0.781,
+        "negative": 0.219,
+        "label": "positive"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "Here's how James Talarico says he would approach border security and immigration - Austin American-Statesman",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc3VnVUpwODcySHIzQmtyOENjOGJ2UjhHMGlUQVhISGZRa0V5b2RYZ1lNQjlFdDJ1WE9naFVwYXdMZ2YzRFh0Z1VmRXVuc3NJcWdOVE9WUXh2eWIwTTRSZUt2YnhqazJyOVhGZkR2b280OGZfUHpuVE5rSEQ2Z1V3eVVkQnpJMVZkZXpCMXNKaFJuRUF6b2YycEtNcG8wLXFwaVRpXw?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 21:59:49 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.988,
+        "negative": 0.012,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "Texas U.S. Senate candidate Talarico holds border security press conference in Sanderson - CBS7",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYUNhSUc0OHhoM19JSldNaG1ObTNpQ1A0WWZyZm1fOENrZ25nTTdndUc1XzZJcVB3dEtFVDBXcHQ4OTVacy13VVY4RkNkWDE4U1hianEybTZKYll0a3NwcEpoTC01MVgtQnFVallrTXF3UUpqMllPU19pWlJqM3ZXQUdkVXlwMnhBUzcxN3ZjYldnbWdITXBWbWlEMzQyTi1wZzBtN2lSOHptdnlwUnhIa2oyQzZ6WHFBUnJnTmdWR2pGZ3dkNlpYcA?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 18:38:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "talarico"
+      ],
+      "sentiment": {
+        "positive": 0.246,
+        "negative": 0.754,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "Texas Republican U.S. Senate Candidate Ken Paxton Holds Rally in McAllen - C-SPAN",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZFljZ2dSMlNHWlpOdkNNbEZEOGlnTFNydlRUeXI2R2ptN1ZUQWFBRDJSak1ERjQ4VDhIV1I3WlVibkk3aHp1WkRDem1jZDNUQzZxS2I3VHdhbTJCbUN5SjFPN3VFd0NWS2hfQmxpLXdOcHVZZkFybmNvUW9vUThESGpnNUIyX0dfcDJfcFBJUWx2WElzSVJzNTI4bFZkVUVGS0RndWhIN2FPdDFhVWxzaThabElWSmwteGdSQmJxTQ?oc=5",
@@ -1787,76 +1841,19 @@
       },
       "candidate": "general",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "James Talarico raises over $30 million in second quarter, campaign says, more than triple Ken Paxton’s sum - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQeEcyQkdSTHYwRFJOSkFVakxUUW5WNDIxdkVTYWtWdDVmM1pYYl9kSDFySklQSXdKVkxfVzVaZzY5ZDVxQWtpZXhJdnRSaWhEclRXMUNxWW10djBwbW1MLVczazZ2Z2JBWUViaDMyMGlURFRMcGdJbmVhQTVoYzlLcVZRLXdheHU3bzc1cTJscUxuQ3l3czFtYUZPUk9hb1BJQzVTbVYyS3E3SVdCRWt1bUhSUUduZ2NxYnlyUlZ6TW1sV19PRXNFdkNCVTZqMklZemVBX1ZZazhnczJCTFVrZDNKZjdVRUlzNzI1YnlkSEd2TEli0gH0AUFVX3lxTFB4RzJCR1JMdjBEUk5KQVVqTFRRblY0MjF2RVNha1Z0NWYzWlhiX2RIMXJKSVBJd0pWTF9XNVpnNjlkNXFBa2lleEl2dFJpaERyVFcxQ3FZbXR2MHBtbUwtVzNrNnZnYkFZRWJoMzIwaVREVExwZ0luZWFBNWhjOUtxVlEtd2F4dTdvNzVxMmxxTG5DeXdzMW1hRk9ST2FvUElDNVNtVjJLcTdJV0JFa3VtSFJRR25nY3FieXJSVnpNbWxXX09Fc0V2Q0JVNmoySVl6ZUFfVllrOGdzMkJMVWtkM0pmN1VFSXM3MjVieWRIR3ZMSWI?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 13:42:49 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 23,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.779,
-        "negative": 0.221,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "GOP Texas Attorney General Ken Paxton, Who Railed Against ‘Illegal Voting,’ Appears To Have Rep... - uPolitics",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWndVQ0ZOc1hrcGQyYTVHa1BhRXlMcXFVai1uM0d1SUVSNTdrb244d2hBekdxMnJzSEtYSjQwNGl0SUxTZTEzRE1MSnUyWVhDQjd1UDA3clZISXZqSTJpcmhlV2dnM2c5OG04ZGpoY3dtS1NpVmpBLUI2YTR0a2NTOHdjODVxWWFJWEhQRjBBaFBaQ0FCNFBKVkVZdGotMHNYb28zeVZWVjBDZ2hGNWVnN3BudFdiOXRSc1F0djBYdE9EYWVoeW1iV29UQWQ4ZWVRanBOSVpPX0Fzb1RTQnpuWElhQWVNd9IB5gFBVV95cUxPWndVQ0ZOc1hrcGQyYTVHa1BhRXlMcXFVai1uM0d1SUVSNTdrb244d2hBekdxMnJzSEtYSjQwNGl0SUxTZTEzRE1MSnUyWVhDQjd1UDA3clZISXZqSTJpcmhlV2dnM2c5OG04ZGpoY3dtS1NpVmpBLUI2YTR0a2NTOHdjODVxWWFJWEhQRjBBaFBaQ0FCNFBKVkVZdGotMHNYb28zeVZWVjBDZ2hGNWVnN3BudFdiOXRSc1F0djBYdE9EYWVoeW1iV29UQWQ4ZWVRanBOSVpPX0Fzb1RTQnpuWElhQWVNdw?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 05:05:22 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "attorney general"
-      ],
-      "sentiment": {
-        "positive": 0.043,
-        "negative": 0.957,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "James Talarico Announces Record-Breaking $30 Million Raised in Second Quarter - Texas Metro News",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMWJvYjdaal9LcmI0WG43NUs3S21acnNjT1ZJRGREUW5aLTllLTVuMnZYSDJZT2ZMSXJvT3dmQnlTMGV0Q25hV2tVUVhuQVZySVhnUFZRb1VWX215aTZwUHhCcDJrelRYY1RmbUxGeVhINnVtM3BpQlZaVl9pYmRHLWZaY1hWMVp3YmJEQkxPeVdXTnMxM1lNMmZySHhuQjRZNllOWVFQTXh1MW40eTEyTw?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 12:54:57 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.996,
-        "negative": 0.004,
-        "label": "positive"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W28": {
       "paxton": {
-        "positive": 3,
-        "negative": 4,
+        "positive": 4,
+        "negative": 3,
         "total": 7
       },
       "talarico": {
         "positive": 19,
-        "negative": 23,
-        "total": 42
+        "negative": 24,
+        "total": 43
       },
       "general": {
         "positive": 7,
@@ -1864,9 +1861,9 @@
         "total": 12
       },
       "both": {
-        "positive": 17,
+        "positive": 16,
         "negative": 18,
-        "total": 35
+        "total": 34
       }
     },
     "2026-W27": {
