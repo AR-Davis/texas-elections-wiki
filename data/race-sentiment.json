@@ -1,9 +1,28 @@
 {
-  "analyzedAt": "2026-07-14T21:04:24.755Z",
-  "newsFetchedAt": "2026-07-14T17:42:13.927Z",
+  "analyzedAt": "2026-07-14T22:08:30.913Z",
+  "newsFetchedAt": "2026-07-14T21:05:06.691Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Texas Republican U.S. Senate Candidate Ken Paxton Holds Rally in McAllen - C-SPAN",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcVppVXZwTmo1cTFCVHdGNU9vV1ZIdlBKNGhTN3Robmp5SW1FWlp6ZGZXckFMMTFpYU9KeFE1TDFtVTVhNHQ2Nno2VlFCQndZekJqcFp3bjZYWHlQVmhoR0FDeW1URk5Db3pyY0ktVFlWSnpMRUQ4UXRFQ3l1ZnhGeWJPVWRZdHRlYXN0UExZZW9xa0E5YVA1ano0YnFQUDBCM0l2aGlRa1NyMW1zOTlsUWZKZG1sMnp3LS1uNQ?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 19:57:29 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas republican"
+      ],
+      "sentiment": {
+        "positive": 0.927,
+        "negative": 0.073,
+        "label": "positive"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "Texas Senate Race: Talarico's Focus on Black Community - Dallas Weekly",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRG1oSTBXcFRPLU1KQ09obDNyVlBkS0lIWGFtSGl5bmVzTTZIZzJHVEt3c09oVVgzUEhkdVQwNVRNdFVUVzFaMFl6VEhMRDNDR1B4dDNtbFRnb2FYREVyUTBCUHpvZlBQX2VHdGJDWDk2a1VzcGFOSlJrV2FLMGdMTXR1NA?oc=5",
@@ -1825,38 +1844,19 @@
       },
       "candidate": "both",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "Texas Democrat James Talarico Exposed His True Gun-Grabbing Intentions in 2020 Interview - breitbart.com",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ0JLR0FSNHpodXFBOEF5dkE1eFl4a3k2OXo1NTgyTFkyZzJaSmU4YWg3MEhGaTJULUNoRl9hTUNZWjhraTlsekc1a0FZMDlDQ2VWazdqWVFiX0tWcURlTFdTdEJIZG52SjN6dDlyNF9kRlNaQjdFbVpoeHdyNU9qaEhHYU56eHY5MWZJdUZWb3dfZ0FrTGc5ZS02NWJERnNBWmNlbURyNFFCdVAtb2JIOVpxYk1yQm0yZ2oyMzhMQ2FCYjNwQmc0LXFQU1V4dC1S0gHWAUFVX3lxTFByRkZPemFKdVZTbjF6SnpFSE5FUUpzUWVqYkVhaDRMNFlNNklFWDJGa21OQllueVNCa25oWTBuTXRHT0Q4OWo4UjlKbk13bzhqS2xzRl9kQTVHak80QVFDZklfYUFqbi1iYUxVbXl4NVZOQTVsQWxMNnk0V0gxdERXM1FBWGVuQzRVbDYzWmR2OEFVeEZnZGNEM2pqalBpemtjTjBTZFRNOWRWeUpOVnRLb1ZXOW1TUDYyZ1UtcjNGZk9HNHpiUEo1RmZUMEc4WWJrb1BQUXc?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 20:36:51 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas democrat"
-      ],
-      "sentiment": {
-        "positive": 0.045,
-        "negative": 0.955,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W28": {
+      "paxton": {
+        "positive": 6,
+        "negative": 6,
+        "total": 12
+      },
       "talarico": {
         "positive": 20,
-        "negative": 28,
-        "total": 48
-      },
-      "paxton": {
-        "positive": 5,
-        "negative": 6,
-        "total": 11
+        "negative": 27,
+        "total": 47
       },
       "both": {
         "positive": 14,
