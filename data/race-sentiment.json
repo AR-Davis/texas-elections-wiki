@@ -1,9 +1,65 @@
 {
-  "analyzedAt": "2026-07-14T15:26:18.570Z",
-  "newsFetchedAt": "2026-07-14T14:58:27.917Z",
+  "analyzedAt": "2026-07-14T16:46:27.694Z",
+  "newsFetchedAt": "2026-07-14T16:23:11.369Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Why everyone will bring Ken Paxton’s abortion record up in his Senate race - The 19th News",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2aktGY2RDbjhxeXJ4aTZ3c252UEpWQ1Izb3N5TDluSVN5b1dMZmVkTjRBSENNWHg5UmMtRFE0VXNZcDBJeXNzbmxqNHlmOW1sZm5qR2tFZWVjQzV2bmx6WmgtMTRWU0d2b3lWbmk5QUYwTG53aXdRR1ZmVlF2UQ?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 16:19:46 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.096,
+        "negative": 0.904,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "“He’s Failed the Character Test”: Talarico and Paxton Locked in Tight Senate Race - saobserver.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BUkJFdjBHSlpVY2hGaG50YjJCelpjamIySkw1ZmZxLTBZdS01NWVNZVg2bGIyaXFtbDIteXRhLU9MU0VrUE41WlVoRU94S2tsdWFZMW1Oc250N1F6LVRXT2lVSENVOUNBN3lLcE43WWg?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 12:49:06 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.001,
+        "negative": 0.999,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "James Talarico slams ‘corrupt’ Big Bend border wall on campaign trail - Marfa Public Radio",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWUc0c1hTY2Y1aUc2NDk5UGRNOURjNkF3blJwOVZuZHU1cU0wYnhKT1ZocGJrRzVFR1FQYzBsZy1XbVJDVF9Ca2s1ZU9qcGxmejllNDJXbTBaeDNjZFloWUplLWtKcVRHZ0tTaE9GcEZPQ3pwS0lmaGQ1c3hnZ1I0em5aWlZwM0NiSWRrTC10VUN3eG1TckE2M3RjTTFpcEEwZE42eGxNaThESnF1YVFsWklIN1dpVUE?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 21:40:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.006,
+        "negative": 0.994,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "Inside the Texas Senate Race Where Masculinity Became a Political Weapon - streamlinefeed.co.ke",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQelYtdlNTVnJnR1BwVTVHN0xxV1daN19GU1NsMlk1am1tYUVvUXFMbHFicHdsdzRDZ0ZLUy1UMG1NeklMZHk2a0ZTYmk2M1ZXSnJxV2VZc0lGaDlDeV9mWjdHNG5neDVDQVBMQWVhYldYSU4xMW9qOHFCRUlyVEE5RlhEWGJHbUMweG4xb0JNWEJYamtPaWhYNV9Wc3FQZEpRWG4xZmZENjItUQ?oc=5",
@@ -1787,94 +1843,36 @@
       },
       "candidate": "general",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "Ken Paxton vowed to crack down on ‘illegal voting.’ He may have violated Texas election law - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQODN0UlEtRkY3WERTRmdBZEE3VTZWQ3Y2WTZFMUxiQW9XbWs3cFptXzAzWVBwY0ZKdWtiaUlYT21ZLThQRU00ZDRYcUM0N3BkMGoybldtZXNwRkdsWmFpbjY2QTgyajRDd0NuWE5tSFVEY2pUNC0ybmlvckJFRTRkUzM5WGR1V2FweW9WMzJqQ05wUHkxTl9McEhGZ0pmS21kT1HSAaoBQVVfeXFMT19aRTRjUHpCQ1VvT1FVTW84OXJiUXJjR3hwaS0yeXFtUDZPWFFnQXB3WGFBZHA3TmtScXphVWhJZ25TLUZQUWZ6bE91VWRHSUU1NG5mUzFVdFFZaVVYc0ZJWXZvTFNvMnFZdXRPbnowOUFBeV9oMnRORDJYUHNESm9vTUtXZmR3c2dUR2V4VDlKckNNMmo5czQ1UlRSTEtCWkxIQTAyQTU0SHc?oc=5",
-      "pubDate": "Wed, 08 Jul 2026 12:00:33 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.008,
-        "negative": 0.992,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W27"
-    },
-    {
-      "title": "James Talarico outraises Ken Paxton by 3-1 margin in the race for US Senate - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRlNyRlNYQlNRQ0RiSlVsdkN3bXNWZjJSSi1NQTVsR1FnOExnUDltaVlVSGZsZC1xSXJvZlpQSEh6a2l6RldDenhsNHNrUTRhSk1OYnI4MFNRbDdjTnRPRlBZaUtDaDB0UTRMQWF5Q2RfbDVkaUJOb2tDZlRLODhlQXN1ekN4NDBkaFlSdlpPYlpBUi1mVFk0NDRXY3lUSjNucUlz?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 19:33:56 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 23,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.985,
-        "negative": 0.015,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "James Talarico outraises Ken Paxton by 3-1 margin in the race for US Senate - Austin American-Statesman",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTk9BOTVnV2d5bW9UQkdGVjMwVjN5QVlleWQ1Y0FXQmJEREJTQmhNTjFoTUM0cm5lRS1yOVM0cE9pNExCbjRuakFBc09hdjkxbEdJbU1VM21neXJ6bks3dFdZd211bnRsVW9WTkhzcFQxOEtkN19FeUdDOTdRVkl5WHpHX0M1dWdRcmxMYk4wOVBoZ3F4a3Z2ZlJR?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 16:11:12 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 23,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.985,
-        "negative": 0.015,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W28": {
+      "paxton": {
+        "positive": 5,
+        "negative": 6,
+        "total": 11
+      },
+      "both": {
+        "positive": 14,
+        "negative": 18,
+        "total": 32
+      },
+      "talarico": {
+        "positive": 19,
+        "negative": 27,
+        "total": 46
+      },
       "general": {
         "positive": 6,
         "negative": 4,
         "total": 10
-      },
-      "talarico": {
-        "positive": 19,
-        "negative": 26,
-        "total": 45
-      },
-      "paxton": {
-        "positive": 5,
-        "negative": 5,
-        "total": 10
-      },
-      "both": {
-        "positive": 16,
-        "negative": 17,
-        "total": 33
       }
     },
     "2026-W27": {
       "paxton": {
         "positive": 0,
-        "negative": 2,
-        "total": 2
+        "negative": 1,
+        "total": 1
       }
     }
   }
