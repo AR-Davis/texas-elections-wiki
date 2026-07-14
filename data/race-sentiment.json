@@ -1,9 +1,28 @@
 {
-  "analyzedAt": "2026-07-14T08:16:59.597Z",
-  "newsFetchedAt": "2026-07-14T06:35:58.282Z",
+  "analyzedAt": "2026-07-14T10:18:16.845Z",
+  "newsFetchedAt": "2026-07-14T09:08:41.106Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Texas GOP Senate Nominee Ken Paxton Photographed In London With His Alleged Christian Influencer Mistress O... - uPolitics",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNTBIZHFFa2FWWm03QzZtckFJSEZNak9raTVVcVZqdE0yc09XZU5kZWxCaFFUT0JQdm1yZkVPNUstQmxsbkNEdFRrdnNyRndqSkdvLTNROFBUdTBFMlVnWmJaY2lnZW1QX1ExWlBDZ05sejgxdmdHdkszSFJzd01XTVpRYzY2dndRaVY3WDkxcHZGWU5GVWEzbmFlUXhRdDUxVVhyTmVHRHVCclFlemNkWmZleXJTb0cxN2o2Ti1pY0kteWE1dXAyamxvcnhVOVUySzlGNGlENXUzZWPSAeABQVVfeXFMT1YwZEYzb3VUSXE3dTZHUUUwSy1fMWMtRlNWRGpYOVhfY1FPS29zRDVUcVdXSWtrRVFaQWN2YkN2QkxJb1ZCZzBLZHliUmFISFFCdmp6dS1vRGQ1d0xIc2dWOWJTVzEweGhXVlJpMzNib24xcFBWODE0QzllVjBpZGtyOWZLazBNWVlUQkJwZUZRa05FT2RmNk53Y2hZc2NlR0d4VWVTVWpGZ2o0OE0xRnllUHFBaWp5M19SN19HMDFGR19WeXcxX1FqNzM2LW1qck91bGh3X3R2a0JkZDR2dUE?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 04:13:53 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas gop"
+      ],
+      "sentiment": {
+        "positive": 0.346,
+        "negative": 0.654,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "Texas GOP Senate Nominee Ken Paxton Photographed In London With His Alleged Christian Influencer Mistress O... - uPolitics",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVjBkRjNvdVRJcTd1NkdRRTBLLV8xYy1GU1ZEalg5WF9jUU9Lb3NENVRxV1dJa2tFUVpBY3ZiQ3ZCTElvVkJnMEtkeWJSYUhIUUJ2anp1LW9EZDV3TEhzZ1Y5YlNXMTB4aFdWUmkzM2JvbjFwUFY4MTRDOWVWMGlka3I5ZktrME1ZWVRCQnBlRlFrTkVPZGY2TndjaFlzY2VHR3hVZVNVakZnajQ4TTFGeWVQcUFpankzX1I3X0cwMUZHX1Z5dzFfUWo3MzYtbWpyT3VsaHdfdHZrQmRkNHZ1QdIB4AFBVV95cUxPVjBkRjNvdVRJcTd1NkdRRTBLLV8xYy1GU1ZEalg5WF9jUU9Lb3NENVRxV1dJa2tFUVpBY3ZiQ3ZCTElvVkJnMEtkeWJSYUhIUUJ2anp1LW9EZDV3TEhzZ1Y5YlNXMTB4aFdWUmkzM2JvbjFwUFY4MTRDOWVWMGlka3I5ZktrME1ZWVRCQnBlRlFrTkVPZGY2TndjaFlzY2VHR3hVZVNVakZnajQ4TTFGeWVQcUFpankzX1I3X0cwMUZHX1Z5dzFfUWo3MzYtbWpyT3VsaHdfdHZrQmRkNHZ1QQ?oc=5",
@@ -1826,31 +1845,14 @@
       },
       "candidate": "both",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "Democrat Graham Platner says he plans to withdraw from Maine Senate race after sexual assault claim",
-      "link": "https://apnews.com/article/graham-platner-sexual-assault-maine-senate-campaign-a4c732f54ad999abcb73f1854351187f",
-      "pubDate": "2026-07-09T18:18:32.516Z",
-      "feedSource": "politics",
-      "raceScore": 3,
-      "matchedKeywords": [
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.005,
-        "negative": 0.995,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W28": {
       "paxton": {
         "positive": 4,
-        "negative": 4,
-        "total": 8
+        "negative": 5,
+        "total": 9
       },
       "talarico": {
         "positive": 19,
@@ -1859,8 +1861,8 @@
       },
       "general": {
         "positive": 6,
-        "negative": 5,
-        "total": 11
+        "negative": 4,
+        "total": 10
       },
       "both": {
         "positive": 16,
