@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-07-15T08:24:18.288Z",
-  "count": 23,
+  "fetchedAt": "2026-07-15T10:22:24.992Z",
+  "count": 24,
   "feedsChecked": 8,
-  "itemsScanned": 180,
+  "itemsScanned": 177,
   "items": [
     {
       "title": "Utah donors double down on Ken Paxton as Texas Senate race fundraising soars - Yahoo",
@@ -51,18 +51,6 @@
       "pubDate": "Mon, 13 Jul 2026 16:32:00 GMT",
       "feedSource": "google-news-race",
       "raceScore": 18,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate"
-      ]
-    },
-    {
-      "title": "Ted Cruz warns James Talarico has “real chance” to flip Texas Senate seat - Salon.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUlpHaG1MaDJ4NmptaWRYSkNDMGl6Z3EwTmhCTlNQMVZhSGhjdUV3OGtqclMtUUhuTjFQSmVpWE5SNG1PMkF5dXhKVjhSeVNuVlpCd1YxM0VyLUc2cl80VXNVS0s4NzNhQUxMS0VYa3JnV2oyMWpFWTFNQnpuMUR4djBZVUgyM0ZiSE9ua0tSXzRSQW16dHdBNjhac3haLUJCeHdEemRWLVA4VWRabXY3T0JvcWJZeXdG?oc=5",
-      "pubDate": "Sun, 12 Jul 2026 10:00:19 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
       "matchedKeywords": [
         "talarico",
         "james talarico",
@@ -155,7 +143,7 @@
     },
     {
       "title": "James Talarico slams ‘corrupt’ Big Bend border wall on campaign trail - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNVjFEclFoMTFUdmhlNkZkRTlDZG1pN0VMNHB2Nm1VaHNkOTBseUFTbmJVX0FmOTBIakJyUXVLMkw1eFdwUHM1WUlUc0hLQlpSVHNYblRVTThVNWVROWdqQXo3d1NiMkQ3YUxxbWIxRDJMVzNKSDZLUkZLRGVydXJlMGpFRTdXSkYyVXNBakZmUXZObFVTVlM3dkgxbm9tUXRwX3RrV3B2R19kY2tMSDRDM0pGcEJpZHMyMzlDVmc0dVdjWnBnOVNwUEpjYldlNl9RcTVUWE1oRUh0dUdZOXJkRzhNYWhqSVVONHcyT2dHbEhvanVqeGg5R3VMb1ZuMWo4NDNzQkludGdQcXNFVlRrTWZfVHFFMmZwaWs3M0JEbGhSUnhLS1lSbjBmUzY1WDFuelVZMmdBaHBNZmNqa1lNSmczLU04T0VlNGctdkJmZWlPbkw1aFItWEdyaHVGd2ZX0gHgAkFVX3lxTE1WMURyUWgxMVR2aGU2RmRFOUNkbWk3RUw0cHY2bVVoc2Q5MGx5QVNuYlVfQWY5MEhqQnJRdUsyTDV4V3BQczVZSVRzSEtCWlJUc1huVFVNOFU1ZVE5Z2pBejd3U2IyRDdhTHFtYjFEMkxXM0pINktSRktEZXJ1cmUwakVFN1dKRjJVc0FqRmZRdk5sVVNWUzd2SDFub21RdHBfdGtXcHZHX2Rja0xINEMzSkZwQmlkczIzOUNWZzR1V2NacGc5U3BQSmNiV2U2X1FxNVRYTWhFSHR1R1k5cmRHOE1haGpJVU40dzJPZ0dsSG9qdWp4aDlHdUxvVm4xajg0M3NCSW50Z1Bxc0VWVGtNZl9UcUUyZnBpazczQkRsaFJSeEtLWVJuMGZTNjVYMW56VVkyZ0FocE1mY2prWU1KZzMtTThPRWU0Zy12QmZlaU9uTDVoUi1YR3JodUZ3Zlc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQckk2V0UzallCVUZUWmRkYTRzWmxKWE0yRnlGYTg4RjNSTVVVOGx5am1VRS1SU01BdV9ZNHdVdDNZeU05bmhqY0hTd3NJaTE5LWE3QkZfcGMwNHUwT0ViOUFxalRFRnlsQjJsQmxxQWsxRG1fYnFWc0RDYWp5UlRhOUxVNDlmdWhDRGNIRzgxb3pSSkFOVERxcTZSakFSUUQ1anNfaTd5NS1LZmFMM2dqLUxKYVRnZjRfU3pRUU9Tcll2NnRNelhFUkZaZVZsV3FtZ0w1ZzA4YjFITFVLTGl2SDJ1WElHOFMyaUJUd0IwMURqai1BTWtj0gH3AUFVX3lxTFBySTZXRTNqWUJVRlRaZGRhNHNabEpYTTJGeUZhODhGM1JNVVU4bHlqbVVFLVJTTUF1X1k0d1V0M1l5TTluaGpjSFN3c0lpMTktYTdCRl9wYzA0dTBPRWI5QXFqVEVGeWxCMmxCbHFBazFEbV9icVZzRENhanlSVGE5TFU0OWZ1aENEY0hHODFvelJKQU5URHFxNlJqQVJRRDVqc19pN3k1LUtmYUwzZ2otTEphVGdmNF9TelFRT1NyWXY2dE16WEVSRlplVmxXcW1nTDVnMDhiMUhMVUtMaXZIMnVYSUc4UzJpQlR3QjAxRGpqLUFNa2M?oc=5",
       "pubDate": "Tue, 14 Jul 2026 13:40:47 GMT",
       "feedSource": "google-news-texas",
       "raceScore": 12,
@@ -166,7 +154,7 @@
     },
     {
       "title": "How suing Biden more than 100 times fueled Ken Paxton’s rise and reshaped Texans’ lives - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPejA0TDk1by12UXNUNmFIRTlLdE1ROXRRMndQazd2Y01oUDBVVzl4NUNldGJpZXNfNDdlazBmejI1UkpRaEVTQm02MW00cXNjWDh3MF9paEdPM3hSV2tvVkEyb3Q1b0dGQ3BxVjBwUGpxNWc1dFhTT0dEV3hzblU0MDN4d0xzZjdJbnFGS3BYbUJlVEhiUDNuUmo0NFhuYjZMWXdOcWJibS1YWFBzbHZFQktmWEZmOHZlU0JUdUh5QU0tRGY2cXBWRkpjaEFjZUpmOXp4bU9VaFJZc295WURtc0JnMmFrckdubDFQMFZvSmtxbGdJUGxsTXhIUmliR3pnUXlkZUowVi1hTnpDRVlVb3lCRkF3OFJQUGdBUlpjVXphXzRONlY3N2VXNkhUaENNeXhNMGgzbExSaFNjUS1zNFVrcGlGQXhQeDF2aWMyZGZfX3ZWQ2t6S0JDVzVMdWc40gHgAkFVX3lxTE96MDRMOTVvLXZRc1Q2YUhFOUt0TVE5dFEyd1BrN3ZjTWhQMFVXOXg1Q2V0Ymllc180N2VrMGZ6MjVSSlFoRVNCbTYxbTRxc2NYOHcwX2loR08zeFJXa29WQTJvdDVvR0ZDcHFWMHBQanE1ZzV0WFNPR0RXeHNuVTQwM3h3THNmN0lucUZLcFhtQmVUSGJQM25SajQ0WG5iNkxZd05xYmJtLVhYUHNsdkVCS2ZYRmY4dmVTQlR1SHlBTS1EZjZxcFZGSmNoQWNlSmY5enhtT1VoUllzb3lZRG1zQmcyYWtyR25sMVAwVm9Ka3FsZ0lQbGxNeEhSaWJHemdReWRlSjBWLWFOekNFWVVveUJGQXc4UlBQZ0FSWmNVemFfNE42Vjc3ZVc2SFRoQ015eE0waDNsTFJoU2NRLXM0VWtwaUZBeFB4MXZpYzJkZl9fdlZDa3pLQkNXNUx1Zzg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNcWMyMUFTSVBfRFNYX3dXWkNRRk5JV2NEdzFRdlBkTGJlMzQ1TFdJUmlMRWZhLVV3OW1INFZ1bGVycDZDSFNINHpmd3JKTUdlUGtuaU5vWXpYcFJRYXEwdHFaR09QNHkwVjhMTktCQl8tUm0yYTlZNjZxdl9BQjNhZ0Y0b0pfd0FiWGFUQTFXS3lndlNFVUF4Tm9FZ19rV0FVSTZaSDBWNUkxY3ZheEljT24xV1BUbjNuczJNNVdBNXl3Q1JRblM5T3FkZ3JqU3RXN1h6TWlDMG9sa3JZbllPSEY1dFNpRGlWT0pfSkJSNHhDR2EtUDlB0gH3AUFVX3lxTE1xYzIxQVNJUF9EU1hfd1daQ1FGTklXY0R3MVF2UGRMYmUzNDVMV0lSaUxFZmEtVXc5bUg0VnVsZXJwNkNIU0g0emZ3ckpNR2VQa25pTm9ZelhwUlFhcTB0cVpHT1A0eTBWOExOS0JCXy1SbTJhOVk2NnF2X0FCM2FnRjRvSl93QWJYYVRBMVdLeWd2U0VVQXhOb0VnX2tXQVVJNlpIMFY1STFjdmF4SWNPbjFXUFRuM25zMk01V0E1eXdDUlFuUzlPcWRncmpTdFc3WHpNaUMwb2xrclluWU9IRjV0U2lEaVZPSl9KQlI0eENHYS1QOUE?oc=5",
       "pubDate": "Tue, 14 Jul 2026 13:36:27 GMT",
       "feedSource": "google-news-texas",
       "raceScore": 12,
@@ -190,6 +178,17 @@
       "title": "Here's how James Talarico says he would approach border security and immigration - Austin American-Statesman",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc3VnVUpwODcySHIzQmtyOENjOGJ2UjhHMGlUQVhISGZRa0V5b2RYZ1lNQjlFdDJ1WE9naFVwYXdMZ2YzRFh0Z1VmRXVuc3NJcWdOVE9WUXh2eWIwTTRSZUt2YnhqazJyOVhGZkR2b280OGZfUHpuVE5rSEQ2Z1V3eVVkQnpJMVZkZXpCMXNKaFJuRUF6b2YycEtNcG8wLXFwaVRpXw?oc=5",
       "pubDate": "Mon, 13 Jul 2026 21:59:49 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ]
+    },
+    {
+      "title": "Texas Skeptical of James Talarico's Chances, Despite Successful Fundraiser: 'Money doesn't matter. Votes do' - The Nerd Stash",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRjFLQ3QtcHFoWWRqYTNRQkFFS0hGQ2R5Nm1RTDdRRWVHSDJZVjM5Q3FDbmdTeURId2lCMmpRS3BRemU3N09JOFY4elI4RTFSMWxnNUVab0JjMF9UaFdPeHFob1Y3VXZoR1VDV2s0V0k4NWlNSVpBa3R1LWczNVJJbnJaMEt4N1RqVy13ZkZ0U29YZUk0dk1DYldPTXV3UUFnN1hMdE5Fb0V5RHdrOGswZGFJRU5DZkdmM0lOaU5vZk0tbzRXbVE?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 20:55:59 GMT",
       "feedSource": "google-news-race",
       "raceScore": 12,
       "matchedKeywords": [
@@ -272,6 +271,17 @@
       "matchedKeywords": [
         "talarico",
         "texas senate"
+      ]
+    },
+    {
+      "title": "New polling shows Talarico leads Paxton among Hispanic business owners - MS NOW",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNUxfSHdPdUZJWmF4bG9naFlpZmJXNE9jNWdrTVVZNDhrOGJZdC0xMkJtM1p6eVNXdFMteWszOVVkanVjZlJrT1NVOWgxdnVvTjNDOEQ4U1FzQ2ZyZ0lSZnBtZlVWYWJMUHJESkEtT1JsUnh5TV83LWhzZUhlVlViekMwWlFhdWJRUGg2X2RFRU45UE04YTNobnhn?oc=5",
+      "pubDate": "Sun, 12 Jul 2026 21:06:20 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 10,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
       ]
     }
   ]
