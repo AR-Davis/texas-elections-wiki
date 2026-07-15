@@ -1,9 +1,48 @@
 {
-  "analyzedAt": "2026-07-15T06:37:00.804Z",
-  "newsFetchedAt": "2026-07-15T05:54:23.097Z",
+  "analyzedAt": "2026-07-15T09:12:03.482Z",
+  "newsFetchedAt": "2026-07-15T08:24:18.288Z",
   "totalAnalyzed": 100,
-  "newThisRun": 8,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Utah donors double down on Ken Paxton as Texas Senate race fundraising soars - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVHpFdVdpSmJ3OTJ6NWdCNFRTeldQQWxvMDgzZnRIR2w0MTF2bmd3U2ZTaGdOT1JZZ3hyYmx0S19kYzBZTldBajNJZlpadTNWMDlpcEFoZWw4VHFidDBycEJuSVZNa0N6T1lwTlAxLU5fX1o2a2N2QTk1Sk9wUVBDT3djWmFRcF82WG43czNjX2k?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 00:31:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.035,
+        "negative": 0.965,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "Texas senate candidate Talarico holds border security press conference in Sanderson - CBS7",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQamVKa3RIcFB4WUdYRzZSY05JLUhDcmlRbEhzMk8zc1BMSV9KVUNhT0pvTlA0UVdrUHFZR0sybFFBTlN1Tmk4b3dSaXIxTGVwRzgtd0V4aHlVbzdzQl96YzN4UW1uMUFzZzJndWgydVRyZDRmN0VQeWhJUS0xNl9CTVVyOC01QTVaS1QzTXQ1V0RYdTc5RGVjSHJ4YnJyTDF0NGhMOFpLMDZ2Qmo4amltX1RNREHSAcgBQVVfeXFMTUdWNE40cnpmRnBFd3hxWUJERnVxb0xkbUhrZzRNRlIySmZxcF9Mc2N6cm1WcDZOaG1rX01icHM3Vk8xaWRXMVV3MXdUWjhZLTNrWWNYdmRBNGt6djZoa1hQbU9SZ1psUFh5V2hSZS1UU3dhbW1MMmltZXVaSjVlSm5uMlNnanBjTGZtNzMyUlFGSUwwLTdqUjRnNmVGdzFPTTFDUEpYbTRORC1RemlTR1ZHWml5WnA4VGk0WldLLTBKOEw2OXJwZ08?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 16:40:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate"
+      ],
+      "sentiment": {
+        "positive": 0.16,
+        "negative": 0.84,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "How suing Biden more than 100 times fueled Ken Paxton’s rise and reshaped Texans’ lives - Houston Public Media",
       "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPejA0TDk1by12UXNUNmFIRTlLdE1ROXRRMndQazd2Y01oUDBVVzl4NUNldGJpZXNfNDdlazBmejI1UkpRaEVTQm02MW00cXNjWDh3MF9paEdPM3hSV2tvVkEyb3Q1b0dGQ3BxVjBwUGpxNWc1dFhTT0dEV3hzblU0MDN4d0xzZjdJbnFGS3BYbUJlVEhiUDNuUmo0NFhuYjZMWXdOcWJibS1YWFBzbHZFQktmWEZmOHZlU0JUdUh5QU0tRGY2cXBWRkpjaEFjZUpmOXp4bU9VaFJZc295WURtc0JnMmFrckdubDFQMFZvSmtxbGdJUGxsTXhIUmliR3pnUXlkZUowVi1hTnpDRVlVb3lCRkF3OFJQUGdBUlpjVXphXzRONlY3N2VXNkhUaENNeXhNMGgzbExSaFNjUS1zNFVrcGlGQXhQeDF2aWMyZGZfX3ZWQ2t6S0JDVzVMdWc40gHgAkFVX3lxTE96MDRMOTVvLXZRc1Q2YUhFOUt0TVE5dFEyd1BrN3ZjTWhQMFVXOXg1Q2V0Ymllc180N2VrMGZ6MjVSSlFoRVNCbTYxbTRxc2NYOHcwX2loR08zeFJXa29WQTJvdDVvR0ZDcHFWMHBQanE1ZzV0WFNPR0RXeHNuVTQwM3h3THNmN0lucUZLcFhtQmVUSGJQM25SajQ0WG5iNkxZd05xYmJtLVhYUHNsdkVCS2ZYRmY4dmVTQlR1SHlBTS1EZjZxcFZGSmNoQWNlSmY5enhtT1VoUllzb3lZRG1zQmcyYWtyR25sMVAwVm9Ka3FsZ0lQbGxNeEhSaWJHemdReWRlSjBWLWFOekNFWVVveUJGQXc4UlBQZ0FSWmNVemFfNE42Vjc3ZVc2SFRoQ015eE0waDNsTFJoU2NRLXM0VWtwaUZBeFB4MXZpYzJkZl9fdlZDa3pLQkNXNUx1Zzg?oc=5",
@@ -1792,70 +1831,29 @@
       },
       "candidate": "both",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "Republicans have beef with Texas Rep. James Talarico – why does meat matter in US politics? - Shelby News",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOUDF1Z0VOM1VPQURrRVJYM0xPT1BBZ1pDR3h2dVJabURwaXdjZ3NzQmZUT3Q2c3lCOHAzVDVDNHNyc0hPS1c5YzRPOWNCNUM4MlNrY0IxenJidGhNeTVQek9YTFBzTHMwbDAxRnpQRFVKQjdOOXd5V3l5X0dpRDNBQk1WS3BnNldPVTB6WTBkVXhjUHlYb05mUnlDTGpRTDI1STllYzJOb3c4SmVoeEtyYnFEVFJWc2xibmdVY3R4cW1QVGxhTDFZTkR1Wk5oR1ctdVozb2VMYzNWb1JUb19jS2lqc3lhQnZNWG1HQWtHLVJGTEtSQU5wdy1CM1F4ejdFdXJYMlJhZ0JTdw?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 13:04:09 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.046,
-        "negative": 0.954,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "James Talarico Tops $30 Million as Ken Paxton Faces Fundraising Gap in Texas Senate Race - NewsBreak: Local News &amp; Alerts",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTG15cmdUOER0SmZ1QXRpTWZpYkthSTYyTER0WHIyMDhNUHRzZExEempCczZtNDB4eVlxc19ZMXA5ODRLcGE2UVJxWXluRExmLXEzMHRIQ2lrSU1wMUo2RUJTWHpIdTJTMDdHWS10SzVLVU1mVVZnNUhuTzBLMFJ5SktLdUEzU2FxMnVRR3RTLVo1Vk5aVXI5cEtSR3BHVzR3RVhiX21HT045YUd4YU1IeDhfdl9BWWpHRXI4UUcwWEwwbnpqcjJlMGF2TFp2a2w5NjFUMnFZdWFiajFhQWgzSlpOdGluRlpsZG9LaDZJdnQ?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 14:30:54 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 38,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.09,
-        "negative": 0.91,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W28": {
       "paxton": {
         "positive": 9,
-        "negative": 6,
-        "total": 15
-      },
-      "general": {
-        "positive": 6,
-        "negative": 9,
-        "total": 15
+        "negative": 7,
+        "total": 16
       },
       "talarico": {
         "positive": 19,
         "negative": 23,
         "total": 42
       },
+      "general": {
+        "positive": 6,
+        "negative": 9,
+        "total": 15
+      },
       "both": {
         "positive": 13,
-        "negative": 15,
-        "total": 28
+        "negative": 14,
+        "total": 27
       }
     }
   }
