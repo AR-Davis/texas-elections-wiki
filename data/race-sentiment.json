@@ -1,9 +1,30 @@
 {
-  "analyzedAt": "2026-07-15T17:48:57.959Z",
-  "newsFetchedAt": "2026-07-15T16:04:28.228Z",
+  "analyzedAt": "2026-07-15T19:18:43.368Z",
+  "newsFetchedAt": "2026-07-15T17:48:50.048Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Ken Paxton UNLOADS on Biden &amp; James Talarico at Explosive Texas Rally | Senate Race ERUPTS - Oneindia",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaGJsb3c5ZEhXSk5NMmQ5RUExaHl4UzhVdk5uRUE4bTE3M2JpSXU4YjFpa3B0Qk5qa3o1V0tHYkt3eUtLNTVPb29HM1FVaXVmaVdtZEhsaF9Mb3BYaHBnai01VWd3cm1uTXo0V1JWdUVoX3JNNEpuZDBJemhzbWRyclFJQ3ZKRzNlMXFxV0dXSmJhSENQenNUc0hDdDhiMDl0R001d2p3ZkxmcThkSkhRME81RUhfYjlQam9rN3RfU2xWSzV2VnJPaURfUQ?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 15:00:02 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.016,
+        "negative": 0.984,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "Independent Candidate Steve Clugston Fails to Qualify for Texas Senate Ballot - KETK.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVFRDZk5xdjR6Ql9qSjlVb2UyRUE1N3hBbHBMaEt4d3IweHkzWjN0WjRzSnBtWGtjYmVzYnpobzAyeS1rODBna0hJamtfTWdsVTQ3WDF5cGstaE5MelBQR2dMQ25IckF3SnFoaWYtdEZJdmpoLXVwQm01VDFLWjc4c1Y0VXk0Nkl1YTY0cFVrdjk5QnFReDljQXVoNElJMm1oWDlyMm93MHNSNmZQOG83WXFhS0Y?oc=5",
@@ -1809,29 +1830,15 @@
       },
       "candidate": "both",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "Texas Democrat blasts Ken Paxton over ‘sweetheart deal’ for convicted child abuser - OregonLive.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSTA3TUl0OXFPSllvbjZQWmJSclhraFlBME1fdzhZYnFDQVRYMWt5V3h5dXNFQkRtbGtqaTgydWxuZDNkb2RPWmxYbHJNZ1Z2cUhUOW81LVRiNW5YMGF1NUJ5TmtaNG96VV9pZkc4MXpSc3lpeWN6ZUxKQ1NOSFlRWFhTaU11d2Y2Tlc1Q2VnRGZFb1U0eWlOZ1oxN0JtX1luMUJHV2NpRGU2dk1Qb29rVTUzeC1aS1JqZXlQcXROSm5kOVE3Z1JfRw?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 14:28:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "texas democrat"
-      ],
-      "sentiment": {
-        "positive": 0.161,
-        "negative": 0.839,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W28": {
+      "both": {
+        "positive": 12,
+        "negative": 15,
+        "total": 27
+      },
       "general": {
         "positive": 6,
         "negative": 10,
@@ -1839,18 +1846,13 @@
       },
       "paxton": {
         "positive": 10,
-        "negative": 7,
-        "total": 17
+        "negative": 6,
+        "total": 16
       },
       "talarico": {
         "positive": 19,
         "negative": 22,
         "total": 41
-      },
-      "both": {
-        "positive": 12,
-        "negative": 14,
-        "total": 26
       }
     }
   }
