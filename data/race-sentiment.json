@@ -1,9 +1,48 @@
 {
-  "analyzedAt": "2026-07-15T00:51:46.382Z",
-  "newsFetchedAt": "2026-07-14T21:05:06.691Z",
+  "analyzedAt": "2026-07-15T04:08:37.146Z",
+  "newsFetchedAt": "2026-07-15T03:20:58.699Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Utah donors to host Ken Paxton for 2nd time as Texas Senate race breaks fundraising records - Deseret News",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWTFoQ1c5SHJjUS1iZFM5dnc2LWw4andiTEN4LU9uR2dtZk1MWTF5OXBUN3R6R053aTNIZnpoU0lEeEkwbkhxUlRZbS1ZWFlXbl9fZmM4Q0NUUUdkNUFtQXdKRVVreFdDbmJ5X3pzOFBUQUdYMWVsN3pzT2NOb284MldXbUY4OXZJV1ZDY1VmdVZ1UzNaQk5RZ0ZyV2daRnJrOGhIYkFsSlVOTjA3bTNuZFZDMWRGYVZ6RUxtRTNzN3cwQk4zTUp3emxjUUhZU0JLN0dYR1Nn?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 00:31:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.987,
+        "negative": 0.013,
+        "label": "positive"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "How suing Biden more than 100 times fueled Ken Paxton’s rise and reshaped Texans’ lives - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNcWMyMUFTSVBfRFNYX3dXWkNRRk5JV2NEdzFRdlBkTGJlMzQ1TFdJUmlMRWZhLVV3OW1INFZ1bGVycDZDSFNINHpmd3JKTUdlUGtuaU5vWXpYcFJRYXEwdHFaR09QNHkwVjhMTktCQl8tUm0yYTlZNjZxdl9BQjNhZ0Y0b0pfd0FiWGFUQTFXS3lndlNFVUF4Tm9FZ19rV0FVSTZaSDBWNUkxY3ZheEljT24xV1BUbjNuczJNNVdBNXl3Q1JRblM5T3FkZ3JqU3RXN1h6TWlDMG9sa3JZbllPSEY1dFNpRGlWT0pfSkJSNHhDR2EtUDlB0gH3AUFVX3lxTE1xYzIxQVNJUF9EU1hfd1daQ1FGTklXY0R3MVF2UGRMYmUzNDVMV0lSaUxFZmEtVXc5bUg0VnVsZXJwNkNIU0g0emZ3ckpNR2VQa25pTm9ZelhwUlFhcTB0cVpHT1A0eTBWOExOS0JCXy1SbTJhOVk2NnF2X0FCM2FnRjRvSl93QWJYYVRBMVdLeWd2U0VVQXhOb0VnX2tXQVVJNlpIMFY1STFjdmF4SWNPbjFXUFRuM25zMk01V0E1eXdDUlFuUzlPcWRncmpTdFc3WHpNaUMwb2xrclluWU9IRjV0U2lEaVZPSl9KQlI0eENHYS1QOUE?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 13:36:27 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.996,
+        "negative": 0.004,
+        "label": "positive"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "Texas Republican U.S. Senate Candidate Ken Paxton Holds Rally in McAllen - C-SPAN",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcVppVXZwTmo1cTFCVHdGNU9vV1ZIdlBKNGhTN3Robmp5SW1FWlp6ZGZXckFMMTFpYU9KeFE1TDFtVTVhNHQ2Nno2VlFCQndZekJqcFp3bjZYWHlQVmhoR0FDeW1URk5Db3pyY0ktVFlWSnpMRUQ4UXRFQ3l1ZnhGeWJPVWRZdHRlYXN0UExZZW9xa0E5YVA1ano0YnFQUDBCM0l2aGlRa1NyMW1zOTlsUWZKZG1sMnp3LS1uNQ?oc=5",
@@ -1804,64 +1843,24 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W27"
-    },
-    {
-      "title": "Cruz: Talarico Could Win Texas Senate Race - News Radio 1200 WOAI",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUHpZbFdTc1RYTTgyR0RnaFp6VTFfTXNaWTRRTnVzbU9xemdkby1SS1FvWnFKaDRKVFo2cEIzSnVzZjdmdkdHYXppWnllOGMtQy1sUmNWa2ZfRF9tdGVHSW9mZUI5bHhpVng3SjZCUEI0d0FjVDVpaTRHODhlQlFNX1g4NUowaXVDYm5uQmRnYmtHSUVmb01hWVJROE0zYjQ0azBoZ0FKbkd6UE5RcWNkR19nY1dVbkkwVFE?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 08:50:02 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.83,
-        "negative": 0.17,
-        "label": "positive"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "James Talarico urges Ken Paxton to release the ‘Hoffman Files’ after denied records request - KTSM 9 News",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTUxzajlDVGdTNjlDOW9XRW1pdHhNTkVFdTUwWUVqZXdXSjhpdzFhdy0wTkxIYm14UmV5Njlzc29BNERhSko3Z09ZR0RPRFpVb2s0U0RaS2UyTXZMX3pkRVA4RFNiaXB4dWdOUnpTbl9oZF8tRERkNU5DY2NSZlpQcWM3Y2lvdlMtXzRtVjF5MVVUWGpVNVBvT0F1TmREellMNUNtT3QyaXZrZmtLTU1IcUtMYllSRzhCZW12SXFSSXd1al9Qajh5VzZ6UTlWZ1h60gHQAUFVX3lxTE1NTHNqOUNUZ1M2OUM5b1dFbWl0eE1ORUV1NTBZRWpld1dKOGl3MWF3LTBOTEhibXhSZXk2OXNzb0E0RGFKSjdnT1lHRE9EWlVvazRTRFpLZTJNdkxfemRFUDhEU2JpcHh1Z05SelNuX2hkXy1ERGQ1TkNjY1JmWlBxYzdjaW92Uy1fNG1WMXkxVVRYalU1UG9PQXVOZER6WUw1Q21PdDJpdmtma0tNTUhxS0xiWVJHOEJlbXZJcVJJd3VqX1BqOHlXNnpROVZnWHo?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 20:17:46 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.006,
-        "negative": 0.994,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W28": {
       "paxton": {
-        "positive": 6,
+        "positive": 8,
         "negative": 6,
-        "total": 12
+        "total": 14
       },
       "talarico": {
-        "positive": 20,
+        "positive": 19,
         "negative": 27,
-        "total": 47
+        "total": 46
       },
       "both": {
         "positive": 14,
-        "negative": 17,
-        "total": 31
+        "negative": 16,
+        "total": 30
       },
       "general": {
         "positive": 5,
