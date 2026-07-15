@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-07-15T16:04:28.228Z",
+  "fetchedAt": "2026-07-15T17:48:50.048Z",
   "count": 24,
   "feedsChecked": 8,
-  "itemsScanned": 177,
+  "itemsScanned": 179,
   "items": [
     {
       "title": "Utah donors double down on Ken Paxton as Texas Senate race fundraising soars - Yahoo",
@@ -16,6 +16,20 @@
         "texas senate",
         "senate race",
         "texas senate race"
+      ]
+    },
+    {
+      "title": "Ken Paxton UNLOADS on Biden &amp; James Talarico at Explosive Texas Rally | Senate Race ERUPTS - Oneindia",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaGJsb3c5ZEhXSk5NMmQ5RUExaHl4UzhVdk5uRUE4bTE3M2JpSXU4YjFpa3B0Qk5qa3o1V0tHYkt3eUtLNTVPb29HM1FVaXVmaVdtZEhsaF9Mb3BYaHBnai01VWd3cm1uTXo0V1JWdUVoX3JNNEpuZDBJemhzbWRyclFJQ3ZKRzNlMXFxV0dXSmJhSENQenNUc0hDdDhiMDl0R001d2p3ZkxmcThkSkhRME81RUhfYjlQam9rN3RfU2xWSzV2VnJPaURfUQ?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 15:00:02 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "senate race"
       ]
     },
     {
@@ -268,16 +282,6 @@
       "matchedKeywords": [
         "paxton",
         "cornyn"
-      ]
-    },
-    {
-      "title": "Independent Candidate Steve Clugston Fails to Qualify for Texas Senate Ballot - KETK.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVFRDZk5xdjR6Ql9qSjlVb2UyRUE1N3hBbHBMaEt4d3IweHkzWjN0WjRzSnBtWGtjYmVzYnpobzAyeS1rODBna0hJamtfTWdsVTQ3WDF5cGstaE5MelBQR2dMQ25IckF3SnFoaWYtdEZJdmpoLXVwQm01VDFLWjc4c1Y0VXk0Nkl1YTY0cFVrdjk5QnFReDljQXVoNElJMm1oWDlyMm93MHNSNmZQOG83WXFhS0Y?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 23:46:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "texas senate"
       ]
     }
   ]
