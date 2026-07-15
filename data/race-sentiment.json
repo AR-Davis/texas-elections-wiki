@@ -1,9 +1,26 @@
 {
-  "analyzedAt": "2026-07-15T14:56:27.300Z",
-  "newsFetchedAt": "2026-07-15T14:21:52.690Z",
+  "analyzedAt": "2026-07-15T16:26:59.027Z",
+  "newsFetchedAt": "2026-07-15T16:04:28.228Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Independent Candidate Steve Clugston Fails to Qualify for Texas Senate Ballot - KETK.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVFRDZk5xdjR6Ql9qSjlVb2UyRUE1N3hBbHBMaEt4d3IweHkzWjN0WjRzSnBtWGtjYmVzYnpobzAyeS1rODBna0hJamtfTWdsVTQ3WDF5cGstaE5MelBQR2dMQ25IckF3SnFoaWYtdEZJdmpoLXVwQm01VDFLWjc4c1Y0VXk0Nkl1YTY0cFVrdjk5QnFReDljQXVoNElJMm1oWDlyMm93MHNSNmZQOG83WXFhS0Y?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 23:46:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "texas senate"
+      ],
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "Ken Paxton Campaign Rally Brings Republican Candidates to McAllen - Texas Border Business",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLUhidDZLOVVvcUQtVExueFRiQXZRVDcwcm9TTmtFRDVMRUxhRmkwVHVnWS1kd1JZZmk5ZV84WkFnRjZHR19yUnRiSHZObHlYZU0zWWhmSno4aUp3V0E2Sk1ZZ2tMRHVGQmJpZ2pYNktDd2h3ejF3LVRFenY2UmxaNnppel9oSUJEdlRZQzNhNEo0NDFjZ2hSNmlWc29rTjQ?oc=5",
@@ -1811,29 +1828,15 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "Top Texas Republican Says James Talarico is “Going to Hell For Sure” - Beliefnet",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNR2ZiVWczbm84R3RjUFRlSGxqbnAwUWZpRlkyYkw4Wm1pTXhHYVpBcTNyZGsyVXNmelVjRl92NFZmWElTSEZTXzhKOFZYeVpna3JYNmpYel9BUzdGN3ZkbVk4R1lhYVlHV3dKMXRGdHhRc2ZPZVlEMkVrNGtDdGl4c0RpN19TRVJic05LYi1hNWhoUTl3SktEOGZFYXBiTmJCQk5RMUxuRVNpRGhiRkRPVUlJdUlXc3M?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 12:58:48 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas republican"
-      ],
-      "sentiment": {
-        "positive": 0.043,
-        "negative": 0.957,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W28": {
+      "general": {
+        "positive": 6,
+        "negative": 10,
+        "total": 16
+      },
       "paxton": {
         "positive": 10,
         "negative": 7,
@@ -1841,13 +1844,8 @@
       },
       "talarico": {
         "positive": 19,
-        "negative": 23,
-        "total": 42
-      },
-      "general": {
-        "positive": 6,
-        "negative": 9,
-        "total": 15
+        "negative": 22,
+        "total": 41
       },
       "both": {
         "positive": 12,
