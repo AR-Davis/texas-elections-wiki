@@ -1,9 +1,67 @@
 {
-  "analyzedAt": "2026-07-15T20:35:01.923Z",
-  "newsFetchedAt": "2026-07-15T17:48:50.048Z",
+  "analyzedAt": "2026-07-15T21:33:04.866Z",
+  "newsFetchedAt": "2026-07-15T20:35:33.042Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Ken Paxton’s many real estate holdings become an issue in Texas Senate race - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORmJGSEpQc25QTUdIdDJrUGs5ZGR6TFQxcWZmZmZ3aFVMSmFDRnUtZGEzaEp3bXdRbkdwQkVzWnY1VVVaTVNsaGt3SzhkeDJWY3RHTzlud3A4WTN2bFhvbDBjM2hwekNheHJnWjRsV1l1V2w2bGlHQW15XzdUbS1CRHhRdzNGZmVfN0w4MzBUTTE?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 19:37:59 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.581,
+        "negative": 0.419,
+        "label": "neutral"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "NEW POLL: MASSIVE UPSET IN TEXAS SENATE RACE! (JUNE 2026) Aja Wilson (b6VWILcCs1) - Mshale",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhbTJqQ3pKdlJLZ2pBTlBLR0tBbXRXaWw5dDhYc2pQcl91Z0hCcVdTaG5sd1dQOWswX1B1R1ppaktLREt3ODZUNTg0SGoxV1U2bHF3UEswdGxLNDlUU3dseg?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 18:13:50 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.013,
+        "negative": 0.987,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W28"
+    },
+    {
+      "title": "Collin County Dems accuse Ken Paxton of voter fraud in formal complaint - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdmItM0JidENJdGQxSExMSFpTOVFTUkFXZk1KQl9NZ2RvNE12cFBValFwT05TM25vVVFmRC14ZWlxZHpoTk9TNk8xcWVDOTJtcTBsX01ud29KQXFIYXc3OVZQUS1qMGpYMEdGY0xzRVp2Q3RyNGZNQ3FjenNVSDlDb1lESUxNTWtvQnRjSVJMQ29tbTRMMUJ5ZC1vWW5ndjRUR1otdjR2TUhVV0UtWEZpaHl6STA0S1pubWNZaHFTeVRvblU1UGVuR0lmQnBxR09vUmZBV1BoTEQ5Y1dCaFZrcE5BaDZTNy10Z1VpUHoyTmHSAfABQVVfeXFMTXZiLTNCYnRDSXRkMUhMTEhaUzlRU1JBV2ZNSkJfTWdkbzRNdnBQVWpRcE9OUzNub1VRZkQteGVpcWR6aE5PUzZPMXFlQzkybXEwbF9NbndvSkFxSGF3NzlWUFEtajBqWDBHRmNMc0VadkN0cjRmTUNxY3pzVUg5Q29ZRElMTU1rb0J0Y0lSTENvbW00TDFCeWQtb1luZ3Y0VEdaLXY0dk1IVVdFLVhGaWh5ekkwNEtabm1jWWhxU3lUb25VNVBlbkdJZkJwcUdPb1JmQVdQaExEOWNXQmhWa3BOQWg2UzctdGdVaVB6Mk5h?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 18:20:37 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.002,
+        "negative": 0.998,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "Ken Paxton UNLOADS on Biden &amp; James Talarico at Explosive Texas Rally | Senate Race ERUPTS - Oneindia",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaGJsb3c5ZEhXSk5NMmQ5RUExaHl4UzhVdk5uRUE4bTE3M2JpSXU4YjFpa3B0Qk5qa3o1V0tHYkt3eUtLNTVPb29HM1FVaXVmaVdtZEhsaF9Mb3BYaHBnai01VWd3cm1uTXo0V1JWdUVoX3JNNEpuZDBJemhzbWRyclFJQ3ZKRzNlMXFxV0dXSmJhSENQenNUc0hDdDhiMDl0R001d2p3ZkxmcThkSkhRME81RUhfYjlQam9rN3RfU2xWSzV2VnJPaURfUQ?oc=5",
@@ -1773,81 +1831,24 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "As Paxton, Talarico report big fundraising totals, Adam Hoffman case hangs over US Senate race - KVUE",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPWVBhOVBwUHRKZzdsQWN3MUhoT1VvNVJlMlVFNTlUdktZc2JtTEV5YThERWNQMjN6OTZSYkpBZ1FtcTYtbng4YzRzR0NRWVFBajlGa29YWFNpR0tDeHNydjF5UUJvQkRMRUYzSGlwak50bS1ncjZINnNEdXYxM25GUkpnXzlvM1lRZnFCUHJMSW5nazdta2o3U1g2YkNaR0hLY0gwNlVrYS1JQUx0a01uUjhsbVpxTzZJeEdHd0g5T1RtOHR1MjVRb2JXbXZWWjN3Skt5NFVUZTZ0N0VTZXJ3YXZ0eGktTEtRM1lORFA0ZDNDUjlQZG52Z3dfWUl5RTVseXJhOWlEN1dtTmVn?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 22:34:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.009,
-        "negative": 0.991,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "Cruz: Talarico has ‘real chance’ to beat Paxton in Senate race - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52UGNjUGNhQnBzYV93Y2pZMGZiNEpDczVHaG5QQVJCWnBobE1TLUVQNkp6YXk4NnZXRDhGcmFJNVNuSTZEN1hHYlJJU19adW52bGtzeXFISTVaY1FpMWVWbDJROFdaLW85elZ4cXBoc1F1R0FPTHhfZUZ1NNIBgAFBVV95cUxPMEhlZ0xZT3lDRDdKQ3pQVDZEdTljUE53VkFrUHJwUVZDNVhBeWIwcVdSMmZ6Wl9qTEk0NUhZbGU0S3lKbm5RVmw5NkF3c2JUdzZlcHRhcXA4SUVKd3ZmLWtKWHVVLW1Uc09rTlBscVlPTnFpUFUyMHJUcHQtRThDdg?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 21:42:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.999,
-        "negative": 0.001,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "Talarico details tax plan, Paxton stays vague in Texas US Senate race - El Paso Times",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRWlOdjdFd19OdzJxZjVLQXdUS2hVUWlHczhna3YxR2tDblFTejkxVmpEMzdmT1J6WThYMDBoaDVQQmlpazZYOXE5SUk5NW5sNUlGcUVnZHdBREM0RzFIUGxNa1Y4NUFQNDhZSTR0ZlFnTGVpY0d2MVQ5eGtUY084ajFudmMxU0JSRVFndEVRcjZqbmNfbHRmXzdNZnFTZHYwMzlqZVRGaDlTa1ktVDhpNlM3bVJ6em1yTVEtbGE1dWFpS092UDVLOGZYMldXQ29PR2JZVDBvOWItM3hIcnpDS3dROGxOOVRHMHkzTEdUMkNOaGhG?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 16:08:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.006,
-        "negative": 0.994,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W28": {
-      "both": {
-        "positive": 12,
-        "negative": 15,
-        "total": 27
+      "paxton": {
+        "positive": 10,
+        "negative": 7,
+        "total": 18
       },
       "general": {
         "positive": 6,
-        "negative": 10,
-        "total": 16
+        "negative": 11,
+        "total": 17
       },
-      "paxton": {
-        "positive": 10,
-        "negative": 6,
-        "total": 16
+      "both": {
+        "positive": 11,
+        "negative": 13,
+        "total": 24
       },
       "talarico": {
         "positive": 19,
