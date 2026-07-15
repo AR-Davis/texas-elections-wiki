@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-07-15T14:21:52.690Z",
+  "fetchedAt": "2026-07-15T16:04:28.228Z",
   "count": 24,
   "feedsChecked": 8,
-  "itemsScanned": 175,
+  "itemsScanned": 177,
   "items": [
     {
       "title": "Utah donors double down on Ken Paxton as Texas Senate race fundraising soars - Yahoo",
@@ -216,17 +216,6 @@
       ]
     },
     {
-      "title": "Democratic Senate candidate James Talarico visits El Paso - El Paso Times",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOenAwWTlKN1o3Q2FtSi1qTE5nRVBIckI1OTA4Sl9HdlhmUHI3Mi1ZMUVubmdOdXlzVUtmMWRyMDNFNDZkZF9ZMkJPY25RWEhpTW5LRGFFME1PeWo4LWwwZnlLVEJzTUtCM2p3MGhpOVBKWkd3bEtYWENXeHRabThuTldpcVo4cWV5dXBOeUI1RnJZSGVBNl82NUNvRExMeUw4STh0VkFuWDF6aHdRWUhFT2Rxd0o4ZjNLOEhEdEtfWnJoMU1weTFkNUJpNHZGbFlOcEY3Vjhn?oc=5",
-      "pubDate": "Sun, 12 Jul 2026 15:47:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ]
-    },
-    {
       "title": "Texas senate candidate Talarico holds border security press conference in Sanderson - CBS7",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOODdSTTQ2ZzJyWHVkelBUS2ZJLTVwMW54VmJEVFlqbzhBbTlpS18wRXlvdVFkc0pNVGpFYS13WDRZSDVZT2FCcC1EVERGOFhqbDVfRXFOWEZuUlFaVFRzOHZRSjZfaWpBRWs1VllhQ09xNlNkcVVJTnhmbi1OZnl2UG51czhXNWRzQlNUSWdnZ0RpMnVuREJub0NaMHBqbkpBVWdKTEp2dlg0V3hrczhGTURIWXVDWnI1MjJZY096aURLanMy?oc=5",
       "pubDate": "Tue, 14 Jul 2026 10:20:00 GMT",
@@ -279,6 +268,16 @@
       "matchedKeywords": [
         "paxton",
         "cornyn"
+      ]
+    },
+    {
+      "title": "Independent Candidate Steve Clugston Fails to Qualify for Texas Senate Ballot - KETK.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVFRDZk5xdjR6Ql9qSjlVb2UyRUE1N3hBbHBMaEt4d3IweHkzWjN0WjRzSnBtWGtjYmVzYnpobzAyeS1rODBna0hJamtfTWdsVTQ3WDF5cGstaE5MelBQR2dMQ25IckF3SnFoaWYtdEZJdmpoLXVwQm01VDFLWjc4c1Y0VXk0Nkl1YTY0cFVrdjk5QnFReDljQXVoNElJMm1oWDlyMm93MHNSNmZQOG83WXFhS0Y?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 23:46:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "texas senate"
       ]
     }
   ]
