@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-07-15T12:53:06.886Z",
-  "newsFetchedAt": "2026-07-15T08:24:18.288Z",
+  "analyzedAt": "2026-07-15T14:56:27.300Z",
+  "newsFetchedAt": "2026-07-15T14:21:52.690Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Ken Paxton Campaign Rally Brings Republican Candidates to McAllen - Texas Border Business",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLUhidDZLOVVvcUQtVExueFRiQXZRVDcwcm9TTmtFRDVMRUxhRmkwVHVnWS1kd1JZZmk5ZV84WkFnRjZHR19yUnRiSHZObHlYZU0zWWhmSno4aUp3V0E2Sk1ZZ2tMRHVGQmJpZ2pYNktDd2h3ejF3LVRFenY2UmxaNnppel9oSUJEdlRZQzNhNEo0NDFjZ2hSNmlWc29rTjQ?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 13:21:13 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.999,
+        "negative": 0.001,
+        "label": "positive"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "Utah donors double down on Ken Paxton as Texas Senate race fundraising soars - Yahoo",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVHpFdVdpSmJ3OTJ6NWdCNFRTeldQQWxvMDgzZnRIR2w0MTF2bmd3U2ZTaGdOT1JZZ3hyYmx0S19kYzBZTldBajNJZlpadTNWMDlpcEFoZWw4VHFidDBycEJuSVZNa0N6T1lwTlAxLU5fX1o2a2N2QTk1Sk9wUVBDT3djWmFRcF82WG43czNjX2k?oc=5",
@@ -1812,33 +1830,14 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "Ted Cruz says Talarico has ‘a real chance’ against Paxton in U.S. Senate election - Austin American-Statesman",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbmZINUR3b1ZXY0xOVlIzWjVJc01IWkVZOG5vRnVuckhJWV9lR2N4VExtQmNRR3h6Tld4S0JmY0hVNlIybGdTVnBSa09VaW5DNWd3N1VObmsyYzZwNW54SV9LUlhvRXVvdllvVGJDam9WdWEtd0ZhaTNQeThNSlQ2Zm5WQ2h1ZmkwS3BwYXk5SFNMQXBDVlkwSy1TV0V4NHAwVVpFN1VnT09tVmZ6SGc?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 16:24:13 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate election"
-      ],
-      "sentiment": {
-        "positive": 0.996,
-        "negative": 0.004,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W28": {
       "paxton": {
-        "positive": 9,
+        "positive": 10,
         "negative": 7,
-        "total": 16
+        "total": 17
       },
       "talarico": {
         "positive": 19,
@@ -1851,9 +1850,9 @@
         "total": 15
       },
       "both": {
-        "positive": 13,
+        "positive": 12,
         "negative": 14,
-        "total": 27
+        "total": 26
       }
     }
   }
