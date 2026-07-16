@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-07-16T01:01:16.156Z",
-  "newsFetchedAt": "2026-07-15T23:31:35.339Z",
+  "analyzedAt": "2026-07-16T04:14:49.419Z",
+  "newsFetchedAt": "2026-07-16T03:15:37.593Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Texas Tech chair donated $275K to Ken Paxton day before AG intervened in Brendan Sorsby saga - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc1g4Zl9TbXFKdnNUSHo2UHF6b296ZmNrQldJUmNtNTR0S2NoaHZGY2I2RVM5czF1Z1R1S0ZtX2NUSWRMX2ZHbkZjQ1hzOEo2bExFejlkLXRzaldxYVB2dHBaaF9ReWVJU2xZZlJpdWlQdWRGU1gwX1huZnhfWm5waVdkdjdQS3VwOTVyX2RIaEFnVmt4ZEpTVEtIWTZ0TUM0S2c?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 01:01:57 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.07,
+        "negative": 0.93,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "Collin County Dems accuse Ken Paxton of voter fraud in formal complaint - KERA News",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPXzJfNV9KUXJyTzlRM3pYeFNKZUs5NXFTLTNMN29EMElEOE8yeTNuZVlLeHktXzh4X2gwQWFiaXZkaVlwd19qZWhDMTJFNjBPZFVlTDE3WG43Y3FncG9LMnNWbWo2REN1aTJERDJjbmlRWnhpUnBUMjU0YTF3MzNCbGpIYjEzampMNFlaMEZDdUxvSl9wcldCckhsLV84dmg3RC1pamhUeDRqNVFJYUdsc2FTS3BMS2VYQ1RsSnR3?oc=5",
@@ -1808,27 +1826,16 @@
       },
       "candidate": "both",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "Republicans have beef with Texas Rep. James Talarico – why does meat matter in US politics? - Iosco County News Herald",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeGtRejZPbnpGMjMtNkJJcHdqSEhScWt6ZlZobHN2d2dqU0RIOVA0b3RFN1VnWVpqcEsyMzVoQTd1MTVvbmZDd3ctSVVVX05ZYUI0aGpPbUF1S2k5amx4djRfMjFHdUdkM0U2LUpGa3VuT3FxOFdSbE5iaUpSblpaM0xJVS1FOWpQSDJCSm5Jam0?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 13:04:09 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.04,
-        "negative": 0.96,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
+    "2026-W29": {
+      "paxton": {
+        "positive": 0,
+        "negative": 1,
+        "total": 1
+      }
+    },
     "2026-W28": {
       "paxton": {
         "positive": 10,
@@ -1837,8 +1844,8 @@
       },
       "talarico": {
         "positive": 17,
-        "negative": 22,
-        "total": 40
+        "negative": 21,
+        "total": 39
       },
       "general": {
         "positive": 6,
