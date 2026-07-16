@@ -1,9 +1,46 @@
 {
-  "analyzedAt": "2026-07-16T13:01:55.500Z",
-  "newsFetchedAt": "2026-07-16T12:23:59.251Z",
+  "analyzedAt": "2026-07-16T15:09:13.849Z",
+  "newsFetchedAt": "2026-07-16T14:34:16.816Z",
   "totalAnalyzed": 100,
   "newThisRun": 2,
   "stories": [
+    {
+      "title": "Reid Hoffman Gives $10 Million To Texas Senate Candidate James Talarico’s Campaign - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ09mWlQ1MGpHQ1hibng3akxYUXZjMGRxaHpUeGMyOTliSTc2NHNsU1BJeDQ2YnFqR2RzWHlqc3p5QWViLWN5eVVWa2UycHlSaGUtYVgwc0otMDFrRm5wYzJZSWl3YVNDaGZDaXNsczBqMGdFaXhiWHV5bEttekI3cFBHRmZodm9CTFdYRDRseGstMDNtb05YbjFncy1oYTk4QnlTQXpOWUlXUGlwbWlCSDRieEZIeHNEQnQxcnFocGhJUG14TFpVeWt3?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 13:57:10 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate"
+      ],
+      "sentiment": {
+        "positive": 0.411,
+        "negative": 0.589,
+        "label": "neutral"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "Reid Hoffman Pumps $10 Million Into Talarico’s Texas Senate Bid - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORzRNSEx4dE9MUWZRTVpIY3BobXE1SUdmaG5uWTJMemozd3VDd2w2UFJEcEl2SEV6U1hMR3kya0J6MDVEVm55bEZSZnhoVzVTaTVZNUk1SEZzY2lxdEpCQml0dUxHRlpTUGZPSFQ1MmNfX1pQV09CNVh6YjhhandlM3RfSDUzYTFoVnhSeFY5NGNocFhZWFgxNzBUMnZFQmpIS2JHVlBSMmxDWDFNRUd3OWVFVHBoSG9ZNXllY2tIUUpOYTlSS1dHN1JFeFpLUQ?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 11:51:52 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate"
+      ],
+      "sentiment": {
+        "positive": 0.029,
+        "negative": 0.971,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "Collin County Dems want state to investigate whether Ken Paxton violated Texas election law - NBC 5 Dallas-Fort Worth",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPa2prOURzSEd4b2xkTnRZVk9CZXNsSm0wcDI1dk8zNnk2OHgySlJXZXpkMFpXc2pTMVJ4TGVYcVlKRHZFZ1BpaWVvbmt4enN2UnF5VmZKa2UwcGJnS2szZDhCWVp3cTNrN21KM0trUmdybW04a01mcXF0S191U2U0TFpiblBraE5NcVMtN0lqZlVNV0s1RTJnVTllaUZ1b01BRExRelJUZDhIUF84ZnBUNjVXdUNWV0xBdUhaRVVQUFBBYkhhN3RjVXRnU1lUUzYxRmVkRUNn0gHeAUFVX3lxTE5teWhDSTJ2TDFDRmVyd2QwTWNsNlZKVVBsZnpGM3FPaF9UZzU5N3JYUVVGQXVSckdVOG10TDJHMTY1S3g5S3Z4MWlwcGt0WnJFMkl5eUZWR3NfMVFqYlZsU3VOU0w2ZFdsRTdSZFotOEtZX1Z0NENqVTNJSmk5SkZ1V2ZtNURyc2pEM3VaeVYxbzRHOV9IdjY4bUxvSDZJSVRFSTdhNmZDaDlsdWthMXdHMDl1OVREVmxtX0NXVDRNMHFwNHlqVEVYMzZRUkNRMGJONFdCMFBUeDFkSGJBdw?oc=5",
@@ -1790,53 +1827,19 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "Victor Marx wins the Republican primary for Colorado governor",
-      "link": "https://apnews.com/article/election-colorado-republican-primary-marx-b570a0ebea909683fb7ae9559ea260e7",
-      "pubDate": "2026-07-11T08:21:07.931Z",
-      "feedSource": "politics",
-      "raceScore": 3,
-      "matchedKeywords": [
-        "republican primary"
-      ],
-      "sentiment": {
-        "positive": 0.999,
-        "negative": 0.001,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "Platner formally withdraws from Maine Senate race and Democrats announce process to name new nominee",
-      "link": "https://apnews.com/article/graham-platner-maine-senate-53839ed2762e9f84557a299ae922f2dd",
-      "pubDate": "2026-07-11T08:21:07.786Z",
-      "feedSource": "usnews",
-      "raceScore": 3,
-      "matchedKeywords": [
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.014,
-        "negative": 0.986,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W29": {
+      "talarico": {
+        "positive": 0,
+        "negative": 2,
+        "total": 3
+      },
       "paxton": {
         "positive": 0,
         "negative": 2,
         "total": 2
-      },
-      "talarico": {
-        "positive": 0,
-        "negative": 1,
-        "total": 1
       }
     },
     "2026-W28": {
@@ -1851,9 +1854,9 @@
         "total": 38
       },
       "general": {
-        "positive": 6,
-        "negative": 11,
-        "total": 17
+        "positive": 5,
+        "negative": 10,
+        "total": 15
       },
       "both": {
         "positive": 9,
