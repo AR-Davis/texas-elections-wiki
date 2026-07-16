@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-07-16T21:06:38.930Z",
-  "newsFetchedAt": "2026-07-16T20:27:57.517Z",
+  "analyzedAt": "2026-07-16T22:30:05.809Z",
+  "newsFetchedAt": "2026-07-16T21:38:11.857Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "James Talarico slams ‘corrupt’ Big Bend border wall on campaign trail - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTUUteFZra081dl9VLThReVVlLXhfajZMbjZoU1AzZWdVMF94NmtTY19Zb01OdWZfeGhnSmMybzVSR1F5MmpxU09CZGFwNW8wYzlKeW8xUlRrbW8wOG9YdkhiNlpudEM5WWMtTGdwSjZrQUdDM0lncWZ4ck9iTnFqTVZhYkRZd0NHWUl1QTJvdHhHbThzaHdmaEprNGI4S3haaGUwU1lmX0p3NHJfZlU1WUJ6Y2RxdjVwWDh3YU5MTXJIMlhXRmZSZm9xM3NnVVhrTnJ0anZPNnZyWUdIOFRkbXFUSVNnNGJERVR2SjdKNNIB9wFBVV95cUxQckk2V0UzallCVUZUWmRkYTRzWmxKWE0yRnlGYTg4RjNSTVVVOGx5am1VRS1SU01BdV9ZNHdVdDNZeU05bmhqY0hTd3NJaTE5LWE3QkZfcGMwNHUwT0ViOUFxalRFRnlsQjJsQmxxQWsxRG1fYnFWc0RDYWp5UlRhOUxVNDlmdWhDRGNIRzgxb3pSSkFOVERxcTZSakFSUUQ1anNfaTd5NS1LZmFMM2dqLUxKYVRnZjRfU3pRUU9Tcll2NnRNelhFUkZaZVZsV3FtZ0w1ZzA4YjFITFVLTGl2SDJ1WElHOFMyaUJUd0IwMURqai1BTWtj?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 13:40:47 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.012,
+        "negative": 0.988,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "Texas Senate candidate James Talarico joins Morning Joe for wide-ranging interview - MSN",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUDMzMUt4MlVJU3V1SWctTnhJdmpDM0Fsd0NWYVNJRkt6Rm9JelE4Z3NhaEtIUkkyLTU5UDh1VU9UeFhaWWpQUThydW1mdWpCUGw1ajJkS2t2WVRwQi1lYmFpc2w5eG13R01fTW9Xa3pZQ01McEN5S3NNOW5pZURzUFJwRkhQMmdYNk5fd2lsOHVZd1ptT3VpT1BwUWVNckdGTmlsN1NHUzVkcWhVVWdSOGtNbVdJMGVJTEludTMxTlVPQzlIS3FCSXZRdw?oc=5",
@@ -1833,26 +1851,31 @@
       },
       "candidate": "general",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "Midterm convention, Tarrant Republicans map strategy: The latest in Texas politics - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd0FWRFlXVl9HU24xN25kS2NWS3ZLOXhnSzN5MzY1Yy01Ml9KWFd1SE1URkY3S3VsMFBPTTI3Z0oxTE9xMFFwTkVpRW94azljQ1hiVklFSHRfYkNEWDAwbGZUVjE4SVpoQU1yOUZLQ0xtQzA0X3V1cWU3bTI0dkZXVWwtNjQ2RHRFUHc?oc=5",
-      "pubDate": "Sun, 12 Jul 2026 10:24:12 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "sentiment": {
-        "positive": 0.971,
-        "negative": 0.029,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
+    "2026-W28": {
+      "talarico": {
+        "positive": 9,
+        "negative": 19,
+        "total": 29
+      },
+      "paxton": {
+        "positive": 9,
+        "negative": 9,
+        "total": 19
+      },
+      "general": {
+        "positive": 3,
+        "negative": 10,
+        "total": 13
+      },
+      "both": {
+        "positive": 7,
+        "negative": 11,
+        "total": 18
+      }
+    },
     "2026-W29": {
       "talarico": {
         "positive": 1,
@@ -1868,28 +1891,6 @@
         "positive": 3,
         "negative": 8,
         "total": 11
-      }
-    },
-    "2026-W28": {
-      "paxton": {
-        "positive": 9,
-        "negative": 9,
-        "total": 19
-      },
-      "talarico": {
-        "positive": 9,
-        "negative": 18,
-        "total": 28
-      },
-      "general": {
-        "positive": 4,
-        "negative": 10,
-        "total": 14
-      },
-      "both": {
-        "positive": 7,
-        "negative": 11,
-        "total": 18
       }
     }
   }
