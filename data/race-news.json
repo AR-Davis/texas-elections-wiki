@@ -1,14 +1,28 @@
 {
-  "fetchedAt": "2026-07-16T17:47:15.946Z",
-  "count": 24,
+  "fetchedAt": "2026-07-16T19:21:24.887Z",
+  "count": 25,
   "feedsChecked": 8,
-  "itemsScanned": 191,
+  "itemsScanned": 186,
   "items": [
     {
       "title": "James Talarico challenges Ken Paxton to 3 televised Texas Senate debates - USA Today",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSDlua1hqRTl2TEMtTjhNUzh4amM5UVBiMnM1SDN3MWl5YV9wSVdIMi1ZWlR2M0c0T2lYaTlSS1JOWG9JdDJ1cktQTmw0VHZwajdPcjZZRVBKNHB1VW5YbW1xY0kwakFnbDRnTkxqOEJ4eGtNYVhpVmFBRmZ6QW55VFVxRWFCQ3l1cXplbWNJM3hkUXpQQ1lMUFlpa1dwUGNValdaQUoyOWNrOFd1ZmVVdmhNc2lPMThZU2hBWUVpS3ZyaU1kbkJZQVpaOGhPMkNnNXZNZlAwZzNNMUFTWGFB?oc=5",
       "pubDate": "Thu, 16 Jul 2026 16:45:00 GMT",
       "feedSource": "google-news-race",
+      "raceScore": 28,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "texas senate"
+      ]
+    },
+    {
+      "title": "James Talarico challenges Ken Paxton to 3 televised Texas Senate debates - The Patriot Ledger",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbXZtYW9kRUdhZGlZeldWaFNYNVMzMmdLOXdyblBrN19XMFp6SDd5VTluWVViQkFUbnVxdm1kN29NSUE4TTk1Sm9QcEZSSGtWSldsaDdZb01BdFVpUm83Vldka21jWmlFS0ZvWWdiVTI2ZkVjaXJwNDFFUmxSSmhzM19VbkdOREtNWTFIWDdkWHJTdUJPbFhRSmhVeFNJd2xxOWNwMFhod2lMWm0xejZwTnEyQWNuZVEtamV3VTNPT3pvS0k1cWZvY0Z3SXZDMkFKR05RRS0tN2I5MERkVjVsZVA4RHNzdw?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 16:45:00 GMT",
+      "feedSource": "google-news-texas",
       "raceScore": 28,
       "matchedKeywords": [
         "talarico",
@@ -90,7 +104,7 @@
     },
     {
       "title": "James Talarico challenged Ken Paxton to debates. Here’s the AG’s response - Fort Worth Star-Telegram",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeS1vOXRaRkNzbVlnY2lLbGpYcnZoUGRmQ0NES1hIN3QyVHY1MHozMDJHQ0xWOVN1WDdlR0JPQ2UtUWEtWC1XMjFZaDRuVWpwa002Yjk5d1VtWHNRZk1Cc2llSHBYS2pZcXNNbThaNzBnUUMyOWFqbnZkaHRadklsRll0QTBVZDZURDV5MmZTb0ZNUXVCbmfSAZYBQVVfeXFMT0VaLTN2d1ZkcWZPelBFT0lpOTNFT2RWMk9uLUJlUUZFX0VVS0hYZ3cyOXlva19rVzJIbEYyVUxtc1k1R0N2TXA4SUY2d0s0T0R0RDQxN1JMekR6bzBGWUx1VEFFaFA4N0dPMUtnWWNIeC16ZXF6VUI4dEdsSXIxZXV2b003YXNPbmdMVlV6dGV3Sk1WUGpn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRVotM3Z3VmRxZk96UEVPSWk5M0VPZFYyT24tQmVRRkVfRVVLSFhndzI5eW9rX2tXMkhsRjJVTG1zWTVHQ3ZNcDhJRjZ3SzRPRHRENDE3Ukx6RHpvMEZZTHVUQUVoUDg3R08xS2dZY0h4LXplcXpVQjh0R2xJcjFldXZvTTdhc09uZ0xWVXp0ZXdKTVZQamfSAZYBQVVfeXFMT0VaLTN2d1ZkcWZPelBFT0lpOTNFT2RWMk9uLUJlUUZFX0VVS0hYZ3cyOXlva19rVzJIbEYyVUxtc1k1R0N2TXA4SUY2d0s0T0R0RDQxN1JMekR6bzBGWUx1VEFFaFA4N0dPMUtnWWNIeC16ZXF6VUI4dEdsSXIxZXV2b003YXNPbmdMVlV6dGV3Sk1WUGpn?oc=5",
       "pubDate": "Thu, 16 Jul 2026 16:42:32 GMT",
       "feedSource": "google-news-texas",
       "raceScore": 23,
@@ -102,8 +116,8 @@
       ]
     },
     {
-      "title": "James Talarico Challenges 'Puppet Politician' Ken Paxton to 3 TV Debates: 'Prove Me Wrong' - TheWrap",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY2F4ZlpubnA2c0RoMm9BSDdBWkZqUXlKUi1zc1JSU2h6Vjd0eENZMUR6eXNMRTJSMVFWd0J5Q0JTT0xnM2hEN3VodXJLTUVzSE1BTEVsNlhZM1B5VWxoUVZfRWlFN0pXV3pTUjFGZkthZ3drUUtNTlVVUlZhMWNXNG5lNTJpR2owX2ozNllMaGdvTDRHa2RJbVA2NTU2WEFMeDFUUUNMQQ?oc=5",
+      "title": "James Talarico Challenges ‘Puppet Politician’ Ken Paxton to 3 TV Debates: ‘Prove Me Wrong’ - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDVRU2xpcDlBVkhSaHBlSjlyTTRYVmlZQ29MX0JyOXo3VjRhUThPazU5ZkptVXUxRWpuWERkRy1xTk13WWF4aUgtM0Ffb19SQ0JZSndTSndkMl9YX3VubFVuTG43YU5odGVnODJsNnI0OEhPNnNRaXZDaU5IQXdydkV6MjlKNjdyTU1RTlNYSWxjVWhHNEg5Mm9YN2JxTjk2VE5Pd0pB?oc=5",
       "pubDate": "Thu, 16 Jul 2026 15:09:08 GMT",
       "feedSource": "google-news-race",
       "raceScore": 22,
@@ -115,8 +129,8 @@
       ]
     },
     {
-      "title": "James Talarico Challenges ‘Puppet Politician’ Ken Paxton to 3 TV Debates: ‘Prove Me Wrong’ - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDVRU2xpcDlBVkhSaHBlSjlyTTRYVmlZQ29MX0JyOXo3VjRhUThPazU5ZkptVXUxRWpuWERkRy1xTk13WWF4aUgtM0Ffb19SQ0JZSndTSndkMl9YX3VubFVuTG43YU5odGVnODJsNnI0OEhPNnNRaXZDaU5IQXdydkV6MjlKNjdyTU1RTlNYSWxjVWhHNEg5Mm9YN2JxTjk2VE5Pd0pB?oc=5",
+      "title": "James Talarico Challenges 'Puppet Politician' Ken Paxton to 3 TV Debates: 'Prove Me Wrong' - TheWrap",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY2F4ZlpubnA2c0RoMm9BSDdBWkZqUXlKUi1zc1JSU2h6Vjd0eENZMUR6eXNMRTJSMVFWd0J5Q0JTT0xnM2hEN3VodXJLTUVzSE1BTEVsNlhZM1B5VWxoUVZfRWlFN0pXV3pTUjFGZkthZ3drUUtNTlVVUlZhMWNXNG5lNTJpR2owX2ozNllMaGdvTDRHa2RJbVA2NTU2WEFMeDFUUUNMQQ?oc=5",
       "pubDate": "Thu, 16 Jul 2026 15:09:08 GMT",
       "feedSource": "google-news-race",
       "raceScore": 22,
@@ -189,10 +203,10 @@
       ]
     },
     {
-      "title": "Talarico challenges Paxton to debates in US Senate race - KXAN Austin",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN0xfb0o3amFmaVN2LW1oWWpyeDN1R1pMdHZNT3FXWkJpM1lUYmgtc0VoSnZhSnJqRWlFNUR1MExLcG12N1ZKTm52T3l0UnhOaldDdFdiRFpiLXBNMU9Ud0ZmVE5iTEY5UXM1VWxaWVMtb1NMa3FGZ3Z2SVRBVXByc19ZV3ZXUUNfOGMtRGZOUTN0SzZOTFRzNlE2S2pRZ9IBowFBVV95cUxNajk2ZVZzV0NkRXk1NjJRem5lbldfbmVJYktkUHNrTGFJemtYdlFGaExzcUtScFhjZUp6dmtSOXNJQVVpSVdnZ0c5Z19xNjdvanBOQU1sSmVmNTY1MGJUWE4xM0lkXzREbXkxd21aR3JudmxYZ2FFYkMtSS1YMHBCaUl2UXdHalRHUktqbjZhZURzZ0RfX0JCLUpVLTc1TGFRc0d3?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 16:37:02 GMT",
-      "feedSource": "google-news-texas",
+      "title": "Talarico challenges Paxton to debates in US Senate race - CW39 Houston",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVEh6ejZTRWFhM2dZOFNwVkpjeUFaUGRHN0F2OUZabW44dGh0b2VFZHY3TzNlMkhsZ0lYNVVLN3JwQVBjSlZUN21SUl9OTnU5ZDZ4MjdBTlZBeHNxVF9TSFhnOUtUTzhJOXI5TERONy1QXzZJM25tWUowQjJtSko1dm1iQUZfWWZRdEZiR9IBkgFBVV95cUxQSjNSeWhLLXpheXo1c2lONjU2M2RBVk5LUF9FOEYyUmhaYjhHUUw0TjdTdF8yR2NWWEE3aThnWHljU2J3VGtPZHlONEpFNnFWNnFEMlNCUVRjVGhxU2JqazlxV0FmN2N0ZVBYVkVxMXlFN2p1V3JqcGs0MmY4cEpwWVoxZnk5cERhLWt0cVdqTWhoQQ?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 16:44:43 GMT",
+      "feedSource": "google-news-race",
       "raceScore": 14,
       "matchedKeywords": [
         "talarico",
@@ -224,6 +238,18 @@
       ]
     },
     {
+      "title": "Talarico challenges Paxton to debates in US Senate race - KTSM 9 News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUi1RcjItdjNFSEY0NDZXdXNaRkx3d2xnTHVOaHVkV3dRazExRnVfNW0xTkk0RWNoSUpJLUktTFpBcGoxVXFpUlhWY2tXZG9rUkJvYW5sUHl3el9Ha1lTNFNZQ0tIZnpZMmdtMVgxMDZlQ0tmME0zd1o3dXdJeEl1eUhsOUVCYy1NRF9fQWlyZ2xrM1I5ajRYc1g4RjJQRlhrUTFZ0gGjAUFVX3lxTE9SLVFyMi12M0VIRjQ0Nld1c1pGTHd3bGdMdU5odWRXd1FrMTFGdV81bTFOSTRFY2hJSkktSS1MWkFwajFVcWlSWFZja1dkb2tSQm9hbmxQeXd6X0drWVM0U1lDS0hmelkyZ20xWDEwNmVDS2YwTTN3Wjd1d0l4SXV5SGw5RUJjLU1EX19BaXJnbGszUjlqNFhzWDhGMlBGWGtRMVk?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 10:49:49 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ]
+    },
+    {
       "title": "Report raises questions over Attorney General Ken Paxton’s voter registration - Spectrum News",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSkltV2pqVmJ6ZmJvOUJhWVVtUUFqdU94Uk1JanNKWmdMODkzUFJxNnVBaEczajhab0p1LUZKUUtSUUpCc2RsVUlyeFRXZ1dicWFIOVdZbUZQMUJZcmcwSHdjd0tQVGVoR2tReURhY2k1UXk5a3NTem9BczNzbmpoZjdHZnhoVTllaWIyZks0OGczSldwUXBOaURHdGZ2T0dCVW01YVVHejVmUQ?oc=5",
       "pubDate": "Tue, 14 Jul 2026 01:45:00 GMT",
@@ -233,6 +259,17 @@
         "paxton",
         "ken paxton",
         "attorney general"
+      ]
+    },
+    {
+      "title": "Billionaire Reid Hoffman gives $10 million to super PAC backing James Talarico’s Senate bid - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObVBPSlNreWQ1d1RhWVY4RVBrUVNuWHA0U2hldDBmc1dfekJKZHB3SjlSVjd6c1VqRHVhNkswTzg5Y0xlanlyT2t2TFJPdGtPUW5CTzh5LW45c0V6bGp5d2hOc2x5XzVQaTRRNXhDUXF0Y3gtZ2VGOUFGTUo2eFVCSDlHM2NhaWZqWXNMd2hRb1RCdXVnQUFHUWg5eGVnMTEwdXZUekVNU0VyX2tNaHB5T29pcU5NSGk1SXRR?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 18:57:14 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
       ]
     },
     {
@@ -277,28 +314,6 @@
       "matchedKeywords": [
         "paxton",
         "ken paxton"
-      ]
-    },
-    {
-      "title": "How more than 100 lawsuits against Biden fueled Ken Paxton’s rise - The Texas Tribune",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRGpROHNlTmkySEU0a21yOXZ1NTFtLWFkY0l4ajAyT3dHdVM5MGlKY2FBcHA2dkhvWUs5cFRFN1JXeXMyLXhJWF92M2EzR3FkNmh5a1Zoa0ZkcWtnbDhxUHZkSTBGYkNfZFBfQTdNOGVlN2V2U1Bsa0NoUmFjamo5cGVTV21YZlQxRzd0Zk1iT3dGQU5NWmxpRlF2X0gxOFQ3ZnFQYTY4Vk1nRUg4?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 10:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ]
-    },
-    {
-      "title": "Here's how James Talarico says he would approach border security and immigration - Austin American-Statesman",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc3VnVUpwODcySHIzQmtyOENjOGJ2UjhHMGlUQVhISGZRa0V5b2RYZ1lNQjlFdDJ1WE9naFVwYXdMZ2YzRFh0Z1VmRXVuc3NJcWdOVE9WUXh2eWIwTTRSZUt2YnhqazJyOVhGZkR2b280OGZfUHpuVE5rSEQ2Z1V3eVVkQnpJMVZkZXpCMXNKaFJuRUF6b2YycEtNcG8wLXFwaVRpXw?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 21:59:49 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
       ]
     }
   ]
