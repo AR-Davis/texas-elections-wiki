@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-07-16T12:23:59.251Z",
+  "fetchedAt": "2026-07-16T14:34:16.816Z",
   "count": 24,
   "feedsChecked": 8,
-  "itemsScanned": 180,
+  "itemsScanned": 185,
   "items": [
     {
       "title": "Ken Paxton’s many real estate holdings become an issue in Texas Senate race - Yahoo",
@@ -72,6 +72,18 @@
       ]
     },
     {
+      "title": "Reid Hoffman Gives $10 Million To Texas Senate Candidate James Talarico’s Campaign - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ09mWlQ1MGpHQ1hibng3akxYUXZjMGRxaHpUeGMyOTliSTc2NHNsU1BJeDQ2YnFqR2RzWHlqc3p5QWViLWN5eVVWa2UycHlSaGUtYVgwc0otMDFrRm5wYzJZSWl3YVNDaGZDaXNsczBqMGdFaXhiWHV5bEttekI3cFBHRmZodm9CTFdYRDRseGstMDNtb05YbjFncy1oYTk4QnlTQXpOWUlXUGlwbWlCSDRieEZIeHNEQnQxcnFocGhJUG14TFpVeWt3?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 13:57:10 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate"
+      ]
+    },
+    {
       "title": "NEW POLL: MASSIVE UPSET IN TEXAS SENATE RACE! (JUNE 2026) Aja Wilson (b6VWILcCs1) - Mshale",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhbTJqQ3pKdlJLZ2pBTlBLR0tBbXRXaWw5dDhYc2pQcl91Z0hCcVdTaG5sd1dQOWswX1B1R1ppaktLREt3ODZUNTg0SGoxV1U2bHF3UEswdGxLNDlUU3dseg?oc=5",
       "pubDate": "Wed, 15 Jul 2026 18:13:50 GMT",
@@ -131,18 +143,6 @@
       ]
     },
     {
-      "title": "“He’s Failed the Character Test”: Talarico and Paxton Locked in Tight Senate Race - saobserver.com",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BUkJFdjBHSlpVY2hGaG50YjJCelpjamIySkw1ZmZxLTBZdS01NWVNZVg2bGIyaXFtbDIteXRhLU9MU0VrUE41WlVoRU94S2tsdWFZMW1Oc250N1F6LVRXT2lVSENVOUNBN3lLcE43WWg?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 12:49:06 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ]
-    },
-    {
       "title": "Report raises questions over Attorney General Ken Paxton’s voter registration - Spectrum News",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSkltV2pqVmJ6ZmJvOUJhWVVtUUFqdU94Uk1JanNKWmdMODkzUFJxNnVBaEczajhab0p1LUZKUUtSUUpCc2RsVUlyeFRXZ1dicWFIOVdZbUZQMUJZcmcwSHdjd0tQVGVoR2tReURhY2k1UXk5a3NTem9BczNzbmpoZjdHZnhoVTllaWIyZks0OGczSldwUXBOaURHdGZ2T0dCVW01YVVHejVmUQ?oc=5",
       "pubDate": "Tue, 14 Jul 2026 01:45:00 GMT",
@@ -174,17 +174,6 @@
       "matchedKeywords": [
         "paxton",
         "ken paxton"
-      ]
-    },
-    {
-      "title": "James Talarico slams ‘corrupt’ Big Bend border wall on campaign trail - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQckk2V0UzallCVUZUWmRkYTRzWmxKWE0yRnlGYTg4RjNSTVVVOGx5am1VRS1SU01BdV9ZNHdVdDNZeU05bmhqY0hTd3NJaTE5LWE3QkZfcGMwNHUwT0ViOUFxalRFRnlsQjJsQmxxQWsxRG1fYnFWc0RDYWp5UlRhOUxVNDlmdWhDRGNIRzgxb3pSSkFOVERxcTZSakFSUUQ1anNfaTd5NS1LZmFMM2dqLUxKYVRnZjRfU3pRUU9Tcll2NnRNelhFUkZaZVZsV3FtZ0w1ZzA4YjFITFVLTGl2SDJ1WElHOFMyaUJUd0IwMURqai1BTWtj0gH3AUFVX3lxTFBySTZXRTNqWUJVRlRaZGRhNHNabEpYTTJGeUZhODhGM1JNVVU4bHlqbVVFLVJTTUF1X1k0d1V0M1l5TTluaGpjSFN3c0lpMTktYTdCRl9wYzA0dTBPRWI5QXFqVEVGeWxCMmxCbHFBazFEbV9icVZzRENhanlSVGE5TFU0OWZ1aENEY0hHODFvelJKQU5URHFxNlJqQVJRRDVqc19pN3k1LUtmYUwzZ2otTEphVGdmNF9TelFRT1NyWXY2dE16WEVSRlplVmxXcW1nTDVnMDhiMUhMVUtMaXZIMnVYSUc4UzJpQlR3QjAxRGpqLUFNa2M?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 13:40:47 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
       ]
     },
     {
@@ -244,7 +233,7 @@
     },
     {
       "title": "Reid Hoffman Pumps $10 Million Into Talarico’s Texas Senate Bid - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRUt5dTRrUDJhOFBQTHVucGprdENCby1OdnBIYkF3b1JqZ0c0WXFCMUJrUEpnVEpRd1N6czF3ZEd3NDlJYmQtUlJGXzJqcjVMbHlrcmdlaldPMWg4d3I4T1FBVzY4TXBtcU81OEtNZHdFMVBrSmViOFN6bzlRTm8zRmhjN2NsczZ2V3MwQV9McWM3ajVvdDFGa042aGlWQVZ1b0txZUFjWjRhU200OGpQcnFuOA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORzRNSEx4dE9MUWZRTVpIY3BobXE1SUdmaG5uWTJMemozd3VDd2w2UFJEcEl2SEV6U1hMR3kya0J6MDVEVm55bEZSZnhoVzVTaTVZNUk1SEZzY2lxdEpCQml0dUxHRlpTUGZPSFQ1MmNfX1pQV09CNVh6YjhhandlM3RfSDUzYTFoVnhSeFY5NGNocFhZWFgxNzBUMnZFQmpIS2JHVlBSMmxDWDFNRUd3OWVFVHBoSG9ZNXllY2tIUUpOYTlSS1dHN1JFeFpLUQ?oc=5",
       "pubDate": "Thu, 16 Jul 2026 11:51:52 GMT",
       "feedSource": "google-news-race",
       "raceScore": 11,
@@ -284,6 +273,17 @@
       "matchedKeywords": [
         "talarico",
         "james talarico"
+      ]
+    },
+    {
+      "title": "Talarico, Paxton campaigning in Texas this week. See events - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN2JZbEowU1Uzai1Ga1VpRDFHY2hmeEpDSTFUellqY19GRnZ3aDlrdXBTZTladVltTm5EVnVmWnhtcHhPN3hydlNhUkV5T0trY202OWFOcEdIdC1JMGZQUC1JRmFIWHdob2xRLWxDTjUwQTU4MDh2Nm9GTzdDNlJSdWhjaXpoWlhxcHZPOGloWl9fLXotc0IxZUoyNEx0MzJWTi1XdzVjZW93N2ZMX09YeFp1MWhMWEYxbHZtU0d3bw?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 19:29:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
       ]
     }
   ]
