@@ -1,9 +1,129 @@
 {
-  "analyzedAt": "2026-07-16T16:49:43.079Z",
-  "newsFetchedAt": "2026-07-16T16:21:56.611Z",
+  "analyzedAt": "2026-07-16T18:09:29.909Z",
+  "newsFetchedAt": "2026-07-16T17:47:15.946Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 6,
   "stories": [
+    {
+      "title": "James Talarico challenges Ken Paxton to 3 televised Texas Senate debates - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSDlua1hqRTl2TEMtTjhNUzh4amM5UVBiMnM1SDN3MWl5YV9wSVdIMi1ZWlR2M0c0T2lYaTlSS1JOWG9JdDJ1cktQTmw0VHZwajdPcjZZRVBKNHB1VW5YbW1xY0kwakFnbDRnTkxqOEJ4eGtNYVhpVmFBRmZ6QW55VFVxRWFCQ3l1cXplbWNJM3hkUXpQQ1lMUFlpa1dwUGNValdaQUoyOWNrOFd1ZmVVdmhNc2lPMThZU2hBWUVpS3ZyaU1kbkJZQVpaOGhPMkNnNXZNZlAwZzNNMUFTWGFB?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 16:45:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 28,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "texas senate"
+      ],
+      "sentiment": {
+        "positive": 0.907,
+        "negative": 0.093,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "Ken Paxton’s campaign says he will debate James Talarico in Texas’ U.S. Senate race - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdTB0YUNrNV9OWEJtOU9BRWVNQmVXLWoxZ0FkTXNQNzV4Ykw0cEdHSXFXbXpMazI0Y0NyVGEydnlhdmVUY005TkljUTNHN1lHbzFkZVlyNFJmTzFKQm5YdVdjSHRJb3M0WnE4M25MT1I5c0NlSXNjZHFVS0c1WE9nd3B1N1lzYm5aZDRVVWRwQ2xNeGM4Wk9LM3RKOHc?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 16:58:54 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.975,
+        "negative": 0.025,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "Talarico challenges Paxton to three televised debates in Texas Senate race - Washington Examiner",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTHlrYzlQeGRKWnFKdTVXYl9nZm5LTTluWGxodGxKbFlhTUQzTFBSWUdrQk5nOTkwdXA0djhabHYzR21RLVR4SlFabW41OURKWmhYYnR2bHNoVHV4RFR0Tkdlc1pxUTBJQURzUkp2ejc5VUJNX2J1N1NnNWN2Z0ZXMFlaVWlZbHM0VXB2WENYaXJmNkhTS1hBMGdFc0Rtb2ZvTS1pWV8yZUNaNGQ1U3EzcmFQRWRpZ1lJR2c?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 16:57:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.176,
+        "negative": 0.824,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "James Talarico challenged Ken Paxton to debates. Here’s the AG’s response - Fort Worth Star-Telegram",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeS1vOXRaRkNzbVlnY2lLbGpYcnZoUGRmQ0NES1hIN3QyVHY1MHozMDJHQ0xWOVN1WDdlR0JPQ2UtUWEtWC1XMjFZaDRuVWpwa002Yjk5d1VtWHNRZk1Cc2llSHBYS2pZcXNNbThaNzBnUUMyOWFqbnZkaHRadklsRll0QTBVZDZURDV5MmZTb0ZNUXVCbmfSAZYBQVVfeXFMT0VaLTN2d1ZkcWZPelBFT0lpOTNFT2RWMk9uLUJlUUZFX0VVS0hYZ3cyOXlva19rVzJIbEYyVUxtc1k1R0N2TXA4SUY2d0s0T0R0RDQxN1JMekR6bzBGWUx1VEFFaFA4N0dPMUtnWWNIeC16ZXF6VUI4dEdsSXIxZXV2b003YXNPbmdMVlV6dGV3Sk1WUGpn?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 16:42:32 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.064,
+        "negative": 0.936,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "Talarico challenges Paxton to debates in US Senate race - KXAN Austin",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN0xfb0o3amFmaVN2LW1oWWpyeDN1R1pMdHZNT3FXWkJpM1lUYmgtc0VoSnZhSnJqRWlFNUR1MExLcG12N1ZKTm52T3l0UnhOaldDdFdiRFpiLXBNMU9Ud0ZmVE5iTEY5UXM1VWxaWVMtb1NMa3FGZ3Z2SVRBVXByc19ZV3ZXUUNfOGMtRGZOUTN0SzZOTFRzNlE2S2pRZ9IBowFBVV95cUxNajk2ZVZzV0NkRXk1NjJRem5lbldfbmVJYktkUHNrTGFJemtYdlFGaExzcUtScFhjZUp6dmtSOXNJQVVpSVdnZ0c5Z19xNjdvanBOQU1sSmVmNTY1MGJUWE4xM0lkXzREbXkxd21aR3JudmxYZ2FFYkMtSS1YMHBCaUl2UXdHalRHUktqbjZhZURzZ0RfX0JCLUpVLTc1TGFRc0d3?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 16:37:02 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.047,
+        "negative": 0.953,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "Texas Tech booster donated to Ken Paxton’s Senate campaign before AG’s $200M Brendan Sorsby warning to Big 12 - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVVV2dlQ3WEdUQ2FMSXJIWXFCcVdPRUZSWWI2OUZQZ0E5R21CY1NUdTV1MlFIWE9GenRzc3hLSVExLTlIOUJicXRmYXBMQ1kxd2xLLUxjSzdMVmNscUJUM3JJM1I1Yzh2WERHVXJYR0VUaHE3bWc0eU5EcVRXYkZoaUdXOUs1R0dVQk9PMDMxOG9WTlVCV3BWWlQyN0g1dlZUNlROZmZkNVlEa0ZYSjZqdjlJVThwdl91aEdQMnV2YjBPTC1tR2xfYVFZMGs?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 17:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.015,
+        "negative": 0.985,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "James Talarico Challenges 'Puppet Politician' Ken Paxton to 3 TV Debates: 'Prove Me Wrong' - TheWrap",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY2F4ZlpubnA2c0RoMm9BSDdBWkZqUXlKUi1zc1JSU2h6Vjd0eENZMUR6eXNMRTJSMVFWd0J5Q0JTT0xnM2hEN3VodXJLTUVzSE1BTEVsNlhZM1B5VWxoUVZfRWlFN0pXV3pTUjFGZkthZ3drUUtNTlVVUlZhMWNXNG5lNTJpR2owX2ozNllMaGdvTDRHa2RJbVA2NTU2WEFMeDFUUUNMQQ?oc=5",
@@ -1720,128 +1840,19 @@
       },
       "candidate": "both",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "Aaron Reitz, former AG candidate and Paxton aide, named U.S. attorney in Southern District of Texas - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWGtoOEY5blJKSWs4WjFmMjc4XzBuY00xdS1uVzZjQm44TTFqZzFfTFVDRF9lTnhrU0pKNzVWdDZjb243UTZfaXltNlBqZkdqaVp6ZzZnai1IU29CanZ1SkhnNTJvTEJtc1MwSEtiNlhYNy00a05UNGpjdVJzQWI0NndyT2FqX3pVblhzYTFveEZDcHMxYWxSQnFsLXdnR0xZenBFQmVFZlQyQWFPUVVWSXJR?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 22:59:28 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 7,
-      "matchedKeywords": [
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.984,
-        "negative": 0.016,
-        "label": "positive"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "James Talarico raises over $30 million in second quarter, campaign says, more than triple Ken Paxton’s sum - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVmowX3lwdEZ0b3U4OVNCRVV1UVk4OXRlQThRcFdjc0tyUVUzZHNVNHVrQnE1eExLRWF4OHMxbnAybnRzd1ZSWExZRTNZdU9vZEdlZ1dQX2tKUzhJVHp5U3FKdnd0QjJHaEdYTWhQQk5BVHZPR2YyNF9YMGw2c1NuQ1ZlMnA2X0dpeVBzYVpDZTZVNVRtTEtCZmtjcWpuVlBERzVHWFhHeTVJYThTcEJReTVWVERaaGk5QWtDWkFTZXFveU4tZk1Cb0Z3UVEyaHlXdlA2dWFvOG45Qkg5YnJZY3Eyb3ZkOVExTFU4T9IB9AFBVV95cUxQeEcyQkdSTHYwRFJOSkFVakxUUW5WNDIxdkVTYWtWdDVmM1pYYl9kSDFySklQSXdKVkxfVzVaZzY5ZDVxQWtpZXhJdnRSaWhEclRXMUNxWW10djBwbW1MLVczazZ2Z2JBWUViaDMyMGlURFRMcGdJbmVhQTVoYzlLcVZRLXdheHU3bzc1cTJscUxuQ3l3czFtYUZPUk9hb1BJQzVTbVYyS3E3SVdCRWt1bUhSUUduZ2NxYnlyUlZ6TW1sV19PRXNFdkNCVTZqMklZemVBX1ZZazhnczJCTFVrZDNKZjdVRUlzNzI1YnlkSEd2TEli?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 13:42:49 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 23,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.779,
-        "negative": 0.221,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "Talarico campaign fundraising numbers dwarf rival Paxton’s with $30 million haul - Washington Examiner",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVXM2UWFkTS1TTlNTU1A3bHZFU2tLWkx5ai1sdTBYNGQ0aF9qc1VMak9BRDVISVZoT0U2SE54blBQYVh0QTV2OWdkWmJBQktMZi1vcGtiNVQ0QWVaY2RTT01WWk9wVWxVZFlVOTlaMlNiWEs3eVJBMFMtNkVJTlZHd1VEOERtenJHaElRS2xxMnZmajBMSDRiaG42OElRZ3pmV2lkWmNzN1ZkOFBReVo5RmJNeDdwaGlWaU9ENkw2QThjY3VXZFlWNEpFZWIyV0tPR01jeGtTZkRRd1J0MGc?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 16:56:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 10,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.012,
-        "negative": 0.988,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "State of Texas: Record money flows into Talarico v. Paxton race - KXAN Austin",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRTY5Z1NRRGtkODFuT3R2dHJoYXlaSEdZd2s1NWNFdGVhSVlvWmZ1Mm9SX1VQdnliTDlNbG1remtzVnNKaEFGbUxZSHJ0R3pOeDBnXy1KRUZWWnNLMEd1a1h0VzFoZWZlTWRlZ2tBbnlzM2hkbkN1b1E2NE9yRk5IVHVIY09Ka01GbnhNN1IxZjVVOEtWMkFURnJwQXdCWlk?oc=5",
-      "pubDate": "Sat, 11 Jul 2026 20:31:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.018,
-        "negative": 0.982,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "U.S. Senate Candidate James Talarico Makes Announcement - C-SPAN",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQjRLMklmRkh6eDdNUGFmUFU0R0MzeXpxWXF3c0dUbTlsUk9UYlllUVRPSnJLN29sQlNxdW9iQlRacTV4bVUzU0R4a3czbUZCSk9XenVQZEEtN2NFSjY3WU9VNlN1NnAyTlY4UlZrTXB5NHdBLUxCYW5pTTZNc2hYUEsxZW1WRXhSRW5vZEhaM2pWdTRCakQzaXVKNjBGclFGS05Xb0RB?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 04:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.982,
-        "negative": 0.018,
-        "label": "positive"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "James Talarico bringing Frontera Tour campaign stop to Laredo - Laredo Morning Times",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOEppUjkxemt3dG8wVzFaZjJjVFk2Snd6YVZSMVM3QTlGNlFRWkh1OHR1dDFGdXplZDRCT2xfVlpkS3c1aTZXMnJLWU9KR2FLN0NBbUoxUlhKUDRQRVpNRnVEOFlHcjRGaV9xQWl0SHF3YzFPTXk4dGlsaDIzY3gzQ184ZHJmc3dRZ2JubWhQTWVobnAzNTFqQmJLc3d0TGpUT080?oc=5",
-      "pubDate": "Sat, 11 Jul 2026 20:41:20 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.981,
-        "negative": 0.019,
-        "label": "positive"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W29": {
       "both": {
-        "positive": 0,
-        "negative": 2,
-        "total": 2
+        "positive": 2,
+        "negative": 5,
+        "total": 7
       },
       "paxton": {
         "positive": 0,
-        "negative": 3,
-        "total": 3
+        "negative": 4,
+        "total": 4
       },
       "talarico": {
         "positive": 0,
@@ -1851,14 +1862,14 @@
     },
     "2026-W28": {
       "paxton": {
-        "positive": 10,
+        "positive": 9,
         "negative": 9,
-        "total": 20
+        "total": 19
       },
       "talarico": {
-        "positive": 14,
+        "positive": 12,
         "negative": 20,
-        "total": 35
+        "total": 33
       },
       "general": {
         "positive": 5,
@@ -1866,9 +1877,9 @@
         "total": 15
       },
       "both": {
-        "positive": 9,
-        "negative": 13,
-        "total": 22
+        "positive": 8,
+        "negative": 11,
+        "total": 19
       }
     }
   }
