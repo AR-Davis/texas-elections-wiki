@@ -1,9 +1,30 @@
 {
-  "analyzedAt": "2026-07-16T22:30:05.809Z",
-  "newsFetchedAt": "2026-07-16T21:38:11.857Z",
+  "analyzedAt": "2026-07-16T23:26:50.743Z",
+  "newsFetchedAt": "2026-07-16T23:02:21.102Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Paxton Agrees to Debate Talarico in Texas Senate Race - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeWVvNjZtRncySklFMERadlNGNnhsYnVCaWNfcGNadGlkeC13RVJYc0dwTERCcV95bEtPVENWQmxXUkczWkw5Y0diMmZWVDBoYWFpUkZxTk4ycjFfRlVaaVlQcVZtTk04MFNKa2JmcW1XbUMzYXhJeU1nR2x1dllNMy1VY1k?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 21:45:19 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.997,
+        "negative": 0.003,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "James Talarico slams ‘corrupt’ Big Bend border wall on campaign trail - Houston Public Media",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTUUteFZra081dl9VLThReVVlLXhfajZMbjZoU1AzZWdVMF94NmtTY19Zb01OdWZfeGhnSmMybzVSR1F5MmpxU09CZGFwNW8wYzlKeW8xUlRrbW8wOG9YdkhiNlpudEM5WWMtTGdwSjZrQUdDM0lncWZ4ck9iTnFqTVZhYkRZd0NHWUl1QTJvdHhHbThzaHdmaEprNGI4S3haaGUwU1lmX0p3NHJfZlU1WUJ6Y2RxdjVwWDh3YU5MTXJIMlhXRmZSZm9xM3NnVVhrTnJ0anZPNnZyWUdIOFRkbXFUSVNnNGJERVR2SjdKNNIB9wFBVV95cUxQckk2V0UzallCVUZUWmRkYTRzWmxKWE0yRnlGYTg4RjNSTVVVOGx5am1VRS1SU01BdV9ZNHdVdDNZeU05bmhqY0hTd3NJaTE5LWE3QkZfcGMwNHUwT0ViOUFxalRFRnlsQjJsQmxxQWsxRG1fYnFWc0RDYWp5UlRhOUxVNDlmdWhDRGNIRzgxb3pSSkFOVERxcTZSakFSUUQ1anNfaTd5NS1LZmFMM2dqLUxKYVRnZjRfU3pRUU9Tcll2NnRNelhFUkZaZVZsV3FtZ0w1ZzA4YjFITFVLTGl2SDJ1WElHOFMyaUJUd0IwMURqai1BTWtj?oc=5",
@@ -1834,26 +1855,26 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "Inside Texas Politics - KVUE",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcElRRmQweUlOVW5uMWxRdjluWjVTcXVsbks1TkFsdnJ5LUVvdzVXekpadDY1OXpmeW5zcGRHRkVHRnhHY3p5S0hwaE9qUHNxaExBQVNBWG9feE8yWm9RLUVPN081RzJwQ1ZYcEZ3dGFMUUh1eUpITFVKY195ZlFIdjZhS19vTnpTZl9IQ3prUnZ6YlJmcTFETHVLVFF2NlFybmdPV1hYS2FSQQ?oc=5",
-      "pubDate": "Sun, 12 Jul 2026 10:30:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "sentiment": {
-        "positive": 0.996,
-        "negative": 0.004,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
+    "2026-W29": {
+      "both": {
+        "positive": 4,
+        "negative": 8,
+        "total": 12
+      },
+      "talarico": {
+        "positive": 1,
+        "negative": 3,
+        "total": 5
+      },
+      "paxton": {
+        "positive": 0,
+        "negative": 5,
+        "total": 5
+      }
+    },
     "2026-W28": {
       "talarico": {
         "positive": 9,
@@ -1866,31 +1887,14 @@
         "total": 19
       },
       "general": {
-        "positive": 3,
+        "positive": 2,
         "negative": 10,
-        "total": 13
+        "total": 12
       },
       "both": {
         "positive": 7,
         "negative": 11,
         "total": 18
-      }
-    },
-    "2026-W29": {
-      "talarico": {
-        "positive": 1,
-        "negative": 3,
-        "total": 5
-      },
-      "paxton": {
-        "positive": 0,
-        "negative": 5,
-        "total": 5
-      },
-      "both": {
-        "positive": 3,
-        "negative": 8,
-        "total": 11
       }
     }
   }
