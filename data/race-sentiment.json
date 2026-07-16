@@ -1,9 +1,46 @@
 {
-  "analyzedAt": "2026-07-16T19:42:10.312Z",
-  "newsFetchedAt": "2026-07-16T19:21:24.887Z",
+  "analyzedAt": "2026-07-16T21:06:38.930Z",
+  "newsFetchedAt": "2026-07-16T20:27:57.517Z",
   "totalAnalyzed": 100,
-  "newThisRun": 5,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Texas Senate candidate James Talarico joins Morning Joe for wide-ranging interview - MSN",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUDMzMUt4MlVJU3V1SWctTnhJdmpDM0Fsd0NWYVNJRkt6Rm9JelE4Z3NhaEtIUkkyLTU5UDh1VU9UeFhaWWpQUThydW1mdWpCUGw1ajJkS2t2WVRwQi1lYmFpc2w5eG13R01fTW9Xa3pZQ01McEN5S3NNOW5pZURzUFJwRkhQMmdYNk5fd2lsOHVZd1ptT3VpT1BwUWVNckdGTmlsN1NHUzVkcWhVVWdSOGtNbVdJMGVJTEludTMxTlVPQzlIS3FCSXZRdw?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 18:43:28 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate"
+      ],
+      "sentiment": {
+        "positive": 0.996,
+        "negative": 0.004,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "Texas Tech chair donated $275K to Ken Paxton day before AG intervened in Brendan Sorsby saga - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbUlGRlJkTW1XaXY3Ym5ndzJXM2ZrSDhnWVhQY2V1RUFYMVpScVNhZ2hIdG4yWXoyR0JqZjYzQUlMNGYyLTBiVkJWWmZPeXZ6MXZoQjJqQnRwenROTlE3OTNUV0EtbnFLUUxRVnBfcnRDVDEyNzhLNDAtOUVRRnlGOXhDZ3dUODJ3b05YMnZmZlNuQ0dNNU5NRXpqeFl5ckp4X2IzQy1BSjRRQ0NwUDZoU1liU1AwZXVlLVBPd1NhSWdoOWVib0JRUEJNOFFmU0V1WnVmNE5CLXY4UdIB2gFBVV95cUxPbUlGRlJkTW1XaXY3Ym5ndzJXM2ZrSDhnWVhQY2V1RUFYMVpScVNhZ2hIdG4yWXoyR0JqZjYzQUlMNGYyLTBiVkJWWmZPeXZ6MXZoQjJqQnRwenROTlE3OTNUV0EtbnFLUUxRVnBfcnRDVDEyNzhLNDAtOUVRRnlGOXhDZ3dUODJ3b05YMnZmZlNuQ0dNNU5NRXpqeFl5ckp4X2IzQy1BSjRRQ0NwUDZoU1liU1AwZXVlLVBPd1NhSWdoOWVib0JRUEJNOFFmU0V1WnVmNE5CLXY4UQ?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 19:18:46 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.054,
+        "negative": 0.946,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "James Talarico challenges Ken Paxton to 3 televised Texas Senate debates - The Patriot Ledger",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbXZtYW9kRUdhZGlZeldWaFNYNVMzMmdLOXdyblBrN19XMFp6SDd5VTluWVViQkFUbnVxdm1kN29NSUE4TTk1Sm9QcEZSSGtWSldsaDdZb01BdFVpUm83Vldka21jWmlFS0ZvWWdiVTI2ZkVjaXJwNDFFUmxSSmhzM19VbkdOREtNWTFIWDdkWHJTdUJPbFhRSmhVeFNJd2xxOWNwMFhod2lMWm0xejZwTnEyQWNuZVEtamV3VTNPT3pvS0k1cWZvY0Z3SXZDMkFKR05RRS0tN2I5MERkVjVsZVA4RHNzdw?oc=5",
@@ -1813,60 +1850,24 @@
       },
       "candidate": "general",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "Democratic Senate candidate James Talarico visits El Paso - El Paso Times",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOenAwWTlKN1o3Q2FtSi1qTE5nRVBIckI1OTA4Sl9HdlhmUHI3Mi1ZMUVubmdOdXlzVUtmMWRyMDNFNDZkZF9ZMkJPY25RWEhpTW5LRGFFME1PeWo4LWwwZnlLVEJzTUtCM2p3MGhpOVBKWkd3bEtYWENXeHRabThuTldpcVo4cWV5dXBOeUI1RnJZSGVBNl82NUNvRExMeUw4STh0VkFuWDF6aHdRWUhFT2Rxd0o4ZjNLOEhEdEtfWnJoMU1weTFkNUJpNHZGbFlOcEY3Vjhn?oc=5",
-      "pubDate": "Sun, 12 Jul 2026 12:41:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.982,
-        "negative": 0.018,
-        "label": "positive"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "Democratic Senate nominee James Talarico talks affordability, school funding, corruption in third El Paso campaign stop - El Paso Matters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUExrRURzejZJaUZwMFpuNFgxRW9BeURja09xNDY0M1lLVzZtZ0xsNTMyaWl0X0xvVWRsSzNTVjRJeTRTMzVpdkpKMVZIenhsR0RzeUV4WmNHN19ILTJhX1RDdHhFSE9ZeURRYzcyQU1vWkp2NzlCZWFyeHY5SXdkaUhuMm1ROEhYaW02blZ5WlZCdHI1d1RwOVQxTGstSVdpaUxVajZ5ZHdMd1Fz?oc=5",
-      "pubDate": "Sun, 12 Jul 2026 04:18:09 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.995,
-        "negative": 0.005,
-        "label": "positive"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W29": {
+      "talarico": {
+        "positive": 1,
+        "negative": 3,
+        "total": 5
+      },
+      "paxton": {
+        "positive": 0,
+        "negative": 5,
+        "total": 5
+      },
       "both": {
         "positive": 3,
         "negative": 8,
         "total": 11
-      },
-      "talarico": {
-        "positive": 0,
-        "negative": 3,
-        "total": 4
-      },
-      "paxton": {
-        "positive": 0,
-        "negative": 4,
-        "total": 4
       }
     },
     "2026-W28": {
@@ -1876,9 +1877,9 @@
         "total": 19
       },
       "talarico": {
-        "positive": 11,
+        "positive": 9,
         "negative": 18,
-        "total": 30
+        "total": 28
       },
       "general": {
         "positive": 4,
