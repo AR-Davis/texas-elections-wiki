@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-07-17T22:23:41.388Z",
-  "newsFetchedAt": "2026-07-17T20:28:32.702Z",
+  "analyzedAt": "2026-07-17T23:26:04.248Z",
+  "newsFetchedAt": "2026-07-17T22:24:48.244Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Ken Paxton Bought 3 Utah Condos, Adding to a $9 Million Real Estate Portfolio - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11U0g0YjgxUXR2cTFKRTZPMkVDLXNqMDc3bk1QRjVmaXN0MDUzUkFhTmVYT0FsM0xxTS02cU5vOXcwVGRhLW9GVjE2UEpkV1hJb0hFUUNqTWdISWdLRXh6Y2hXUjIzR3dzNnlhQmMtSUo5VkpyU2wzVndlTXc?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 19:04:52 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.998,
+        "negative": 0.002,
+        "label": "positive"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "Ken Paxton hasn’t debated a rival in more than a decade. Talarico is now challenging him to one - MS NOW",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNUVuV3FjeWM4WHVIZ3RIRUJWSF9ZT3hBU3lBNFIxYzBfTmY5MDE4RjJ4emtiVXJkNzNmb3JJcDRXcjdyaGpsNzRVSE45NThfWmZmRFdiTThEeGFHTUV0T1RMY0hkc2ZoMUx2bTRmSkhfS1lHbXRocHJXVDJUdlk1TnVMQmRINFdnNU1tRzBveWVtbmdKQ1BpRlZDQ1Z1ZVpuMGdfbzlibDJueFdDQkpzckttcjhmVGR3?oc=5",
@@ -1849,29 +1867,15 @@
       },
       "candidate": "both",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "Ted Cruz warns James Talarico has “real chance” to flip Texas Senate seat - Salon.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUlpHaG1MaDJ4NmptaWRYSkNDMGl6Z3EwTmhCTlNQMVZhSGhjdUV3OGtqclMtUUhuTjFQSmVpWE5SNG1PMkF5dXhKVjhSeVNuVlpCd1YxM0VyLUc2cl80VXNVS0s4NzNhQUxMS0VYa3JnV2oyMWpFWTFNQnpuMUR4djBZVUgyM0ZiSE9ua0tSXzRSQW16dHdBNjhac3haLUJCeHdEemRWLVA4VWRabXY3T0JvcWJZeXdG?oc=5",
-      "pubDate": "Sun, 12 Jul 2026 10:00:19 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate"
-      ],
-      "sentiment": {
-        "positive": 0.02,
-        "negative": 0.98,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W29": {
+      "paxton": {
+        "positive": 2,
+        "negative": 5,
+        "total": 7
+      },
       "both": {
         "positive": 8,
         "negative": 11,
@@ -1886,18 +1890,13 @@
         "positive": 0,
         "negative": 1,
         "total": 1
-      },
-      "paxton": {
-        "positive": 1,
-        "negative": 5,
-        "total": 6
       }
     },
     "2026-W28": {
       "talarico": {
         "positive": 7,
-        "negative": 16,
-        "total": 24
+        "negative": 15,
+        "total": 23
       },
       "paxton": {
         "positive": 9,
