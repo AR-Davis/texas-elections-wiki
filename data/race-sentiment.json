@@ -1,9 +1,66 @@
 {
-  "analyzedAt": "2026-07-17T01:03:26.136Z",
-  "newsFetchedAt": "2026-07-16T23:02:21.102Z",
+  "analyzedAt": "2026-07-17T04:16:00.991Z",
+  "newsFetchedAt": "2026-07-17T01:03:53.692Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Ken Paxton, James Talarico court South Texas Latino voters - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLUVqNU13NTJrWGVrUU1Xc0JuRXdBNUhxQmZ4SHVXWElOUjBGamZtdmZMTk1jd1pGYkdXdFpRTzdEMnpnWS1qNC11U24tZkQwVEFBTFJJUWJuOVZMeXhOQU90WmpzVmVaTkdyTXp3VXFfY3o2Sjh5NWFlSjFIMlRPUE9aRDVJOHZZVjBESWpZYWpHRElLNUlaZ2pkOHo?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 23:28:37 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.961,
+        "negative": 0.039,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "Texas Tech donors gave big to Ken Paxton as he defended ex-QB Brendan Sorsby - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNHVQa0NtVmJnZXZtek05WS1vOEh5YVBoSXRub2FzSl9Ga0xnNThzYVYyLThHZVhxUHJiSG5BQXNpZ1Y4aVBpZkpXN2hiZDNoQXI5T05TRFZuYloybWw1WUk4ZlVDak9zYjJ1dlFBSEp4VWNjckVweWx4SmNzQnprM1BiWEd6dEplS2o5cVBjcTZfRTRjenFsMnl6bXRQT3d2dVFpNVpPMA?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 17:43:28 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.89,
+        "negative": 0.11,
+        "label": "positive"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "Talarico challenges Paxton to debates in US Senate race - KETK.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORHd4NXhWbVVtNjlSLTZhY0RVUVQxZWtVVWRQY2lTU2ZrMEhDVEdfaU1qcEZoX3FrOHNsTXhBOVUxWW4tWFdzaDllNmxOWF9abTZUb1BXMDN0NUVUcXU2YWVHOUdrbGh3Um1SU1RjWVVtc2xveXQxbFYxZ2g5dGQxTERPSnhvN2pRdmNrZTUyYlByejZLUnZjUmRURmZfNVRfYWtlRVo2N2szUER6WFF30gGvAUFVX3lxTE5Ed3g1eFZtVW02OVItNmFjRFVRVDFla1VVZFBjaVNTZmswSENUR19pTWpwRmhfcWs4c2xNeEE5VTFZbi1YV3NoOWU2bE5YX1ptNlRvUFcwM3Q1RVRxdTZhZUc5R2tsaHdSbVJTVGNZVW1zbG95dDFsVjFnaDl0ZDFMRE9KeG83alF2Y2tlNTJiUHJ6NktSdmNSZFRGZl81VF9ha2VFWjY3azNQRHpYUXc?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 17:31:20 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.025,
+        "negative": 0.975,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "Paxton Agrees to Debate Talarico in Texas Senate Race - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeWVvNjZtRncySklFMERadlNGNnhsYnVCaWNfcGNadGlkeC13RVJYc0dwTERCcV95bEtPVENWQmxXUkczWkw5Y0diMmZWVDBoYWFpUkZxTk4ycjFfRlVaaVlQcVZtTk04MFNKa2JmcW1XbUMzYXhJeU1nR2x1dllNMy1VY1k?oc=5",
@@ -1804,82 +1861,31 @@
       },
       "candidate": "both",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "Talarico’s ‘Frontera Tour’ addresses border issues, affordability in El Paso - KTALnews.com",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN0NqOWRiRUtMV3MxRVZqUXJrVXcxZ05KcXpvMjJTWEFJbEN0OUJMUjN1eU94dmUteWJ3aTl4UHJIU3RWMFBjSUJfek13aUo2SVhiWmVsdVZyVUt1ZV9fLXIzQy1VTmZTZm5DZ0gtNTZWZWlkN2RVWUNYMWlIcm9kRFRBaXc5ckdwbDZLUlRWQXJzdWtqZXF1aWtTYzBKNmdJeVd2aUhSTFFiQ3NWRUstTzV3eW9ORG9SOS1Wb3JsaXlQd9IBxwFBVV95cUxNNEFMcllSaU5OcktYa01ZZmRXUmxXQjY0X0Q1ZWk4Ynd5anlHUHVBbVFDMnFrTDlfVnhoNTIxNmZMbXVyZlJYMkpxVUpxanhLRzZGb0diOXFqYU5HSWdReUszdUZkWXhlSHA2RnpkcGZXcTVheGN5NUNjazRseGtOVXVUTmtmZllWdkVkdUZkenFfLV9jRlZpMUdEMFYtMlp4cUprUGUzd1g5UHg5OWlTdnl0elZsQmJxNkRzV0tkNkZ4d3M5NkVF?oc=5",
-      "pubDate": "Sun, 12 Jul 2026 15:08:30 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "talarico"
-      ],
-      "sentiment": {
-        "positive": 0.971,
-        "negative": 0.029,
-        "label": "positive"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "Ted Cruz warns Talarico has “real chance” to flip Texas’ U.S. Senate seat - Texas Public Radio | TPR",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ1g2Nmx5MGUyVnJhUk1kazRUYnpJd1RManBNcVVjbWRhOENNNEtYeXp6eHVlUU1wTGc4VEJOcVQ5Vi1Oa2hIU1M1YVlaMWZQYmhSWXRzeUNIbmt3TXk4ZUVtWjJpNDB3R2JqRFBsdjEtMG9RQ2hYRERhdVNMRFhERGlhaXRUN3hOWUxMQ3QweS1vaEY5eXItMzBwV2JqUXhXTGhMZ2pGY1dJdGI0RFBfODVYOVE3TVNVcnhvSw?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 21:34:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "talarico"
-      ],
-      "sentiment": {
-        "positive": 0.081,
-        "negative": 0.919,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "Talarico polling stronger with Texas' Black voters than expected, but enthusiasm questions remain - KERA News",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUU41eC1JR21abGMxVHBxWlpHMVhramFKRmNGQWZLMDFqcWcyaGZpTmMwank0SlVmVUpQMmlqUjhCTXNsWUJPSzFyeDFqaVZVS1hiRXliZUdRczgyOWVudTR3c2tPV2tRZVI5REtiZXo4di11RUdLaWZ6d3hnSjRsMkRBdzJVdkNTZmx4ZjNR?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 17:06:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "talarico"
-      ],
-      "sentiment": {
-        "positive": 0.056,
-        "negative": 0.944,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W29": {
       "both": {
-        "positive": 4,
-        "negative": 8,
-        "total": 12
+        "positive": 5,
+        "negative": 9,
+        "total": 14
+      },
+      "paxton": {
+        "positive": 1,
+        "negative": 5,
+        "total": 6
       },
       "talarico": {
         "positive": 1,
         "negative": 3,
         "total": 5
-      },
-      "paxton": {
-        "positive": 0,
-        "negative": 5,
-        "total": 5
       }
     },
     "2026-W28": {
       "talarico": {
-        "positive": 9,
-        "negative": 19,
-        "total": 29
+        "positive": 8,
+        "negative": 17,
+        "total": 26
       },
       "paxton": {
         "positive": 9,
