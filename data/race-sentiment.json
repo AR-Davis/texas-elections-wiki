@@ -1,9 +1,30 @@
 {
-  "analyzedAt": "2026-07-17T04:16:00.991Z",
-  "newsFetchedAt": "2026-07-17T01:03:53.692Z",
+  "analyzedAt": "2026-07-17T06:40:04.318Z",
+  "newsFetchedAt": "2026-07-17T04:44:10.678Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Talarico and Paxton Clash on Border and Healthcare in Texas Senate Race - Akses.co.id",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ySGNQNWVtZHNIaTRPQUR1eWVRazhRM2pad1diLVM4b3ZxdmRrMllWaW1ReWppcWxsUUJJWHdycVptSmtMbkV5d256ZUhaejdfcVZWRDRUbFZROHpwem9RcWJjM2FJWW1qOURWNGpB?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 12:59:59 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.026,
+        "negative": 0.974,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "Ken Paxton, James Talarico court South Texas Latino voters - The Texas Tribune",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLUVqNU13NTJrWGVrUU1Xc0JuRXdBNUhxQmZ4SHVXWElOUjBGamZtdmZMTk1jd1pGYkdXdFpRTzdEMnpnWS1qNC11U24tZkQwVEFBTFJJUWJuOVZMeXhOQU90WmpzVmVaTkdyTXp3VXFfY3o2Sjh5NWFlSjFIMlRPUE9aRDVJOHZZVjBESWpZYWpHRElLNUlaZ2pkOHo?oc=5",
@@ -1840,35 +1861,14 @@
       },
       "candidate": "general",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "In tight Texas Senate race, Talarico and Paxton clash over affordability - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYzdlLXpoSm9oaXVqNGhCZC1fTFJyNURfbDdMeUdrVFVaN2hGLU5QQ1lmUkdHQVBiLUxJeThoRDV0blpqQ0lqNkwybG1FdnpHTlo1M0lNRTNiN3ZZVWdnOVphckdqcGdsX2diLUpSOGwyam13LXJSOFZWNndUbWNEOGFVcGYtMl9lbGtiTnNVYjRYSF9kMWc3WFZiU29Cd2JKQXAySjlqS3U2aVRT?oc=5",
-      "pubDate": "Sat, 11 Jul 2026 15:47:23 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.037,
-        "negative": 0.963,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W29": {
       "both": {
         "positive": 5,
-        "negative": 9,
-        "total": 14
+        "negative": 10,
+        "total": 15
       },
       "paxton": {
         "positive": 1,
@@ -1899,8 +1899,8 @@
       },
       "both": {
         "positive": 7,
-        "negative": 11,
-        "total": 18
+        "negative": 10,
+        "total": 17
       }
     }
   }
