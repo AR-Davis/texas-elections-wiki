@@ -1,9 +1,30 @@
 {
-  "analyzedAt": "2026-07-17T16:19:04.406Z",
-  "newsFetchedAt": "2026-07-17T12:44:19.052Z",
+  "analyzedAt": "2026-07-17T17:39:35.177Z",
+  "newsFetchedAt": "2026-07-17T16:19:51.368Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Ken Paxton’s campaign says he will debate James Talarico in Texas’ U.S. Senate race - KERA News",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeWpHVW1HLUhLbm5uSVp3VnhnR1RYY19UMDRBdFZLUzQ3YmlqbGh2bWtubFItSVBVcDNiNzVGQlA5YnQ4a3hCT2xZY0lCTzQwbzBRcWI2Y3kyRFVoM2YzTG5uZThwMGtxOFRzdGc2cWdkbDRCdEZFYXF0dExSam5kTkJwTGdRUVo5VEJZZnRHWFhtRmZtYjZLYTc4WllmR2gtMVBwVTBrOEdud1NQdTFNSkpRNE1iS01XZjdyUmZMTUcxV0VSWEhGTkZvNFdiTllj?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 12:54:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.952,
+        "negative": 0.048,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "Ken Paxton’s campaign says he will debate James Talarico in Texas’ U.S. Senate race - Denton Record-Chronicle",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNd2dRTVhmYlJCOS1MSWhRTFc3bGg3TE9nbWloV2Q1QUFyaFlZNTRuSFVhRW5CbHd4MndKVndkSXpNdFE5NVhHaEd4MzlXVTdpZG9LbFVRbXYxYnRSam5sV3hPWFVrLWoybEZ0OEhxdHJTZmVLMlBsalFvTjlLcmpKTjktdGI3V191ZEJsTmptbGNVVC13cEE3VE9tR1ItckUxUjJHX1RsVGpYUmRqaUFuRVVid3UwRWJ0NUgxWHV6UEpmZUxyMm45Q3dXejk5SW1aS2RRcmM0QzNXNUprMDhrUTVNSzBocDlaQzExTUt4cUFFQ1U?oc=5",
@@ -1845,34 +1866,14 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "James Talarico outraises Ken Paxton by 3-1 margin in the race for US Senate - San Antonio Express-News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSmxXaEpOSVdDejh5MjREbmNMTkEzUTdVWXlBUU9Fb2xCdWtnRUY2V2ZjbEJnNVgyV3dYYmFWMkJBd1FIdVNWc084VnlvQTNqSVgzRnBSRVVmSnBoemYwQUp6TE0zby1fdTA0Q0c2RllYM2NOZnlnQVFFanc4NThFem96Q1pDWFROaGxtSGN5STkwbmdTNndoUk1jaEE?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 22:16:51 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 23,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.978,
-        "negative": 0.022,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W29": {
       "both": {
-        "positive": 6,
+        "positive": 7,
         "negative": 11,
-        "total": 17
+        "total": 18
       },
       "general": {
         "positive": 0,
@@ -1907,9 +1908,9 @@
         "total": 11
       },
       "both": {
-        "positive": 7,
+        "positive": 6,
         "negative": 8,
-        "total": 15
+        "total": 14
       }
     }
   }
