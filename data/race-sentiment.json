@@ -1,9 +1,28 @@
 {
-  "analyzedAt": "2026-07-17T11:06:20.477Z",
-  "newsFetchedAt": "2026-07-17T04:44:10.678Z",
+  "analyzedAt": "2026-07-17T12:43:32.786Z",
+  "newsFetchedAt": "2026-07-17T11:07:55.242Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Talarico challenges Paxton to debates in US Senate race - ValleyCentral.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOW11X25rS1c0YVVOcUZkNkRXX0ZCUWMwTmItUDc3RlNZTkJyd3U1YkJZZGFUT3ZoSmJYWG1oQ05kME9IejlzaG5MRF9TU3piZ0ZHQlBnMjZFYVk4NEczTXpGV0pQajB1S0xZZUIydkZmTXd6RnRxOXFCVWVSdzdBalhZOUlaaWdJZzRZQ1M2M2JtTUt6TFhLa0x1dmpVUzd5X2lkX3JXZVJpNXBZSnhQdnQxT3g0cldT0gGvAUFVX3lxTE9XQnpfdEMzUTI2SWxmQnRzN2w0Sl9OZUdsVmhoSGMwTkxZdUEzVFRjYzRtZ2l2UENfNG1jd2cxX3ZxVVp1cFFnbDl3TWR4eWs3YTVDR2ZJTno2UFBESlg1cThYRGljVzlXcHBhNEs4eE01UWwtSmRnb1ZRMFlnQ3JvWEpOaHRaci1hanl6dXY1R25XUlRmb0R1U3BIaEUxSVBjRDQ2eHBGUkdIclFhWDA?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 17:10:40 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.021,
+        "negative": 0.979,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "Talarico and Paxton Clash on Border and Healthcare in Texas Senate Race - Akses.co.id",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ySGNQNWVtZHNIaTRPQUR1eWVRazhRM2pad1diLVM4b3ZxdmRrMllWaW1ReWppcWxsUUJJWHdycVptSmtMbkV5d256ZUhaejdfcVZWRDRUbFZROHpwem9RcWJjM2FJWW1qOURWNGpB?oc=5",
@@ -1844,31 +1863,14 @@
       },
       "candidate": "both",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "Inside Texas Politics | Full Interview on data center concerns with Texas Ag Commissioner Sid Miller - WFAA",
-      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQdXd6M3NXVkVCbEdBZzk3OFBFRWRlbHlORTBZVTR5eXRmdTBpamp5cVBWSmd0YkRNN0h5dHIyTEtMUzFtTmVITEVWems2TWJ6dWg1YmRhZm5UdTdTajdqRTJoQU5mcU5yVjRkYkNkdE9KT21PeFFaNXpxYW5sRmNodllhckE4aC1XTER1YzU1b0VzS215OWc2MXZ1a3NDanBxaFJPcmlBQlVzWXBKcjNwdVN5Z2RFdEVwUktsVGNfSXRYdk43b1dyNHBtUnQ1Wl92Yk1uQVl0ckRBVktBS1lYaE16YmtEVm13YTlUVXY5c1lnajhja2VoVHV0VjUwRF96UkRuYkRZamlPb19VZkZSdTJwZnFrWF84ZUJHTnNYTHk3Y29IMUtNbzdJWGZMSEY3YWJrSHV3?oc=5",
-      "pubDate": "Sat, 11 Jul 2026 18:31:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "sentiment": {
-        "positive": 0.984,
-        "negative": 0.016,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W29": {
       "both": {
         "positive": 5,
-        "negative": 10,
-        "total": 15
+        "negative": 11,
+        "total": 16
       },
       "paxton": {
         "positive": 1,
@@ -1893,9 +1895,9 @@
         "total": 19
       },
       "general": {
-        "positive": 2,
+        "positive": 1,
         "negative": 10,
-        "total": 12
+        "total": 11
       },
       "both": {
         "positive": 7,
