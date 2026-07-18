@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-07-18T16:01:45.851Z",
-  "newsFetchedAt": "2026-07-18T14:01:57.556Z",
+  "analyzedAt": "2026-07-18T17:03:21.476Z",
+  "newsFetchedAt": "2026-07-18T17:02:36.903Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Talarico says yes to three debates. Paxton's response: 'Of course we are going to debate.' - WFAA",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcjE0MHB4SlJrZDRvRjRoWUJjT3RnbmVWYXBZYmRSWkVYekh5WjgyNG10WHhrWmp5Z2hTV0ZJSnQzUndhdnlfTS05cU1ESTQ1dDA1YkJlLS1NTjF0QV8xVEI1ZkxkWDRnYjh1eGx2ZzlVZU9pdXFoOGhxSWpjMDlaeGlhN2Zqa1VrZ3ozTThfQTFRYnlNMDhpWGwyaDZDczhCQjI4bjFrXzZDTF85Rm1wSHR4Vk5LUHloVnhN?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 13:21:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 10,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": {
+        "positive": 0.986,
+        "negative": 0.014,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "Texas Senate candidate James Talarico joins Morning Joe for wide-ranging interview - MSN",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOREh5bnUyajRHTDc5dXdYTWJSQWZIanhaVzI1ck9qaDJvZnFGMXRLN1ktZDltMklSY0kwTmp6Z1V4eGZZaWVQZUQ1aWFnZm1qaTZaVkZxVlVWTm1pVjZwWFh2WGhCZFdLSHRTWmRhMlRNS0NKdElzbG9XUk1COXEtV1pDM1BtbVdzQktJQ0xnSzFJcGFoOVltWGoxM0pFRGhwU3lFRnBIN1MyLWM4ZklWR2Z3V0lCU2xWUG1QSkhncTdlOHNKMS1DQjBvYzRMN2pncHRuUVVoNHU0aE9CaFpzM19VSGZYMXhtVTgwN28tR291Y2VXd1NSUzJ1Zm1fdw?oc=5",
@@ -1851,37 +1869,19 @@
       },
       "candidate": "both",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "New polling shows Talarico leads Paxton among Hispanic business owners - MS NOW",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNUxfSHdPdUZJWmF4bG9naFlpZmJXNE9jNWdrTVVZNDhrOGJZdC0xMkJtM1p6eVNXdFMteWszOVVkanVjZlJrT1NVOWgxdnVvTjNDOEQ4U1FzQ2ZyZ0lSZnBtZlVWYWJMUHJESkEtT1JsUnh5TV83LWhzZUhlVlViekMwWlFhdWJRUGg2X2RFRU45UE04YTNobnhn?oc=5",
-      "pubDate": "Sun, 12 Jul 2026 21:06:20 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 10,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.982,
-        "negative": 0.018,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W29": {
+      "both": {
+        "positive": 9,
+        "negative": 12,
+        "total": 21
+      },
       "talarico": {
         "positive": 4,
         "negative": 3,
         "total": 8
-      },
-      "both": {
-        "positive": 8,
-        "negative": 12,
-        "total": 20
       },
       "paxton": {
         "positive": 2,
@@ -1896,9 +1896,9 @@
     },
     "2026-W28": {
       "both": {
-        "positive": 4,
+        "positive": 3,
         "negative": 7,
-        "total": 12
+        "total": 11
       },
       "talarico": {
         "positive": 7,
