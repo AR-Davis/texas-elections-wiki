@@ -1,9 +1,47 @@
 {
-  "analyzedAt": "2026-07-18T13:57:54.878Z",
-  "newsFetchedAt": "2026-07-18T08:24:52.935Z",
+  "analyzedAt": "2026-07-18T14:58:36.789Z",
+  "newsFetchedAt": "2026-07-18T14:01:57.556Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Texas Senate candidate James Talarico joins Morning Joe for wide-ranging interview - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOREh5bnUyajRHTDc5dXdYTWJSQWZIanhaVzI1ck9qaDJvZnFGMXRLN1ktZDltMklSY0kwTmp6Z1V4eGZZaWVQZUQ1aWFnZm1qaTZaVkZxVlVWTm1pVjZwWFh2WGhCZFdLSHRTWmRhMlRNS0NKdElzbG9XUk1COXEtV1pDM1BtbVdzQktJQ0xnSzFJcGFoOVltWGoxM0pFRGhwU3lFRnBIN1MyLWM4ZklWR2Z3V0lCU2xWUG1QSkhncTdlOHNKMS1DQjBvYzRMN2pncHRuUVVoNHU0aE9CaFpzM19VSGZYMXhtVTgwN28tR291Y2VXd1NSUzJ1Zm1fdw?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 08:11:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate"
+      ],
+      "sentiment": {
+        "positive": 0.996,
+        "negative": 0.004,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "Paxton, Talarico aren’t emphasizing abortion in the Senate race - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUGZPMlNGNUtOa2hNaTAzT0pYSWQyZVBwLXoyZ2VmOUt6dkxYLWRRcWNZbTFMbGp3emgtZUlnRHd5YUQ2SFVibzNINjQ1TW5MaG5tV3VsQVhDeDlGNklEaGhOZjU1ZkcwRnVfRHl0X1NkZXB2U2lPRUJaMFZIUjEyMjFacHFmcXZh?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 20:39:31 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.544,
+        "negative": 0.456,
+        "label": "neutral"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W28"
+    },
     {
       "title": "Talarico challenges Paxton to debates in US Senate race - ValleyCentral.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSktHTUo1U0hRNzcxNmJWangyclJLMnNOaUNjWVhidmlXcUEycE9jWTREVlQyVWJvdHZHRm1sbHc2d2tCamxMNnAxR0hiMU5QeTg2SWc4VTktY2pybGphSXREWmJJbXV2Um1xMHFrblBRQWVhX1BNQnlOb3VZdlZqcERkWEdqbUdRT3hXbXVPYVpaenZFOF9BY2x6QUpHcDFvRmNHVWZ4UEI3d9IBrwFBVV95cUxPV0J6X3RDM1EyNklsZkJ0czdsNEpfTmVHbFZoaEhjME5MWXVBM1RUY2M0bWdpdlBDXzRtY3dnMV92cVVadXBRZ2w5d01keHlrN2E1Q0dmSU56NlBQREpYNXE4WERpY1c5V3BwYTRLOHhNNVFsLUpkZ29WUTBZZ0Nyb1hKTmh0WnItYWp5enV2NUduV1JUZm9EdVNwSGhFMUlQY0Q0NnhwRlJHSHJRYVgw?oc=5",
@@ -1831,45 +1869,15 @@
       },
       "candidate": "both",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "GOP official says James Talarico should lose election because he \"couldn't lift a 10-pound weight\" - LGBTQ Nation",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPX0E4TUlLR29OczRFTkozelBEdF84VDdFZm1DdmtSaHIycjl5bVdiLXc3YmFYS2wyTHFMNE1fckRSb0VKdVNsWG9XSUtZSkcxY1JIczMzanZuUVA3b3ZTN3FSZ05NX1dmWmcyVU5Hb0kzMkdxeFdka0xFNzJPM2l2eExEVXVFaFpUQ0s2bmExbi15NnRtVlVadzRGd2d0SnlUQWl4UDJrQi02VGpzWUdrTUZ2b0g3eDRiSktSMUFrMXVLTEVvNEJqdEhkV1U?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 17:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "Why Sen. Lindsey Graham’s death could impact Texas politics - KXAN Austin",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV3p4cnA3aU10UjdUcEx3SHlrS3BOSS1GNk15QXZseGJnUy15VnZpTEJLSXI1RnVsZkNMYTZuVkw2MGlENVIzTzJsN1hPSjhWdGxTSUZ6R2tHOEZkU2dRTWFsYWdLMDZIeDBVY25fSHl5R19KSEI2RkV3eTBCeWVydzFnX3VtSmQwVmZsT2NDTUU5RDhjbjd0Qlh0eHFfTkt4cVpodWRR?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 02:37:48 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "sentiment": {
-        "positive": 0.019,
-        "negative": 0.981,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W29": {
+      "talarico": {
+        "positive": 4,
+        "negative": 3,
+        "total": 8
+      },
       "both": {
         "positive": 8,
         "negative": 12,
@@ -1880,11 +1888,6 @@
         "negative": 6,
         "total": 8
       },
-      "talarico": {
-        "positive": 3,
-        "negative": 3,
-        "total": 7
-      },
       "general": {
         "positive": 0,
         "negative": 1,
@@ -1892,10 +1895,15 @@
       }
     },
     "2026-W28": {
+      "both": {
+        "positive": 4,
+        "negative": 7,
+        "total": 12
+      },
       "talarico": {
         "positive": 7,
-        "negative": 15,
-        "total": 23
+        "negative": 14,
+        "total": 22
       },
       "paxton": {
         "positive": 9,
@@ -1904,13 +1912,8 @@
       },
       "general": {
         "positive": 1,
-        "negative": 10,
-        "total": 11
-      },
-      "both": {
-        "positive": 4,
-        "negative": 7,
-        "total": 11
+        "negative": 9,
+        "total": 10
       }
     }
   }
