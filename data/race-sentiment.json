@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-07-18T00:57:03.722Z",
-  "newsFetchedAt": "2026-07-17T22:24:48.244Z",
+  "analyzedAt": "2026-07-18T03:57:19.220Z",
+  "newsFetchedAt": "2026-07-18T00:59:44.359Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "James Talarico - Encyclopedia Britannica",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IREhFWWRfcWpQYk8zNnhxeU9jcWRrVzIxWlJfZXpFU2E2aU5qMDI2RE9rTTh0b1RYZEthRWZySHFrdEtXSThJZ1ZROU5aM3k0bVZTTHRXa1owbW83clF0MA?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 05:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.988,
+        "negative": 0.012,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "Ken Paxton Bought 3 Utah Condos, Adding to a $9 Million Real Estate Portfolio - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11U0g0YjgxUXR2cTFKRTZPMkVDLXNqMDc3bk1QRjVmaXN0MDUzUkFhTmVYT0FsM0xxTS02cU5vOXcwVGRhLW9GVjE2UEpkV1hJb0hFUUNqTWdISWdLRXh6Y2hXUjIzR3dzNnlhQmMtSUo5VkpyU2wzVndlTXc?oc=5",
@@ -1849,28 +1867,15 @@
       },
       "candidate": "both",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "New Poll Shows Talarico Leading Paxton With Hispanic Business Owners - saobserver.com",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeFVGd0RnQkZDcDFTaEtvcGtGMnFUQkRKOVJ0eVdZeUR0cDB6N0Z6QUVWeU5KUHhPMV90Rm53bzVGX3RsSXd0TXhTRTZ5OE5GYXoxUkhyU3ZQa0NIQUlzaGx5aGFNbDJOWEhfOGJCTkpCTzRfS19Hck9aY19USWZheQ?oc=5",
-      "pubDate": "Sun, 12 Jul 2026 21:11:29 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 10,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.989,
-        "negative": 0.011,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W29": {
+      "talarico": {
+        "positive": 3,
+        "negative": 3,
+        "total": 7
+      },
       "paxton": {
         "positive": 2,
         "negative": 5,
@@ -1880,11 +1885,6 @@
         "positive": 8,
         "negative": 11,
         "total": 19
-      },
-      "talarico": {
-        "positive": 2,
-        "negative": 3,
-        "total": 6
       },
       "general": {
         "positive": 0,
@@ -1909,9 +1909,9 @@
         "total": 11
       },
       "both": {
-        "positive": 6,
+        "positive": 5,
         "negative": 8,
-        "total": 14
+        "total": 13
       }
     }
   }
