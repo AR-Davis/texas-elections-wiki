@@ -1,9 +1,28 @@
 {
-  "analyzedAt": "2026-07-18T06:08:46.813Z",
-  "newsFetchedAt": "2026-07-18T04:09:28.970Z",
+  "analyzedAt": "2026-07-18T09:59:25.760Z",
+  "newsFetchedAt": "2026-07-18T08:24:52.935Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Talarico challenges Paxton to debates in US Senate race - ValleyCentral.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSktHTUo1U0hRNzcxNmJWangyclJLMnNOaUNjWVhidmlXcUEycE9jWTREVlQyVWJvdHZHRm1sbHc2d2tCamxMNnAxR0hiMU5QeTg2SWc4VTktY2pybGphSXREWmJJbXV2Um1xMHFrblBRQWVhX1BNQnlOb3VZdlZqcERkWEdqbUdRT3hXbXVPYVpaenZFOF9BY2x6QUpHcDFvRmNHVWZ4UEI3d9IBrwFBVV95cUxPV0J6X3RDM1EyNklsZkJ0czdsNEpfTmVHbFZoaEhjME5MWXVBM1RUY2M0bWdpdlBDXzRtY3dnMV92cVVadXBRZ2w5d01keHlrN2E1Q0dmSU56NlBQREpYNXE4WERpY1c5V3BwYTRLOHhNNVFsLUpkZ29WUTBZZ0Nyb1hKTmh0WnItYWp5enV2NUduV1JUZm9EdVNwSGhFMUlQY0Q0NnhwRlJHSHJRYVgw?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 17:10:40 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.021,
+        "negative": 0.979,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "Texas Tech booster Cody Campbell addresses Ken Paxton Senate donation - Fort Worth Star-Telegram",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdmRjSFhXQ0h3Uzg4VDlqbGktQlBOZTFvQUI1bWtETUdjNmJQdEJtdW1zOEtDNWRRNlYwLThlZHFJaFN6eWY2RGdkV2pLX1c4VWVKeHA3ZVhhNnpLbFJ2V3FHUjZoNk5pdDRNbjNaeUN5NHl6eVIyWHJBS0Z4N2tDM2RHclVWOFBLQ3g5WERNQzVJTzFhQ2fSAZYBQVVfeXFMTm9qSlMtR2owMnlDUU9sMmU5ek8wLVN4cHFoSnNzbnhuMnZVWTZpSF8ySzVpQWUtOXNWWjRVQXhLM2Flc2JDN2U1N1hneE9mTkRkZTVOUlBjWkVobHYtRUdQeGxpR2dLeXY3OVBIQXloMjJHdWxsdTVGbnhxam9LVXdYdmUybG5LUF83M0FxWnhTcC1ubzhB?oc=5",
@@ -1847,28 +1866,15 @@
       },
       "candidate": "general",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "State of Texas: Record money flows into Talarico v. Paxton race - Yourbasin",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYlVrTXkyZ25MeUVlaE94VVhtYXdiNzhvX3hGazBEMzVBdjllVFVTTHphQTdOY0RZVlA5c3MxSl9nemstSFlzUl93aGo4RlR6M2VhOTlIU0lHcFh6Sk1pWTNzdnFVUzY5elJsZGxvTkhCLWszU0VQd3hva3lZMTdid2k3azR3UC1oV0tqRmZqU1JOYXlZbnU5eEVEUm9ETUdvQ3pCNV93?oc=5",
-      "pubDate": "Sun, 12 Jul 2026 09:38:31 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.011,
-        "negative": 0.989,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W29": {
+      "both": {
+        "positive": 8,
+        "negative": 12,
+        "total": 20
+      },
       "paxton": {
         "positive": 2,
         "negative": 6,
@@ -1878,11 +1884,6 @@
         "positive": 3,
         "negative": 3,
         "total": 7
-      },
-      "both": {
-        "positive": 8,
-        "negative": 11,
-        "total": 19
       },
       "general": {
         "positive": 0,
@@ -1908,8 +1909,8 @@
       },
       "both": {
         "positive": 4,
-        "negative": 8,
-        "total": 12
+        "negative": 7,
+        "total": 11
       }
     }
   }
