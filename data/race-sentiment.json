@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-07-18T03:57:19.220Z",
-  "newsFetchedAt": "2026-07-18T00:59:44.359Z",
+  "analyzedAt": "2026-07-18T06:08:46.813Z",
+  "newsFetchedAt": "2026-07-18T04:09:28.970Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Texas Tech booster Cody Campbell addresses Ken Paxton Senate donation - Fort Worth Star-Telegram",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdmRjSFhXQ0h3Uzg4VDlqbGktQlBOZTFvQUI1bWtETUdjNmJQdEJtdW1zOEtDNWRRNlYwLThlZHFJaFN6eWY2RGdkV2pLX1c4VWVKeHA3ZVhhNnpLbFJ2V3FHUjZoNk5pdDRNbjNaeUN5NHl6eVIyWHJBS0Z4N2tDM2RHclVWOFBLQ3g5WERNQzVJTzFhQ2fSAZYBQVVfeXFMTm9qSlMtR2owMnlDUU9sMmU5ek8wLVN4cHFoSnNzbnhuMnZVWTZpSF8ySzVpQWUtOXNWWjRVQXhLM2Flc2JDN2U1N1hneE9mTkRkZTVOUlBjWkVobHYtRUdQeGxpR2dLeXY3OVBIQXloMjJHdWxsdTVGbnhxam9LVXdYdmUybG5LUF83M0FxWnhTcC1ubzhB?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 02:12:06 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.063,
+        "negative": 0.937,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "James Talarico - Encyclopedia Britannica",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IREhFWWRfcWpQYk8zNnhxeU9jcWRrVzIxWlJfZXpFU2E2aU5qMDI2RE9rTTh0b1RYZEthRWZySHFrdEtXSThJZ1ZROU5aM3k0bVZTTHRXa1owbW83clF0MA?oc=5",
@@ -1847,38 +1865,18 @@
       },
       "candidate": "both",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "James Talarico outraises Ken Paxton by 3-1 margin in the race for US Senate - MSN",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSUNqSUF6SnFieFNwQzd1RTdZeXhjY0RJN01wMHVaWVB4OGlILUlCQ3IyaXJvSVEwYjluWVp0NW1JR0dKeEZ5M3JaNDdyMHZ1RHpkcDJIUjNtVXk4cE5TN0R1ajFaTDhfTmlaQTM0amYySXFzMzlqN0Qzc0lmUzRiMy1wRDZJS3hVYkV6V1NLa3NaMW1VZTRkRlFSNDF4SlNEVUc5QkNMZnJWdW4zSlFlc3FJaDZ2SVpTcldBRTJMTHpsaW12bDlncU4ycGhRMjk2UzV2ekI2dGgwM2JnUE9RMF94eGlEZDhG?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 03:40:45 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.985,
-        "negative": 0.015,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W29": {
+      "paxton": {
+        "positive": 2,
+        "negative": 6,
+        "total": 8
+      },
       "talarico": {
         "positive": 3,
         "negative": 3,
-        "total": 7
-      },
-      "paxton": {
-        "positive": 2,
-        "negative": 5,
         "total": 7
       },
       "both": {
@@ -1909,9 +1907,9 @@
         "total": 11
       },
       "both": {
-        "positive": 5,
+        "positive": 4,
         "negative": 8,
-        "total": 13
+        "total": 12
       }
     }
   }
