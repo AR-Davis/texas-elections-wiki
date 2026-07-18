@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-07-18T21:25:21.536Z",
-  "newsFetchedAt": "2026-07-18T18:29:15.808Z",
+  "analyzedAt": "2026-07-18T22:24:55.093Z",
+  "newsFetchedAt": "2026-07-18T21:58:15.954Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Peltola links arms, campaign cash with Texas gun-grabbing radical candidate James Talarico - Alaska Story",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcmdLVFU3dzgtQTdmQTdpa29va3RERWx0NjdCbGdoU0tPMGhHQWFJSlVXTmFLWnA0bEVYajFwVDMzRE0zQW15VkVuaUNKNmM0eERzSjNQMC1ZRlowdlR6cVZPVGNIZ2V5WmhFVnhGZUl1Z2staHFxcmRfMFRONHNGYlVURkdxTXRPTGFhSy1mTG9kNkthNmIzNEY4M3V6R05HeGxsM0wyMnhscjVpa0YtS19TejhCeWp5?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 20:04:52 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.078,
+        "negative": 0.922,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "Will ‘Peak Woke social media posts haunt Texas Democrat Talarico’s Senate bid? - Washington Examiner",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYWtMcDRxRnlhc3NuemNMOElsblZYTjNvdnV4VkhramR4ZWh0VjVuTmpUdkxLd2VoV3RFX2U5a2JpbnNNQjBpbThRcWdYbm5fQy13ZG4tajE0ZGJiQWVJdTUxMmRzOEdqNWJUZmQ1c0tmVDc5R2FTVmowSzlsY1NIa2x0WmNhaFpyQ3F0R29HeGR5UFlQX2ZkZm4xRFlkT0ZwYmc4RWJnZU5PTW1obk5fRGRNRERuR1otbUd0aFNIczZYdHFzS3c?oc=5",
@@ -1845,32 +1863,14 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "‘What a Creep’: James Talarico Draws Fury After Labeling Texas School Library Porn Fight a ‘Manufactured Crisis’ - The Nerd Stash",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY2lGVkU1ME53RFlEQ3FCTE5OSHJvMjlTcTZWaEczRVpaY2hLUk50aEhYRXZ6QTVwWjlQTTJqak9GUGVyb2w0MGdDLTZpeEZJMEctcGtDRmRUOGhpZUtQYVp5dC1aSUV0SjlOMHJENDlGenJXdDJ1akJMU3JUMWYxZHhINnpTUXFYOG9peVdFX25Qbk9XRTlKdy1mQlduLWl6R3BTcG1xR3A4akZ3dnRhQ3RlRy1kYUV5UFRqWmZNSEhYb2lYR0p4QW8xZGdYUQ?oc=5",
-      "pubDate": "Sat, 11 Jul 2026 12:15:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.769,
-        "negative": 0.231,
-        "label": "positive"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W29": {
       "talarico": {
         "positive": 4,
-        "negative": 5,
-        "total": 10
+        "negative": 6,
+        "total": 11
       },
       "paxton": {
         "positive": 3,
@@ -1895,9 +1895,9 @@
         "total": 9
       },
       "talarico": {
-        "positive": 6,
+        "positive": 5,
         "negative": 13,
-        "total": 20
+        "total": 19
       },
       "paxton": {
         "positive": 9,
