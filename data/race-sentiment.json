@@ -1,9 +1,65 @@
 {
-  "analyzedAt": "2026-07-19T13:42:55.217Z",
-  "newsFetchedAt": "2026-07-19T10:56:15.446Z",
+  "analyzedAt": "2026-07-19T15:01:53.141Z",
+  "newsFetchedAt": "2026-07-19T14:04:01.376Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Will there be a James Talarico-Ken Paxton debate, and how much would it matter? - Austin American-Statesman",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc3NjZm1zWUF2bmx1X1VzNmZhbEpHZVJTbTVmTDdFUFBrUHlSUHQ5Tk9NRkZRMjRNdkhXbXRpS0NjTHNhSWJVb1ZrQlpRYUo0SUJYWl9EYzJKS2hJZVlRNWkxR2c0Uk9NMk1BOEZZUG9pMFJ5cVBmQ2pDVml5X3RVQ19PZUxJVmVIejNTUDlmWm9uWjAwN2VKUzJsOGYxN2tjV1dXSXA0czY?oc=5",
+      "pubDate": "Sun, 19 Jul 2026 10:07:03 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.001,
+        "negative": 0.999,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "Talarico opens gaping fundraising lead over Paxton in U.S. Senate race - Longview News-Journal",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeWZCRlhqelN6NkFYTTdBY2N1OGdWOEJ3d1hwZ1BKSzI3ZVUxMTl0VUhtTENZRWpCbzJja2VaRjBQSDkxYlpQWGNyZ045TmFjNGNVZFRiREZieS1GaFViSl9rR2ZlZ2Jya0J3RzMzNE5jbXU3ZGVrUm44cXgxTVhHMnVlVU9UMFVYVS1ZSk0wWXdkU2ZURW16amg1R2FWaWtobWVBNWlCMTVHQQ?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 15:14:17 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.894,
+        "negative": 0.106,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "Battleground Texas - Talking the latest in Texas politics - FOX 26 Houston",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ILTU4VVpzOGNMUHhjLU5RMXg3WndsdmRzUkV2Sl9BYmtPT09JSVppM3Y0RVUxYTJMVWNpeGY2V2NtVGVQdERDQ2h0ZGtBNVBaZXp4cDhvWklIUWdzWHdaMTlsMGpSUdIBa0FVX3lxTFBENTFHUG1Fa1FTOUVIOXFhc01ld3FVVW1iMjF4RmV0UUpVbWg2X2FKb3dGQkp6ZC02dkVqeEtIbzZ1d2d0QlpiQkdmYllBY3NTSEZSRENfcTFXX0hLVDFzMl80QktVbEU5bktR?oc=5",
+      "pubDate": "Sun, 19 Jul 2026 01:00:04 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "sentiment": {
+        "positive": 0.983,
+        "negative": 0.017,
+        "label": "positive"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "Paxton agrees to debate Talarico in Texas Senate race - Texarkana Gazette",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRGR0STJnRjJXdlFLc2pHcFNIdE5ORkVXVTBHMk9taXBLdG1HN1dqVUtwWDVYaTQzeExIMWY3MDZxTEl1dVRYVXo3Umo1YzBhX0VUckp6VmlEYktfaFkzX09EcU1DSlg4c3FVWERyME90Qlh2THlRZm9kOVEwSTAwQ0V4VzBhcmp0N0x2Y3QyWlNaY0EwbzVKdjdhMVRVMWxj?oc=5",
@@ -1808,79 +1864,24 @@
       },
       "candidate": "both",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "Texas Senate candidate James Talarico visits El Paso church - El Paso Times",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM0ZYekVRU0FoWXQ4M2pwaXZlTmZrYjNDdEM4TS1BODNMVzBPQ0N2NW9VM2U2OFotbVhKN2trcmhoS2JSeDRxd0N1dnhkNGx3VU5RUF9VYjJva1VuaExtSmhUclZTR2tWaHJsWkc0b1NWQkJ6aVJkOWFUczdRb1FwRGJFS2hBX2tKU3ZadnZnM196VFhqLWFCbG1MQm83ZnNXXzFpUTlTTVFXVnVWdzh4dHExNzNtemRYM0FiMUo4STd6Nnc?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 16:32:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 18,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate"
-      ],
-      "sentiment": {
-        "positive": 0.984,
-        "negative": 0.016,
-        "label": "positive"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "James Talarico Kicks Off Texas Border Tour With Renewed Push for 'Comprehensive Immigration Reform' - Latin Times",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd1p5RkVXLVg2SDBMMDctS0tTcEVnUkVfTEZsWmdMaExvdU9GSkIzNWhVN25hOVBRQS1EQkpWYmtnVUxIRnFlY1RYN2FheHNCN3hUaUNBVERBekxXMU1SYTVxTEEtQ3FOMUlPdHpUNl9LaEw3dHBBcDQxdjRSTVNWQzlmbFhhdzMwdEt3ZGFWcS04cXB6Z2l6ZDg4UFBWaG5EckpVVWpvamFDYWcyLWhrd01uWkpTRUpYYTl5N1VnWQ?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 17:08:30 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.996,
-        "negative": 0.004,
-        "label": "positive"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "Battleground House GOP candidates aren’t running away from Ken Paxton in Texas - Washington Examiner",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUDZ1aWNQMEtvVXQxbDFpUmVGdUlEaVljWmhva3Z1cVc5OERpWkIxN2FXVlZvUTdmek1RbkpZdGFVZGt6ZEtPTTgycDZEbUcxa3hBajdjTXBTb21KSm1aNHlXZGItUzE2bGV0UWRCR1BhYmZ4X0Zic2hMTXhxWFNvVFJxbEw3MC1ESjdPaXY3T0J6blhCNWFUMlpTNHNnR2l2WlFpRFp1eXpDLVpBTkluU3d0TTA4REk?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 16:22:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.993,
-        "negative": 0.007,
-        "label": "positive"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W29": {
       "both": {
-        "positive": 11,
-        "negative": 12,
-        "total": 23
+        "positive": 12,
+        "negative": 13,
+        "total": 25
+      },
+      "general": {
+        "positive": 3,
+        "negative": 1,
+        "total": 4
       },
       "talarico": {
         "positive": 4,
         "negative": 7,
         "total": 12
-      },
-      "general": {
-        "positive": 2,
-        "negative": 1,
-        "total": 3
       },
       "paxton": {
         "positive": 3,
@@ -1895,14 +1896,14 @@
         "total": 8
       },
       "talarico": {
-        "positive": 4,
+        "positive": 2,
         "negative": 10,
-        "total": 15
+        "total": 13
       },
       "paxton": {
-        "positive": 9,
+        "positive": 8,
         "negative": 9,
-        "total": 19
+        "total": 18
       },
       "general": {
         "positive": 1,
