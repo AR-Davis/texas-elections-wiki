@@ -1,9 +1,64 @@
 {
-  "analyzedAt": "2026-07-19T18:29:17.493Z",
-  "newsFetchedAt": "2026-07-19T17:04:18.016Z",
+  "analyzedAt": "2026-07-19T19:42:30.227Z",
+  "newsFetchedAt": "2026-07-19T18:29:37.594Z",
   "totalAnalyzed": 100,
-  "newThisRun": 6,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "In tight Senate race, Talarico and Paxton discuss border security during campaign stops in \"critically important\" South Texas - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWnl5dTR5NzdlVklsWnFNNnBPOFQ2TnItQ3lTN1RPdVpMdFJDUU1kZXZUVFdnUzB0aGkwYjNxN1RxQkFERVRIVXdWU1RlS2FUYnU1SWJMT3Npa1RBdU1najBDSjdkMzhoRFliVzllVDdLYUNmdFRGaGlnM3I5Z3NsY2VDbUY1Q1VEOGdrWU01YjMyT3YydmVnZmh2dnJHTmgwXzg0T202Zkh3UDgxUmd1eEJzUjAteGlsYzNmMUlHU00wWXY4Y0Y4dVFROXNKZ1RYbE5yQi15UHp4MWZqV09WbV9B?oc=5",
+      "pubDate": "Sun, 19 Jul 2026 10:00:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.989,
+        "negative": 0.011,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "James Talarico's Gun Control Agenda Faces Scrutiny in Texas - The Truth About Guns",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GY0ZKWU9JX0hidlBURW9WYWdRa3ZJbjUzemxlUmZkbFQ0emt6Y1lDNUtrZGRlUFl5UWxObHNVUFJmRGRTa2FlTEtPd055VUtWai1SZzlhXzVmemt0V0x3bDRCSm51NUxSYnVkTGc3MTVOdVNUNy1YblF4alpfUms?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 14:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.005,
+        "negative": 0.995,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "Paxton to Debate Talarico in Texas, Terms Unclear - Newsmax",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeXlaLWhqMW9SVVQxeTdVLURVaFB2aU9haHY4cFhxd2NyR2wwbEY5dmVqWHZ3VDBVNk5KZmRNLVlkVmM4LXF6WUxZdTFhWXVNNFVCUDdoZnNWWVBaVlY3Zk42bHZHbGdYcWpacXVZcEtoRVR5c25ud3YzSUdrWmNHeUJab0JLSkFiZ1FJVjhQcWFkQQ?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 18:47:41 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": {
+        "positive": 0.095,
+        "negative": 0.905,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "James Talarico’s Gun-Control Past Resurfaces in Texas Senate Race - AmmoLand Shooting Sports News",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORUJLQnEwZGlycElLMHhwdlhScnludHczbVNub2R4MEdLeDBFWUdGLUIwbW1obHdpRE5uUjkzWUlYTUlCc2NfYjZYT3NRa1d5MXh2a0xQWmRqVG41bWZpbEQxR0V0eW11d0JYNXhPdGtIbjRUMkd2YnJ6N0pCT0dId05VcXNvVkZHUEhkWEprb0lhb0hySUZXYlRnekdUWkE?oc=5",
@@ -1816,73 +1871,19 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "Texas U.S. Senate candidate Talarico holds border security press conference in Sanderson - CBS7",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYUNhSUc0OHhoM19JSldNaG1ObTNpQ1A0WWZyZm1fOENrZ25nTTdndUc1XzZJcVB3dEtFVDBXcHQ4OTVacy13VVY4RkNkWDE4U1hianEybTZKYll0a3NwcEpoTC01MVgtQnFVallrTXF3UUpqMllPU19pWlJqM3ZXQUdkVXlwMnhBUzcxN3ZjYldnbWdITXBWbWlEMzQyTi1wZzBtN2lSOHptdnlwUnhIa2oyQzZ6WHFBUnJnTmdWR2pGZ3dkNlpYcA?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 18:38:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "talarico"
-      ],
-      "sentiment": {
-        "positive": 0.246,
-        "negative": 0.754,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "Texas Republican U.S. Senate Candidate Ken Paxton Holds Rally in McAllen - C-SPAN",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZFljZ2dSMlNHWlpOdkNNbEZEOGlnTFNydlRUeXI2R2ptN1ZUQWFBRDJSak1ERjQ4VDhIV1I3WlVibkk3aHp1WkRDem1jZDNUQzZxS2I3VHdhbTJCbUN5SjFPN3VFd0NWS2hfQmxpLXdOcHVZZkFybmNvUW9vUThESGpnNUIyX0dfcDJfcFBJUWx2WElzSVJzNTI4bFZkVUVGS0RndWhIN2FPdDFhVWxzaThabElWSmwteGdSQmJxTQ?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 00:07:12 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "texas republican"
-      ],
-      "sentiment": {
-        "positive": 0.927,
-        "negative": 0.073,
-        "label": "positive"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "Cornyn hints at midterm convention snub after loss to Paxton: ‘May have a conflict’ - Washington Examiner",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdmFlTk9Va3djUjhXeEhLUVNlc3ZBYlQyNHhDTlpibHlSNjZ1VHpxaEctM29fS3FYazluUGtES2lkWHlkRXVPRURTMmV0RzYxcjVrYTdCUEZ3WDM1Z1BTMS1CMEt2OW9KS2lrUjItWFhndHlkZHo5QUNwaEwtaW4wd25XUmhWVzVHbVhWTzNZUU9VVk0xMER5SVhhdWlpVUFsSkJlTFJZeW5hZVZxQ3dYZlZHYWstanM?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 00:16:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 9,
-      "matchedKeywords": [
-        "paxton",
-        "cornyn"
-      ],
-      "sentiment": {
-        "positive": 0.014,
-        "negative": 0.986,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W29": {
+      "both": {
+        "positive": 14,
+        "negative": 16,
+        "total": 30
+      },
       "talarico": {
         "positive": 4,
-        "negative": 9,
-        "total": 14
-      },
-      "both": {
-        "positive": 13,
-        "negative": 15,
-        "total": 28
+        "negative": 10,
+        "total": 15
       },
       "general": {
         "positive": 7,
@@ -1903,13 +1904,13 @@
       },
       "talarico": {
         "positive": 2,
-        "negative": 7,
-        "total": 10
+        "negative": 6,
+        "total": 9
       },
       "paxton": {
-        "positive": 8,
-        "negative": 9,
-        "total": 18
+        "positive": 7,
+        "negative": 8,
+        "total": 16
       },
       "general": {
         "positive": 1,
