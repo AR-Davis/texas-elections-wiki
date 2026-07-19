@@ -1,9 +1,66 @@
 {
-  "analyzedAt": "2026-07-19T21:57:53.511Z",
-  "newsFetchedAt": "2026-07-19T20:58:07.857Z",
+  "analyzedAt": "2026-07-19T22:56:42.578Z",
+  "newsFetchedAt": "2026-07-19T22:01:37.542Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Texas Primary Runoff Runoff: John Cornyn Destroyed Ken Paxton After Loss! Trump's MAGA STRIKES Again Ben Wallace (afLqRIL5zX) - Mshale",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93ZnEwSUVuZnFITFgzNEpseG9QZF9oZFZ6NHN4ejB5ZTN4ZFByXzZUTE0tckVnLWx4NTFCbjlBbG9QM0tHdG80VGVWUTFKRUxFbGJoYVpidmFuYzQ?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 13:10:55 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 24,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "primary runoff",
+        "cornyn",
+        "john cornyn"
+      ],
+      "sentiment": {
+        "positive": 0.009,
+        "negative": 0.991,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "Cody Campbell waves off Ken Paxton donation, says he could make 'nefarious deal' elsewhere - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZnRzX1A3QUpyZVl5aGxselEwYS1wY3hRellpZFh3ZmJ3VDJ6ZFZZQnc0cUZsNEctYm5uV2xiMnRpaHhoNHd0MmExUXdpUVFFenBuMWlscWVrcEN6cFYxQWRrelQybldTcF9KTDN4cHZFeWhpWFJQSlNCa3UxX3hGUEhjRkN3SkQxMjQtbGZoS0g1ZXJPMHB1R0pLR0hLa2p3enpJeTJNXzVfWV9MMHJjRmdoREg?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 14:29:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.015,
+        "negative": 0.985,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "Cornyn donors largely keep distance from Paxton - Axios",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa3E5bHZRYl95aHM2SHN5YVZ0ZXlCRWpZSWQ4TFZMN3dTR05wOUNYYWpLVVV6NUVQZktMQmRIQllET0FPWXpuVlBocG95RjUwYU10ajc2WHBjSVpWUHJRZDFndERHZ202ZkxlQjQ2QzVxTUpiNllfWHRhTkpvR2FIUEFpQkRDYXhrR2sydHRNQTc3bkFESEpyaA?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 23:54:18 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 9,
+      "matchedKeywords": [
+        "paxton",
+        "cornyn"
+      ],
+      "sentiment": {
+        "positive": 0.023,
+        "negative": 0.977,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "Ken Paxton - Encyclopedia Britannica",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mbk0zSnlhSEFWLVY1Sng0d0hNQTJmZGt2eEJFZUo3cVpKWE9RNlVSWHplU09Zb1FWNHRldThhZUNVUXRWN1J4MzNjeEpmc1VFRVNlRTJra2ppc0U?oc=5",
@@ -1812,69 +1869,14 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "Texas senate candidate Talarico holds border security press conference in Sanderson - CBS7",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOODdSTTQ2ZzJyWHVkelBUS2ZJLTVwMW54VmJEVFlqbzhBbTlpS18wRXlvdVFkc0pNVGpFYS13WDRZSDVZT2FCcC1EVERGOFhqbDVfRXFOWEZuUlFaVFRzOHZRSjZfaWpBRWs1VllhQ09xNlNkcVVJTnhmbi1OZnl2UG51czhXNWRzQlNUSWdnZ0RpMnVuREJub0NaMHBqbkpBVWdKTEp2dlg0V3hrczhGTURIWXVDWnI1MjJZY096aURLanMy?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 10:20:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "texas senate"
-      ],
-      "sentiment": {
-        "positive": 0.16,
-        "negative": 0.84,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "How suing Biden more than 100 times fueled Ken Paxton’s rise and reshaped Texans’ lives - The Texas Tribune",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRGpROHNlTmkySEU0a21yOXZ1NTFtLWFkY0l4ajAyT3dHdVM5MGlKY2FBcHA2dkhvWUs5cFRFN1JXeXMyLXhJWF92M2EzR3FkNmh5a1Zoa0ZkcWtnbDhxUHZkSTBGYkNfZFBfQTdNOGVlN2V2U1Bsa0NoUmFjamo5cGVTV21YZlQxRzd0Zk1iT3dGQU5NWmxpRlF2X0gxOFQ3ZnFQYTY4Vk1nRUg4?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 10:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.993,
-        "negative": 0.007,
-        "label": "positive"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "Texas GOP Senate Nominee Ken Paxton Photographed In London With His Alleged Christian Influencer Mistress O... - uPolitics",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNTBIZHFFa2FWWm03QzZtckFJSEZNak9raTVVcVZqdE0yc09XZU5kZWxCaFFUT0JQdm1yZkVPNUstQmxsbkNEdFRrdnNyRndqSkdvLTNROFBUdTBFMlVnWmJaY2lnZW1QX1ExWlBDZ05sejgxdmdHdkszSFJzd01XTVpRYzY2dndRaVY3WDkxcHZGWU5GVWEzbmFlUXhRdDUxVVhyTmVHRHVCclFlemNkWmZleXJTb0cxN2o2Ti1pY0kteWE1dXAyamxvcnhVOVUySzlGNGlENXUzZWPSAeABQVVfeXFMT1YwZEYzb3VUSXE3dTZHUUUwSy1fMWMtRlNWRGpYOVhfY1FPS29zRDVUcVdXSWtrRVFaQWN2YkN2QkxJb1ZCZzBLZHliUmFISFFCdmp6dS1vRGQ1d0xIc2dWOWJTVzEweGhXVlJpMzNib24xcFBWODE0QzllVjBpZGtyOWZLazBNWVlUQkJwZUZRa05FT2RmNk53Y2hZc2NlR0d4VWVTVWpGZ2o0OE0xRnllUHFBaWp5M19SN19HMDFGR19WeXcxX1FqNzM2LW1qck91bGh3X3R2a0JkZDR2dUE?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 04:13:53 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "texas gop"
-      ],
-      "sentiment": {
-        "positive": 0.346,
-        "negative": 0.654,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W29": {
       "paxton": {
         "positive": 4,
-        "negative": 7,
-        "total": 11
+        "negative": 10,
+        "total": 14
       },
       "general": {
         "positive": 7,
@@ -1900,13 +1902,13 @@
       },
       "talarico": {
         "positive": 1,
-        "negative": 6,
-        "total": 8
+        "negative": 5,
+        "total": 7
       },
       "paxton": {
-        "positive": 6,
-        "negative": 7,
-        "total": 14
+        "positive": 5,
+        "negative": 6,
+        "total": 12
       },
       "general": {
         "positive": 1,
