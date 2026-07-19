@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-07-19T20:56:09.407Z",
-  "newsFetchedAt": "2026-07-19T19:47:21.786Z",
+  "analyzedAt": "2026-07-19T21:57:53.511Z",
+  "newsFetchedAt": "2026-07-19T20:58:07.857Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Ken Paxton - Encyclopedia Britannica",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mbk0zSnlhSEFWLVY1Sng0d0hNQTJmZGt2eEJFZUo3cVpKWE9RNlVSWHplU09Zb1FWNHRldThhZUNVUXRWN1J4MzNjeEpmc1VFRVNlRTJra2ppc0U?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 05:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.996,
+        "negative": 0.004,
+        "label": "positive"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "Battleground Texas - Talking the latest in Texas politics - Yahoo",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZzFvcTJ3ZzdMelpOYUoydk9uVUFySlNYVEtJRktxcnctSkhrRldQMDlXMmdITl9mSWtnMDY5WXpteThUZFM1QXJNeUVNYjZiSk42bjktWld4RVhSZ0VVaEd0cG45YndWUXRsUGUxbUVKdTVJUFZlVWZGd1Fhb21mMU14VG84cGJ3MndmRVF2d0Yzdw?oc=5",
@@ -1849,29 +1867,15 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "Texas GOP Senate Nominee Ken Paxton Photographed In London With His Alleged Christian Influencer Mistress O... - uPolitics",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVjBkRjNvdVRJcTd1NkdRRTBLLV8xYy1GU1ZEalg5WF9jUU9Lb3NENVRxV1dJa2tFUVpBY3ZiQ3ZCTElvVkJnMEtkeWJSYUhIUUJ2anp1LW9EZDV3TEhzZ1Y5YlNXMTB4aFdWUmkzM2JvbjFwUFY4MTRDOWVWMGlka3I5ZktrME1ZWVRCQnBlRlFrTkVPZGY2TndjaFlzY2VHR3hVZVNVakZnajQ4TTFGeWVQcUFpankzX1I3X0cwMUZHX1Z5dzFfUWo3MzYtbWpyT3VsaHdfdHZrQmRkNHZ1QdIB4AFBVV95cUxPVjBkRjNvdVRJcTd1NkdRRTBLLV8xYy1GU1ZEalg5WF9jUU9Lb3NENVRxV1dJa2tFUVpBY3ZiQ3ZCTElvVkJnMEtkeWJSYUhIUUJ2anp1LW9EZDV3TEhzZ1Y5YlNXMTB4aFdWUmkzM2JvbjFwUFY4MTRDOWVWMGlka3I5ZktrME1ZWVRCQnBlRlFrTkVPZGY2TndjaFlzY2VHR3hVZVNVakZnajQ4TTFGeWVQcUFpankzX1I3X0cwMUZHX1Z5dzFfUWo3MzYtbWpyT3VsaHdfdHZrQmRkNHZ1QQ?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 04:48:56 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "texas gop"
-      ],
-      "sentiment": {
-        "positive": 0.346,
-        "negative": 0.654,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W29": {
+      "paxton": {
+        "positive": 4,
+        "negative": 7,
+        "total": 11
+      },
       "general": {
         "positive": 7,
         "negative": 2,
@@ -1886,11 +1890,6 @@
         "positive": 4,
         "negative": 10,
         "total": 15
-      },
-      "paxton": {
-        "positive": 3,
-        "negative": 7,
-        "total": 10
       }
     },
     "2026-W28": {
@@ -1906,8 +1905,8 @@
       },
       "paxton": {
         "positive": 6,
-        "negative": 8,
-        "total": 15
+        "negative": 7,
+        "total": 14
       },
       "general": {
         "positive": 1,
