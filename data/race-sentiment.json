@@ -1,9 +1,30 @@
 {
-  "analyzedAt": "2026-07-19T09:28:14.070Z",
-  "newsFetchedAt": "2026-07-19T07:06:42.506Z",
+  "analyzedAt": "2026-07-19T12:01:41.692Z",
+  "newsFetchedAt": "2026-07-19T10:56:15.446Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Paxton agrees to debate Talarico in Texas Senate race - Texarkana Gazette",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRGR0STJnRjJXdlFLc2pHcFNIdE5ORkVXVTBHMk9taXBLdG1HN1dqVUtwWDVYaTQzeExIMWY3MDZxTEl1dVRYVXo3Umo1YzBhX0VUckp6VmlEYktfaFkzX09EcU1DSlg4c3FVWERyME90Qlh2THlRZm9kOVEwSTAwQ0V4VzBhcmp0N0x2Y3QyWlNaY0EwbzVKdjdhMVRVMWxj?oc=5",
+      "pubDate": "Sun, 19 Jul 2026 09:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.984,
+        "negative": 0.016,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "Talarico opens gaping fundraising lead over Paxton in U.S. Senate race - Longview News-Journal",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPekU4R2FEdlRrWncxbG1HcnJjTm1lSmRzOS1lMmswYXBDXzc4cUl1b3NfaHl4Y054VkRLYUlLSmNuZFVuX0d6QWJZekFLUTJIWjc0UjRoU1hjaWgwOGY5b0xlRmJjMW1UaXB3dWdnVFdxbExBWDhmWFRjYW5HYjVuT2xPYUxMNUdPWWozSUFHakpIMUdtLVZhRXdvZDY4ckRMbEpIRlZEWnpIUWc2OXBISUs4TW4wY1Rvam9CMDd6UUpuZkJDT1JfZjU3T1JwRkY4aXVrb0dmWUFXelF2SEhuUTlZSUQzNi05dzNtLW1rN2J0UjlEX0NDdGd1OXU?oc=5",
@@ -1842,32 +1863,14 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "Democrats are Pouring Record-Breaking Donations Into James Talarico's Campaign - townhall.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWk5uWTZpeEVUbUhxbk1YcVlMaWJPUXhQeU5iQ2hoWEJPUEVmSW02LWhjS3Y0LVRsd2pwNTVIYU1PTGtPMEw4ZDEwQTRxdlN2dVplUk5OZjNLQmRXdVJiVVpTdnZGZ2NJNDVSWFJuNUhXSGxIbGl5WUIyN1pTZDRpMk1uaV9jY09YdEdrQ2FKSGpib2NwbmQxM1o1SQ?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 17:15:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.042,
-        "negative": 0.958,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W29": {
       "both": {
-        "positive": 10,
+        "positive": 11,
         "negative": 12,
-        "total": 22
+        "total": 23
       },
       "talarico": {
         "positive": 4,
@@ -1893,8 +1896,8 @@
       },
       "talarico": {
         "positive": 4,
-        "negative": 11,
-        "total": 16
+        "negative": 10,
+        "total": 15
       },
       "paxton": {
         "positive": 9,
