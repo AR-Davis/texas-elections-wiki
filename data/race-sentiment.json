@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-07-19T01:02:33.389Z",
-  "newsFetchedAt": "2026-07-18T21:58:15.954Z",
+  "analyzedAt": "2026-07-19T04:28:26.114Z",
+  "newsFetchedAt": "2026-07-19T04:04:28.926Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Texas Tech chair donated $275K to Ken Paxton day before AG intervened in Brendan Sorsby saga - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQU09YbFNYZG9yb09rX0x3c3Y1WmY3dDlCbjY1U2dnQXZ6Z1ZvbGluREUyY3ZtUTkzUEJiaDNqVUo3UFlSOGJpQ2RNcVFKR0RDV1J6OE05THdRdGtFRnowZmIxaTZ0d21hY3lucTEtdi1tWjF2eWtrcXRhM0R0a1BhU3hFblN4Y3dVZWQ1bUZyOERqY1JNN3FMZkNPUU4wREtPenlWbHVXUFQzcGZOWnItR3pXeERPWWdaTmN2YWtEODktbUdfTUpQS3UyTUdIcEdJNXfSAdoBQVVfeXFMT21JRkZSZE1tV2l2N2JuZ3cyVzNma0g4Z1lYUGNldUVBWDFaUnFTYWdoSHRuMll6MkdCamY2M0FJTDRmMi0wYlZCVlpmT3l2ejF2aEIyakJ0cHp0Tk5RNzkzVFdBLW5xS1FMUVZwX3J0Q1QxMjc4SzQwLTlFUUZ5Rjl4Q2d3VDgyd29OWDJ2ZmZTbkNHTTVOTUV6anhZeXJKeF9iM0MtQUo0UUNDcFA2aFNZYlNQMGV1ZS1QT3dTYUlnaDllYm9CUVBCTThRZlNFdVp1ZjROQi12OFE?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 19:18:46 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.054,
+        "negative": 0.946,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "Peltola links arms, campaign cash with Texas gun-grabbing radical candidate James Talarico - Alaska Story",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcmdLVFU3dzgtQTdmQTdpa29va3RERWx0NjdCbGdoU0tPMGhHQWFJSlVXTmFLWnA0bEVYajFwVDMzRE0zQW15VkVuaUNKNmM0eERzSjNQMC1ZRlowdlR6cVZPVGNIZ2V5WmhFVnhGZUl1Z2staHFxcmRfMFRONHNGYlVURkdxTXRPTGFhSy1mTG9kNkthNmIzNEY4M3V6R05HeGxsM0wyMnhscjVpa0YtS19TejhCeWp5?oc=5",
@@ -1845,37 +1863,19 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "US Senate candidate James Talarico on key public issues in El Paso - El Paso Times",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZmxIMGJCN1dncE1OZEZXOGsyLWpreVNROWRZR0FjVWhCTDAwRnMyUVFDTHB2eDlyTWh3bjRseTU4MjNIVVFsMDJfSUdfbERSUEhpM1VCaVhaS1haZ2R0SE9GSmhHMk1BUGhiVlVSUVc0VWY5VVZVV1dKcnlzdlJUWWFQcUtoSmVPVG5rQTQxdER0SHFnb0kwaldSS0Q3cmgyR1lrM05HbjNzaHdsLW5GMnRJa25ZcFJPRDA0cWVtRnNKUQ?oc=5",
-      "pubDate": "Sun, 12 Jul 2026 12:53:45 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.995,
-        "negative": 0.005,
-        "label": "positive"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W29": {
+      "paxton": {
+        "positive": 3,
+        "negative": 7,
+        "total": 10
+      },
       "talarico": {
         "positive": 4,
         "negative": 6,
         "total": 11
-      },
-      "paxton": {
-        "positive": 3,
-        "negative": 6,
-        "total": 9
       },
       "general": {
         "positive": 1,
@@ -1895,9 +1895,9 @@
         "total": 9
       },
       "talarico": {
-        "positive": 5,
+        "positive": 4,
         "negative": 13,
-        "total": 19
+        "total": 18
       },
       "paxton": {
         "positive": 9,
