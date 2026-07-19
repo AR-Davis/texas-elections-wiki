@@ -1,9 +1,43 @@
 {
-  "analyzedAt": "2026-07-19T19:42:30.227Z",
-  "newsFetchedAt": "2026-07-19T18:29:37.594Z",
+  "analyzedAt": "2026-07-19T20:56:09.407Z",
+  "newsFetchedAt": "2026-07-19T19:47:21.786Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Battleground Texas - Talking the latest in Texas politics - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZzFvcTJ3ZzdMelpOYUoydk9uVUFySlNYVEtJRktxcnctSkhrRldQMDlXMmdITl9mSWtnMDY5WXpteThUZFM1QXJNeUVNYjZiSk42bjktWld4RVhSZ0VVaEd0cG45YndWUXRsUGUxbUVKdTVJUFZlVWZGd1Fhb21mMU14VG84cGJ3MndmRVF2d0Yzdw?oc=5",
+      "pubDate": "Sun, 19 Jul 2026 01:00:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "sentiment": {
+        "positive": 0.251,
+        "negative": 0.749,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "GOP railroad commissioner campaigns on culture war issues | Inside Texas Politics: July 19, 2026 - kagstv.com",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQX1VyXzhPRC1ZaWZtcTJxaHR0SWpXTWVmZVhsQm1xbTc3eXl1S0RkSjhQR3IzYUpqSjRDR0tKQ1dja3ozV1ZDOEQ2V2VVdTRUT1EtVDczMmI1T3Zyalg5TXoyMFFEYXBhbV9RVWNXcTRUMGJ1ZnI4WDFsVlhSX1Z3U1JWU3hHbTBrVmktbUJ3YTlrRFBCV3pIbEZ6WWhpQTU4Yk5Ha1hVdUthWHVYOHk2X3hmNE1fSTdRYzlUUXdUWEdDVklaYVJ3MkhPVElLaG03SDczR05aNE95a3pfbjk2NWMwc2dnQndvTXZJQkFrYXNaSUl4TE1remtKU1poaFYzSTNkT2R5ZU14c3kzYUNqZzV6R0dhUlNhYVpzLTdUMWFYZw?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 22:02:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "sentiment": {
+        "positive": 0.54,
+        "negative": 0.46,
+        "label": "neutral"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "In tight Senate race, Talarico and Paxton discuss border security during campaign stops in \"critically important\" South Texas - CBS News",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWnl5dTR5NzdlVklsWnFNNnBPOFQ2TnItQ3lTN1RPdVpMdFJDUU1kZXZUVFdnUzB0aGkwYjNxN1RxQkFERVRIVXdWU1RlS2FUYnU1SWJMT3Npa1RBdU1najBDSjdkMzhoRFliVzllVDdLYUNmdFRGaGlnM3I5Z3NsY2VDbUY1Q1VEOGdrWU01YjMyT3YydmVnZmh2dnJHTmgwXzg0T202Zkh3UDgxUmd1eEJzUjAteGlsYzNmMUlHU00wWXY4Y0Y4dVFROXNKZ1RYbE5yQi15UHp4MWZqV09WbV9B?oc=5",
@@ -1834,47 +1868,15 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "Report raises questions over Attorney General Ken Paxton’s voter registration - Spectrum News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSkltV2pqVmJ6ZmJvOUJhWVVtUUFqdU94Uk1JanNKWmdMODkzUFJxNnVBaEczajhab0p1LUZKUUtSUUpCc2RsVUlyeFRXZ1dicWFIOVdZbUZQMUJZcmcwSHdjd0tQVGVoR2tReURhY2k1UXk5a3NTem9BczNzbmpoZjdHZnhoVTllaWIyZks0OGczSldwUXBOaURHdGZ2T0dCVW01YVVHejVmUQ?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 01:45:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "attorney general"
-      ],
-      "sentiment": {
-        "positive": 0.781,
-        "negative": 0.219,
-        "label": "positive"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "Here's how James Talarico says he would approach border security and immigration - Austin American-Statesman",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc3VnVUpwODcySHIzQmtyOENjOGJ2UjhHMGlUQVhISGZRa0V5b2RYZ1lNQjlFdDJ1WE9naFVwYXdMZ2YzRFh0Z1VmRXVuc3NJcWdOVE9WUXh2eWIwTTRSZUt2YnhqazJyOVhGZkR2b280OGZfUHpuVE5rSEQ2Z1V3eVVkQnpJMVZkZXpCMXNKaFJuRUF6b2YycEtNcG8wLXFwaVRpXw?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 21:59:49 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.988,
-        "negative": 0.012,
-        "label": "positive"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W29": {
+      "general": {
+        "positive": 7,
+        "negative": 2,
+        "total": 10
+      },
       "both": {
         "positive": 14,
         "negative": 16,
@@ -1884,11 +1886,6 @@
         "positive": 4,
         "negative": 10,
         "total": 15
-      },
-      "general": {
-        "positive": 7,
-        "negative": 1,
-        "total": 8
       },
       "paxton": {
         "positive": 3,
@@ -1903,14 +1900,14 @@
         "total": 3
       },
       "talarico": {
-        "positive": 2,
+        "positive": 1,
         "negative": 6,
-        "total": 9
+        "total": 8
       },
       "paxton": {
-        "positive": 7,
+        "positive": 6,
         "negative": 8,
-        "total": 16
+        "total": 15
       },
       "general": {
         "positive": 1,
