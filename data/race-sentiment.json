@@ -1,9 +1,64 @@
 {
-  "analyzedAt": "2026-07-19T15:01:53.141Z",
-  "newsFetchedAt": "2026-07-19T14:04:01.376Z",
+  "analyzedAt": "2026-07-19T16:01:32.669Z",
+  "newsFetchedAt": "2026-07-19T15:32:06.455Z",
   "totalAnalyzed": 100,
   "newThisRun": 3,
   "stories": [
+    {
+      "title": "James Talarico challenges 'puppet politician' Ken Paxton to 3 TV debates: 'Prove me wrong' - MSN",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVjFjSkZ0T0VyUmNsbHJ0cGNWd1NmOXItNDZISjJ1ZUxWc0hZS1R6aUtIRVY5d1NKb0NQWi1QakJScmROV05VbHJRQlhEeGpHM01PZmtIYnNhemoyUlgwNmdVWklmanFsdzB0V2hZb2p4VnJ3VUY5YlpZNWZ6akZYY2VsZUUtX2xCV2JIUDhycDdNbG85SkI2djNqUVdHaEF5YWgzY1hMWUhKMFFKc3BIQXlUMGdyVktSZUpzU2J0ZWJENHl1QUdjYXR2TGZlMGM?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 06:07:08 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.029,
+        "negative": 0.971,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "Campaign contrast: Paxton and Talarico take different roads to South Texas voters - MyRGV.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbm1WMHl6eks2QTVaRlBtcWltRDEyOVJkUlFvWS1zX29vRDZCVEtIdWYtR3N4RGtZVGFKNTBCN2pEWXFCY0dkckFXazY3V0VOa05MTU9ld2V1QTMydFNuMG9KUVZqQ3Rzby1mS05YNDhnN2NVUG5UaFlqdlJ2Yy16SkJWaXpZMk9HeU10WHpoX3FEck95eFFJVlFObEJkX1RQMWI4SWtUUE50emQ0Y1hRX1V3TXIxa0pXSHZxSjVn?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 17:27:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": {
+        "positive": 0.152,
+        "negative": 0.848,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "Inside Texas Politics - KVUE",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTFZiS21vZDFKVmJrZkZ4NzBTWkFPUVlwaGJRUnF0NjBpeXo2bTg2MDd5MUZrRUZueTBZWnI5S09OZHJxU1p6Tkt4OElkdzhSRWhUM2NlYmZYYm5yUjN4Tkt0R2JPTElRdG9hTTRoVlFvaWdrU2I0dEdGTzVvM2RQMHNRQlRZdzJySVBrNW9HcFNpbUF6OFl5cmxqbmRuamlhWW1laDF1N1lsZw?oc=5",
+      "pubDate": "Sun, 19 Jul 2026 10:30:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "sentiment": {
+        "positive": 0.996,
+        "negative": 0.004,
+        "label": "positive"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "Will there be a James Talarico-Ken Paxton debate, and how much would it matter? - Austin American-Statesman",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc3NjZm1zWUF2bmx1X1VzNmZhbEpHZVJTbTVmTDdFUFBrUHlSUHQ5Tk9NRkZRMjRNdkhXbXRpS0NjTHNhSWJVb1ZrQlpRYUo0SUJYWl9EYzJKS2hJZVlRNWkxR2c0Uk9NMk1BOEZZUG9pMFJ5cVBmQ2pDVml5X3RVQ19PZUxJVmVIejNTUDlmWm9uWjAwN2VKUzJsOGYxN2tjV1dXSXA0czY?oc=5",
@@ -1810,73 +1865,19 @@
       },
       "candidate": "both",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "Talarico polling stronger with Texas' Black voters than expected, but enthusiasm questions remain - 88.9 KETR",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbm96clFMX2hnYzdfV3lpUUY5VlVlTXVaT1lvaWd6cVVEVDRPNHhNaXdtalV2QnFKamx0cFFkZS13dzlfUjFNN3RILThfZmZjUkkxY3c2YkJYcHdVRm5LUmtnQzE4LVZlUEFUSzRaLTNXX3F3WWhONU1TTGZSY2ZJU0NFdTBrNDJCZElhcFd2dUowY2lkWnpHeFJEZTFBWHd1QXY0TFIyNTRvbml3QTA5S1o1d2ZEQjdfelBNcTFZSHdPa2QwaWEzY0NYMldBcFhacmdBbXJxR3JremNmQ3RlYUVLVDYxZHV2Z3dj?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 15:32:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "talarico"
-      ],
-      "sentiment": {
-        "positive": 0.041,
-        "negative": 0.959,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "\"Who do I vote for?\": Cornyn voters weigh Paxton, Talarico or sitting out in November - KEYE",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd0M4NVBUd25mQjFOcnR4Mzd1UU1DZmdJUW9nY093bk1NNlVqODlVRHVsczk2VENSVFpVU1E0WXVFTFR1S0hDd25ST0EwQkdpSENDTzI1VktxN2U3SDBWMFVHZXUxajQtdm5EalRZYmRVTkNZbUhMRGVIT3RWc01PS2pFTGxpdWdBTDlxdFczZl81bkdtR0VzZzNvZ0JoaDVvLWM4MmhrUkszUlRCc3Ywb0xuY1M4aEhPSmwtX0xn?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 12:55:21 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "cornyn"
-      ],
-      "sentiment": {
-        "positive": 0.006,
-        "negative": 0.994,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "Talarico, Paxton campaigning in Texas this week. See events - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN2JZbEowU1Uzai1Ga1VpRDFHY2hmeEpDSTFUellqY19GRnZ3aDlrdXBTZTladVltTm5EVnVmWnhtcHhPN3hydlNhUkV5T0trY202OWFOcEdIdC1JMGZQUC1JRmFIWHdob2xRLWxDTjUwQTU4MDh2Nm9GTzdDNlJSdWhjaXpoWlhxcHZPOGloWl9fLXotc0IxZUoyNEx0MzJWTi1XdzVjZW93N2ZMX09YeFp1MWhMWEYxbHZtU0d3bw?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 19:29:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.91,
-        "negative": 0.09,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W29": {
       "both": {
         "positive": 12,
-        "negative": 13,
-        "total": 25
+        "negative": 15,
+        "total": 27
       },
       "general": {
-        "positive": 3,
+        "positive": 4,
         "negative": 1,
-        "total": 4
+        "total": 5
       },
       "talarico": {
         "positive": 4,
@@ -1891,14 +1892,14 @@
     },
     "2026-W28": {
       "both": {
-        "positive": 2,
-        "negative": 5,
-        "total": 8
+        "positive": 1,
+        "negative": 4,
+        "total": 6
       },
       "talarico": {
         "positive": 2,
-        "negative": 10,
-        "total": 13
+        "negative": 9,
+        "total": 12
       },
       "paxton": {
         "positive": 8,
