@@ -1,9 +1,120 @@
 {
-  "analyzedAt": "2026-07-19T16:01:32.669Z",
-  "newsFetchedAt": "2026-07-19T15:32:06.455Z",
+  "analyzedAt": "2026-07-19T17:07:44.033Z",
+  "newsFetchedAt": "2026-07-19T17:04:18.016Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 6,
   "stories": [
+    {
+      "title": "James Talarico’s Gun-Control Past Resurfaces in Texas Senate Race - AmmoLand Shooting Sports News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORUJLQnEwZGlycElLMHhwdlhScnludHczbVNub2R4MEdLeDBFWUdGLUIwbW1obHdpRE5uUjkzWUlYTUlCc2NfYjZYT3NRa1d5MXh2a0xQWmRqVG41bWZpbEQxR0V0eW11d0JYNXhPdGtIbjRUMkd2YnJ6N0pCT0dId05VcXNvVkZHUEhkWEprb0lhb0hySUZXYlRnekdUWkE?oc=5",
+      "pubDate": "Sun, 19 Jul 2026 16:13:12 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.188,
+        "negative": 0.812,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "Ken Paxton’s campaign says he will debate James Talarico in Texas’ U.S. Senate race - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdW1EY25hYzFXYTQ0Wk5DZ280eDNEdTRjelZud3ZWcHp2OFphbG5jcWFZazFnTWEwT2tKaEJlLUJ2a1RHUUdFSC0wR1VqWWg2d2locEhvdXBacFpubGhEYjNJSklZbnBKR3NEVGNWUThpMUE2N3JkNGJnOGV2dDhhSnVUMk1kRXhZczQ1U3lnWTBzeG52dHR6STlPNkZHZW95OXZoM1Z5ODFGUm5WMjgya0tCdlQzMjBjWlVaVUxGR3d1UGphWWtHcHJFMVhPcF95V3RJRFhJZ3ZiOWZVVllGT1owMDdkWnE0Tk9wOTJB0gH2AUFVX3lxTE5VLUxYSzhMMHF1b0NPSENJTkZTYUxFUk1ZbXBrZWl6clczLVN0V0tiYVZHTUt4cks1VU02M3VvS3IzRFc2Y09QT2pwQ0RXU1AtQm55TzMxdWRabHp4WUhxbGViQ0xyY0FoZTlKU3UyaktCTC1ZV1pQY1dVdU1YYy0wVHdjSkMxeHk3TTNHLURqTDdjU1VaTzVDR2ZmUG5JZkFTcHQ5VmtsUFdrSWkxQUVmejVQYkFpcHI1MnBvc0RhLXU2TEhCRE9KeXFXUHJ0N3ZQNl92MENGX3BOSnJsZTlSZFEtNnVVVWxqSUZBeVduZzQwdFI0Zw?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 13:28:45 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.978,
+        "negative": 0.022,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "James Talarico has very bad week after campaigning against ‘Epstein class’ - bizpacreview.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRVhvVmNoWTVyTkp4bWh0eU9OZDhHUm5CSEN3VE84cmd3NzJPTHdRR0I0eUdTSV9iVFR4czg4V2VnNkJNVDQ5VHVCUlZTTW9yTlk4aGs2Si1LelVsc1dxRWNKVnUwNDRrU0RVMEduTXFOZWlHelJ4aGQ4ZUVJdzdpRk9DbnFNRHlodno3SFZzaTA0aGJVLVNTeDNnSDk1SmxFVV9SdFhuSlJDLXJrZTRFU3R4ak5tdXZmV20zZE5n?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 12:17:21 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.001,
+        "negative": 0.999,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "AM Show Hr 1 | Texas Politics, Crime &amp; Camp Mystic Lessons - The Michael Berry Show - iHeart",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTHR2eGhWV0pmWl9NWXJXNmVJT3BaeWlDS2NjRnJTQVpDcmVwaEo4SWQxaEZQTVVySmZsMHFRblJ1YnYwMk5TMHJ5MEQ3VGR5aEFiU0I3SkZoc09UT25qZjktZENpTFh5cXRlVDJ4QWF1dTVIeUxNNmhRcXhqb2R0eDBTRDl4NkxCdTRYLS1PRnRCVkdjWDZ3ZXlNVm9ZYTZEOENYWFNsb2hMa3hLLVE?oc=5",
+      "pubDate": "Sun, 19 Jul 2026 03:25:02 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "sentiment": {
+        "positive": 0.859,
+        "negative": 0.141,
+        "label": "positive"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "EAST TEXAS POLITICS: Smith County sheriff, DA and county judge sound off on upcoming budget - KLTV.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOC0xcGRaeVpTdWgzUC1XcWJuZmFJaHRGa2hWSFB3Vnk1alZLWUhVRmE4RnVqMnlMUElNMktZOU5SQS1JZVA0LWlLVV9mVEhPeHpBNDBwY0dLOWF1VVFfY2lqelJwcDNDUTU5TEktSGhuLTJ0WFZlZDdHMnhsaUFxanNhOWVlN1ZvX2Rxb2hRczlja1RIZ0VmOXotXzBZNmdCYWpBeXNIUkZXZGxzdjRqM2RNMzNDd9IBygFBVV95cUxNRDZET1piaFBnTWV0YUpMT1BhQzRtVVYyYWFfblpral92cUxCQ096M0VUZkRMR1F4LWFNbnVaSG02VDlMWFZCWlY1eTRmNFc5cUZqQkZENGR6cDJ5NGx2TW16QVhzZ0dXZzlqMGkzVHM3Y0Y5RUFXQU5vWElrN0ZNRU5lMjliMzd6NUpVVGR0Q3Q3N0NBU2JSSS0yOE1ZTjMzVmF5bEZGOG1odTVSNzhlZ2NlLXEtc0txaXJ3RU5zX1dKV2R3dDNyU053?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 00:01:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "sentiment": {
+        "positive": 0.971,
+        "negative": 0.029,
+        "label": "positive"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "EAST TEXAS POLITICS: Smith County sheriff, DA and county judge sound off on upcoming budget - KLTV.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRi11TWwtZHZMN0JVZmVSVkYtNXZqcnVNeUdrWHA4WVZGT3dzTXZZV1FYNTJ3RV9LVElTZm5GNnZzUWRtdU1yMGZCR0FFLTdDYkctUWV4SEtYOUtLMEZNVXB5Nmw2b1JsbWl6bGpWZHNGMnNDMm9SZlV5c1lIZEt0NGtxOFZNUFZWbnRMWk5PYXpHemFIc25FcmhWYWFldkplOUdWNVVNNUotQWRYVW9EbkRqMHA4MHJINnk0ZnJn?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 00:01:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "sentiment": {
+        "positive": 0.971,
+        "negative": 0.029,
+        "label": "positive"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "James Talarico challenges 'puppet politician' Ken Paxton to 3 TV debates: 'Prove me wrong' - MSN",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVjFjSkZ0T0VyUmNsbHJ0cGNWd1NmOXItNDZISjJ1ZUxWc0hZS1R6aUtIRVY5d1NKb0NQWi1QakJScmROV05VbHJRQlhEeGpHM01PZmtIYnNhemoyUlgwNmdVWklmanFsdzB0V2hZb2p4VnJ3VUY5YlpZNWZ6akZYY2VsZUUtX2xCV2JIUDhycDdNbG85SkI2djNqUVdHaEF5YWgzY1hMWUhKMFFKc3BIQXlUMGdyVktSZUpzU2J0ZWJENHl1QUdjYXR2TGZlMGM?oc=5",
@@ -1759,130 +1870,24 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "Texas U.S. Senate candidate Talarico holds border security press conference in Sanderson - CBS7",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOckt2ZjZrRGlRZDdMQUY3VnBvbmNIWmxyNmpsS19QTWI4UmVjTDI1YW9UNnpOeGV6MlVlNTRmbVhkYVl5Y2NtakxSSEdMUXQtQkhBSDJfRml5dTNoRFZTSlJHMDdsYVFsaEx0S2R0SnBWSERBT2JQZllVb2VIQkdfeWtlOVFzVnk2RzFpV3dheEY5NFBBMGFZeFFDbWhDXzNtSk1NbS1vdTVFMndtYWRuVVdFc3B0M0VySWtRUmxvU0pJWk50SDduMjlWMFZRS1RzLWRRUTlKalBIUDZO?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 18:38:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "talarico"
-      ],
-      "sentiment": {
-        "positive": 0.246,
-        "negative": 0.754,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "Why Sen. Lindsey Graham’s death could impact Texas politics - KXAN Austin",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcm5xLUh0VGlsT1JOQjdlVndTQWdRbmlhUHJzX1EwcWVRZmxNb2FxcEt2NkJFdTNtSFVGVFljNjVOLTJrVmdmUEZCTk5OazU4Nl82MHhUV0tCU2NWbHUyTEhrM2VaOTM5M05LT1lrZ2IySy1leDFQZjE1TFNnZkxtQjRNSVAyVzZPMm1kc2VZTXBXcVlWaDF2SmFrdEtoZFh40gGmAUFVX3lxTE1FSHZFbml0MVR2MTg0TzJDenJUal9rQXdualFZRjd4OGJwZ0k2VDJlRm5MZDdWcjFVb0VsNDNFdnh4d0tlNlFGeDRwNF9pVW9SMjN0eXYwc2VBMmNpUllvOFJwOVVXMFJmUjluMHlVZlJfZEpYeUdhaFNQenNVcTlzNWkyY2VIeEo3T1BXZ2JTQmtxaUdYbm0ta0JUbS1ZWHlTeEdjeFE?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 01:56:39 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "sentiment": {
-        "positive": 0.019,
-        "negative": 0.981,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "Talarico, Paxton campaigning in Texas this week. See events - Greenville Online",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQd1VIMDdwM0p3dWZPZEVvMTZJWU5DbFpEZk5qaXRObl9kLVkyd3Z1MFNBeG9sNzZ2NkJmZE11Y0tOeVlqTFZGRi1IM2dRZnlaQ2lQYmdHMHVUTEJUZkI3MHpUNnFtSGhvZG5XRG8zd1MzenRxaERvaWRfMUZxOW5YSDVEVkltcEV2aTFyZXduYkdlZmNPNktTdzZ3dnJHQ1d6alRUNkpueHNJRkZsd0NvOUE1aWhBZm82SHZKZ0Z2OTdRVzFreGhwcWZ3?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 19:29:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.161,
-        "negative": 0.839,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "Texas Skeptical of James Talarico's Chances, Despite Successful Fundraiser: 'Money doesn't matter. Votes do' - The Nerd Stash",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRjFLQ3QtcHFoWWRqYTNRQkFFS0hGQ2R5Nm1RTDdRRWVHSDJZVjM5Q3FDbmdTeURId2lCMmpRS3BRemU3N09JOFY4elI4RTFSMWxnNUVab0JjMF9UaFdPeHFob1Y3VXZoR1VDV2s0V0k4NWlNSVpBa3R1LWczNVJJbnJaMEt4N1RqVy13ZkZ0U29YZUk0dk1DYldPTXV3UUFnN1hMdE5Fb0V5RHdrOGswZGFJRU5DZkdmM0lOaU5vZk0tbzRXbVE?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 20:55:59 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.005,
-        "negative": 0.995,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "Talarico, Paxton campaigning in Texas this week. See events - Treasure Coast News",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUVNlWGNkVkZtdUdDQmpuOEtMNFlEUnM3d0ZmMTBhTkVGdDZnUUlscWZfbzJRMGZqM3Y0MmJzZHozWkxoUmhuRXFBbUJuUXdBQ293VEhzTFgwVDFaOEZvNlJwc0RqZkNwNElZUFh5VXVtWmJXQTMyUHZDNzFHeV9wazEzMG56aTNKdzQ2bmdrV3FPTEY0LUVIWUR3NkZidWxxY1VvbXg3VExrSUVqWFdwaHdmV2ZXcm1mcTM3NA?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 19:29:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.956,
-        "negative": 0.044,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "State of Texas: Record money flows into Talarico v. Paxton race - KETK.com",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWmpuaE9NcHl2Y2pLNHVhZll3VXVMU1hGZVlmdXAwNEFlbFNMMTVhVlBzdXFuRVJ2YkJ3YjRocldxQmMzZ2JoWWxSZG5NUjFicHIxakF5TERUeU1iTFp0WjNQaTB1ak0xSlo1amk4a3Y2UlkxbUVKd0VVRVRPUER4Qmc5TlZlRTg0bjVGYmVnWm1mZTFMeWpCUzMzckxJMjA?oc=5",
-      "pubDate": "Sun, 12 Jul 2026 00:37:10 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.016,
-        "negative": 0.984,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W29": {
-      "both": {
-        "positive": 12,
-        "negative": 15,
-        "total": 27
-      },
-      "general": {
-        "positive": 4,
-        "negative": 1,
-        "total": 5
-      },
       "talarico": {
         "positive": 4,
-        "negative": 7,
-        "total": 12
+        "negative": 9,
+        "total": 14
+      },
+      "both": {
+        "positive": 13,
+        "negative": 15,
+        "total": 28
+      },
+      "general": {
+        "positive": 7,
+        "negative": 1,
+        "total": 8
       },
       "paxton": {
         "positive": 3,
@@ -1892,14 +1897,14 @@
     },
     "2026-W28": {
       "both": {
-        "positive": 1,
-        "negative": 4,
-        "total": 6
+        "positive": 0,
+        "negative": 2,
+        "total": 3
       },
       "talarico": {
         "positive": 2,
-        "negative": 9,
-        "total": 12
+        "negative": 7,
+        "total": 10
       },
       "paxton": {
         "positive": 8,
@@ -1908,8 +1913,8 @@
       },
       "general": {
         "positive": 1,
-        "negative": 9,
-        "total": 10
+        "negative": 8,
+        "total": 9
       }
     }
   }
