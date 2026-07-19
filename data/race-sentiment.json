@@ -1,9 +1,63 @@
 {
-  "analyzedAt": "2026-07-19T07:06:10.791Z",
-  "newsFetchedAt": "2026-07-19T04:04:28.926Z",
+  "analyzedAt": "2026-07-19T09:28:14.070Z",
+  "newsFetchedAt": "2026-07-19T07:06:42.506Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Talarico opens gaping fundraising lead over Paxton in U.S. Senate race - Longview News-Journal",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPekU4R2FEdlRrWncxbG1HcnJjTm1lSmRzOS1lMmswYXBDXzc4cUl1b3NfaHl4Y054VkRLYUlLSmNuZFVuX0d6QWJZekFLUTJIWjc0UjRoU1hjaWgwOGY5b0xlRmJjMW1UaXB3dWdnVFdxbExBWDhmWFRjYW5HYjVuT2xPYUxMNUdPWWozSUFHakpIMUdtLVZhRXdvZDY4ckRMbEpIRlZEWnpIUWc2OXBISUs4TW4wY1Rvam9CMDd6UUpuZkJDT1JfZjU3T1JwRkY4aXVrb0dmWUFXelF2SEhuUTlZSUQzNi05dzNtLW1rN2J0UjlEX0NDdGd1OXU?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 10:50:23 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.894,
+        "negative": 0.106,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "Everything Went Wrong for James Talarico This Week After His Epstein-Tied Backer Was Revealed - townhall.com",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVlBMeE5ZVkVfOS1BWkRFZ01EV0ZpdDU4bkNlcmxXbGhfbUVtX3BZaV83aGl4TnVvcmpKUkpCbFBISHFoQkw5Um9qTWpwUm9aeHhUVzJCQmlmS016bDVHbjBwalZhcmxRRTR5OUs5RG9DN3NzUzl4Y25vdHdJVTQ0RFNMaWZpUjVDTWNJSVdodmlLYUhfTmdHMDJLTUxtazRNc1g0MVlYMU1KbFMwMUFyV3BDWkM5ZmZhakdtcER5MXVqZ21CVXJ6ME9lM1ZWNTVXYk1wOC1kM2RUMG5mTTJhaVlXMnZTX1NnTUxTM3VEaw?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 23:30:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.001,
+        "negative": 0.999,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "Battleground Texas - Talking the latest in Texas politics - FOX 26 Houston",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBENTFHUG1Fa1FTOUVIOXFhc01ld3FVVW1iMjF4RmV0UUpVbWg2X2FKb3dGQkp6ZC02dkVqeEtIbzZ1d2d0QlpiQkdmYllBY3NTSEZSRENfcTFXX0hLVDFzMl80QktVbEU5bktR0gFrQVVfeXFMUEQ1MUdQbUVrUVM5RUg5cWFzTWV3cVVVbWIyMXhGZXRRSlVtaDZfYUpvd0ZCSnpkLTZ2RWp4S0hvNnV3Z3RCWmJCR2ZiWUFjc1NIRlJEQ19xMVdfSEtUMXMyXzRCS1VsRTluS1E?oc=5",
+      "pubDate": "Sun, 19 Jul 2026 01:00:04 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "sentiment": {
+        "positive": 0.983,
+        "negative": 0.017,
+        "label": "positive"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "Texas Tech chair donated $275K to Ken Paxton day before AG intervened in Brendan Sorsby saga - Houston Public Media",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQU09YbFNYZG9yb09rX0x3c3Y1WmY3dDlCbjY1U2dnQXZ6Z1ZvbGluREUyY3ZtUTkzUEJiaDNqVUo3UFlSOGJpQ2RNcVFKR0RDV1J6OE05THdRdGtFRnowZmIxaTZ0d21hY3lucTEtdi1tWjF2eWtrcXRhM0R0a1BhU3hFblN4Y3dVZWQ1bUZyOERqY1JNN3FMZkNPUU4wREtPenlWbHVXUFQzcGZOWnItR3pXeERPWWdaTmN2YWtEODktbUdfTUpQS3UyTUdIcEdJNXfSAdoBQVVfeXFMT21JRkZSZE1tV2l2N2JuZ3cyVzNma0g4Z1lYUGNldUVBWDFaUnFTYWdoSHRuMll6MkdCamY2M0FJTDRmMi0wYlZCVlpmT3l2ejF2aEIyakJ0cHp0Tk5RNzkzVFdBLW5xS1FMUVZwX3J0Q1QxMjc4SzQwLTlFUUZ5Rjl4Q2d3VDgyd29OWDJ2ZmZTbkNHTTVOTUV6anhZeXJKeF9iM0MtQUo0UUNDcFA2aFNZYlNQMGV1ZS1QT3dTYUlnaDllYm9CUVBCTThRZlNFdVp1ZjROQi12OFE?oc=5",
@@ -1806,98 +1860,41 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "Dan Patrick roasts James Talarico: 'Couldn't lift a 10-pound weight' - Chron",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMzA4cTk1T0xpQmVaUnJnNThuTzhRZTFtb1p4Y2lDY3V2bEtuX240azZSdHdxYU81R3p6bEh2c2tWMFVqRHFxOHUtem1hRjNIYnE5a1ZzZDBoZUdZSHlFSDMyZXJjN0lySHo4aTlqb1hINzhpNldmMGZYMXB5dExTZUh2ZmVfOEVGNU9VeE9oNmQ4TW5WeVc0?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 19:47:21 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.004,
-        "negative": 0.996,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "In tight Texas Senate race, Talarico and Paxton clash over affordability - MSN",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUklnS2pOOXNWeUR0ajN4SkZldG9fSmhXYXhCR3dmS2ZSSE5XZFNoZmJQTV9Wb3RyRUs2U1RKUGJ5T2U3d3ZiRmpIaHltLUUwVWxYM1pvWHhaUVFtQUFTb3dvWlllbVpVOElaSnFaZlFlS0tNdFdTbmtPR2ZOZnVWQzZkT1lFMzNnLTBFaFlqaXIwNkxRLWNHQTYzdHBwNklkZTFHNEhKUWFsUlVfRE5FeVp4bDc3VkJMSUZ2X0otLVdoQ0FNTW5PbUlnVktwTzA4cGptRmhB?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 09:02:42 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.038,
-        "negative": 0.962,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "✰PREMIUM Republicans have beef with Texas Rep. James Talarico. Why does meat matter in US politics? - Brooklyn Eagle",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQjNlV05LdHhhbTY3Q0ozSUcyUTZlekM0anpRUkE2WXc4TGZ2WlZBcU5Md2Z2cVdLUXVYVWhJbGp6LVBvUEtGLWw5bjRiRGJKTW5Oakt1YzhTVnYxTXVHU0ZlS3EycF96cmEyMnRZREhFZVJHd2k0anIxVGVJYTAtM3FqT0Vjem4tUFFxQjRB?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 15:03:48 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.015,
-        "negative": 0.985,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W29": {
+      "both": {
+        "positive": 10,
+        "negative": 12,
+        "total": 22
+      },
+      "talarico": {
+        "positive": 4,
+        "negative": 7,
+        "total": 12
+      },
+      "general": {
+        "positive": 2,
+        "negative": 1,
+        "total": 3
+      },
       "paxton": {
         "positive": 3,
         "negative": 7,
         "total": 10
-      },
-      "talarico": {
-        "positive": 4,
-        "negative": 6,
-        "total": 11
-      },
-      "general": {
-        "positive": 1,
-        "negative": 1,
-        "total": 2
-      },
-      "both": {
-        "positive": 9,
-        "negative": 12,
-        "total": 21
       }
     },
     "2026-W28": {
       "both": {
         "positive": 2,
-        "negative": 6,
-        "total": 9
+        "negative": 5,
+        "total": 8
       },
       "talarico": {
         "positive": 4,
-        "negative": 13,
-        "total": 18
+        "negative": 11,
+        "total": 16
       },
       "paxton": {
         "positive": 9,
