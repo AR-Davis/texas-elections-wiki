@@ -1,9 +1,26 @@
 {
-  "analyzedAt": "2026-07-20T18:30:05.233Z",
-  "newsFetchedAt": "2026-07-20T16:58:17.900Z",
+  "analyzedAt": "2026-07-20T20:07:30.094Z",
+  "newsFetchedAt": "2026-07-20T19:01:46.822Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Black Democrats Express Doubts About Talarico, U.S. Senate Primary at Houston Town Hall - thetexan.news",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPWXNLMUZXZTgzeWI4OHU2d21Ra25uVHlHTExLbjgzVzRHU01YU00xQmJBYXB0NUc1aHZhTlNLUDc2QlFpV1MyOGs1dlI1cDhnVWxoS3h3bG0wNGNCZFFaYVB0SUx5ZVNsMTBzZXFLUnQzRU00RzFJX0dVNC1OUHZzS2xzVVhjQnRIRFY2MGJDSWhkbE9Oc01hQlJKYVpsQk9uU2VoeWlva0VjRGMtbF9FSmxqU245MWFwUmRRVUo2ejl5dFl2MTlhWUtXMmtrQnZjUk1yY2g2TFQ2dG5ISl9SZHI3SVh0WWN3MmdDckFsRUZWSzJtbGpjWHZ6OXlRbk02dUE?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 18:19:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "talarico"
+      ],
+      "sentiment": {
+        "positive": 0.017,
+        "negative": 0.983,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "Ken Paxton's campaign says he will debate James Talarico in Texas' U.S. Senate race - HPPR",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRjhGcWlxV0xzUG9UYmxHcXdGOEN1Um1WZnN4TFJDX3RRaDE3UXJJdTJKakV4anBPWFpIOWU4WlRNcHRoUzM0Zm5iTHdlblVMTzZvWGFkNF9QSTZUSGdYY2tFSk5IMUQ3VHpOakFTaTFyS3pVclQ0LUhtZGJ3UFdyWnBWZ1A4MmhCQnZEenpHVV90LUNUUG1ITExoVWFlb2lhVEM0NkhsWlpWUlhXUmEtbVpBV3dMcWxVajVUYXlkVQ?oc=5",
@@ -1864,27 +1881,15 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "Pine Tree ISD superintendent falls short after state invalidates signatures for Texas Senate run - KLTV.com",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMGV5MEY2ZmZWRmxGWUNkYlhNTHVQRXBCUWNYWjVRWVVUYWE1NGlSaExKeDV3ZEtqRDNWVkFNUTRadUlQcG1QNVRVMl81M212ZTFMNWhxY0xabDlnREowWEFIbmZTYUtiTDUtN25QdW1YRGllVnctNUhwN2JYLWc4NHNWRjdDR1NvZEJsS0lUZjZDcnFoa3JFNE1HXy1yVE5CaUFTeENLQUFfR2NHMXcyQ2pwZGtWMnNJWHp3QWk2ajJ5QTA?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 13:58:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "texas senate"
-      ],
-      "sentiment": {
-        "positive": 0.001,
-        "negative": 0.999,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W29": {
+      "talarico": {
+        "positive": 6,
+        "negative": 14,
+        "total": 21
+      },
       "both": {
         "positive": 18,
         "negative": 17,
@@ -1894,11 +1899,6 @@
         "positive": 4,
         "negative": 15,
         "total": 19
-      },
-      "talarico": {
-        "positive": 6,
-        "negative": 13,
-        "total": 20
       },
       "general": {
         "positive": 8,
@@ -1924,8 +1924,8 @@
       },
       "general": {
         "positive": 0,
-        "negative": 3,
-        "total": 3
+        "negative": 2,
+        "total": 2
       }
     }
   }
