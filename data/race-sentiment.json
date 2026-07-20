@@ -1,9 +1,63 @@
 {
-  "analyzedAt": "2026-07-20T14:50:37.718Z",
-  "newsFetchedAt": "2026-07-20T10:17:02.943Z",
+  "analyzedAt": "2026-07-20T16:27:03.679Z",
+  "newsFetchedAt": "2026-07-20T15:14:58.230Z",
   "totalAnalyzed": 100,
   "newThisRun": 3,
   "stories": [
+    {
+      "title": "The list of homes owned by Texas’ Ken Paxton grows, adding to his political problems - MS NOW",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZThDZ3Jwa1RSTmNjc2JMR0dabjRsQWNVRXlLd1JIaWJibDFsUTZjRlo5SlJMWVZhZFF5WkRqbWt3TTA4a2pFMW5vLU1JbFBZaFktQ3d1WXgwcVJYNGRvR3JEQ3JUOUhMVWpaS0ctbTJvWmFkTTU3d0drR21IcnpSV3lrNnpYYmpPMFJyZ2VydmhiN3M5M0ZzejlxSnhXZlUxbGc?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 15:08:11 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.2,
+        "negative": 0.8,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "James Talarico tells his supporters to keep Jasmine Crockett’s name ‘out of your mouth’ - TheGrio",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc3UyX3RIcjFCanRvcWpsZDA4WkxocXV6LVdrRlVnSGl6NENMa0R3TWRaMm9LQl8ydktUVEJoaEVBTGl1RHNpcDRFY0F6Sno4c3VGR0gyMXlXZms5VHhTTll4RVN6My15VkkzZTVCNWhPbWZQR1hQVEFYU3RpNnFDbVZiU21WTjZoT040MVNHZ2VsanBteTVDUXo2ZVVXTHN4RUZ3d3gzOGU?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 14:35:48 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.285,
+        "negative": 0.715,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "It Doesn't Look Like Things Are Going Well for the James Talarico Campaign - townhall.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWi1UXzN0UXRPLTJSNENodmYtLWdpaE91SlRGT0loNE5sb29lUjZWSDczazFmRjZmYlg0bFNXc1NNLXRNdFVpcktHZlozNkZGa1pOQTc2cGdhRTQ1VVduSHpfZlg3VExqM1F6a2Z0Y2hlQU1LYTEwWU54QjE2MlVONUdZVnNyTGMwekkyNlhULThmRlBTT0E?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 12:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "Pollster and Political Science Professor discusses Texas Senate race between Paxton and Talarico - CBS News",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORjVOX0xQNklTNTB5UGZIZWJjVHp6VHA3YnhCaWFzR0ZfVDJ1ZmVCZDByMzFWUC1GLWhval9pQkhJX01haEZDSU9NNFlkcUtId2I2aEEyVkxSaTg3UXk4R0x0c3VSUmxRaTY3ejNZXzIxX1pnbFE4U1VOcHczUFRXOU5XVTUzMnBNSmlQSGFCSTVSczRiZHJ2cU9uU0NVQ0dnWklKdVZjQVpLVHQ2OEt5VVNMeHdiaWNUWVY1dGpqUXhoVlNGbkNKcHEzRDd4Zw?oc=5",
@@ -1823,80 +1877,29 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "Why Sen. Lindsey Graham’s death could impact Texas politics - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JbnZFOGFhRHZvcDlNODRsUk9VUlJBeEptZGF4a3BhOW8tS0d4OHRidk5iSGRxWjgzb1dNMnkzRXdXeDNJZkVkbThVeWd2RmJ0NllYOUF3QWZXenVaU3lNcHU3QW9ySk54X0ZjRmVfRHl6aHVkeklj?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 02:58:57 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "sentiment": {
-        "positive": 0.04,
-        "negative": 0.96,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "3 new reporters join expanded Texas politics team - Editor and Publisher",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVWg1cFhsRFlCZnpBN3FwT3Z2NkpkdURacTE3SXRTb0xoaG91Z01DeDQtaUtFeHNLNjRZWHMyRmtiSXFlazQ1bkNQLWEwUjNhZFlfY3JxOHNMdGtqRXJZZTV6cDlpZllHWjJIcG5TRW9vdWJENnNxMEc5N0JRSEpKVHFEREM3d2VnNEs1UnRySnRYZlFxOU1ldzJzYlVFZUFn?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 18:30:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "sentiment": {
-        "positive": 0.999,
-        "negative": 0.001,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "Travis County, Austin issue disaster declarations as flash flood threat grows - KXAN Austin",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR3JDQ2dlcnFuUHJjam5wUmloUy1hNG93Sjdfd0VKbmdoUzZnZTdqYmJXek9WcWtWSmM4eHA3Y0hBcWwteC0zQ2JXUFlCSFQ3Z2FjQ090X2N0WTA0NU9UVXdENEEwNEZERU5CLTZ3OTR5YUNCdEJUOGhPQjc2enRQYXBjWWNLaXFodUQxVjFyZ0wtN2FUb19NT0ZxX0FMdHk3azJYN1ZrbnNvcW1SSW5fSXg1VXJUb0FYWkhidk9RZGjSAcYBQVVfeXFMT0NNUEZFV0Iyb0pKdC1fNFJTTXp4VFFhT3NFdkZ4Rkc1RDNjYk5xeGQ5OTNValR4VnktRWpsSHVOQXo2X0tfU3N1R0lYdjFJdm1FU0lUN0V0c2lJMlpkYzdrQVdBUkk3OExQUGVSUUVUNHZIWXpvNU4yczlVNnlUY2tTdXpTdFNVMS1xRnhyUENwQlpkV2RGbmJhcU9fdEs4RktlN0dzdWlHankxRUJkZkdkTWRHR3gzSGtyZDR2RFcwMm5xSnVR?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 22:49:05 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 4,
-      "matchedKeywords": [
-        "travis county"
-      ],
-      "sentiment": {
-        "positive": 0.005,
-        "negative": 0.995,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W29": {
+      "paxton": {
+        "positive": 4,
+        "negative": 15,
+        "total": 19
+      },
+      "talarico": {
+        "positive": 6,
+        "negative": 13,
+        "total": 20
+      },
       "both": {
         "positive": 17,
         "negative": 17,
         "total": 34
       },
-      "talarico": {
-        "positive": 6,
-        "negative": 11,
-        "total": 18
-      },
       "general": {
         "positive": 8,
         "negative": 2,
         "total": 11
-      },
-      "paxton": {
-        "positive": 4,
-        "negative": 14,
-        "total": 18
       }
     },
     "2026-W28": {
@@ -1916,9 +1919,9 @@
         "total": 8
       },
       "general": {
-        "positive": 1,
-        "negative": 5,
-        "total": 6
+        "positive": 0,
+        "negative": 3,
+        "total": 3
       }
     }
   }
