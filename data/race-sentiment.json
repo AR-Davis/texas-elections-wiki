@@ -1,9 +1,64 @@
 {
-  "analyzedAt": "2026-07-20T21:44:45.751Z",
-  "newsFetchedAt": "2026-07-20T20:49:16.716Z",
+  "analyzedAt": "2026-07-20T23:03:54.513Z",
+  "newsFetchedAt": "2026-07-20T22:05:20.917Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Texas Senate candidate James Talarico shouted down at tense Houston town hall - NewsNation",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZTd3MmJTNUNKY0hGVVliU3VSNjJRSWdrWDFEQzNXdlVaMjdnLXhheTVmMnM1eHAyd2lsQ2pBTFJSM3NEbTJ1enBFLWk5R18xZ3c2OHBPZ0pqR3M0T1FlZkFtVFo3eEtRdmxMSHNkQ2cxMzhJY2dDY2cwRVJwcU4tQjhpUG9UVmxBS0lMczNIRTJsZ3lOMUx5MW1jNHVKYi1Q0gGgAUFVX3lxTFBlN3cyYlM1Q0pjSEZVWWJTdVI2MlFJZ2tYMURDM1d2VVoyN2cteGF5NWYyczV4cDJ3aWxDakFMUlIzc0RtMnV6cEUtaTlHXzFndzY4cE9nSmpHczRPUWVmQW1UWjd4S1F2bExIc2RDZzEzOEljZ0NjZzBFUnBxTi1COGlQb1RWbEFLSUxzM0hFMmxneU4xTHkxbWM0dUpiLVA?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 15:02:02 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 18,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate"
+      ],
+      "sentiment": {
+        "positive": 0.02,
+        "negative": 0.98,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "James Talarico accused of not doing enough for black voters during heated town hall - Washington Examiner",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZGUxdkd6dlBwbW5aMXdTaGNRWFZtMnVxY29pM3RPN2gzM1NaVTZnWWsyUzJ5d2dmOTFnc2Z1cUJxU0VQMldRcEJ0dE1uME96LVlWYWxJaWlKbVdXUTlxSXBSRzk4Q2RhdHkyX2I5eUI2Ynd2bDJCdExKeXJXNVkzbXRUTnNJZVhpb1NLVHdJYW8ycDY3dTFTMmI0RmQxb1c0czN2OHhaQTE0Y25hcDBpd01LamtkekNENXNDdE5rMkxVdGNvNGlycVdHd2FfTUlqa2c?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 21:14:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.005,
+        "negative": 0.995,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "Dem Texas Senate candidate Talarico focuses on border security - MSN",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMTlVRDQ2UWJ3N3NjTEJRVjhFazNjazgwVWZPaGRTcTlEbXZqV2JaOElxdWJWcnVFenJKSFZzNXkxMFpOMzN0bzdNOTEybFJPc0Y0cHZieW5aajhBZGJtQjVacVVFUkxvLW05Um5GcmJFQjhKd1VDa3BsZWRCcC0yeTZOeDFXdUhzT05EUmZiWmpCV09NbF9rSkVWd0h1MjE1akhPNTNJaFVwMzc4UXdOag?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 18:32:31 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate"
+      ],
+      "sentiment": {
+        "positive": 0.245,
+        "negative": 0.755,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "Tracking the money raised and spent in the U.S. Senate race between James Talarico and Ken Paxton - The Texas Tribune",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMG5MRF9UdVBtaWxpbUpQcTR3OU5sMFdfeXhLM2tVZk9uUGJKQW9PazBvNEZvemZJSjZQRk0wdGkxZEJzOFkzVFJVRGhmbUg3LVFCbTRnMG0zUVNvNHRjSVg1d09xZjhaMUJkTTBxOGVPU1FTOHBUZGV0czNVUHdVVWdhVU4yVUZ1VnoyVHhLSFJyQlhhY2hGYnY4eTQtX1BBeVptODBn?oc=5",
@@ -1825,75 +1880,19 @@
       },
       "candidate": "general",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "Collin County Dems accuse Ken Paxton of voter fraud in formal complaint - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdmItM0JidENJdGQxSExMSFpTOVFTUkFXZk1KQl9NZ2RvNE12cFBValFwT05TM25vVVFmRC14ZWlxZHpoTk9TNk8xcWVDOTJtcTBsX01ud29KQXFIYXc3OVZQUS1qMGpYMEdGY0xzRVp2Q3RyNGZNQ3FjenNVSDlDb1lESUxNTWtvQnRjSVJMQ29tbTRMMUJ5ZC1vWW5ndjRUR1otdjR2TUhVV0UtWEZpaHl6STA0S1pubWNZaHFTeVRvblU1UGVuR0lmQnBxR09vUmZBV1BoTEQ5Y1dCaFZrcE5BaDZTNy10Z1VpUHoyTmHSAfABQVVfeXFMTXZiLTNCYnRDSXRkMUhMTEhaUzlRU1JBV2ZNSkJfTWdkbzRNdnBQVWpRcE9OUzNub1VRZkQteGVpcWR6aE5PUzZPMXFlQzkybXEwbF9NbndvSkFxSGF3NzlWUFEtajBqWDBHRmNMc0VadkN0cjRmTUNxY3pzVUg5Q29ZRElMTU1rb0J0Y0lSTENvbW00TDFCeWQtb1luZ3Y0VEdaLXY0dk1IVVdFLVhGaWh5ekkwNEtabm1jWWhxU3lUb25VNVBlbkdJZkJwcUdPb1JmQVdQaExEOWNXQmhWa3BOQWg2UzctdGdVaVB6Mk5h?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 18:20:37 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.002,
-        "negative": 0.998,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "Ken Paxton UNLOADS on Biden &amp; James Talarico at Explosive Texas Rally | Senate Race ERUPTS - Oneindia",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaGJsb3c5ZEhXSk5NMmQ5RUExaHl4UzhVdk5uRUE4bTE3M2JpSXU4YjFpa3B0Qk5qa3o1V0tHYkt3eUtLNTVPb29HM1FVaXVmaVdtZEhsaF9Mb3BYaHBnai01VWd3cm1uTXo0V1JWdUVoX3JNNEpuZDBJemhzbWRyclFJQ3ZKRzNlMXFxV0dXSmJhSENQenNUc0hDdDhiMDl0R001d2p3ZkxmcThkSkhRME81RUhfYjlQam9rN3RfU2xWSzV2VnJPaURfUQ?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 15:00:02 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.016,
-        "negative": 0.984,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "Independent Candidate Steve Clugston Fails to Qualify for Texas Senate Ballot - KETK.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVFRDZk5xdjR6Ql9qSjlVb2UyRUE1N3hBbHBMaEt4d3IweHkzWjN0WjRzSnBtWGtjYmVzYnpobzAyeS1rODBna0hJamtfTWdsVTQ3WDF5cGstaE5MelBQR2dMQ25IckF3SnFoaWYtdEZJdmpoLXVwQm01VDFLWjc4c1Y0VXk0Nkl1YTY0cFVrdjk5QnFReDljQXVoNElJMm1oWDlyMm93MHNSNmZQOG83WXFhS0Y?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 23:46:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "texas senate"
-      ],
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W29": {
+      "talarico": {
+        "positive": 6,
+        "negative": 19,
+        "total": 26
+      },
       "both": {
         "positive": 18,
         "negative": 17,
         "total": 36
-      },
-      "talarico": {
-        "positive": 6,
-        "negative": 16,
-        "total": 23
       },
       "paxton": {
         "positive": 4,
@@ -1909,8 +1908,8 @@
     "2026-W28": {
       "both": {
         "positive": 0,
-        "negative": 1,
-        "total": 2
+        "negative": 0,
+        "total": 1
       },
       "talarico": {
         "positive": 0,
@@ -1919,13 +1918,13 @@
       },
       "paxton": {
         "positive": 0,
-        "negative": 3,
-        "total": 4
+        "negative": 2,
+        "total": 3
       },
       "general": {
         "positive": 0,
-        "negative": 2,
-        "total": 2
+        "negative": 1,
+        "total": 1
       }
     }
   }
