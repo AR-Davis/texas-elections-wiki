@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-07-20T10:17:02.943Z",
+  "fetchedAt": "2026-07-20T12:33:27.255Z",
   "count": 25,
   "feedsChecked": 8,
-  "itemsScanned": 183,
+  "itemsScanned": 184,
   "items": [
     {
       "title": "James Talarico challenges Ken Paxton to 3 televised Texas Senate debates - FOX 7 Austin",
@@ -184,17 +184,6 @@
       ]
     },
     {
-      "title": "More Ken Paxton ethics concerns surface. When is it enough? - Dallas News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcVBnMGRHU0FUbThndGxSaUxGbV9KZzBXMGxya3lYa2NwMUZ4ay1SY1BzN21JbWV2MElSQlZDcjlJbGJ5WnpOME0tbXhnYW0xR05ZRUlnU0I0SkMyTmU2WmFFUDNLbDMyblNYNjBYZl9rNVlWVVhpTjhJOWE4WFlQN0JEd1hKUmhpWkhVeFBqcW5TQXhWNGxfeDgxTWNTb1c3UmlRWEN5R0RjcHc?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 12:30:11 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ]
-    },
-    {
       "title": "Cody Campbell waves off Ken Paxton donation, says he could make 'nefarious deal' elsewhere - USA Today",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZnRzX1A3QUpyZVl5aGxselEwYS1wY3hRellpZFh3ZmJ3VDJ6ZFZZQnc0cUZsNEctYm5uV2xiMnRpaHhoNHd0MmExUXdpUVFFenBuMWlscWVrcEN6cFYxQWRrelQybldTcF9KTDN4cHZFeWhpWFJQSlNCa3UxX3hGUEhjRkN3SkQxMjQtbGZoS0g1ZXJPMHB1R0pLR0hLa2p3enpJeTJNXzVfWV9MMHJjRmdoREg?oc=5",
       "pubDate": "Sat, 18 Jul 2026 14:29:00 GMT",
@@ -298,6 +287,16 @@
       "raceScore": 5,
       "matchedKeywords": [
         "talarico"
+      ]
+    },
+    {
+      "title": "Inside Texas Politics - KVUE",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTFZiS21vZDFKVmJrZkZ4NzBTWkFPUVlwaGJRUnF0NjBpeXo2bTg2MDd5MUZrRUZueTBZWnI5S09OZHJxU1p6Tkt4OElkdzhSRWhUM2NlYmZYYm5yUjN4Tkt0R2JPTElRdG9hTTRoVlFvaWdrU2I0dEdGTzVvM2RQMHNRQlRZdzJySVBrNW9HcFNpbUF6OFl5cmxqbmRuamlhWW1laDF1N1lsZw?oc=5",
+      "pubDate": "Sun, 19 Jul 2026 10:30:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas politics"
       ]
     }
   ]
