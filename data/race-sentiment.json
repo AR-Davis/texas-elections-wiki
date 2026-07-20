@@ -1,9 +1,67 @@
 {
-  "analyzedAt": "2026-07-20T10:16:26.901Z",
-  "newsFetchedAt": "2026-07-20T06:53:32.963Z",
+  "analyzedAt": "2026-07-20T12:32:56.548Z",
+  "newsFetchedAt": "2026-07-20T10:17:02.943Z",
   "totalAnalyzed": 100,
   "newThisRun": 3,
   "stories": [
+    {
+      "title": "Pollster and Political Science Professor discusses Texas Senate race between Paxton and Talarico - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORjVOX0xQNklTNTB5UGZIZWJjVHp6VHA3YnhCaWFzR0ZfVDJ1ZmVCZDByMzFWUC1GLWhval9pQkhJX01haEZDSU9NNFlkcUtId2I2aEEyVkxSaTg3UXk4R0x0c3VSUmxRaTY3ejNZXzIxX1pnbFE4U1VOcHczUFRXOU5XVTUzMnBNSmlQSGFCSTVSczRiZHJ2cU9uU0NVQ0dnWklKdVZjQVpLVHQ2OEt5VVNMeHdiaWNUWVY1dGpqUXhoVlNGbkNKcHEzRDd4Zw?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 00:47:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.97,
+        "negative": 0.03,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "Democrats' odds of flipping GOP Texas Senate seat after James Talarico win - MSN",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRDRKTmN3WjlNZW9WNDlDWW5OZmtQMmFrQjNYRjQtUEZ3eGZTd1QzT2xUdDR5MXgta3pLenBWTXRDVm00ZHVESFg2Y0RDZWVvZWpYUktCdzdiNDNFVWdUYlBCd3FqTTFOaC1XS1FfSXVNUHBqUzI4ZFhrVmw4SXNjaWhkSi1Wa3JXTkhmQTgtUWxuWllfdjlON3daUU5HMnVoVUJwWUw2amRjTElVZ1kzLUhUb3ZnWTFZSG5RNEtROA?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 22:43:53 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate"
+      ],
+      "sentiment": {
+        "positive": 0.107,
+        "negative": 0.893,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "John Cornyn - Encyclopedia Britannica",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxMlRaRi1pMVVVZ3Vhb3k2TXNiQUFvcV9PbG02T0FxV3lRTUpSZUpROVp6TzE0T19lTURfQ2dxS0l2Wlp3eXFuZHpLakwxb09JMERTMXgzbkVma3lC?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 05:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 9,
+      "matchedKeywords": [
+        "cornyn",
+        "john cornyn"
+      ],
+      "sentiment": {
+        "positive": 0.987,
+        "negative": 0.013,
+        "label": "positive"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "Trump's Texas Senate Primary: Cornyn Vs. Paxton - Who Will Get The Endorsement? Demidov (n1cvh2qo9N) - Mshale",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wa2lmZWNfMW43X1RrWGw0dWxrOUxjZjAzS2Y4MVBvNXdaeFo4UFAwWkpHZkRWdmx6MkEybXdXU3Y5T1g2NmN3b3ZBQ0V3LW5Fdm5CcWpQa19faTg?oc=5",
@@ -1816,84 +1874,29 @@
       },
       "candidate": "general",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "Bexar County faces three-way District Attorney race - San Antonio Report",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdUxzYkFvNkFlZGF1Rk8yN3Njcy1JQ1NWQVpwSUxlSlNVZkpxamoyTTRUczczQ21GNFczTTl6VVdvcU5pbTBJd3lzQUc4U0Y5bzdHZkMwc2pOZVhuTFR0RzRxVU5Ham1QSGY4eTc2X3Bxd1ptVmg2d1VMN3JCS0tXVDM2TmVoTGpGWDluZWJVdDA5R19uNEtLbHV5S3lmUzg?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 10:00:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 4,
-      "matchedKeywords": [
-        "bexar county"
-      ],
-      "sentiment": {
-        "positive": 0.013,
-        "negative": 0.987,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "Texas Republicans disagree over prohibiting AI data centers in rural neighborhoods - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZVhTQjA0VC1ENU5kb21xbHVYcFFRMXZ4aUdGSUQzUUgxdkZ0anJYMzMtR0JyWW9MaHo3Z1R4UDhWSnpoQUJGOFhsU20wME9zMmJuSG5uODlsajZicC1nTlZ0em1uZlB0VEpTcFBxSWZOOGJiM3NXcXhpS1d2c29ZcHFZMWNqYmVDUklzVkJpcWtxR0dxYWV1QTJrV0MxNmxVZ0FUbmh5dmxNTlQ0bDNzUndZZlU4UQ?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 01:18:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 4,
-      "matchedKeywords": [
-        "texas republican"
-      ],
-      "sentiment": {
-        "positive": 0.085,
-        "negative": 0.915,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "Utah donors to host Ken Paxton for 2nd time as Texas Senate race breaks fundraising records - Deseret News",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWTFoQ1c5SHJjUS1iZFM5dnc2LWw4andiTEN4LU9uR2dtZk1MWTF5OXBUN3R6R053aTNIZnpoU0lEeEkwbkhxUlRZbS1ZWFlXbl9fZmM4Q0NUUUdkNUFtQXdKRVVreFdDbmJ5X3pzOFBUQUdYMWVsN3pzT2NOb284MldXbUY4OXZJV1ZDY1VmdVZ1UzNaQk5RZ0ZyV2daRnJrOGhIYkFsSlVOTjA3bTNuZFZDMWRGYVZ6RUxtRTNzN3cwQk4zTUp3emxjUUhZU0JLN0dYR1Nn?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 00:31:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.987,
-        "negative": 0.013,
-        "label": "positive"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W29": {
+      "both": {
+        "positive": 17,
+        "negative": 17,
+        "total": 34
+      },
+      "talarico": {
+        "positive": 6,
+        "negative": 11,
+        "total": 18
+      },
+      "general": {
+        "positive": 8,
+        "negative": 2,
+        "total": 11
+      },
       "paxton": {
         "positive": 4,
         "negative": 14,
         "total": 18
-      },
-      "talarico": {
-        "positive": 6,
-        "negative": 10,
-        "total": 17
-      },
-      "both": {
-        "positive": 16,
-        "negative": 17,
-        "total": 33
-      },
-      "general": {
-        "positive": 7,
-        "negative": 2,
-        "total": 10
       }
     },
     "2026-W28": {
@@ -1908,14 +1911,14 @@
         "total": 3
       },
       "paxton": {
-        "positive": 3,
+        "positive": 2,
         "negative": 5,
-        "total": 9
+        "total": 8
       },
       "general": {
         "positive": 1,
-        "negative": 7,
-        "total": 8
+        "negative": 5,
+        "total": 6
       }
     }
   }
