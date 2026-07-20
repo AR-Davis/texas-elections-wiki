@@ -1,9 +1,65 @@
 {
-  "analyzedAt": "2026-07-20T06:52:04.930Z",
-  "newsFetchedAt": "2026-07-20T03:41:06.586Z",
+  "analyzedAt": "2026-07-20T10:16:26.901Z",
+  "newsFetchedAt": "2026-07-20T06:53:32.963Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Trump's Texas Senate Primary: Cornyn Vs. Paxton - Who Will Get The Endorsement? Demidov (n1cvh2qo9N) - Mshale",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wa2lmZWNfMW43X1RrWGw0dWxrOUxjZjAzS2Y4MVBvNXdaeFo4UFAwWkpHZkRWdmx6MkEybXdXU3Y5T1g2NmN3b3ZBQ0V3LW5Fdm5CcWpQa19faTg?oc=5",
+      "pubDate": "Sun, 19 Jul 2026 10:52:15 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "paxton",
+        "texas senate",
+        "cornyn"
+      ],
+      "sentiment": {
+        "positive": 0.063,
+        "negative": 0.937,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "Paxton campaign refutes election complaint from Texas Democrats - MSN",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQalZPeFhaSmVxY2ZjdUhodl8yVzJaMVI1QnFpNUFia3Z4WUZWN1k2NmlQRUItZFBoblFWdkhBOXdZZmRzVDFxRHdSUXYycHgyMGdJSHBlVnQ4REZBd19BUzBqX25TZmhsd0psRG1mMjhkSUpMOVN1QnVsVno0ekdwZ3NmVF9HTDhCMTNYZ0JXbC1wVVZ2b2JFTVR5bGJmOE9qbzN1cEtHMl9vX2JocGczWmdB?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 20:26:05 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "texas democrat",
+        "texas democrats"
+      ],
+      "sentiment": {
+        "positive": 0.056,
+        "negative": 0.944,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "Cody Campbell waves off Ken Paxton donation, says he could make 'nefarious deal' elsewhere - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWjB1VWgyUklXQjBPUlVSeUNPa05wT0Eyb3Q0Y0xHSF9fZ2lRZHlHRTZUTi01eGY4OExJdDJYaDZRaHhWUGdtQTVsTUJBcWxYUS0yc0pwMUY1ZTJKWDUzVUhjQmFhTm1HOXVmd2RrX2J3cXFHY0tXUF9kdklTOXJmOS1B?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 14:29:10 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.006,
+        "negative": 0.994,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "More Ken Paxton ethics concerns surface. When is it enough? - Dallas News",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcVBnMGRHU0FUbThndGxSaUxGbV9KZzBXMGxya3lYa2NwMUZ4ay1SY1BzN21JbWV2MElSQlZDcjlJbGJ5WnpOME0tbXhnYW0xR05ZRUlnU0I0SkMyTmU2WmFFUDNLbDMyblNYNjBYZl9rNVlWVVhpTjhJOWE4WFlQN0JEd1hKUmhpWkhVeFBqcW5TQXhWNGxfeDgxTWNTb1c3UmlRWEN5R0RjcHc?oc=5",
@@ -1815,71 +1871,14 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "How suing Biden more than 100 times fueled Ken Paxton’s rise and reshaped Texans’ lives - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNcWMyMUFTSVBfRFNYX3dXWkNRRk5JV2NEdzFRdlBkTGJlMzQ1TFdJUmlMRWZhLVV3OW1INFZ1bGVycDZDSFNINHpmd3JKTUdlUGtuaU5vWXpYcFJRYXEwdHFaR09QNHkwVjhMTktCQl8tUm0yYTlZNjZxdl9BQjNhZ0Y0b0pfd0FiWGFUQTFXS3lndlNFVUF4Tm9FZ19rV0FVSTZaSDBWNUkxY3ZheEljT24xV1BUbjNuczJNNVdBNXl3Q1JRblM5T3FkZ3JqU3RXN1h6TWlDMG9sa3JZbllPSEY1dFNpRGlWT0pfSkJSNHhDR2EtUDlB0gH3AUFVX3lxTE1xYzIxQVNJUF9EU1hfd1daQ1FGTklXY0R3MVF2UGRMYmUzNDVMV0lSaUxFZmEtVXc5bUg0VnVsZXJwNkNIU0g0emZ3ckpNR2VQa25pTm9ZelhwUlFhcTB0cVpHT1A0eTBWOExOS0JCXy1SbTJhOVk2NnF2X0FCM2FnRjRvSl93QWJYYVRBMVdLeWd2U0VVQXhOb0VnX2tXQVVJNlpIMFY1STFjdmF4SWNPbjFXUFRuM25zMk01V0E1eXdDUlFuUzlPcWRncmpTdFc3WHpNaUMwb2xrclluWU9IRjV0U2lEaVZPSl9KQlI0eENHYS1QOUE?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 13:36:27 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.996,
-        "negative": 0.004,
-        "label": "positive"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "Texas Republican U.S. Senate Candidate Ken Paxton Holds Rally in McAllen - C-SPAN",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcVppVXZwTmo1cTFCVHdGNU9vV1ZIdlBKNGhTN3Robmp5SW1FWlp6ZGZXckFMMTFpYU9KeFE1TDFtVTVhNHQ2Nno2VlFCQndZekJqcFp3bjZYWHlQVmhoR0FDeW1URk5Db3pyY0ktVFlWSnpMRUQ4UXRFQ3l1ZnhGeWJPVWRZdHRlYXN0UExZZW9xa0E5YVA1ano0YnFQUDBCM0l2aGlRa1NyMW1zOTlsUWZKZG1sMnp3LS1uNQ?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 19:57:29 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "texas republican"
-      ],
-      "sentiment": {
-        "positive": 0.927,
-        "negative": 0.073,
-        "label": "positive"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "Texas Senate Race: Talarico's Focus on Black Community - Dallas Weekly",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRG1oSTBXcFRPLU1KQ09obDNyVlBkS0lIWGFtSGl5bmVzTTZIZzJHVEt3c09oVVgzUEhkdVQwNVRNdFVUVzFaMFl6VEhMRDNDR1B4dDNtbFRnb2FYREVyUTBCUHpvZlBQX2VHdGJDWDk2a1VzcGFOSlJrV2FLMGdMTXR1NA?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 17:40:54 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.981,
-        "negative": 0.019,
-        "label": "positive"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W29": {
       "paxton": {
         "positive": 4,
-        "negative": 11,
-        "total": 15
+        "negative": 14,
+        "total": 18
       },
       "talarico": {
         "positive": 6,
@@ -1904,14 +1903,14 @@
         "total": 2
       },
       "talarico": {
-        "positive": 1,
+        "positive": 0,
         "negative": 2,
-        "total": 4
+        "total": 3
       },
       "paxton": {
-        "positive": 5,
+        "positive": 3,
         "negative": 5,
-        "total": 11
+        "total": 9
       },
       "general": {
         "positive": 1,
