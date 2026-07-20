@@ -1,9 +1,44 @@
 {
-  "analyzedAt": "2026-07-20T00:01:22.919Z",
-  "newsFetchedAt": "2026-07-19T23:31:36.326Z",
+  "analyzedAt": "2026-07-20T03:49:39.043Z",
+  "newsFetchedAt": "2026-07-20T03:41:06.586Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "More Ken Paxton ethics concerns surface. When is it enough? - Dallas News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcVBnMGRHU0FUbThndGxSaUxGbV9KZzBXMGxya3lYa2NwMUZ4ay1SY1BzN21JbWV2MElSQlZDcjlJbGJ5WnpOME0tbXhnYW0xR05ZRUlnU0I0SkMyTmU2WmFFUDNLbDMyblNYNjBYZl9rNVlWVVhpTjhJOWE4WFlQN0JEd1hKUmhpWkhVeFBqcW5TQXhWNGxfeDgxTWNTb1c3UmlRWEN5R0RjcHc?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 12:30:11 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.008,
+        "negative": 0.992,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "Talarico has spirited exchange with Houston voters during Senate campaign stop - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMkppSFFOOV9hZFBKbEkzcUhLTEZzSXpVSG5hY1ZMRDJMWE5VMFNVdHdKNWVqMXVRV0lNcUpycDMwRmV2bHZGa0ZpQkR0OGQ3M3o1WC1oRTFJSjRxeHdCQWRLaEVIRllfR0VYYzlkOGVDUWJ3TlZjTFJHUTFVcDZ5Tld1aTdwYTl4ZVhwWHZycGFWZVlEcTJKeXR4TXZMSlltR29PUmhuNGpidw?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 00:21:36 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "talarico"
+      ],
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "James Talarico challenges Ken Paxton to 3 televised Texas Senate debates - FOX 7 Austin",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcWZPa3ZkbnB4U1pad2xNakZ3WmlLOTBjQzVLc3NjbS1jWFVKV0JiQ3Z0b05GMm1OUVFDUVV2dUcwS1lrXzg3Mnlmay1pRjlyRXlkYWJKc19Va0toXzZkeGtKbWIzUEMwRjJETl9saktTLWZvUTNReXRIempiQ01RekNFSnB3Z0ZObEZJUDMxQzAyV1B5TVJ2YU1nUkVVdnhESzU0?oc=5",
@@ -1837,61 +1872,24 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "James Talarico slams ‘corrupt’ Big Bend border wall on campaign trail - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQckk2V0UzallCVUZUWmRkYTRzWmxKWE0yRnlGYTg4RjNSTVVVOGx5am1VRS1SU01BdV9ZNHdVdDNZeU05bmhqY0hTd3NJaTE5LWE3QkZfcGMwNHUwT0ViOUFxalRFRnlsQjJsQmxxQWsxRG1fYnFWc0RDYWp5UlRhOUxVNDlmdWhDRGNIRzgxb3pSSkFOVERxcTZSakFSUUQ1anNfaTd5NS1LZmFMM2dqLUxKYVRnZjRfU3pRUU9Tcll2NnRNelhFUkZaZVZsV3FtZ0w1ZzA4YjFITFVLTGl2SDJ1WElHOFMyaUJUd0IwMURqai1BTWtj0gH3AUFVX3lxTFBySTZXRTNqWUJVRlRaZGRhNHNabEpYTTJGeUZhODhGM1JNVVU4bHlqbVVFLVJTTUF1X1k0d1V0M1l5TTluaGpjSFN3c0lpMTktYTdCRl9wYzA0dTBPRWI5QXFqVEVGeWxCMmxCbHFBazFEbV9icVZzRENhanlSVGE5TFU0OWZ1aENEY0hHODFvelJKQU5URHFxNlJqQVJRRDVqc19pN3k1LUtmYUwzZ2otTEphVGdmNF9TelFRT1NyWXY2dE16WEVSRlplVmxXcW1nTDVnMDhiMUhMVUtMaXZIMnVYSUc4UzJpQlR3QjAxRGpqLUFNa2M?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 13:40:47 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.012,
-        "negative": 0.988,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "Why everyone will bring Ken Paxton’s abortion record up in his Senate race - The 19th News",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2aktGY2RDbjhxeXJ4aTZ3c252UEpWQ1Izb3N5TDluSVN5b1dMZmVkTjRBSENNWHg5UmMtRFE0VXNZcDBJeXNzbmxqNHlmOW1sZm5qR2tFZWVjQzV2bmx6WmgtMTRWU0d2b3lWbmk5QUYwTG53aXdRR1ZmVlF2UQ?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 16:19:46 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.096,
-        "negative": 0.904,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W29": {
+      "paxton": {
+        "positive": 4,
+        "negative": 11,
+        "total": 15
+      },
+      "talarico": {
+        "positive": 6,
+        "negative": 10,
+        "total": 17
+      },
       "both": {
         "positive": 16,
         "negative": 17,
         "total": 33
-      },
-      "talarico": {
-        "positive": 5,
-        "negative": 10,
-        "total": 16
-      },
-      "paxton": {
-        "positive": 4,
-        "negative": 10,
-        "total": 14
       },
       "general": {
         "positive": 7,
@@ -1907,13 +1905,13 @@
       },
       "talarico": {
         "positive": 1,
-        "negative": 3,
-        "total": 5
+        "negative": 2,
+        "total": 4
       },
       "paxton": {
         "positive": 5,
-        "negative": 6,
-        "total": 12
+        "negative": 5,
+        "total": 11
       },
       "general": {
         "positive": 1,
