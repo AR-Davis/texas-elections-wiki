@@ -1,9 +1,30 @@
 {
-  "analyzedAt": "2026-07-20T16:27:03.679Z",
-  "newsFetchedAt": "2026-07-20T15:14:58.230Z",
+  "analyzedAt": "2026-07-20T18:30:05.233Z",
+  "newsFetchedAt": "2026-07-20T16:58:17.900Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Ken Paxton's campaign says he will debate James Talarico in Texas' U.S. Senate race - HPPR",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRjhGcWlxV0xzUG9UYmxHcXdGOEN1Um1WZnN4TFJDX3RRaDE3UXJJdTJKakV4anBPWFpIOWU4WlRNcHRoUzM0Zm5iTHdlblVMTzZvWGFkNF9QSTZUSGdYY2tFSk5IMUQ3VHpOakFTaTFyS3pVclQ0LUhtZGJ3UFdyWnBWZ1A4MmhCQnZEenpHVV90LUNUUG1ITExoVWFlb2lhVEM0NkhsWlpWUlhXUmEtbVpBV3dMcWxVajVUYXlkVQ?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 13:30:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.956,
+        "negative": 0.044,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "The list of homes owned by Texas’ Ken Paxton grows, adding to his political problems - MS NOW",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZThDZ3Jwa1RSTmNjc2JMR0dabjRsQWNVRXlLd1JIaWJibDFsUTZjRlo5SlJMWVZhZFF5WkRqbWt3TTA4a2pFMW5vLU1JbFBZaFktQ3d1WXgwcVJYNGRvR3JEQ3JUOUhMVWpaS0ctbTJvWmFkTTU3d0drR21IcnpSV3lrNnpYYmpPMFJyZ2VydmhiN3M5M0ZzejlxSnhXZlUxbGc?oc=5",
@@ -1860,27 +1881,15 @@
       },
       "candidate": "general",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "Republicans alarmed by Paxton’s overseas trip with alleged mistress, voter fraud allegations - San Antonio Current",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQN0RjbXhycXQtUzhDT2RTejI4OUhoT0hJQzRxVkZFNVN3NWJvZnVFX2VtRmFZb0dZVmFSWXMtWGJCQ3ppbkZhMjQzaDV5UzVwYnM2TklIY2tvaVVWeVhFUW94NzdGX0x2Tnk1RXhVNjdpUzZMbGFpaTdqOHJwdUg2QzlLS0drbXRpZGZnMHBjMnJsTEpPOTBvVFhRZlBXaXYzMGtrbjhmR2pKWk51dHBZdnl3YlItMkNNUmY5dkd5eDk0WVdOTEM0OXdLb3ItZw?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 18:15:08 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.017,
-        "negative": 0.983,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W29": {
+      "both": {
+        "positive": 18,
+        "negative": 17,
+        "total": 35
+      },
       "paxton": {
         "positive": 4,
         "negative": 15,
@@ -1890,11 +1899,6 @@
         "positive": 6,
         "negative": 13,
         "total": 20
-      },
-      "both": {
-        "positive": 17,
-        "negative": 17,
-        "total": 34
       },
       "general": {
         "positive": 8,
@@ -1915,8 +1919,8 @@
       },
       "paxton": {
         "positive": 2,
-        "negative": 5,
-        "total": 8
+        "negative": 4,
+        "total": 7
       },
       "general": {
         "positive": 0,
