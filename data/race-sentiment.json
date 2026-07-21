@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-07-21T16:56:30.813Z",
-  "newsFetchedAt": "2026-07-21T15:10:46.646Z",
+  "analyzedAt": "2026-07-21T18:18:00.293Z",
+  "newsFetchedAt": "2026-07-21T16:56:36.953Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Black voters explain what they want to see from Senate candidate James Talarico - Fort Worth Star-Telegram",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUXdPaWY5cy1BWGJhbWlZVGNzdUZYdkdRSWt2NFBCdTNOdWhGbGRSUEtHSXZDVjlIaUx0WWV0S2Z1ZE9BY3FjM0d6WFp6cWN4M0RnNWkxREVBckVocTFDcEw2djYteHl5QVNQcGhnc3FLUy1DR05CemQ5eE5CVVh4UzE2aDVQaUQzYm9qdU5KZFFBX2R3VEHSAZYBQVVfeXFMUDFsTFRVWGRqS19uVnprTldfeVptOGRFbTloVS1fSnlFclhEejFWMk9ocE5kZ2R0UFByOE9ZRkpqTGZSbE0yV3lPSGNLdUhqanI1YjQxVlo0OE9HM2dzZFJZRm1qcUx3eXBfd0wwZlBaTFI1UFFrS0NKN3pPVFdRSTc2NDJramVxQ2thOHBSNTc5YS1RaTRn?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 15:21:30 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.474,
+        "negative": 0.526,
+        "label": "neutral"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "James Talarico faces fresh challenge in Texas Senate race - knewz.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNGM2UWRXVkVTV0poMnI5ZjlGSmJWMlluTWJhVlp5Q3AtMWh5bkhERFMzaWxYQTE3bGc5MWtXY2llMW92UExQUHdBTjI1R3NyaGZZWGJQYTJlS2dJY1NSOHk0eFBPMHFDNkMyUjdMSGdEdTFSUGx4aVJJcGtJejVuVmZSZTJxQUtw?oc=5",
@@ -1865,25 +1883,6 @@
         "label": "negative"
       },
       "candidate": "paxton",
-      "weekKey": "2026-W29"
-    },
-    {
-      "title": "Reid Hoffman Gives $10 Million To Texas Senate Candidate James Talarico’s Campaign - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ09mWlQ1MGpHQ1hibng3akxYUXZjMGRxaHpUeGMyOTliSTc2NHNsU1BJeDQ2YnFqR2RzWHlqc3p5QWViLWN5eVVWa2UycHlSaGUtYVgwc0otMDFrRm5wYzJZSWl3YVNDaGZDaXNsczBqMGdFaXhiWHV5bEttekI3cFBHRmZodm9CTFdYRDRseGstMDNtb05YbjFncy1oYTk4QnlTQXpOWUlXUGlwbWlCSDRieEZIeHNEQnQxcnFocGhJUG14TFpVeWt3?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 13:57:10 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate"
-      ],
-      "sentiment": {
-        "positive": 0.411,
-        "negative": 0.589,
-        "label": "neutral"
-      },
-      "candidate": "talarico",
       "weekKey": "2026-W29"
     }
   ],
