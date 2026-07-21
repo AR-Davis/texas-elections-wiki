@@ -1,9 +1,48 @@
 {
-  "analyzedAt": "2026-07-21T22:27:54.158Z",
-  "newsFetchedAt": "2026-07-21T21:41:02.255Z",
+  "analyzedAt": "2026-07-21T23:30:36.764Z",
+  "newsFetchedAt": "2026-07-21T23:02:10.908Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Democrat James Talarico faces fresh challenge in Texas Senate race: ‘Black people don’t trust you,’ Houston Black Lives Matter activist says - wonderwall.com",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQLTJPOUlzTUlQZzFkdGgwbmRXRGpOS1VXb2M0WldtUUJHa215cFlOdUtyeS0xYlIyd3pPalpUNUZZNVA0Nm1kZGtyd3VJb0ptbVF6T2NOS1RkOVFFdzF5V0oyRFViMkkzTUc1bkhEanNWU29Wamw1eDJPektzejZudHI3OHNyWVdORW55cEVIWnF5SlFpMFAxSWwteDJBUlJKM0U3UGJZSEJIT3hOOVZrWHNrMi1VOG50WnZwTWZnTWppdkpyejlUeFp6d3ZjaG1aMEpQRUpWZTAtb3FDZ0wwdmhPejg4WTA2U2t0YW5tbw?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 16:32:59 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 28,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.06,
+        "negative": 0.94,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "James Talarico Promised Black Voters A National Police Crackdown. These Texas Sheriffs Aren’t Pleased. - dailycaller.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdXN5VXpYZlNrYmxGMTZMQWFoOVFBbXY0RktDSzRXQ3NSeWlqYWNiQWtDYnBTZWxpb3JUR0o3QjduVXFiN1lrSW9wZUU1RE5FZDhnWXRVandlYTJJTmgyei01Qk4xRVdMbFpFYnNua2w2UGlGdUlPR1d4UmNuTmZUcmxtNUtMUGNPQVlnakMxR3dYQ1Fabk9rQWV6RmhPRFpfd3FyRmRKWkNFV0ZmempGRlFB?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 21:52:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.001,
+        "negative": 0.999,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "Ken Paxton dodges questions at rare press conference - Houston Chronicle",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaTRMM3pnMFRzYllJNzhwN29iNEJOZWt3Nm1UbGs1NWRTQ2NhME5yZ0p3czN3LVREZ1Z1SXMzdHdtelpzSWdablEwOGNhdHJSc3V6bE1GT0syVGpGLVRSd3ZGWUcxMXREVVQ4NmwteGVnUXlrYXZsUi0tSUtKM3FZM1hISzhsdVdFUXhzbzFVeUhEdG9NdmM3XzlXa0hCTjl1dmV4NUc0V2lxV3JucGR6WS1OcE5mOHN5dEE?oc=5",
@@ -1837,66 +1876,24 @@
       },
       "candidate": "both",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "Ken Paxton’s campaign says he will debate James Talarico in Texas’ U.S. Senate race - The Texas Tribune",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdTB0YUNrNV9OWEJtOU9BRWVNQmVXLWoxZ0FkTXNQNzV4Ykw0cEdHSXFXbXpMazI0Y0NyVGEydnlhdmVUY005TkljUTNHN1lHbzFkZVlyNFJmTzFKQm5YdVdjSHRJb3M0WnE4M25MT1I5c0NlSXNjZHFVS0c1WE9nd3B1N1lzYm5aZDRVVWRwQ2xNeGM4Wk9LM3RKOHc?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 16:58:54 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.975,
-        "negative": 0.025,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W29"
-    },
-    {
-      "title": "Talarico challenges Paxton to three televised debates in Texas Senate race - Washington Examiner",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTHlrYzlQeGRKWnFKdTVXYl9nZm5LTTluWGxodGxKbFlhTUQzTFBSWUdrQk5nOTkwdXA0djhabHYzR21RLVR4SlFabW41OURKWmhYYnR2bHNoVHV4RFR0Tkdlc1pxUTBJQURzUkp2ejc5VUJNX2J1N1NnNWN2Z0ZXMFlaVWlZbHM0VXB2WENYaXJmNkhTS1hBMGdFc0Rtb2ZvTS1pWV8yZUNaNGQ1U3EzcmFQRWRpZ1lJR2c?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 16:57:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.176,
-        "negative": 0.824,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
     "2026-W29": {
+      "talarico": {
+        "positive": 10,
+        "negative": 21,
+        "total": 33
+      },
       "paxton": {
         "positive": 6,
         "negative": 14,
         "total": 20
       },
       "both": {
-        "positive": 19,
-        "negative": 15,
-        "total": 36
-      },
-      "talarico": {
-        "positive": 10,
-        "negative": 19,
-        "total": 31
+        "positive": 18,
+        "negative": 14,
+        "total": 34
       },
       "general": {
         "positive": 8,
