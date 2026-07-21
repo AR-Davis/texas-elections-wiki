@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-07-21T03:21:05.164Z",
+  "fetchedAt": "2026-07-21T06:12:27.426Z",
   "count": 24,
   "feedsChecked": 8,
-  "itemsScanned": 193,
+  "itemsScanned": 195,
   "items": [
     {
       "title": "James Talarico challenges Ken Paxton to 3 televised Texas Senate debates - FOX 7 Austin",
@@ -10,6 +10,20 @@
       "pubDate": "Sun, 19 Jul 2026 23:04:00 GMT",
       "feedSource": "google-news-race",
       "raceScore": 29,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "texas senate"
+      ]
+    },
+    {
+      "title": "James Talarico challenges Ken Paxton to 3 televised Texas Senate debates - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTTZFTW9EX2JvUmQ2OF9rYk5YU204Y3JlSW9aY1BUbWtMTEh6V0RTLUJtR3lBS3lZWWg0NmYwQl9JMlMzaU9KVDhaMHdFZHZ5OU55Xy1UY3kzQk9FRWg0MmZKQXNnRzlEdUJBaWYwSzFqVDQ3YWVQaWlTRURUOG9MdW9HUGE1VTQ?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 13:27:02 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 28,
       "matchedKeywords": [
         "talarico",
         "james talarico",
@@ -115,6 +129,19 @@
       ]
     },
     {
+      "title": "John Cornyn's chances of beating Ken Paxton in Texas primary: New poll - MSN",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORWxOZGhrQVZlT2xoLWlTNlNla3VDaWUtX2pmcnNOdHQtWFM2X1BzRVQxNjFTSmRBeVBqNnNmcldGU0x5WFhvSGFqeXExeEI3V3phaGZ6N2RHa3Q3N1NKSlZBNmhVWHBCYVNaYmdGTjItMTB4eUY2bnVnZjQ0M2tiUWVueWRPT3pjTzFkd2p2Y1RfUUIzVVU4RGRDT0Z6eUQ3dW1zYWZWRC1BZVJEVlg0c3JQRGhRcnRIYVE?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 04:40:10 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "cornyn",
+        "john cornyn"
+      ]
+    },
+    {
       "title": "Texas Senate candidate James Talarico shouted down at tense Houston town hall - NewsNation",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZTd3MmJTNUNKY0hGVVliU3VSNjJRSWdrWDFEQzNXdlVaMjdnLXhheTVmMnM1eHAyd2lsQ2pBTFJSM3NEbTJ1enBFLWk5R18xZ3c2OHBPZ0pqR3M0T1FlZkFtVFo3eEtRdmxMSHNkQ2cxMzhJY2dDY2cwRVJwcU4tQjhpUG9UVmxBS0lMczNIRTJsZ3lOMUx5MW1jNHVKYi1Q0gGgAUFVX3lxTFBlN3cyYlM1Q0pjSEZVWWJTdVI2MlFJZ2tYMURDM1d2VVoyN2cteGF5NWYyczV4cDJ3aWxDakFMUlIzc0RtMnV6cEUtaTlHXzFndzY4cE9nSmpHczRPUWVmQW1UWjd4S1F2bExIc2RDZzEzOEljZ0NjZzBFUnBxTi1COGlQb1RWbEFLSUxzM0hFMmxneU4xTHkxbWM0dUpiLVA?oc=5",
       "pubDate": "Mon, 20 Jul 2026 15:02:02 GMT",
@@ -163,6 +190,17 @@
       ]
     },
     {
+      "title": "Texas Tech booster donated to Ken Paxton’s Senate campaign before AG’s $200M Brendan Sorsby warning to Big 12 - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fa2stcXdZd1RfUGQxZVBRX05LYUxUSzZfdzJWNDJxekh4b0s0WWVrR1N5ZGh6cjZLYTJGNnhuMHVmc0UxZnJtejI0amVCMUVLTVdqT1ZHVlhOS1drNzlTT0p6UlR4MGxubGpvcldoNU10Z0YwU0czWkNzTm9iN0U?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 03:41:23 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ]
+    },
+    {
       "title": "James Talarico pledges $25 million to win over Black voters in U.S. Senate campaign - Houston Public Media",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaThRVzVUOEs3MWJoQjBUTDJOVlVxbzZzUGtSUmszY0lEb3hSRU53enk4dWpzNnlYT1JtQnZoejRNY05EaHN1b2dwTHh6N1RQMVBicTdOUklQb2RzY2VXaC1qWTRlRkdDRWlxYk9BdE1OQWFuTHNEVi1pR0thNjFkLXp1dVBPQ0ZZUWgtZEJQdVhrcjliT2JKSkVHT3ZHRUN2eVAtNlZzOHBpb2VkTGdHcURkY0txMGlVdG1mZ0Zuc2otU0ZuMTMyQWYtUk5UaG5faFFqb3B3Z01meDczLUHSAeYBQVVfeXFMUEZlS3F4TFZ6YnA0UGNOWmp0ZExJZE00OUhBdXhCMk5QZDNuTUZaRTMxNUV4N0pkemx4UjlPb2szdndKVU9QaEJ1TFdvMHdTUFVRdlVRMTRpcFFhdms5UzZSMy1TVGlvdlpWdTBHTnpOU0pjZ3d5Vzhzd1I5QWlOSlRLZ0NJUEM4U1lFSU45QUpJMXlJemw0SDBWS0J1LWtVWVdjd1VoM2N3alBqRUxSbXBFTk4xZ19nWndTY3VwcmRaN244OVFwTlhkRUdIaVRBNU4zN2tYRllRTE5xYjdYaVNacS1QaEE?oc=5",
       "pubDate": "Mon, 20 Jul 2026 20:15:52 GMT",
@@ -193,6 +231,17 @@
       "matchedKeywords": [
         "paxton",
         "ken paxton"
+      ]
+    },
+    {
+      "title": "Peltola links arms, campaign cash with Texas gun-grabbing radical candidate James Talarico - Alaska Story",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcmdLVFU3dzgtQTdmQTdpa29va3RERWx0NjdCbGdoU0tPMGhHQWFJSlVXTmFLWnA0bEVYajFwVDMzRE0zQW15VkVuaUNKNmM0eERzSjNQMC1ZRlowdlR6cVZPVGNIZ2V5WmhFVnhGZUl1Z2staHFxcmRfMFRONHNGYlVURkdxTXRPTGFhSy1mTG9kNkthNmIzNEY4M3V6R05HeGxsM0wyMnhscjVpa0YtS19TejhCeWp5?oc=5",
+      "pubDate": "Sat, 18 Jul 2026 20:04:52 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
       ]
     },
     {
@@ -249,50 +298,6 @@
       "matchedKeywords": [
         "talarico",
         "james talarico"
-      ]
-    },
-    {
-      "title": "It Doesn't Look Like Things Are Going Well for the James Talarico Campaign - townhall.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWi1UXzN0UXRPLTJSNENodmYtLWdpaE91SlRGT0loNE5sb29lUjZWSDczazFmRjZmYlg0bFNXc1NNLXRNdFVpcktHZlozNkZGa1pOQTc2cGdhRTQ1VVduSHpfZlg3VExqM1F6a2Z0Y2hlQU1LYTEwWU54QjE2MlVONUdZVnNyTGMwekkyNlhULThmRlBTT0E?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 12:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ]
-    },
-    {
-      "title": "U.S. Senate Candidate James Talarico (D-TX) Holds Town Hall in DeSoto, TX - C-SPAN",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM1VhRFpYbzBHQ2xZbjJIaTkyYTQ5N0J2Y1ZHc1VueVhxeVAzaHNhYjExVGFsWVl4RkdhbnJIX0xocDdxZ0s3Tml4dzFkMWtmQVl4akh5a2lIc2p4ZEVHSkpkWldsN2NHYXMwNFpBYXZyUWJ3VkxDVDJBcFI3TEl4cXc2SVRZTXM1aEwzeHMycmF4VWVpM0tWcG5neFgxSE1HTUpaelJmMkJDa2dsekttNVlDdEZGRFV6TVE?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 04:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ]
-    },
-    {
-      "title": "Cody Campbell waves off Ken Paxton donation, says he could make 'nefarious deal' elsewhere - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZnRzX1A3QUpyZVl5aGxselEwYS1wY3hRellpZFh3ZmJ3VDJ6ZFZZQnc0cUZsNEctYm5uV2xiMnRpaHhoNHd0MmExUXdpUVFFenBuMWlscWVrcEN6cFYxQWRrelQybldTcF9KTDN4cHZFeWhpWFJQSlNCa3UxX3hGUEhjRkN3SkQxMjQtbGZoS0g1ZXJPMHB1R0pLR0hLa2p3enpJeTJNXzVfWV9MMHJjRmdoREg?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 14:29:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ]
-    },
-    {
-      "title": "Will ‘Peak Woke social media posts haunt Texas Democrat Talarico’s Senate bid? - Washington Examiner",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYWtMcDRxRnlhc3NuemNMOElsblZYTjNvdnV4VkhramR4ZWh0VjVuTmpUdkxLd2VoV3RFX2U5a2JpbnNNQjBpbThRcWdYbm5fQy13ZG4tajE0ZGJiQWVJdTUxMmRzOEdqNWJUZmQ1c0tmVDc5R2FTVmowSzlsY1NIa2x0WmNhaFpyQ3F0R29HeGR5UFlQX2ZkZm4xRFlkT0ZwYmc4RWJnZU5PTW1obk5fRGRNRERuR1otbUd0aFNIczZYdHFzS3c?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 09:45:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 9,
-      "matchedKeywords": [
-        "talarico",
-        "texas democrat"
       ]
     }
   ]
