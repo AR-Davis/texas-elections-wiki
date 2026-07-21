@@ -1,9 +1,63 @@
 {
-  "analyzedAt": "2026-07-20T23:03:54.513Z",
-  "newsFetchedAt": "2026-07-20T22:05:20.917Z",
+  "analyzedAt": "2026-07-21T00:05:21.036Z",
+  "newsFetchedAt": "2026-07-20T23:32:33.702Z",
   "totalAnalyzed": 100,
   "newThisRun": 3,
   "stories": [
+    {
+      "title": "James Talarico pledges $25 million to win over Black voters in U.S. Senate campaign - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaThRVzVUOEs3MWJoQjBUTDJOVlVxbzZzUGtSUmszY0lEb3hSRU53enk4dWpzNnlYT1JtQnZoejRNY05EaHN1b2dwTHh6N1RQMVBicTdOUklQb2RzY2VXaC1qWTRlRkdDRWlxYk9BdE1OQWFuTHNEVi1pR0thNjFkLXp1dVBPQ0ZZUWgtZEJQdVhrcjliT2JKSkVHT3ZHRUN2eVAtNlZzOHBpb2VkTGdHcURkY0txMGlVdG1mZ0Zuc2otU0ZuMTMyQWYtUk5UaG5faFFqb3B3Z01meDczLUHSAeYBQVVfeXFMUEZlS3F4TFZ6YnA0UGNOWmp0ZExJZE00OUhBdXhCMk5QZDNuTUZaRTMxNUV4N0pkemx4UjlPb2szdndKVU9QaEJ1TFdvMHdTUFVRdlVRMTRpcFFhdms5UzZSMy1TVGlvdlpWdTBHTnpOU0pjZ3d5Vzhzd1I5QWlOSlRLZ0NJUEM4U1lFSU45QUpJMXlJemw0SDBWS0J1LWtVWVdjd1VoM2N3alBqRUxSbXBFTk4xZ19nWndTY3VwcmRaN244OVFwTlhkRUdIaVRBNU4zN2tYRllRTE5xYjdYaVNacS1QaEE?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 20:15:52 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.615,
+        "negative": 0.385,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "James Talarico pledges $25 million to win over Black voters in U.S. Senate campaign - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRmVLcXhMVnpicDRQY05aanRkTElkTTQ5SEF1eEIyTlBkM25NRlpFMzE1RXg3SmR6bHhSOU9vazN2d0pVT1BoQnVMV28wd1NQVVF2VVExNGlwUWF2azlTNlIzLVNUaW92WlZ1MEdOek5TSmNnd3lXOHN3UjlBaU5KVEtnQ0lQQzhTWUVJTjlBSkkxeUl6bDRIMFZLQnUta1VZV2N3VWgzY3dqUGpFTFJtcEVOTjFnX2dad1NjdXByZFo3bjg5UXBOWGRFR0hpVEE1TjM3a1hGWVFMTnFiN1hpU1pxLVBoQdIB5gFBVV95cUxQRmVLcXhMVnpicDRQY05aanRkTElkTTQ5SEF1eEIyTlBkM25NRlpFMzE1RXg3SmR6bHhSOU9vazN2d0pVT1BoQnVMV28wd1NQVVF2VVExNGlwUWF2azlTNlIzLVNUaW92WlZ1MEdOek5TSmNnd3lXOHN3UjlBaU5KVEtnQ0lQQzhTWUVJTjlBSkkxeUl6bDRIMFZLQnUta1VZV2N3VWgzY3dqUGpFTFJtcEVOTjFnX2dad1NjdXByZFo3bjg5UXBOWGRFR0hpVEE1TjM3a1hGWVFMTnFiN1hpU1pxLVBoQQ?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 20:15:52 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.615,
+        "negative": 0.385,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "U.S. Senate Candidate James Talarico (D-TX) Holds Town Hall in DeSoto, TX - C-SPAN",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM1VhRFpYbzBHQ2xZbjJIaTkyYTQ5N0J2Y1ZHc1VueVhxeVAzaHNhYjExVGFsWVl4RkdhbnJIX0xocDdxZ0s3Tml4dzFkMWtmQVl4akh5a2lIc2p4ZEVHSkpkWldsN2NHYXMwNFpBYXZyUWJ3VkxDVDJBcFI3TEl4cXc2SVRZTXM1aEwzeHMycmF4VWVpM0tWcG5neFgxSE1HTUpaelJmMkJDa2dsekttNVlDdEZGRFV6TVE?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 04:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.984,
+        "negative": 0.016,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "Texas Senate candidate James Talarico shouted down at tense Houston town hall - NewsNation",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZTd3MmJTNUNKY0hGVVliU3VSNjJRSWdrWDFEQzNXdlVaMjdnLXhheTVmMnM1eHAyd2lsQ2pBTFJSM3NEbTJ1enBFLWk5R18xZ3c2OHBPZ0pqR3M0T1FlZkFtVFo3eEtRdmxMSHNkQ2cxMzhJY2dDY2cwRVJwcU4tQjhpUG9UVmxBS0lMczNIRTJsZ3lOMUx5MW1jNHVKYi1Q0gGgAUFVX3lxTFBlN3cyYlM1Q0pjSEZVWWJTdVI2MlFJZ2tYMURDM1d2VVoyN2cteGF5NWYyczV4cDJ3aWxDakFMUlIzc0RtMnV6cEUtaTlHXzFndzY4cE9nSmpHczRPUWVmQW1UWjd4S1F2bExIc2RDZzEzOEljZ0NjZzBFUnBxTi1COGlQb1RWbEFLSUxzM0hFMmxneU4xTHkxbWM0dUpiLVA?oc=5",
@@ -1823,71 +1877,14 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W28"
-    },
-    {
-      "title": "Talarico makes Laredo stop on Texas border tour - KGNS",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOUY2c3ZwelhJWXpKaTRWMHl1SXlndThHWTlRQmdMZl9nTGxKSnZZU2NBdnpBOThNUEdWeHJVYmNGa3FQVjJWWU5FSzdabEh2TXRmQ3lBTG5uUXJMdDFtUlhjLVp0XzlLbkJ1X3lHRlNkMUxoQk1uYks1S0R2SEV6ek5R0gGWAUFVX3lxTE5BamxyNGNPZHJmSzBNODJmMU5OV3cya2FaaHlfakJqZ0FaLW9fay1vQmhwSkNDbXR0OG9aUzRESFhabDdHUEQtb2tfd0dfaW9wdTZKT3MydWM4RHAzc0t0aTJ2QWFGUDdETXJfeE5ZX0Jjc3B2UDVTdzhDQ1k4a3RiRERab2RZSW5DSnREZXN2N2dldjRRdw?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 17:45:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "talarico"
-      ],
-      "sentiment": {
-        "positive": 0.51,
-        "negative": 0.49,
-        "label": "neutral"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "Ken Paxton’s many real estate holdings become an issue in Texas Senate race - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORmJGSEpQc25QTUdIdDJrUGs5ZGR6TFQxcWZmZmZ3aFVMSmFDRnUtZGEzaEp3bXdRbkdwQkVzWnY1VVVaTVNsaGt3SzhkeDJWY3RHTzlud3A4WTN2bFhvbDBjM2hwekNheHJnWjRsV1l1V2w2bGlHQW15XzdUbS1CRHhRdzNGZmVfN0w4MzBUTTE?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 19:37:59 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.581,
-        "negative": 0.419,
-        "label": "neutral"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "NEW POLL: MASSIVE UPSET IN TEXAS SENATE RACE! (JUNE 2026) Aja Wilson (b6VWILcCs1) - Mshale",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhbTJqQ3pKdlJLZ2pBTlBLR0tBbXRXaWw5dDhYc2pQcl91Z0hCcVdTaG5sd1dQOWswX1B1R1ppaktLREt3ODZUNTg0SGoxV1U2bHF3UEswdGxLNDlUU3dseg?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 18:13:50 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.013,
-        "negative": 0.987,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W29": {
       "talarico": {
-        "positive": 6,
+        "positive": 9,
         "negative": 19,
-        "total": 26
+        "total": 29
       },
       "both": {
         "positive": 18,
@@ -1914,17 +1911,12 @@
       "talarico": {
         "positive": 0,
         "negative": 1,
-        "total": 2
+        "total": 1
       },
       "paxton": {
         "positive": 0,
         "negative": 2,
-        "total": 3
-      },
-      "general": {
-        "positive": 0,
-        "negative": 1,
-        "total": 1
+        "total": 2
       }
     }
   }
