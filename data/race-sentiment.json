@@ -1,9 +1,46 @@
 {
-  "analyzedAt": "2026-07-21T20:01:44.618Z",
-  "newsFetchedAt": "2026-07-21T18:20:28.115Z",
+  "analyzedAt": "2026-07-21T21:20:13.032Z",
+  "newsFetchedAt": "2026-07-21T20:02:04.262Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "James Talarico defends Jasmine Crockett amid Texas Democratic tension - Rolling Out",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qWVR1UTBoOGg4TGtnSzRPY2kwVHJwNXdldXRaV1NZWFVuNmdyQXhDa21JX0tFWURqMG1NR3FsUkl5ZlN2SmdkQS0zZ0VDanRnY1BuMVJOQUIxTV9HRy1kM0dJQW5GSDhlT2paaXdTWjM0a0puWkFaTVVPOA?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 18:28:23 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas democrat"
+      ],
+      "sentiment": {
+        "positive": 0.027,
+        "negative": 0.973,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "James Talarico pledges $25 million to win over Black voters in U.S. Senate campaign - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaThRVzVUOEs3MWJoQjBUTDJOVlVxbzZzUGtSUmszY0lEb3hSRU53enk4dWpzNnlYT1JtQnZoejRNY05EaHN1b2dwTHh6N1RQMVBicTdOUklQb2RzY2VXaC1qWTRlRkdDRWlxYk9BdE1OQWFuTHNEVi1pR0thNjFkLXp1dVBPQ0ZZUWgtZEJQdVhrcjliT2JKSkVHT3ZHRUN2eVAtNlZzOHBpb2VkTGdHcURkY0txMGlVdG1mZ0Zuc2otU0ZuMTMyQWYtUk5UaG5faFFqb3B3Z01meDczLUE?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 20:15:52 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.615,
+        "negative": 0.385,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "Texas Attorney General Ken Paxton Holds News Conference - C-SPAN",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLTFWR0trUWpZLXRGNHN3Ujk0Ry1CNklybm9BbDlUYUhtNE9UWC1KeFQ0Z0VqUkVDN0p2eFAtUmxjTmpIbXJGVHVUT2N6ZmVMendmT2RaSmM5OWZUdXp6T2hHazFiOW5URDQwbktuYjFxWTAwaGVGQzlMcEMyRDZzdHhDRWR3U2duQUdObHZFYzRUcFFHN3FvbTJVbU4wS2pUVGR1YXdwZ3o?oc=5",
@@ -1845,64 +1882,24 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "James Talarico Challenges 'Puppet Politician' Ken Paxton to 3 TV Debates: 'Prove Me Wrong' - TheWrap",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY2F4ZlpubnA2c0RoMm9BSDdBWkZqUXlKUi1zc1JSU2h6Vjd0eENZMUR6eXNMRTJSMVFWd0J5Q0JTT0xnM2hEN3VodXJLTUVzSE1BTEVsNlhZM1B5VWxoUVZfRWlFN0pXV3pTUjFGZkthZ3drUUtNTlVVUlZhMWNXNG5lNTJpR2owX2ozNllMaGdvTDRHa2RJbVA2NTU2WEFMeDFUUUNMQQ?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 15:09:08 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.072,
-        "negative": 0.928,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W29"
-    },
-    {
-      "title": "James Talarico Challenges ‘Puppet Politician’ Ken Paxton to 3 TV Debates: ‘Prove Me Wrong’ - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDVRU2xpcDlBVkhSaHBlSjlyTTRYVmlZQ29MX0JyOXo3VjRhUThPazU5ZkptVXUxRWpuWERkRy1xTk13WWF4aUgtM0Ffb19SQ0JZSndTSndkMl9YX3VubFVuTG43YU5odGVnODJsNnI0OEhPNnNRaXZDaU5IQXdydkV6MjlKNjdyTU1RTlNYSWxjVWhHNEg5Mm9YN2JxTjk2VE5Pd0pB?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 15:09:08 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.021,
-        "negative": 0.979,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
     "2026-W29": {
+      "talarico": {
+        "positive": 10,
+        "negative": 19,
+        "total": 31
+      },
       "paxton": {
         "positive": 5,
         "negative": 15,
         "total": 20
       },
-      "talarico": {
-        "positive": 9,
-        "negative": 18,
-        "total": 29
-      },
       "both": {
         "positive": 18,
-        "negative": 18,
-        "total": 38
+        "negative": 16,
+        "total": 36
       },
       "general": {
         "positive": 8,
