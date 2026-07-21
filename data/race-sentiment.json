@@ -1,9 +1,68 @@
 {
-  "analyzedAt": "2026-07-21T03:56:55.613Z",
-  "newsFetchedAt": "2026-07-20T23:32:33.702Z",
+  "analyzedAt": "2026-07-21T06:33:25.700Z",
+  "newsFetchedAt": "2026-07-21T06:12:27.426Z",
   "totalAnalyzed": 100,
   "newThisRun": 3,
   "stories": [
+    {
+      "title": "James Talarico challenges Ken Paxton to 3 televised Texas Senate debates - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTTZFTW9EX2JvUmQ2OF9rYk5YU204Y3JlSW9aY1BUbWtMTEh6V0RTLUJtR3lBS3lZWWg0NmYwQl9JMlMzaU9KVDhaMHdFZHZ5OU55Xy1UY3kzQk9FRWg0MmZKQXNnRzlEdUJBaWYwSzFqVDQ3YWVQaWlTRURUOG9MdW9HUGE1VTQ?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 13:27:02 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 28,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "texas senate"
+      ],
+      "sentiment": {
+        "positive": 0.455,
+        "negative": 0.545,
+        "label": "neutral"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "John Cornyn's chances of beating Ken Paxton in Texas primary: New poll - MSN",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORWxOZGhrQVZlT2xoLWlTNlNla3VDaWUtX2pmcnNOdHQtWFM2X1BzRVQxNjFTSmRBeVBqNnNmcldGU0x5WFhvSGFqeXExeEI3V3phaGZ6N2RHa3Q3N1NKSlZBNmhVWHBCYVNaYmdGTjItMTB4eUY2bnVnZjQ0M2tiUWVueWRPT3pjTzFkd2p2Y1RfUUIzVVU4RGRDT0Z6eUQ3dW1zYWZWRC1BZVJEVlg0c3JQRGhRcnRIYVE?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 04:40:10 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "cornyn",
+        "john cornyn"
+      ],
+      "sentiment": {
+        "positive": 0.012,
+        "negative": 0.988,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "Texas Tech booster donated to Ken Paxton’s Senate campaign before AG’s $200M Brendan Sorsby warning to Big 12 - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fa2stcXdZd1RfUGQxZVBRX05LYUxUSzZfdzJWNDJxekh4b0s0WWVrR1N5ZGh6cjZLYTJGNnhuMHVmc0UxZnJtejI0amVCMUVLTVdqT1ZHVlhOS1drNzlTT0p6UlR4MGxubGpvcldoNU10Z0YwU0czWkNzTm9iN0U?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 03:41:23 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.007,
+        "negative": 0.993,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "James Talarico pledges $25 million to win over Black voters in U.S. Senate campaign - Houston Public Media",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaThRVzVUOEs3MWJoQjBUTDJOVlVxbzZzUGtSUmszY0lEb3hSRU53enk4dWpzNnlYT1JtQnZoejRNY05EaHN1b2dwTHh6N1RQMVBicTdOUklQb2RzY2VXaC1qWTRlRkdDRWlxYk9BdE1OQWFuTHNEVi1pR0thNjFkLXp1dVBPQ0ZZUWgtZEJQdVhrcjliT2JKSkVHT3ZHRUN2eVAtNlZzOHBpb2VkTGdHcURkY0txMGlVdG1mZ0Zuc2otU0ZuMTMyQWYtUk5UaG5faFFqb3B3Z01meDczLUHSAeYBQVVfeXFMUEZlS3F4TFZ6YnA0UGNOWmp0ZExJZE00OUhBdXhCMk5QZDNuTUZaRTMxNUV4N0pkemx4UjlPb2szdndKVU9QaEJ1TFdvMHdTUFVRdlVRMTRpcFFhdms5UzZSMy1TVGlvdlpWdTBHTnpOU0pjZ3d5Vzhzd1I5QWlOSlRLZ0NJUEM4U1lFSU45QUpJMXlJemw0SDBWS0J1LWtVWVdjd1VoM2N3alBqRUxSbXBFTk4xZ19nWndTY3VwcmRaN244OVFwTlhkRUdIaVRBNU4zN2tYRllRTE5xYjdYaVNacS1QaEE?oc=5",
@@ -1822,79 +1881,24 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "Trump-Backed Ken Paxton Beats Cornyn in Texas 2026 Senate GOP Primary - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tSFJ4dm5KSlBDQjNIM1VsckJfVmYyUHBjdmlMcEJuVEhsaGZCTVVRZW5wSlRTdjJSVVU4UGkzYUlBYzFVY1pkdnIzeHZuQ0JnTmttWmdSR19Lb2Y4NHFiNnd4Y0U1OWdrU3FpOVVGektETXNVSjhMMG1ZdzlqQQ?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 17:05:16 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "cornyn"
-      ],
-      "sentiment": {
-        "positive": 0.366,
-        "negative": 0.634,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "Texas Tech chair donated $275K to Ken Paxton day before AG intervened in Brendan Sorsby saga - The Texas Tribune",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc1g4Zl9TbXFKdnNUSHo2UHF6b296ZmNrQldJUmNtNTR0S2NoaHZGY2I2RVM5czF1Z1R1S0ZtX2NUSWRMX2ZHbkZjQ1hzOEo2bExFejlkLXRzaldxYVB2dHBaaF9ReWVJU2xZZlJpdWlQdWRGU1gwX1huZnhfWm5waVdkdjdQS3VwOTVyX2RIaEFnVmt4ZEpTVEtIWTZ0TUM0S2c?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 01:01:57 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.07,
-        "negative": 0.93,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W29"
-    },
-    {
-      "title": "Collin County Dems accuse Ken Paxton of voter fraud in formal complaint - KERA News",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPXzJfNV9KUXJyTzlRM3pYeFNKZUs5NXFTLTNMN29EMElEOE8yeTNuZVlLeHktXzh4X2gwQWFiaXZkaVlwd19qZWhDMTJFNjBPZFVlTDE3WG43Y3FncG9LMnNWbWo2REN1aTJERDJjbmlRWnhpUnBUMjU0YTF3MzNCbGpIYjEzampMNFlaMEZDdUxvSl9wcldCckhsLV84dmg3RC1pamhUeDRqNVFJYUdsc2FTS3BMS2VYQ1RsSnR3?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 17:52:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.002,
-        "negative": 0.998,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W28"
     }
   ],
   "weekly": {
     "2026-W29": {
+      "both": {
+        "positive": 18,
+        "negative": 17,
+        "total": 37
+      },
+      "paxton": {
+        "positive": 4,
+        "negative": 17,
+        "total": 21
+      },
       "talarico": {
         "positive": 9,
         "negative": 19,
         "total": 29
-      },
-      "both": {
-        "positive": 18,
-        "negative": 17,
-        "total": 36
-      },
-      "paxton": {
-        "positive": 4,
-        "negative": 16,
-        "total": 20
       },
       "general": {
         "positive": 8,
@@ -1912,11 +1916,6 @@
         "positive": 0,
         "negative": 1,
         "total": 1
-      },
-      "paxton": {
-        "positive": 0,
-        "negative": 2,
-        "total": 2
       }
     }
   }
