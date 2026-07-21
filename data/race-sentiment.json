@@ -1,9 +1,63 @@
 {
-  "analyzedAt": "2026-07-21T21:20:13.032Z",
-  "newsFetchedAt": "2026-07-21T20:02:04.262Z",
+  "analyzedAt": "2026-07-21T22:27:54.158Z",
+  "newsFetchedAt": "2026-07-21T21:41:02.255Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Ken Paxton dodges questions at rare press conference - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaTRMM3pnMFRzYllJNzhwN29iNEJOZWt3Nm1UbGs1NWRTQ2NhME5yZ0p3czN3LVREZ1Z1SXMzdHdtelpzSWdablEwOGNhdHJSc3V6bE1GT0syVGpGLVRSd3ZGWUcxMXREVVQ4NmwteGVnUXlrYXZsUi0tSUtKM3FZM1hISzhsdVdFUXhzbzFVeUhEdG9NdmM3XzlXa0hCTjl1dmV4NUc0V2lxV3JucGR6WS1OcE5mOHN5dEE?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 20:54:51 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.712,
+        "negative": 0.288,
+        "label": "positive"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "US Senate candidates Paxton, Talarico speak in North Texas - WFAA",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUkd1V3pJVmhpd19yMVp3Z1JtbTNzN1g2TXNLVjFZSnJDQjdCeEttamplMXQycG1VWU5EdWt1RGdNSjM3OHJkS0prbHdCeWFWZVZ0RDhzNUNwaGx4YmloMDBweDV5aWhSMy1fWVB4S0RINXRuSDNoNnNCLWhrMU5NbDZzTjlQQjgwT0RxLXNxTVFoMGFHekZxVjFpbmxsakFWR0VhSU9YNDJwU2d1T1pPYU5jSzR0VnQzLTJHZDFSN3AtNno0UW4xZV9TekJOQ19iMHJmcXJYc1FNTmdzUXAxOUJKVQ?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 21:28:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": {
+        "positive": 0.129,
+        "negative": 0.871,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "Paxton paints Talarico as one of the most anti-police politicians in TX history - Fort Worth Star-Telegram",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQTVnU1o2LS1BbVZaTXNDb0FxTTJTRWw0eHR0WnlkWE1jbWZ6RGJnS1Raa25FMXZqTGlMNVZQT3U5UGtxQzI0QkpRcHJWVnUwbGpkU0xzUXdnbzF0WkVPNlZybmpFZkxoTmMyb3pJS3FrbmJrYWtfdEFDS1Nvb3Nfc25R0gGCAUFVX3lxTE9BNWdTWjYtLUFtVlpNc0NvQXFNMlNFbDR4dHRaeWRYTWNtZnpEYmdLVFprbkUxdmpMaUw1VlBPdTlQa3FDMjRCSlFwclZWdTBsamRTTHNRd2dvMXRaRU82VnJuakVmTGhOYzJveklLcWtuYmtha190QUNLU29vc19zblE?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 19:29:11 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": {
+        "positive": 0.994,
+        "negative": 0.006,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "James Talarico defends Jasmine Crockett amid Texas Democratic tension - Rolling Out",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qWVR1UTBoOGg4TGtnSzRPY2kwVHJwNXdldXRaV1NZWFVuNmdyQXhDa21JX0tFWURqMG1NR3FsUkl5ZlN2SmdkQS0zZ0VDanRnY1BuMVJOQUIxTV9HRy1kM0dJQW5GSDhlT2paaXdTWjM0a0puWkFaTVVPOA?oc=5",
@@ -1825,81 +1879,24 @@
       },
       "candidate": "both",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "James Talarico challenged Ken Paxton to debates. Here’s the AG’s response - Fort Worth Star-Telegram",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeS1vOXRaRkNzbVlnY2lLbGpYcnZoUGRmQ0NES1hIN3QyVHY1MHozMDJHQ0xWOVN1WDdlR0JPQ2UtUWEtWC1XMjFZaDRuVWpwa002Yjk5d1VtWHNRZk1Cc2llSHBYS2pZcXNNbThaNzBnUUMyOWFqbnZkaHRadklsRll0QTBVZDZURDV5MmZTb0ZNUXVCbmfSAZYBQVVfeXFMT0VaLTN2d1ZkcWZPelBFT0lpOTNFT2RWMk9uLUJlUUZFX0VVS0hYZ3cyOXlva19rVzJIbEYyVUxtc1k1R0N2TXA4SUY2d0s0T0R0RDQxN1JMekR6bzBGWUx1VEFFaFA4N0dPMUtnWWNIeC16ZXF6VUI4dEdsSXIxZXV2b003YXNPbmdMVlV6dGV3Sk1WUGpn?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 16:42:32 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 23,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.064,
-        "negative": 0.936,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W29"
-    },
-    {
-      "title": "Talarico challenges Paxton to debates in US Senate race - KXAN Austin",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN0xfb0o3amFmaVN2LW1oWWpyeDN1R1pMdHZNT3FXWkJpM1lUYmgtc0VoSnZhSnJqRWlFNUR1MExLcG12N1ZKTm52T3l0UnhOaldDdFdiRFpiLXBNMU9Ud0ZmVE5iTEY5UXM1VWxaWVMtb1NMa3FGZ3Z2SVRBVXByc19ZV3ZXUUNfOGMtRGZOUTN0SzZOTFRzNlE2S2pRZ9IBowFBVV95cUxNajk2ZVZzV0NkRXk1NjJRem5lbldfbmVJYktkUHNrTGFJemtYdlFGaExzcUtScFhjZUp6dmtSOXNJQVVpSVdnZ0c5Z19xNjdvanBOQU1sSmVmNTY1MGJUWE4xM0lkXzREbXkxd21aR3JudmxYZ2FFYkMtSS1YMHBCaUl2UXdHalRHUktqbjZhZURzZ0RfX0JCLUpVLTc1TGFRc0d3?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 16:37:02 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.047,
-        "negative": 0.953,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W29"
-    },
-    {
-      "title": "Texas Tech booster donated to Ken Paxton’s Senate campaign before AG’s $200M Brendan Sorsby warning to Big 12 - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVVV2dlQ3WEdUQ2FMSXJIWXFCcVdPRUZSWWI2OUZQZ0E5R21CY1NUdTV1MlFIWE9GenRzc3hLSVExLTlIOUJicXRmYXBMQ1kxd2xLLUxjSzdMVmNscUJUM3JJM1I1Yzh2WERHVXJYR0VUaHE3bWc0eU5EcVRXYkZoaUdXOUs1R0dVQk9PMDMxOG9WTlVCV3BWWlQyN0g1dlZUNlROZmZkNVlEa0ZYSjZqdjlJVThwdl91aEdQMnV2YjBPTC1tR2xfYVFZMGs?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 17:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.015,
-        "negative": 0.985,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
     "2026-W29": {
+      "paxton": {
+        "positive": 6,
+        "negative": 14,
+        "total": 20
+      },
+      "both": {
+        "positive": 19,
+        "negative": 15,
+        "total": 36
+      },
       "talarico": {
         "positive": 10,
         "negative": 19,
         "total": 31
-      },
-      "paxton": {
-        "positive": 5,
-        "negative": 15,
-        "total": 20
-      },
-      "both": {
-        "positive": 18,
-        "negative": 16,
-        "total": 36
       },
       "general": {
         "positive": 8,
