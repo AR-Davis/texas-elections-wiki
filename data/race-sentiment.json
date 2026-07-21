@@ -1,9 +1,28 @@
 {
-  "analyzedAt": "2026-07-21T18:18:00.293Z",
-  "newsFetchedAt": "2026-07-21T16:56:36.953Z",
+  "analyzedAt": "2026-07-21T20:01:44.618Z",
+  "newsFetchedAt": "2026-07-21T18:20:28.115Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Texas Attorney General Ken Paxton Holds News Conference - C-SPAN",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLTFWR0trUWpZLXRGNHN3Ujk0Ry1CNklybm9BbDlUYUhtNE9UWC1KeFQ0Z0VqUkVDN0p2eFAtUmxjTmpIbXJGVHVUT2N6ZmVMendmT2RaSmM5OWZUdXp6T2hHazFiOW5URDQwbktuYjFxWTAwaGVGQzlMcEMyRDZzdHhDRWR3U2duQUdObHZFYzRUcFFHN3FvbTJVbU4wS2pUVGR1YXdwZ3o?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 04:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "attorney general"
+      ],
+      "sentiment": {
+        "positive": 0.969,
+        "negative": 0.031,
+        "label": "positive"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "Black voters explain what they want to see from Senate candidate James Talarico - Fort Worth Star-Telegram",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUXdPaWY5cy1BWGJhbWlZVGNzdUZYdkdRSWt2NFBCdTNOdWhGbGRSUEtHSXZDVjlIaUx0WWV0S2Z1ZE9BY3FjM0d6WFp6cWN4M0RnNWkxREVBckVocTFDcEw2djYteHl5QVNQcGhnc3FLUy1DR05CemQ5eE5CVVh4UzE2aDVQaUQzYm9qdU5KZFFBX2R3VEHSAZYBQVVfeXFMUDFsTFRVWGRqS19uVnprTldfeVptOGRFbTloVS1fSnlFclhEejFWMk9ocE5kZ2R0UFByOE9ZRkpqTGZSbE0yV3lPSGNLdUhqanI1YjQxVlo0OE9HM2dzZFJZRm1qcUx3eXBfd0wwZlBaTFI1UFFrS0NKN3pPVFdRSTc2NDJramVxQ2thOHBSNTc5YS1RaTRn?oc=5",
@@ -1866,28 +1885,15 @@
       },
       "candidate": "both",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "Texas Tech booster donated $274K one day before Texas AG Ken Paxton’s Brendan Sorsby letter - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTFdDZGhsc1pqM3NTMmJBbzJFU255b3d5TkRlQzR4R3FHTzBYV2VOU3RNcENaWVRZeGQyOHVLQjJjZHF4bmJZMngwbFVGT09La2RGN2JRLS1mZ0NWazFCSnZpLV9VZmx5OUZUTXFWbFkxd3cwWG96Yjg0VlYtemRyY0lXWDM5MWwtMkdtSnFiQXRaZlNfZ0NtMWlPRGxBdjd3MERZ?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 14:45:21 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.04,
-        "negative": 0.96,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
     "2026-W29": {
+      "paxton": {
+        "positive": 5,
+        "negative": 15,
+        "total": 20
+      },
       "talarico": {
         "positive": 9,
         "negative": 18,
@@ -1897,11 +1903,6 @@
         "positive": 18,
         "negative": 18,
         "total": 38
-      },
-      "paxton": {
-        "positive": 4,
-        "negative": 16,
-        "total": 20
       },
       "general": {
         "positive": 8,
