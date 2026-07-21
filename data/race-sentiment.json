@@ -1,9 +1,67 @@
 {
-  "analyzedAt": "2026-07-21T15:06:47.890Z",
-  "newsFetchedAt": "2026-07-21T06:12:27.426Z",
+  "analyzedAt": "2026-07-21T16:56:30.813Z",
+  "newsFetchedAt": "2026-07-21T15:10:46.646Z",
   "totalAnalyzed": 100,
   "newThisRun": 3,
   "stories": [
+    {
+      "title": "James Talarico faces fresh challenge in Texas Senate race - knewz.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNGM2UWRXVkVTV0poMnI5ZjlGSmJWMlluTWJhVlp5Q3AtMWh5bkhERFMzaWxYQTE3bGc5MWtXY2llMW92UExQUHdBTjI1R3NyaGZZWGJQYTJlS2dJY1NSOHk0eFBPMHFDNkMyUjdMSGdEdTFSUGx4aVJJcGtJejVuVmZSZTJxQUtw?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 14:20:07 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.557,
+        "negative": 0.443,
+        "label": "neutral"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "Talarico Tells Trump to Investigate Ken Paxton for “Fraud” - 2paragraphs.com",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU2I4ZVRSOUZLTmdlYTYzd0ROVnBwMS1BaXBLclR2VTNnMkREWGc3aTZiRUl2akpZTzlhRzVUdnM1MTl4Qy1mdS15Y3RXQXRhbDc2MlhhY1V2U19HTTNTdHlsWEVFbTZWdlVuLUNzZ1Q2eEtiazJ0am5oNko2UWlRWE5mWERyZFdQZ1dIUkpfc2tfVGs?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 14:43:18 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.381,
+        "negative": 0.619,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "Did James Talarico Really Make Fun of Childhood Dyslexia? - townhall.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR1hGMnJKY0djVF84QkoxQW5UTk5oVllYSnloYzNZTUNLZS1RRFo2bkZTRndTRjF4R0dQQVkwR183SnZIWGNlSTlKUjY3X2FPbjQ2ODM0dldOUS1WdkZSVTZ1Skg3dHZ0c1lucHhIWHcybjFiRWxsUkFTdk5OTVFrYzNXZWhidGVOU1NoRzIwQnhvUQ?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 13:35:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.007,
+        "negative": 0.993,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "James Talarico challenges Ken Paxton to 3 televised Texas Senate debates - AOL.com",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTTZFTW9EX2JvUmQ2OF9rYk5YU204Y3JlSW9aY1BUbWtMTEh6V0RTLUJtR3lBS3lZWWg0NmYwQl9JMlMzaU9KVDhaMHdFZHZ5OU55Xy1UY3kzQk9FRWg0MmZKQXNnRzlEdUJBaWYwSzFqVDQ3YWVQaWlTRURUOG9MdW9HUGE1VTQ?oc=5",
@@ -1827,78 +1885,24 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "Reid Hoffman Pumps $10 Million Into Talarico’s Texas Senate Bid - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORzRNSEx4dE9MUWZRTVpIY3BobXE1SUdmaG5uWTJMemozd3VDd2w2UFJEcEl2SEV6U1hMR3kya0J6MDVEVm55bEZSZnhoVzVTaTVZNUk1SEZzY2lxdEpCQml0dUxHRlpTUGZPSFQ1MmNfX1pQV09CNVh6YjhhandlM3RfSDUzYTFoVnhSeFY5NGNocFhZWFgxNzBUMnZFQmpIS2JHVlBSMmxDWDFNRUd3OWVFVHBoSG9ZNXllY2tIUUpOYTlSS1dHN1JFeFpLUQ?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 11:51:52 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "texas senate"
-      ],
-      "sentiment": {
-        "positive": 0.029,
-        "negative": 0.971,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W29"
-    },
-    {
-      "title": "Collin County Dems want state to investigate whether Ken Paxton violated Texas election law - NBC 5 Dallas-Fort Worth",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPa2prOURzSEd4b2xkTnRZVk9CZXNsSm0wcDI1dk8zNnk2OHgySlJXZXpkMFpXc2pTMVJ4TGVYcVlKRHZFZ1BpaWVvbmt4enN2UnF5VmZKa2UwcGJnS2szZDhCWVp3cTNrN21KM0trUmdybW04a01mcXF0S191U2U0TFpiblBraE5NcVMtN0lqZlVNV0s1RTJnVTllaUZ1b01BRExRelJUZDhIUF84ZnBUNjVXdUNWV0xBdUhaRVVQUFBBYkhhN3RjVXRnU1lUUzYxRmVkRUNn0gHeAUFVX3lxTE5teWhDSTJ2TDFDRmVyd2QwTWNsNlZKVVBsZnpGM3FPaF9UZzU5N3JYUVVGQXVSckdVOG10TDJHMTY1S3g5S3Z4MWlwcGt0WnJFMkl5eUZWR3NfMVFqYlZsU3VOU0w2ZFdsRTdSZFotOEtZX1Z0NENqVTNJSmk5SkZ1V2ZtNURyc2pEM3VaeVYxbzRHOV9IdjY4bUxvSDZJSVRFSTdhNmZDaDlsdWthMXdHMDl1OVREVmxtX0NXVDRNMHFwNHlqVEVYMzZRUkNRMGJONFdCMFBUeDFkSGJBdw?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 02:45:42 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.002,
-        "negative": 0.998,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W29"
-    },
-    {
-      "title": "Reid Hoffman Pumps $10 Million Into Talarico’s Texas Senate Bid - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRUt5dTRrUDJhOFBQTHVucGprdENCby1OdnBIYkF3b1JqZ0c0WXFCMUJrUEpnVEpRd1N6czF3ZEd3NDlJYmQtUlJGXzJqcjVMbHlrcmdlaldPMWg4d3I4T1FBVzY4TXBtcU81OEtNZHdFMVBrSmViOFN6bzlRTm8zRmhjN2NsczZ2V3MwQV9McWM3ajVvdDFGa042aGlWQVZ1b0txZUFjWjRhU200OGpQcnFuOA?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 11:51:52 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "texas senate"
-      ],
-      "sentiment": {
-        "positive": 0.029,
-        "negative": 0.971,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
     "2026-W29": {
+      "talarico": {
+        "positive": 9,
+        "negative": 18,
+        "total": 29
+      },
       "both": {
         "positive": 18,
-        "negative": 17,
-        "total": 37
+        "negative": 18,
+        "total": 38
       },
       "paxton": {
         "positive": 4,
-        "negative": 17,
-        "total": 21
-      },
-      "talarico": {
-        "positive": 9,
-        "negative": 19,
-        "total": 29
+        "negative": 16,
+        "total": 20
       },
       "general": {
         "positive": 8,
