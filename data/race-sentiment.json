@@ -1,9 +1,64 @@
 {
-  "analyzedAt": "2026-07-22T16:01:32.180Z",
-  "newsFetchedAt": "2026-07-22T14:35:23.250Z",
+  "analyzedAt": "2026-07-22T17:27:10.352Z",
+  "newsFetchedAt": "2026-07-22T16:24:04.145Z",
   "totalAnalyzed": 100,
   "newThisRun": 3,
   "stories": [
+    {
+      "title": "James Talarico pushes new ad in Texas US Senate race - El Paso Times",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSzgxWFB6UmhEQXQtNFF1YjdlclhlUjROTWppanUwQnEtSXc2clc5Z1pQVlpLYjZMZHFjbnRtbHRQTkFpUHJja3hPUU44RHpXcDFiSzRsYVdKd3p0RU1mUElwaWh4YWFFQXBPZkNxRFhXNWpRQ2RxTmVNOUFETDNzRnN4WkdGTE5xQl9LeHV6MldwbEZOenpuR2FLdFRSOGRNTmpfRWpoTWU4ajBLZUpJN3lDbEZHVHpVcWhtb0RxWUNFOTZBMlFrX3cwUnhIeWpJRVJqQmJfQQ?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 14:45:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.977,
+        "negative": 0.023,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "Campaign finance data suggests Republicans may not be rallying around U.S. Senate nominee Ken Paxton - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUXpIN21Qc0s2b0JhdUotbldxa0NOX2FLOXJZUC1hRF9XcHc3RHBBa0dXZ3A5WkxaWGQ5QkN5SjlDSVVZSDY2M0dsWDZVMzR4WUROMXJmRjJ1ajdXLTRvcnoxV0lUZERTOEt5TXZiSGRmOUJ6S09qWk1CYnFaWkRiMTN1eW1JanhVX05SZ1REQ1EzTlZsemh1NmRJWWFqdGR2XzcySkt2TGNlZU1qQm5CSTFNbmNpMlprd1JaQTdlYlZlNFV5QWNfV3NwM0JIemhIQTVLS2ktSUZ4ZlM4b09VTFZfTU7SAeQBQVVfeXFMUFF6SDdtUHNLNm9CYXVKLW5XcWtDTl9hSzlyWVAtYURfV3B3N0RwQWtHV2dwOVpMWlhkOUJDeUo5Q0lVWUg2NjNHbFg2VTM0eFlETjFyZkYydWo3Vy00b3J6MVdJVGREUzhLeU12YkhkZjlCektPalpNQmJxWlpEYjEzdXltSWp4VV9OUmdURENRM05WbHpodTZkSVlhanRkdl83MkpLdkxjZWVNakJuQkkxTW5jaTJaa3dSWkE3ZWJWZTRVeUFjX1dzcDNCSHpoSEE1S0tpLUlGeGZTOG9PVUxWX01O?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 13:39:31 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "James Talarico pledges $25 million to win over Black voters in U.S. Senate campaign - KERA News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQmhPM2xYbFlrTHFLMmxRaDNJcjRlMDBrd2U0c1p2MVRmUDdzd2FRelpkam5PaHNPclJEXzJGVDNDb3ExMGFMRVpscGFtaXViaHJUWEE1WjFMVXU0dGFNTnJrdkNla2hYT0JoTEdlUnN1d1BFRnJjTURGZC1HdUxUQmhQTEpFN0VKYmNHX3Z1aTJRS21Gc1JDbFpFMUR1N1NfOGpoc1E3ZVQ1WDRvWDJ2a3loSGt6Zw?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 11:58:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.27,
+        "negative": 0.73,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "Ken Paxton's attorney in his impeachment trial endorses James Talarico in US Senate race - MSN",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNnZQYzFuZkJZUExoYXpzWGpWMTZCU1UyQURZWWZKNDByM1hsZlhRblJoOExnaldCMjYwX1RGUWgyMFZHNXlCVUJCRTZSREtZUFRkN1VUMlBaRldfbmstVHE1NlNSN0VqeWR4MmctdXJwZ1ZkWTBCajdPWFA5amUzRlF6MVlzVDlYRzY2ellyZjREZWc4Rk9BbkFKQUotWDBqbGloYTZ6Q3NJcXQ5S18xeFJMWlhvckRYUEJDdWJtSlljSHVTMUpfYXpIaDhyZXpLY0JN?oc=5",
@@ -1817,79 +1872,24 @@
       },
       "candidate": "both",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "James Talarico slams ‘corrupt’ Big Bend border wall on campaign trail - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTUUteFZra081dl9VLThReVVlLXhfajZMbjZoU1AzZWdVMF94NmtTY19Zb01OdWZfeGhnSmMybzVSR1F5MmpxU09CZGFwNW8wYzlKeW8xUlRrbW8wOG9YdkhiNlpudEM5WWMtTGdwSjZrQUdDM0lncWZ4ck9iTnFqTVZhYkRZd0NHWUl1QTJvdHhHbThzaHdmaEprNGI4S3haaGUwU1lmX0p3NHJfZlU1WUJ6Y2RxdjVwWDh3YU5MTXJIMlhXRmZSZm9xM3NnVVhrTnJ0anZPNnZyWUdIOFRkbXFUSVNnNGJERVR2SjdKNNIB9wFBVV95cUxQckk2V0UzallCVUZUWmRkYTRzWmxKWE0yRnlGYTg4RjNSTVVVOGx5am1VRS1SU01BdV9ZNHdVdDNZeU05bmhqY0hTd3NJaTE5LWE3QkZfcGMwNHUwT0ViOUFxalRFRnlsQjJsQmxxQWsxRG1fYnFWc0RDYWp5UlRhOUxVNDlmdWhDRGNIRzgxb3pSSkFOVERxcTZSakFSUUQ1anNfaTd5NS1LZmFMM2dqLUxKYVRnZjRfU3pRUU9Tcll2NnRNelhFUkZaZVZsV3FtZ0w1ZzA4YjFITFVLTGl2SDJ1WElHOFMyaUJUd0IwMURqai1BTWtj?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 13:40:47 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.012,
-        "negative": 0.988,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "Texas Senate candidate James Talarico joins Morning Joe for wide-ranging interview - MSN",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUDMzMUt4MlVJU3V1SWctTnhJdmpDM0Fsd0NWYVNJRkt6Rm9JelE4Z3NhaEtIUkkyLTU5UDh1VU9UeFhaWWpQUThydW1mdWpCUGw1ajJkS2t2WVRwQi1lYmFpc2w5eG13R01fTW9Xa3pZQ01McEN5S3NNOW5pZURzUFJwRkhQMmdYNk5fd2lsOHVZd1ptT3VpT1BwUWVNckdGTmlsN1NHUzVkcWhVVWdSOGtNbVdJMGVJTEludTMxTlVPQzlIS3FCSXZRdw?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 18:43:28 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate"
-      ],
-      "sentiment": {
-        "positive": 0.996,
-        "negative": 0.004,
-        "label": "positive"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W29"
-    },
-    {
-      "title": "Texas Tech chair donated $275K to Ken Paxton day before AG intervened in Brendan Sorsby saga - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbUlGRlJkTW1XaXY3Ym5ndzJXM2ZrSDhnWVhQY2V1RUFYMVpScVNhZ2hIdG4yWXoyR0JqZjYzQUlMNGYyLTBiVkJWWmZPeXZ6MXZoQjJqQnRwenROTlE3OTNUV0EtbnFLUUxRVnBfcnRDVDEyNzhLNDAtOUVRRnlGOXhDZ3dUODJ3b05YMnZmZlNuQ0dNNU5NRXpqeFl5ckp4X2IzQy1BSjRRQ0NwUDZoU1liU1AwZXVlLVBPd1NhSWdoOWVib0JRUEJNOFFmU0V1WnVmNE5CLXY4UdIB2gFBVV95cUxPbUlGRlJkTW1XaXY3Ym5ndzJXM2ZrSDhnWVhQY2V1RUFYMVpScVNhZ2hIdG4yWXoyR0JqZjYzQUlMNGYyLTBiVkJWWmZPeXZ6MXZoQjJqQnRwenROTlE3OTNUV0EtbnFLUUxRVnBfcnRDVDEyNzhLNDAtOUVRRnlGOXhDZ3dUODJ3b05YMnZmZlNuQ0dNNU5NRXpqeFl5ckp4X2IzQy1BSjRRQ0NwUDZoU1liU1AwZXVlLVBPd1NhSWdoOWVib0JRUEJNOFFmU0V1WnVmNE5CLXY4UQ?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 19:18:46 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.054,
-        "negative": 0.946,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
     "2026-W29": {
-      "both": {
-        "positive": 19,
-        "negative": 11,
-        "total": 32
+      "talarico": {
+        "positive": 10,
+        "negative": 21,
+        "total": 34
       },
       "paxton": {
         "positive": 6,
         "negative": 16,
         "total": 22
       },
-      "talarico": {
-        "positive": 10,
-        "negative": 20,
-        "total": 33
+      "both": {
+        "positive": 19,
+        "negative": 11,
+        "total": 32
       },
       "general": {
         "positive": 8,
@@ -1901,11 +1901,6 @@
       "both": {
         "positive": 0,
         "negative": 0,
-        "total": 1
-      },
-      "talarico": {
-        "positive": 0,
-        "negative": 1,
         "total": 1
       }
     }
