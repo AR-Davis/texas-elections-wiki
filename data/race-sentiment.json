@@ -1,9 +1,48 @@
 {
-  "analyzedAt": "2026-07-22T04:20:19.267Z",
-  "newsFetchedAt": "2026-07-21T23:02:10.908Z",
+  "analyzedAt": "2026-07-22T07:13:29.319Z",
+  "newsFetchedAt": "2026-07-22T04:24:01.746Z",
   "totalAnalyzed": 100,
   "newThisRun": 2,
   "stories": [
+    {
+      "title": "Paxton, Talarico face tough questions in Fort Worth about issues that have emerged in Texas Senate race - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRnI0azRPMVphQzhtRjc1QkhHYUdJN19VcGNmQzBPdXJwblp4cGo1TndpTHFfeTFjZGtfVEszbmMyeWMwUXhFRks3eV9US3F2WFptNjNQeEZCSzVzWjBhVnN6MGZLOEp1Z0JWdWNUdThwRlRDTmZxX1FSX3J1TnBmWFcwLUtBX2xnOGZ1TTBxbW1lOFBHU3pMSWVpQk5MQQ?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 01:15:12 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.897,
+        "negative": 0.103,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "Democratic U.S. Senate nominee James Talarico focuses on childcare affordability - Texarkana Gazette",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZFktZFd1XzVQMnU3aU5TNzZ1U3V6empBUWJOSzRZTHU5QjIxR19DdXZPUTF5eFBQSFhMT1dxNW4yeVJLSU9pRUVtLVFDMk9FWWx3YXltSS1ib2FKSDdKMUNNamxkX3Q3V3dfSHVGSTZOM3g5U3ZTcWlwQjY0RFFJLTAzQVVRbFc5dHVOS1MyaDRCQ1c0eG41LTJR?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 03:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.592,
+        "negative": 0.408,
+        "label": "neutral"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "Democrat James Talarico faces fresh challenge in Texas Senate race: ‘Black people don’t trust you,’ Houston Black Lives Matter activist says - wonderwall.com",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQLTJPOUlzTUlQZzFkdGgwbmRXRGpOS1VXb2M0WldtUUJHa215cFlOdUtyeS0xYlIyd3pPalpUNUZZNVA0Nm1kZGtyd3VJb0ptbVF6T2NOS1RkOVFFdzF5V0oyRFViMkkzTUc1bkhEanNWU29Wamw1eDJPektzejZudHI3OHNyWVdORW55cEVIWnF5SlFpMFAxSWwteDJBUlJKM0U3UGJZSEJIT3hOOVZrWHNrMi1VOG50WnZwTWZnTWppdkpyejlUeFp6d3ZjaG1aMEpQRUpWZTAtb3FDZ0wwdmhPejg4WTA2U2t0YW5tbw?oc=5",
@@ -1837,63 +1876,24 @@
       },
       "candidate": "both",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "Billionaire Reid Hoffman gives $10 million to super PAC backing James Talarico’s Senate bid - The Texas Tribune",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObVBPSlNreWQ1d1RhWVY4RVBrUVNuWHA0U2hldDBmc1dfekJKZHB3SjlSVjd6c1VqRHVhNkswTzg5Y0xlanlyT2t2TFJPdGtPUW5CTzh5LW45c0V6bGp5d2hOc2x5XzVQaTRRNXhDUXF0Y3gtZ2VGOUFGTUo2eFVCSDlHM2NhaWZqWXNMd2hRb1RCdXVnQUFHUWg5eGVnMTEwdXZUekVNU0VyX2tNaHB5T29pcU5NSGk1SXRR?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 18:57:14 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.128,
-        "negative": 0.872,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W29"
-    },
-    {
-      "title": "James Talarico challenges Ken Paxton to 3 televised Texas Senate debates - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSDlua1hqRTl2TEMtTjhNUzh4amM5UVBiMnM1SDN3MWl5YV9wSVdIMi1ZWlR2M0c0T2lYaTlSS1JOWG9JdDJ1cktQTmw0VHZwajdPcjZZRVBKNHB1VW5YbW1xY0kwakFnbDRnTkxqOEJ4eGtNYVhpVmFBRmZ6QW55VFVxRWFCQ3l1cXplbWNJM3hkUXpQQ1lMUFlpa1dwUGNValdaQUoyOWNrOFd1ZmVVdmhNc2lPMThZU2hBWUVpS3ZyaU1kbkJZQVpaOGhPMkNnNXZNZlAwZzNNMUFTWGFB?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 16:45:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 28,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "texas senate"
-      ],
-      "sentiment": {
-        "positive": 0.907,
-        "negative": 0.093,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
     "2026-W29": {
+      "both": {
+        "positive": 18,
+        "negative": 14,
+        "total": 34
+      },
       "talarico": {
         "positive": 10,
-        "negative": 21,
+        "negative": 20,
         "total": 33
       },
       "paxton": {
         "positive": 6,
         "negative": 14,
         "total": 20
-      },
-      "both": {
-        "positive": 18,
-        "negative": 14,
-        "total": 34
       },
       "general": {
         "positive": 8,
