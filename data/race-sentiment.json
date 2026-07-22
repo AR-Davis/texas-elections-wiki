@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-07-22T20:13:49.922Z",
-  "newsFetchedAt": "2026-07-22T19:35:11.385Z",
+  "analyzedAt": "2026-07-22T21:38:10.096Z",
+  "newsFetchedAt": "2026-07-22T21:14:52.373Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "James Talarico rolls out data centers plan. It's a lot like Greg Abbott's - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbFBaZmdFOFFuRk9wMTdlOVJfb0lNcFREdEFRNmNfa25iRTRiaVQ2QWxzV1pwZUtON2V5VnBTZlNtS0RBd0Jnb1hvaVRVLWVwdkU2M2t2X0ROclp4ODYtMm1haXpjQU4wcGJFODllUjUwMzFUUjlWNnE2RWRMRkRLZUw3TVR1ejZmTU1nYmFyRm55NHlFZjRLYm91dlVBUQ?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 19:50:25 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.992,
+        "negative": 0.008,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "James Talarico calls for tighter regulations on data center development - The Texas Tribune",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdTluNFhPMkZGc2xVVW9fdW03bGVfbWYxVFZFLWxITnBlWjY5N2EzUTZmV2FDajh3YmZTQ012UzdudUt2eFhQalFQZWx0RDA5TG5rVl8zdVdwRmQ3MGFYVVRFN1g2eFVzMUVJenItaG5nT2h6N3FrNENLVm40SHZybjY4MVBURkQ5eVNCdzloa25haGVGaGJzczhucEc4QQ?oc=5",
@@ -1850,37 +1868,19 @@
       },
       "candidate": "both",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "Texas Tech donors gave big to Ken Paxton as he defended ex-QB Brendan Sorsby - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNHVQa0NtVmJnZXZtek05WS1vOEh5YVBoSXRub2FzSl9Ga0xnNThzYVYyLThHZVhxUHJiSG5BQXNpZ1Y4aVBpZkpXN2hiZDNoQXI5T05TRFZuYloybWw1WUk4ZlVDak9zYjJ1dlFBSEp4VWNjckVweWx4SmNzQnprM1BiWEd6dEplS2o5cVBjcTZfRTRjenFsMnl6bXRQT3d2dVFpNVpPMA?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 17:43:28 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.89,
-        "negative": 0.11,
-        "label": "positive"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
     "2026-W29": {
       "talarico": {
-        "positive": 10,
+        "positive": 11,
         "negative": 22,
-        "total": 35
+        "total": 36
       },
       "paxton": {
-        "positive": 6,
+        "positive": 5,
         "negative": 17,
-        "total": 23
+        "total": 22
       },
       "both": {
         "positive": 18,
