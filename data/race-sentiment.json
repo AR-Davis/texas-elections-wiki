@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-07-22T10:00:48.862Z",
-  "newsFetchedAt": "2026-07-22T04:24:01.746Z",
+  "analyzedAt": "2026-07-22T11:52:50.220Z",
+  "newsFetchedAt": "2026-07-22T10:01:17.622Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Paxton says Talarico one of the most anti-police politicians in Texas history - Texarkana Gazette",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcnRiX0plZUNKS1pBb3h5X09kWDVMM1Jvc1JoTmxISUcwWWRScHJBZ2h3RzRQQng1cG81RUZLT19EcUZvNzhjV194RXFLV3h0N2VSenVweG9IQld1TGNiNFQxNFBoZ2djYzIwam1qOG5La2pqZjB0aTdlM2g2Z0JzTVhnRHQyRXEwN1UzaXd5MW9kMDl6SVNJejNBNFlVR2Rn?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 03:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": {
+        "positive": 0.985,
+        "negative": 0.015,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "Paxton, Talarico face tough questions in Fort Worth about issues that have emerged in Texas Senate race - CBS News",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRnI0azRPMVphQzhtRjc1QkhHYUdJN19VcGNmQzBPdXJwblp4cGo1TndpTHFfeTFjZGtfVEszbmMyeWMwUXhFRks3eV9US3F2WFptNjNQeEZCSzVzWjBhVnN6MGZLOEp1Z0JWdWNUdThwRlRDTmZxX1FSX3J1TnBmWFcwLUtBX2xnOGZ1TTBxbW1lOFBHU3pMSWVpQk5MQQ?oc=5",
@@ -1857,32 +1875,13 @@
       },
       "candidate": "both",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "Talarico challenges Paxton to debates in US Senate race - KTSM 9 News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUi1RcjItdjNFSEY0NDZXdXNaRkx3d2xnTHVOaHVkV3dRazExRnVfNW0xTkk0RWNoSUpJLUktTFpBcGoxVXFpUlhWY2tXZG9rUkJvYW5sUHl3el9Ha1lTNFNZQ0tIZnpZMmdtMVgxMDZlQ0tmME0zd1o3dXdJeEl1eUhsOUVCYy1NRF9fQWlyZ2xrM1I5ajRYc1g4RjJQRlhrUTFZ0gGjAUFVX3lxTE9SLVFyMi12M0VIRjQ0Nld1c1pGTHd3bGdMdU5odWRXd1FrMTFGdV81bTFOSTRFY2hJSkktSS1MWkFwajFVcWlSWFZja1dkb2tSQm9hbmxQeXd6X0drWVM0U1lDS0hmelkyZ20xWDEwNmVDS2YwTTN3Wjd1d0l4SXV5SGw5RUJjLU1EX19BaXJnbGszUjlqNFhzWDhGMlBGWGtRMVk?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 10:49:49 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.035,
-        "negative": 0.965,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
     "2026-W29": {
       "both": {
-        "positive": 18,
-        "negative": 14,
+        "positive": 19,
+        "negative": 13,
         "total": 34
       },
       "talarico": {
