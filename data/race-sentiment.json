@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-07-23T16:08:47.820Z",
-  "newsFetchedAt": "2026-07-23T15:33:05.002Z",
+  "analyzedAt": "2026-07-23T17:56:00.861Z",
+  "newsFetchedAt": "2026-07-23T17:36:25.345Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Ken Paxton Flees Press Conference When Asked About His Scandals - The New Republic",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaDZrX2g1Q0x4YkZXYUtsVTgxU1pnMk1xRjZnTGFrNkVRdVViRFcwMUVIbkU3TEFLS1V6cl9VNWJ6cTBRMy1fbWVCRThtR01WazJMYk53M2FVVWkwMkwxdTNTTlZtQmwyVHBfMzIzU1F0cEU5c0hQcHNvTWJvRzZuTHQwQUFnT1RZNWEzMlM3WV9hR2c1?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 19:48:01 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.001,
+        "negative": 0.999,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "Ken Paxton loses ruling in Texas abortion case against Houston-area midwife - Houston Chronicle",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPamdGRDJ5bWFrcFg1VlhET2VMbVpPWkRHSjdUYjlFNmdMRk9WZzlWSzFsWmVKalpBVzk2amlVR085TGQ3c1ZIbWYwcTRLdWVoaWk5STJadEY5ZldyNTZqMU5Wd2NSX0JvM3pUei1jeXJUN1FlMmZIWEJOeE5SMV9jd3UyRWpFZ1VtbTdQeU8zR3BOMGlHZmd4bw?oc=5",
@@ -1837,40 +1855,15 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "Ken Paxton Bought 3 Utah Condos, Adding to a $9 Million Real Estate Portfolio - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11U0g0YjgxUXR2cTFKRTZPMkVDLXNqMDc3bk1QRjVmaXN0MDUzUkFhTmVYT0FsM0xxTS02cU5vOXcwVGRhLW9GVjE2UEpkV1hJb0hFUUNqTWdISWdLRXh6Y2hXUjIzR3dzNnlhQmMtSUo5VkpyU2wzVndlTXc?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 19:04:52 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.998,
-        "negative": 0.002,
-        "label": "positive"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
-    "2026-W30": {
-      "paxton": {
-        "positive": 0,
-        "negative": 1,
-        "total": 1
-      },
-      "both": {
-        "positive": 0,
-        "negative": 1,
-        "total": 1
-      }
-    },
     "2026-W29": {
+      "paxton": {
+        "positive": 4,
+        "negative": 20,
+        "total": 24
+      },
       "talarico": {
         "positive": 11,
         "negative": 23,
@@ -1881,15 +1874,22 @@
         "negative": 2,
         "total": 11
       },
-      "paxton": {
-        "positive": 5,
-        "negative": 19,
-        "total": 24
-      },
       "both": {
         "positive": 14,
         "negative": 8,
         "total": 24
+      }
+    },
+    "2026-W30": {
+      "paxton": {
+        "positive": 0,
+        "negative": 1,
+        "total": 1
+      },
+      "both": {
+        "positive": 0,
+        "negative": 1,
+        "total": 1
       }
     },
     "2026-W28": {
