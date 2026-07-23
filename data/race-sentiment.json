@@ -1,9 +1,46 @@
 {
-  "analyzedAt": "2026-07-23T01:03:22.009Z",
-  "newsFetchedAt": "2026-07-23T00:05:10.294Z",
+  "analyzedAt": "2026-07-23T04:24:05.069Z",
+  "newsFetchedAt": "2026-07-23T03:55:37.691Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Texas Senate race tightens as hopefuls target crucial Latino vote - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRFVkTXFDT3JBYjJ2U09VWjBHNGk0LWhkRWdGdDczVDNFbEpPNGJ3WWdvQVpPbjUwalR0cHlKNGQxMEhHUHd0ZlYyZmk0REYyZFhPQ0Iwb3g5TTlDczRQTW5XTFFaWGt0S3RVUTBHOGZKaXBMTWJ3ZmtsUWwyTHNxLWNGTlJxLTk4ZzFrRUJ6dHpMaUFpem9jOUVPVFNHZE9xLXJCeA?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 01:05:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.005,
+        "negative": 0.995,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "Anti-trans AG Ken Paxton flees press conference when asked about his shady dealings - LGBTQ Nation",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc2JhX3BMZHVTVTI5QkIyQjNhZDhwQWRVMmExbDFmNF9QcldQUFNqSGFXYzFKOGJybUwwQTM1X19PeVNoWFBOeUdnRjlIUnVzc2stTk5CV0xBT3J1MjE2X2ZCSWwySHViU2ZxSHhMU0JCMVdrX0dYT1dsd09WbTdZZVFKU2pQQkFmUVhzRlpuZDlYZHh5R19BSjFBWGNDTlFFU0hLV1VRMUJsOGxpWVhSQ0tEQ0pnbkVXUFExeQ?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 18:28:58 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.001,
+        "negative": 0.999,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "James Talarico: The Democrats’ preacher - World Socialist Web Site",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEYnlQVjdJX0IwWTdPMGwycDVwY3hOdmtYYmRaR2J0NU1JcHJzeDI3cFhFaHlETUZpOV82Zm83emN5UGNJZ00zeHdqYXN3WHJpUlVjM0lrMXF5d2ktQVpiWm5RZl9rd3J5?oc=5",
@@ -1825,67 +1862,29 @@
       },
       "candidate": "both",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "Texas Sen. John Cornyn appears on the fence about Todd Blanche’s nomination to be Trump’s attorney general - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPWHRjTzExZU9QN2lfQUlrUFlVZHEzWlBCLVhHYXpDdzlENEdvRjZhSnNYNnhqQmVkSHF4a3JyRFRVUVU5TVlrbTJCcnlKcDJLRk1RR2pyc1U0LWNUMHBNdG5tTnVmUEwtZ1dYQVIzNWN6eEViZ25GQjd1YUxSZF9wODdrY2RWM01wRkZCdGVqOGpYYXlBbzNrU1YzcnRINkJEaG84MW90V2NYTV9yRGFlVjhZSlIwbDhJQmEyblI5bjJEekl5VjM4UDRpclZ4d2p1U25IT2YwY3BfajJDM1U5UGFnU0x5MXFxbHVySi0tOFo1SWZJUjNLdkptLXM2bFFuaS1WeUV4SEFQWEc4d0VKRdIBkAJBVV95cUxPWHRjTzExZU9QN2lfQUlrUFlVZHEzWlBCLVhHYXpDdzlENEdvRjZhSnNYNnhqQmVkSHF4a3JyRFRVUVU5TVlrbTJCcnlKcDJLRk1RR2pyc1U0LWNUMHBNdG5tTnVmUEwtZ1dYQVIzNWN6eEViZ25GQjd1YUxSZF9wODdrY2RWM01wRkZCdGVqOGpYYXlBbzNrU1YzcnRINkJEaG84MW90V2NYTV9yRGFlVjhZSlIwbDhJQmEyblI5bjJEekl5VjM4UDRpclZ4d2p1U25IT2YwY3BfajJDM1U5UGFnU0x5MXFxbHVySi0tOFo1SWZJUjNLdkptLXM2bFFuaS1WeUV4SEFQWEc4d0VKRQ?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 11:00:15 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "cornyn",
-        "john cornyn",
-        "attorney general"
-      ],
-      "sentiment": {
-        "positive": 0.31,
-        "negative": 0.69,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W29"
-    },
-    {
-      "title": "Talarico challenges Paxton to debates in US Senate race - ValleyCentral.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOW11X25rS1c0YVVOcUZkNkRXX0ZCUWMwTmItUDc3RlNZTkJyd3U1YkJZZGFUT3ZoSmJYWG1oQ05kME9IejlzaG5MRF9TU3piZ0ZHQlBnMjZFYVk4NEczTXpGV0pQajB1S0xZZUIydkZmTXd6RnRxOXFCVWVSdzdBalhZOUlaaWdJZzRZQ1M2M2JtTUt6TFhLa0x1dmpVUzd5X2lkX3JXZVJpNXBZSnhQdnQxT3g0cldT0gGvAUFVX3lxTE9XQnpfdEMzUTI2SWxmQnRzN2w0Sl9OZUdsVmhoSGMwTkxZdUEzVFRjYzRtZ2l2UENfNG1jd2cxX3ZxVVp1cFFnbDl3TWR4eWs3YTVDR2ZJTno2UFBESlg1cThYRGljVzlXcHBhNEs4eE01UWwtSmRnb1ZRMFlnQ3JvWEpOaHRaci1hanl6dXY1R25XUlRmb0R1U3BIaEUxSVBjRDQ2eHBGUkdIclFhWDA?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 17:10:40 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.021,
-        "negative": 0.979,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
     "2026-W29": {
+      "general": {
+        "positive": 8,
+        "negative": 2,
+        "total": 11
+      },
+      "paxton": {
+        "positive": 5,
+        "negative": 19,
+        "total": 24
+      },
       "talarico": {
         "positive": 11,
         "negative": 22,
         "total": 37
       },
-      "paxton": {
-        "positive": 5,
-        "negative": 18,
-        "total": 23
-      },
       "both": {
         "positive": 17,
-        "negative": 9,
-        "total": 28
-      },
-      "general": {
-        "positive": 8,
-        "negative": 2,
-        "total": 11
+        "negative": 8,
+        "total": 27
       }
     },
     "2026-W28": {
