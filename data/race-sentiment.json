@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-07-23T07:07:05.983Z",
-  "newsFetchedAt": "2026-07-23T06:35:55.342Z",
+  "analyzedAt": "2026-07-23T10:00:34.589Z",
+  "newsFetchedAt": "2026-07-23T09:28:23.917Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Democratic US Senate candidate James Talarico proposes regulations, guardrails for data center industry - KVUE",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNX25YWE1CVjJOUzNzSnJabGZxZWo2QXoxaWM4OG5jY3F6SmswRkpKV3JRcVM3ZE1RR1RYVE5yb1UzV1lQLXNsa2EzejJKQ2xmZDlGMmd3a09uQXl3VWVTUUNWUk1hSHBnQWIxSDkzQVV0akdiekJuZ2ZqZjh1NTgxX203NnhnbU1oQlJIQXVrRzY0bmJ0XzAwMzJ1LTRqSTB5dmxhTFc3aTRiaC1OVkhNYkJuRVlCX25GTjlwMXdfNzV3alFNY3ZwSVh4MHd0ZWdyVkFtbU9uUi1uajVkbzRRVFJYWnRhdTc1alZZTHhSVEQ1cVVsVjZMYklzQQ?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 22:17:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.288,
+        "negative": 0.712,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "Texas Democratic U.S. Senate Candidate James Talarico Holds News Conference on Data Center Policy - C-SPAN",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNzFIMEptVWkweS1rWVEzOFZtNXpiWmJKOVNMSGpQYmhDZkI2aC1OekRLZXBCN1lxQ1dDMnRELTI1UkZyZDd1Z3B0ZTRMYzBhSnhlVmR5Ti1UQ21WcXpSMjY0dmE2T0NsbGg1MnlXcVpGZ3FaN1VpZXVBWG15Z1l2Qkx5UURJd0p4N2hWMnc0V1dRTXNkQnV5ZzAyUGk4VVJVaW5JZ0FiMmc1eENaNzlxYlZiSVg4bVpYeWNqMkVyWE14S2ZDa0lkUXU5TE85THhwUE5nLWdsSllGUUNMWEE?oc=5",
@@ -1839,35 +1857,14 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "Ken Paxton’s campaign says he will debate James Talarico in Texas’ U.S. Senate race - KERA News",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeWpHVW1HLUhLbm5uSVp3VnhnR1RYY19UMDRBdFZLUzQ3YmlqbGh2bWtubFItSVBVcDNiNzVGQlA5YnQ4a3hCT2xZY0lCTzQwbzBRcWI2Y3kyRFVoM2YzTG5uZThwMGtxOFRzdGc2cWdkbDRCdEZFYXF0dExSam5kTkJwTGdRUVo5VEJZZnRHWFhtRmZtYjZLYTc4WllmR2gtMVBwVTBrOEdud1NQdTFNSkpRNE1iS01XZjdyUmZMTUcxV0VSWEhGTkZvNFdiTllj?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 12:54:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.952,
-        "negative": 0.048,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
     "2026-W29": {
       "talarico": {
         "positive": 12,
-        "negative": 22,
-        "total": 38
+        "negative": 23,
+        "total": 39
       },
       "general": {
         "positive": 8,
@@ -1880,9 +1877,9 @@
         "total": 24
       },
       "both": {
-        "positive": 16,
+        "positive": 15,
         "negative": 8,
-        "total": 26
+        "total": 25
       }
     },
     "2026-W28": {
