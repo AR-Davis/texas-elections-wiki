@@ -1,9 +1,28 @@
 {
-  "analyzedAt": "2026-07-23T19:25:04.542Z",
-  "newsFetchedAt": "2026-07-23T17:36:25.345Z",
+  "analyzedAt": "2026-07-23T20:37:11.965Z",
+  "newsFetchedAt": "2026-07-23T19:26:59.782Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Texas Democratic nominee for Senate James Talarico says 'the only minority destroying America is the billionaires' - moneywise.com",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZDFVelpBcHMwNTIyUUZIV0JFMC1Sa0oyOGlaaF9IdFlhcWd0dmo2dHhrX19paDFOcGI2ZjFFTlozVjJuTHlOTjVxaDBHd1QwcEFVSC1CQVM2ek54WEgtMWwtVzQxMm44bVZlSzFmczF1eDhWdGdvaFdwMGEyN2R6NkhQdXk1LWtud1JjUUpn?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 18:34:45 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas democrat"
+      ],
+      "sentiment": {
+        "positive": 0.011,
+        "negative": 0.989,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W30"
+    },
     {
       "title": "Ken Paxton Flees Press Conference When Asked About His Scandals - The New Republic",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaDZrX2g1Q0x4YkZXYUtsVTgxU1pnMk1xRjZnTGFrNkVRdVViRFcwMUVIbkU3TEFLS1V6cl9VNWJ6cTBRMy1fbWVCRThtR01WazJMYk53M2FVVWkwMkwxdTNTTlZtQmwyVHBfMzIzU1F0cEU5c0hQcHNvTWJvRzZuTHQwQUFnT1RZNWEzMlM3WV9hR2c1?oc=5",
@@ -1837,27 +1856,26 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "James Talarico - Encyclopedia Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IREhFWWRfcWpQYk8zNnhxeU9jcWRrVzIxWlJfZXpFU2E2aU5qMDI2RE9rTTh0b1RYZEthRWZySHFrdEtXSThJZ1ZROU5aM3k0bVZTTHRXa1owbW83clF0MA?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 05:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.988,
-        "negative": 0.012,
-        "label": "positive"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
+    "2026-W30": {
+      "talarico": {
+        "positive": 0,
+        "negative": 1,
+        "total": 1
+      },
+      "paxton": {
+        "positive": 0,
+        "negative": 1,
+        "total": 1
+      },
+      "both": {
+        "positive": 0,
+        "negative": 1,
+        "total": 1
+      }
+    },
     "2026-W29": {
       "paxton": {
         "positive": 4,
@@ -1865,9 +1883,9 @@
         "total": 24
       },
       "talarico": {
-        "positive": 11,
+        "positive": 10,
         "negative": 23,
-        "total": 38
+        "total": 37
       },
       "general": {
         "positive": 8,
@@ -1878,18 +1896,6 @@
         "positive": 14,
         "negative": 8,
         "total": 24
-      }
-    },
-    "2026-W30": {
-      "paxton": {
-        "positive": 0,
-        "negative": 1,
-        "total": 1
-      },
-      "both": {
-        "positive": 0,
-        "negative": 1,
-        "total": 1
       }
     },
     "2026-W28": {
