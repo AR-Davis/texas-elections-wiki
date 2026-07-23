@@ -1,9 +1,101 @@
 {
-  "analyzedAt": "2026-07-23T20:37:11.965Z",
-  "newsFetchedAt": "2026-07-23T19:26:59.782Z",
+  "analyzedAt": "2026-07-23T23:29:22.525Z",
+  "newsFetchedAt": "2026-07-23T22:09:00.015Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 5,
   "stories": [
+    {
+      "title": "Talarico, Paxton face tough public relations moments amid dead-heat Senate race - Christian Post",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNVA0T29KZXlFdklXbEp1Wm1BSkRLVWJzZjJWNV9GZV9oZ1hraHRFVllVSXFYS1dzZy1VeDlndWpScHdEcGVwREkxbV84bTIzNy1lakh3OHhsT2F0QlJFQ0pSYkd0MVRiLUl4Y1NHNkluZ19zNklnalVmZDY3bmZ5YWNQSDFCZHdyN1A3VUtPZUJTRE9pX1hPblRpSlRNMk5EdVh3?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 20:09:05 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.013,
+        "negative": 0.987,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W30"
+    },
+    {
+      "title": "Tracking the money raised and spent in the U.S. Senate race between Talarico and Paxton - KEYE",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObEF2ZzZDazRLc2VIV0pzY0RuS3Q3dUVCV3V5Y0otZkQ0TUVubWRxNVBmVG1pVF95dFpUT3RpQVlsWTltRTdfdEJ2RVlXa1lpNEhkU2RTVU84YWJ6WFdKY25qVjYzSDhVMk8zRkV1TlFXUDlVblZwSk5NLWJxV3VxVWJ2RUUxRjdyTjBheUp4bG5wcG1IeUlIeVdJZXlKNUpfd05QQnl2WkZUMFM3TDhPbm1iajB4V3hYNkE?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 17:38:16 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.141,
+        "negative": 0.859,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "How can James Talarico convince Black voters? - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMk5HUjl5VU4yT2xLUFV4UEdOSDY1MUxzZEp6aHEzUks5REtIN2R2SVNqZmxON05CU2tlNXoxbFhWRGtJTXhlLTlhU05LZC1YZ20tM0g5c1M5elJwVFRaWC14Q1lLWmV4cU9CWlZEb0VNckN5TFpnU2VsVTY1aVVnVHZ0RjFoUzA0amdaTDBYQ2VKSzlYWTlDQ2ZwbGdzcW05ZHBsbG1mRm1Ydmk1RjdYRW9CNzNKWUU?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 11:48:23 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.001,
+        "negative": 0.999,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "James Talarico says 'the only minority destroying America is the billionaires' - Yahoo Finance Singapore",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPclUyQnFtekJmVUQwUDFXcGQ4TG1FN0NzZ3UtbGYxcVhnWFMyUnJBdE5MMkl3bFpldUJPcE0yVFRGNDRSSUJHX3QwSkpnVjdlblZzMS01VF9senN3c0FPVnBtLVBocXd6U1JOTmdtTE5YbEJNNVM2WGNVdTE3YWF4NXhiQWxjczU4UlE?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 19:15:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.006,
+        "negative": 0.994,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W30"
+    },
+    {
+      "title": "James Talarico Continues Pandering to Voters, This Time by Supporting Reparations - townhall.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVVFVQjFYUHhseFlVaDNpMzhCd0RzQU5UUFd3cUN0VUFVWnZ1bV80alNvcGlUTjI5Q2kzcVVFak82SXRVZXZPWDlOWjdnOElwaXVvbzFPU0hrQ2RnNlVxamFMblpMNlppZWFtV1ZVSGo4aFROenh6RnhOV1AxRVVWM2liaURNNV81?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 11:45:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.142,
+        "negative": 0.858,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W30"
+    },
     {
       "title": "Texas Democratic nominee for Senate James Talarico says 'the only minority destroying America is the billionaires' - moneywise.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZDFVelpBcHMwNTIyUUZIV0JFMC1Sa0oyOGlaaF9IdFlhcWd0dmo2dHhrX19paDFOcGI2ZjFFTlozVjJuTHlOTjVxaDBHd1QwcEFVSC1CQVM2ek54WEgtMWwtVzQxMm44bVZlSzFmczF1eDhWdGdvaFdwMGEyN2R6NkhQdXk1LWtud1JjUUpn?oc=5",
@@ -1763,146 +1855,46 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "Talarico says yes to three debates. Paxton's response: 'Of course we are going to debate.' - WFAA",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcjE0MHB4SlJrZDRvRjRoWUJjT3RnbmVWYXBZYmRSWkVYekh5WjgyNG10WHhrWmp5Z2hTV0ZJSnQzUndhdnlfTS05cU1ESTQ1dDA1YkJlLS1NTjF0QV8xVEI1ZkxkWDRnYjh1eGx2ZzlVZU9pdXFoOGhxSWpjMDlaeGlhN2Zqa1VrZ3ozTThfQTFRYnlNMDhpWGwyaDZDczhCQjI4bjFrXzZDTF85Rm1wSHR4Vk5LUHloVnhN?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 13:21:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 10,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.986,
-        "negative": 0.014,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W29"
-    },
-    {
-      "title": "Texas Senate candidate James Talarico joins Morning Joe for wide-ranging interview - MSN",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOREh5bnUyajRHTDc5dXdYTWJSQWZIanhaVzI1ck9qaDJvZnFGMXRLN1ktZDltMklSY0kwTmp6Z1V4eGZZaWVQZUQ1aWFnZm1qaTZaVkZxVlVWTm1pVjZwWFh2WGhCZFdLSHRTWmRhMlRNS0NKdElzbG9XUk1COXEtV1pDM1BtbVdzQktJQ0xnSzFJcGFoOVltWGoxM0pFRGhwU3lFRnBIN1MyLWM4ZklWR2Z3V0lCU2xWUG1QSkhncTdlOHNKMS1DQjBvYzRMN2pncHRuUVVoNHU0aE9CaFpzM19VSGZYMXhtVTgwN28tR291Y2VXd1NSUzJ1Zm1fdw?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 08:11:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate"
-      ],
-      "sentiment": {
-        "positive": 0.996,
-        "negative": 0.004,
-        "label": "positive"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W29"
-    },
-    {
-      "title": "Paxton, Talarico aren’t emphasizing abortion in the Senate race - The Texas Tribune",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUGZPMlNGNUtOa2hNaTAzT0pYSWQyZVBwLXoyZ2VmOUt6dkxYLWRRcWNZbTFMbGp3emgtZUlnRHd5YUQ2SFVibzNINjQ1TW5MaG5tV3VsQVhDeDlGNklEaGhOZjU1ZkcwRnVfRHl0X1NkZXB2U2lPRUJaMFZIUjEyMjFacHFmcXZh?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 20:39:31 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.544,
-        "negative": 0.456,
-        "label": "neutral"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W28"
-    },
-    {
-      "title": "Talarico challenges Paxton to debates in US Senate race - ValleyCentral.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSktHTUo1U0hRNzcxNmJWangyclJLMnNOaUNjWVhidmlXcUEycE9jWTREVlQyVWJvdHZHRm1sbHc2d2tCamxMNnAxR0hiMU5QeTg2SWc4VTktY2pybGphSXREWmJJbXV2Um1xMHFrblBRQWVhX1BNQnlOb3VZdlZqcERkWEdqbUdRT3hXbXVPYVpaenZFOF9BY2x6QUpHcDFvRmNHVWZ4UEI3d9IBrwFBVV95cUxPV0J6X3RDM1EyNklsZkJ0czdsNEpfTmVHbFZoaEhjME5MWXVBM1RUY2M0bWdpdlBDXzRtY3dnMV92cVVadXBRZ2w5d01keHlrN2E1Q0dmSU56NlBQREpYNXE4WERpY1c5V3BwYTRLOHhNNVFsLUpkZ29WUTBZZ0Nyb1hKTmh0WnItYWp5enV2NUduV1JUZm9EdVNwSGhFMUlQY0Q0NnhwRlJHSHJRYVgw?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 17:10:40 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.021,
-        "negative": 0.979,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W29"
-    },
-    {
-      "title": "Texas Tech booster Cody Campbell addresses Ken Paxton Senate donation - Fort Worth Star-Telegram",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdmRjSFhXQ0h3Uzg4VDlqbGktQlBOZTFvQUI1bWtETUdjNmJQdEJtdW1zOEtDNWRRNlYwLThlZHFJaFN6eWY2RGdkV2pLX1c4VWVKeHA3ZVhhNnpLbFJ2V3FHUjZoNk5pdDRNbjNaeUN5NHl6eVIyWHJBS0Z4N2tDM2RHclVWOFBLQ3g5WERNQzVJTzFhQ2fSAZYBQVVfeXFMTm9qSlMtR2owMnlDUU9sMmU5ek8wLVN4cHFoSnNzbnhuMnZVWTZpSF8ySzVpQWUtOXNWWjRVQXhLM2Flc2JDN2U1N1hneE9mTkRkZTVOUlBjWkVobHYtRUdQeGxpR2dLeXY3OVBIQXloMjJHdWxsdTVGbnhxam9LVXdYdmUybG5LUF83M0FxWnhTcC1ubzhB?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 02:12:06 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.063,
-        "negative": 0.937,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
     "2026-W30": {
+      "both": {
+        "positive": 0,
+        "negative": 2,
+        "total": 2
+      },
       "talarico": {
         "positive": 0,
-        "negative": 1,
-        "total": 1
+        "negative": 3,
+        "total": 3
       },
       "paxton": {
-        "positive": 0,
-        "negative": 1,
-        "total": 1
-      },
-      "both": {
         "positive": 0,
         "negative": 1,
         "total": 1
       }
     },
     "2026-W29": {
-      "paxton": {
-        "positive": 4,
-        "negative": 20,
-        "total": 24
+      "both": {
+        "positive": 13,
+        "negative": 8,
+        "total": 23
       },
       "talarico": {
-        "positive": 10,
-        "negative": 23,
+        "positive": 9,
+        "negative": 24,
         "total": 37
+      },
+      "paxton": {
+        "positive": 4,
+        "negative": 19,
+        "total": 23
       },
       "general": {
         "positive": 8,
         "negative": 2,
         "total": 11
-      },
-      "both": {
-        "positive": 14,
-        "negative": 8,
-        "total": 24
-      }
-    },
-    "2026-W28": {
-      "both": {
-        "positive": 0,
-        "negative": 0,
-        "total": 1
       }
     }
   }
