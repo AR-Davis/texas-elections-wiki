@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-07-23T14:12:01.141Z",
-  "newsFetchedAt": "2026-07-23T11:27:18.291Z",
+  "analyzedAt": "2026-07-23T16:08:47.820Z",
+  "newsFetchedAt": "2026-07-23T15:33:05.002Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Ken Paxton loses ruling in Texas abortion case against Houston-area midwife - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPamdGRDJ5bWFrcFg1VlhET2VMbVpPWkRHSjdUYjlFNmdMRk9WZzlWSzFsWmVKalpBVzk2amlVR085TGQ3c1ZIbWYwcTRLdWVoaWk5STJadEY5ZldyNTZqMU5Wd2NSX0JvM3pUei1jeXJUN1FlMmZIWEJOeE5SMV9jd3UyRWpFZ1VtbTdQeU8zR3BOMGlHZmd4bw?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 15:07:46 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.002,
+        "negative": 0.998,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W30"
+    },
     {
       "title": "Paxton, Talarico visits lay bare border voters’ complex feelings - The Texas Tribune",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxON1ZDNFVMNXBiRGRfQ2c2NGh2UklQbm1lRnlUR2NtcXhIdTI2b1cwaFBuQVI2NXRsd1hacG4tbm1DMWpYR0N3Rm14YTIwbzJEUXBSVVotWjdUNllkMU9IMGgxcmpiaE5uTjRQWHdVQlFJR2tZX2EtTnpiWV84c3NwUnB4LTJEWV9hYjVHUXpOTHktZy1obHNEcUhNdGhZVW1KcXpRYXAxUWpnZFpSR2NlQm1GWVIxeEx3a05Z?oc=5",
@@ -1837,29 +1855,15 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "Ken Paxton hasn’t debated a rival in more than a decade. Talarico is now challenging him to one - MS NOW",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNUVuV3FjeWM4WHVIZ3RIRUJWSF9ZT3hBU3lBNFIxYzBfTmY5MDE4RjJ4emtiVXJkNzNmb3JJcDRXcjdyaGpsNzRVSE45NThfWmZmRFdiTThEeGFHTUV0T1RMY0hkc2ZoMUx2bTRmSkhfS1lHbXRocHJXVDJUdlk1TnVMQmRINFdnNU1tRzBveWVtbmdKQ1BpRlZDQ1Z1ZVpuMGdfbzlibDJueFdDQkpzckttcjhmVGR3?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 16:27:47 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.97,
-        "negative": 0.03,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
     "2026-W30": {
+      "paxton": {
+        "positive": 0,
+        "negative": 1,
+        "total": 1
+      },
       "both": {
         "positive": 0,
         "negative": 1,
@@ -1883,9 +1887,9 @@
         "total": 24
       },
       "both": {
-        "positive": 15,
+        "positive": 14,
         "negative": 8,
-        "total": 25
+        "total": 24
       }
     },
     "2026-W28": {
