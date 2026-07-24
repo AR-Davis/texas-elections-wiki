@@ -1,9 +1,46 @@
 {
-  "analyzedAt": "2026-07-24T04:18:56.977Z",
-  "newsFetchedAt": "2026-07-23T23:29:57.899Z",
+  "analyzedAt": "2026-07-24T07:09:22.433Z",
+  "newsFetchedAt": "2026-07-24T04:50:44.900Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "On Cam: Ken Paxton Abruptly Storms Out Of Presser After Heated Argument; Talarico Mocks Texas AG - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNb01CUmQxc3A4dlVRMmFaYXB6NTQ0a1J2R0t6VGpfY2VoTXUzWG9QN0ZaZS1jT2Ewc19WRENhZHM4NzdPTVJKdUNIV3dkLXlIRjZtc09jcEY4RzJMUlNnNnFiLWc0bUNJaG81YVBJVjYzejBSSTRVVlZyMVQ1V2syc2JPM1R5Q3daaHQ5eUVOd0NSdlNQX2xpakVrRkNrLUdEVWVuX2kwR0ZHSTJQWDY3akM2U0tQcVBXRkhEU0FGQmVOd19fYks3YnR3bzBhdHcxMVZ4dE5tdUpVSWh2d2IyZmZjTTVKMTlUblJOZ1dWVUtCbzcyNFh1SVFyRDJCX0VrU1FXMTlR0gGLAkFVX3lxTE5kb0NFdGtjQzNUUFE3QXlUOU1Kekw1cktPWVdLd3RnMmNfTXIzUFBVMTFwYlRkUlJmNGFwUnB5OHRRVzlRRm8wY1puVTdnempHRFRFQ0dqdEYzN3VMdXUwS0dERUY3bzJPU1Z2RllWSEVIeV9OX3lOcU1kQjc5Z2dQX1p1MVdNVEptZW0tVHJDNDlkZG9ubXFxZWZkVzVEcmdvWkV2RkYtbWlwNC1oTi1XTlFvd0hDVWpwTWFOLTJfeFhCc3JqYVRRMmVKRjR2R0V5clpKZXc0b2hWQ09SYjlYM3BnU0NMdEpZclVVR3lQT1RNeFNvdkZ3VTltdXc4QnJpS1QyVzNwREQ0bw?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 22:00:22 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.003,
+        "negative": 0.997,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "James Talarico calls for tighter regulations on data center development - Texas Public Radio | TPR",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNclc4b0dBejRJeVZWQXRpeTZfMUltLU1yc204SXZMRUFpQnQ5NEp3Z0piTXJzTDBaY3RtaEdlNklTd1hTWEtmS2VIZS1RUWNrMWNFLVdkRGF5YU8xYWRDNDhSMkRnQ01ibU5SeVRVUW03LVJnZHFwSkpTQmZDRkFzdVpwSVFNdzc5QUNBVkRqRkIzZmtMRWxIbGVfMFFqdWRCbE1GVHRGb29FZFlxcldZZFdBYm5qcWU4N1pQQWNzYw?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 22:42:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.015,
+        "negative": 0.985,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "Texas Senate Winner: Kalshi Predictions for Paxton, Talarico - Action Network",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT3hkbmktd1hSWVJ5eXhQWFNhSW1tbFJfY1haVXBObTZxbEJwb3hpbEItdS0yMXhLeVcxTlo4ZS1hdTlyR25jdFVoUDdHS1FTa2hiekV2OG4zMlRCOUhPQ19HbmFJT25UVTE1Qlc4X1ZYLS05NXJSaVJsdGp5S256MGNxMlQ5ZE5qRmZxalR1c19HSmRHUjV4eA?oc=5",
@@ -1823,43 +1860,31 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "Paxton talks border security in rare campaign stop in Texas - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVHNYVHF4eUJEdk5hQmh1XzdjMzgwcnhYYk5QTUt0LU9zTmdvdU5Jb0ZkeUN2VGV6WXlHMEVwb1c3eUVkTWJsU0x2MWJaWmwtN1FsR2psNmMtYkMzOFBETnFDS0VzU1Zma2NBd1JET092QktZWGI1YzVuWHVUcGdTUUg4S1pnUFBuR3hLcWttRVExUThmRlFlSUVEbjZ0cks1RmVuZ2d4VUtSZ2xMWjIwSnFPUkRNVzVFemQtVzlB?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 11:02:09 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 7,
-      "matchedKeywords": [
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.997,
-        "negative": 0.003,
-        "label": "positive"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W29"
-    },
-    {
-      "title": "Inside Texas Politics | Full Interview on issues facing Dallas with Michael Hinojosa - newswest9.com",
-      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNbmJoUzE4dDVmWmtIUmtpMGR2bEgtT29lWEhUQ0wweXFCdi1NeFNoVjJCRkNPWkVoRzZGWUVXbDNlNm9JMzBZMFhDNUY3RGtPWDEtT2V6N2hQNTY2X1EtT2xIbFJGMXhsRHhUUlNmU2szQnd3TnRXWTdkLW11Y1ZvTElrRUthYjVJRG5SUWZoRUxuVl9qaFFNZDB5dTBKQ2Y0VGpfVXNCcnVkWEdZbl9GYmZ1WkEyODk5cDlndmUtOHUyWFlnZEpMeVRIclpiWkhTMzgyVUxfRlc1Mk5MNFJPU3lqUXVRSDZHa1Y3cUtiRzJxU1RyYkRjekhoQ3lnM0dvWnFVMjRGR0hNTnZrYXlObU1QRVFIV3g3SHgwSEdTZUx0d3d5amVN?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 21:22:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "sentiment": {
-        "positive": 0.99,
-        "negative": 0.01,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
+    "2026-W29": {
+      "both": {
+        "positive": 13,
+        "negative": 9,
+        "total": 24
+      },
+      "talarico": {
+        "positive": 9,
+        "negative": 24,
+        "total": 37
+      },
+      "paxton": {
+        "positive": 3,
+        "negative": 19,
+        "total": 22
+      },
+      "general": {
+        "positive": 7,
+        "negative": 2,
+        "total": 10
+      }
+    },
     "2026-W30": {
       "both": {
         "positive": 1,
@@ -1875,28 +1900,6 @@
         "positive": 0,
         "negative": 1,
         "total": 1
-      }
-    },
-    "2026-W29": {
-      "both": {
-        "positive": 13,
-        "negative": 8,
-        "total": 23
-      },
-      "talarico": {
-        "positive": 9,
-        "negative": 23,
-        "total": 36
-      },
-      "paxton": {
-        "positive": 4,
-        "negative": 19,
-        "total": 23
-      },
-      "general": {
-        "positive": 8,
-        "negative": 2,
-        "total": 11
       }
     }
   }
