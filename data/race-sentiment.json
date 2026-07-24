@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-07-24T11:44:35.518Z",
-  "newsFetchedAt": "2026-07-24T04:50:44.900Z",
+  "analyzedAt": "2026-07-24T13:54:12.751Z",
+  "newsFetchedAt": "2026-07-24T12:03:22.881Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Ken Paxton Now Has to Do the Unthinkable: Try - Texas Monthly",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU2wzZzhqWW1ueDB3WlJOQzdmSlZyVTZDcVV1Q3lKM19ULURkNVNFZzJfNGYxbldqOWhRMnpOcDhOd2xHbFpndExzZDJ1V2tBX0dEeDRjYURJNl9panZ1c1U1a1pIM1RwNUNMRnVEYWZrYmRFLUhHMXFwVkZ2Vkt6UkYyY01Hc1NtTldv?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 11:00:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.968,
+        "negative": 0.032,
+        "label": "positive"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W30"
+    },
     {
       "title": "On Cam: Ken Paxton Abruptly Storms Out Of Presser After Heated Argument; Talarico Mocks Texas AG - The Times of India",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNb01CUmQxc3A4dlVRMmFaYXB6NTQ0a1J2R0t6VGpfY2VoTXUzWG9QN0ZaZS1jT2Ewc19WRENhZHM4NzdPTVJKdUNIV3dkLXlIRjZtc09jcEY4RzJMUlNnNnFiLWc0bUNJaG81YVBJVjYzejBSSTRVVlZyMVQ1V2syc2JPM1R5Q3daaHQ5eUVOd0NSdlNQX2xpakVrRkNrLUdEVWVuX2kwR0ZHSTJQWDY3akM2U0tQcVBXRkhEU0FGQmVOd19fYks3YnR3bzBhdHcxMVZ4dE5tdUpVSWh2d2IyZmZjTTVKMTlUblJOZ1dWVUtCbzcyNFh1SVFyRDJCX0VrU1FXMTlR0gGLAkFVX3lxTE5kb0NFdGtjQzNUUFE3QXlUOU1Kekw1cktPWVdLd3RnMmNfTXIzUFBVMTFwYlRkUlJmNGFwUnB5OHRRVzlRRm8wY1puVTdnempHRFRFQ0dqdEYzN3VMdXUwS0dERUY3bzJPU1Z2RllWSEVIeV9OX3lOcU1kQjc5Z2dQX1p1MVdNVEptZW0tVHJDNDlkZG9ubXFxZWZkVzVEcmdvWkV2RkYtbWlwNC1oTi1XTlFvd0hDVWpwTWFOLTJfeFhCc3JqYVRRMmVKRjR2R0V5clpKZXc0b2hWQ09SYjlYM3BnU0NMdEpZclVVR3lQT1RNeFNvdkZ3VTltdXc4QnJpS1QyVzNwREQ0bw?oc=5",
@@ -1842,27 +1860,26 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "Will ‘Peak Woke social media posts haunt Texas Democrat Talarico’s Senate bid? - Washington Examiner",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYWtMcDRxRnlhc3NuemNMOElsblZYTjNvdnV4VkhramR4ZWh0VjVuTmpUdkxLd2VoV3RFX2U5a2JpbnNNQjBpbThRcWdYbm5fQy13ZG4tajE0ZGJiQWVJdTUxMmRzOEdqNWJUZmQ1c0tmVDc5R2FTVmowSzlsY1NIa2x0WmNhaFpyQ3F0R29HeGR5UFlQX2ZkZm4xRFlkT0ZwYmc4RWJnZU5PTW1obk5fRGRNRERuR1otbUd0aFNIczZYdHFzS3c?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 09:45:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 9,
-      "matchedKeywords": [
-        "talarico",
-        "texas democrat"
-      ],
-      "sentiment": {
-        "positive": 0.016,
-        "negative": 0.984,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
+    "2026-W30": {
+      "paxton": {
+        "positive": 1,
+        "negative": 1,
+        "total": 2
+      },
+      "both": {
+        "positive": 1,
+        "negative": 2,
+        "total": 3
+      },
+      "talarico": {
+        "positive": 0,
+        "negative": 3,
+        "total": 3
+      }
+    },
     "2026-W29": {
       "both": {
         "positive": 13,
@@ -1871,8 +1888,8 @@
       },
       "talarico": {
         "positive": 9,
-        "negative": 24,
-        "total": 37
+        "negative": 23,
+        "total": 36
       },
       "paxton": {
         "positive": 3,
@@ -1883,23 +1900,6 @@
         "positive": 7,
         "negative": 2,
         "total": 10
-      }
-    },
-    "2026-W30": {
-      "both": {
-        "positive": 1,
-        "negative": 2,
-        "total": 3
-      },
-      "talarico": {
-        "positive": 0,
-        "negative": 3,
-        "total": 3
-      },
-      "paxton": {
-        "positive": 0,
-        "negative": 1,
-        "total": 1
       }
     }
   }
