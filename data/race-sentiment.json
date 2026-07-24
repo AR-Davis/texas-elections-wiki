@@ -1,9 +1,29 @@
 {
-  "analyzedAt": "2026-07-24T13:54:12.751Z",
-  "newsFetchedAt": "2026-07-24T12:03:22.881Z",
+  "analyzedAt": "2026-07-24T15:28:23.059Z",
+  "newsFetchedAt": "2026-07-24T14:21:32.711Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Texas Senate Race: Talarico's Focus on Black Community - Dallas Weekly",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRG1oSTBXcFRPLU1KQ09obDNyVlBkS0lIWGFtSGl5bmVzTTZIZzJHVEt3c09oVVgzUEhkdVQwNVRNdFVUVzFaMFl6VEhMRDNDR1B4dDNtbFRnb2FYREVyUTBCUHpvZlBQX2VHdGJDWDk2a1VzcGFOSlJrV2FLMGdMTXR1NA?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 19:35:38 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.981,
+        "negative": 0.019,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "Ken Paxton Now Has to Do the Unthinkable: Try - Texas Monthly",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU2wzZzhqWW1ueDB3WlJOQzdmSlZyVTZDcVV1Q3lKM19ULURkNVNFZzJfNGYxbldqOWhRMnpOcDhOd2xHbFpndExzZDJ1V2tBX0dEeDRjYURJNl9panZ1c1U1a1pIM1RwNUNMRnVEYWZrYmRFLUhHMXFwVkZ2Vkt6UkYyY01Hc1NtTldv?oc=5",
@@ -1842,27 +1862,31 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "Peltola links arms, campaign cash with Texas gun-grabbing radical candidate James Talarico - Alaska Story",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcmdLVFU3dzgtQTdmQTdpa29va3RERWx0NjdCbGdoU0tPMGhHQWFJSlVXTmFLWnA0bEVYajFwVDMzRE0zQW15VkVuaUNKNmM0eERzSjNQMC1ZRlowdlR6cVZPVGNIZ2V5WmhFVnhGZUl1Z2staHFxcmRfMFRONHNGYlVURkdxTXRPTGFhSy1mTG9kNkthNmIzNEY4M3V6R05HeGxsM0wyMnhscjVpa0YtS19TejhCeWp5?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 20:04:52 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.078,
-        "negative": 0.922,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
+    "2026-W29": {
+      "talarico": {
+        "positive": 10,
+        "negative": 22,
+        "total": 36
+      },
+      "both": {
+        "positive": 13,
+        "negative": 9,
+        "total": 24
+      },
+      "paxton": {
+        "positive": 3,
+        "negative": 19,
+        "total": 22
+      },
+      "general": {
+        "positive": 7,
+        "negative": 2,
+        "total": 10
+      }
+    },
     "2026-W30": {
       "paxton": {
         "positive": 1,
@@ -1878,28 +1902,6 @@
         "positive": 0,
         "negative": 3,
         "total": 3
-      }
-    },
-    "2026-W29": {
-      "both": {
-        "positive": 13,
-        "negative": 9,
-        "total": 24
-      },
-      "talarico": {
-        "positive": 9,
-        "negative": 23,
-        "total": 36
-      },
-      "paxton": {
-        "positive": 3,
-        "negative": 19,
-        "total": 22
-      },
-      "general": {
-        "positive": 7,
-        "negative": 2,
-        "total": 10
       }
     }
   }
