@@ -1,9 +1,86 @@
 {
-  "analyzedAt": "2026-07-24T21:38:45.277Z",
-  "newsFetchedAt": "2026-07-24T19:37:58.271Z",
+  "analyzedAt": "2026-07-24T23:04:42.213Z",
+  "newsFetchedAt": "2026-07-24T22:36:00.363Z",
   "totalAnalyzed": 100,
   "newThisRun": 4,
   "stories": [
+    {
+      "title": "Texas AG Ken Paxton Beats John Cornyn In Republican U.S. Senate Runoff Coco Gauff (QeSpsaZRwC) - Mshale",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LWTlfTFVhSFNXR2ZxOWpwZ1M4c2RGMVpIZ3VsVzlyZUZXX1Y2b3BTTzVBNjhpU3lhcW5FS3N6OVp6NUZVWld1eW9aM2ZGck8zLUp2bVJncE1xN0k?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 09:27:19 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "cornyn",
+        "john cornyn"
+      ],
+      "sentiment": {
+        "positive": 0.14,
+        "negative": 0.86,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "Latest Odds for Texas Senate Race: Prediction Markets for 2026 Midterms - Federal News Network",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdHZVYVpONzVvUUFBRDFGNm9PYmNhZ2l6VGFZcFFmb2RkVENKdlZDeTBiRExla3FfdGhSV0RFSTh6aG1yTklKdDM3eUtvTXVQYVFTX1FKZHEza3BGRzNrOWRERXFia3lUWXlES1BMNlNyaXhqWU5CTlh6czdfWGtGRTN2NHo4c21BR21JODlrdXhmSVYwZGk2eWstUWlleTZRbHFHajNNV29fMjRnMERHVklxTW8wV2xwdlZXcHh3?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 21:44:24 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.075,
+        "negative": 0.925,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W30"
+    },
+    {
+      "title": "James Talarico Defends Jasmine Crockett Amid Texas Democratic Tension - Jacksonville Free Press",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXgxVlhtSFFVVEtva2NnNVpnQzI2eVdiaHYzSHRFTFhyOHdTcWVpTjByckgwdkJ5QXNTeDFQcERoeGM3T09zaFlGT0xiUEYzckUySU8waDN5dW90RFROXzFoZk1OZUo3Mko4aEgySWZwbmF0dDRGc0JrNWw2akRRVHVJa0YtN01PSlRpRkxiX2V3YVBnZXVEODYyaE9RMlRMcUNnY2dDWQ?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 19:13:59 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas democrat"
+      ],
+      "sentiment": {
+        "positive": 0.969,
+        "negative": 0.031,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W29"
+    },
+    {
+      "title": "Tracking the money raised and spent in the U.S. Senate race between Talarico and Paxton - KVII",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbGl2MFJhVWcySzdnMUliMFg5dHE3alY1eEVjSmNtSUkydUV1c2F3aFFKNmhBNlQ2dGJiRy1qaDR1WGt5a3VoRUFGd19SRFpwR0tfZlJmSTRHTHFDcHhJTHR1aGw0cGtjaGsyZE5SZXFvdzlZd1ZXbjg0dWFaZEtoUGlLOXZQdFVsakFlLUtaZ0xlenZ5R1EyOHVsYWJkUGZzQ1gydjVQTGhpTEVqOHdJUEtObVNqdFJNeVdJWHNn?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 23:30:21 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.118,
+        "negative": 0.882,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "Texas Democrats ask for investigation into Ken Paxton voter registration - HPPR",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQkJybTQ3eVpPVjhkcVdvN1EtWlRiUnhkcUFQWUV1bXdkd0wwaWlMMzF6Z2padC1CS1BkT0lvRWhNdTFBNS1VVEpER2RRLUFzLW9XdG1DZ2w2c3pBeTd6cFphSVU2WFJFYzdnYmlCbm5SaW15WG9DMlFLdzBpaU8xZ21xbjBlUk85cE9LX2VqbG9BUXZmMFFJZDZlNjJrRmw5aW5JYWJKclR1TUlzV2VsY3A0SlY?oc=5",
@@ -1791,106 +1868,37 @@
       },
       "candidate": "both",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "Campaign contrast: Paxton and Talarico take different roads to South Texas voters - MyRGV.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbm1WMHl6eks2QTVaRlBtcWltRDEyOVJkUlFvWS1zX29vRDZCVEtIdWYtR3N4RGtZVGFKNTBCN2pEWXFCY0dkckFXazY3V0VOa05MTU9ld2V1QTMydFNuMG9KUVZqQ3Rzby1mS05YNDhnN2NVUG5UaFlqdlJ2Yy16SkJWaXpZMk9HeU10WHpoX3FEck95eFFJVlFObEJkX1RQMWI4SWtUUE50emQ0Y1hRX1V3TXIxa0pXSHZxSjVn?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 17:27:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.152,
-        "negative": 0.848,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W29"
-    },
-    {
-      "title": "Inside Texas Politics - KVUE",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTFZiS21vZDFKVmJrZkZ4NzBTWkFPUVlwaGJRUnF0NjBpeXo2bTg2MDd5MUZrRUZueTBZWnI5S09OZHJxU1p6Tkt4OElkdzhSRWhUM2NlYmZYYm5yUjN4Tkt0R2JPTElRdG9hTTRoVlFvaWdrU2I0dEdGTzVvM2RQMHNRQlRZdzJySVBrNW9HcFNpbUF6OFl5cmxqbmRuamlhWW1laDF1N1lsZw?oc=5",
-      "pubDate": "Sun, 19 Jul 2026 10:30:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "sentiment": {
-        "positive": 0.996,
-        "negative": 0.004,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W29"
-    },
-    {
-      "title": "Will there be a James Talarico-Ken Paxton debate, and how much would it matter? - Austin American-Statesman",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc3NjZm1zWUF2bmx1X1VzNmZhbEpHZVJTbTVmTDdFUFBrUHlSUHQ5Tk9NRkZRMjRNdkhXbXRpS0NjTHNhSWJVb1ZrQlpRYUo0SUJYWl9EYzJKS2hJZVlRNWkxR2c0Uk9NMk1BOEZZUG9pMFJ5cVBmQ2pDVml5X3RVQ19PZUxJVmVIejNTUDlmWm9uWjAwN2VKUzJsOGYxN2tjV1dXSXA0czY?oc=5",
-      "pubDate": "Sun, 19 Jul 2026 10:07:03 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 23,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.001,
-        "negative": 0.999,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W29"
-    },
-    {
-      "title": "Talarico opens gaping fundraising lead over Paxton in U.S. Senate race - Longview News-Journal",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeWZCRlhqelN6NkFYTTdBY2N1OGdWOEJ3d1hwZ1BKSzI3ZVUxMTl0VUhtTENZRWpCbzJja2VaRjBQSDkxYlpQWGNyZ045TmFjNGNVZFRiREZieS1GaFViSl9rR2ZlZ2Jya0J3RzMzNE5jbXU3ZGVrUm44cXgxTVhHMnVlVU9UMFVYVS1ZSk0wWXdkU2ZURW16amg1R2FWaWtobWVBNWlCMTVHQQ?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 15:14:17 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.894,
-        "negative": 0.106,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
     "2026-W29": {
       "paxton": {
         "positive": 3,
-        "negative": 19,
-        "total": 22
-      },
-      "both": {
-        "positive": 11,
-        "negative": 11,
-        "total": 24
+        "negative": 20,
+        "total": 23
       },
       "talarico": {
-        "positive": 10,
+        "positive": 11,
         "negative": 21,
-        "total": 35
+        "total": 36
+      },
+      "both": {
+        "positive": 10,
+        "negative": 10,
+        "total": 22
       },
       "general": {
-        "positive": 5,
+        "positive": 4,
         "negative": 2,
-        "total": 8
+        "total": 7
       }
     },
     "2026-W30": {
+      "general": {
+        "positive": 0,
+        "negative": 1,
+        "total": 1
+      },
       "paxton": {
         "positive": 2,
         "negative": 2,
