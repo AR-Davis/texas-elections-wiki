@@ -1,9 +1,28 @@
 {
-  "analyzedAt": "2026-07-23T23:29:22.525Z",
-  "newsFetchedAt": "2026-07-23T22:09:00.015Z",
+  "analyzedAt": "2026-07-24T00:56:52.718Z",
+  "newsFetchedAt": "2026-07-23T23:29:57.899Z",
   "totalAnalyzed": 100,
-  "newThisRun": 5,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Texas Senate Winner: Kalshi Predictions for Paxton, Talarico - Action Network",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT3hkbmktd1hSWVJ5eXhQWFNhSW1tbFJfY1haVXBObTZxbEJwb3hpbEItdS0yMXhLeVcxTlo4ZS1hdTlyR25jdFVoUDdHS1FTa2hiekV2OG4zMlRCOUhPQ19HbmFJT25UVTE1Qlc4X1ZYLS05NXJSaVJsdGp5S256MGNxMlQ5ZE5qRmZxalR1c19HSmRHUjV4eA?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 15:08:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate"
+      ],
+      "sentiment": {
+        "positive": 0.965,
+        "negative": 0.035,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W30"
+    },
     {
       "title": "Talarico, Paxton face tough public relations moments amid dead-heat Senate race - Christian Post",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNVA0T29KZXlFdklXbEp1Wm1BSkRLVWJzZjJWNV9GZV9oZ1hraHRFVllVSXFYS1dzZy1VeDlndWpScHdEcGVwREkxbV84bTIzNy1lakh3OHhsT2F0QlJFQ0pSYkd0MVRiLUl4Y1NHNkluZ19zNklnalVmZDY3bmZ5YWNQSDFCZHdyN1A3VUtPZUJTRE9pX1hPblRpSlRNMk5EdVh3?oc=5",
@@ -1838,31 +1857,14 @@
       },
       "candidate": "general",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "Sex abuse victim family says they’re “tired of being used” for politics amid Talarico attacks - The Texas Tribune",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaVZBSEJwREtXQzMtNGkxTDdZN1JDWnl5SVlCWFpDcEs2SzU4eE9uVnVCTVRQU2hkRzJTSzYyRjQxQW9aMzB1a1o5VEVIQUwya25IcDRaNmItU1NWUVJsMGJKV2M1MG5OWjlxZFdrb0NVTmFZNEhtUzJ1MXFKU2NGanpwZW9QbzkwR0F3algxRzVtME1xbWJPOUV2RGpZaFFSZHBYcQ?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 18:26:21 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "talarico"
-      ],
-      "sentiment": {
-        "positive": 0.004,
-        "negative": 0.996,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
     "2026-W30": {
       "both": {
-        "positive": 0,
+        "positive": 1,
         "negative": 2,
-        "total": 2
+        "total": 3
       },
       "talarico": {
         "positive": 0,
@@ -1883,8 +1885,8 @@
       },
       "talarico": {
         "positive": 9,
-        "negative": 24,
-        "total": 37
+        "negative": 23,
+        "total": 36
       },
       "paxton": {
         "positive": 4,
