@@ -1,9 +1,28 @@
 {
-  "analyzedAt": "2026-07-24T17:06:36.624Z",
-  "newsFetchedAt": "2026-07-24T15:56:48.529Z",
+  "analyzedAt": "2026-07-24T18:59:56.500Z",
+  "newsFetchedAt": "2026-07-24T17:45:20.465Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Tracking the money raised and spent in the U.S. Senate race between Talarico and Paxton - WOAI",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORUtfYlgyc0prWUJnWWJPaF9rR0hoc1VhSDJqQ1pRRmV5NWNGSTJzNWdFZVFOLTlkQVVGWE1nVHdhSmgxeWpnNF9KSjR4S3I2dGc4TEk0VWFJSG1QNTI3akF5c3BNSVByNjhoendTT3dWNU83Yk1mMVEzUWY1d052a2xQZ1pTM3FPVTVBeVN1Mk95Ty1NaFlKdVpQRzY4bWNUS1hJRTZWQVlYSkpSeU5wMEQ2c2ljUFBDa0lVMnpyYTJ5Z1Q3VFdB?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 18:18:51 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.106,
+        "negative": 0.894,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "Ken Paxton has long crusaded against voter fraud. His Senate rival now accuses him of committing it. - The Texas Tribune",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVnJjVjFjVVhBNjZsUzQ2ZVJUUGpCYUZQdDBRU3laSEtWMnJQSl9mVWF1QnVBNWt1dExmelFIcVBOZ3EtYV9rSWozYmw4eWtCSE1qTHhvZmkxd19BVExuNE9JcFVLY3FnenF2dm1RM2ItRGRTd0tOZlRoWFlEVGlsUjBn?oc=5",
@@ -1845,26 +1864,31 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "Battleground Texas - Talking the latest in Texas politics - FOX 26 Houston",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBENTFHUG1Fa1FTOUVIOXFhc01ld3FVVW1iMjF4RmV0UUpVbWg2X2FKb3dGQkp6ZC02dkVqeEtIbzZ1d2d0QlpiQkdmYllBY3NTSEZSRENfcTFXX0hLVDFzMl80QktVbEU5bktR0gFrQVVfeXFMUEQ1MUdQbUVrUVM5RUg5cWFzTWV3cVVVbWIyMXhGZXRRSlVtaDZfYUpvd0ZCSnpkLTZ2RWp4S0hvNnV3Z3RCWmJCR2ZiWUFjc1NIRlJEQ19xMVdfSEtUMXMyXzRCS1VsRTluS1E?oc=5",
-      "pubDate": "Sun, 19 Jul 2026 01:00:04 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "sentiment": {
-        "positive": 0.983,
-        "negative": 0.017,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
+    "2026-W29": {
+      "both": {
+        "positive": 13,
+        "negative": 10,
+        "total": 25
+      },
+      "talarico": {
+        "positive": 10,
+        "negative": 22,
+        "total": 36
+      },
+      "paxton": {
+        "positive": 3,
+        "negative": 18,
+        "total": 21
+      },
+      "general": {
+        "positive": 6,
+        "negative": 2,
+        "total": 9
+      }
+    },
     "2026-W30": {
       "paxton": {
         "positive": 1,
@@ -1880,28 +1904,6 @@
         "positive": 0,
         "negative": 3,
         "total": 3
-      }
-    },
-    "2026-W29": {
-      "talarico": {
-        "positive": 10,
-        "negative": 22,
-        "total": 36
-      },
-      "both": {
-        "positive": 13,
-        "negative": 9,
-        "total": 24
-      },
-      "paxton": {
-        "positive": 3,
-        "negative": 18,
-        "total": 21
-      },
-      "general": {
-        "positive": 7,
-        "negative": 2,
-        "total": 10
       }
     }
   }
