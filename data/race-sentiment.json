@@ -1,9 +1,65 @@
 {
-  "analyzedAt": "2026-07-25T03:49:34.567Z",
-  "newsFetchedAt": "2026-07-25T00:09:13.943Z",
+  "analyzedAt": "2026-07-25T06:21:28.849Z",
+  "newsFetchedAt": "2026-07-25T03:50:05.224Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Polling shows James Talarico holds an advantage among Black voters in Senate race, but worries about voter turnout remains - KXAN Austin",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUG53NXA4MlUtbWRsZ3RrdGxJeDJFQnpYei1OSGFUQm9GNEVvdG1nTlR0SE5sODI0YW1mZXRwWU9YWTExY1BYV2hINS1UWWhMbzdxc2dscGJZNFZhNjVlcWdqMnZmNUdiOGtBVEdJelFIN2dLU3pXRXpBUzhiWUlMcUlxRlVQc3NIV2FRMk5MS1RvVUFqcmQ1b2FIX1g0aFJ0eXBIazFMejZITGRXRDFfTmI2MkhlcUk4R3RZcng2MVhwUTlnVEFhbjdqX19SZ1MzWVppbU51MXhxZ05FYXlnbE1YdjlkamZEWlhWTkhqTDZFNDM3QlHSAfsBQVVfeXFMT2lYcXk0aU1KZ2E0OF9wNDJFRzZLV2d5U25DSjViVUNVcVBPLTNpckw2Y2taU01oTWxtbl9VLV9oaW9wTndPUGFlNzRtREhJaWFOaGJ6Z2xoX1RDVkNpaVhQdm1UcjVEZXlaN1pJY25mM3NXUDBIbVp3c2dxWnhidk5RdFZhNkJCTGxYR19MNXc3cU9MZ3BDVlFpeS1JWWE0QmNBRXhfUFdHVTMwRFpjLXh6NWxKYk9SREtOWk0zTHNfcWtrRUZYN2pYYkdrcmsyQldPdW1VcHVTcU1YcTJWUkpaTTlrQjNTLTBYeDNWWFpaLXlwQThfYXh1SFE?oc=5",
+      "pubDate": "Sat, 25 Jul 2026 00:10:56 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.02,
+        "negative": 0.98,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W30"
+    },
+    {
+      "title": "Former Texas campaign director for Biden discusses Senate race, Paxton and Talarico's campaigns - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ3RsVEJGbnFRRVlnUDROd0x6R2hCakxpcXVXMWRUOFl5alJjdXNReWV3SDJJSnN3R2d0bjdrUWRBbkFmWVZpNTZlTHlia0EtWkt5VGlxNDFWQUEzZE1EQ05TOGt4M2ZNT09aWWZEb2Vhb0dDNDRRZW5oRFBXRWdXaUE5bWRkWTN0ZnZ6QmJ5SnBiSUhxNVRuN3FlWGtrYkRKV290eWluZjhBNWxsV1Nsd0Nfcm4xNi1DMDVrM29IVUZsZHBDT3ZVQ0tn?oc=5",
+      "pubDate": "Sat, 25 Jul 2026 01:04:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.912,
+        "negative": 0.088,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W30"
+    },
+    {
+      "title": "A roomful of Black Democratic voters. James Talarico wasn’t there. - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcmI1ZktJLTl3VnAyWDRBbXMzN250WUlpUlhRNEx2c0lNVnFSR3h2T0FoeGNURjF0Tms1NkxtNmdZcFhnZEt1WklZdFdtN0JsNE8yN2NFWmt0SGtTUWxjNGl1NWNVb1VJcnFHRUo3ckpJN0VFNThMZnJfRHVXRjhPUW41U0EyS3h6OFA1bFg0LUp0Y0VSVVNKN0ZKNVZ3bzZrMEc4dkNueUVDRDRYZVdfb0swb3VxX3IwNVlyeA?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 11:15:26 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.008,
+        "negative": 0.992,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W30"
+    },
     {
       "title": "James Talarico promised black voters a national police crackdown. These Texas sheriffs aren’t pleased. - bizpacreview.com",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOEVCVFAwNi1jNS1kWVVMMWIxUm9iVDQyT05zdlF1RVRja0xTWGc4dlc5QUJ5dEtJRjctZDNQWktuQmxqbXhuMkxQZG03OW12aTVPb0hfTXZkQUM3djlRY05SYVJ5WTFKVm02bUdpR1dLUU5CejhFZnV2SXVESFRIaHh3eGV0S1d6SHI3dnQ3ck43SDViaGt0NTk1SEdXOS0wLU1RckRJeVhGS3lZOVBaaU82U2w5bU9SZzkwZVBoSmdYTkdJQlA0VXdpS2hQV1lhNDR2VXJ4ck91R1ZDdHkwcDBB?oc=5",
@@ -1815,60 +1871,31 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "AM Show Hr 1 | Texas Politics, Crime &amp; Camp Mystic Lessons - The Michael Berry Show - iHeart",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTHR2eGhWV0pmWl9NWXJXNmVJT3BaeWlDS2NjRnJTQVpDcmVwaEo4SWQxaEZQTVVySmZsMHFRblJ1YnYwMk5TMHJ5MEQ3VGR5aEFiU0I3SkZoc09UT25qZjktZENpTFh5cXRlVDJ4QWF1dTVIeUxNNmhRcXhqb2R0eDBTRDl4NkxCdTRYLS1PRnRCVkdjWDZ3ZXlNVm9ZYTZEOENYWFNsb2hMa3hLLVE?oc=5",
-      "pubDate": "Sun, 19 Jul 2026 03:25:02 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "sentiment": {
-        "positive": 0.859,
-        "negative": 0.141,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W29"
-    },
-    {
-      "title": "EAST TEXAS POLITICS: Smith County sheriff, DA and county judge sound off on upcoming budget - KLTV.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOC0xcGRaeVpTdWgzUC1XcWJuZmFJaHRGa2hWSFB3Vnk1alZLWUhVRmE4RnVqMnlMUElNMktZOU5SQS1JZVA0LWlLVV9mVEhPeHpBNDBwY0dLOWF1VVFfY2lqelJwcDNDUTU5TEktSGhuLTJ0WFZlZDdHMnhsaUFxanNhOWVlN1ZvX2Rxb2hRczlja1RIZ0VmOXotXzBZNmdCYWpBeXNIUkZXZGxzdjRqM2RNMzNDd9IBygFBVV95cUxNRDZET1piaFBnTWV0YUpMT1BhQzRtVVYyYWFfblpral92cUxCQ096M0VUZkRMR1F4LWFNbnVaSG02VDlMWFZCWlY1eTRmNFc5cUZqQkZENGR6cDJ5NGx2TW16QVhzZ0dXZzlqMGkzVHM3Y0Y5RUFXQU5vWElrN0ZNRU5lMjliMzd6NUpVVGR0Q3Q3N0NBU2JSSS0yOE1ZTjMzVmF5bEZGOG1odTVSNzhlZ2NlLXEtc0txaXJ3RU5zX1dKV2R3dDNyU053?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 00:01:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "sentiment": {
-        "positive": 0.971,
-        "negative": 0.029,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W29"
-    },
-    {
-      "title": "EAST TEXAS POLITICS: Smith County sheriff, DA and county judge sound off on upcoming budget - KLTV.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRi11TWwtZHZMN0JVZmVSVkYtNXZqcnVNeUdrWHA4WVZGT3dzTXZZV1FYNTJ3RV9LVElTZm5GNnZzUWRtdU1yMGZCR0FFLTdDYkctUWV4SEtYOUtLMEZNVXB5Nmw2b1JsbWl6bGpWZHNGMnNDMm9SZlV5c1lIZEt0NGtxOFZNUFZWbnRMWk5PYXpHemFIc25FcmhWYWFldkplOUdWNVVNNUotQWRYVW9EbkRqMHA4MHJINnk0ZnJn?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 00:01:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "sentiment": {
-        "positive": 0.971,
-        "negative": 0.029,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
+    "2026-W30": {
+      "talarico": {
+        "positive": 1,
+        "negative": 5,
+        "total": 6
+      },
+      "both": {
+        "positive": 2,
+        "negative": 2,
+        "total": 4
+      },
+      "general": {
+        "positive": 0,
+        "negative": 1,
+        "total": 1
+      },
+      "paxton": {
+        "positive": 2,
+        "negative": 2,
+        "total": 4
+      }
+    },
     "2026-W29": {
       "talarico": {
         "positive": 11,
@@ -1886,31 +1913,9 @@
         "total": 21
       },
       "general": {
-        "positive": 4,
-        "negative": 2,
-        "total": 7
-      }
-    },
-    "2026-W30": {
-      "general": {
-        "positive": 0,
-        "negative": 1,
-        "total": 1
-      },
-      "paxton": {
-        "positive": 2,
-        "negative": 2,
-        "total": 4
-      },
-      "talarico": {
-        "positive": 1,
-        "negative": 3,
-        "total": 4
-      },
-      "both": {
         "positive": 1,
         "negative": 2,
-        "total": 3
+        "total": 4
       }
     }
   }
