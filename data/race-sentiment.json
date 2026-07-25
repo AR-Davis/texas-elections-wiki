@@ -1,9 +1,112 @@
 {
-  "analyzedAt": "2026-07-25T19:45:35.265Z",
-  "newsFetchedAt": "2026-07-25T18:28:19.778Z",
+  "analyzedAt": "2026-07-25T20:57:42.508Z",
+  "newsFetchedAt": "2026-07-25T19:47:42.066Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 6,
   "stories": [
+    {
+      "title": "James Talarico unveils border policy plan for TX Senate bid, saying 'both parties have failed us' - Modern Ghana",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtZzZIdDR0b1gzbmdSNVdtWDhVNmFaMk1PRkJyRDVhTTBwazBwMGdieTlrZS1HVG9kSkxtTW1SZ0pkNVVaSzEtUVlTUF92T2Y1dHFqdnhKZ0NCdEM40gFcQVVfeXFMUG1nNkh0NHRvWDNuZ1I1V21YOFU2YVoyTU9GQnJENWFNMHBrMHAwZ2J5OWtlLUdUb2RKTG1NbVJnSmQ1VVpLMS1RWVNQX3ZPZjV0cWp2eEpnQ0J0Qzg?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 21:29:41 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.865,
+        "negative": 0.135,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W30"
+    },
+    {
+      "title": "Talarico is trying to win back Hispanics along the Texas border who swung toward the GOP - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNb0pYZTRMLWNha1FkQWh4enhPSE94NkIwLW1WbVFGeWtnSjZmNXJGVGhfNGJUMEJGRlg3NHpNTGcwc1ZNVVpaR3ItV2FOV0hva1FfSGZLdUhYSzE0ZnlReUkxY0ZrbzFjUWxKaVc2R0tGNE9vX0xWakRMcnNibVRTY254MDdpV3RCLWtBd284bDlrWjFyenJRTDRRVGZiTG10bHV2SWNRNkFWNlgzSW03Q1JkRDZWaEtLNGlVay0xcjVKakNVZ0NsWTBMdC1DNWh6aThkdlI0TVBWd0kwYk5YTmMtem8?oc=5",
+      "pubDate": "Sat, 25 Jul 2026 17:16:28 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "talarico"
+      ],
+      "sentiment": {
+        "positive": 0.375,
+        "negative": 0.625,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W30"
+    },
+    {
+      "title": "Inside Texas Politics | Harris Co Commissioner Ellis reveals $180M budget deficit - WFAA",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPSlFPdXFuN2tYTnFOSkR2UmNqOFRVdHBGV2ZkNEt0djNtR3lsQUhVczlJaHQzTU5INkpTTzZoempwN2dzUWhIaC1leEVFVTljcDN6cDZtRndpRzJQZjdxZkhoTThWRUdGWVJITHpmOTcyakZqWkhxamJKMzFhVUNwbUhhQVpVUzQ3TzJ3bUFZZTZLOTlXUFgwSWladnl0LU5JeWU5YnVRa011bU93MElsemNGd3ZrNnVzMDU5MVNwb0hCRzBxeGN5N2dITjIwY24tZTRUcmJ5dVBIQVh5V1I1MUVfM2gzTlZhc3ZFMmJDVWNCNm0xMllyUVlrakxGQS1xdWNnRjYzVnhmdVEzT2xXWHVIWlBLanl4eE5Z?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 22:29:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "sentiment": {
+        "positive": 0.027,
+        "negative": 0.973,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W30"
+    },
+    {
+      "title": "Inside Texas Politics | Councilmember Blackmon expects convention center naming rights to bring in millions - WFAA",
+      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPRG83WUpNT3ZrdFl4eWlwcEZYNDN4S3lyNlZ0WUt6N3I2bWVZQjJYWmhyN1JNTkJKS2FfLTVuQWpVbTh4ZC1zb3lLajBxN0tIUmIxdFZmeGp1WjRkYlZvUDAwM241QWtGdWxXWU4tT1daZ0x1OURYQUc2OHppd2ZRZWU3QVhPNmpDT3I5ODhiRWhRYWU2eGpULThhby1XV3dyVi1ab3hwMjBkcTRfSjFuQURPTlhmeWtmWHBORTNHWVoyemw5V0NXcHUzWTNiZ2N4dFFiSllMNUZvRm0wUXNwekIzSkxORC1VaVMyaHhzdnF0ZFIyQ1AybWFRN21CX2RDQ09vR0FuUDI1UjdxSzlpLU12MGxwdVdJdWNCREloeG4zbTJ2M19XTTNmbXRHVXI4NDVrcE9NblBvVU13QzQ4?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 22:21:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "sentiment": {
+        "positive": 0.007,
+        "negative": 0.993,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W30"
+    },
+    {
+      "title": "Inside Texas Politics | Rep. Van Duyne says vote to end Iran war was just a 'messaging bill' - NewsBreak: Local News &amp; Alerts",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMjRTamJWbWdwS2RtZ0NydDUtUjd1TnlSNTEyRmxld1B4aFloaDdpQTlDSHk3Y2FNcHRtb29TRFZDSmxoSkJMamdBNEhTRkg4MERPUW1JQTBNYTZEdVA5NDd6QjRQcVlIQ3RNWWpXc0VqTGUyZWhGczM0OWc1eWtBa2N1Skx1QVdacW1RTUxyd0FKczJfUWVtYVlfaDQ2ZGdSS0VMZHZ3ckdWQmlOWmtvVGdYOGlwd3VVU1F3dVI2dGhkanY1bW4yRS1UMFFUSDFYckFaYU5R?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 21:55:52 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "sentiment": {
+        "positive": 0.019,
+        "negative": 0.981,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W30"
+    },
+    {
+      "title": "North Texas Republican says vote to end Iran War not realistic, only a “messaging bill” by Democrats - WFAA",
+      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxObmlpOVBpVWx6bVhzdHczU2JpS295SG5EYUdpVDNwVUxaUkx4bDZWZXBCRmlNTTlMWW9NMWh5OFNnNm1vRmNheExpWjdtVjZCRHFlSTlXWllwdnFXUndNSVV3NG1QUXcwci1uWXk0Qno4c2U0TF9ISFFQb0Rka043Y0ppQUpJbWNkTzZiNDVVNU5vVHNvWHJzc1kxSTM5cHVoZHYtUjVkOTl5ak1lT196c3hyQ2V1OUtVQk1kOU04SkV4SUFRVnBSOEp2QUZVNG9UQVliSlB4cW1hakJSRldqLWF6dndEeHNBc3c5SEpGX3lYYzhtRzFzOUNTSlFDOGRiWHVTRmszVWtXbnA3UVpxUVJTb2xYODNFWnRHLTY3M3FlYnVvdHhpWjFDaE0wZUVMRk9UbkxUUQ?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 22:51:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 4,
+      "matchedKeywords": [
+        "texas republican"
+      ],
+      "sentiment": {
+        "positive": 0.003,
+        "negative": 0.997,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W30"
+    },
     {
       "title": "Paxton is trying to cut into Talarico’s lead with Latino voters. It’ll be tough. - Politico",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVWYyenpySG5Pa2Z2TXlaS1lLbkVfVWFNTjltWkxITUg5NTVjbWlqTmFBZl9hODZMeTVMeTZwcThCbjFCaEd5dEFUaXMxQzM2bkFTby1hU0wtRHNGcXB3ZVQ1aTRLX092LXdaV0ptZEpBTDBMLU92V01EVHJCTmVTaGFWa0VZV1lKUkJ2QXFUSndFM3ByYWdn?oc=5",
@@ -1736,165 +1839,51 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "It Doesn't Look Like Things Are Going Well for the James Talarico Campaign - townhall.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWi1UXzN0UXRPLTJSNENodmYtLWdpaE91SlRGT0loNE5sb29lUjZWSDczazFmRjZmYlg0bFNXc1NNLXRNdFVpcktHZlozNkZGa1pOQTc2cGdhRTQ1VVduSHpfZlg3VExqM1F6a2Z0Y2hlQU1LYTEwWU54QjE2MlVONUdZVnNyTGMwekkyNlhULThmRlBTT0E?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 12:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W29"
-    },
-    {
-      "title": "Pollster and Political Science Professor discusses Texas Senate race between Paxton and Talarico - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORjVOX0xQNklTNTB5UGZIZWJjVHp6VHA3YnhCaWFzR0ZfVDJ1ZmVCZDByMzFWUC1GLWhval9pQkhJX01haEZDSU9NNFlkcUtId2I2aEEyVkxSaTg3UXk4R0x0c3VSUmxRaTY3ejNZXzIxX1pnbFE4U1VOcHczUFRXOU5XVTUzMnBNSmlQSGFCSTVSczRiZHJ2cU9uU0NVQ0dnWklKdVZjQVpLVHQ2OEt5VVNMeHdiaWNUWVY1dGpqUXhoVlNGbkNKcHEzRDd4Zw?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 00:47:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.97,
-        "negative": 0.03,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W29"
-    },
-    {
-      "title": "Democrats' odds of flipping GOP Texas Senate seat after James Talarico win - MSN",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRDRKTmN3WjlNZW9WNDlDWW5OZmtQMmFrQjNYRjQtUEZ3eGZTd1QzT2xUdDR5MXgta3pLenBWTXRDVm00ZHVESFg2Y0RDZWVvZWpYUktCdzdiNDNFVWdUYlBCd3FqTTFOaC1XS1FfSXVNUHBqUzI4ZFhrVmw4SXNjaWhkSi1Wa3JXTkhmQTgtUWxuWllfdjlON3daUU5HMnVoVUJwWUw2amRjTElVZ1kzLUhUb3ZnWTFZSG5RNEtROA?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 22:43:53 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate"
-      ],
-      "sentiment": {
-        "positive": 0.107,
-        "negative": 0.893,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W29"
-    },
-    {
-      "title": "John Cornyn - Encyclopedia Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxMlRaRi1pMVVVZ3Vhb3k2TXNiQUFvcV9PbG02T0FxV3lRTUpSZUpROVp6TzE0T19lTURfQ2dxS0l2Wlp3eXFuZHpLakwxb09JMERTMXgzbkVma3lC?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 05:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 9,
-      "matchedKeywords": [
-        "cornyn",
-        "john cornyn"
-      ],
-      "sentiment": {
-        "positive": 0.987,
-        "negative": 0.013,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W29"
-    },
-    {
-      "title": "Trump's Texas Senate Primary: Cornyn Vs. Paxton - Who Will Get The Endorsement? Demidov (n1cvh2qo9N) - Mshale",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wa2lmZWNfMW43X1RrWGw0dWxrOUxjZjAzS2Y4MVBvNXdaeFo4UFAwWkpHZkRWdmx6MkEybXdXU3Y5T1g2NmN3b3ZBQ0V3LW5Fdm5CcWpQa19faTg?oc=5",
-      "pubDate": "Sun, 19 Jul 2026 10:52:15 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "paxton",
-        "texas senate",
-        "cornyn"
-      ],
-      "sentiment": {
-        "positive": 0.063,
-        "negative": 0.937,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W29"
-    },
-    {
-      "title": "Paxton campaign refutes election complaint from Texas Democrats - MSN",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQalZPeFhaSmVxY2ZjdUhodl8yVzJaMVI1QnFpNUFia3Z4WUZWN1k2NmlQRUItZFBoblFWdkhBOXdZZmRzVDFxRHdSUXYycHgyMGdJSHBlVnQ4REZBd19BUzBqX25TZmhsd0psRG1mMjhkSUpMOVN1QnVsVno0ekdwZ3NmVF9HTDhCMTNYZ0JXbC1wVVZ2b2JFTVR5bGJmOE9qbzN1cEtHMl9vX2JocGczWmdB?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 20:26:05 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "texas democrat",
-        "texas democrats"
-      ],
-      "sentiment": {
-        "positive": 0.056,
-        "negative": 0.944,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
     "2026-W30": {
+      "talarico": {
+        "positive": 2,
+        "negative": 13,
+        "total": 16
+      },
+      "general": {
+        "positive": 1,
+        "negative": 9,
+        "total": 10
+      },
       "both": {
         "positive": 2,
         "negative": 4,
         "total": 6
       },
-      "talarico": {
-        "positive": 1,
-        "negative": 12,
-        "total": 14
-      },
       "paxton": {
         "positive": 2,
         "negative": 5,
         "total": 7
-      },
-      "general": {
-        "positive": 1,
-        "negative": 5,
-        "total": 6
       }
     },
     "2026-W29": {
       "talarico": {
         "positive": 10,
-        "negative": 19,
-        "total": 33
+        "negative": 17,
+        "total": 31
       },
       "paxton": {
         "positive": 2,
-        "negative": 15,
-        "total": 17
-      },
-      "both": {
-        "positive": 6,
-        "negative": 7,
+        "negative": 13,
         "total": 15
       },
+      "both": {
+        "positive": 5,
+        "negative": 7,
+        "total": 14
+      },
       "general": {
-        "positive": 1,
+        "positive": 0,
         "negative": 1,
-        "total": 2
+        "total": 1
       }
     }
   }
