@@ -1,9 +1,45 @@
 {
-  "analyzedAt": "2026-07-25T21:59:56.722Z",
-  "newsFetchedAt": "2026-07-25T20:59:12.538Z",
+  "analyzedAt": "2026-07-25T22:58:34.317Z",
+  "newsFetchedAt": "2026-07-25T22:03:37.872Z",
   "totalAnalyzed": 100,
   "newThisRun": 2,
   "stories": [
+    {
+      "title": "Polling shows James Talarico holds an advantage among Black voters in Senate race, but worries about voter turnout remains - KTALnews.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPV2l3UlpEekcxSjhycDloVHNrSDNKeGNjTnhselo0M005dER0Y0wyZXkxdUE3N0VSZEJGcDFHQnYzZk4wVnQzSFp4VDdSbkhnOXF3M0VHRGxVSmZIS2J4MzMza0h0LUI4RFhJTGo4ZHdjWTZDMEltLW05TUJ6eW1JNDFHUkNxd1NVc0pERFZSMFMtVm5NVjZYUjlEV3RkLVREMlplUkRsT0lkRXRRcEpqRE1GOWN6WDBKRDhpUUFGRjBEVWdDOEVyQzJSOVMyZ0ktRnY2OFU4UkxrX0RyVmVkY1ZpeVJMQnFUbllvQUhfZi1qTFVRVnoyeEJGeDFNb3lVbS1mWjZ2V3LSAYgCQVVfeXFMT1dpd1JaRHpHMUo4cnA5aFRza0gzSnhjY054bHpaNDNNOXREdGNMMmV5MXVBNzdFUmRCRnAxR0J2M2ZOMFZ0M0haeFQ3Um5IZzlxdzNFR0RsVUpmSEtieDMzM2tIdC1COERYSUxqOGR3Y1k2QzBJbS1tOU1CenltSTQxR1JDcXdTVXNKRERWUjBTLVZuTVY2WFI5RFd0ZC1URDJaZVJEbE9JZEV0UXBKakRNRjljelgwSkQ4aVFBRkYwRFVnQzhFckMyUjlTMmdJLUZ2NjhVOFJMa19EclZlZGNWaXlSTEJxVG5Zb0FIX2YtakxVUVZ6MnhCRngxTW95VW0tZlo2dldy?oc=5",
+      "pubDate": "Sat, 25 Jul 2026 10:12:06 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.021,
+        "negative": 0.979,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W30"
+    },
+    {
+      "title": "Talarico is trying to win back Hispanics along the Texas border who swung toward the GOP",
+      "link": "https://apnews.com/article/talarico-paxton-senate-texas-hispanic-latino-border-d6738428b4af4d2e13191b1ff1fd058d",
+      "pubDate": "2026-07-25T22:03:36.490Z",
+      "feedSource": "topnews",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "talarico"
+      ],
+      "sentiment": {
+        "positive": 0.383,
+        "negative": 0.617,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W30"
+    },
     {
       "title": "John Cornyn - Encyclopedia Britannica",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxMlRaRi1pMVVVZ3Vhb3k2TXNiQUFvcV9PbG02T0FxV3lRTUpSZUpROVp6TzE0T19lTURfQ2dxS0l2Wlp3eXFuZHpLakwxb09JMERTMXgzbkVma3lC?oc=5",
@@ -1800,57 +1836,19 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "Black Democrats Express Doubts About Talarico, U.S. Senate Primary at Houston Town Hall - thetexan.news",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPWXNLMUZXZTgzeWI4OHU2d21Ra25uVHlHTExLbjgzVzRHU01YU00xQmJBYXB0NUc1aHZhTlNLUDc2QlFpV1MyOGs1dlI1cDhnVWxoS3h3bG0wNGNCZFFaYVB0SUx5ZVNsMTBzZXFLUnQzRU00RzFJX0dVNC1OUHZzS2xzVVhjQnRIRFY2MGJDSWhkbE9Oc01hQlJKYVpsQk9uU2VoeWlva0VjRGMtbF9FSmxqU245MWFwUmRRVUo2ejl5dFl2MTlhWUtXMmtrQnZjUk1yY2g2TFQ2dG5ISl9SZHI3SVh0WWN3MmdDckFsRUZWSzJtbGpjWHZ6OXlRbk02dUE?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 18:19:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "talarico"
-      ],
-      "sentiment": {
-        "positive": 0.017,
-        "negative": 0.983,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W29"
-    },
-    {
-      "title": "Ken Paxton's campaign says he will debate James Talarico in Texas' U.S. Senate race - HPPR",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRjhGcWlxV0xzUG9UYmxHcXdGOEN1Um1WZnN4TFJDX3RRaDE3UXJJdTJKakV4anBPWFpIOWU4WlRNcHRoUzM0Zm5iTHdlblVMTzZvWGFkNF9QSTZUSGdYY2tFSk5IMUQ3VHpOakFTaTFyS3pVclQ0LUhtZGJ3UFdyWnBWZ1A4MmhCQnZEenpHVV90LUNUUG1ITExoVWFlb2lhVEM0NkhsWlpWUlhXUmEtbVpBV3dMcWxVajVUYXlkVQ?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 13:30:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.956,
-        "negative": 0.044,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
     "2026-W30": {
+      "talarico": {
+        "positive": 2,
+        "negative": 15,
+        "total": 18
+      },
       "general": {
         "positive": 2,
         "negative": 10,
         "total": 12
-      },
-      "talarico": {
-        "positive": 2,
-        "negative": 13,
-        "total": 16
       },
       "both": {
         "positive": 2,
@@ -1866,8 +1864,8 @@
     "2026-W29": {
       "talarico": {
         "positive": 10,
-        "negative": 16,
-        "total": 30
+        "negative": 15,
+        "total": 29
       },
       "paxton": {
         "positive": 2,
@@ -1875,9 +1873,9 @@
         "total": 14
       },
       "both": {
-        "positive": 5,
+        "positive": 4,
         "negative": 7,
-        "total": 14
+        "total": 13
       },
       "general": {
         "positive": 0,
