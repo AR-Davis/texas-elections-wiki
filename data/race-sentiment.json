@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-07-25T06:21:28.849Z",
-  "newsFetchedAt": "2026-07-25T03:50:05.224Z",
+  "analyzedAt": "2026-07-25T08:30:59.749Z",
+  "newsFetchedAt": "2026-07-25T06:23:01.110Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "James Talarico unveils border policy plan for TX Senate bid, saying 'both parties have failed us' - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWkhZRFhhMkxydnR5aS0tVHZMWHZIeTNCSFo5UmFGYXRXNEM5OEU1RnMwZ1hBVkJ1VkxwNlFIQm9lSTdnaEdxMUhyZnQ3RndhTk5pMnFXZWpqRURwVWdNZExkWHJUMGVSZE9CaktlU3pNcG1WNE1EYzdlNU5ZQ1MtSVNsV00wNm03UWJ5NlM2TGRmVHBXMDRXeXBLTmxXUXBTQlQ1T0NQTVRqeFdVQzlTd0M0VzU5SG9FaHdWend5b2xxWENLcHdTQ01YSWM5LWdoYzB4WkhqOU02MXg2emx2VGFFV3NaQnc?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 21:59:45 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.048,
+        "negative": 0.952,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W30"
+    },
     {
       "title": "Polling shows James Talarico holds an advantage among Black voters in Senate race, but worries about voter turnout remains - KXAN Austin",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUG53NXA4MlUtbWRsZ3RrdGxJeDJFQnpYei1OSGFUQm9GNEVvdG1nTlR0SE5sODI0YW1mZXRwWU9YWTExY1BYV2hINS1UWWhMbzdxc2dscGJZNFZhNjVlcWdqMnZmNUdiOGtBVEdJelFIN2dLU3pXRXpBUzhiWUlMcUlxRlVQc3NIV2FRMk5MS1RvVUFqcmQ1b2FIX1g0aFJ0eXBIazFMejZITGRXRDFfTmI2MkhlcUk4R3RZcng2MVhwUTlnVEFhbjdqX19SZ1MzWVppbU51MXhxZ05FYXlnbE1YdjlkamZEWlhWTkhqTDZFNDM3QlHSAfsBQVVfeXFMT2lYcXk0aU1KZ2E0OF9wNDJFRzZLV2d5U25DSjViVUNVcVBPLTNpckw2Y2taU01oTWxtbl9VLV9oaW9wTndPUGFlNzRtREhJaWFOaGJ6Z2xoX1RDVkNpaVhQdm1UcjVEZXlaN1pJY25mM3NXUDBIbVp3c2dxWnhidk5RdFZhNkJCTGxYR19MNXc3cU9MZ3BDVlFpeS1JWWE0QmNBRXhfUFdHVTMwRFpjLXh6NWxKYk9SREtOWk0zTHNfcWtrRUZYN2pYYkdrcmsyQldPdW1VcHVTcU1YcTJWUkpaTTlrQjNTLTBYeDNWWFpaLXlwQThfYXh1SFE?oc=5",
@@ -1853,32 +1871,14 @@
       },
       "candidate": "both",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "James Talarico has very bad week after campaigning against ‘Epstein class’ - bizpacreview.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRVhvVmNoWTVyTkp4bWh0eU9OZDhHUm5CSEN3VE84cmd3NzJPTHdRR0I0eUdTSV9iVFR4czg4V2VnNkJNVDQ5VHVCUlZTTW9yTlk4aGs2Si1LelVsc1dxRWNKVnUwNDRrU0RVMEduTXFOZWlHelJ4aGQ4ZUVJdzdpRk9DbnFNRHlodno3SFZzaTA0aGJVLVNTeDNnSDk1SmxFVV9SdFhuSlJDLXJrZTRFU3R4ak5tdXZmV20zZE5n?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 12:17:21 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.001,
-        "negative": 0.999,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
     "2026-W30": {
       "talarico": {
         "positive": 1,
-        "negative": 5,
-        "total": 6
+        "negative": 6,
+        "total": 7
       },
       "both": {
         "positive": 2,
@@ -1899,8 +1899,8 @@
     "2026-W29": {
       "talarico": {
         "positive": 11,
-        "negative": 22,
-        "total": 37
+        "negative": 21,
+        "total": 36
       },
       "paxton": {
         "positive": 3,
