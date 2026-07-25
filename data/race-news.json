@@ -1,23 +1,9 @@
 {
-  "fetchedAt": "2026-07-25T00:09:13.943Z",
+  "fetchedAt": "2026-07-25T03:50:05.224Z",
   "count": 22,
   "feedsChecked": 8,
-  "itemsScanned": 194,
+  "itemsScanned": 190,
   "items": [
-    {
-      "title": "Paxton, Talarico face tough questions in Fort Worth about issues that have emerged in Texas Senate race - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRnI0azRPMVphQzhtRjc1QkhHYUdJN19VcGNmQzBPdXJwblp4cGo1TndpTHFfeTFjZGtfVEszbmMyeWMwUXhFRks3eV9US3F2WFptNjNQeEZCSzVzWjBhVnN6MGZLOEp1Z0JWdWNUdThwRlRDTmZxX1FSX3J1TnBmWFcwLUtBX2xnOGZ1TTBxbW1lOFBHU3pMSWVpQk5MQQ?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 01:15:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ]
-    },
     {
       "title": "Texas Primary Runoff Runoff: John Cornyn Destroyed Ken Paxton After Loss! Trump's MAGA STRIKES Again Ben Wallace (afLqRIL5zX) - Mshale",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93ZnEwSUVuZnFITFgzNEpseG9QZF9oZFZ6NHN4ejB5ZTN4ZFByXzZUTE0tckVnLWx4NTFCbjlBbG9QM0tHdG80VGVWUTFKRUxFbGJoYVpidmFuYzQ?oc=5",
@@ -43,6 +29,19 @@
         "texas senate",
         "senate race",
         "texas senate race"
+      ]
+    },
+    {
+      "title": "Texas AG Ken Paxton Beats John Cornyn In Republican U.S. Senate Runoff Coco Gauff (QeSpsaZRwC) - Mshale",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LWTlfTFVhSFNXR2ZxOWpwZ1M4c2RGMVpIZ3VsVzlyZUZXX1Y2b3BTTzVBNjhpU3lhcW5FS3N6OVp6NUZVWld1eW9aM2ZGck8zLUp2bVJncE1xN0k?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 09:27:19 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "cornyn",
+        "john cornyn"
       ]
     },
     {
@@ -94,6 +93,18 @@
       ]
     },
     {
+      "title": "Polling shows James Talarico holds an advantage among Black voters in Senate race, but worries about voter turnout remains - KXAN Austin",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUG53NXA4MlUtbWRsZ3RrdGxJeDJFQnpYei1OSGFUQm9GNEVvdG1nTlR0SE5sODI0YW1mZXRwWU9YWTExY1BYV2hINS1UWWhMbzdxc2dscGJZNFZhNjVlcWdqMnZmNUdiOGtBVEdJelFIN2dLU3pXRXpBUzhiWUlMcUlxRlVQc3NIV2FRMk5MS1RvVUFqcmQ1b2FIX1g0aFJ0eXBIazFMejZITGRXRDFfTmI2MkhlcUk4R3RZcng2MVhwUTlnVEFhbjdqX19SZ1MzWVppbU51MXhxZ05FYXlnbE1YdjlkamZEWlhWTkhqTDZFNDM3QlHSAfsBQVVfeXFMT2lYcXk0aU1KZ2E0OF9wNDJFRzZLV2d5U25DSjViVUNVcVBPLTNpckw2Y2taU01oTWxtbl9VLV9oaW9wTndPUGFlNzRtREhJaWFOaGJ6Z2xoX1RDVkNpaVhQdm1UcjVEZXlaN1pJY25mM3NXUDBIbVp3c2dxWnhidk5RdFZhNkJCTGxYR19MNXc3cU9MZ3BDVlFpeS1JWWE0QmNBRXhfUFdHVTMwRFpjLXh6NWxKYk9SREtOWk0zTHNfcWtrRUZYN2pYYkdrcmsyQldPdW1VcHVTcU1YcTJWUkpaTTlrQjNTLTBYeDNWWFpaLXlwQThfYXh1SFE?oc=5",
+      "pubDate": "Sat, 25 Jul 2026 00:10:56 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "senate race"
+      ]
+    },
+    {
       "title": "Texas Democratic nominee for Senate James Talarico says 'the only minority destroying America is the billionaires' - moneywise.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZDFVelpBcHMwNTIyUUZIV0JFMC1Sa0oyOGlaaF9IdFlhcWd0dmo2dHhrX19paDFOcGI2ZjFFTlozVjJuTHlOTjVxaDBHd1QwcEFVSC1CQVM2ek54WEgtMWwtVzQxMm44bVZlSzFmczF1eDhWdGdvaFdwMGEyN2R6NkhQdXk1LWtud1JjUUpn?oc=5",
       "pubDate": "Thu, 23 Jul 2026 18:34:45 GMT",
@@ -130,6 +141,18 @@
       ]
     },
     {
+      "title": "Former Texas campaign director for Biden discusses Senate race, Paxton and Talarico's campaigns - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ3RsVEJGbnFRRVlnUDROd0x6R2hCakxpcXVXMWRUOFl5alJjdXNReWV3SDJJSnN3R2d0bjdrUWRBbkFmWVZpNTZlTHlia0EtWkt5VGlxNDFWQUEzZE1EQ05TOGt4M2ZNT09aWWZEb2Vhb0dDNDRRZW5oRFBXRWdXaUE5bWRkWTN0ZnZ6QmJ5SnBiSUhxNVRuN3FlWGtrYkRKV290eWluZjhBNWxsV1Nsd0Nfcm4xNi1DMDVrM29IVUZsZHBDT3ZVQ0tn?oc=5",
+      "pubDate": "Sat, 25 Jul 2026 01:04:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ]
+    },
+    {
       "title": "Ken Paxton loses ruling in Texas abortion case against Houston-area midwife - Houston Chronicle",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPamdGRDJ5bWFrcFg1VlhET2VMbVpPWkRHSjdUYjlFNmdMRk9WZzlWSzFsWmVKalpBVzk2amlVR085TGQ3c1ZIbWYwcTRLdWVoaWk5STJadEY5ZldyNTZqMU5Wd2NSX0JvM3pUei1jeXJUN1FlMmZIWEJOeE5SMV9jd3UyRWpFZ1VtbTdQeU8zR3BOMGlHZmd4bw?oc=5",
       "pubDate": "Thu, 23 Jul 2026 23:21:44 GMT",
@@ -161,6 +184,17 @@
       "matchedKeywords": [
         "paxton",
         "ken paxton"
+      ]
+    },
+    {
+      "title": "A roomful of Black Democratic voters. James Talarico wasn’t there. - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcmI1ZktJLTl3VnAyWDRBbXMzN250WUlpUlhRNEx2c0lNVnFSR3h2T0FoeGNURjF0Tms1NkxtNmdZcFhnZEt1WklZdFdtN0JsNE8yN2NFWmt0SGtTUWxjNGl1NWNVb1VJcnFHRUo3ckpJN0VFNThMZnJfRHVXRjhPUW41U0EyS3h6OFA1bFg0LUp0Y0VSVVNKN0ZKNVZ3bzZrMEc4dkNueUVDRDRYZVdfb0swb3VxX3IwNVlyeA?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 11:15:26 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
       ]
     },
     {
@@ -227,39 +261,6 @@
       "matchedKeywords": [
         "paxton",
         "ken paxton"
-      ]
-    },
-    {
-      "title": "How can James Talarico convince Black voters? - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMk5HUjl5VU4yT2xLUFV4UEdOSDY1MUxzZEp6aHEzUks5REtIN2R2SVNqZmxON05CU2tlNXoxbFhWRGtJTXhlLTlhU05LZC1YZ20tM0g5c1M5elJwVFRaWC14Q1lLWmV4cU9CWlZEb0VNckN5TFpnU2VsVTY1aVVnVHZ0RjFoUzA0amdaTDBYQ2VKSzlYWTlDQ2ZwbGdzcW05ZHBsbG1mRm1Ydmk1RjdYRW9CNzNKWUU?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 11:48:23 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ]
-    },
-    {
-      "title": "James Talarico promised black voters a national police crackdown. These Texas sheriffs aren’t pleased. - bizpacreview.com",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOEVCVFAwNi1jNS1kWVVMMWIxUm9iVDQyT05zdlF1RVRja0xTWGc4dlc5QUJ5dEtJRjctZDNQWktuQmxqbXhuMkxQZG03OW12aTVPb0hfTXZkQUM3djlRY05SYVJ5WTFKVm02bUdpR1dLUU5CejhFZnV2SXVESFRIaHh3eGV0S1d6SHI3dnQ3ck43SDViaGt0NTk1SEdXOS0wLU1RckRJeVhGS3lZOVBaaU82U2w5bU9SZzkwZVBoSmdYTkdJQlA0VXdpS2hQV1lhNDR2VXJ4ck91R1ZDdHkwcDBB?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 10:46:27 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ]
-    },
-    {
-      "title": "James Talarico says 'the only minority destroying America is the billionaires' - Yahoo Finance Singapore",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPclUyQnFtekJmVUQwUDFXcGQ4TG1FN0NzZ3UtbGYxcVhnWFMyUnJBdE5MMkl3bFpldUJPcE0yVFRGNDRSSUJHX3QwSkpnVjdlblZzMS01VF9senN3c0FPVnBtLVBocXd6U1JOTmdtTE5YbEJNNVM2WGNVdTE3YWF4NXhiQWxjczU4UlE?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 19:15:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
       ]
     }
   ]
