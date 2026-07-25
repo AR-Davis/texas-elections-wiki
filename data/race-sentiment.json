@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-07-24T23:04:42.213Z",
-  "newsFetchedAt": "2026-07-24T22:36:00.363Z",
+  "analyzedAt": "2026-07-25T00:12:08.662Z",
+  "newsFetchedAt": "2026-07-25T00:09:13.943Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "James Talarico promised black voters a national police crackdown. These Texas sheriffs aren’t pleased. - bizpacreview.com",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOEVCVFAwNi1jNS1kWVVMMWIxUm9iVDQyT05zdlF1RVRja0xTWGc4dlc5QUJ5dEtJRjctZDNQWktuQmxqbXhuMkxQZG03OW12aTVPb0hfTXZkQUM3djlRY05SYVJ5WTFKVm02bUdpR1dLUU5CejhFZnV2SXVESFRIaHh3eGV0S1d6SHI3dnQ3ck43SDViaGt0NTk1SEdXOS0wLU1RckRJeVhGS3lZOVBaaU82U2w5bU9SZzkwZVBoSmdYTkdJQlA0VXdpS2hQV1lhNDR2VXJ4ck91R1ZDdHkwcDBB?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 10:46:27 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.001,
+        "negative": 0.999,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W29"
+    },
     {
       "title": "Texas AG Ken Paxton Beats John Cornyn In Republican U.S. Senate Runoff Coco Gauff (QeSpsaZRwC) - Mshale",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LWTlfTFVhSFNXR2ZxOWpwZ1M4c2RGMVpIZ3VsVzlyZUZXX1Y2b3BTTzVBNjhpU3lhcW5FS3N6OVp6NUZVWld1eW9aM2ZGck8zLUp2bVJncE1xN0k?oc=5",
@@ -1848,44 +1866,24 @@
       },
       "candidate": "general",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "James Talarico challenges 'puppet politician' Ken Paxton to 3 TV debates: 'Prove me wrong' - MSN",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVjFjSkZ0T0VyUmNsbHJ0cGNWd1NmOXItNDZISjJ1ZUxWc0hZS1R6aUtIRVY5d1NKb0NQWi1QakJScmROV05VbHJRQlhEeGpHM01PZmtIYnNhemoyUlgwNmdVWklmanFsdzB0V2hZb2p4VnJ3VUY5YlpZNWZ6akZYY2VsZUUtX2xCV2JIUDhycDdNbG85SkI2djNqUVdHaEF5YWgzY1hMWUhKMFFKc3BIQXlUMGdyVktSZUpzU2J0ZWJENHl1QUdjYXR2TGZlMGM?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 06:07:08 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.029,
-        "negative": 0.971,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
     "2026-W29": {
+      "talarico": {
+        "positive": 11,
+        "negative": 22,
+        "total": 37
+      },
       "paxton": {
         "positive": 3,
         "negative": 20,
         "total": 23
       },
-      "talarico": {
-        "positive": 11,
-        "negative": 21,
-        "total": 36
-      },
       "both": {
         "positive": 10,
-        "negative": 10,
-        "total": 22
+        "negative": 9,
+        "total": 21
       },
       "general": {
         "positive": 4,
