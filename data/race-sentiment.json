@@ -1,9 +1,44 @@
 {
-  "analyzedAt": "2026-07-25T20:57:42.508Z",
-  "newsFetchedAt": "2026-07-25T19:47:42.066Z",
+  "analyzedAt": "2026-07-25T21:59:56.722Z",
+  "newsFetchedAt": "2026-07-25T20:59:12.538Z",
   "totalAnalyzed": 100,
-  "newThisRun": 6,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "John Cornyn - Encyclopedia Britannica",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxMlRaRi1pMVVVZ3Vhb3k2TXNiQUFvcV9PbG02T0FxV3lRTUpSZUpROVp6TzE0T19lTURfQ2dxS0l2Wlp3eXFuZHpLakwxb09JMERTMXgzbkVma3lC?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 05:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 9,
+      "matchedKeywords": [
+        "cornyn",
+        "john cornyn"
+      ],
+      "sentiment": {
+        "positive": 0.987,
+        "negative": 0.013,
+        "label": "positive"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W30"
+    },
+    {
+      "title": "Harris County Commissioner reveals $180 million budget deficit - WFAA",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPb3EtUnIxWHBwQkVHTm1hLUM3RGNObnhkYjJxejJEd19LeVJhWWZVUVlpMTV4VDVOTXFfN2RpOGFvd25VaFQwQUZfM25xREdCcWRDdVhNdEFfNWtGQnFOenFwbFk3UkFqWmYwQjhrbE5yMHh1UWRPZFdLd2JaR0Vld0xYRFk2MUVjSmNwNFlHd0h3eW4wZlZHR0ZHZTlNQ2ZZaWNvTXBNR1VNcFUwUXZTSzA3X3lKLWlZNzZabmtoc1RkNU5EWUFEOEpsa19YUkU5Z3ZkT20zTkFINkIwNVV6dmVNaVJQUHVUbmQxOGtKNGxxVnljeDlkUEI4S2F4NFNsaHM1eHBFUQ?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 22:45:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 3,
+      "matchedKeywords": [
+        "harris county"
+      ],
+      "sentiment": {
+        "positive": 0.003,
+        "negative": 0.997,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W30"
+    },
     {
       "title": "James Talarico unveils border policy plan for TX Senate bid, saying 'both parties have failed us' - Modern Ghana",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtZzZIdDR0b1gzbmdSNVdtWDhVNmFaMk1PRkJyRDVhTTBwazBwMGdieTlrZS1HVG9kSkxtTW1SZ0pkNVVaSzEtUVlTUF92T2Y1dHFqdnhKZ0NCdEM40gFcQVVfeXFMUG1nNkh0NHRvWDNuZ1I1V21YOFU2YVoyTU9GQnJENWFNMHBrMHAwZ2J5OWtlLUdUb2RKTG1NbVJnSmQ1VVpLMS1RWVNQX3ZPZjV0cWp2eEpnQ0J0Qzg?oc=5",
@@ -1803,55 +1838,19 @@
       },
       "candidate": "both",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "The list of homes owned by Texas’ Ken Paxton grows, adding to his political problems - MS NOW",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZThDZ3Jwa1RSTmNjc2JMR0dabjRsQWNVRXlLd1JIaWJibDFsUTZjRlo5SlJMWVZhZFF5WkRqbWt3TTA4a2pFMW5vLU1JbFBZaFktQ3d1WXgwcVJYNGRvR3JEQ3JUOUhMVWpaS0ctbTJvWmFkTTU3d0drR21IcnpSV3lrNnpYYmpPMFJyZ2VydmhiN3M5M0ZzejlxSnhXZlUxbGc?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 15:08:11 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.2,
-        "negative": 0.8,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W29"
-    },
-    {
-      "title": "James Talarico tells his supporters to keep Jasmine Crockett’s name ‘out of your mouth’ - TheGrio",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc3UyX3RIcjFCanRvcWpsZDA4WkxocXV6LVdrRlVnSGl6NENMa0R3TWRaMm9LQl8ydktUVEJoaEVBTGl1RHNpcDRFY0F6Sno4c3VGR0gyMXlXZms5VHhTTll4RVN6My15VkkzZTVCNWhPbWZQR1hQVEFYU3RpNnFDbVZiU21WTjZoT040MVNHZ2VsanBteTVDUXo2ZVVXTHN4RUZ3d3gzOGU?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 14:35:48 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.285,
-        "negative": 0.715,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
     "2026-W30": {
+      "general": {
+        "positive": 2,
+        "negative": 10,
+        "total": 12
+      },
       "talarico": {
         "positive": 2,
         "negative": 13,
         "total": 16
-      },
-      "general": {
-        "positive": 1,
-        "negative": 9,
-        "total": 10
       },
       "both": {
         "positive": 2,
@@ -1867,13 +1866,13 @@
     "2026-W29": {
       "talarico": {
         "positive": 10,
-        "negative": 17,
-        "total": 31
+        "negative": 16,
+        "total": 30
       },
       "paxton": {
         "positive": 2,
-        "negative": 13,
-        "total": 15
+        "negative": 12,
+        "total": 14
       },
       "both": {
         "positive": 5,
