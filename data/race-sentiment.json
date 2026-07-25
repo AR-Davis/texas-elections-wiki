@@ -1,9 +1,44 @@
 {
-  "analyzedAt": "2026-07-25T17:32:09.608Z",
-  "newsFetchedAt": "2026-07-25T17:05:48.527Z",
+  "analyzedAt": "2026-07-25T18:31:30.251Z",
+  "newsFetchedAt": "2026-07-25T18:28:19.778Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Paxton is trying to cut into Talarico’s lead with Latino voters. It’ll be tough. - Politico",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVWYyenpySG5Pa2Z2TXlaS1lLbkVfVWFNTjltWkxITUg5NTVjbWlqTmFBZl9hODZMeTVMeTZwcThCbjFCaEd5dEFUaXMxQzM2bkFTby1hU0wtRHNGcXB3ZVQ1aTRLX092LXdaV0ptZEpBTDBMLU92V01EVHJCTmVTaGFWa0VZV1lKUkJ2QXFUSndFM3ByYWdn?oc=5",
+      "pubDate": "Sat, 25 Jul 2026 18:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 10,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": {
+        "positive": 0.01,
+        "negative": 0.99,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W30"
+    },
+    {
+      "title": "Talarico is trying to win back Hispanics along the Texas border who swung toward the GOP - MyNorthwest.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbGttcEVrNTE5b2x4UlFQV0lPV3FRcU5wYWZYcXJNZjVaR3RkZU1vZHpqYTNBcVBKT2dUUVdRcW9VV0ZMRm1fNms3XzV4YVdBQVJTRnNvU0hGQ1YwWE9nbG1DNFdCamJCRkRIdFhTa3BTWG02V3FtLW42SWo3UEZYZVo5ZXBRd0lNYTVWeDNoVlA4X1hyREJwcWNVNUlzeXRVUTIwYmxWLUxPcHdTWHJERGxNMkdSNEJSeVBLY0xuYmFDeDdCMGQxMA?oc=5",
+      "pubDate": "Sat, 25 Jul 2026 12:23:30 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "talarico"
+      ],
+      "sentiment": {
+        "positive": 0.069,
+        "negative": 0.931,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W30"
+    },
     {
       "title": "Texas Primary Runoff Runoff: John Cornyn Destroyed Ken Paxton After Loss! Trump's MAGA STRIKES Again Ben Wallace (afLqRIL5zX) - Mshale",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93ZnEwSUVuZnFITFgzNEpseG9QZF9oZFZ6NHN4ejB5ZTN4ZFByXzZUTE0tckVnLWx4NTFCbjlBbG9QM0tHdG80VGVWUTFKRUxFbGJoYVpidmFuYzQ?oc=5",
@@ -1815,65 +1850,29 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "Cody Campbell waves off Ken Paxton donation, says he could make 'nefarious deal' elsewhere - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWjB1VWgyUklXQjBPUlVSeUNPa05wT0Eyb3Q0Y0xHSF9fZ2lRZHlHRTZUTi01eGY4OExJdDJYaDZRaHhWUGdtQTVsTUJBcWxYUS0yc0pwMUY1ZTJKWDUzVUhjQmFhTm1HOXVmd2RrX2J3cXFHY0tXUF9kdklTOXJmOS1B?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 14:29:10 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.006,
-        "negative": 0.994,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W29"
-    },
-    {
-      "title": "More Ken Paxton ethics concerns surface. When is it enough? - Dallas News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcVBnMGRHU0FUbThndGxSaUxGbV9KZzBXMGxya3lYa2NwMUZ4ay1SY1BzN21JbWV2MElSQlZDcjlJbGJ5WnpOME0tbXhnYW0xR05ZRUlnU0I0SkMyTmU2WmFFUDNLbDMyblNYNjBYZl9rNVlWVVhpTjhJOWE4WFlQN0JEd1hKUmhpWkhVeFBqcW5TQXhWNGxfeDgxTWNTb1c3UmlRWEN5R0RjcHc?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 12:30:11 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.008,
-        "negative": 0.992,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
     "2026-W30": {
+      "both": {
+        "positive": 2,
+        "negative": 4,
+        "total": 6
+      },
+      "talarico": {
+        "positive": 1,
+        "negative": 12,
+        "total": 14
+      },
       "paxton": {
         "positive": 2,
         "negative": 5,
         "total": 7
       },
-      "talarico": {
-        "positive": 1,
-        "negative": 11,
-        "total": 13
-      },
       "general": {
         "positive": 1,
         "negative": 5,
         "total": 6
-      },
-      "both": {
-        "positive": 2,
-        "negative": 3,
-        "total": 5
       }
     },
     "2026-W29": {
@@ -1884,8 +1883,8 @@
       },
       "paxton": {
         "positive": 2,
-        "negative": 17,
-        "total": 19
+        "negative": 15,
+        "total": 17
       },
       "both": {
         "positive": 6,
