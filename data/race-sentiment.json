@@ -1,9 +1,43 @@
 {
-  "analyzedAt": "2026-07-26T09:18:47.215Z",
-  "newsFetchedAt": "2026-07-26T06:41:32.128Z",
+  "analyzedAt": "2026-07-26T11:03:16.652Z",
+  "newsFetchedAt": "2026-07-26T09:19:08.708Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Talarico is trying to win back Hispanics along the Texas border who swung toward the GOP - Benzie County Record Patriot",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYjIzRlZ5Q2xkb3lBOUE4cVFQN0hkNUg3OE8yMTA4RzN1Y3MtQ3RRZmZBV1JMeTVXN3VsQW5VbHgtR3EySWpNV0s1ZUtqQ1ZDZnJlT0RNS1FPeUozV3BwTldFaHhVa3pFbW1WOFk2Tkh5OWQ0VDYxWl9GUVlCSk5qZWctMk5QMkNlaUJaT0hSa3N1VzJXV3UyaDMtWURpSElFWW1oN3BmbUlfTk9zMS1VZg?oc=5",
+      "pubDate": "Sat, 25 Jul 2026 23:32:12 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "talarico"
+      ],
+      "sentiment": {
+        "positive": 0.992,
+        "negative": 0.008,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W30"
+    },
+    {
+      "title": "US Senate Election 2026 Betting Preview: Odds, Midterm Predictions, &amp; Prop Bets - The Sports Geek",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUGpXQnhxTjdwMVNHTEQ5dC1oNGU4UGttYl90RVBSbjNaTU9TQXhnejZVLWl5MWw5d0dQWmhGcTE0T0NaS2JhS3pzdXIwd3hHRUV3dWlkT1ZRamhUWWdQMGRieUJ2RG00dFk0MXFzRnY5Y2xlRWgwRlpuVDJTTWVDbVEzZw?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 16:45:08 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 3,
+      "matchedKeywords": [
+        "senate election"
+      ],
+      "sentiment": {
+        "positive": 0.346,
+        "negative": 0.654,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W30"
+    },
     {
       "title": "Inside Texas Politics | Senate candidate James Talarico calling for tighter rules on data centers - WFAA",
       "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPXzFkYk5KVEw0LUtFb1ZtM2lFVVl6dGFpbFAyR0Q3N0hZRDFRel9MWTMtU0c4ZEc3UGZWQndaR2JlUHBnQThoeVJZTzRkVnRyU2FpU0VuZUdKd1M3QVVORG9NWExRaGl4Y1B0bjZoVHdqWm5xZDR6QkFHWHhCbTBmNEpVS1ZyVThodE00TERMUzhjcG1rUWNia0VsNHhhZ2RoZkFVZG0wbWlxdUI3MWhCaV9YNTNtZ0VLQVJZZkJNT1ZaS1JraE1NLWVSSi1VU0xKVEpzX3FRNVB1NHFReDVRTUg3S1pzSURWNFI5eUR2MU1tbXlfUWktR1U4UGJoN2ZoTktNRTNjTi1NNTMwcFd5U0d4Q0tMY2c1dXhlN2xha29aTlZkQkV3SQ?oc=5",
@@ -1792,55 +1826,19 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "James Talarico pledges $25 million to win over Black voters in U.S. Senate campaign - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRmVLcXhMVnpicDRQY05aanRkTElkTTQ5SEF1eEIyTlBkM25NRlpFMzE1RXg3SmR6bHhSOU9vazN2d0pVT1BoQnVMV28wd1NQVVF2VVExNGlwUWF2azlTNlIzLVNUaW92WlZ1MEdOek5TSmNnd3lXOHN3UjlBaU5KVEtnQ0lQQzhTWUVJTjlBSkkxeUl6bDRIMFZLQnUta1VZV2N3VWgzY3dqUGpFTFJtcEVOTjFnX2dad1NjdXByZFo3bjg5UXBOWGRFR0hpVEE1TjM3a1hGWVFMTnFiN1hpU1pxLVBoQdIB5gFBVV95cUxQRmVLcXhMVnpicDRQY05aanRkTElkTTQ5SEF1eEIyTlBkM25NRlpFMzE1RXg3SmR6bHhSOU9vazN2d0pVT1BoQnVMV28wd1NQVVF2VVExNGlwUWF2azlTNlIzLVNUaW92WlZ1MEdOek5TSmNnd3lXOHN3UjlBaU5KVEtnQ0lQQzhTWUVJTjlBSkkxeUl6bDRIMFZLQnUta1VZV2N3VWgzY3dqUGpFTFJtcEVOTjFnX2dad1NjdXByZFo3bjg5UXBOWGRFR0hpVEE1TjM3a1hGWVFMTnFiN1hpU1pxLVBoQQ?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 20:15:52 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.615,
-        "negative": 0.385,
-        "label": "positive"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W29"
-    },
-    {
-      "title": "U.S. Senate Candidate James Talarico (D-TX) Holds Town Hall in DeSoto, TX - C-SPAN",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM1VhRFpYbzBHQ2xZbjJIaTkyYTQ5N0J2Y1ZHc1VueVhxeVAzaHNhYjExVGFsWVl4RkdhbnJIX0xocDdxZ0s3Tml4dzFkMWtmQVl4akh5a2lIc2p4ZEVHSkpkWldsN2NHYXMwNFpBYXZyUWJ3VkxDVDJBcFI3TEl4cXc2SVRZTXM1aEwzeHMycmF4VWVpM0tWcG5neFgxSE1HTUpaelJmMkJDa2dsekttNVlDdEZGRFV6TVE?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 04:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.984,
-        "negative": 0.016,
-        "label": "positive"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
     "2026-W30": {
       "talarico": {
-        "positive": 3,
+        "positive": 4,
         "negative": 17,
-        "total": 22
+        "total": 23
       },
       "general": {
         "positive": 3,
-        "negative": 12,
-        "total": 15
+        "negative": 13,
+        "total": 16
       },
       "both": {
         "positive": 2,
@@ -1855,9 +1853,9 @@
     },
     "2026-W29": {
       "talarico": {
-        "positive": 10,
+        "positive": 8,
         "negative": 10,
-        "total": 24
+        "total": 22
       },
       "paxton": {
         "positive": 2,
