@@ -1,9 +1,62 @@
 {
-  "analyzedAt": "2026-07-26T06:40:37.140Z",
-  "newsFetchedAt": "2026-07-26T03:32:52.215Z",
+  "analyzedAt": "2026-07-26T09:18:47.215Z",
+  "newsFetchedAt": "2026-07-26T06:41:32.128Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Inside Texas Politics | Senate candidate James Talarico calling for tighter rules on data centers - WFAA",
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPXzFkYk5KVEw0LUtFb1ZtM2lFVVl6dGFpbFAyR0Q3N0hZRDFRel9MWTMtU0c4ZEc3UGZWQndaR2JlUHBnQThoeVJZTzRkVnRyU2FpU0VuZUdKd1M3QVVORG9NWExRaGl4Y1B0bjZoVHdqWm5xZDR6QkFHWHhCbTBmNEpVS1ZyVThodE00TERMUzhjcG1rUWNia0VsNHhhZ2RoZkFVZG0wbWlxdUI3MWhCaV9YNTNtZ0VLQVJZZkJNT1ZaS1JraE1NLWVSSi1VU0xKVEpzX3FRNVB1NHFReDVRTUg3S1pzSURWNFI5eUR2MU1tbXlfUWktR1U4UGJoN2ZoTktNRTNjTi1NNTMwcFd5U0d4Q0tMY2c1dXhlN2xha29aTlZkQkV3SQ?oc=5",
+      "pubDate": "Sun, 26 Jul 2026 03:32:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas politics"
+      ],
+      "sentiment": {
+        "positive": 0.957,
+        "negative": 0.043,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W30"
+    },
+    {
+      "title": "Talarico is trying to win back Hispanics along the Texas border who swung toward the GOP - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUGtBNTJpaWs0ejFXV1FqLTVMcHFVV1RrTUFidGtMZV9JSkRHdEs1NEJDMmFzSkIwZ1F0NWlDdEJ1S1NQT2FLS1R6dldpbTNUNFhXcHJBOG41aFJZMVA3bUVCcXlCX1lBV1FVdVdpeWQwM2swRThCWHJXNG1VY1BXRVpSYjlJV19XRzhybFJ4Tl91UWd5RXk4djRn?oc=5",
+      "pubDate": "Sat, 25 Jul 2026 12:23:30 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "talarico"
+      ],
+      "sentiment": {
+        "positive": 0.099,
+        "negative": 0.901,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W30"
+    },
+    {
+      "title": "Texas U.S. Senate Election 2026: Latest Polls - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRnFTY28wbS10QjZaN2NoLURKTUNYNkRlVXJFenVsTWphQVBQS2lySHdTOVVKTGhSSVRsX2JSeVEwUE9hMWpVdWU5Z2JESHJSalV5ZFEtQm5sTzY3LWQ5NFR3WjhLeE9IaUQ4VDRoZkhUOHRxQkc1cnR1TG5YVThJLVlJeW10QkxBYVE?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 16:22:28 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 4,
+      "matchedKeywords": [
+        "senate election"
+      ],
+      "sentiment": {
+        "positive": 0.961,
+        "negative": 0.039,
+        "label": "positive"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W30"
+    },
     {
       "title": "James Talarico Faces Scrutiny Over Immigration Enforcement Views - sekbernews.id",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ0I1b2xwd2dSd2Jmd3Boc19TUkFNazlkTlBxNlk5R3k1MFlhc2NEM1VEMmtlRGpUNndJbDE0VUZKekZ4ZW95dWRCYUEzblVOTUpwRWMyMTlqV296c253dWs5eER1TldtTTBNTUxaelZEeHRUQllGOGE4azdRZF9td0tB?oc=5",
@@ -1775,74 +1828,19 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "Texas Senate candidate James Talarico shouted down at tense Houston town hall - NewsNation",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZTd3MmJTNUNKY0hGVVliU3VSNjJRSWdrWDFEQzNXdlVaMjdnLXhheTVmMnM1eHAyd2lsQ2pBTFJSM3NEbTJ1enBFLWk5R18xZ3c2OHBPZ0pqR3M0T1FlZkFtVFo3eEtRdmxMSHNkQ2cxMzhJY2dDY2cwRVJwcU4tQjhpUG9UVmxBS0lMczNIRTJsZ3lOMUx5MW1jNHVKYi1Q0gGgAUFVX3lxTFBlN3cyYlM1Q0pjSEZVWWJTdVI2MlFJZ2tYMURDM1d2VVoyN2cteGF5NWYyczV4cDJ3aWxDakFMUlIzc0RtMnV6cEUtaTlHXzFndzY4cE9nSmpHczRPUWVmQW1UWjd4S1F2bExIc2RDZzEzOEljZ0NjZzBFUnBxTi1COGlQb1RWbEFLSUxzM0hFMmxneU4xTHkxbWM0dUpiLVA?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 15:02:02 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 18,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate"
-      ],
-      "sentiment": {
-        "positive": 0.02,
-        "negative": 0.98,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W29"
-    },
-    {
-      "title": "James Talarico accused of not doing enough for black voters during heated town hall - Washington Examiner",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZGUxdkd6dlBwbW5aMXdTaGNRWFZtMnVxY29pM3RPN2gzM1NaVTZnWWsyUzJ5d2dmOTFnc2Z1cUJxU0VQMldRcEJ0dE1uME96LVlWYWxJaWlKbVdXUTlxSXBSRzk4Q2RhdHkyX2I5eUI2Ynd2bDJCdExKeXJXNVkzbXRUTnNJZVhpb1NLVHdJYW8ycDY3dTFTMmI0RmQxb1c0czN2OHhaQTE0Y25hcDBpd01LamtkekNENXNDdE5rMkxVdGNvNGlycVdHd2FfTUlqa2c?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 21:14:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.005,
-        "negative": 0.995,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W29"
-    },
-    {
-      "title": "Dem Texas Senate candidate Talarico focuses on border security - MSN",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMTlVRDQ2UWJ3N3NjTEJRVjhFazNjazgwVWZPaGRTcTlEbXZqV2JaOElxdWJWcnVFenJKSFZzNXkxMFpOMzN0bzdNOTEybFJPc0Y0cHZieW5aajhBZGJtQjVacVVFUkxvLW05Um5GcmJFQjhKd1VDa3BsZWRCcC0yeTZOeDFXdUhzT05EUmZiWmpCV09NbF9rSkVWd0h1MjE1akhPNTNJaFVwMzc4UXdOag?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 18:32:31 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "texas senate"
-      ],
-      "sentiment": {
-        "positive": 0.245,
-        "negative": 0.755,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
     "2026-W30": {
       "talarico": {
-        "positive": 2,
-        "negative": 16,
-        "total": 20
+        "positive": 3,
+        "negative": 17,
+        "total": 22
       },
       "general": {
-        "positive": 2,
+        "positive": 3,
         "negative": 12,
-        "total": 14
+        "total": 15
       },
       "both": {
         "positive": 2,
@@ -1858,8 +1856,8 @@
     "2026-W29": {
       "talarico": {
         "positive": 10,
-        "negative": 13,
-        "total": 27
+        "negative": 10,
+        "total": 24
       },
       "paxton": {
         "positive": 2,
