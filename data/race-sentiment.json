@@ -1,9 +1,43 @@
 {
-  "analyzedAt": "2026-07-26T12:10:47.074Z",
-  "newsFetchedAt": "2026-07-26T11:03:49.070Z",
+  "analyzedAt": "2026-07-26T14:10:00.035Z",
+  "newsFetchedAt": "2026-07-26T12:39:47.311Z",
   "totalAnalyzed": 100,
-  "newThisRun": 6,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Inside Texas Politics - newswest9.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT2VxNUsxTWZJLVVkLUlLZnROeVc5Mk5xTUFKRmFPWnluYkNzWnM3RW83NGhlZGFXU21OcmRjSEdyc2ZfX3IwcnpaeVB0d1lMUDZxc2hacE1vMmZ2UWhoZXd4TXBhTjZWSzltTXZ6OGs2Vm1hMlN6bjZfWDRVWXdvUjRGYlpiajJRWVNheXNEZWNZeWlhYTYxa2QxakxaRTZsbXhYNXBYUVZENXpqTjN6YQ?oc=5",
+      "pubDate": "Sun, 26 Jul 2026 12:00:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "sentiment": {
+        "positive": 0.965,
+        "negative": 0.035,
+        "label": "positive"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W30"
+    },
+    {
+      "title": "Inside Texas Politics - kagstv.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYmpZSm1DNzdwQTBUcXF1cXk1aExsajNPM0FyalpwSGl5OHJyR00wVWcxRDNGeWg2eFI0Q3pKZmtsOGNuWmo5UmZodU1odjVmRkpJRWlqRjF4dFNCUkxXN1M3ZWpBbUhxeWtxY0V3ZGJOUXN6aEtFSUJGMXJ3SjVKTmVQY1A0ZHg3a0xwZnVoeXNYQXJfY2hfZTU2MUZGb0tuLWEydGVkZlNqcFJY?oc=5",
+      "pubDate": "Sun, 26 Jul 2026 12:00:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "sentiment": {
+        "positive": 0.94,
+        "negative": 0.06,
+        "label": "positive"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W30"
+    },
     {
       "title": "Ken Paxton's history of unanswered questions and the potential impact on his Texas Senate campaign - CBS News",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc0NzcjgtNXp6VG8tejY3UGo3dVdSYUlzb05JaFoxYVprTXM0bGRWbVNxZTRDQjJCbGt3TzItb0c2YUl3dTViY3NyTWVrUlhMdUROVzNNWWdQd1JfUkI1R2I3Xzc2bll5YzhnS21BY3VMRmxCVjhyS3FBMUU3eUxqVEgyblYyaFJXRTZOUDFuSWpLMGJGaXRPNHAzU3lDTEJZVmFUQVVqdHZQUUl1MzU0SGtQdk0?oc=5",
@@ -1778,49 +1812,15 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "Black voters explain what they want to see from Senate candidate James Talarico - Fort Worth Star-Telegram",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUXdPaWY5cy1BWGJhbWlZVGNzdUZYdkdRSWt2NFBCdTNOdWhGbGRSUEtHSXZDVjlIaUx0WWV0S2Z1ZE9BY3FjM0d6WFp6cWN4M0RnNWkxREVBckVocTFDcEw2djYteHl5QVNQcGhnc3FLUy1DR05CemQ5eE5CVVh4UzE2aDVQaUQzYm9qdU5KZFFBX2R3VEHSAZYBQVVfeXFMUDFsTFRVWGRqS19uVnprTldfeVptOGRFbTloVS1fSnlFclhEejFWMk9ocE5kZ2R0UFByOE9ZRkpqTGZSbE0yV3lPSGNLdUhqanI1YjQxVlo0OE9HM2dzZFJZRm1qcUx3eXBfd0wwZlBaTFI1UFFrS0NKN3pPVFdRSTc2NDJramVxQ2thOHBSNTc5YS1RaTRn?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 15:21:30 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.474,
-        "negative": 0.526,
-        "label": "neutral"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W29"
-    },
-    {
-      "title": "James Talarico faces fresh challenge in Texas Senate race - knewz.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNGM2UWRXVkVTV0poMnI5ZjlGSmJWMlluTWJhVlp5Q3AtMWh5bkhERFMzaWxYQTE3bGc5MWtXY2llMW92UExQUHdBTjI1R3NyaGZZWGJQYTJlS2dJY1NSOHk0eFBPMHFDNkMyUjdMSGdEdTFSUGx4aVJJcGtJejVuVmZSZTJxQUtw?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 14:20:07 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.557,
-        "negative": 0.443,
-        "label": "neutral"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
     "2026-W30": {
+      "general": {
+        "positive": 7,
+        "negative": 14,
+        "total": 21
+      },
       "paxton": {
         "positive": 3,
         "negative": 5,
@@ -1830,11 +1830,6 @@
         "positive": 5,
         "negative": 17,
         "total": 24
-      },
-      "general": {
-        "positive": 5,
-        "negative": 14,
-        "total": 19
       },
       "both": {
         "positive": 2,
@@ -1846,7 +1841,7 @@
       "talarico": {
         "positive": 7,
         "negative": 9,
-        "total": 20
+        "total": 18
       },
       "paxton": {
         "positive": 2,
