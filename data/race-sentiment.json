@@ -1,9 +1,46 @@
 {
-  "analyzedAt": "2026-07-26T18:33:39.207Z",
-  "newsFetchedAt": "2026-07-26T17:34:28.444Z",
+  "analyzedAt": "2026-07-26T19:46:30.509Z",
+  "newsFetchedAt": "2026-07-26T19:19:59.937Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Will Paxton's unanswered questions impact him in the Texas Senate race? - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT2laYWUyeUNjWHAwR2VjUnI1X2JqcDBScFJlaTFXeHB3dEZtbWdib0RXeldmRW1OazlQbGNXb1JyYWUyVWVjS3lMX0xQVk9VaXFuUFY2UW91VFlhcUF3VGx1NzlNLXZ5UURRQjFzR3djS1lTUW9LZDBic1ZMSW9meDQxQWZnZWVXQ21iLXQ0RVlCaTc1V0Z2dkhLOUlrT25nd3NyVl8wbWVVZw?oc=5",
+      "pubDate": "Sun, 26 Jul 2026 12:29:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.981,
+        "negative": 0.019,
+        "label": "positive"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W30"
+    },
+    {
+      "title": "Paxton's Border Security Record: Court Battles and Impact - Daily Signal",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdWxib29hTkpBQmplb3lQMXJ6ejFaWDUzWk5fdUc1SE5rMU82X1Z0ZnRjNmE5UGpMaHpJang5c0xnUVNRQWkxdWlaMkt0YndjcmhKMmNxZ05zdU5BNWVsVkl0T1hLWmw0bVlkX09MZjloSTkzQmdQV3JhOHlza0Nqb0x3VnpUV2VkRjZyVA?oc=5",
+      "pubDate": "Sun, 26 Jul 2026 17:00:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "paxton"
+      ],
+      "sentiment": {
+        "positive": 0.987,
+        "negative": 0.013,
+        "label": "positive"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W30"
+    },
     {
       "title": "Bexar County Judge Race: Ron Nirenberg outraises Patrick Von Dohlen in 2026's first half - kens5.com",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPTjV6UWxVU28wdGl3Q0dvQlU2YkExWGE3VjhfRGdNSWNYNEhBRk1VeFRxdVZYak1xRFVOX01tQ0F0OWtKeTNnOGVpN1ZacWltNzl0bWdOVVg1RDVHTnc3cVlwQVNXcEFlazVzMkNGbE9Gb1ZER1c0STBzaFQ0akd4WHNZR2N2YjJSdTVuTm5UZm5yV2llNlliUnlUbHhmQ0ptdTlHMnFlekhFZGpyY1EwaHZmU1JNMnlHUHd6R2lFTUxEb21hb080bVFhVThsUVJMVUR6Tl9jUkh4RTR0aU03cTBwYU1HSGhFNTdrVUFfZGZkc2tJUEtfYXNqTWhkXzEy?oc=5",
@@ -1773,56 +1810,19 @@
       },
       "candidate": "both",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "James Talarico defends Jasmine Crockett amid Texas Democratic tension - Rolling Out",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qWVR1UTBoOGg4TGtnSzRPY2kwVHJwNXdldXRaV1NZWFVuNmdyQXhDa21JX0tFWURqMG1NR3FsUkl5ZlN2SmdkQS0zZ0VDanRnY1BuMVJOQUIxTV9HRy1kM0dJQW5GSDhlT2paaXdTWjM0a0puWkFaTVVPOA?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 18:28:23 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas democrat"
-      ],
-      "sentiment": {
-        "positive": 0.027,
-        "negative": 0.973,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W29"
-    },
-    {
-      "title": "James Talarico pledges $25 million to win over Black voters in U.S. Senate campaign - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaThRVzVUOEs3MWJoQjBUTDJOVlVxbzZzUGtSUmszY0lEb3hSRU53enk4dWpzNnlYT1JtQnZoejRNY05EaHN1b2dwTHh6N1RQMVBicTdOUklQb2RzY2VXaC1qWTRlRkdDRWlxYk9BdE1OQWFuTHNEVi1pR0thNjFkLXp1dVBPQ0ZZUWgtZEJQdVhrcjliT2JKSkVHT3ZHRUN2eVAtNlZzOHBpb2VkTGdHcURkY0txMGlVdG1mZ0Zuc2otU0ZuMTMyQWYtUk5UaG5faFFqb3B3Z01meDczLUE?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 20:15:52 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.615,
-        "negative": 0.385,
-        "label": "positive"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
     "2026-W30": {
+      "paxton": {
+        "positive": 5,
+        "negative": 5,
+        "total": 11
+      },
       "general": {
         "positive": 8,
         "negative": 14,
         "total": 22
-      },
-      "paxton": {
-        "positive": 3,
-        "negative": 5,
-        "total": 9
       },
       "talarico": {
         "positive": 5,
@@ -1837,9 +1837,9 @@
     },
     "2026-W29": {
       "talarico": {
-        "positive": 7,
-        "negative": 9,
-        "total": 18
+        "positive": 6,
+        "negative": 8,
+        "total": 16
       },
       "paxton": {
         "positive": 1,
