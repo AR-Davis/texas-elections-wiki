@@ -1,9 +1,26 @@
 {
-  "analyzedAt": "2026-07-26T17:07:13.839Z",
-  "newsFetchedAt": "2026-07-26T12:39:47.311Z",
+  "analyzedAt": "2026-07-26T18:33:39.207Z",
+  "newsFetchedAt": "2026-07-26T17:34:28.444Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Bexar County Judge Race: Ron Nirenberg outraises Patrick Von Dohlen in 2026's first half - kens5.com",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPTjV6UWxVU28wdGl3Q0dvQlU2YkExWGE3VjhfRGdNSWNYNEhBRk1VeFRxdVZYak1xRFVOX01tQ0F0OWtKeTNnOGVpN1ZacWltNzl0bWdOVVg1RDVHTnc3cVlwQVNXcEFlazVzMkNGbE9Gb1ZER1c0STBzaFQ0akd4WHNZR2N2YjJSdTVuTm5UZm5yV2llNlliUnlUbHhmQ0ptdTlHMnFlekhFZGpyY1EwaHZmU1JNMnlHUHd6R2lFTUxEb21hb080bVFhVThsUVJMVUR6Tl9jUkh4RTR0aU03cTBwYU1HSGhFNTdrVUFfZGZkc2tJUEtfYXNqTWhkXzEy?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 22:05:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 3,
+      "matchedKeywords": [
+        "bexar county"
+      ],
+      "sentiment": {
+        "positive": 0.938,
+        "negative": 0.062,
+        "label": "positive"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W30"
+    },
     {
       "title": "Inside Texas Politics - newswest9.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT2VxNUsxTWZJLVVkLUlLZnROeVc5Mk5xTUFKRmFPWnluYkNzWnM3RW83NGhlZGFXU21OcmRjSEdyc2ZfX3IwcnpaeVB0d1lMUDZxc2hacE1vMmZ2UWhoZXd4TXBhTjZWSzltTXZ6OGs2Vm1hMlN6bjZfWDRVWXdvUjRGYlpiajJRWVNheXNEZWNZeWlhYTYxa2QxakxaRTZsbXhYNXBYUVZENXpqTjN6YQ?oc=5",
@@ -1793,33 +1810,14 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "Texas Attorney General Ken Paxton Holds News Conference - C-SPAN",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLTFWR0trUWpZLXRGNHN3Ujk0Ry1CNklybm9BbDlUYUhtNE9UWC1KeFQ0Z0VqUkVDN0p2eFAtUmxjTmpIbXJGVHVUT2N6ZmVMendmT2RaSmM5OWZUdXp6T2hHazFiOW5URDQwbktuYjFxWTAwaGVGQzlMcEMyRDZzdHhDRWR3U2duQUdObHZFYzRUcFFHN3FvbTJVbU4wS2pUVGR1YXdwZ3o?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 04:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "attorney general"
-      ],
-      "sentiment": {
-        "positive": 0.969,
-        "negative": 0.031,
-        "label": "positive"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
     "2026-W30": {
       "general": {
-        "positive": 7,
+        "positive": 8,
         "negative": 14,
-        "total": 21
+        "total": 22
       },
       "paxton": {
         "positive": 3,
@@ -1844,9 +1842,9 @@
         "total": 18
       },
       "paxton": {
-        "positive": 2,
+        "positive": 1,
         "negative": 9,
-        "total": 11
+        "total": 10
       },
       "both": {
         "positive": 4,
