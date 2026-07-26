@@ -1,9 +1,26 @@
 {
-  "analyzedAt": "2026-07-26T21:02:25.132Z",
-  "newsFetchedAt": "2026-07-26T19:19:59.937Z",
+  "analyzedAt": "2026-07-26T22:06:42.666Z",
+  "newsFetchedAt": "2026-07-26T22:03:49.067Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Rep. Beth Van Duyne calls vote to end Iran war unrealistic | Inside Texas Politics: July 26, 2026 - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FRDlWMEh0MG1kTmpsbWVkVEdHMGExeHBUNDlneWgyUkliZHhmQ0J2ZGJ5STExZDR4ZndzUEZQQjNWWERBNnBOeEhPSGNqQnpmR09xV0YzY0Y4SFhrZjRsWUp4U0tqMTNRU3BsZ1ZNTU9wZVdiOHptSk5ydEg0QQ?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 23:07:06 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "sentiment": {
+        "positive": 0.014,
+        "negative": 0.986,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W30"
+    },
     {
       "title": "Will Paxton's unanswered questions impact him in the Texas Senate race? - CBS News",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT2laYWUyeUNjWHAwR2VjUnI1X2JqcDBScFJlaTFXeHB3dEZtbWdib0RXeldmRW1OazlQbGNXb1JyYWUyVWVjS3lMX0xQVk9VaXFuUFY2UW91VFlhcUF3VGx1NzlNLXZ5UURRQjFzR3djS1lTUW9LZDBic1ZMSW9meDQxQWZnZWVXQ21iLXQ0RVlCaTc1V0Z2dkhLOUlrT25nd3NyVl8wbWVVZw?oc=5",
@@ -1792,37 +1809,19 @@
       },
       "candidate": "both",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "Paxton paints Talarico as one of the most anti-police politicians in TX history - Fort Worth Star-Telegram",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQTVnU1o2LS1BbVZaTXNDb0FxTTJTRWw0eHR0WnlkWE1jbWZ6RGJnS1Raa25FMXZqTGlMNVZQT3U5UGtxQzI0QkpRcHJWVnUwbGpkU0xzUXdnbzF0WkVPNlZybmpFZkxoTmMyb3pJS3FrbmJrYWtfdEFDS1Nvb3Nfc25R0gGCAUFVX3lxTE9BNWdTWjYtLUFtVlpNc0NvQXFNMlNFbDR4dHRaeWRYTWNtZnpEYmdLVFprbkUxdmpMaUw1VlBPdTlQa3FDMjRCSlFwclZWdTBsamRTTHNRd2dvMXRaRU82VnJuakVmTGhOYzJveklLcWtuYmtha190QUNLU29vc19zblE?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 19:29:11 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.994,
-        "negative": 0.006,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
     "2026-W30": {
+      "general": {
+        "positive": 8,
+        "negative": 15,
+        "total": 23
+      },
       "paxton": {
         "positive": 5,
         "negative": 5,
         "total": 11
-      },
-      "general": {
-        "positive": 8,
-        "negative": 14,
-        "total": 22
       },
       "talarico": {
         "positive": 5,
@@ -1847,9 +1846,9 @@
         "total": 10
       },
       "both": {
-        "positive": 4,
+        "positive": 3,
         "negative": 6,
-        "total": 10
+        "total": 9
       },
       "general": {
         "positive": 0,
