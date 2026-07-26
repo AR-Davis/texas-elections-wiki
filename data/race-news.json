@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-07-26T12:39:47.311Z",
+  "fetchedAt": "2026-07-26T14:41:04.083Z",
   "count": 25,
   "feedsChecked": 8,
-  "itemsScanned": 150,
+  "itemsScanned": 149,
   "items": [
     {
       "title": "Ken Paxton's history of unanswered questions and the potential impact on his Texas Senate campaign - CBS News",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc0NzcjgtNXp6VG8tejY3UGo3dVdSYUlzb05JaFoxYVprTXM0bGRWbVNxZTRDQjJCbGt3TzItb0c2YUl3dTViY3NyTWVrUlhMdUROVzNNWWdQd1JfUkI1R2I3Xzc2bll5YzhnS21BY3VMRmxCVjhyS3FBMUU3eUxqVEgyblYyaFJXRTZOUDFuSWpLMGJGaXRPNHAzU3lDTEJZVmFUQVVqdHZQUUl1MzU0SGtQdk0?oc=5",
-      "pubDate": "Sun, 26 Jul 2026 10:00:11 GMT",
+      "pubDate": "Sun, 26 Jul 2026 10:00:00 GMT",
       "feedSource": "google-news-texas",
       "raceScore": 17,
       "matchedKeywords": [
@@ -170,16 +170,6 @@
       ]
     },
     {
-      "title": "Inside Texas Politics - kagstv.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYmpZSm1DNzdwQTBUcXF1cXk1aExsajNPM0FyalpwSGl5OHJyR00wVWcxRDNGeWg2eFI0Q3pKZmtsOGNuWmo5UmZodU1odjVmRkpJRWlqRjF4dFNCUkxXN1M3ZWpBbUhxeWtxY0V3ZGJOUXN6aEtFSUJGMXJ3SjVKTmVQY1A0ZHg3a0xwZnVoeXNYQXJfY2hfZTU2MUZGb0tuLWEydGVkZlNqcFJY?oc=5",
-      "pubDate": "Sun, 26 Jul 2026 12:00:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ]
-    },
-    {
       "title": "Inside Texas Politics - KVUE",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWGMxMGJCT215N05QQ3VNSjdwYVJwQXVla0tRdF9kay1STVpERnNnclNtR0VmbUxmUE9SWHVIYUxOTlZSa1oyYTVqUmd3c0ZtTVk1TWxzN3JGNGlEOGxHVzBVRnVCUHU3cHNtR0loZ3dtZUFTWDhYRDRLN042REQ4SGNIcWxKTG1scDJIVnFvejBDYy01ZWZkLXB3RFlqb3lveU53dE5iMXE2dw?oc=5",
       "pubDate": "Sun, 26 Jul 2026 10:30:00 GMT",
@@ -267,6 +257,16 @@
       "raceScore": 4,
       "matchedKeywords": [
         "texas republican"
+      ]
+    },
+    {
+      "title": "Texas U.S. Senate Election 2026: Latest Polls - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRnFTY28wbS10QjZaN2NoLURKTUNYNkRlVXJFenVsTWphQVBQS2lySHdTOVVKTGhSSVRsX2JSeVEwUE9hMWpVdWU5Z2JESHJSalV5ZFEtQm5sTzY3LWQ5NFR3WjhLeE9IaUQ4VDRoZkhUOHRxQkc1cnR1TG5YVThJLVlJeW10QkxBYVE?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 16:22:28 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 4,
+      "matchedKeywords": [
+        "senate election"
       ]
     }
   ]
