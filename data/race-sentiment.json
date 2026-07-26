@@ -1,9 +1,78 @@
 {
-  "analyzedAt": "2026-07-26T00:03:45.993Z",
-  "newsFetchedAt": "2026-07-25T22:03:37.872Z",
+  "analyzedAt": "2026-07-26T03:47:56.382Z",
+  "newsFetchedAt": "2026-07-26T03:32:52.215Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 4,
   "stories": [
+    {
+      "title": "James Talarico Faces Scrutiny Over Immigration Enforcement Views - sekbernews.id",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ0I1b2xwd2dSd2Jmd3Boc19TUkFNazlkTlBxNlk5R3k1MFlhc2NEM1VEMmtlRGpUNndJbDE0VUZKekZ4ZW95dWRCYUEzblVOTUpwRWMyMTlqV296c253dWs5eER1TldtTTBNTUxaelZEeHRUQllGOGE4azdRZF9td0tB?oc=5",
+      "pubDate": "Sat, 25 Jul 2026 23:09:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.005,
+        "negative": 0.995,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W30"
+    },
+    {
+      "title": "Talarico is trying to win back Hispanics along the Texas border who swung toward the GOP - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbElfdlREYzc4TG1YODc3RjY3WlFsM2liMlY0UndvVGNvQjA1Y3ZRNHJ2eGwwZFNjYzRockZQcFlUVnB4N0RjVE1CSTIyeVN5eEFWS0FXanM2UUI3aVc5bmpLeDB6Z3Z6Vm5lSXVhczZnb1UyWkxpZWdEakJfdzM2VlhncGVDQ29VNDFhcEgzOGZhbVdqUVduenlRaklMQ2ZL0gGmAUFVX3lxTE0tcVZ1QVhqd3FRTGY5Uy1FZlJEZk9oSGRSdzV5Y1BPY042TDlZWDkyVl9DM1J0NEhrQ0g3LVZDbUVBekd5Vl8tZWE3ZzJpY2hTX1FwX0EtSW5NdnV5MHBuNkVrNkpNZ1Y0VWVwR0dYYVp2RjluUGltVFpGWFk4UjBLZUlNdXE3QVpaZzJtaEdRYmRvVkZONkdDekt3R0JYSklMOW8tQmc?oc=5",
+      "pubDate": "Sat, 25 Jul 2026 14:48:48 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "talarico"
+      ],
+      "sentiment": {
+        "positive": 0.572,
+        "negative": 0.428,
+        "label": "neutral"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W30"
+    },
+    {
+      "title": "ELECTION 2026 | Texas politics: Here are 5 top-of-ballot candidates' stances on law enforcement - Texarkana Gazette",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdUNuVEE2eTNhMFlxN1ZDRGs5OWFhdFB3WHlYU2NlUlVmSW5lVG9adThxY2dFSVhVbHk5ZFZDUGlVVTVXemJlejZrRjcxd01WR012T1ZfSlU3Zl9YN2VBTnJ1MjNHbmJlYWlKb2paVjZPbE9teFRSaVAzYi04VlhoVS1ncmpvVUVfTkhMc3Yzcy1rNkE1ZEtKR0tFTE5jZw?oc=5",
+      "pubDate": "Sun, 26 Jul 2026 03:00:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "sentiment": {
+        "positive": 0.183,
+        "negative": 0.817,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W30"
+    },
+    {
+      "title": "Inside Texas Politics | Rep. Van Duyne says vote to end Iran war was just a 'messaging bill' - WFAA",
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQX3NId0xvamN6VWFCNkR5eURmcnk4bVlXeTFSM1VJUnRKRTlrMklJVjRLLVczd3N6S2Z5OHptMUVjZXl0WHZaTkpBcFk1aVJ1TWg4bG1TRFNvZzVqbW5nMU1aamtHR1pYa01qNzFtMHpJSFcwNEJXczFhdFdiU2gwb1hvRlcySUNuU2N3ZVBLSDZpY3FNT1I0c0QxWlpKa3hicjhuUkhQMEpOTkNBSzVadXF4SjdXOGFTbF9kYV9CT1JfVGtxS2haeXp3R2pfSl92RWo0cnZkb0hUVFV6ZldWejJwYWlOUHZBZU0zOGVJUzZyR1hrVWNPdG9jeUN0X0h1eF9yX21ZbHlBOUpxU2JlSVVKd1lfS2NlS0pPY0Faa21iU2ZhWklR?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 21:55:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "sentiment": {
+        "positive": 0.01,
+        "negative": 0.99,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W30"
+    },
     {
       "title": "Polling shows James Talarico holds an advantage among Black voters in Senate race, but worries about voter turnout remains - KTALnews.com",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPV2l3UlpEekcxSjhycDloVHNrSDNKeGNjTnhselo0M005dER0Y0wyZXkxdUE3N0VSZEJGcDFHQnYzZk4wVnQzSFp4VDdSbkhnOXF3M0VHRGxVSmZIS2J4MzMza0h0LUI4RFhJTGo4ZHdjWTZDMEltLW05TUJ6eW1JNDFHUkNxd1NVc0pERFZSMFMtVm5NVjZYUjlEV3RkLVREMlplUkRsT0lkRXRRcEpqRE1GOWN6WDBKRDhpUUFGRjBEVWdDOEVyQzJSOVMyZ0ktRnY2OFU4UkxrX0RyVmVkY1ZpeVJMQnFUbllvQUhfZi1qTFVRVnoyeEJGeDFNb3lVbS1mWjZ2V3LSAYgCQVVfeXFMT1dpd1JaRHpHMUo4cnA5aFRza0gzSnhjY054bHpaNDNNOXREdGNMMmV5MXVBNzdFUmRCRnAxR0J2M2ZOMFZ0M0haeFQ3Um5IZzlxdzNFR0RsVUpmSEtieDMzM2tIdC1COERYSUxqOGR3Y1k2QzBJbS1tOU1CenltSTQxR1JDcXdTVXNKRERWUjBTLVZuTVY2WFI5RFd0ZC1URDJaZVJEbE9JZEV0UXBKakRNRjljelgwSkQ4aVFBRkYwRFVnQzhFckMyUjlTMmdJLUZ2NjhVOFJMa19EclZlZGNWaXlSTEJxVG5Zb0FIX2YtakxVUVZ6MnhCRngxTW95VW0tZlo2dldy?oc=5",
@@ -1761,94 +1830,19 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "Tracking the money raised and spent in the U.S. Senate race between James Talarico and Ken Paxton - The Texas Tribune",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMG5MRF9UdVBtaWxpbUpQcTR3OU5sMFdfeXhLM2tVZk9uUGJKQW9PazBvNEZvemZJSjZQRk0wdGkxZEJzOFkzVFJVRGhmbUg3LVFCbTRnMG0zUVNvNHRjSVg1d09xZjhaMUJkTTBxOGVPU1FTOHBUZGV0czNVUHdVVWdhVU4yVUZ1VnoyVHhLSFJyQlhhY2hGYnY4eTQtX1BBeVptODBn?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 20:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.488,
-        "negative": 0.512,
-        "label": "neutral"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W29"
-    },
-    {
-      "title": "James Talarico pledges $25 million to win over Black voters in U.S. Senate campaign - Texas Public Radio | TPR",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRE1uNHRaYUpJUW1TRTc0R21fV1JlNVM4UFRRY19rb29Ec2RCUFJ4bjZ3dmlJZndRU3o3MHVFOTFIX3ByTU1xTGszRDRRcG41TGozdTZMZ2tqSVdVck92UzFpaGY2YU9KRHB4bG1rOXkxLVpsZ2tUYjk5WjVvUFR0MUl4dGduNk5FYUpzYWlaR2w2Mmp6TU5Obi1Jdi1MbXBnMkZkVzkzNjE3ZVpQOFc2Z3hUYTdyRmxTamZBUTNsdmdhYkUxOTVVVk5lTTU?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 20:19:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.214,
-        "negative": 0.786,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W29"
-    },
-    {
-      "title": "Paxton campaign refutes election complaint from Texas Democrats - MSN",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTmFQMU9Ea1ZFNmZXel9oMUNkNERlLUotMm85NnRWckYzS04wTXFfZGtKcDdYUG5VQUMzY2hTU29neGpKUFlaQklkVU8zeF9kcUhwc3ZVUzAxVjExdy1wU1N0d2ZNdmExeE1wSl81c0lEbFdodkJhQnRoTEZfWlNTbThSVEh6YjhucmhpRE1rMVJtTy1jVU5JUnVteWU4Snl4a2xkMHQyaFlBcDVmd1lYVW42cXdqczJNWUZuR01B?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 13:50:22 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "texas democrat",
-        "texas democrats"
-      ],
-      "sentiment": {
-        "positive": 0.056,
-        "negative": 0.944,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W29"
-    },
-    {
-      "title": "Talarico pledges $25 million for Black voter outreach at sometimes tense Houston town hall - The Texas Tribune",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOREFmaWtMLWQ4V1NFV2NMNG1XWUpJVkgzcVNINzFDZ3RWNzNlRHNFRlQ1T0xxdTVEeUNtNWVUTlA3Q2tIYUhvbUVtWGo4cnBYdTctYUdrYW1ERWNfMFdNdEVZM0syMmVqSnBlMXJBTWx4aHBHNW1EZGhZczBPclRUdHRoQUtGcFpVa3NsVTJiejd1aldJN2pDNGhEV0E2cllhZzVEWW95Zw?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 19:37:09 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 7,
-      "matchedKeywords": [
-        "talarico"
-      ],
-      "sentiment": {
-        "positive": 0.026,
-        "negative": 0.974,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
     "2026-W30": {
       "talarico": {
         "positive": 2,
-        "negative": 15,
-        "total": 18
+        "negative": 16,
+        "total": 20
       },
       "general": {
         "positive": 2,
-        "negative": 10,
-        "total": 12
+        "negative": 12,
+        "total": 14
       },
       "both": {
         "positive": 2,
@@ -1864,18 +1858,18 @@
     "2026-W29": {
       "talarico": {
         "positive": 10,
-        "negative": 15,
-        "total": 29
+        "negative": 13,
+        "total": 27
       },
       "paxton": {
         "positive": 2,
-        "negative": 12,
-        "total": 14
+        "negative": 11,
+        "total": 13
       },
       "both": {
         "positive": 4,
         "negative": 7,
-        "total": 13
+        "total": 12
       },
       "general": {
         "positive": 0,
