@@ -1,9 +1,43 @@
 {
-  "analyzedAt": "2026-07-27T01:09:50.377Z",
-  "newsFetchedAt": "2026-07-26T22:03:49.067Z",
+  "analyzedAt": "2026-07-27T05:26:04.897Z",
+  "newsFetchedAt": "2026-07-27T03:41:03.722Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Inside Texas Politics | Dallas City Council Member Paula Blackmon not giving up fight for City Hall - WFAA",
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNa3pLV2RReE9GRjd5bE51UHQ4M1dCLTYyUzZRWlRENWFDdGxsUlhMb0liajlzaU5wcS1naGdwaU5Sa0p0OENUUWlWWTlkRWdFNG9MYm5IeXVIcEhSZmVmekVyTElNR0NhSlBfZjNtOHNjc29nRHJua3pRNzlYWl9IWWtqWkZFRnVyNHgtRERINy1HaU9IRDVqVFBYTzhDWXZOb0xEdDlpRFRRMHFtMnF0S215QnlFeHZVQ1VpZm5sclZRYWZDLUc0dUFQbnVySDM2UjlTZk5Lel9iREN4UTliZHFaZjliZXppSG1jS011OUEyWWdIbC1KX1dXN1c5c2hBSVh4ei04MUs4UHdLVERpVTFPNEh1TGRfZWtmb3hkS2lCSVo1ckE?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 03:29:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "sentiment": {
+        "positive": 0.996,
+        "negative": 0.004,
+        "label": "positive"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W30"
+    },
+    {
+      "title": "Inside Texas Politics - newswest9.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNU40SFo1V0x6UFRjdlBLR2FNMzBkYllfX2R0ZVU1bl9yQnpXaEtYVFVrempVQXpvYU5KaElKS1RiT2xvVl9CQTBJT2xTSHdsVFJkMWRGNGdUSldQVUNNWUVfY3NJV19PNnBVMDFpVkhIaTdqaVdveGdyUWxfYmhsTXl1UXZ6TWNPaHpTVUtwQVFzSDRNSk9rYnY3TUZXeXhpZ0UyWTlR?oc=5",
+      "pubDate": "Sun, 26 Jul 2026 12:00:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "sentiment": {
+        "positive": 0.965,
+        "negative": 0.035,
+        "label": "positive"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W30"
+    },
     {
       "title": "Rep. Beth Van Duyne calls vote to end Iran war unrealistic | Inside Texas Politics: July 26, 2026 - Yahoo",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FRDlWMEh0MG1kTmpsbWVkVEdHMGExeHBUNDlneWgyUkliZHhmQ0J2ZGJ5STExZDR4ZndzUEZQQjNWWERBNnBOeEhPSGNqQnpmR09xV0YzY0Y4SFhrZjRsWUp4U0tqMTNRU3BsZ1ZNTU9wZVdiOHptSk5ydEg0QQ?oc=5",
@@ -1773,50 +1807,14 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "Ken Paxton dodges questions at rare press conference - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaTRMM3pnMFRzYllJNzhwN29iNEJOZWt3Nm1UbGs1NWRTQ2NhME5yZ0p3czN3LVREZ1Z1SXMzdHdtelpzSWdablEwOGNhdHJSc3V6bE1GT0syVGpGLVRSd3ZGWUcxMXREVVQ4NmwteGVnUXlrYXZsUi0tSUtKM3FZM1hISzhsdVdFUXhzbzFVeUhEdG9NdmM3XzlXa0hCTjl1dmV4NUc0V2lxV3JucGR6WS1OcE5mOHN5dEE?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 20:54:51 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.712,
-        "negative": 0.288,
-        "label": "positive"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W29"
-    },
-    {
-      "title": "US Senate candidates Paxton, Talarico speak in North Texas - WFAA",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUkd1V3pJVmhpd19yMVp3Z1JtbTNzN1g2TXNLVjFZSnJDQjdCeEttamplMXQycG1VWU5EdWt1RGdNSjM3OHJkS0prbHdCeWFWZVZ0RDhzNUNwaGx4YmloMDBweDV5aWhSMy1fWVB4S0RINXRuSDNoNnNCLWhrMU5NbDZzTjlQQjgwT0RxLXNxTVFoMGFHekZxVjFpbmxsakFWR0VhSU9YNDJwU2d1T1pPYU5jSzR0VnQzLTJHZDFSN3AtNno0UW4xZV9TekJOQ19iMHJmcXJYc1FNTmdzUXAxOUJKVQ?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 21:28:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.129,
-        "negative": 0.871,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
     "2026-W30": {
       "general": {
-        "positive": 8,
+        "positive": 10,
         "negative": 15,
-        "total": 23
+        "total": 25
       },
       "paxton": {
         "positive": 5,
@@ -1841,14 +1839,14 @@
         "total": 16
       },
       "paxton": {
-        "positive": 1,
+        "positive": 0,
         "negative": 9,
-        "total": 10
+        "total": 9
       },
       "both": {
         "positive": 3,
-        "negative": 6,
-        "total": 9
+        "negative": 5,
+        "total": 8
       },
       "general": {
         "positive": 0,
