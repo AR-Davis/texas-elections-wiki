@@ -1,9 +1,46 @@
 {
-  "analyzedAt": "2026-07-27T12:28:50.141Z",
-  "newsFetchedAt": "2026-07-27T11:31:12.234Z",
+  "analyzedAt": "2026-07-27T15:24:51.116Z",
+  "newsFetchedAt": "2026-07-27T14:49:24.709Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Years of scandals haven’t stopped Ken Paxton. Can James Talarico change that?",
+      "link": "https://apnews.com/article/paxton-talarico-texas-senate-ed48f727f8df069935cb63660a278891",
+      "pubDate": "2026-07-27T14:49:10.149Z",
+      "feedSource": "topnews",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.162,
+        "negative": 0.838,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W30"
+    },
+    {
+      "title": "AP Decision Notes: What to expect in South Dakota’s state primary runoff",
+      "link": "https://apnews.com/article/south-dakota-republican-primary-runoff-governor-doeden-rhoden-763dd3698fb08e6bf50708e8743c41fe",
+      "pubDate": "2026-07-27T14:49:10.314Z",
+      "feedSource": "politics",
+      "raceScore": 3,
+      "matchedKeywords": [
+        "primary runoff"
+      ],
+      "sentiment": {
+        "positive": 0.079,
+        "negative": 0.921,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W30"
+    },
     {
       "title": "Years of scandals haven't stopped Ken Paxton. Can James Talarico change that? - The Killeen Daily Herald",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNlc5M1pxb0owNkpIdUFyY3JEdndFVW9HTDR0aE1KM3BQTkEtUURKUlBvaGJMOTFONm9mU3NFVlNpMXhSbHNKdWJyOERMMkZ6RlAxR2k2NnRaOEh5cUI4MzBveTRHMW5ienBpZ3JueDlabXRiTVR6N3p2dzNCQ3cxZHRoaGtxb2Z6cW85clUwclRZS0EzeW1McHZmdnA4ekhOWGpmY19TLUNMaENpVGVpRXEwUzFyeDViSzd5cGVkcEFGRUJ1ZnNaNFZQWjRsdE56RG93TkZNVmkzbWlhU01CaHF3YjJDQVgxTFlyYmloSQ?oc=5",
@@ -1770,58 +1807,19 @@
       },
       "candidate": "both",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "Democratic U.S. Senate nominee James Talarico focuses on childcare affordability - Texarkana Gazette",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZFktZFd1XzVQMnU3aU5TNzZ1U3V6empBUWJOSzRZTHU5QjIxR19DdXZPUTF5eFBQSFhMT1dxNW4yeVJLSU9pRUVtLVFDMk9FWWx3YXltSS1ib2FKSDdKMUNNamxkX3Q3V3dfSHVGSTZOM3g5U3ZTcWlwQjY0RFFJLTAzQVVRbFc5dHVOS1MyaDRCQ1c0eG41LTJR?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 03:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.592,
-        "negative": 0.408,
-        "label": "neutral"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W29"
-    },
-    {
-      "title": "Democrat James Talarico faces fresh challenge in Texas Senate race: ‘Black people don’t trust you,’ Houston Black Lives Matter activist says - wonderwall.com",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQLTJPOUlzTUlQZzFkdGgwbmRXRGpOS1VXb2M0WldtUUJHa215cFlOdUtyeS0xYlIyd3pPalpUNUZZNVA0Nm1kZGtyd3VJb0ptbVF6T2NOS1RkOVFFdzF5V0oyRFViMkkzTUc1bkhEanNWU29Wamw1eDJPektzejZudHI3OHNyWVdORW55cEVIWnF5SlFpMFAxSWwteDJBUlJKM0U3UGJZSEJIT3hOOVZrWHNrMi1VOG50WnZwTWZnTWppdkpyejlUeFp6d3ZjaG1aMEpQRUpWZTAtb3FDZ0wwdmhPejg4WTA2U2t0YW5tbw?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 16:32:59 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 28,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.06,
-        "negative": 0.94,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
     "2026-W30": {
       "both": {
         "positive": 2,
-        "negative": 5,
-        "total": 7
+        "negative": 6,
+        "total": 8
       },
       "general": {
         "positive": 10,
-        "negative": 15,
-        "total": 25
+        "negative": 16,
+        "total": 26
       },
       "paxton": {
         "positive": 5,
@@ -1837,8 +1835,8 @@
     "2026-W29": {
       "talarico": {
         "positive": 6,
-        "negative": 7,
-        "total": 15
+        "negative": 6,
+        "total": 13
       },
       "paxton": {
         "positive": 0,
