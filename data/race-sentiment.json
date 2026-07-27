@@ -1,9 +1,26 @@
 {
-  "analyzedAt": "2026-07-27T21:41:19.936Z",
-  "newsFetchedAt": "2026-07-27T20:38:41.441Z",
+  "analyzedAt": "2026-07-27T23:07:42.655Z",
+  "newsFetchedAt": "2026-07-27T22:12:05.482Z",
   "totalAnalyzed": 100,
-  "newThisRun": 5,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Texas Senate panel raises concerns over tax exemption for data centers - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTjB1YkFBRVYxTV9ZVmpvTllpb29BMGxQdUlqTC0tUTM3ZXV5eldfcE0xQlM0bWM0Y3Q0OGFPNXVOaG1QU0ticFVvVnd1Wk0wTlAwc0VoUmVaTHFCb1g1QkxmMXNtRmNwOXZVU3lUUUozaEtkQ3hGSlF3MWt0cEFzeElDd3Y0QkJrT05YRnp6VVFCVWJyMzkzdW01VQ?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 21:26:22 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 7,
+      "matchedKeywords": [
+        "texas senate"
+      ],
+      "sentiment": {
+        "positive": 0.068,
+        "negative": 0.932,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W30"
+    },
     {
       "title": "Years of scandals haven’t stopped Ken Paxton. Can James Talarico change that? - Mainline Media News",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQczZaT092TVQxRFJCWHUwZkwyNFZ3YVJKSmZxZHlHMjV5VTFhX05MdUhnR0lLN0dZSmlJcG5JRlVYWVVBV0dRQkRzRzFxalNOUjlpaUhKUGF2Y2QxZ0k1NjRpekhPUlRESExKUmlXNk9rQXdLeGJKNVg4a1hWb1FCTHNpeGNBRkJBTURoSXMxek43NTNtSExrVw?oc=5",
@@ -1789,29 +1806,15 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "James Talarico pushes new ad in Texas US Senate race - El Paso Times",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSzgxWFB6UmhEQXQtNFF1YjdlclhlUjROTWppanUwQnEtSXc2clc5Z1pQVlpLYjZMZHFjbnRtbHRQTkFpUHJja3hPUU44RHpXcDFiSzRsYVdKd3p0RU1mUElwaWh4YWFFQXBPZkNxRFhXNWpRQ2RxTmVNOUFETDNzRnN4WkdGTE5xQl9LeHV6MldwbEZOenpuR2FLdFRSOGRNTmpfRWpoTWU4ajBLZUpJN3lDbEZHVHpVcWhtb0RxWUNFOTZBMlFrX3cwUnhIeWpJRVJqQmJfQQ?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 14:45:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.977,
-        "negative": 0.023,
-        "label": "positive"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
     "2026-W30": {
+      "general": {
+        "positive": 11,
+        "negative": 17,
+        "total": 28
+      },
       "both": {
         "positive": 3,
         "negative": 9,
@@ -1822,11 +1825,6 @@
         "negative": 18,
         "total": 26
       },
-      "general": {
-        "positive": 11,
-        "negative": 16,
-        "total": 27
-      },
       "paxton": {
         "positive": 5,
         "negative": 5,
@@ -1835,9 +1833,9 @@
     },
     "2026-W29": {
       "talarico": {
-        "positive": 6,
+        "positive": 5,
         "negative": 5,
-        "total": 12
+        "total": 11
       },
       "paxton": {
         "positive": 0,
