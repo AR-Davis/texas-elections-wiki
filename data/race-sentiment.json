@@ -1,9 +1,29 @@
 {
-  "analyzedAt": "2026-07-27T08:55:37.476Z",
-  "newsFetchedAt": "2026-07-27T03:41:03.722Z",
+  "analyzedAt": "2026-07-27T12:28:50.141Z",
+  "newsFetchedAt": "2026-07-27T11:31:12.234Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Years of scandals haven't stopped Ken Paxton. Can James Talarico change that? - The Killeen Daily Herald",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNlc5M1pxb0owNkpIdUFyY3JEdndFVW9HTDR0aE1KM3BQTkEtUURKUlBvaGJMOTFONm9mU3NFVlNpMXhSbHNKdWJyOERMMkZ6RlAxR2k2NnRaOEh5cUI4MzBveTRHMW5ienBpZ3JueDlabXRiTVR6N3p2dzNCQ3cxZHRoaGtxb2Z6cW85clUwclRZS0EzeW1McHZmdnA4ekhOWGpmY19TLUNMaENpVGVpRXEwUzFyeDViSzd5cGVkcEFGRUJ1ZnNaNFZQWjRsdE56RG93TkZNVmkzbWlhU01CaHF3YjJDQVgxTFlyYmloSQ?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 11:19:07 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.179,
+        "negative": 0.821,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W30"
+    },
     {
       "title": "Inside Texas Politics | Dallas City Council Member Paula Blackmon not giving up fight for City Hall - WFAA",
       "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNa3pLV2RReE9GRjd5bE51UHQ4M1dCLTYyUzZRWlRENWFDdGxsUlhMb0liajlzaU5wcS1naGdwaU5Sa0p0OENUUWlWWTlkRWdFNG9MYm5IeXVIcEhSZmVmekVyTElNR0NhSlBfZjNtOHNjc29nRHJua3pRNzlYWl9IWWtqWkZFRnVyNHgtRERINy1HaU9IRDVqVFBYTzhDWXZOb0xEdDlpRFRRMHFtMnF0S215QnlFeHZVQ1VpZm5sclZRYWZDLUc0dUFQbnVySDM2UjlTZk5Lel9iREN4UTliZHFaZjliZXppSG1jS011OUEyWWdIbC1KX1dXN1c5c2hBSVh4ei04MUs4UHdLVERpVTFPNEh1TGRfZWtmb3hkS2lCSVo1ckE?oc=5",
@@ -1789,28 +1809,15 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "James Talarico Promised Black Voters A National Police Crackdown. These Texas Sheriffs Aren’t Pleased. - dailycaller.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdXN5VXpYZlNrYmxGMTZMQWFoOVFBbXY0RktDSzRXQ3NSeWlqYWNiQWtDYnBTZWxpb3JUR0o3QjduVXFiN1lrSW9wZUU1RE5FZDhnWXRVandlYTJJTmgyei01Qk4xRVdMbFpFYnNua2w2UGlGdUlPR1d4UmNuTmZUcmxtNUtMUGNPQVlnakMxR3dYQ1Fabk9rQWV6RmhPRFpfd3FyRmRKWkNFV0ZmempGRlFB?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 21:52:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.001,
-        "negative": 0.999,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
     "2026-W30": {
+      "both": {
+        "positive": 2,
+        "negative": 5,
+        "total": 7
+      },
       "general": {
         "positive": 10,
         "negative": 15,
@@ -1825,18 +1832,13 @@
         "positive": 5,
         "negative": 17,
         "total": 24
-      },
-      "both": {
-        "positive": 2,
-        "negative": 4,
-        "total": 6
       }
     },
     "2026-W29": {
       "talarico": {
         "positive": 6,
-        "negative": 8,
-        "total": 16
+        "negative": 7,
+        "total": 15
       },
       "paxton": {
         "positive": 0,
