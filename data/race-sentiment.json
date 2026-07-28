@@ -1,9 +1,28 @@
 {
-  "analyzedAt": "2026-07-28T22:34:31.753Z",
-  "newsFetchedAt": "2026-07-28T21:12:54.933Z",
+  "analyzedAt": "2026-07-28T23:33:28.629Z",
+  "newsFetchedAt": "2026-07-28T22:35:06.149Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Talarico leads Paxton in Senate race by 5 points in new poll - KXAN Austin",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZmZKR29rcGg4T21XR1ZwSTVQQTZGV1lCeW1yUW5xaFJfT0ZWMjBmUXJITDRsZURaMi1VeHBVR05sMEl6SV84bXhpcUJtQ0dkQXdsS3RDckU5WVJtUFpBVDlmQjBwUFlSRW9Ec2tPWkFVdFVMeGx0ZjY1aWhpMmlTSzMxMThGRFNKSFVTOG9zLUZ4Z2kxZ240dEl4aDVYZUFqQnlTctIBqgFBVV95cUxOXzZHZzB3RkRSRVBlZmc2WGhOSElHaHJwTzgtV2dTY3JTT3Ixc18yV0I0dmJOVlRqWTJqZXpOWnR3QncxcFVua3V6bnVTVFI0TmJWWE9XeVB2SktTXy1aQUhXakhycEVGZ0JsYWgxMjBpQjlMR2JFM0h2X081Q3VFd21OalBwV1NhM1lPaTd3U09VaW9SVUZqa29ua2U0RjJxeE9LTkJLbFBRQQ?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 22:07:22 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.984,
+        "negative": 0.016,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W30"
+    },
     {
       "title": "Talarico Widens Lead Over Paxton In Texas Senate Race - KFBK",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR2dlc2ZQX280VFNSMEdLUzNOTnVhYjFfbHo4VEFSY3hZN29BdVRUR2dGNmhOdjk4elE2RUp0R3JpdExJWXRHSTlIcHJnZGhEY0E4ejZ3MHVLWTdVdGJ0UlVfM3J2d3NSc0tiYU4yb2hMYzhveEZCNE1ESnJIcHF0SG55RnhqeEtIS0ZMMXhKdjU5MV9BMzUzbndmQzFSZw?oc=5",
@@ -1801,34 +1820,14 @@
       },
       "candidate": "both",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "Texas Democrats ask for investigation into Ken Paxton voter registration - HPPR",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQkJybTQ3eVpPVjhkcVdvN1EtWlRiUnhkcUFQWUV1bXdkd0wwaWlMMzF6Z2padC1CS1BkT0lvRWhNdTFBNS1VVEpER2RRLUFzLW9XdG1DZ2w2c3pBeTd6cFphSVU2WFJFYzdnYmlCbm5SaW15WG9DMlFLdzBpaU8xZ21xbjBlUk85cE9LX2VqbG9BUXZmMFFJZDZlNjJrRmw5aW5JYWJKclR1TUlzV2VsY3A0SlY?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 20:50:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 18,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "texas democrat",
-        "texas democrats"
-      ],
-      "sentiment": {
-        "positive": 0.02,
-        "negative": 0.98,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
     "2026-W30": {
       "both": {
-        "positive": 12,
+        "positive": 13,
         "negative": 11,
-        "total": 23
+        "total": 24
       },
       "talarico": {
         "positive": 6,
@@ -1854,8 +1853,8 @@
       },
       "paxton": {
         "positive": 0,
-        "negative": 2,
-        "total": 2
+        "negative": 1,
+        "total": 1
       },
       "both": {
         "positive": 0,
