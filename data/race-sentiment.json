@@ -1,9 +1,26 @@
 {
-  "analyzedAt": "2026-07-28T07:16:41.640Z",
-  "newsFetchedAt": "2026-07-28T05:54:24.788Z",
+  "analyzedAt": "2026-07-28T10:09:55.051Z",
+  "newsFetchedAt": "2026-07-28T08:44:31.159Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Texas Senate committee members review law on tax breaks for data centers - ABC13 Houston",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSjBSWmkxZHdUYW9ZV21aYXJHR2wxSmRXamhfMUF2a1VQVFRzcjEyblJHbEd6VXhRSjRmaXFhazZEcm1DM2pnd3U3VjZzc3UxRkdnZHYxWjhTU2FpYmFHeDBCdU85WFE2cXlCc3pHNGdrdTFqakFBbW43elBTYmdYM0VTUjhiSUZBdTlncDNGalI1ZFQ3N2I4czFtRkp0cGvSAaQBQVVfeXFMUGYtMnFjclM4MUxTWmM2OFZCTGVrdUQ2Mnd0Z1BZTmZTZG9ha2VPYk0xOFBCTFlrN3NUbDl5MTR4NXQ2bmtjMjc4TzdSTExKNThvNFJXM2tKT1g3bjZ1S1BZbkpBdTlKdXhSRHN2bl80XzJGWVliRDY1ZGk5anF2MGJpbEJBai04TFZPcnc3OUtpNG5td1huUkMtenBZaGs4aEZqTWE?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 23:10:11 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 7,
+      "matchedKeywords": [
+        "texas senate"
+      ],
+      "sentiment": {
+        "positive": 0.567,
+        "negative": 0.433,
+        "label": "neutral"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W30"
+    },
     {
       "title": "Talarico is trying to win back Hispanics along the Texas border who swung toward the GOP - AP News",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYXUxWmZQaThLRmFDbm0zYlhqTWQtOTVRWDd6RlRLNjRjXzFEbldacmJRWTMtY0hwckF1ajdmZUl3QktjZlVvaUlUWWxKRXBldFYtRzB5YmU1ZkZHRldiVV9JZjdhUW56Rm1RSExUWF9vTUtIbmt4a1RLc3BodlNldTRiaFhXQmVGbjg2Q1liOUVsV1h6cjNUeFlxN3M3ZldDTndpVDdjdHdDVFdUd0tyUg?oc=5",
@@ -1790,29 +1807,15 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "Texas Democratic U.S. Senate Candidate James Talarico Holds News Conference on Data Center Policy - C-SPAN",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNzFIMEptVWkweS1rWVEzOFZtNXpiWmJKOVNMSGpQYmhDZkI2aC1OekRLZXBCN1lxQ1dDMnRELTI1UkZyZDd1Z3B0ZTRMYzBhSnhlVmR5Ti1UQ21WcXpSMjY0dmE2T0NsbGg1MnlXcVpGZ3FaN1VpZXVBWG15Z1l2Qkx5UURJd0p4N2hWMnc0V1dRTXNkQnV5ZzAyUGk4VVJVaW5JZ0FiMmc1eENaNzlxYlZiSVg4bVpYeWNqMkVyWE14S2ZDa0lkUXU5TE85THhwUE5nLWdsSllGUUNMWEE?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 04:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas democrat"
-      ],
-      "sentiment": {
-        "positive": 0.933,
-        "negative": 0.067,
-        "label": "positive"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
     "2026-W30": {
+      "general": {
+        "positive": 12,
+        "negative": 17,
+        "total": 30
+      },
       "talarico": {
         "positive": 7,
         "negative": 20,
@@ -1823,11 +1826,6 @@
         "negative": 12,
         "total": 15
       },
-      "general": {
-        "positive": 12,
-        "negative": 17,
-        "total": 29
-      },
       "paxton": {
         "positive": 5,
         "negative": 5,
@@ -1836,9 +1834,9 @@
     },
     "2026-W29": {
       "talarico": {
-        "positive": 4,
+        "positive": 3,
         "negative": 4,
-        "total": 8
+        "total": 7
       },
       "paxton": {
         "positive": 0,
