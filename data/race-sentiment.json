@@ -1,9 +1,67 @@
 {
-  "analyzedAt": "2026-07-28T18:18:12.686Z",
-  "newsFetchedAt": "2026-07-28T17:39:44.845Z",
+  "analyzedAt": "2026-07-28T20:02:44.597Z",
+  "newsFetchedAt": "2026-07-28T19:40:30.947Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Poll: Talarico Opens Five-Point Lead over Paxton in Texas Senate Race - breitbart.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVFdYdzUtU2s0UjVJTjR0R3FObU1MQ0RBa1NnTkhHZ1J2MTg2ZjZjVnRkN3Q2LUt5Z3JaN1doSGd0RTkyZU9NS3VubWdQTEs1M1dvSzNjT3A4SV9kdzJLLWxQaW5PNlFmdjl2N2haaDI4YndUMVBRY1pSV3hWQzVMVUw0c1dpWkRwQ0U2RXZVSTBaVEdLVXlBQW41V1pmQUgxbzJMQnUzZHp0Q19PbmprbXhtRm1JZ9IBuwFBVV95cUxPNHduRmVBTTVia3JTZS1RUnZVR0p1YmNFVEtLQ25fWUhGVzVVX19ubHI3ZlhEZmZXVlF0QlJyNU0yTkREQWFZdU5nX2oxeUJScjZzM1JMLW9ualZtZlRhRGRSdkRiYUs0OUppcEplYlF1MFBqbnlwaVFCNzNSUENOekZrTU5mdE9ra241RUg3VmJ6RkUwek44S3BkaURTMXoyRXY0ODZoMlkycEZLZk5MU0RodHRDdXdqVWRB?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 17:08:51 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.991,
+        "negative": 0.009,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W30"
+    },
+    {
+      "title": "Talarico leads Paxton in latest poll on Texas US Senate race - FOX 7 Austin",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObXE0WTZlOGJhY0FiR010eXE3SURQMlliSkljMW5tZFdCdDhmMWVkRzVwb0s3bVVPdzhQQV9vRVB2NlRBVi1HYkxzZmhyUzF4YjIxSk0zMWp0MmNUUVJ0dEo3d2F6eEpJYVptSWdCSWV5MF9FWHFrdTJfcG0xTVA1OC05WFhheXpsWlUwZ1d1STZuQQ?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 17:31:10 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.984,
+        "negative": 0.016,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W30"
+    },
+    {
+      "title": "James Talarico Campaigns for U.S. Senate in Lockhart, Texas - C-SPAN",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc1p0NHNzaWxncy1abGRUY1Fzbi10YVZYdUwyNWY5TURmOU8xM3FDQmdkM1M4NmhfOTlNOElaWDI0bTBudkV3RTRJcXlwSkFtN2VsNl9aeEo2ZWVEUTEzWkNGeUFndDlJbVNOUVV5bWNqY1FnRjZqZUJrLTZwYm9YZ1BfMVVkM3NqTlp3a0lUQ0l3MWNSQWdBdnp4UWxHZF9TajBlX09GVlpIZw?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 04:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.157,
+        "negative": 0.843,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W30"
+    },
     {
       "title": "Talarico Widens Lead Over Paxton In Texas Senate Race - KLVI AM 560",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMkVVRDVWeXdCR09wMVlBWHUwY1RoeFNXNkZfemtlUmtRa1VYZXprUUIxYmJCOWtMTWQycC1RQ0pDMXlhV1hTbldWTjFMTU9xQ2NsbGViVzBPYm0zVlFrMHVtOUZfbzR1LXhROWV2dzd0OFN3ejRSamgzcndkcW9XYTdNdEZaaXJ5c05TcWFuaUo5alFqb0szS002c1Q5dw?oc=5",
@@ -1760,92 +1818,36 @@
       },
       "candidate": "both",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "Ken Paxton has long crusaded against voter fraud. His Senate rival now accuses him of committing it. - The Texas Tribune",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVnJjVjFjVVhBNjZsUzQ2ZVJUUGpCYUZQdDBRU3laSEtWMnJQSl9mVWF1QnVBNWt1dExmelFIcVBOZ3EtYV9rSWozYmw4eWtCSE1qTHhvZmkxd19BVExuNE9JcFVLY3FnenF2dm1RM2ItRGRTd0tOZlRoWFlEVGlsUjBn?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 15:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.015,
-        "negative": 0.985,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W30"
-    },
-    {
-      "title": "Texas Senate Race: Talarico's Focus on Black Community - Dallas Weekly",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRG1oSTBXcFRPLU1KQ09obDNyVlBkS0lIWGFtSGl5bmVzTTZIZzJHVEt3c09oVVgzUEhkdVQwNVRNdFVUVzFaMFl6VEhMRDNDR1B4dDNtbFRnb2FYREVyUTBCUHpvZlBQX2VHdGJDWDk2a1VzcGFOSlJrV2FLMGdMTXR1NA?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 19:35:38 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.981,
-        "negative": 0.019,
-        "label": "positive"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W29"
-    },
-    {
-      "title": "Ken Paxton Now Has to Do the Unthinkable: Try - Texas Monthly",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU2wzZzhqWW1ueDB3WlJOQzdmSlZyVTZDcVV1Q3lKM19ULURkNVNFZzJfNGYxbldqOWhRMnpOcDhOd2xHbFpndExzZDJ1V2tBX0dEeDRjYURJNl9panZ1c1U1a1pIM1RwNUNMRnVEYWZrYmRFLUhHMXFwVkZ2Vkt6UkYyY01Hc1NtTldv?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 11:00:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.968,
-        "negative": 0.032,
-        "label": "positive"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W30"
     }
   ],
   "weekly": {
     "2026-W30": {
       "both": {
-        "positive": 7,
+        "positive": 9,
         "negative": 11,
-        "total": 18
+        "total": 20
+      },
+      "talarico": {
+        "positive": 7,
+        "negative": 20,
+        "total": 29
       },
       "paxton": {
-        "positive": 6,
-        "negative": 5,
-        "total": 12
+        "positive": 5,
+        "negative": 4,
+        "total": 10
       },
       "general": {
         "positive": 13,
         "negative": 19,
         "total": 33
-      },
-      "talarico": {
-        "positive": 7,
-        "negative": 19,
-        "total": 28
       }
     },
     "2026-W29": {
       "talarico": {
-        "positive": 3,
+        "positive": 2,
         "negative": 1,
-        "total": 4
+        "total": 3
       },
       "paxton": {
         "positive": 0,
