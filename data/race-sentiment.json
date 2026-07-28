@@ -1,9 +1,67 @@
 {
-  "analyzedAt": "2026-07-28T00:57:05.791Z",
-  "newsFetchedAt": "2026-07-27T23:35:51.938Z",
+  "analyzedAt": "2026-07-28T04:13:47.725Z",
+  "newsFetchedAt": "2026-07-28T02:56:58.111Z",
   "totalAnalyzed": 100,
   "newThisRun": 3,
   "stories": [
+    {
+      "title": "Years of scandals haven’t stopped Ken Paxton. Can James Talarico change that? - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONXNaa1BHenpxR3I5V1J4T1FSR05zVG40ZWxEUU1zdkZnX2pWbXhtZE9UT3M3U2hoalpiRnlXazVSVjVnajhFNXg2emlxRUlvc2VId0hxTkRjN1BlUm5BZ2dUSW1KQmlXeXJhbmFaNExsbUgyaFZscFFYRTJpNjNOUzRsZHpaOEhiZ1hQZGVjZ1ZPYXpvZ2NsaU1SRkJkbmUxWWt0SUJJc0x6dEp0SkpIUmtKdDBCUTM5TC1aeHlkNW53UdIBygFBVV95cUxNSFZfdnk2czlvT1ZKdDJFaDlud0J0amtBUXJBWEhHaXI3VHdqZ2k5ZzhITHd4QjExV0t5bmVPck9qaWNSWkdWV2M5Njh5ZmFzTEFRTG9BLU5BMjdBTDFrR0VKUFhyMlNYdzRpb3ktUmZoN3VmeXFaTFhCVzlqUkJ6OFZWa01jZDlEVy1teUg3c0Jkd29wSFNDUmFnWFR6djM0NWF6RW1id2kyTmJINVBjc1NfOUtCaWxWcXgxNk9WSl9kazAzOVVfQXFB?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 13:29:50 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.097,
+        "negative": 0.903,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W30"
+    },
+    {
+      "title": "Ken Paxton has survived years of scandals. Can James Talarico change that? - PBS",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOendXTkUxYnlUN3RjbDJ0dnk2NmxJUl8tOUR6b2U2SlExVWx5M3UzdGJ1bnBkSndmVXZUQjlxUFdyeFpEVy1uYWZrandJWlh2NzA2NThyaDZEbHhoMVNfc24yV3VYZTJ6UDRxcUJjUUJfTEttejRJQl9RZkMxZXR6Tl9qQUd1bzg1ZjZHTkJJSTNlOFZEcWZ3TmZVaWU3bWJtOG52Qmlsa2RnQlQ3NkNn0gG0AUFVX3lxTFBJT2N4VFZseGNnX0F6bkhDYUxfSFZMS1FiSk9FWlA4LTdsWGgzTzFGVGt3SEtjbE5TSGxXOE1xT09kMkFwUmpkZnNUVlBuS2h0Z3pNbTBzakg2THRab2hqVi1mb2hla1RWNXRxbjVGMUNTd3dIbHFfal9hSmQ2d2NZV3ItcFFmZHVDd3NEZXRfbHNpTTBNZHdzaTVHeFFNM1FvWlJfVXFWYWhIVERnZVZrUFdiTA?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 17:25:21 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.014,
+        "negative": 0.986,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W30"
+    },
+    {
+      "title": "James Talarico | Texas, Senate Candidate, Jasmine Crockett, Joe Rogan, Stephen Colbert, &amp; Biography - Encyclopedia Britannica",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IREhFWWRfcWpQYk8zNnhxeU9jcWRrVzIxWlJfZXpFU2E2aU5qMDI2RE9rTTh0b1RYZEthRWZySHFrdEtXSThJZ1ZROU5aM3k0bVZTTHRXa1owbW83clF0MA?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 05:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.974,
+        "negative": 0.026,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W30"
+    },
     {
       "title": "Years of scandals haven't stopped Ken Paxton. Can James Talarico change that? - NBC 5 Dallas-Fort Worth",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSXRhSEgtYXh1a0gzV3lGczBPblVDS2FaN2hsVmZLS3RmeDFlMlpUVWx0bGR5a2ZxX3BxanprMzJ5Mk9Bdm9qbDNkWlZiZlVRWGVTSDdCNV9BOGRjQ1hUZ0VDbkpfQVZPVGFvd3hQd1NZcWlYQ1dOQjhrOHlhYmV6OUVEMmtxcGV2MThFY2J3TmFkR3gzbGFUOGdmLVMwWXN6YkNpczV3Q1RWZnJWVldVZlVrUnJCU1dod0FkMlVRRWttbHFIUmxmeFAySE43Zk80Zk9qTWx30gHeAUFVX3lxTE5sUkd4TmhuNDJNeUVoZ3pnU3FMdFkwS0lyLTdLeW95VUNtX3ZFZWF5SUlobGlkZndGb2pyN3V0Y2hjWVdMR0h4TTRGaXRPd2VFR29UT3lON0NOT1FYeFFaRnNvdE44RDdLUFhsaG52Q3VKU1lvZEVLTWhYTVlCZjNpbUxiNV82TTV3Q29yY2J2YlJHbk5pbVk4NFhuNTBYTVpHa3BsUy0xMXhCRnQ3V2JkUTA4empYVHVWZEFIUlRZajdndERyaXB1N2dsQnA2aWlmS3NEbmFIa2E2Wlg1dw?oc=5",
@@ -1753,73 +1811,19 @@
       },
       "candidate": "general",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "Anti-trans AG Ken Paxton flees press conference when asked about his shady dealings - LGBTQ Nation",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc2JhX3BMZHVTVTI5QkIyQjNhZDhwQWRVMmExbDFmNF9QcldQUFNqSGFXYzFKOGJybUwwQTM1X19PeVNoWFBOeUdnRjlIUnVzc2stTk5CV0xBT3J1MjE2X2ZCSWwySHViU2ZxSHhMU0JCMVdrX0dYT1dsd09WbTdZZVFKU2pQQkFmUVhzRlpuZDlYZHh5R19BSjFBWGNDTlFFU0hLV1VRMUJsOGxpWVhSQ0tEQ0pnbkVXUFExeQ?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 18:28:58 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.001,
-        "negative": 0.999,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W29"
-    },
-    {
-      "title": "James Talarico: The Democrats’ preacher - World Socialist Web Site",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEYnlQVjdJX0IwWTdPMGwycDVwY3hOdmtYYmRaR2J0NU1JcHJzeDI3cFhFaHlETUZpOV82Zm83emN5UGNJZ00zeHdqYXN3WHJpUlVjM0lrMXF5d2ktQVpiWm5RZl9rd3J5?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 23:02:49 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.542,
-        "negative": 0.458,
-        "label": "neutral"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W29"
-    },
-    {
-      "title": "Campaign finance data suggests Republicans may not be rallying around U.S. Senate nominee Ken Paxton - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZHItb3ZIT0tDWHpXSjJJdUxuV3hDWkZZZTluUXJZZGJNVGo5RVpMWVE0VVFCN1RuQXNDd0I0V1E2WDd0V2hlUkhLdEFFZE84X1RZNDhVM3ZGUFktTUlmNkdvU01iZWtPOFZaRXEza1RVdjFyT2d1UERFbXhiVHZnTmlwX2JYN1VVLWVOVnRFSVhvbnJsLS1DUS1DOGJsVjBMcnpiNWxHWEdXaEV1a0ZtNUt2bWE4S3dIV2JJbjZaVEhEanhyTFR1YWRhSDlLX3pTd19LV3NjdDRkRXM10gHkAUFVX3lxTFBRekg3bVBzSzZvQmF1Si1uV3FrQ05fYUs5cllQLWFEX1dwdzdEcEFrR1dncDlaTFpYZDlCQ3lKOUNJVVlINjYzR2xYNlUzNHhZRE4xcmZGMnVqN1ctNG9yejFXSVRkRFM4S3lNdmJIZGY5QnpLT2paTUJicVpaRGIxM3V5bUlqeFVfTlJnVERDUTNOVmx6aHU2ZElZYWp0ZHZfNzJKS3ZMY2VlTWpCbkJJMU1uY2kyWmt3UlpBN2ViVmU0VXlBY19Xc3AzQkh6aEhBNUtLaS1JRnhmUzhvT1VMVl9NTg?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 13:39:31 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
     "2026-W30": {
       "both": {
         "positive": 3,
-        "negative": 10,
-        "total": 13
+        "negative": 12,
+        "total": 15
       },
       "talarico": {
-        "positive": 6,
+        "positive": 7,
         "negative": 19,
-        "total": 27
+        "total": 28
       },
       "general": {
         "positive": 12,
@@ -1836,12 +1840,12 @@
       "talarico": {
         "positive": 4,
         "negative": 4,
-        "total": 9
+        "total": 8
       },
       "paxton": {
         "positive": 0,
-        "negative": 5,
-        "total": 5
+        "negative": 3,
+        "total": 3
       },
       "both": {
         "positive": 0,
