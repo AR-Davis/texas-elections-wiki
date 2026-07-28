@@ -1,9 +1,26 @@
 {
-  "analyzedAt": "2026-07-28T04:13:47.725Z",
-  "newsFetchedAt": "2026-07-28T02:56:58.111Z",
+  "analyzedAt": "2026-07-28T07:16:41.640Z",
+  "newsFetchedAt": "2026-07-28T05:54:24.788Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Talarico is trying to win back Hispanics along the Texas border who swung toward the GOP - AP News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYXUxWmZQaThLRmFDbm0zYlhqTWQtOTVRWDd6RlRLNjRjXzFEbldacmJRWTMtY0hwckF1ajdmZUl3QktjZlVvaUlUWWxKRXBldFYtRzB5YmU1ZkZHRldiVV9JZjdhUW56Rm1RSExUWF9vTUtIbmt4a1RLc3BodlNldTRiaFhXQmVGbjg2Q1liOUVsV1h6cjNUeFlxN3M3ZldDTndpVDdjdHdDVFdUd0tyUg?oc=5",
+      "pubDate": "Sat, 25 Jul 2026 14:09:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "talarico"
+      ],
+      "sentiment": {
+        "positive": 0.256,
+        "negative": 0.744,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W30"
+    },
     {
       "title": "Years of scandals haven’t stopped Ken Paxton. Can James Talarico change that? - Houston Public Media",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONXNaa1BHenpxR3I5V1J4T1FSR05zVG40ZWxEUU1zdkZnX2pWbXhtZE9UT3M3U2hoalpiRnlXazVSVjVnajhFNXg2emlxRUlvc2VId0hxTkRjN1BlUm5BZ2dUSW1KQmlXeXJhbmFaNExsbUgyaFZscFFYRTJpNjNOUzRsZHpaOEhiZ1hQZGVjZ1ZPYXpvZ2NsaU1SRkJkbmUxWWt0SUJJc0x6dEp0SkpIUmtKdDBCUTM5TC1aeHlkNW53UdIBygFBVV95cUxNSFZfdnk2czlvT1ZKdDJFaDlud0J0amtBUXJBWEhHaXI3VHdqZ2k5ZzhITHd4QjExV0t5bmVPck9qaWNSWkdWV2M5Njh5ZmFzTEFRTG9BLU5BMjdBTDFrR0VKUFhyMlNYdzRpb3ktUmZoN3VmeXFaTFhCVzlqUkJ6OFZWa01jZDlEVy1teUg3c0Jkd29wSFNDUmFnWFR6djM0NWF6RW1id2kyTmJINVBjc1NfOUtCaWxWcXgxNk9WSl9kazAzOVVfQXFB?oc=5",
@@ -1792,38 +1809,19 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "Texas Senate race tightens as hopefuls target crucial Latino vote - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRFVkTXFDT3JBYjJ2U09VWjBHNGk0LWhkRWdGdDczVDNFbEpPNGJ3WWdvQVpPbjUwalR0cHlKNGQxMEhHUHd0ZlYyZmk0REYyZFhPQ0Iwb3g5TTlDczRQTW5XTFFaWGt0S3RVUTBHOGZKaXBMTWJ3ZmtsUWwyTHNxLWNGTlJxLTk4ZzFrRUJ6dHpMaUFpem9jOUVPVFNHZE9xLXJCeA?oc=5",
-      "pubDate": "Tue, 21 Jul 2026 01:05:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.005,
-        "negative": 0.995,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
     "2026-W30": {
+      "talarico": {
+        "positive": 7,
+        "negative": 20,
+        "total": 29
+      },
       "both": {
         "positive": 3,
         "negative": 12,
         "total": 15
-      },
-      "talarico": {
-        "positive": 7,
-        "negative": 19,
-        "total": 28
       },
       "general": {
         "positive": 12,
@@ -1851,11 +1849,6 @@
         "positive": 0,
         "negative": 5,
         "total": 5
-      },
-      "general": {
-        "positive": 0,
-        "negative": 1,
-        "total": 1
       }
     }
   }
