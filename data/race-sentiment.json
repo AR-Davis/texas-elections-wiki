@@ -1,9 +1,28 @@
 {
-  "analyzedAt": "2026-07-29T16:24:59.927Z",
-  "newsFetchedAt": "2026-07-29T14:52:48.023Z",
+  "analyzedAt": "2026-07-29T17:49:45.402Z",
+  "newsFetchedAt": "2026-07-29T16:26:02.716Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Why Republicans Aren’t Funding the Texas Senate Race Yet - nytimes.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbi1RYXZkeDB4VldVMy04TFRqbVR2b0dTU1loeF9pd19xNFBxUl9WRHhQdVNKM3lHbkZwTDhBU0pwcFVWNHUyRFBjU0F0NDRWVTZJU3N6aTdBVzl1UHpsZDhRVjdwZXkwQnRGU0lQVXBFTWxUVkN1T3d5ZjdVcHFYajZjOVppT1RzaE5QMg?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 16:20:01 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.008,
+        "negative": 0.992,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W30"
+    },
     {
       "title": "Democrat James Talarico Leads Ken Paxton in New Texas Senate Poll - Azat TV",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LRUNyZ2hzejRjXzFuaDB6a193MjBYcTRXa3BhZG5DWkNwbGRwSi1Cc0FSSU12dzFHWmR0RlloYWpIeVZrT1RaTVp6MVVwVG9mZ0hPNTZJRDF6a21ZMExod2VCRTE3NThzdFNXVmwyU211QQ?oc=5",
@@ -1820,37 +1839,19 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W30"
-    },
-    {
-      "title": "Paxton turns to D.C. Republicans to close Senate fundraising gap with Talarico - Longview News-Journal",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc1FFV0xzTnZ5QWhseGtrTUFoVzZyekNtOVpfOUVTSjFFMzZhNzR2NjBxMVUtQkdhVm5YdlZrYy00Z25aRzh4MWd0XzBrUUJLRGtBUVFneTN0VHk3akpVX3JLSlZoYXZ0STFnY1JmLW12WFlpQW90WmZaTTB4dkk0ZjlJRmFqV25sZHdkSWMzeXFzcFE5dHRjaG91anIwb1dTMTlud0Vxa0NrSWRNalFkSUpVQkQ?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 12:39:51 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 10,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.067,
-        "negative": 0.933,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W30"
     }
   ],
   "weekly": {
     "2026-W30": {
-      "both": {
-        "positive": 19,
-        "negative": 13,
-        "total": 32
-      },
       "general": {
         "positive": 13,
-        "negative": 18,
-        "total": 32
+        "negative": 19,
+        "total": 33
+      },
+      "both": {
+        "positive": 19,
+        "negative": 12,
+        "total": 31
       },
       "talarico": {
         "positive": 7,
