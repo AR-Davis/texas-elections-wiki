@@ -1,9 +1,29 @@
 {
-  "analyzedAt": "2026-07-29T20:31:21.293Z",
-  "newsFetchedAt": "2026-07-29T19:25:34.118Z",
+  "analyzedAt": "2026-07-29T21:28:27.453Z",
+  "newsFetchedAt": "2026-07-29T20:32:11.470Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "New Poll Shows A Dramatic Shift in Latino Voters in Texas Between Ken Paxton and James Talarico - Latin Times",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUVRmNWhqRTVjTU1WWFI1WXktZHp0WHdkSGt2X2MzSTZwaHpBYkhXcEFDelNTOGNUVzd4YldXeXNQc1BvWDFLT2ZUY0xXamhRZGdUX2s4c3BfdWxjMThZbVQ2aDNxaW5naU1QNTRJOGdkbU83V3FhUVg1cEY1S3hhekYxdjRXU2lxamhLNlNsa1Fja3BkUnZlQ2RrTC0wNHRncHRtc2sxM1diMFhaMk1uZERaZ2hYVHNO?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 12:30:24 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.986,
+        "negative": 0.014,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W30"
+    },
     {
       "title": "Talarico Widens Lead Over Paxton In Texas Senate Race - iHeart",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS3hVQjU3VEtOZ3hYTWtDNnp0cXdwcEgyUFVqUWFQMDFSNzZtX0k0SVVVcWZiZEpsT1JWMUp0bWRTTEdYNW02UjFVUl9oNnFNSzRSdnRYajY3d3Qyb0dESlp4Y0Fkc3N3MmZBM3RhR3pnYlVYZUJwVk81M2NVZVM0R3AzeVR5QzltdkFEaVBJQ2FvOWkyMjl1Q1Q3eG9qQQ?oc=5",
@@ -1827,31 +1847,14 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W30"
-    },
-    {
-      "title": "This GOP sheriff likes Talarico’s border-security plan. Do Hispanic voters? - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdXFYOHFNbEJleDZJNEl4RXZHekcxVmsyUFRCX21WUmxEVVBmbTQ1aTBQek1qQzZId1NyeXh4VXQ4N2V6MkhGSWZvRHZhektKZjN2MHNSTy1heWVSR3dSV1hYYTcxY1VGVEFsSkk0VFZLa0tabkUzWmpkdWlfTlE1UmpzSjMteWlzN0dERF85QXk2VVRHU1lhRWJ1TXFISnNrME5mN0tCTjM2S2ZPY1FhOXlJTWVoZEVReGxIVg?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 18:30:23 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "talarico"
-      ],
-      "sentiment": {
-        "positive": 0.989,
-        "negative": 0.011,
-        "label": "positive"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W29"
     }
   ],
   "weekly": {
     "2026-W30": {
       "both": {
-        "positive": 21,
+        "positive": 22,
         "negative": 12,
-        "total": 33
+        "total": 34
       },
       "general": {
         "positive": 13,
@@ -1867,13 +1870,6 @@
         "positive": 4,
         "negative": 2,
         "total": 7
-      }
-    },
-    "2026-W29": {
-      "talarico": {
-        "positive": 1,
-        "negative": 0,
-        "total": 1
       }
     }
   }
