@@ -1,9 +1,49 @@
 {
-  "analyzedAt": "2026-07-29T19:23:56.120Z",
-  "newsFetchedAt": "2026-07-29T16:26:02.716Z",
+  "analyzedAt": "2026-07-29T20:31:21.293Z",
+  "newsFetchedAt": "2026-07-29T19:25:34.118Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Talarico Widens Lead Over Paxton In Texas Senate Race - iHeart",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS3hVQjU3VEtOZ3hYTWtDNnp0cXdwcEgyUFVqUWFQMDFSNzZtX0k0SVVVcWZiZEpsT1JWMUp0bWRTTEdYNW02UjFVUl9oNnFNSzRSdnRYajY3d3Qyb0dESlp4Y0Fkc3N3MmZBM3RhR3pnYlVYZUJwVk81M2NVZVM0R3AzeVR5QzltdkFEaVBJQ2FvOWkyMjl1Q1Q3eG9qQQ?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 16:25:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.99,
+        "negative": 0.01,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W30"
+    },
+    {
+      "title": "Talarico sets Texas Senate debate dates, Paxton pushes for fair terms - El Paso Times",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORy1GVS1INGNfSFMyMjRoLXM0cThKeUdXM3E4Unc2VDJ1NlhwZUJYT0Nac2FWXzZsUjBFN2EzM1Bsa1Z5UmdiUnlDRWF0U0dLekdtM2oyQ0tmNzhTRTlDR1c1LVVRX01wWTBHa0VCYTdCQ2NlZFhkMGtHaEU4Y1F3NnQxMlIwYUFHLXh3OEhzSnhRcnVpN2hlT2loSWZ2MnhxQ09GNnpPVUp4SG1rT2lZTTBqZW1SNGJ2SVpBbUhKZzNwSjFTMmc3cUJBVDVheXdyZlJuU25kQm9jUWI3SVpHMXlB?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 18:29:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate"
+      ],
+      "sentiment": {
+        "positive": 0.685,
+        "negative": 0.315,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W30"
+    },
     {
       "title": "Why Republicans Aren’t Funding the Texas Senate Race Yet - nytimes.com",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbi1RYXZkeDB4VldVMy04TFRqbVR2b0dTU1loeF9pd19xNFBxUl9WRHhQdVNKM3lHbkZwTDhBU0pwcFVWNHUyRFBjU0F0NDRWVTZJU3N6aTdBVzl1UHpsZDhRVjdwZXkwQnRGU0lQVXBFTWxUVkN1T3d5ZjdVcHFYajZjOVppT1RzaE5QMg?oc=5",
@@ -1804,54 +1844,19 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W29"
-    },
-    {
-      "title": "EAST TEXAS POLITICS: About 100 days out — Smith County’s Republican and Democratic chairs preview the midterms - KLTV.com",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVWFFUGxZUzBkZjFSRjhLejdjby1ReGRqMldWOGlyZksyLThQTHd4U1dhSy1oMDE3Rkp3REFCSURydVVLVHd3YlNKVkNmVEFSSTlLZUtST1Z1NjlGbTYtUVBjdEZ2Qm9VUzlydVZ0UUhUOVBOdFVka19JX1pqMktudmh0RHAyazBoV3l3NDBSUG1wNUxpVVljMWZ6VmtxRVBNQWRiSFMxQzA1N3Y1MjJqNWxQUkxPWlM1dlBqbUVWZzNqSE5vWDNLVU9Fa9IB3wFBVV95cUxPYmJ2dlBVMGdMU0R3b0V2RnU1cS1PclVlZkxXa1JmS1Rxa0xDQklReUdCaTJaSldMZE9qYnJSTEJzcUlmRXJRMm81eGg3ZVAwcDFZd2wxdXRwdEtBbkxRa3lQcmxJdmVibmxGc2UtYXY5TUZUbE9uTUtKVGZDMTVROXc4ajJIRlJGZnRGRmJ1dE00V0JLQ1NGdzRzM013ZVJBZVp2bHNfcUVyYnY5czNlR05rWjNtMEFoX0FWeFBYUTdVUkd0OTFHcUtNdU1XZXV4bTRqa2NIdFFMS1VDeDU4?oc=5",
-      "pubDate": "Sat, 25 Jul 2026 00:36:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "sentiment": {
-        "positive": 0.012,
-        "negative": 0.988,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W30"
-    },
-    {
-      "title": "Ken Paxton Avoids Questions on Voting and Property Allegations at Texas Press Conference - sekbernews.id",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XXzRXQ200LVotdDhGaDJEd010LW9jc2xmR0VfMm9RSnhLakowNFR6SlBraUJVMEJzdkpaSm45RDE5bTc2RkczNmpqZnh1aHNKZDM0UFNOOFQ2amhicGo4Z2xUcFg3NDBSbWlvVE1law?oc=5",
-      "pubDate": "Sat, 25 Jul 2026 12:39:58 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.089,
-        "negative": 0.911,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W30"
     }
   ],
   "weekly": {
     "2026-W30": {
-      "general": {
-        "positive": 13,
-        "negative": 19,
+      "both": {
+        "positive": 21,
+        "negative": 12,
         "total": 33
       },
-      "both": {
-        "positive": 19,
-        "negative": 12,
-        "total": 31
+      "general": {
+        "positive": 13,
+        "negative": 18,
+        "total": 32
       },
       "talarico": {
         "positive": 7,
@@ -1860,8 +1865,8 @@
       },
       "paxton": {
         "positive": 4,
-        "negative": 3,
-        "total": 8
+        "negative": 2,
+        "total": 7
       }
     },
     "2026-W29": {
