@@ -1,9 +1,47 @@
 {
-  "analyzedAt": "2026-07-29T10:10:30.446Z",
-  "newsFetchedAt": "2026-07-29T09:41:29.787Z",
+  "analyzedAt": "2026-07-29T12:30:47.741Z",
+  "newsFetchedAt": "2026-07-29T12:05:23.829Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Texas Senate race polls 2026: latest predictions for record-breaking election - The Times",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeWJPaUZGZS1EMUE3WUR6elNRekJLdkt5ZUVPcE1fY21SdWdCeUFYMGdtSGtUUUVFZ2tDUXZVNzRmMlNBanktUUdpYTFtVllYS3dhTF9oLS1zckdzdHVpM0NHWWpkN0VhTV81VTFzVFloejg1aEZMRXVSLVZyajFrTlN1cFFzT3hXck55aTc4R2praDJ3SW1JOW41bGdLWGh5VUlUS2tsSnA0Zw?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 11:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.968,
+        "negative": 0.032,
+        "label": "positive"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W30"
+    },
+    {
+      "title": "James Talarico courts Black Texans ahead of Senate race - The Houston Defender",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQjV6b2tuajlRb1l4U2dGelduME9PYklQOFNvS2V0VlNteVduMGkteWI1WVgzQlA2MHZiSElOOE1laGlYUndSNGhRQV82Ny16X1ZtZHF3d0FiQ3FHRjQ4VmdqMjdUUEFZNVY4M3hwOG41SWpYZFIwTTVqX0hmbnF4dGZMTHdfRWVlLWQ0VG4zTHFDb0RpeXByX1gwelJUVVk?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 05:00:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.953,
+        "negative": 0.047,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W30"
+    },
     {
       "title": "Talarico leads Paxton by 5 points in new poll of Texas’ U.S. Senate race - Houston Public Media",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdEUyLVJnZWNpb3VURktCYzZqaEpndHl1UVgtQ1owdDZPX2VXcXpKMVRWZzZJSTFDYTV6dVNWbThpTlVjR0d5U0pTN2lubkxTY2dGS0daSnBHUXNfdnd0UC1ZNldCWXVfUUxOem4xOE5oLTdHcjRtdzdLYmljVG1mUXdENERCSUlOa1ltbG0wd193MUozLWNWSzQxVThxOGg1ZjRTVUx6ckxuRXNkRThTam92WFY5SU03bTN1WHNRaXEzQlJyYkU2ZTlFVnV0RUNQSUV3ZjlMTWllRnhsNldqUjQ3bzLSAeQBQVVfeXFMTnRFMi1SZ2VjaW91VEZLQmM2amhKZ3R5dVFYLUNaMHQ2T19lV3F6SjFUVmc2SUkxQ2E1enVTVm04aU5VY0dHeVNKUzdpbm5MU2NnRktHWkpwR1FzX3Z3dFAtWTZXQll1X1FMTnpuMThOaC03R3I0bXc3S2JpY1RtZlF3RDREQklJTmtZbWxtMHdfdzFKMy1jVks0MVU4cThoNWY0U1VMenJMbkVzZEU4U2pvdlhWOUlNN20zdVhzUWlxM0JScmJFNmU5RVZ1dEVDUElFd2Y5TE1pZUZ4bDZXalI0N28y?oc=5",
@@ -1797,58 +1835,24 @@
       },
       "candidate": "general",
       "weekKey": "2026-W30"
-    },
-    {
-      "title": "Talarico is trying to win back Hispanics along the Texas border who swung toward the GOP - Temple Daily Telegram",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWUctTFJ1NHI4QmdQTFA4dHBIbmZuWlZ0ZVYzZTVMTjVNRHlFUTdhTVBobFZ4R2JaZlVud3lRU21xWHBjT0xtZ3JZQWN3eXhLUk9KV3hjajNYSTlEaTVKRFd2Qy1HTmJ3X1pQNDdZZGx0SzNVZDZ3eURMY1o1Y1FTc3ZWOFQ4Y2RLTlJ5VlEyMDZGa2NOb3c?oc=5",
-      "pubDate": "Sat, 25 Jul 2026 12:23:31 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "talarico"
-      ],
-      "sentiment": {
-        "positive": 0.077,
-        "negative": 0.923,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W30"
-    },
-    {
-      "title": "Dem’s stunning ideal standard for immigration detention conditions resurfaces amid Texas senate bid - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVllPZ2o1TFpEMkJqSG9zSHNWNFlhY3ZTX004NFBuOEVpQUE0QS05Rm1ZYzAzOVNuM0Jxa0N6c201UXNNNFdsX1ZQa0tlOGVtWldRSDhnT3VqR2VsejlsNVVmSVptRUZtTFEwaXNPcFg2dURFNDMzdnBqVjJFMi1PVWNXNm9ncHVhREtrUGhGVzZ6dWNieHhHWEZsNXoxV2NiM0tBclZxckZnbGN5bmRnMmIxRGRxNmxwOGNBMUF5Z9IBxAFBVV95cUxOR3hvR1c2WGlfWXVWNnRUQkYxMlZXLWVaMHRZdXFrM1RXUkhQaXpEUUlDSElsZ1NnZ2JVWm9KWGRGSmVzOVNhQlp5WloyR0ZEQ2Nwc2VhTjJuaWg4b0VDRGRSUDJPSzlIRkRxa1pyQWQ0dERadFpGR1hpVk1KQU93QjBSaTFtaUU2d0g3Mkdfd0hSYUk1dExPMGJyQVZkeGhhZU5Kd0VFbXV3TUpUeW1tcUFpRWVkZE5MVEJNWEdlLURIOUsx?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 00:00:57 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "texas senate"
-      ],
-      "sentiment": {
-        "positive": 0.995,
-        "negative": 0.005,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W30"
     }
   ],
   "weekly": {
     "2026-W30": {
-      "both": {
-        "positive": 18,
-        "negative": 13,
-        "total": 31
-      },
-      "talarico": {
-        "positive": 6,
-        "negative": 18,
-        "total": 27
-      },
       "general": {
         "positive": 13,
         "negative": 19,
         "total": 33
+      },
+      "talarico": {
+        "positive": 7,
+        "negative": 17,
+        "total": 27
+      },
+      "both": {
+        "positive": 18,
+        "negative": 13,
+        "total": 31
       },
       "paxton": {
         "positive": 4,
