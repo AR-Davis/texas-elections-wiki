@@ -1,9 +1,30 @@
 {
-  "analyzedAt": "2026-07-29T14:52:51.295Z",
-  "newsFetchedAt": "2026-07-29T12:05:23.829Z",
+  "analyzedAt": "2026-07-29T16:24:59.927Z",
+  "newsFetchedAt": "2026-07-29T14:52:48.023Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Democrat James Talarico Leads Ken Paxton in New Texas Senate Poll - Azat TV",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LRUNyZ2hzejRjXzFuaDB6a193MjBYcTRXa3BhZG5DWkNwbGRwSi1Cc0FSSU12dzFHWmR0RlloYWpIeVZrT1RaTVp6MVVwVG9mZ0hPNTZJRDF6a21ZMExod2VCRTE3NThzdFNXVmwyU211QQ?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 06:15:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 28,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "texas senate"
+      ],
+      "sentiment": {
+        "positive": 0.645,
+        "negative": 0.355,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W30"
+    },
     {
       "title": "Texas Senate race polls 2026: latest predictions for record-breaking election - The Times",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeWJPaUZGZS1EMUE3WUR6elNRekJLdkt5ZUVPcE1fY21SdWdCeUFYMGdtSGtUUUVFZ2tDUXZVNzRmMlNBanktUUdpYTFtVllYS3dhTF9oLS1zckdzdHVpM0NHWWpkN0VhTV81VTFzVFloejg1aEZMRXVSLVZyajFrTlN1cFFzT3hXck55aTc4R2praDJ3SW1JOW41bGdLWGh5VUlUS2tsSnA0Zw?oc=5",
@@ -1817,42 +1838,24 @@
       },
       "candidate": "both",
       "weekKey": "2026-W30"
-    },
-    {
-      "title": "Texas Democrats hope to seize on AI data center backlash that's dividing rural Republicans - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWFdnYUlGY25JTDBEZ2dvdndOOG1nVjctQ1RUdElrZ015dG9XOUVlVm1ZcGx5NmFtbnZLRE5SaEFKenRXWl9rdFRWbzg4OTZmbTN1UHpPNmlDUExVYjFKdi1ZUFBqMTZwUVpHN2t2dEpMclBiOXIyNnRGVlg3UmFlM3BIUXZHZw?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 14:16:28 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 7,
-      "matchedKeywords": [
-        "texas democrat",
-        "texas democrats"
-      ],
-      "sentiment": {
-        "positive": 0.013,
-        "negative": 0.987,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W30"
     }
   ],
   "weekly": {
     "2026-W30": {
+      "both": {
+        "positive": 19,
+        "negative": 13,
+        "total": 32
+      },
       "general": {
         "positive": 13,
-        "negative": 19,
-        "total": 33
+        "negative": 18,
+        "total": 32
       },
       "talarico": {
         "positive": 7,
         "negative": 17,
         "total": 27
-      },
-      "both": {
-        "positive": 18,
-        "negative": 13,
-        "total": 31
       },
       "paxton": {
         "positive": 4,
