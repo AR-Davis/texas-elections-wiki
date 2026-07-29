@@ -1,9 +1,67 @@
 {
-  "analyzedAt": "2026-07-29T21:28:27.453Z",
-  "newsFetchedAt": "2026-07-29T20:32:11.470Z",
+  "analyzedAt": "2026-07-29T22:29:53.390Z",
+  "newsFetchedAt": "2026-07-29T22:05:05.342Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "James Talarico has fundraised more from Texans this year than Ken Paxton, leading by over $4 million - Dallas News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWmtlMkRueHBWLXQzTGlZUmtBeEozWUt0Z3MyWFoyanNiUHRleHFMd1ZMMkoxRmJEZUU1RXNOSHZDMnJITThSS1c1cDJvTEhLaGZJd3lyWG1jeUpyUW1PZUE2dWpDcUYyYkR3RXo1VXIxNktYc0ZtaHNQcFdtYXlrYklWUlo1YjcxSHc0NGU5dmRDSFJxWHc1M2JCdGtJeUFFT3dnWnRDRjJxS3l3TGtz?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 20:09:51 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.986,
+        "negative": 0.014,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W30"
+    },
+    {
+      "title": "Texas Senate nominee James Talarico on viral defense of Jasmine Crockett: ‘I felt offended’ - TheGrio",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU3VvcVFtQVoxclJZaWt6WXlGYjlhS0xuVzhlZHJwNFQyWWZqS3FpR2JNSXhIU19XeWxPX1pmVlc2dFlGMFIxTVI1VFNfd2ZBNElMM0JSYzZkdU51eHI0SWZfQTFncE5DcnpiaUZVZlNTNUtjaFduVGdBenp0cFh3QjYxcWpoUTZwZkxnNFNWZ2NXZURUbzY0cFpYQ18?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 20:08:57 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate"
+      ],
+      "sentiment": {
+        "positive": 0.005,
+        "negative": 0.995,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W30"
+    },
+    {
+      "title": "Talarico sets Texas Senate debate dates, Paxton pushes for fair terms - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPekVmWHpKc2ZsOWYyN2tQQ3pieGh0dnFwLUsxaG1BQy1oUHFib0w1SXV1SzQyaWxCeVlzTnk2cy1ReTFDR3FkbHRpc20xcG9BR0EtSW9DTjNrVUtHekQxNWpEZFFENldRcF9xMWR6d3dJUXdJdkdaSXduX0JhRW13VkpLVTVMOFhZWF82RnVlRG1YcDNsSjhjRDJaM1pkRDVEOEZMUE1XTVNvR1RqdThySXhkSWJZek1DV3ZCcGdzcmZHMDBjUWYxc3FfYUtPNmtUSzItT2lKck55VTllNUE?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 19:05:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate"
+      ],
+      "sentiment": {
+        "positive": 0.819,
+        "negative": 0.181,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W30"
+    },
     {
       "title": "New Poll Shows A Dramatic Shift in Latino Voters in Texas Between Ken Paxton and James Talarico - Latin Times",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUVRmNWhqRTVjTU1WWFI1WXktZHp0WHdkSGt2X2MzSTZwaHpBYkhXcEFDelNTOGNUVzd4YldXeXNQc1BvWDFLT2ZUY0xXamhRZGdUX2s4c3BfdWxjMThZbVQ2aDNxaW5naU1QNTRJOGdkbU83V3FhUVg1cEY1S3hhekYxdjRXU2lxamhLNlNsa1Fja3BkUnZlQ2RrTC0wNHRncHRtc2sxM1diMFhaMk1uZERaZ2hYVHNO?oc=5",
@@ -1794,77 +1852,24 @@
       },
       "candidate": "general",
       "weekKey": "2026-W30"
-    },
-    {
-      "title": "Polling shows James Talarico holds an advantage among Black voters in Senate race, but worries about voter turnout remains - KXAN Austin",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaVhxeTRpTUpnYTQ4X3A0MkVHNktXZ3lTbkNKNWJVQ1VxUE8tM2lyTDZja1pTTWhNbG1uX1UtX2hpb3BOd09QYWU3NG1ESElpYU5oYnpnbGhfVENWQ2lpWFB2bVRyNURleVo3WkljbmYzc1dQMEhtWndzZ3FaeGJ2TlF0VmE2QkJMbFhHX0w1dzdxT0xncENWUWl5LUlZYTRCY0FFeF9QV0dVMzBEWmMteHo1bEpiT1JES05aTTNMc19xa2tFRlg3alhiR2tyazJCV091bVVwdVNxTVhxMlZSSlpNOWtCM1MtMFh4M1ZYWloteXBBOF9heHVIUdIB-wFBVV95cUxPaVhxeTRpTUpnYTQ4X3A0MkVHNktXZ3lTbkNKNWJVQ1VxUE8tM2lyTDZja1pTTWhNbG1uX1UtX2hpb3BOd09QYWU3NG1ESElpYU5oYnpnbGhfVENWQ2lpWFB2bVRyNURleVo3WkljbmYzc1dQMEhtWndzZ3FaeGJ2TlF0VmE2QkJMbFhHX0w1dzdxT0xncENWUWl5LUlZYTRCY0FFeF9QV0dVMzBEWmMteHo1bEpiT1JES05aTTNMc19xa2tFRlg3alhiR2tyazJCV091bVVwdVNxTVhxMlZSSlpNOWtCM1MtMFh4M1ZYWloteXBBOF9heHVIUQ?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 19:10:56 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.02,
-        "negative": 0.98,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W30"
-    },
-    {
-      "title": "Talarico is trying to win back Hispanics along the Texas border who swung toward the GOP - The Killeen Daily Herald",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQlZBWlRrUVlCQXRQRWRTYndJRGw2THNSQTVwLVBXaktnd2xtMWFSak81ZGY0RE5IVzlTZUhJRkxhMWRiUTNieE81WTdwYzVKeDI5dWZOYnhmcWpMZlNtcWp4VzlJS1RWMFhCVV9lLUpSU3A2QXJmc1pfNWw4NDBkZ2ZkMmZGblZtbzUzMnUxVnNvN2VuTml6cVQtNkJwci1HUjdKUC1BbWpRWWUzQVFWV1pZa1pubTJlM09PSWNtWU52QVJ1V0tzZmRwLXVlTE1NbmtQdXpSMzFWM01ER0FYTVVRRnh3amQ0OTRBUjJZcGE2YTczV1JfcEV3?oc=5",
-      "pubDate": "Sat, 25 Jul 2026 14:09:38 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "talarico"
-      ],
-      "sentiment": {
-        "positive": 0.44,
-        "negative": 0.56,
-        "label": "neutral"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W30"
-    },
-    {
-      "title": "Talarico Is Trying to Win Back Hispanics Along the Texas Border Who Swung Toward the GOP - U.S. News &amp; World Report",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYXpaRXVBVTJaRGMtMmt0RE40cUJCbEZDT1RDLW5xMlpiaWtaSFktRVFvMGd2U0RobHRQNzhmeE55S09SWkhfNG1abDhOVHU2cU5QN2E5TEg1NlhOcXpsVEg5UmF2OV9lVnlGb0l1ZTB5eU12THptd1BObWlIaE8xZ3FIeFp5LXBaRDNjclRzUml0QVFYLUt3bjVmalI4bXFIYXBCd1FfbjI0OUIyVGJhRF9kUFlvOWdBTFJfM2tua0ZRMzBsSjdZdnZhVnl1MlpyYVZMS2pUYmRLTjFjNEkweVl5bnkwY2JrYmc?oc=5",
-      "pubDate": "Sat, 25 Jul 2026 12:23:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "talarico"
-      ],
-      "sentiment": {
-        "positive": 0.345,
-        "negative": 0.655,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W30"
     }
   ],
   "weekly": {
     "2026-W30": {
       "both": {
-        "positive": 22,
+        "positive": 24,
         "negative": 12,
-        "total": 34
+        "total": 36
+      },
+      "talarico": {
+        "positive": 7,
+        "negative": 16,
+        "total": 25
       },
       "general": {
         "positive": 13,
         "negative": 18,
         "total": 32
-      },
-      "talarico": {
-        "positive": 7,
-        "negative": 17,
-        "total": 27
       },
       "paxton": {
         "positive": 4,
