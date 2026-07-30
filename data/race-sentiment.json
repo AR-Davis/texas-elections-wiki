@@ -1,9 +1,50 @@
 {
-  "analyzedAt": "2026-07-30T21:15:42.763Z",
-  "newsFetchedAt": "2026-07-30T17:41:15.120Z",
+  "analyzedAt": "2026-07-30T22:37:19.818Z",
+  "newsFetchedAt": "2026-07-30T21:16:40.263Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Talarico Widens Lead Over Paxton In Texas Senate Race - NewsRadio 600 WMT",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbHJYaDRoX3lhS21mbExKRWZCWUppamRSM0lTb0ZUdUJ1YnpjOF9ZM1dnU2pYSlVVRkczdHN6Z21kbW1QOHFBQmZpaEdwRXp6TDB2ZXUtV0FCaTQwajg3MG5BZ21xcVozbWwtMUtrZUdVcWtwYktPMzh4OTA5U0VQTVZuNHhKS01qWXhxVjF1WFpTcEJkUzg1eC1oRktyTk1ybXVsb3BINA?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 16:25:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.968,
+        "negative": 0.032,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W30"
+    },
+    {
+      "title": "Years of scandals haven’t stopped Ken Paxton. Can James Talarico change that? - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ3hiSzZvZnN0ZzFfenpxVjZ2OHV3UTJhWUNBMmttVHJ4RzM4SU00akZwbk9qMFlVTVFPM3VGY1o3TVJsaUI0MlFoMWVpMDF0eHZfTFpPekZPb2d4ZXFLendDcWdIZmZYMG9LWEVrdmlKSURBeEgzdENjeDlZcUxBUGFmeXRVZ2Z0WmZRSkNpcThSal92MjhlTktmOXJJR0hSV09zSUdJaGpqUQ?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 10:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.688,
+        "negative": 0.312,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W30"
+    },
     {
       "title": "Talarico leads Paxton in Senate race by 5 points in new poll - Yourbasin",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObUNHX3MxVWZVb08xNzFjVko0TFpQdFJrTkhLdUc1VGlLNmtHNWxTU3h3cFcwUDdPQlVuWUVQR2J0UnRqcldPVWQ2UmpBcVFqT2NxczRRbnVYZTY5ajc2U0V0eGhtX2FGam1FZDlEVFpCSnhCNG5aa2VSQkVkMVpYNGdRcE41TGh0YldhdG55ZXh0T001MTdEaVUwZXJzbWZwdWh0NVFEZ055SVVTUFR1T9IBsAFBVV95cUxObUNHX3MxVWZVb08xNzFjVko0TFpQdFJrTkhLdUc1VGlLNmtHNWxTU3h3cFcwUDdPQlVuWUVQR2J0UnRqcldPVWQ2UmpBcVFqT2NxczRRbnVYZTY5ajc2U0V0eGhtX2FGam1FZDlEVFpCSnhCNG5aa2VSQkVkMVpYNGdRcE41TGh0YldhdG55ZXh0T001MTdEaVUwZXJzbWZwdWh0NVFEZ055SVVTUFR1Tw?oc=5",
@@ -1833,48 +1874,14 @@
       },
       "candidate": "general",
       "weekKey": "2026-W30"
-    },
-    {
-      "title": "Inside Texas Politics | Councilmember Blackmon expects convention center naming rights to bring in millions - WFAA",
-      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPRG83WUpNT3ZrdFl4eWlwcEZYNDN4S3lyNlZ0WUt6N3I2bWVZQjJYWmhyN1JNTkJKS2FfLTVuQWpVbTh4ZC1zb3lLajBxN0tIUmIxdFZmeGp1WjRkYlZvUDAwM241QWtGdWxXWU4tT1daZ0x1OURYQUc2OHppd2ZRZWU3QVhPNmpDT3I5ODhiRWhRYWU2eGpULThhby1XV3dyVi1ab3hwMjBkcTRfSjFuQURPTlhmeWtmWHBORTNHWVoyemw5V0NXcHUzWTNiZ2N4dFFiSllMNUZvRm0wUXNwekIzSkxORC1VaVMyaHhzdnF0ZFIyQ1AybWFRN21CX2RDQ09vR0FuUDI1UjdxSzlpLU12MGxwdVdJdWNCREloeG4zbTJ2M19XTTNmbXRHVXI4NDVrcE9NblBvVU13QzQ4?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 22:21:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "sentiment": {
-        "positive": 0.007,
-        "negative": 0.993,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W30"
-    },
-    {
-      "title": "Inside Texas Politics | Rep. Van Duyne says vote to end Iran war was just a 'messaging bill' - NewsBreak: Local News &amp; Alerts",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMjRTamJWbWdwS2RtZ0NydDUtUjd1TnlSNTEyRmxld1B4aFloaDdpQTlDSHk3Y2FNcHRtb29TRFZDSmxoSkJMamdBNEhTRkg4MERPUW1JQTBNYTZEdVA5NDd6QjRQcVlIQ3RNWWpXc0VqTGUyZWhGczM0OWc1eWtBa2N1Skx1QVdacW1RTUxyd0FKczJfUWVtYVlfaDQ2ZGdSS0VMZHZ3ckdWQmlOWmtvVGdYOGlwd3VVU1F3dVI2dGhkanY1bW4yRS1UMFFUSDFYckFaYU5R?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 21:55:52 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "sentiment": {
-        "positive": 0.019,
-        "negative": 0.981,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W30"
     }
   ],
   "weekly": {
     "2026-W30": {
       "both": {
-        "positive": 27,
+        "positive": 29,
         "negative": 12,
-        "total": 39
+        "total": 41
       },
       "talarico": {
         "positive": 7,
@@ -1883,8 +1890,8 @@
       },
       "general": {
         "positive": 13,
-        "negative": 15,
-        "total": 29
+        "negative": 13,
+        "total": 27
       },
       "paxton": {
         "positive": 4,
