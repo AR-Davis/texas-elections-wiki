@@ -1,9 +1,29 @@
 {
-  "analyzedAt": "2026-07-30T04:09:36.568Z",
-  "newsFetchedAt": "2026-07-30T02:48:54.350Z",
+  "analyzedAt": "2026-07-30T07:15:08.302Z",
+  "newsFetchedAt": "2026-07-30T05:47:37.492Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Ken Paxton Says James Talarico Used Mom’s Address to Run for Seat Where He Did Not Live - breitbart.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVDFoMUJYT0tOdXNvLTFsTDJYMEtWZmNGb0Y0Z2FVWVNNN01Ca2NVOS1JVk9qclpFT1J4YXR3N1NMZVQ4dm5ZSzByMDNiMl9mS2ExU0ZKYm1SNURMdEJ2ZEp0SnRudHg1bU9PbWpIdHNUTHpmT09VR2dablRuZ0hFZzJ6Mjc1RVlJSnRsZk1EVTlYUndPNWpZUHBKM1dldkllbUFZdThFNTRrejV5T3lrMjdlSkJwSWPSAbwBQVVfeXFMTUdoa2hCaVUzWHhmekVoeTVLUVRrTTRiX19lQXhJNVRkLThQaFlZZC0wUER5b0RxX0dJVUc5Zkt3OGFudzRvMGJiQ3JQeWliTmVxUUlxZzJUX09BT2c4LTdCTlhWTW9TZzdYZEh5Ul9VaFBsQmRYclhLOWgyNWNfWEZIUENJWV81YWh1ejhmcUt2VEFEUktLTzNNZFlTb0c3eUhoMWRUMm1qQjJNQUx2WmlhVm9UcVVXbERQVXk?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 00:14:55 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.01,
+        "negative": 0.99,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W30"
+    },
     {
       "title": "Documents contradict right-wing blog's claim that Texas Rep. James Talarico committed election fraud - San Antonio Current",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWWxSZEtGWFlNZDR2cUw4Z0VjV0d5V2l4MFB2SG9JZ1pjUjRuM0cyTEllZDdjZWhVQ09HdGFJcHNfLXBxMEhvWDBBOGNkSC1nVmYtcW5HTkJ4YVFhU19CS0pXYUZLSFA5b2lqT3dtOFFDVjFkcUJQd21VVU9fNXlJYXQ2bk1qQW43aW1wbTRKQThjbk5rbGhQNW5rUWlqSXZBMFdGOVVLR1VTZHlqaUVkT1ptRzJnM1I2U3ZOWUx5aU55OWtLSXFyeEdld0tTR0I1MS1KY2xtUXVtNVFxZ2lkZnRfN2l6NWNq?oc=5",
@@ -1840,36 +1860,19 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W30"
-    },
-    {
-      "title": "Talarico is trying to win back Hispanics along the Texas border who swung toward the GOP - The Courier of Montgomery County",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc0tweVlEM3E4bWVFQXZQRXczeXBYNkxXSTZ0X0QxWmpBWGhxT25oRk9XbGRHVnhVX2Z3dnF0TXBoNVFxTUl3TTlsUUNTUkZoY1RiYVduNEdrdnhxQ1VMUXk4dU5VSThKZ3piMXVGYjhFaHAxb3FDcW8xNlo5aWVRc19qcGdnNHBldnVxZmFwS1V1SFR1UmtreDBPb28yRnQ5UnlHS3FZUHo1LXZHLXpCWG1n?oc=5",
-      "pubDate": "Sat, 25 Jul 2026 14:19:45 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "talarico"
-      ],
-      "sentiment": {
-        "positive": 0.398,
-        "negative": 0.602,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W30"
     }
   ],
   "weekly": {
     "2026-W30": {
-      "talarico": {
-        "positive": 7,
-        "negative": 17,
-        "total": 26
-      },
       "both": {
         "positive": 25,
-        "negative": 12,
-        "total": 37
+        "negative": 13,
+        "total": 38
+      },
+      "talarico": {
+        "positive": 7,
+        "negative": 16,
+        "total": 25
       },
       "general": {
         "positive": 13,
