@@ -1,8 +1,15 @@
 {
-  "lastChecked": "2026-07-30T22:07:41.257Z",
-  "wikiPollCount": 5,
-  "newPollsDetected": 3,
+  "lastChecked": "2026-07-30T23:54:23.535Z",
+  "wikiPollCount": 6,
+  "newPollsDetected": 4,
   "latestPolls": [
+    {
+      "pollster": "RealClearPolitics",
+      "date": "April 22 - July 27, 2026",
+      "paxton": 45.7,
+      "talarico": 45.7,
+      "undecided": 8.6
+    },
     {
       "pollster": "New York Times / Siena University",
       "date": "June 19-27, 2026",
