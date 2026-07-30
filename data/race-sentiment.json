@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-07-30T00:55:32.703Z",
-  "newsFetchedAt": "2026-07-29T23:32:46.802Z",
+  "analyzedAt": "2026-07-30T04:09:36.568Z",
+  "newsFetchedAt": "2026-07-30T02:48:54.350Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Documents contradict right-wing blog's claim that Texas Rep. James Talarico committed election fraud - San Antonio Current",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWWxSZEtGWFlNZDR2cUw4Z0VjV0d5V2l4MFB2SG9JZ1pjUjRuM0cyTEllZDdjZWhVQ09HdGFJcHNfLXBxMEhvWDBBOGNkSC1nVmYtcW5HTkJ4YVFhU19CS0pXYUZLSFA5b2lqT3dtOFFDVjFkcUJQd21VVU9fNXlJYXQ2bk1qQW43aW1wbTRKQThjbk5rbGhQNW5rUWlqSXZBMFdGOVVLR1VTZHlqaUVkT1ptRzJnM1I2U3ZOWUx5aU55OWtLSXFyeEdld0tTR0I1MS1KY2xtUXVtNVFxZ2lkZnRfN2l6NWNq?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 20:19:47 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.016,
+        "negative": 0.984,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W30"
+    },
     {
       "title": "New polls show Talarico leading Paxton in Texas Senate race - KCENTV.com",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMGN3UDB5eXNYRV84T0NwRHhVLXRVR1VDVTNLbDFSWV92ZlV0b0RSY1JJYmRCaDR6N2N4X1I2ZzFvdFNBMGE4bkd6YjhHXzR3QXBXRHRxcXJkOXJmVnBLdGpoRDBMSS1fWXdkdVVUMEszV3NFWXhNLWl1d2VkcDM0dk1Kd1owWURhdVhoa2tweEhDWng1T3JKelJtSS1xVHBOVi1ERkFEU09VOUU4c0ZEYkYxWUMtbDJJbHV4ck5kWVZSRE5sS1JXWFhzT2hDNjZpbEY4ZzJmNA?oc=5",
@@ -1839,41 +1857,24 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W30"
-    },
-    {
-      "title": "EAST TEXAS POLITICS: About 100 days out — Smith County’s Republican and Democratic chairs preview th - KLTV.com",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb2pnR2ZlMTRyS29ReXpUdFJ3OV9KeldzOFREVFJHcHR0c204MEo3MVFyTHhBSFYwV1FxZzcxX204N2N5ME1PaXBySW0xZTJHRlVPZS05UjBiZ3ZvUGxqMGJlMG5USkRiQ092OG9yek1YV2dqOE43WGtremhDSmVaWlJKSUhROTUwcWF0QTRPUmJ5OWt5bXV6VHhUUWpoWEd6bnNmQ05lXy1vY1ZhcnBrQkV6Szh3N0ZOUWRjUlM5a21rNC1naHZzb0p2dw?oc=5",
-      "pubDate": "Sat, 25 Jul 2026 00:35:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "sentiment": {
-        "positive": 0.01,
-        "negative": 0.99,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W30"
     }
   ],
   "weekly": {
     "2026-W30": {
+      "talarico": {
+        "positive": 7,
+        "negative": 17,
+        "total": 26
+      },
       "both": {
         "positive": 25,
         "negative": 12,
         "total": 37
       },
-      "talarico": {
-        "positive": 7,
-        "negative": 16,
-        "total": 25
-      },
       "general": {
         "positive": 13,
-        "negative": 17,
-        "total": 31
+        "negative": 16,
+        "total": 30
       },
       "paxton": {
         "positive": 4,
