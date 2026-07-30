@@ -1,9 +1,30 @@
 {
-  "analyzedAt": "2026-07-29T23:32:18.038Z",
-  "newsFetchedAt": "2026-07-29T22:05:05.342Z",
+  "analyzedAt": "2026-07-30T00:55:32.703Z",
+  "newsFetchedAt": "2026-07-29T23:32:46.802Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "New polls show Talarico leading Paxton in Texas Senate race - KCENTV.com",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMGN3UDB5eXNYRV84T0NwRHhVLXRVR1VDVTNLbDFSWV92ZlV0b0RSY1JJYmRCaDR6N2N4X1I2ZzFvdFNBMGE4bkd6YjhHXzR3QXBXRHRxcXJkOXJmVnBLdGpoRDBMSS1fWXdkdVVUMEszV3NFWXhNLWl1d2VkcDM0dk1Kd1owWURhdVhoa2tweEhDWng1T3JKelJtSS1xVHBOVi1ERkFEU09VOUU4c0ZEYkYxWUMtbDJJbHV4ck5kWVZSRE5sS1JXWFhzT2hDNjZpbEY4ZzJmNA?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 23:19:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.767,
+        "negative": 0.233,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W30"
+    },
     {
       "title": "James Talarico has fundraised more from Texans this year than Ken Paxton, leading by over $4 million - Dallas News",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWmtlMkRueHBWLXQzTGlZUmtBeEozWUt0Z3MyWFoyanNiUHRleHFMd1ZMMkoxRmJEZUU1RXNOSHZDMnJITThSS1c1cDJvTEhLaGZJd3lyWG1jeUpyUW1PZUE2dWpDcUYyYkR3RXo1VXIxNktYc0ZtaHNQcFdtYXlrYklWUlo1YjcxSHc0NGU5dmRDSFJxWHc1M2JCdGtJeUFFT3dnWnRDRjJxS3l3TGtz?oc=5",
@@ -1835,31 +1856,14 @@
       },
       "candidate": "general",
       "weekKey": "2026-W30"
-    },
-    {
-      "title": "Rep. Beth Van Duyne calls vote to end Iran war unrealistic | Inside Texas Politics: July 26, 2026 - KVUE",
-      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQZmlvUldmWnQzQVpvN2Y1Wmh3WEhnbzNLbFRPN2hoaFRDNkdNZTBIQ0pINTROM3VhalZfUTIxUWdpMFJBVUNYVjk1TTJFaVZfemhXcVNRRTJ1SFFWX1RGWUxaM1JMUlBTekQtSWpJRHQxSUdpWjNnZUdsOGdzelNUVEhBdVFfbEkxdXJxbThNTGJmZkNZbF9XV055a0pxdlN3Uy1Xa0FjOGVhR0htSkdrTHlEVjl3WXhJbGt1WlByaWMwM3RERW5JVHF2d2hTVVMwdUE0QU9sNGV6akpaM2FQYkdqbkpHVi1MZG03WGlsOFQzWjlpLWFKWXZmcFdWdFVjT0Ffa2t1NnRQRmlkUGVXYVVWMXNITmh6VHVwZUFMaEhNQQ?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 23:07:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "sentiment": {
-        "positive": 0.025,
-        "negative": 0.975,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W30"
     }
   ],
   "weekly": {
     "2026-W30": {
       "both": {
-        "positive": 24,
+        "positive": 25,
         "negative": 12,
-        "total": 36
+        "total": 37
       },
       "talarico": {
         "positive": 7,
@@ -1868,8 +1872,8 @@
       },
       "general": {
         "positive": 13,
-        "negative": 18,
-        "total": 32
+        "negative": 17,
+        "total": 31
       },
       "paxton": {
         "positive": 4,
