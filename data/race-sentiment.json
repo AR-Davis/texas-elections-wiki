@@ -1,9 +1,28 @@
 {
-  "analyzedAt": "2026-07-30T16:07:00.155Z",
-  "newsFetchedAt": "2026-07-30T15:33:24.691Z",
+  "analyzedAt": "2026-07-30T17:57:17.371Z",
+  "newsFetchedAt": "2026-07-30T17:41:15.120Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Talarico leads Paxton in Senate race by 5 points in new poll - Yourbasin",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObUNHX3MxVWZVb08xNzFjVko0TFpQdFJrTkhLdUc1VGlLNmtHNWxTU3h3cFcwUDdPQlVuWUVQR2J0UnRqcldPVWQ2UmpBcVFqT2NxczRRbnVYZTY5ajc2U0V0eGhtX2FGam1FZDlEVFpCSnhCNG5aa2VSQkVkMVpYNGdRcE41TGh0YldhdG55ZXh0T001MTdEaVUwZXJzbWZwdWh0NVFEZ055SVVTUFR1T9IBsAFBVV95cUxObUNHX3MxVWZVb08xNzFjVko0TFpQdFJrTkhLdUc1VGlLNmtHNWxTU3h3cFcwUDdPQlVuWUVQR2J0UnRqcldPVWQ2UmpBcVFqT2NxczRRbnVYZTY5ajc2U0V0eGhtX2FGam1FZDlEVFpCSnhCNG5aa2VSQkVkMVpYNGdRcE41TGh0YldhdG55ZXh0T001MTdEaVUwZXJzbWZwdWh0NVFEZ055SVVTUFR1Tw?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 19:59:55 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.955,
+        "negative": 0.045,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W30"
+    },
     {
       "title": "Talarico sets three Texas Senate debate dates against Paxton - eciks.org",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nbG4zbFVJbEdoWGEwMm5MckNMWjZTU2tKVEc3dTcycUNmd0pWT0R0MDQ1RFJfbjhXVjY5b2FJR1hnSUJ3S0xUWDZibkdneFlxb1hDbUR0Y21KTnhWU0NEMllYckhDY0FsVTZ1eQ?oc=5",
@@ -1848,38 +1867,14 @@
       },
       "candidate": "general",
       "weekKey": "2026-W30"
-    },
-    {
-      "title": "North Texas Republican says vote to end Iran War not realistic, only a “messaging bill” by Democrats - WFAA",
-      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxObmlpOVBpVWx6bVhzdHczU2JpS295SG5EYUdpVDNwVUxaUkx4bDZWZXBCRmlNTTlMWW9NMWh5OFNnNm1vRmNheExpWjdtVjZCRHFlSTlXWllwdnFXUndNSVV3NG1QUXcwci1uWXk0Qno4c2U0TF9ISFFQb0Rka043Y0ppQUpJbWNkTzZiNDVVNU5vVHNvWHJzc1kxSTM5cHVoZHYtUjVkOTl5ak1lT196c3hyQ2V1OUtVQk1kOU04SkV4SUFRVnBSOEp2QUZVNG9UQVliSlB4cW1hakJSRldqLWF6dndEeHNBc3c5SEpGX3lYYzhtRzFzOUNTSlFDOGRiWHVTRmszVWtXbnA3UVpxUVJTb2xYODNFWnRHLTY3M3FlYnVvdHhpWjFDaE0wZUVMRk9UbkxUUQ?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 22:51:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 4,
-      "matchedKeywords": [
-        "texas republican"
-      ],
-      "sentiment": {
-        "positive": 0.003,
-        "negative": 0.997,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W30"
     }
   ],
   "weekly": {
-    "2026-W31": {
-      "both": {
-        "positive": 1,
-        "negative": 1,
-        "total": 2
-      }
-    },
     "2026-W30": {
       "both": {
-        "positive": 26,
+        "positive": 27,
         "negative": 12,
-        "total": 38
+        "total": 39
       },
       "talarico": {
         "positive": 7,
@@ -1888,13 +1883,20 @@
       },
       "general": {
         "positive": 13,
-        "negative": 16,
-        "total": 30
+        "negative": 15,
+        "total": 29
       },
       "paxton": {
         "positive": 4,
         "negative": 1,
         "total": 6
+      }
+    },
+    "2026-W31": {
+      "both": {
+        "positive": 1,
+        "negative": 1,
+        "total": 2
       }
     }
   }
