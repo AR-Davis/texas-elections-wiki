@@ -1,9 +1,66 @@
 {
-  "analyzedAt": "2026-07-31T16:17:20.744Z",
-  "newsFetchedAt": "2026-07-31T15:04:38.969Z",
+  "analyzedAt": "2026-07-31T18:05:42.761Z",
+  "newsFetchedAt": "2026-07-31T17:06:38.913Z",
   "totalAnalyzed": 100,
   "newThisRun": 3,
   "stories": [
+    {
+      "title": "Fox News poll shows Talarico narrowly leading Paxton in Texas Senate race - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWDdndUpVOFJ6d1J1Qm91Mnh6UndPelpZR0liZmFESmpRSnpYTWhCRE9PVEVlWVZCWGhRZHFoM0ZOazRDYVR1bFk1NTg5RXVUbzNiWDlTV2tFWkc4djFzVDVVUHozekMzWHI2bU1YQVJBTS1wR1NjeUtWV3BtMzJkbkphX0F0QXhGSklTMnU3dldTSW84ZXhzMXQ1VDVXLVNXWlNab3NwT3g5TUU2dDJsbUlaSE01SUdlMFBva29Ua05hWXgtSElzdFhyeDJXREc4enc3TDNYTQ?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 13:43:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.928,
+        "negative": 0.072,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W31"
+    },
+    {
+      "title": "James Talarico is polling better than Beto O'Rourke did in 2018 - decisiondeskhq.substack.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTm5KaHFsRVpyaUc1OW9TbTZDM0tScndHUUdKcWFHbXBqbXI5dGctdzVmNGRjNU9jSjJUU1RwRmNCb2lCc1dIWU9Yc2Q2ZFR1XzdXUXk3QXhTczMwb0JnSjllNkg1cE5KRkdGSXBhVEJtLS1ieS1aS1FadWJtZWZPLWtGSW45bUxEck5MS1ZHT2hyRTl3VExpWk1POVhweTA1MVdaejhtb1RCNUVUaHlhZg?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 21:01:58 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.957,
+        "negative": 0.043,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W31"
+    },
+    {
+      "title": "James Talarico says earning Black Texans’ trust is central to his Senate campaign - TheGrio",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQcV9uWW0tODc1MDdlOF9GNEk2Wkp2dko3NzlJcm1FRVU1VHVaZE5QSVN3c1JLNnpSeDJmSGFqZ1cxZUdyX0hwY1RXcVFUQmdCTXFtYzBzUVZzMTFaQ2QzTVA5LVpqc2xqbTFMTWZyYnJNeUtjNkk3NnRJdHBxUQ?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 19:29:08 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.508,
+        "negative": 0.492,
+        "label": "neutral"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W31"
+    },
     {
       "title": "Fox News poll shows Talarico narrowly leading Paxton in Texas Senate race - Yahoo News UK",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWZEFRZmZWRFJ1aHU4U0YwVmxGcW82ZzRlbUpVbXVYSjFMazhYaE9EMG5obnZ1VnNPN09FRC11TEtTOFVCRVNvdFEtaTZWaVlXVzdvSlIwdnZHQ3FsMmdSYnl0SnNaRHJScWFJX21nX0o2YV9WYWZ3RA?oc=5",
@@ -1844,76 +1901,24 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W30"
-    },
-    {
-      "title": "Talarico is trying to win back Hispanics along the Texas border who swung toward the GOP - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUGtBNTJpaWs0ejFXV1FqLTVMcHFVV1RrTUFidGtMZV9JSkRHdEs1NEJDMmFzSkIwZ1F0NWlDdEJ1S1NQT2FLS1R6dldpbTNUNFhXcHJBOG41aFJZMVA3bUVCcXlCX1lBV1FVdVdpeWQwM2swRThCWHJXNG1VY1BXRVpSYjlJV19XRzhybFJ4Tl91UWd5RXk4djRn?oc=5",
-      "pubDate": "Sat, 25 Jul 2026 12:23:30 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "talarico"
-      ],
-      "sentiment": {
-        "positive": 0.099,
-        "negative": 0.901,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W30"
-    },
-    {
-      "title": "Texas U.S. Senate Election 2026: Latest Polls - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRnFTY28wbS10QjZaN2NoLURKTUNYNkRlVXJFenVsTWphQVBQS2lySHdTOVVKTGhSSVRsX2JSeVEwUE9hMWpVdWU5Z2JESHJSalV5ZFEtQm5sTzY3LWQ5NFR3WjhLeE9IaUQ4VDRoZkhUOHRxQkc1cnR1TG5YVThJLVlJeW10QkxBYVE?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 16:22:28 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 4,
-      "matchedKeywords": [
-        "senate election"
-      ],
-      "sentiment": {
-        "positive": 0.961,
-        "negative": 0.039,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W30"
-    },
-    {
-      "title": "James Talarico Faces Scrutiny Over Immigration Enforcement Views - sekbernews.id",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ0I1b2xwd2dSd2Jmd3Boc19TUkFNazlkTlBxNlk5R3k1MFlhc2NEM1VEMmtlRGpUNndJbDE0VUZKekZ4ZW95dWRCYUEzblVOTUpwRWMyMTlqV296c253dWs5eER1TldtTTBNTUxaelZEeHRUQllGOGE4azdRZF9td0tB?oc=5",
-      "pubDate": "Sat, 25 Jul 2026 23:09:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.005,
-        "negative": 0.995,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W30"
     }
   ],
   "weekly": {
     "2026-W31": {
       "both": {
-        "positive": 3,
+        "positive": 4,
         "negative": 2,
-        "total": 5
+        "total": 6
+      },
+      "talarico": {
+        "positive": 1,
+        "negative": 2,
+        "total": 4
       },
       "paxton": {
         "positive": 1,
         "negative": 0,
         "total": 1
-      },
-      "talarico": {
-        "positive": 0,
-        "negative": 2,
-        "total": 2
       },
       "general": {
         "positive": 0,
@@ -1929,13 +1934,13 @@
       },
       "talarico": {
         "positive": 6,
-        "negative": 12,
-        "total": 19
+        "negative": 10,
+        "total": 17
       },
       "general": {
-        "positive": 12,
+        "positive": 11,
         "negative": 9,
-        "total": 22
+        "total": 21
       },
       "paxton": {
         "positive": 4,
