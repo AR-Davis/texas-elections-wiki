@@ -1,9 +1,51 @@
 {
-  "analyzedAt": "2026-07-31T21:16:16.423Z",
-  "newsFetchedAt": "2026-07-31T20:22:44.534Z",
+  "analyzedAt": "2026-07-31T22:33:40.582Z",
+  "newsFetchedAt": "2026-07-31T21:40:10.774Z",
   "totalAnalyzed": 100,
   "newThisRun": 2,
   "stories": [
+    {
+      "title": "Debate plans heat up between James Talarico and Ken Paxton in Texas Senate race - KHOU",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPc25GMTZuRXRqaGNVMlZaaUljLXRhWGtWTVN1anRLRVFyNTJQNWZpZGJSNThJMVEyZ2JxQmU1dUZLUkM0SHFON3pIQXQtaERId3MzUjdqc0tqV1NOdUlwNnNVcHhLdS1SX2tubWRVcXBMcFlZMVFSS3kzSEVneFFsN25YVjBkUUNTakF3eF81Q2R1Qm9KdmNsc0pwTUxZX0FSOGxkUGxpX3ZhRzdWWlRxN3RGTFRFcmNxTG1TZFJNR3Q3c1FScmwwNEFzT0tsOUV6SEsycnNFbF83TExTdlFsUWc1aHhqYzVHTFFUa2thMHpPclVENVhHRDZ4Mk5EZ0hMMHc0cWNmQlZ5bXhjLVBHYmlfSjlHWHM3V3lEVA?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 21:50:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 38,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.439,
+        "negative": 0.561,
+        "label": "neutral"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W31"
+    },
+    {
+      "title": "Ken Paxton unveils economic plan centered on tax breaks in U.S. Senate race - WFAA",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQckEzSTc0MnkxSTBCX2MxWDNYbjFrUTlpR2pZTTJpWVpqOUpqOXZ2N0tlTm5CTVJua1YxcXFsbkhSTnd4aVBJeXNoVTJubnlLcTFFSjdNUE95cnFRVVNYaVVwdGNKX2lTNE04SHIxU3ZJZFBXNU5tdkJBMFl4VnRBTHdwelkxODd0MnIzQlZYam53UUFLZEl6andRbjZLVk5nVERYTjdrZE9JREV3VkxlQmVsX09kd0ZEUnpmTnpIOVYyMGc1QUdjRHBjUjdDV2l6ckE?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 21:27:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.995,
+        "negative": 0.005,
+        "label": "positive"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W31"
+    },
     {
       "title": "Fox News Poll: GOP divisions shape Texas Senate race - Fox News",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU01VQjNiNWhzYVBIZkhWc01lRU1fWG96dGprSmRBekNyVkx2ZFg1Sjk3WHpWdnk1OUg4ZTlfZmhmQkF4RHhmOEtSalMzLUV2N0p0ZzF0WVBDN29pcmh2SlhfVmNiQ3RZT1I0b3BkWWNQdGhvQWQ0Q2pRemFTWHNyQmRaem9XTlFxaExLSA?oc=5",
@@ -1877,59 +1919,24 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W30"
-    },
-    {
-      "title": "Ken Paxton rarely takes reporters’ questions. In Fort Worth, it showed. - Austin American-Statesman",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVlI4YVdmWEpxM01UWGk3MmltYmw3ZUxlX29ha2RHQlk3blRIaDlnMG01cng1RXZWYWRXdXNIWmcwTV9PNGhYT0dkbWs5LTBINGhFclpjNEw3T0hVcTNBb3QzSnVqZ2N4N3NGOUU1Sjdqb1JTRnRYM1VSa0F6TU1qRUYtMDBSejRwUE5DZ2RBSVpaUzhmWjNEdVp1UTRKMGc?oc=5",
-      "pubDate": "Sun, 26 Jul 2026 10:16:08 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.598,
-        "negative": 0.402,
-        "label": "neutral"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W30"
-    },
-    {
-      "title": "Amid criticism, Talarico increases outreach to Black voters in Texas with $25 million pledge - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUFN1NlNiTmJZcXhIR3FvV0dNaXZ6S1J6dlZrdG1OUTdvOW9zYm40bHhBUkF2MXRJQUhVUklCaGtVQ2E5cmxfNTUxMTh1em1lLUJVNTNlQWprVE1TNTA1bk4wLVFrdW9PbUgtN0lFSWQwU2dZOXpOQUE5a0FIQ3lydENJMHhpeV9fQWo3cWVWdHExaHZZT2Z2U0lNUFpQTi1UUl9NNDg4NzZDbE1vUDU3T0xZX0ZlbWxOX3F1SUF4bw?oc=5",
-      "pubDate": "Sun, 26 Jul 2026 10:00:10 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "talarico"
-      ],
-      "sentiment": {
-        "positive": 0.884,
-        "negative": 0.116,
-        "label": "positive"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W30"
     }
   ],
   "weekly": {
     "2026-W31": {
+      "both": {
+        "positive": 6,
+        "negative": 2,
+        "total": 9
+      },
+      "paxton": {
+        "positive": 4,
+        "negative": 0,
+        "total": 4
+      },
       "general": {
         "positive": 0,
         "negative": 2,
         "total": 2
-      },
-      "paxton": {
-        "positive": 3,
-        "negative": 0,
-        "total": 3
-      },
-      "both": {
-        "positive": 6,
-        "negative": 2,
-        "total": 8
       },
       "talarico": {
         "positive": 2,
@@ -1944,9 +1951,9 @@
         "total": 44
       },
       "talarico": {
-        "positive": 4,
+        "positive": 3,
         "negative": 10,
-        "total": 15
+        "total": 14
       },
       "general": {
         "positive": 9,
@@ -1956,7 +1963,7 @@
       "paxton": {
         "positive": 4,
         "negative": 1,
-        "total": 6
+        "total": 5
       }
     }
   }
