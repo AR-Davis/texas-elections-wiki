@@ -1,9 +1,28 @@
 {
-  "analyzedAt": "2026-07-31T09:48:51.692Z",
-  "newsFetchedAt": "2026-07-31T07:23:53.401Z",
+  "analyzedAt": "2026-07-31T12:04:14.146Z",
+  "newsFetchedAt": "2026-07-31T10:07:09.185Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Talarico leads Paxton by 5 points in new poll of Texas’ U.S. Senate race - Salon.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcGFKM2tzRUlxUGxCcmliNFVhNndkQlc4T0xIWFBiM1E0cGRnd2lIenNFX0ZpdDhYcGsyN094QXItTWFjWnBWaWdtNS1Ec09ON0ZmZHZZRm42MFZ1Z2NQY2NXQzdQcEtTZF9TbUVsc2s1VkJQQVdfR3FJelY5ejRsai1yVXdaaWVaSGtSUVdaZUc2NWxvMjRVQW9fWmZ0eXhMWEpfQUx6SXVtNE5JWERadzdR?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 10:00:53 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.945,
+        "negative": 0.055,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W30"
+    },
     {
       "title": "Did James Talarico Meet Texas’ Residency Requirements? New Report Raises Questions - Daily Signal",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSHBNU092UDlOVDBVNXBBOUFQNG9DblB5U1FFSzlvaEI0QVZlbl9oOEdDMURuSjlNZGxYQUpkSVRTR1VuUkpLOVZ6SjZJYTg2MFV6TGx6OXJlTzJwRGgwSlBQU2dMUW1iT2s5Y0wwMy1TUWNVdDhmVlZ2clBKVE15S1ItanV1YW5keEE?oc=5",
@@ -1865,26 +1884,31 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W30"
-    },
-    {
-      "title": "Talarico is trying to win back Hispanics along the Texas border who swung toward the GOP",
-      "link": "https://apnews.com/article/talarico-paxton-senate-texas-hispanic-latino-border-d6738428b4af4d2e13191b1ff1fd058d",
-      "pubDate": "2026-07-25T22:03:36.490Z",
-      "feedSource": "topnews",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "talarico"
-      ],
-      "sentiment": {
-        "positive": 0.383,
-        "negative": 0.617,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W30"
     }
   ],
   "weekly": {
+    "2026-W30": {
+      "both": {
+        "positive": 31,
+        "negative": 12,
+        "total": 43
+      },
+      "talarico": {
+        "positive": 6,
+        "negative": 13,
+        "total": 21
+      },
+      "general": {
+        "positive": 12,
+        "negative": 11,
+        "total": 24
+      },
+      "paxton": {
+        "positive": 4,
+        "negative": 1,
+        "total": 6
+      }
+    },
     "2026-W31": {
       "talarico": {
         "positive": 0,
@@ -1900,28 +1924,6 @@
         "positive": 2,
         "negative": 1,
         "total": 3
-      }
-    },
-    "2026-W30": {
-      "both": {
-        "positive": 30,
-        "negative": 12,
-        "total": 42
-      },
-      "talarico": {
-        "positive": 6,
-        "negative": 14,
-        "total": 22
-      },
-      "general": {
-        "positive": 12,
-        "negative": 11,
-        "total": 24
-      },
-      "paxton": {
-        "positive": 4,
-        "negative": 1,
-        "total": 6
       }
     }
   }
