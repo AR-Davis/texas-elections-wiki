@@ -1,9 +1,46 @@
 {
-  "analyzedAt": "2026-07-31T20:03:48.366Z",
-  "newsFetchedAt": "2026-07-31T18:54:39.691Z",
+  "analyzedAt": "2026-07-31T21:16:16.423Z",
+  "newsFetchedAt": "2026-07-31T20:22:44.534Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Fox News Poll: GOP divisions shape Texas Senate race - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU01VQjNiNWhzYVBIZkhWc01lRU1fWG96dGprSmRBekNyVkx2ZFg1Sjk3WHpWdnk1OUg4ZTlfZmhmQkF4RHhmOEtSalMzLUV2N0p0ZzF0WVBDN29pcmh2SlhfVmNiQ3RZT1I0b3BkWWNQdGhvQWQ0Q2pRemFTWHNyQmRaem9XTlFxaExLSA?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 22:00:03 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.209,
+        "negative": 0.791,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W31"
+    },
+    {
+      "title": "Ken Paxton proposes tax breaks in his new economic plan - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQW5qUnRmSWg0X1JWc21FN2ZZbkRvUTNralFzb2JnUjFyZk1aX0FIZmJ1M0REQV9jWUVSZFA3SURXOWpZYXB5dG5BTmI4cnAzTEtCVElmeGJkdGptOWVyTzE1MEk0bHA5d0hHdUxFXy12eFMwdGtXQjJaOTNfVUJuSW9aSUZTZXV1WVJuWXM1bGlpR2hkOVdKTGRCdEFzY1RHSWlkSjVNcw?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 19:44:38 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.912,
+        "negative": 0.088,
+        "label": "positive"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W31"
+    },
     {
       "title": "James Talarico leads Ken Paxton in Fox News Texas Senate poll - El Paso Times",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNLVBsNkhSQmNhOUc2M09IZXRfb0MzdUhlTHRnLUdtdkVfSXlucFBQZXhicXBRWkt2XzJwRk1pcDk4RWJxR083UTZVeTdtT0NMeXZDeUxxSlhnVlhCVnQ1SWFEc0dRTlQ1QktHRGYxelRjWWotMzJzSmpOLTFORW5md2RyTEdXRVZmYVJaZnFxbUd6U3NJay1YNFJwOW1ob2VRWXRfazU5S2o0bkFlOUhpTVVXRm1vaE1aenNhaFR1QUhhTFhwcnl0SDBmOWNBUE1QUkgxYkNndlFTRF9la2otbl9OTWxpSi01OHFESWN6TQ?oc=5",
@@ -1875,63 +1912,29 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W30"
-    },
-    {
-      "title": "Inside Texas Politics - KVUE",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWGMxMGJCT215N05QQ3VNSjdwYVJwQXVla0tRdF9kay1STVpERnNnclNtR0VmbUxmUE9SWHVIYUxOTlZSa1oyYTVqUmd3c0ZtTVk1TWxzN3JGNGlEOGxHVzBVRnVCUHU3cHNtR0loZ3dtZUFTWDhYRDRLN042REQ4SGNIcWxKTG1scDJIVnFvejBDYy01ZWZkLXB3RFlqb3lveU53dE5iMXE2dw?oc=5",
-      "pubDate": "Sun, 26 Jul 2026 10:30:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "sentiment": {
-        "positive": 0.996,
-        "negative": 0.004,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W30"
-    },
-    {
-      "title": "Inside Texas Politics - kiiitv.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNG5wdkJ3Z09hU2NBY1E4T3VFTWVpY0t0bGZJZm5iNk04YzgwT2JtQ213TFhaaHdhUTdjUzdmWTlDQ3JlM1FjckhfNmwxRW9sVmtYY29SQjIzMUFGcFBwVlZmcENtR1F3MmJlVWFzeG1ROW9CQlBBR09qNExUSkZkV0hmd001b0c3X0ludVR3cWtPc19ickVCb3pDQjM2U3RZWmFGYmp2aGlVUjhS?oc=5",
-      "pubDate": "Sun, 26 Jul 2026 10:00:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "sentiment": {
-        "positive": 0.969,
-        "negative": 0.031,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W30"
     }
   ],
   "weekly": {
     "2026-W31": {
+      "general": {
+        "positive": 0,
+        "negative": 2,
+        "total": 2
+      },
+      "paxton": {
+        "positive": 3,
+        "negative": 0,
+        "total": 3
+      },
       "both": {
         "positive": 6,
         "negative": 2,
         "total": 8
       },
-      "paxton": {
-        "positive": 2,
-        "negative": 0,
-        "total": 2
-      },
       "talarico": {
         "positive": 2,
         "negative": 2,
         "total": 5
-      },
-      "general": {
-        "positive": 0,
-        "negative": 1,
-        "total": 1
       }
     },
     "2026-W30": {
@@ -1946,9 +1949,9 @@
         "total": 15
       },
       "general": {
-        "positive": 11,
+        "positive": 9,
         "negative": 7,
-        "total": 19
+        "total": 17
       },
       "paxton": {
         "positive": 4,
