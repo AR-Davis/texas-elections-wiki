@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-07-31T06:51:07.643Z",
-  "newsFetchedAt": "2026-07-31T00:08:00.551Z",
+  "analyzedAt": "2026-07-31T09:48:51.692Z",
+  "newsFetchedAt": "2026-07-31T07:23:53.401Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Did James Talarico Meet Texas’ Residency Requirements? New Report Raises Questions - Daily Signal",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSHBNU092UDlOVDBVNXBBOUFQNG9DblB5U1FFSzlvaEI0QVZlbl9oOEdDMURuSjlNZGxYQUpkSVRTR1VuUkpLOVZ6SjZJYTg2MFV6TGx6OXJlTzJwRGgwSlBQU2dMUW1iT2s5Y0wwMy1TUWNVdDhmVlZ2clBKVE15S1ItanV1YW5keEE?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 18:30:31 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.014,
+        "negative": 0.986,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W31"
+    },
     {
       "title": "Black voters' frustrations with Texas Democrats go beyond just James Talarico - Austin American-Statesman",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRE1EdS1PdHZMVDI4X2VOeGZuVDZKNXJ5VzVHSVYwYU9fRXpQM2hWSHdoWnpncUVmVFdzdkZ1UUFBaWFhaG0tN2JfOFZWU0VPY0M1amZpSHhaTExQQko2UGJzZjlXOVc3czNDUXlDTXJldXF1VHotSTU5Q2R0ZHRnT1k3Y21HWTlHUFFSYVhTWXhDaUhtMVFFYUdR?oc=5",
@@ -1864,32 +1882,14 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W30"
-    },
-    {
-      "title": "John Cornyn - Encyclopedia Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxMlRaRi1pMVVVZ3Vhb3k2TXNiQUFvcV9PbG02T0FxV3lRTUpSZUpROVp6TzE0T19lTURfQ2dxS0l2Wlp3eXFuZHpLakwxb09JMERTMXgzbkVma3lC?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 05:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 9,
-      "matchedKeywords": [
-        "cornyn",
-        "john cornyn"
-      ],
-      "sentiment": {
-        "positive": 0.987,
-        "negative": 0.013,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W30"
     }
   ],
   "weekly": {
     "2026-W31": {
       "talarico": {
         "positive": 0,
-        "negative": 1,
-        "total": 1
+        "negative": 2,
+        "total": 2
       },
       "general": {
         "positive": 0,
@@ -1914,9 +1914,9 @@
         "total": 22
       },
       "general": {
-        "positive": 13,
+        "positive": 12,
         "negative": 11,
-        "total": 25
+        "total": 24
       },
       "paxton": {
         "positive": 4,
