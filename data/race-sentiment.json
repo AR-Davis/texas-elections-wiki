@@ -1,9 +1,28 @@
 {
-  "analyzedAt": "2026-07-30T22:37:19.818Z",
-  "newsFetchedAt": "2026-07-30T21:16:40.263Z",
+  "analyzedAt": "2026-07-31T00:06:15.020Z",
+  "newsFetchedAt": "2026-07-30T22:37:42.033Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Talarico leads Paxton in Senate race by 5 points in new poll - Yourbasin",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZF9tbVlBbHY5Qllaek83UGx5dVFTUmp3YUpYaHJENWg5QzA0MjJJaVlmNkRWOVRoVGJoMjJuNFdwdi1qZFI5R0QzT0k3MGlCNTM1RmpaME53azJET2ZBb1dxYVR4c0dJTGNkU2swbU8teDdWeDhWRnFTUmh0NkJKRE9HemI4QldFZW9OSnl1QWVtS1k2YVc3OFdxeVgya0lEWG1uMzFaQ0Jxb2fSAbABQVVfeXFMTm1DR19zMVVmVW9PMTcxY1ZKNExaUHRSa05IS3VHNVRpSzZrRzVsU1N4d3BXMFA3T0JVbllFUEdidFJ0anJXT1VkNlJqQXFRak9jcXM0UW51WGU2OWo3NlNFdHhobV9hRmptRWQ5RFRaQkp4QjRuWmtlUkJFZDFaWDRnUXBONUxodGJXYXRueWV4dE9NNTE3RGlVMGVyc21mcHVodDVRRGdOeUlVU1BUdU8?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 00:59:55 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.955,
+        "negative": 0.045,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W30"
+    },
     {
       "title": "Talarico Widens Lead Over Paxton In Texas Senate Race - NewsRadio 600 WMT",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbHJYaDRoX3lhS21mbExKRWZCWUppamRSM0lTb0ZUdUJ1YnpjOF9ZM1dnU2pYSlVVRkczdHN6Z21kbW1QOHFBQmZpaEdwRXp6TDB2ZXUtV0FCaTQwajg3MG5BZ21xcVozbWwtMUtrZUdVcWtwYktPMzh4OTA5U0VQTVZuNHhKS01qWXhxVjF1WFpTcEJkUzg1eC1oRktyTk1ybXVsb3BINA?oc=5",
@@ -1857,31 +1876,14 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W30"
-    },
-    {
-      "title": "Inside Texas Politics | Harris Co Commissioner Ellis reveals $180M budget deficit - WFAA",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPSlFPdXFuN2tYTnFOSkR2UmNqOFRVdHBGV2ZkNEt0djNtR3lsQUhVczlJaHQzTU5INkpTTzZoempwN2dzUWhIaC1leEVFVTljcDN6cDZtRndpRzJQZjdxZkhoTThWRUdGWVJITHpmOTcyakZqWkhxamJKMzFhVUNwbUhhQVpVUzQ3TzJ3bUFZZTZLOTlXUFgwSWladnl0LU5JeWU5YnVRa011bU93MElsemNGd3ZrNnVzMDU5MVNwb0hCRzBxeGN5N2dITjIwY24tZTRUcmJ5dVBIQVh5V1I1MUVfM2gzTlZhc3ZFMmJDVWNCNm0xMllyUVlrakxGQS1xdWNnRjYzVnhmdVEzT2xXWHVIWlBLanl4eE5Z?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 22:29:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "sentiment": {
-        "positive": 0.027,
-        "negative": 0.973,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W30"
     }
   ],
   "weekly": {
     "2026-W30": {
       "both": {
-        "positive": 29,
+        "positive": 30,
         "negative": 12,
-        "total": 41
+        "total": 42
       },
       "talarico": {
         "positive": 7,
@@ -1890,8 +1892,8 @@
       },
       "general": {
         "positive": 13,
-        "negative": 13,
-        "total": 27
+        "negative": 12,
+        "total": 26
       },
       "paxton": {
         "positive": 4,
