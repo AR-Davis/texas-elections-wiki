@@ -1,9 +1,28 @@
 {
-  "analyzedAt": "2026-07-31T12:04:14.146Z",
-  "newsFetchedAt": "2026-07-31T10:07:09.185Z",
+  "analyzedAt": "2026-07-31T14:28:26.343Z",
+  "newsFetchedAt": "2026-07-31T12:29:14.411Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Ken Paxton unveils economic plan centered on tax breaks in U.S. Senate race - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWWtHdDZTM3U3SW12N1lRSGg1TTMycm5NTFpIOHNVY2xZdUwzbGEya1JVMk03Z3VGb0FHY0d5QkhGUHlLUG85U3BBc3ViY0JOY2NJMFlGWnpnb3NxQ2pnVkVrTzZLLXU5djhxNDh3LW5HdGttclAxdUNHZzMycUlNSVhhVzJEMmpqc0NPWW9aSkFIR0Nic3VDMms4aUpWQWNmbk5SRm1R?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 12:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.995,
+        "negative": 0.005,
+        "label": "positive"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W31"
+    },
     {
       "title": "Talarico leads Paxton by 5 points in new poll of Texas’ U.S. Senate race - Salon.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcGFKM2tzRUlxUGxCcmliNFVhNndkQlc4T0xIWFBiM1E0cGRnd2lIenNFX0ZpdDhYcGsyN094QXItTWFjWnBWaWdtNS1Ec09ON0ZmZHZZRm42MFZ1Z2NQY2NXQzdQcEtTZF9TbUVsc2s1VkJQQVdfR3FJelY5ejRsai1yVXdaaWVaSGtSUVdaZUc2NWxvMjRVQW9fWmZ0eXhMWEpfQUx6SXVtNE5JWERadzdR?oc=5",
@@ -1865,51 +1884,15 @@
       },
       "candidate": "general",
       "weekKey": "2026-W30"
-    },
-    {
-      "title": "Polling shows James Talarico holds an advantage among Black voters in Senate race, but worries about voter turnout remains - KTALnews.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPV2l3UlpEekcxSjhycDloVHNrSDNKeGNjTnhselo0M005dER0Y0wyZXkxdUE3N0VSZEJGcDFHQnYzZk4wVnQzSFp4VDdSbkhnOXF3M0VHRGxVSmZIS2J4MzMza0h0LUI4RFhJTGo4ZHdjWTZDMEltLW05TUJ6eW1JNDFHUkNxd1NVc0pERFZSMFMtVm5NVjZYUjlEV3RkLVREMlplUkRsT0lkRXRRcEpqRE1GOWN6WDBKRDhpUUFGRjBEVWdDOEVyQzJSOVMyZ0ktRnY2OFU4UkxrX0RyVmVkY1ZpeVJMQnFUbllvQUhfZi1qTFVRVnoyeEJGeDFNb3lVbS1mWjZ2V3LSAYgCQVVfeXFMT1dpd1JaRHpHMUo4cnA5aFRza0gzSnhjY054bHpaNDNNOXREdGNMMmV5MXVBNzdFUmRCRnAxR0J2M2ZOMFZ0M0haeFQ3Um5IZzlxdzNFR0RsVUpmSEtieDMzM2tIdC1COERYSUxqOGR3Y1k2QzBJbS1tOU1CenltSTQxR1JDcXdTVXNKRERWUjBTLVZuTVY2WFI5RFd0ZC1URDJaZVJEbE9JZEV0UXBKakRNRjljelgwSkQ4aVFBRkYwRFVnQzhFckMyUjlTMmdJLUZ2NjhVOFJMa19EclZlZGNWaXlSTEJxVG5Zb0FIX2YtakxVUVZ6MnhCRngxTW95VW0tZlo2dldy?oc=5",
-      "pubDate": "Sat, 25 Jul 2026 10:12:06 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.021,
-        "negative": 0.979,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W30"
     }
   ],
   "weekly": {
-    "2026-W30": {
-      "both": {
-        "positive": 31,
-        "negative": 12,
-        "total": 43
-      },
-      "talarico": {
-        "positive": 6,
-        "negative": 13,
-        "total": 21
-      },
-      "general": {
-        "positive": 12,
-        "negative": 11,
-        "total": 24
-      },
-      "paxton": {
-        "positive": 4,
-        "negative": 1,
-        "total": 6
-      }
-    },
     "2026-W31": {
+      "paxton": {
+        "positive": 1,
+        "negative": 0,
+        "total": 1
+      },
       "talarico": {
         "positive": 0,
         "negative": 2,
@@ -1924,6 +1907,28 @@
         "positive": 2,
         "negative": 1,
         "total": 3
+      }
+    },
+    "2026-W30": {
+      "both": {
+        "positive": 31,
+        "negative": 12,
+        "total": 43
+      },
+      "talarico": {
+        "positive": 6,
+        "negative": 12,
+        "total": 20
+      },
+      "general": {
+        "positive": 12,
+        "negative": 11,
+        "total": 24
+      },
+      "paxton": {
+        "positive": 4,
+        "negative": 1,
+        "total": 6
       }
     }
   }
