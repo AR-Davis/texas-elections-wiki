@@ -1,9 +1,67 @@
 {
-  "analyzedAt": "2026-07-31T00:06:15.020Z",
-  "newsFetchedAt": "2026-07-30T22:37:42.033Z",
+  "analyzedAt": "2026-07-31T04:01:37.092Z",
+  "newsFetchedAt": "2026-07-31T00:08:00.551Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Black voters' frustrations with Texas Democrats go beyond just James Talarico - Austin American-Statesman",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRE1EdS1PdHZMVDI4X2VOeGZuVDZKNXJ5VzVHSVYwYU9fRXpQM2hWSHdoWnpncUVmVFdzdkZ1UUFBaWFhaG0tN2JfOFZWU0VPY0M1amZpSHhaTExQQko2UGJzZjlXOVc3czNDUXlDTXJldXF1VHotSTU5Q2R0ZHRnT1k3Y21HWTlHUFFSYVhTWXhDaUhtMVFFYUdR?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 15:05:21 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 19,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas democrat",
+        "texas democrats"
+      ],
+      "sentiment": {
+        "positive": 0.036,
+        "negative": 0.964,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W31"
+    },
+    {
+      "title": "Fox News Poll: GOP divisions shape Texas Senate race - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU01VQjNiNWhzYVBIZkhWc01lRU1fWG96dGprSmRBekNyVkx2ZFg1Sjk3WHpWdnk1OUg4ZTlfZmhmQkF4RHhmOEtSalMzLUV2N0p0ZzF0WVBDN29pcmh2SlhfVmNiQ3RZT1I0b3BkWWNQdGhvQWQ0Q2pRemFTWHNyQmRaem9XTlFxaExLSNIBkgFBVV95cUxNOWtTekNEbVoyV1pSMTZ0R28wSlFBY1l5eVdRY3JQSVVvTk9TZzBHeFJSdWo4aTE2M2xVb2ZrZTBfMTBEbFdNVnlnZXNIZExFbkN4R0FLUVhlY05Pc0dNM2xCcUdYQ0RmMnVhSHlVVTliYmNxTU91bDhObkstdHlHZzdOZk1IdTNFYmhFckllRlBCdw?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 22:00:03 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.209,
+        "negative": 0.791,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W31"
+    },
+    {
+      "title": "Fox News poll shows Talarico leading Paxton in U.S. Senate race - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ2UzeWhYOUIxUGtHa2FxWHN6eDNMTFhkMWFpcmJNMjc3VmlBVkcyQmp6Qkg2a2tvMjU5UWhFd3o4MXp5NVo1M2RnU1ZVNzM4RTFoTTNfWEJzQjE0aUtGcHp2UjJOSVFkZG5lamxpRk8zZEwwZFppTEs2QmlJRG90a25Ib2V1dDA3N2szYWpIMW8yd1NjaXdzRWYzSUp2R0ZpblZfd2NRakJnbDF5?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 23:56:13 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.992,
+        "negative": 0.008,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W31"
+    },
     {
       "title": "Talarico leads Paxton in Senate race by 5 points in new poll - Yourbasin",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZF9tbVlBbHY5Qllaek83UGx5dVFTUmp3YUpYaHJENWg5QzA0MjJJaVlmNkRWOVRoVGJoMjJuNFdwdi1qZFI5R0QzT0k3MGlCNTM1RmpaME53azJET2ZBb1dxYVR4c0dJTGNkU2swbU8teDdWeDhWRnFTUmh0NkJKRE9HemI4QldFZW9OSnl1QWVtS1k2YVc3OFdxeVgya0lEWG1uMzFaQ0Jxb2fSAbABQVVfeXFMTm1DR19zMVVmVW9PMTcxY1ZKNExaUHRSa05IS3VHNVRpSzZrRzVsU1N4d3BXMFA3T0JVbllFUEdidFJ0anJXT1VkNlJqQXFRak9jcXM0UW51WGU2OWo3NlNFdHhobV9hRmptRWQ5RFRaQkp4QjRuWmtlUkJFZDFaWDRnUXBONUxodGJXYXRueWV4dE9NNTE3RGlVMGVyc21mcHVodDVRRGdOeUlVU1BUdU8?oc=5",
@@ -1824,61 +1882,26 @@
       },
       "candidate": "general",
       "weekKey": "2026-W30"
-    },
-    {
-      "title": "Harris County Commissioner reveals $180 million budget deficit - WFAA",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPb3EtUnIxWHBwQkVHTm1hLUM3RGNObnhkYjJxejJEd19LeVJhWWZVUVlpMTV4VDVOTXFfN2RpOGFvd25VaFQwQUZfM25xREdCcWRDdVhNdEFfNWtGQnFOenFwbFk3UkFqWmYwQjhrbE5yMHh1UWRPZFdLd2JaR0Vld0xYRFk2MUVjSmNwNFlHd0h3eW4wZlZHR0ZHZTlNQ2ZZaWNvTXBNR1VNcFUwUXZTSzA3X3lKLWlZNzZabmtoc1RkNU5EWUFEOEpsa19YUkU5Z3ZkT20zTkFINkIwNVV6dmVNaVJQUHVUbmQxOGtKNGxxVnljeDlkUEI4S2F4NFNsaHM1eHBFUQ?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 22:45:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 3,
-      "matchedKeywords": [
-        "harris county"
-      ],
-      "sentiment": {
-        "positive": 0.003,
-        "negative": 0.997,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W30"
-    },
-    {
-      "title": "James Talarico unveils border policy plan for TX Senate bid, saying 'both parties have failed us' - Modern Ghana",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtZzZIdDR0b1gzbmdSNVdtWDhVNmFaMk1PRkJyRDVhTTBwazBwMGdieTlrZS1HVG9kSkxtTW1SZ0pkNVVaSzEtUVlTUF92T2Y1dHFqdnhKZ0NCdEM40gFcQVVfeXFMUG1nNkh0NHRvWDNuZ1I1V21YOFU2YVoyTU9GQnJENWFNMHBrMHAwZ2J5OWtlLUdUb2RKTG1NbVJnSmQ1VVpLMS1RWVNQX3ZPZjV0cWp2eEpnQ0J0Qzg?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 21:29:41 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.865,
-        "negative": 0.135,
-        "label": "positive"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W30"
-    },
-    {
-      "title": "Talarico is trying to win back Hispanics along the Texas border who swung toward the GOP - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNb0pYZTRMLWNha1FkQWh4enhPSE94NkIwLW1WbVFGeWtnSjZmNXJGVGhfNGJUMEJGRlg3NHpNTGcwc1ZNVVpaR3ItV2FOV0hva1FfSGZLdUhYSzE0ZnlReUkxY0ZrbzFjUWxKaVc2R0tGNE9vX0xWakRMcnNibVRTY254MDdpV3RCLWtBd284bDlrWjFyenJRTDRRVGZiTG10bHV2SWNRNkFWNlgzSW03Q1JkRDZWaEtLNGlVay0xcjVKakNVZ0NsWTBMdC1DNWh6aThkdlI0TVBWd0kwYk5YTmMtem8?oc=5",
-      "pubDate": "Sat, 25 Jul 2026 17:16:28 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "talarico"
-      ],
-      "sentiment": {
-        "positive": 0.375,
-        "negative": 0.625,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W30"
     }
   ],
   "weekly": {
+    "2026-W31": {
+      "talarico": {
+        "positive": 0,
+        "negative": 1,
+        "total": 1
+      },
+      "general": {
+        "positive": 0,
+        "negative": 1,
+        "total": 1
+      },
+      "both": {
+        "positive": 2,
+        "negative": 1,
+        "total": 3
+      }
+    },
     "2026-W30": {
       "both": {
         "positive": 30,
@@ -1886,26 +1909,19 @@
         "total": 42
       },
       "talarico": {
-        "positive": 7,
-        "negative": 15,
-        "total": 24
+        "positive": 6,
+        "negative": 14,
+        "total": 22
       },
       "general": {
         "positive": 13,
-        "negative": 12,
-        "total": 26
+        "negative": 11,
+        "total": 25
       },
       "paxton": {
         "positive": 4,
         "negative": 1,
         "total": 6
-      }
-    },
-    "2026-W31": {
-      "both": {
-        "positive": 1,
-        "negative": 1,
-        "total": 2
       }
     }
   }
