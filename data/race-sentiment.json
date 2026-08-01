@@ -1,9 +1,29 @@
 {
-  "analyzedAt": "2026-08-01T19:45:41.552Z",
-  "newsFetchedAt": "2026-08-01T11:43:58.466Z",
+  "analyzedAt": "2026-08-01T20:59:28.669Z",
+  "newsFetchedAt": "2026-08-01T20:27:37.644Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Inside Texas Politics | New polls this week show Talarico ahead of Paxton in Senate race - NewsBreak: Local News &amp; Alerts",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbnZDSE13Y0ZUbXZDdmFXMjhDT0dVVDNXSVJVUXllZnRBeElGeWEtQVhrWTRCRm9NdGlEcXN3TWRrdDlqa0NoTkpIcFNpam82VlBZWnFuS2k1eXVhNUtLMXg3ZzZiMzZuNzI0MUlydkFiMXNPbHU2d2xQWU11cF95WUVrTzkzcjNsSmk3Q0p0cVZNazdhcVdtZVpROUZTamV5b2Q0bVdmb21pUjF6cDIyZlpQTUEweVZ4bTdhRlAtRlZZTWtpRi1RUzM1RnpfbUdZTEJNVw?oc=5",
+      "pubDate": "Sat, 01 Aug 2026 03:33:12 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 18,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race",
+        "texas politics"
+      ],
+      "sentiment": {
+        "positive": 0.993,
+        "negative": 0.007,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W31"
+    },
     {
       "title": "Democrats could flip Texas Senate seat because Paxton ‘is so awful’: Sabato - The Hill",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZTBNYUg5M2wyZU9VLVVMSkZIaURlVFd1Vmtjdm9Wa1A4WktmTzhjTVdZV1JqOUo3MzBoRG0tSGFCSW5iaXdjbTZsR05BRnpjSnY1Mmd2YXhaV3pvSXVmLTFsMDZYOVZIUkhjTDRDcVpHOHltbF8wWDlDekxvQkZUeWtpRVBsX3d3X3lVNENXVdIBlAFBVV95cUxPTGpyMEd2Y1pobVlLWFBmU0xMeUgxdHBodHJNMTJnQkoza2YyLTNzNVhlU2pwazczLXhOXzhwdWJDeU5Ic29zUlpvaUQyV3dkaTNFX3pRWF9YTnRoUjBha2lKb2hjMGU0ejI5UEFFaTk0TlJpb1FuWjFPVDMza1JnSEs1cGVFWmNORDl5a091djF3ZEFM?oc=5",
@@ -1907,39 +1927,19 @@
       },
       "candidate": "general",
       "weekKey": "2026-W30"
-    },
-    {
-      "title": "Will Paxton's unanswered questions impact him in the Texas Senate race? - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT2laYWUyeUNjWHAwR2VjUnI1X2JqcDBScFJlaTFXeHB3dEZtbWdib0RXeldmRW1OazlQbGNXb1JyYWUyVWVjS3lMX0xQVk9VaXFuUFY2UW91VFlhcUF3VGx1NzlNLXZ5UURRQjFzR3djS1lTUW9LZDBic1ZMSW9meDQxQWZnZWVXQ21iLXQ0RVlCaTc1V0Z2dkhLOUlrT25nd3NyVl8wbWVVZw?oc=5",
-      "pubDate": "Sun, 26 Jul 2026 12:29:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.981,
-        "negative": 0.019,
-        "label": "positive"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W30"
     }
   ],
   "weekly": {
     "2026-W31": {
+      "both": {
+        "positive": 9,
+        "negative": 3,
+        "total": 13
+      },
       "paxton": {
         "positive": 4,
         "negative": 1,
         "total": 5
-      },
-      "both": {
-        "positive": 8,
-        "negative": 3,
-        "total": 12
       },
       "talarico": {
         "positive": 2,
@@ -1969,9 +1969,9 @@
         "total": 14
       },
       "paxton": {
-        "positive": 2,
+        "positive": 1,
         "negative": 1,
-        "total": 3
+        "total": 2
       }
     }
   }
