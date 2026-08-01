@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-08-01T08:41:12.618Z",
-  "newsFetchedAt": "2026-08-01T04:55:46.684Z",
+  "analyzedAt": "2026-08-01T10:43:37.563Z",
+  "newsFetchedAt": "2026-08-01T10:04:07.356Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "New poll gives Talarico slight lead over Paxton, shows governor’s race tied - FOX 7 Austin",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeWI0YUVUcE1jV0p5TEt2b2ZoRk5KRTFnNFppSUduaGtiQW40blRzamtmMkxqTXhnMG5rTDVDSjYzeWYzaWlzcVZhY1lDTjFEWmVkczJSdjNGSW5ISkJrcDc0UzktMGJvdTd2aDhGR0RHMkE0U2ZxLWpBeDYwQTZXeVdHVWtRUm9IamNxd3dFak1QRng4aDRz?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 17:16:15 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": {
+        "positive": 0.037,
+        "negative": 0.963,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W31"
+    },
     {
       "title": "Inside Texas Politics | New polls this week show Talarico ahead of Paxton in Senate race - WFAA",
       "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQLTIxck1Pd1R2MnRsMmcweEpiQTVpblZBYThUSjZ1aW93WS0tbkFjcEluc1lwRVJRel9RZFpLME9TMU1VdUcySG0xOEZmc3RaQjl0LWFrR2phV0Y5SnN5OEluYThndmNRVjZnVUkxU3lOUFJiUGw0a0h1RkJIUFpTVGpIbWZpcEZ4cHdIQ1VNdWtXZW5ZTGVvQVE5UGxPZlQ2TVZWUXMyZWxwdWpoQm5LUnFRR256YjB1OXlQendlRG5MN1JGZkZ2NXdmRExUNzA0WE45MnEtbVdQLTZPV1pKWElxNENxRlhzX18tR1BPOE5rbzlKTVh6MVdDTGRVZzduc0JaVzY1ZkpUNERmUFRDSll1ZDAzNlNNMmdxU2ZR?oc=5",
@@ -1908,31 +1926,14 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W30"
-    },
-    {
-      "title": "Bexar County Judge Race: Ron Nirenberg outraises Patrick Von Dohlen in 2026's first half - kens5.com",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPTjV6UWxVU28wdGl3Q0dvQlU2YkExWGE3VjhfRGdNSWNYNEhBRk1VeFRxdVZYak1xRFVOX01tQ0F0OWtKeTNnOGVpN1ZacWltNzl0bWdOVVg1RDVHTnc3cVlwQVNXcEFlazVzMkNGbE9Gb1ZER1c0STBzaFQ0akd4WHNZR2N2YjJSdTVuTm5UZm5yV2llNlliUnlUbHhmQ0ptdTlHMnFlekhFZGpyY1EwaHZmU1JNMnlHUHd6R2lFTUxEb21hb080bVFhVThsUVJMVUR6Tl9jUkh4RTR0aU03cTBwYU1HSGhFNTdrVUFfZGZkc2tJUEtfYXNqTWhkXzEy?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 22:05:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 3,
-      "matchedKeywords": [
-        "bexar county"
-      ],
-      "sentiment": {
-        "positive": 0.938,
-        "negative": 0.062,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W30"
     }
   ],
   "weekly": {
     "2026-W31": {
       "both": {
         "positive": 8,
-        "negative": 2,
-        "total": 11
+        "negative": 3,
+        "total": 12
       },
       "talarico": {
         "positive": 2,
@@ -1962,9 +1963,9 @@
         "total": 14
       },
       "general": {
-        "positive": 7,
+        "positive": 6,
         "negative": 7,
-        "total": 15
+        "total": 14
       },
       "paxton": {
         "positive": 3,
