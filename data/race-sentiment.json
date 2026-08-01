@@ -1,9 +1,29 @@
 {
-  "analyzedAt": "2026-08-01T03:25:10.345Z",
-  "newsFetchedAt": "2026-07-31T23:08:04.616Z",
+  "analyzedAt": "2026-08-01T06:15:05.939Z",
+  "newsFetchedAt": "2026-08-01T04:55:46.684Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Inside Texas Politics | New polls this week show Talarico ahead of Paxton in Senate race - WFAA",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQLTIxck1Pd1R2MnRsMmcweEpiQTVpblZBYThUSjZ1aW93WS0tbkFjcEluc1lwRVJRel9RZFpLME9TMU1VdUcySG0xOEZmc3RaQjl0LWFrR2phV0Y5SnN5OEluYThndmNRVjZnVUkxU3lOUFJiUGw0a0h1RkJIUFpTVGpIbWZpcEZ4cHdIQ1VNdWtXZW5ZTGVvQVE5UGxPZlQ2TVZWUXMyZWxwdWpoQm5LUnFRR256YjB1OXlQendlRG5MN1JGZkZ2NXdmRExUNzA0WE45MnEtbVdQLTZPV1pKWElxNENxRlhzX18tR1BPOE5rbzlKTVh6MVdDTGRVZzduc0JaVzY1ZkpUNERmUFRDSll1ZDAzNlNNMmdxU2ZR?oc=5",
+      "pubDate": "Sat, 01 Aug 2026 03:33:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 18,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race",
+        "texas politics"
+      ],
+      "sentiment": {
+        "positive": 0.997,
+        "negative": 0.003,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W31"
+    },
     {
       "title": "Fox Poll: Nearly a Quarter of Non-MAGA Republicans Support Talarico in Texas Senate Race - mediaite.com",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeG5iVVBFaUxZdGRLekZFTWtCcEo5aUdoUUlydnlabER3am00TUlmNlFoOVU0bmJFYmg1aGJJcnVQVVVzdGp4QU5mM25QYU0xQ1dxOUU0SEFwVThiUEpHR1hiZHE1TnRScHRUNFhOaFRzZVdrUGZuQUFpbS03Rlp2RlFnc25hRGhvSkVOVFo3LWdJSEhUS1Q3RzhpMEM0RV90Z2x3YWNkeENIWUNhUDg0bm9oNTQ1eTJUemdnSkVBaw?oc=5",
@@ -1905,36 +1925,19 @@
       },
       "candidate": "general",
       "weekKey": "2026-W30"
-    },
-    {
-      "title": "Inside Texas Politics - newswest9.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT2VxNUsxTWZJLVVkLUlLZnROeVc5Mk5xTUFKRmFPWnluYkNzWnM3RW83NGhlZGFXU21OcmRjSEdyc2ZfX3IwcnpaeVB0d1lMUDZxc2hacE1vMmZ2UWhoZXd4TXBhTjZWSzltTXZ6OGs2Vm1hMlN6bjZfWDRVWXdvUjRGYlpiajJRWVNheXNEZWNZeWlhYTYxa2QxakxaRTZsbXhYNXBYUVZENXpqTjN6YQ?oc=5",
-      "pubDate": "Sun, 26 Jul 2026 12:00:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "sentiment": {
-        "positive": 0.965,
-        "negative": 0.035,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W30"
     }
   ],
   "weekly": {
     "2026-W31": {
+      "both": {
+        "positive": 8,
+        "negative": 2,
+        "total": 11
+      },
       "talarico": {
         "positive": 2,
         "negative": 3,
         "total": 6
-      },
-      "both": {
-        "positive": 7,
-        "negative": 2,
-        "total": 10
       },
       "paxton": {
         "positive": 4,
@@ -1959,9 +1962,9 @@
         "total": 14
       },
       "general": {
-        "positive": 8,
+        "positive": 7,
         "negative": 7,
-        "total": 16
+        "total": 15
       },
       "paxton": {
         "positive": 3,
