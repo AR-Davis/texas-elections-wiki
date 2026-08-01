@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-08-01T21:59:53.200Z",
-  "newsFetchedAt": "2026-08-01T20:27:37.644Z",
+  "analyzedAt": "2026-08-01T22:58:11.948Z",
+  "newsFetchedAt": "2026-08-01T22:31:34.751Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "State of Texas: Talarico Leads Paxton Among Black Voters, But Voter Turnout Concerns Persist - KXAN Austin",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNb3NTdEJYbzlXa3JPM0Zidno3S3V6NTgyRkJSTWtqTzBuQXhwdGVmX2lhNXVsVDA4X0JMUi1FSzNuZ2JjMGpGZF9tVUt6QmUxblhzQ0QzS2dFU3ZnUlpfbXlUR3JES1MzaG1XajYycWMxQnEzeUFNMlR6TkZmMS0xRF9ENmJsSFk5YkdRYUROVVhSNzdlbC1iaHJwd2ZmSXF5R2lHeUpvbTNyWlFfclNJSHhOR21mOFl5SXhTQ0hnTEtUelJpeFE?oc=5",
+      "pubDate": "Sat, 01 Aug 2026 19:47:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": {
+        "positive": 0.03,
+        "negative": 0.97,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W31"
+    },
     {
       "title": "Inside Texas Politics | New polls this week show Talarico ahead of Paxton in Senate race - NewsBreak: Local News &amp; Alerts",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbnZDSE13Y0ZUbXZDdmFXMjhDT0dVVDNXSVJVUXllZnRBeElGeWEtQVhrWTRCRm9NdGlEcXN3TWRrdDlqa0NoTkpIcFNpam82VlBZWnFuS2k1eXVhNUtLMXg3ZzZiMzZuNzI0MUlydkFiMXNPbHU2d2xQWU11cF95WUVrTzkzcjNsSmk3Q0p0cVZNazdhcVdtZVpROUZTamV5b2Q0bVdmb21pUjF6cDIyZlpQTUEweVZ4bTdhRlAtRlZZTWtpRi1RUzM1RnpfbUdZTEJNVw?oc=5",
@@ -1910,31 +1928,14 @@
       },
       "candidate": "general",
       "weekKey": "2026-W30"
-    },
-    {
-      "title": "Rep. Beth Van Duyne calls vote to end Iran war unrealistic | Inside Texas Politics: July 26, 2026 - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FRDlWMEh0MG1kTmpsbWVkVEdHMGExeHBUNDlneWgyUkliZHhmQ0J2ZGJ5STExZDR4ZndzUEZQQjNWWERBNnBOeEhPSGNqQnpmR09xV0YzY0Y4SFhrZjRsWUp4U0tqMTNRU3BsZ1ZNTU9wZVdiOHptSk5ydEg0QQ?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 23:07:06 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "sentiment": {
-        "positive": 0.014,
-        "negative": 0.986,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W30"
     }
   ],
   "weekly": {
     "2026-W31": {
       "both": {
         "positive": 9,
-        "negative": 3,
-        "total": 13
+        "negative": 4,
+        "total": 14
       },
       "paxton": {
         "positive": 4,
@@ -1965,8 +1966,8 @@
       },
       "general": {
         "positive": 6,
-        "negative": 7,
-        "total": 14
+        "negative": 6,
+        "total": 13
       },
       "paxton": {
         "positive": 1,
