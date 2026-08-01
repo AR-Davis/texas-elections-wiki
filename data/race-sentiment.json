@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-08-01T10:43:37.563Z",
-  "newsFetchedAt": "2026-08-01T10:04:07.356Z",
+  "analyzedAt": "2026-08-01T12:04:21.436Z",
+  "newsFetchedAt": "2026-08-01T11:43:58.466Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Democrats could flip Texas Senate seat because Paxton ‘is so awful’: Sabato - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZTBNYUg5M2wyZU9VLVVMSkZIaURlVFd1Vmtjdm9Wa1A4WktmTzhjTVdZV1JqOUo3MzBoRG0tSGFCSW5iaXdjbTZsR05BRnpjSnY1Mmd2YXhaV3pvSXVmLTFsMDZYOVZIUkhjTDRDcVpHOHltbF8wWDlDekxvQkZUeWtpRVBsX3d3X3lVNENXVdIBlAFBVV95cUxPTGpyMEd2Y1pobVlLWFBmU0xMeUgxdHBodHJNMTJnQkoza2YyLTNzNVhlU2pwazczLXhOXzhwdWJDeU5Ic29zUlpvaUQyV3dkaTNFX3pRWF9YTnRoUjBha2lKb2hjMGU0ejI5UEFFaTk0TlJpb1FuWjFPVDMza1JnSEs1cGVFWmNORDl5a091djF3ZEFM?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 14:28:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "texas senate"
+      ],
+      "sentiment": {
+        "positive": 0.003,
+        "negative": 0.997,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W31"
+    },
     {
       "title": "New poll gives Talarico slight lead over Paxton, shows governor’s race tied - FOX 7 Austin",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeWI0YUVUcE1jV0p5TEt2b2ZoRk5KRTFnNFppSUduaGtiQW40blRzamtmMkxqTXhnMG5rTDVDSjYzeWYzaWlzcVZhY1lDTjFEWmVkczJSdjNGSW5ISkJrcDc0UzktMGJvdTd2aDhGR0RHMkE0U2ZxLWpBeDYwQTZXeVdHVWtRUm9IamNxd3dFak1QRng4aDRz?oc=5",
@@ -1909,27 +1927,15 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W30"
-    },
-    {
-      "title": "Paxton's Border Security Record: Court Battles and Impact - Daily Signal",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdWxib29hTkpBQmplb3lQMXJ6ejFaWDUzWk5fdUc1SE5rMU82X1Z0ZnRjNmE5UGpMaHpJang5c0xnUVNRQWkxdWlaMkt0YndjcmhKMmNxZ05zdU5BNWVsVkl0T1hLWmw0bVlkX09MZjloSTkzQmdQV3JhOHlza0Nqb0x3VnpUV2VkRjZyVA?oc=5",
-      "pubDate": "Sun, 26 Jul 2026 17:00:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.987,
-        "negative": 0.013,
-        "label": "positive"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W30"
     }
   ],
   "weekly": {
     "2026-W31": {
+      "paxton": {
+        "positive": 4,
+        "negative": 1,
+        "total": 5
+      },
       "both": {
         "positive": 8,
         "negative": 3,
@@ -1939,11 +1945,6 @@
         "positive": 2,
         "negative": 3,
         "total": 6
-      },
-      "paxton": {
-        "positive": 4,
-        "negative": 0,
-        "total": 4
       },
       "general": {
         "positive": 0,
@@ -1968,9 +1969,9 @@
         "total": 14
       },
       "paxton": {
-        "positive": 3,
+        "positive": 2,
         "negative": 1,
-        "total": 4
+        "total": 3
       }
     }
   }
