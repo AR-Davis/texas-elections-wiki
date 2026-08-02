@@ -1,9 +1,45 @@
 {
-  "analyzedAt": "2026-08-02T21:59:41.813Z",
-  "newsFetchedAt": "2026-08-02T21:29:08.961Z",
+  "analyzedAt": "2026-08-02T22:59:17.200Z",
+  "newsFetchedAt": "2026-08-02T22:31:42.829Z",
   "totalAnalyzed": 100,
   "newThisRun": 2,
   "stories": [
+    {
+      "title": "James Talarico Takes Another Futile Stab at Proving His Manhood by Driving a Pickup - pjmedia.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOanp2aElPdVFuNXl5eVZsQWFXZVNlaFhfemduUnVRblctQVkzX2JwRWhYX0RLT1NBTTZPOWxuRHlXUS1CazNyaklaZlR5YXZxZ0tlMDJqZ1AzcmltV3lrZ0Vqbk9FcEFQdlYyTU4tZ0lYaXNyRldsVnNMUFJfdGlwVjdKM3ZkQXltZ1dGNXNxSG93d0dLeW5rbGhjZ1h1dHlfZjZ6OUVOdTlXOFA0TlJvQTRnalpuU3N4Vmtqcmo1eDBtVjlydzNqeUdJZVJhMVl5?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 18:12:18 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.001,
+        "negative": 0.999,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W31"
+    },
+    {
+      "title": "John Cornyn - britannica.com",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxMlRaRi1pMVVVZ3Vhb3k2TXNiQUFvcV9PbG02T0FxV3lRTUpSZUpROVp6TzE0T19lTURfQ2dxS0l2Wlp3eXFuZHpLakwxb09JMERTMXgzbkVma3lC?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 05:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 9,
+      "matchedKeywords": [
+        "cornyn",
+        "john cornyn"
+      ],
+      "sentiment": {
+        "positive": 0.983,
+        "negative": 0.017,
+        "label": "positive"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W31"
+    },
     {
       "title": "Ken Paxton Slammed Over Shocking Plea Deal Allowing Accused Repeat Child Sex Offender One Day in Jail - International Business Times",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdlZsTW5lQU1BdzdVODZ6RHg2SjdhT2J5MFBPdS1QTW8xWVRTRU12VE1SaTVaNWhPWUlRWlR3dEEtVE5LVFVmdURIWnhVVkV3NUZDTG9qOGNQSGhDU1ZUTXBWSGdhTWNONlFfdDhYbms2MmFGZkVqX2d6MUJINF9vckE2Z2hWNWpadElRcVJ3djNabkZpQTc5M1NiRUtmU0FURjkwY29BUmRWRHYtVDV0Qnp2aWxkRVJxaHI3VjR4LWFRR0JIUXNF?oc=5",
@@ -1893,50 +1929,20 @@
       },
       "candidate": "general",
       "weekKey": "2026-W30"
-    },
-    {
-      "title": "Years of scandals haven’t stopped Ken Paxton. Can James Talarico change that? - Mainline Media News",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQczZaT092TVQxRFJCWHUwZkwyNFZ3YVJKSmZxZHlHMjV5VTFhX05MdUhnR0lLN0dZSmlJcG5JRlVYWVVBV0dRQkRzRzFxalNOUjlpaUhKUGF2Y2QxZ0k1NjRpekhPUlRESExKUmlXNk9rQXdLeGJKNVg4a1hWb1FCTHNpeGNBRkJBTURoSXMxek43NTNtSExrVw?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 14:50:50 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.04,
-        "negative": 0.96,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W30"
-    },
-    {
-      "title": "Years of scandals haven't stopped Ken Paxton. Can James Talarico change that? - News-Press NOW",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNTUhnMGRSTlBMLVFIUnJETlFGdEQ5QWNwOUZhUWdKYWxfNEhJWTFBWkVtMGlEV2NNT1dHQVJVZTczWGlGckI3ZFpJWDU1ZnJRY0E2c2xqUmFOWVVBcEtMckxmNXpDbEcwcDVNd1FwNGdzbG42cnY1b0l0ZEhmN1hKRDRuQVA4Q0hKUXZwYVp1eWo3MWxTR1BfUGdMVVpZSzJKUHdOVVJiVnhJcUVIM3c4eGVvQ2pjb2JFNk5vaExtUk5JWjgwYzJBUzBvUWlSR0Q4bkQ5Q3ZlVmtwdm5sSldYVXhyZGFvT1ExUENScDZkVGFxM1ZfanB5VnVHQlV2RWhTT0ZOaFBVZzRwcHdBMVE?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 11:19:07 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.044,
-        "negative": 0.956,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W30"
     }
   ],
   "weekly": {
     "2026-W31": {
+      "talarico": {
+        "positive": 4,
+        "negative": 4,
+        "total": 9
+      },
+      "general": {
+        "positive": 1,
+        "negative": 2,
+        "total": 3
+      },
       "paxton": {
         "positive": 5,
         "negative": 5,
@@ -1946,23 +1952,13 @@
         "positive": 11,
         "negative": 5,
         "total": 17
-      },
-      "talarico": {
-        "positive": 4,
-        "negative": 3,
-        "total": 8
-      },
-      "general": {
-        "positive": 0,
-        "negative": 2,
-        "total": 2
       }
     },
     "2026-W30": {
       "both": {
         "positive": 31,
-        "negative": 9,
-        "total": 40
+        "negative": 7,
+        "total": 38
       },
       "talarico": {
         "positive": 2,
