@@ -1,9 +1,45 @@
 {
-  "analyzedAt": "2026-08-02T03:28:54.605Z",
-  "newsFetchedAt": "2026-08-01T22:31:34.751Z",
+  "analyzedAt": "2026-08-02T06:18:27.085Z",
+  "newsFetchedAt": "2026-08-02T04:05:04.955Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "James Talarico Nods as Voter Calls Karmelo Anthony Conviction a ‘Tragedy’ - breitbart.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ1A3UW1pOU1zTDFBb0ExUGpmd0V0aENnUEFNUTRPNXh4RWhXcktFbnUxYXVXbE4ybVdMb0ttOVY0Vi1lYmM4Tk12dElxQzFSQkRkMkJxN042NlllX2dfUXRRbFVtVFpNVzVRcFc0UWpzNktDZXcxYkQydy1HQUhtMXRtRXI3M2FZamxFWllPeXJGMkdXSzVvMk4xOFplN2ZrR3Ayd0V4cFRiQWFMWmRCX3R4WUtBX0V0Q0pxLUtfNNIBvwFBVV95cUxNQ1A3UW1pOU1zTDFBb0ExUGpmd0V0aENnUEFNUTRPNXh4RWhXcktFbnUxYXVXbE4ybVdMb0ttOVY0Vi1lYmM4Tk12dElxQzFSQkRkMkJxN042NlllX2dfUXRRbFVtVFpNVzVRcFc0UWpzNktDZXcxYkQydy1HQUhtMXRtRXI3M2FZamxFWllPeXJGMkdXSzVvMk4xOFplN2ZrR3Ayd0V4cFRiQWFMWmRCX3R4WUtBX0V0Q0pxLUtfNA?oc=5",
+      "pubDate": "Sun, 02 Aug 2026 00:06:33 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.875,
+        "negative": 0.125,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W31"
+    },
+    {
+      "title": "Ken Paxton Slammed Over Shocking Plea Deal Allowing Accused Repeat Child Sex Offender One Day in Jail - International Business Times UK",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOME53bDUwOGE5S3N4LWYtVHRHd1Y0UzhoLXpxS1F3Q1lTdVV1UXdFaVZVUUltX1pNdldsZ0ttbnpHRW1uSXBWYVdGLXFZOEFfd3BZRDN1R0x4U2tQMW1rQVc4M25IdHpKNEhSaXZ3ek5INDVYamVIUngtSlNNOUMtanB5dw?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 21:05:01 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.063,
+        "negative": 0.937,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W31"
+    },
     {
       "title": "State of Texas: Talarico Leads Paxton Among Black Voters, But Voter Turnout Concerns Persist - KXAN Austin",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNb3NTdEJYbzlXa3JPM0Zidno3S3V6NTgyRkJSTWtqTzBuQXhwdGVmX2lhNXVsVDA4X0JMUi1FSzNuZ2JjMGpGZF9tVUt6QmUxblhzQ0QzS2dFU3ZnUlpfbXlUR3JES1MzaG1XajYycWMxQnEzeUFNMlR6TkZmMS0xRF9ENmJsSFk5YkdRYUROVVhSNzdlbC1iaHJwd2ZmSXF5R2lHeUpvbTNyWlFfclNJSHhOR21mOFl5SXhTQ0hnTEtUelJpeFE?oc=5",
@@ -1894,58 +1930,24 @@
       },
       "candidate": "both",
       "weekKey": "2026-W30"
-    },
-    {
-      "title": "Inside Texas Politics | Dallas City Council Member Paula Blackmon not giving up fight for City Hall - WFAA",
-      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNa3pLV2RReE9GRjd5bE51UHQ4M1dCLTYyUzZRWlRENWFDdGxsUlhMb0liajlzaU5wcS1naGdwaU5Sa0p0OENUUWlWWTlkRWdFNG9MYm5IeXVIcEhSZmVmekVyTElNR0NhSlBfZjNtOHNjc29nRHJua3pRNzlYWl9IWWtqWkZFRnVyNHgtRERINy1HaU9IRDVqVFBYTzhDWXZOb0xEdDlpRFRRMHFtMnF0S215QnlFeHZVQ1VpZm5sclZRYWZDLUc0dUFQbnVySDM2UjlTZk5Lel9iREN4UTliZHFaZjliZXppSG1jS011OUEyWWdIbC1KX1dXN1c5c2hBSVh4ei04MUs4UHdLVERpVTFPNEh1TGRfZWtmb3hkS2lCSVo1ckE?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 03:29:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "sentiment": {
-        "positive": 0.996,
-        "negative": 0.004,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W30"
-    },
-    {
-      "title": "Inside Texas Politics - newswest9.com",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNU40SFo1V0x6UFRjdlBLR2FNMzBkYllfX2R0ZVU1bl9yQnpXaEtYVFVrempVQXpvYU5KaElKS1RiT2xvVl9CQTBJT2xTSHdsVFJkMWRGNGdUSldQVUNNWUVfY3NJV19PNnBVMDFpVkhIaTdqaVdveGdyUWxfYmhsTXl1UXZ6TWNPaHpTVUtwQVFzSDRNSk9rYnY3TUZXeXhpZ0UyWTlR?oc=5",
-      "pubDate": "Sun, 26 Jul 2026 12:00:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "sentiment": {
-        "positive": 0.965,
-        "negative": 0.035,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W30"
     }
   ],
   "weekly": {
     "2026-W31": {
+      "talarico": {
+        "positive": 3,
+        "negative": 3,
+        "total": 7
+      },
+      "paxton": {
+        "positive": 4,
+        "negative": 2,
+        "total": 6
+      },
       "both": {
         "positive": 9,
         "negative": 4,
         "total": 14
-      },
-      "paxton": {
-        "positive": 4,
-        "negative": 1,
-        "total": 5
-      },
-      "talarico": {
-        "positive": 2,
-        "negative": 3,
-        "total": 6
       },
       "general": {
         "positive": 0,
@@ -1965,9 +1967,9 @@
         "total": 14
       },
       "general": {
-        "positive": 6,
+        "positive": 4,
         "negative": 6,
-        "total": 13
+        "total": 11
       },
       "paxton": {
         "positive": 1,
