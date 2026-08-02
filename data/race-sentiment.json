@@ -1,9 +1,29 @@
 {
-  "analyzedAt": "2026-08-02T14:09:29.020Z",
-  "newsFetchedAt": "2026-08-02T04:05:04.955Z",
+  "analyzedAt": "2026-08-02T15:39:48.198Z",
+  "newsFetchedAt": "2026-08-02T14:38:55.029Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Big news for Talarico in stunning new Texas Senate race poll - tag24.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcWtJbWZNUW5oelNvNnlVc0pXdjhIRno5bWZYTjBzVWlRRmRPai1EZDlsU21Wd2VvQnN0UVRGci1uTUt2WDVnaFAtM2xBQTdYS1NNaTRtQ08yOEVjcGc5WW5tRkpFRDhtUFlMbFlXUV9qbll3Q002VmxaNlZ1Rno3WFJjUGlNbHdvbENHX3Y4cWJ3MEo1MEN1Z014TTg2ajhEdUI2MkdlakdTYnhBMU5UeUhjdmgxNVpqUGxV0gHAAUFVX3lxTE5GYnBpT3BELVZiN2djS2xKQ2U0Zk05Y0Y3bW9iYlNaa19GMC14VDk3SzZfSTNjVncxZ0YySzV5V2ZXbkVDdkdLVXpBYzNST1VRZzNKcEFtV0EzdXI1OUZzVzVXNl9lZHp1QmMyTWZWRWdnUWRkTEVSQ1BtQllFc1BERzU4VlZMU2s4NnViSm80dW5ZSjI5MnVBRDVYblZJVXBMVll0WGdpV3plb2hiUUNvWlZsYTBNMWRkRkdaNURBVA?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 14:07:17 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.986,
+        "negative": 0.014,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W31"
+    },
     {
       "title": "James Talarico Nods as Voter Calls Karmelo Anthony Conviction a ‘Tragedy’ - breitbart.com",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ1A3UW1pOU1zTDFBb0ExUGpmd0V0aENnUEFNUTRPNXh4RWhXcktFbnUxYXVXbE4ybVdMb0ttOVY0Vi1lYmM4Tk12dElxQzFSQkRkMkJxN042NlllX2dfUXRRbFVtVFpNVzVRcFc0UWpzNktDZXcxYkQydy1HQUhtMXRtRXI3M2FZamxFWllPeXJGMkdXSzVvMk4xOFplN2ZrR3Ayd0V4cFRiQWFMWmRCX3R4WUtBX0V0Q0pxLUtfNNIBvwFBVV95cUxNQ1A3UW1pOU1zTDFBb0ExUGpmd0V0aENnUEFNUTRPNXh4RWhXcktFbnUxYXVXbE4ybVdMb0ttOVY0Vi1lYmM4Tk12dElxQzFSQkRkMkJxN042NlllX2dfUXRRbFVtVFpNVzVRcFc0UWpzNktDZXcxYkQydy1HQUhtMXRtRXI3M2FZamxFWllPeXJGMkdXSzVvMk4xOFplN2ZrR3Ayd0V4cFRiQWFMWmRCX3R4WUtBX0V0Q0pxLUtfNA?oc=5",
@@ -1910,34 +1930,14 @@
       },
       "candidate": "general",
       "weekKey": "2026-W30"
-    },
-    {
-      "title": "Years of scandals haven't stopped Ken Paxton. Can James Talarico change that? - The Killeen Daily Herald",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNlc5M1pxb0owNkpIdUFyY3JEdndFVW9HTDR0aE1KM3BQTkEtUURKUlBvaGJMOTFONm9mU3NFVlNpMXhSbHNKdWJyOERMMkZ6RlAxR2k2NnRaOEh5cUI4MzBveTRHMW5ienBpZ3JueDlabXRiTVR6N3p2dzNCQ3cxZHRoaGtxb2Z6cW85clUwclRZS0EzeW1McHZmdnA4ekhOWGpmY19TLUNMaENpVGVpRXEwUzFyeDViSzd5cGVkcEFGRUJ1ZnNaNFZQWjRsdE56RG93TkZNVmkzbWlhU01CaHF3YjJDQVgxTFlyYmloSQ?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 11:19:07 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.179,
-        "negative": 0.821,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W30"
     }
   ],
   "weekly": {
     "2026-W31": {
       "talarico": {
-        "positive": 3,
+        "positive": 4,
         "negative": 3,
-        "total": 7
+        "total": 8
       },
       "paxton": {
         "positive": 4,
@@ -1958,8 +1958,8 @@
     "2026-W30": {
       "both": {
         "positive": 32,
-        "negative": 12,
-        "total": 44
+        "negative": 11,
+        "total": 43
       },
       "talarico": {
         "positive": 3,
