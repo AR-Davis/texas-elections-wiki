@@ -1,9 +1,48 @@
 {
-  "analyzedAt": "2026-08-02T18:07:53.851Z",
-  "newsFetchedAt": "2026-08-02T16:04:41.668Z",
+  "analyzedAt": "2026-08-02T19:44:14.081Z",
+  "newsFetchedAt": "2026-08-02T19:18:55.136Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Talarico leads Paxton by 3 points in Texas Senate race: Fox News poll - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRUl5SWQ3MzRVYmJMLWszaGM1RXRWVXV5bHcwLU13eDFpc2Y1RVZCVVNOOC1HQ01RdkR6eG1hZ25TelI3VjFFM3FFVzRlbmYxNUNzaEc5Q1Qtb0NULW9ObGZtWG40XzRDeTdNamVfV19jTUR5cDZaX0RtUXF4TEVTaF94TkJQaVZMbHc1NFdMRdIBlAFBVV95cUxNeXpZMl9rTFNfTXRvZWdYaEJhV0VsRC1NSFNFSXI4cjBUMV9tMGhsU2VfRllmNjRxamo3WGxjRldNUWd5VmRDczJxY3pGMXpkU2FhaXRRMElMRFdoMUtKTG8xQzVyWFZURFVJNUh0SmdmX2l4Ty1lRUtKYWhHTXlyd3N3azZveDl0NGZqVmtMRUhub2pW?oc=5",
+      "pubDate": "Sat, 01 Aug 2026 19:29:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.965,
+        "negative": 0.035,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W31"
+    },
+    {
+      "title": "Warning Signs for Paxton as Independents, Some Non-MAGA Republicans Drift Toward Talarico - legalinsurrection.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNWJhNzB6OXRDZkVnclUtSEtaN2JvMnFpdnNMX2NfNDFQbEJLaWpMTmw1MEhFVzVIQlF5Y3dTYWxWQlFZSHFDZmh2M1ZKYnVlVmF4U1hhakdsMERmbktZSWZ5X1ktQUl2cF9fa3dpZ2lRTVhydThQVEV4RThWY1oxbjJhRUtmaTFtbnVzUHUzVmdhU0VoakhaM0xvSld0QjYxNHpQNWxfQl80cTdrYkJGeXkxVEJlMjhWVnl5SC12Q2ZjbWVaZmfSAcsBQVVfeXFMTk9Qemc0aHIyX3Z6TUMwbDlFZVJYV09XeDl1cHVBYm5ac1VQaURQcnJjVUZ3elNBSnc3UGZibEgycmozV3hkMWlQM2R3TDJPQnc0VDFsMUVNWmpmdG5HQ0E5b3QwcWRVQ25rTU5MZmczTVZRUG83aXl5WlJmVm9oYnFSODJYV3MyZ1ZjWTZYTE5PT0FFbkxHdWJ4NmI4ZHV1ZGtSTEJnemdjM1RhWk1PaXZOXzFoVlc4aEZSTGYwUy1TbFg1SEd3VVdXOEE?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 18:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 10,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": {
+        "positive": 0.003,
+        "negative": 0.997,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W31"
+    },
     {
       "title": "North Texas Republican excites GOP base with Unity Rally, says Cornyn voters must back Paxton - WFAA",
       "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQY2h0ZjJoSXVFWmstZEJsOGpoSmpOQmxwVjJFLXJYOFd2emFJN1FOTDBnX1F6UmFoVTB4UUlQX1UtSmJTMmMtTjNGYUtxMHVCOTNDTkJqaDlSUEpaY3h4RGxwWHZ5RE5McDc5bThqb0xRRzlxSnE0SUlXcFU3ckdXS0VLX04wSDdoQUxqeTBPdTEzMW5RUldYRXI2emZBY1JYaG5peUh6N2IwdFVXX2ZIVVVtUEZyYkpnX2NLMTg5Y24zY3JkaWVjUWpnNzN2Ti1jT1hIbDJWT2gwdlRNUmFoXzJHQi15OHc5akVlR2JEX1Q4bEkxT04telduYUJHaTZxVUgtWEhpRkM1LW1mYnlYbUU2QmUwRFA0LWNraWJrcDVmbDJVc1ZsR0Y3ZXNwdEd4?oc=5",
@@ -1892,50 +1931,15 @@
       },
       "candidate": "both",
       "weekKey": "2026-W30"
-    },
-    {
-      "title": "Years of scandals haven't stopped Ken Paxton. Can James Talarico change that? - Traverse City Record-Eagle",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPd0RUYzYyVGx4c21ISnR6aTVGSkVvc0tJbzgxOEltbW1mOE1SQTBNMG1zUEotTTFubGJncWkwSmtrOGxZajhQZTltd1JFcnVQa0M3TEVqOGptX1RCVGxkaDFocnVyd2VOdXlPdURFRFE2OEN5eU83OWgzX3NzTTZqWEpoUk85cTVreUdwSUNZckFPbjJFUWtoUUV6VEh6bnd1a2M4dm1iWm5aQlNDREdJLTJVRUJSaWxEel9zazBJUTA3b2ZDNEszclYyTnZnNnd2bEZOdkVCdG1vVjVDRlFDdjIwaFZOMXBrRmNBcm1YN08xVDBJNVNUag?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 11:19:07 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.932,
-        "negative": 0.068,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W30"
-    },
-    {
-      "title": "Years of scandals haven’t stopped Ken Paxton. Can James Talarico change that?",
-      "link": "https://apnews.com/article/paxton-talarico-texas-senate-ed48f727f8df069935cb63660a278891",
-      "pubDate": "2026-07-27T14:49:10.149Z",
-      "feedSource": "topnews",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.162,
-        "negative": 0.838,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W30"
     }
   ],
   "weekly": {
     "2026-W31": {
+      "both": {
+        "positive": 10,
+        "negative": 5,
+        "total": 16
+      },
       "paxton": {
         "positive": 5,
         "negative": 2,
@@ -1946,11 +1950,6 @@
         "negative": 3,
         "total": 8
       },
-      "both": {
-        "positive": 9,
-        "negative": 4,
-        "total": 14
-      },
       "general": {
         "positive": 0,
         "negative": 2,
@@ -1959,9 +1958,9 @@
     },
     "2026-W30": {
       "both": {
-        "positive": 32,
-        "negative": 11,
-        "total": 43
+        "positive": 31,
+        "negative": 10,
+        "total": 41
       },
       "talarico": {
         "positive": 3,
