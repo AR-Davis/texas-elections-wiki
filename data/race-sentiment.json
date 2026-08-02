@@ -1,9 +1,28 @@
 {
-  "analyzedAt": "2026-08-02T15:39:48.198Z",
-  "newsFetchedAt": "2026-08-02T14:38:55.029Z",
+  "analyzedAt": "2026-08-02T17:05:12.408Z",
+  "newsFetchedAt": "2026-08-02T16:04:41.668Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "North Texas Republican excites GOP base with Unity Rally, says Cornyn voters must back Paxton - WFAA",
+      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQY2h0ZjJoSXVFWmstZEJsOGpoSmpOQmxwVjJFLXJYOFd2emFJN1FOTDBnX1F6UmFoVTB4UUlQX1UtSmJTMmMtTjNGYUtxMHVCOTNDTkJqaDlSUEpaY3h4RGxwWHZ5RE5McDc5bThqb0xRRzlxSnE0SUlXcFU3ckdXS0VLX04wSDdoQUxqeTBPdTEzMW5RUldYRXI2emZBY1JYaG5peUh6N2IwdFVXX2ZIVVVtUEZyYkpnX2NLMTg5Y24zY3JkaWVjUWpnNzN2Ti1jT1hIbDJWT2gwdlRNUmFoXzJHQi15OHc5akVlR2JEX1Q4bEkxT04telduYUJHaTZxVUgtWEhpRkM1LW1mYnlYbUU2QmUwRFA0LWNraWJrcDVmbDJVc1ZsR0Y3ZXNwdEd4?oc=5",
+      "pubDate": "Sun, 02 Aug 2026 15:48:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "paxton",
+        "cornyn",
+        "texas republican"
+      ],
+      "sentiment": {
+        "positive": 0.983,
+        "negative": 0.017,
+        "label": "positive"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W31"
+    },
     {
       "title": "Big news for Talarico in stunning new Texas Senate race poll - tag24.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcWtJbWZNUW5oelNvNnlVc0pXdjhIRno5bWZYTjBzVWlRRmRPai1EZDlsU21Wd2VvQnN0UVRGci1uTUt2WDVnaFAtM2xBQTdYS1NNaTRtQ08yOEVjcGc5WW5tRkpFRDhtUFlMbFlXUV9qbll3Q002VmxaNlZ1Rno3WFJjUGlNbHdvbENHX3Y4cWJ3MEo1MEN1Z014TTg2ajhEdUI2MkdlakdTYnhBMU5UeUhjdmgxNVpqUGxV0gHAAUFVX3lxTE5GYnBpT3BELVZiN2djS2xKQ2U0Zk05Y0Y3bW9iYlNaa19GMC14VDk3SzZfSTNjVncxZ0YySzV5V2ZXbkVDdkdLVXpBYzNST1VRZzNKcEFtV0EzdXI1OUZzVzVXNl9lZHp1QmMyTWZWRWdnUWRkTEVSQ1BtQllFc1BERzU4VlZMU2s4NnViSm80dW5ZSjI5MnVBRDVYblZJVXBMVll0WGdpV3plb2hiUUNvWlZsYTBNMWRkRkdaNURBVA?oc=5",
@@ -1913,36 +1932,19 @@
       },
       "candidate": "both",
       "weekKey": "2026-W30"
-    },
-    {
-      "title": "AP Decision Notes: What to expect in South Dakota’s state primary runoff",
-      "link": "https://apnews.com/article/south-dakota-republican-primary-runoff-governor-doeden-rhoden-763dd3698fb08e6bf50708e8743c41fe",
-      "pubDate": "2026-07-27T14:49:10.314Z",
-      "feedSource": "politics",
-      "raceScore": 3,
-      "matchedKeywords": [
-        "primary runoff"
-      ],
-      "sentiment": {
-        "positive": 0.079,
-        "negative": 0.921,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W30"
     }
   ],
   "weekly": {
     "2026-W31": {
+      "paxton": {
+        "positive": 5,
+        "negative": 2,
+        "total": 7
+      },
       "talarico": {
         "positive": 4,
         "negative": 3,
         "total": 8
-      },
-      "paxton": {
-        "positive": 4,
-        "negative": 2,
-        "total": 6
       },
       "both": {
         "positive": 9,
@@ -1968,8 +1970,8 @@
       },
       "general": {
         "positive": 4,
-        "negative": 6,
-        "total": 11
+        "negative": 5,
+        "total": 10
       },
       "paxton": {
         "positive": 1,
