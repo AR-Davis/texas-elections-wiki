@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-08-03T21:42:09.573Z",
-  "newsFetchedAt": "2026-08-03T20:44:31.375Z",
+  "analyzedAt": "2026-08-03T23:06:46.110Z",
+  "newsFetchedAt": "2026-08-03T22:12:17.015Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Opinion: The theology of Ken Paxton - Concord Monitor",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd3lOclpxZE1OUklteDQtTGR6VW1YRzgwYXRqUGNady05R29qOVRwdlo1VjBTYThoU2dTNk5VaTAxdUJTVVFVTUFfU3BKcEREMFVfT2ZWVXNLMzY0YzhhMW5QV0NROWJiTHRDWXVGdUF1UHJ2eVJGMURMcktKY0dfOGtPNWFXMnJaLWstU051TERuQQ?oc=5",
+      "pubDate": "Sat, 01 Aug 2026 10:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.895,
+        "negative": 0.105,
+        "label": "positive"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W31"
+    },
     {
       "title": "Texas Senate Odds 2026: The Paxton Vs. Talarico AI Model Verdict Vs. The Kalshi Market - OddsShopper",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWXI5RUI2dWE3ZWxBb3hSYnpTcHZzUmtnZmtoUzZwSEJGbm5NdGYySUw3NlBsdXRTeUsxWVR4UUNzRjJGM1lrLXN1bHJyb2xBaFozU2l3OUJWZV9WaHdhU2lQbHc4ZzZTOW9BWWVNTFczUDA2MzlYRHEzaWlZbnM5YUwwM0E0ZFVLbWk4ci1qYk8?oc=5",
@@ -1903,38 +1921,19 @@
       },
       "candidate": "both",
       "weekKey": "2026-W30"
-    },
-    {
-      "title": "Talarico leads Paxton in latest poll on Texas US Senate race - FOX 7 Austin",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObXE0WTZlOGJhY0FiR010eXE3SURQMlliSkljMW5tZFdCdDhmMWVkRzVwb0s3bVVPdzhQQV9vRVB2NlRBVi1HYkxzZmhyUzF4YjIxSk0zMWp0MmNUUVJ0dEo3d2F6eEpJYVptSWdCSWV5MF9FWHFrdTJfcG0xTVA1OC05WFhheXpsWlUwZ1d1STZuQQ?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 17:31:10 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.984,
-        "negative": 0.016,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W30"
     }
   ],
   "weekly": {
     "2026-W31": {
+      "paxton": {
+        "positive": 9,
+        "negative": 7,
+        "total": 17
+      },
       "both": {
         "positive": 12,
         "negative": 8,
         "total": 21
-      },
-      "paxton": {
-        "positive": 8,
-        "negative": 7,
-        "total": 16
       },
       "talarico": {
         "positive": 6,
@@ -1949,9 +1948,9 @@
     },
     "2026-W30": {
       "both": {
-        "positive": 26,
+        "positive": 25,
         "negative": 3,
-        "total": 29
+        "total": 28
       },
       "talarico": {
         "positive": 1,
