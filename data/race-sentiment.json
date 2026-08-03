@@ -1,9 +1,115 @@
 {
-  "analyzedAt": "2026-08-03T18:17:48.723Z",
-  "newsFetchedAt": "2026-08-03T17:12:38.591Z",
+  "analyzedAt": "2026-08-03T20:13:29.935Z",
+  "newsFetchedAt": "2026-08-03T19:07:29.056Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 6,
   "stories": [
+    {
+      "title": "Texas Democrat Johnny Garcia Hides James Talarico's Endorsement From His Campaign Website - townhall.com",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWldJRmVkVVZkM3c3Wl9CTlNIVzd2d1JpNWdEYmZrQ19qVzhGUXVhUlVYUFhFcWVEdEdqUUktZ2xGTEo0WmpZZzNyVTlENVJpWElXZ285RWlEM0d5Vk9fcnV0REVoMWVxSkdpTER6alVrQUFPZlRBOEhHQUVFRnVXbUtCNWM4WlZRSy05clJvY1oxM3pZRGhrS0x3Qi1Wa2E4SHVRVkZWTWtBVEY3NVZJbWlmd1lzTlRlOGJwTlVtYzJna2ViVHJaZVgzT0hPNVhrRktEV2pwMW1LTEdm?oc=5",
+      "pubDate": "Sat, 01 Aug 2026 21:30:08 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas democrat"
+      ],
+      "sentiment": {
+        "positive": 0.007,
+        "negative": 0.993,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W31"
+    },
+    {
+      "title": "‘It Could Be Real!’ CNN’s Harry Enten Points to Key Group ‘Supercharging’ James Talarico In Texas - Mediaite",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYlhibkVNS1RtYjBGek5uc1FaUUYyNzl4OEVWSnhlZGpxZGRFeUtqUW9qOGw1T3o5Wm9pbzBqYWZ6N21LU3FsTGU5TjFfTVZabzNxTTVSR3FVVEdYZXlSZU9HQU5DNkVRRmp4SWhfbHRMMV9lUUVMWE5tU1pMUjFRSTVzMGxmamlLazFGdU9Wc0hCVVE5Y01DcGtXVFVXc1JmTl9wRkdJZ1M4NmRDZElRdlVITDQyQ3BvaGNsVmFtaUFROVZObGRZ?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 17:34:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.108,
+        "negative": 0.892,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W31"
+    },
+    {
+      "title": "John Cornyn wins showdown with Trump administration over 'anti-weaponization fund' - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcXBYTzlGU01odUJWX2RHQVQ5bHp4M1ZuTVlpYm1CcS1WaTljTTNDdnpjMndCdWoyTmM1RlU0LURaME9QaEFHVW03NHhhaVY0RGYzQ2R0RG91VVJ1VU1KcE51SHBXY0FGMU9nSGhPM0FmTUNmOXhwRGxtUl8zbzhZUXhBeGx6Wi1WQjVyVlc0M2RQSDNwRDlCaXJDSlRWSEVQRzVlNkdONA?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 17:18:20 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 10,
+      "matchedKeywords": [
+        "cornyn",
+        "john cornyn"
+      ],
+      "sentiment": {
+        "positive": 0.998,
+        "negative": 0.002,
+        "label": "positive"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W31"
+    },
+    {
+      "title": "‘Gift to the cartels’ Talarico renews warning over Texas THC ban - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ0hRVVBJdHNkdnVESjB4M2ZLbXpzeWd4LUhLNzhaMXhaNVlqemFRNzV1dFo1andsaGpLM05EY1RPQ29CQ0k1N0RvVFRNaU9WTC13ajdzN0JFa0tERUlrX2tHb0NuLXhuTHhwbnExdDM5akhNNEpVX1hYcmR5VXBpdTluQUhwMlVGQ1QyMC1jX3FfdWZyTkhjR2NWdFNDYkdyaDNSSlAzMkF2UjE0RmdIRjFwTEM2Sm9NQ0ctUnYzZmZGMXM?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 17:03:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "talarico"
+      ],
+      "sentiment": {
+        "positive": 0.086,
+        "negative": 0.914,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W31"
+    },
+    {
+      "title": "Letters to the Editor – Rate hikes, Fauci, hunger, colleges, Medicare, Paxton - Dallas News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWHkyR2licUtzVlBoV3VROGNlWVYwODBKajNUdGlRQUE2ZF9rNU8zNzd5eEJxN21RVHlMa1dPQjlWVlRuM1hHYThjc1pGUDhQNzdUTUp4cVVUM0ozdW9uT0UtMHEyVWw1VzdPTjZqaUt6UUZVOGhUZXFfTnIwQ3cwUDBRSW1MTWJpZmNHS29UbmRjUnpEZG9OSlpLUkZUdHBVbXNlUGptTEJDNmdvQlppOGVSMlI0VUU?oc=5",
+      "pubDate": "Sun, 02 Aug 2026 10:03:32 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "paxton"
+      ],
+      "sentiment": {
+        "positive": 0.501,
+        "negative": 0.499,
+        "label": "neutral"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W31"
+    },
+    {
+      "title": "Talarico building a massive advantage with independents - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeHEtbzlXNTZyRldFamxiMUNFWnpPcDNOTlJCMjdQODRROFN2TU5qaUxFM0xIU2ZobmpmdTh5WGVlSkUyMVBDeEV0bFBwd1JVT2xveDVkcUlsSUpmZ3VTX3hNSXNmV2U2ZURCTTk3dnpXb3UxbHl0TjRJTWVCbHdZX0wxMllZYWR1dlBpNDkyVnNoZ3k3WU5pOGdpdllUMkZqcXVfSHl6M2hRTkpPcUlmWXoyVVVyQmVwTWEtZnlfRQ?oc=5",
+      "pubDate": "Sat, 01 Aug 2026 11:06:34 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "talarico"
+      ],
+      "sentiment": {
+        "positive": 0.997,
+        "negative": 0.003,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W31"
+    },
     {
       "title": "James Talarico Says Jesus Commands Socialist Healthcare Policy - townhall.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObUtKaWZBMnNkM0xrN2U0UVZtX3N5ckJaUEJrcENhRU03SkR3b2QyUzVMZG14dVlNc0JYcGsxZkVxbG9ZWnNmNi1BcVc0cWhuSk5zUk40bnlPMC1OMjBMLUQwV0M1Z3N3UXNQU0k3MG5MR19DbHB1alRtTWdIWDZaSV9LdWlWd09fZzhiNjZMaXhtYUR0T0RubkR3MHVEOFc5VmN3R1E2aDFNZw?oc=5",
@@ -1820,152 +1926,36 @@
       },
       "candidate": "both",
       "weekKey": "2026-W30"
-    },
-    {
-      "title": "Ken Paxton suffers major blow in latest Texas Senate poll - Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV25mUUFqT0RnMmdacmhNUVg4eTZCYVJrSE9ZTlcxUGMyYTV2bTdMN0N0TlAzX1UwQi1jUFJGZHpmaVRqUjVYcGM0VzJSMHVVWDBPRHBNY2RaSXJWYWRPY3N0Y2FxcDdDNkQxU2V2V2k0NDZJUGRFWHJvMWV6LWJsZkR1WQ?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 15:40:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "texas senate"
-      ],
-      "sentiment": {
-        "positive": 0.001,
-        "negative": 0.999,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W30"
-    },
-    {
-      "title": "Talarico expands lead over Paxton in new Texas Senate poll - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcjhqNURJYllIa1lJNzZCN2J0ZURDM2IwckYyVS0tc0NkanR0MkdzN3Z6dXpvbG5rcFRueVNhSzF2eDFaOG9GNTBCZ21ua3Y5LUtBTWVjSkRXdy1WUkw1QzNlMGx4WUwzSnhoT3phZ3EwdnItTHFQbDY3ckpQZTJ5Sk90MTRWRWJpVXZUQ0MxONIBlAFBVV95cUxORjZLU1pETXp4dFlPSzJqY2FYUUR3WjE5eEZDUlIzQURweHF2cUR3UXFUal9WcVZ1Sjc0ajlJNUtmZDJJT1pBMDZPblpPdnRIeVhGbEVCdlh3eEVYX1ZFNU1xd1pVdjVIN0ZCOHotZEl5Nzh4ZnJkR2ZyNE45Q1dxRHRnY1pIT05FV2F5a0tSaWwtOVVX?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 15:34:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate"
-      ],
-      "sentiment": {
-        "positive": 0.961,
-        "negative": 0.039,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W30"
-    },
-    {
-      "title": "Talarico Takes 5-Point Lead Over Paxton in Texas Senate Race Amid Residency Scrutiny - KSST Radio",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRHU1UFd2dDZWNjJvQWxuZ19BRTFrNzBTUERUTWYybU1DY3RGTDQ0Wks0MW5WRWl6LWNNbktaaU9Gc1JoMzY1dFZEMVp4WHBvMGtYUUdOS3dMdmJKbFRyWWV6NmpsZ1pzdEUzSDlEanFFNFhmZ1JzVHRhUHJQc3Y4TzZMdEFhNGxhNlV1b040TXJGTlM3VzlRSXRqdUJSRmJkREZXNEtURWNyYl9RbWMzSlVlWDVJb3hYOTc0?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 14:47:18 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.224,
-        "negative": 0.776,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W30"
-    },
-    {
-      "title": "Talarico pulls ahead of Paxton by 5-points in new Texas Senate race poll - The Patriot Ledger",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZUR3OWNlenVKeUxxTDJMOENRdVJ2VVMzVHQtR1hDd19SWDhfWlMyZWZHZ1ZzdmFfSXRveTg4RkdKQWdnZXlPdHl0WGJLU3pEV2VHSHo0QUYxSnNPWnJpVGlNSk9ia0RBbkhiSW1seTBqaHJKLWhDZWJmc0dERmZ4WXhIR2pKRUVKVWxmaU8zbmNocUVZbFRnaW9tVDVzSGUta1pEYTNuN3RiTDlpTnctWV85V3FiRlRoSU9Od3lZS0ZGbE5nMExnQU5pc1cwZERJYTR4YjhPb1JGa1ZjOW1RMXk5Q1o2c29Y?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 13:30:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.996,
-        "negative": 0.004,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W30"
-    },
-    {
-      "title": "Ken Paxton = Texas Victory - pjmedia.com",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObGEwMkQtc3hiMDBnZEhTbDNueUJqbVBBc2xLbW5STFFxWG96MHlFaFYzRGJ1cFRSbFJpdFhIbzhYY2JCYVllckJqUHJ4VFVTQTFjeEhBMkctbVlZTlQ0SmpTY1VzSkNmR0VNbkgxdldSRmZBcEljUkNubzktaE9wUw?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 14:18:45 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.973,
-        "negative": 0.027,
-        "label": "positive"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W30"
-    },
-    {
-      "title": "John Cornyn demands redrawn IRS settlement with Trump ahead of key AG vote - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUXNLb2JTSUdlcFhGMllJdDFzYWJmRGwza2M3ZDhmS25KbGktNkxVZnpKSWRqclNzNEdOQXFCRlJLVjdzVmw1cGxEWHJaSUVJOU5mazZvMXV1djdzcmtjZUhaaDRhNl9HejZ0R2VveDFxdWE3dEtLelBGOWxUeVlLdFluM3BLaGF6TzZ2aHdYRGYzME1PTUtEc0t5cGg4LTVV?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 13:22:14 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 10,
-      "matchedKeywords": [
-        "cornyn",
-        "john cornyn"
-      ],
-      "sentiment": {
-        "positive": 0.052,
-        "negative": 0.948,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W30"
     }
   ],
   "weekly": {
     "2026-W31": {
       "talarico": {
+        "positive": 6,
+        "negative": 11,
+        "total": 18
+      },
+      "general": {
         "positive": 5,
-        "negative": 8,
+        "negative": 2,
+        "total": 7
+      },
+      "paxton": {
+        "positive": 7,
+        "negative": 6,
         "total": 14
       },
       "both": {
         "positive": 12,
         "negative": 7,
         "total": 20
-      },
-      "paxton": {
-        "positive": 7,
-        "negative": 6,
-        "total": 13
-      },
-      "general": {
-        "positive": 4,
-        "negative": 2,
-        "total": 6
       }
     },
     "2026-W30": {
       "both": {
-        "positive": 30,
-        "negative": 4,
-        "total": 34
+        "positive": 28,
+        "negative": 3,
+        "total": 31
       },
       "talarico": {
         "positive": 1,
@@ -1974,13 +1964,8 @@
       },
       "general": {
         "positive": 1,
-        "negative": 3,
-        "total": 4
-      },
-      "paxton": {
-        "positive": 1,
-        "negative": 1,
-        "total": 2
+        "negative": 2,
+        "total": 3
       }
     }
   }
