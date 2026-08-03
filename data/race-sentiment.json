@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-08-03T10:55:36.406Z",
-  "newsFetchedAt": "2026-08-03T07:58:06.157Z",
+  "analyzedAt": "2026-08-03T13:43:47.385Z",
+  "newsFetchedAt": "2026-08-03T11:37:19.431Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Republicans want to talk about James Talarico’s manhood. Talarico says let them. - Politico",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRGVteWVjUXN0UWpVME9BMjdUbzZpWXVCQW9iY29jU1hwaWpKbWI1am0tWWExZFEtcVdnVUZvc0JlSkFNXzRkanc4T0lsMnVCUWR5cUVFUTNXOFMxbFhtYUlrT0p6ZW1UYkFqc3owNEl6ZzFPWVk2bXBmN0F5T3ZUTUR3MXlwMVJ4Wm92SUJfTF92X3JZWFJQVlMya3c5QndaTWdJV2FzSE91NmJ2YnN1MThvNXhMT0doUUpIQnRGWUM4Ulh4OGc?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 08:45:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.026,
+        "negative": 0.974,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W31"
+    },
     {
       "title": "For John Cornyn, a thumbs-down moment with stakes beyond Texas - Austin American-Statesman",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSHVXVnBJTm1tX1lUempmUWJWNXZmRzlPSm51eXB4XzNWX2ZWSDhNOEUtaWhoTU5uZVQzTWpDS2ZyYnI3dXVraEJiUVB5dm5LdndZQXVPSFN0MnlLWjJ0S3lfd09KcmpPMG1JYV81VjhVNktZOW5DSGdMTC1hUnJNWkRuVUJJRUdvMU5objJtR25FNWhvV1A0MGRFU0dwR1pj?oc=5",
@@ -1913,39 +1931,19 @@
       },
       "candidate": "both",
       "weekKey": "2026-W30"
-    },
-    {
-      "title": "Ken Paxton has survived years of scandals. Can James Talarico change that? - PBS",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOendXTkUxYnlUN3RjbDJ0dnk2NmxJUl8tOUR6b2U2SlExVWx5M3UzdGJ1bnBkSndmVXZUQjlxUFdyeFpEVy1uYWZrandJWlh2NzA2NThyaDZEbHhoMVNfc24yV3VYZTJ6UDRxcUJjUUJfTEttejRJQl9RZkMxZXR6Tl9qQUd1bzg1ZjZHTkJJSTNlOFZEcWZ3TmZVaWU3bWJtOG52Qmlsa2RnQlQ3NkNn0gG0AUFVX3lxTFBJT2N4VFZseGNnX0F6bkhDYUxfSFZMS1FiSk9FWlA4LTdsWGgzTzFGVGt3SEtjbE5TSGxXOE1xT09kMkFwUmpkZnNUVlBuS2h0Z3pNbTBzakg2THRab2hqVi1mb2hla1RWNXRxbjVGMUNTd3dIbHFfal9hSmQ2d2NZV3ItcFFmZHVDd3NEZXRfbHNpTTBNZHdzaTVHeFFNM1FvWlJfVXFWYWhIVERnZVZrUFdiTA?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 17:25:21 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.014,
-        "negative": 0.986,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W30"
     }
   ],
   "weekly": {
     "2026-W31": {
+      "talarico": {
+        "positive": 4,
+        "negative": 6,
+        "total": 11
+      },
       "general": {
         "positive": 3,
         "negative": 2,
         "total": 5
-      },
-      "talarico": {
-        "positive": 4,
-        "negative": 5,
-        "total": 10
       },
       "paxton": {
         "positive": 5,
@@ -1961,8 +1959,8 @@
     "2026-W30": {
       "both": {
         "positive": 31,
-        "negative": 6,
-        "total": 37
+        "negative": 5,
+        "total": 36
       },
       "talarico": {
         "positive": 1,
