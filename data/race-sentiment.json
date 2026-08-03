@@ -1,9 +1,64 @@
 {
-  "analyzedAt": "2026-08-03T03:44:42.186Z",
-  "newsFetchedAt": "2026-08-03T00:02:50.306Z",
+  "analyzedAt": "2026-08-03T07:32:39.937Z",
+  "newsFetchedAt": "2026-08-03T04:07:49.336Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Inside Texas Politics | Why Texas Democrats think this year is different from 2018 - WFAA",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQNS1GdXoxVmhUN1lHN3Jva25WYUprT3ZfMGFJRDFWSFgyYmY0cEhrcTJYZzBZMUR0cDRFUnpNTVBzSTM2YXBVN1lIT3hUMU1QaXZWMFozSGNIOWZjMHhWWmJJal9WUEdUaVpyUk9ydF9leEpIRzVhem9TX0hVYTJGWG5mTC1UME0ySXBCTklSNVBQbng1a3p0SzlzS3pQTWY3R0VZZ1pTbktTS2hDeUg0X1JiZVQ4dTNXOGpJZWVlNW5saTMzbHV1VVY4UnJzZTVKSUlzNVdjb3BKWG1BTTVIWjh1c0ZMX3U5SVFhTGFTZDdLRW9QTi0tS3RzLUUtUXpJc1M2TVlaRzRHRnE5ZGw1QS1Ldw?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 03:25:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "texas politics",
+        "texas democrat",
+        "texas democrats"
+      ],
+      "sentiment": {
+        "positive": 0.934,
+        "negative": 0.066,
+        "label": "positive"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W31"
+    },
+    {
+      "title": "Fact check: Did James Talarico say there are \"six genders\"? - LGBTQ Nation",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40T2RuV2NoQmhSQUtIR0pKcDRIT1pTLWlnNG5FbXMxakhEdGZranljdEM4ZThwVFYtWDN5Sjh5bjJsbUNGcmNrVnhBX0hZQks5N2NFZ1JVSGp6bkNiOGpET1dzNzBKTTE0V1NMR0MxLXlWWXpFV0Z0TEhLbTJEWmM?oc=5",
+      "pubDate": "Sun, 02 Aug 2026 05:24:29 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.008,
+        "negative": 0.992,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W31"
+    },
+    {
+      "title": "Paxton trumpets affordability message with new tax proposal as Senate race hits stalemate - Washington Examiner",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdGhPZHVLbWpaaXlwZXQ2bnpGWlhnenhjTGN1RkJEWVRvTUsxNjgzSm5JOG5YNlZNT2tGcmxDZVEtUmhQcERNX29XblNWNnZnRFYyXzl3WkRtTDN0bmx5aGNtc01vMnNEblczYzNZcDRBTDZ4N3B1Zy1ONUg1RHRsTlZJU0l4WmpLVDJvRXF5NEpsc0o1MDNKaEJnRDZwamJQYW5VQ1ZmbjlPVDMtZUljN1MyM1p6a3g1dHBvcGRXcnpWUmFqbXpxTnlpNXRla2oxMlA5WkUycFEzeHJSWUxNeEFrZw?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 15:12:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 8,
+      "matchedKeywords": [
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.09,
+        "negative": 0.91,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W31"
+    },
     {
       "title": "Talarico notches 3-point lead over Paxton in new poll as GOP fears grow over Texas Senate race - New York Post",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSlY0RHhLNUkxMkt0cEJwbGp6Y3hiSW9MM1p1OUxKdC1NWFpTczgzQncyY01WMzRKV2tZdmlwUjlGWWg5LW5XUE53QmxvWmRUdkpPRDRSeGRDRmRQZk8wbnBaVzV1eVNmQm03ZE4tNENsSWxackt3WWxDLUNYVlRfYmZ2ZGExYkpNUUJZZVhPR2Y0SmNsLWRmX0FoT3NEMkp5aVN1dA?oc=5",
@@ -1878,101 +1933,46 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W30"
-    },
-    {
-      "title": "Years of scandals haven't stopped Ken Paxton. Can James Talarico change that? - NBC 5 Dallas-Fort Worth",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSXRhSEgtYXh1a0gzV3lGczBPblVDS2FaN2hsVmZLS3RmeDFlMlpUVWx0bGR5a2ZxX3BxanprMzJ5Mk9Bdm9qbDNkWlZiZlVRWGVTSDdCNV9BOGRjQ1hUZ0VDbkpfQVZPVGFvd3hQd1NZcWlYQ1dOQjhrOHlhYmV6OUVEMmtxcGV2MThFY2J3TmFkR3gzbGFUOGdmLVMwWXN6YkNpczV3Q1RWZnJWVldVZlVrUnJCU1dod0FkMlVRRWttbHFIUmxmeFAySE43Zk80Zk9qTWx30gHeAUFVX3lxTE5sUkd4TmhuNDJNeUVoZ3pnU3FMdFkwS0lyLTdLeW95VUNtX3ZFZWF5SUlobGlkZndGb2pyN3V0Y2hjWVdMR0h4TTRGaXRPd2VFR29UT3lON0NOT1FYeFFaRnNvdE44RDdLUFhsaG52Q3VKU1lvZEVLTWhYTVlCZjNpbUxiNV82TTV3Q29yY2J2YlJHbk5pbVk4NFhuNTBYTVpHa3BsUy0xMXhCRnQ3V2JkUTA4empYVHVWZEFIUlRZajdndERyaXB1N2dsQnA2aWlmS3NEbmFIa2E2Wlg1dw?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 19:54:09 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 24,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.097,
-        "negative": 0.903,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W30"
-    },
-    {
-      "title": "Is James Talarico an LGBTQ+ ally? Here’s what Texas voters should know - LGBTQ Nation",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ITlNKZ3M4bXluN0ZWcl9Zb3dfTGRRanNibEE2bzFxeEVuS3BOT3FDZUlnRmtLY29TT01laVBET0NXOUh3cFFGZ0ptYXVTaXhUdEF2RnVScjA1dElFWjVMOVNXX1lCd0Fz?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 18:01:38 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.007,
-        "negative": 0.993,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W30"
-    },
-    {
-      "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine’s US Senate race after last-minute nomination",
-      "link": "https://apnews.com/article/maine-senate-kamala-harris-jackson-collins-ace4f32ce85746aad42e315ebadf9139",
-      "pubDate": "2026-07-27T23:35:50.493Z",
-      "feedSource": "politics",
-      "raceScore": 3,
-      "matchedKeywords": [
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.972,
-        "negative": 0.028,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W30"
     }
   ],
   "weekly": {
     "2026-W31": {
+      "general": {
+        "positive": 2,
+        "negative": 2,
+        "total": 4
+      },
+      "talarico": {
+        "positive": 4,
+        "negative": 5,
+        "total": 10
+      },
+      "paxton": {
+        "positive": 5,
+        "negative": 6,
+        "total": 11
+      },
       "both": {
         "positive": 12,
         "negative": 5,
         "total": 18
-      },
-      "talarico": {
-        "positive": 4,
-        "negative": 4,
-        "total": 9
-      },
-      "general": {
-        "positive": 1,
-        "negative": 2,
-        "total": 3
-      },
-      "paxton": {
-        "positive": 5,
-        "negative": 5,
-        "total": 10
       }
     },
     "2026-W30": {
       "both": {
         "positive": 31,
-        "negative": 7,
-        "total": 38
+        "negative": 6,
+        "total": 37
       },
       "talarico": {
         "positive": 2,
-        "negative": 9,
-        "total": 12
+        "negative": 8,
+        "total": 11
       },
       "general": {
-        "positive": 3,
+        "positive": 2,
         "negative": 4,
-        "total": 8
+        "total": 7
       },
       "paxton": {
         "positive": 1,
