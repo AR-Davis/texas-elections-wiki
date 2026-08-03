@@ -1,9 +1,30 @@
 {
-  "analyzedAt": "2026-08-03T00:01:59.520Z",
-  "newsFetchedAt": "2026-08-02T22:31:42.829Z",
+  "analyzedAt": "2026-08-03T03:44:42.186Z",
+  "newsFetchedAt": "2026-08-03T00:02:50.306Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Talarico notches 3-point lead over Paxton in new poll as GOP fears grow over Texas Senate race - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSlY0RHhLNUkxMkt0cEJwbGp6Y3hiSW9MM1p1OUxKdC1NWFpTczgzQncyY01WMzRKV2tZdmlwUjlGWWg5LW5XUE53QmxvWmRUdkpPRDRSeGRDRmRQZk8wbnBaVzV1eVNmQm03ZE4tNENsSWxackt3WWxDLUNYVlRfYmZ2ZGExYkpNUUJZZVhPR2Y0SmNsLWRmX0FoT3NEMkp5aVN1dA?oc=5",
+      "pubDate": "Sun, 02 Aug 2026 23:40:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.956,
+        "negative": 0.044,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W31"
+    },
     {
       "title": "James Talarico Takes Another Futile Stab at Proving His Manhood by Driving a Pickup - pjmedia.com",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOanp2aElPdVFuNXl5eVZsQWFXZVNlaFhfemduUnVRblctQVkzX2JwRWhYX0RLT1NBTTZPOWxuRHlXUS1CazNyaklaZlR5YXZxZ0tlMDJqZ1AzcmltV3lrZ0Vqbk9FcEFQdlYyTU4tZ0lYaXNyRldsVnNMUFJfdGlwVjdKM3ZkQXltZ1dGNXNxSG93d0dLeW5rbGhjZ1h1dHlfZjZ6OUVOdTlXOFA0TlJvQTRnalpuU3N4Vmtqcmo1eDBtVjlydzNqeUdJZVJhMVl5?oc=5",
@@ -1912,27 +1933,15 @@
       },
       "candidate": "general",
       "weekKey": "2026-W30"
-    },
-    {
-      "title": "Texas Senate panel raises concerns over tax exemption for data centers - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTjB1YkFBRVYxTV9ZVmpvTllpb29BMGxQdUlqTC0tUTM3ZXV5eldfcE0xQlM0bWM0Y3Q0OGFPNXVOaG1QU0ticFVvVnd1Wk0wTlAwc0VoUmVaTHFCb1g1QkxmMXNtRmNwOXZVU3lUUUozaEtkQ3hGSlF3MWt0cEFzeElDd3Y0QkJrT05YRnp6VVFCVWJyMzkzdW01VQ?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 21:26:22 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 7,
-      "matchedKeywords": [
-        "texas senate"
-      ],
-      "sentiment": {
-        "positive": 0.068,
-        "negative": 0.932,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W30"
     }
   ],
   "weekly": {
     "2026-W31": {
+      "both": {
+        "positive": 12,
+        "negative": 5,
+        "total": 18
+      },
       "talarico": {
         "positive": 4,
         "negative": 4,
@@ -1947,11 +1956,6 @@
         "positive": 5,
         "negative": 5,
         "total": 10
-      },
-      "both": {
-        "positive": 11,
-        "negative": 5,
-        "total": 17
       }
     },
     "2026-W30": {
@@ -1967,8 +1971,8 @@
       },
       "general": {
         "positive": 3,
-        "negative": 5,
-        "total": 9
+        "negative": 4,
+        "total": 8
       },
       "paxton": {
         "positive": 1,
