@@ -1,9 +1,65 @@
 {
-  "analyzedAt": "2026-08-03T20:13:29.935Z",
-  "newsFetchedAt": "2026-08-03T19:07:29.056Z",
+  "analyzedAt": "2026-08-03T21:42:09.573Z",
+  "newsFetchedAt": "2026-08-03T20:44:31.375Z",
   "totalAnalyzed": 100,
-  "newThisRun": 6,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Texas Senate Odds 2026: The Paxton Vs. Talarico AI Model Verdict Vs. The Kalshi Market - OddsShopper",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWXI5RUI2dWE3ZWxBb3hSYnpTcHZzUmtnZmtoUzZwSEJGbm5NdGYySUw3NlBsdXRTeUsxWVR4UUNzRjJGM1lrLXN1bHJyb2xBaFozU2l3OUJWZV9WaHdhU2lQbHc4ZzZTOW9BWWVNTFczUDA2MzlYRHEzaWlZbnM5YUwwM0E0ZFVLbWk4ci1qYk8?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 19:31:23 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate"
+      ],
+      "sentiment": {
+        "positive": 0.024,
+        "negative": 0.976,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W31"
+    },
+    {
+      "title": "Trump-backed Paxton will beat incumbent Cornyn in Texas GOP Senate runoff, AP projects - abcnews.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbmNCQVBFclB5WnZlaks4UnZiUWVkenNZdTdkYlZKOEZRZFhYcGMxNDEyemhBYUt1bV9QaEFHdzBWcW1XMDZENFdZRkVSamZuWXFDa1dQX3VnTXF6ci1MdHptZVlkb2VRd05QamF3akJDVFJGdktUeWhXOGZ2OEVRNGY5QWtJVU45dHd5QUVodDdIb2Q00gGaAUFVX3lxTFA5Q0ZVS01wSmplbWVESnVkdTJWdDRBZHlDU0ZmRWlXS2dSa2VrZFdkay1PZ21sU2FGT0xwMmszQ0xBWkhXbU1NQ2RfVWNxU1lFb09hcE9PVVY1M0tIcE9ZZ2hoZmwtUEhHaVFhSG5Na09lMW5ubUVOZ0FSYXhFYzZYUUtIczdka05UalVjOGxxaEZyRU1nb1VtM1E?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 15:50:37 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "paxton",
+        "cornyn",
+        "texas gop"
+      ],
+      "sentiment": {
+        "positive": 0.958,
+        "negative": 0.042,
+        "label": "positive"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W31"
+    },
+    {
+      "title": "Election triumphs, a series of scandals dot Ken Paxton's political timeline - abcnews.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVlGUDlUSDhmNnllbllSSHVTQlNIcE1iTGRpcHVsdDZfN29hTlJpdDVLSW1fM05zbXhHb2pIM0RqU1NZcXhNUG52ZzJReEVrRkhsLUEwX3JfSjViZWZwdDliZlljWVVBNHpPVWRHRzcxakUzakhrQjV4a0g3SXVzX0NGWjFoSTNlLUIwdFRwanNadmw3azJIQ1JBNXM1blBlTUM5UUZtMDB5bDjSAbABQVVfeXFMUDQyZ0RKenVWMF9sYkRyM0QxZnREc0E2SE96a2R1ZUlEYm1EaWYzdkNobkU5cFR0LVdmQkl0c2ZUYURrbm1oNmhFci1xeUlRYXZjUlBUc3hUTnlYNnJqd1JGeUxQNjF0WEhUV1N6eFhjVWFKRDJSLXR3NGd6X0kwc2hlUDhwVFpPNHAyU0FHdTJfOXNvREs1WFdGNTdJZHR4Y19OVTg0V084RVBGSDNobGE?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 17:30:39 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.059,
+        "negative": 0.941,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W31"
+    },
     {
       "title": "Texas Democrat Johnny Garcia Hides James Talarico's Endorsement From His Campaign Website - townhall.com",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWldJRmVkVVZkM3c3Wl9CTlNIVzd2d1JpNWdEYmZrQ19qVzhGUXVhUlVYUFhFcWVEdEdqUUktZ2xGTEo0WmpZZzNyVTlENVJpWElXZ285RWlEM0d5Vk9fcnV0REVoMWVxSkdpTER6alVrQUFPZlRBOEhHQUVFRnVXbUtCNWM4WlZRSy05clJvY1oxM3pZRGhrS0x3Qi1Wa2E4SHVRVkZWTWtBVEY3NVZJbWlmd1lzTlRlOGJwTlVtYzJna2ViVHJaZVgzT0hPNVhrRktEV2pwMW1LTEdm?oc=5",
@@ -1866,70 +1922,20 @@
       },
       "candidate": "both",
       "weekKey": "2026-W30"
-    },
-    {
-      "title": "James Talarico Campaigns for U.S. Senate in Lockhart, Texas - C-SPAN",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc1p0NHNzaWxncy1abGRUY1Fzbi10YVZYdUwyNWY5TURmOU8xM3FDQmdkM1M4NmhfOTlNOElaWDI0bTBudkV3RTRJcXlwSkFtN2VsNl9aeEo2ZWVEUTEzWkNGeUFndDlJbVNOUVV5bWNqY1FnRjZqZUJrLTZwYm9YZ1BfMVVkM3NqTlp3a0lUQ0l3MWNSQWdBdnp4UWxHZF9TajBlX09GVlpIZw?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 04:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.157,
-        "negative": 0.843,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W30"
-    },
-    {
-      "title": "Talarico Widens Lead Over Paxton In Texas Senate Race - KLVI AM 560",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMkVVRDVWeXdCR09wMVlBWHUwY1RoeFNXNkZfemtlUmtRa1VYZXprUUIxYmJCOWtMTWQycC1RQ0pDMXlhV1hTbldWTjFMTU9xQ2NsbGViVzBPYm0zVlFrMHVtOUZfbzR1LXhROWV2dzd0OFN3ejRSamgzcndkcW9XYTdNdEZaaXJ5c05TcWFuaUo5alFqb0szS002c1Q5dw?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 16:25:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.98,
-        "negative": 0.02,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W30"
-    },
-    {
-      "title": "New Poll: Talarico leads Paxton by 5-points in Texas Senate race - WFAA",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZkdZWktxeHdZYnpzRzZYY29peHBCWVBDUHpXNEpCVC1vak56b2NwQktnQWF5eDdBMkcxV3JkREMxLUlibTBEUjB3dkFkZjUxVzllMkdFTVhNbHl2cm1aTWJxSExZbGVsR0wyUE1URkNHdHhST2EwMWNjNzZncktma0NOUENua1hRcE0xRkJFVUVWWDN3X2hxUzNnVEYzaXdZdUlLcF9ISnh0R0Q3Z2ZUaDFJXzFuanprUjJnVDQ4dVo5TW12Z0xJZTNULXhLTkJCUVFpOHpubkFvZw?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 15:58:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.88,
-        "negative": 0.12,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W30"
     }
   ],
   "weekly": {
     "2026-W31": {
+      "both": {
+        "positive": 12,
+        "negative": 8,
+        "total": 21
+      },
+      "paxton": {
+        "positive": 8,
+        "negative": 7,
+        "total": 16
+      },
       "talarico": {
         "positive": 6,
         "negative": 11,
@@ -1939,28 +1945,18 @@
         "positive": 5,
         "negative": 2,
         "total": 7
-      },
-      "paxton": {
-        "positive": 7,
-        "negative": 6,
-        "total": 14
-      },
-      "both": {
-        "positive": 12,
-        "negative": 7,
-        "total": 20
       }
     },
     "2026-W30": {
       "both": {
-        "positive": 28,
+        "positive": 26,
         "negative": 3,
-        "total": 31
+        "total": 29
       },
       "talarico": {
         "positive": 1,
-        "negative": 5,
-        "total": 7
+        "negative": 4,
+        "total": 6
       },
       "general": {
         "positive": 1,
