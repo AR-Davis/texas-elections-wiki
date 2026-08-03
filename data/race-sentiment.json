@@ -1,9 +1,45 @@
 {
-  "analyzedAt": "2026-08-03T16:29:42.991Z",
-  "newsFetchedAt": "2026-08-03T14:52:35.720Z",
+  "analyzedAt": "2026-08-03T18:17:48.723Z",
+  "newsFetchedAt": "2026-08-03T17:12:38.591Z",
   "totalAnalyzed": 100,
-  "newThisRun": 6,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "James Talarico Says Jesus Commands Socialist Healthcare Policy - townhall.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObUtKaWZBMnNkM0xrN2U0UVZtX3N5ckJaUEJrcENhRU03SkR3b2QyUzVMZG14dVlNc0JYcGsxZkVxbG9ZWnNmNi1BcVc0cWhuSk5zUk40bnlPMC1OMjBMLUQwV0M1Z3N3UXNQU0k3MG5MR19DbHB1alRtTWdIWDZaSV9LdWlWd09fZzhiNjZMaXhtYUR0T0RubkR3MHVEOFc5VmN3R1E2aDFNZw?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 14:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.994,
+        "negative": 0.006,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W31"
+    },
+    {
+      "title": "Talarico walks back comments on religion and gender after Paxton's win - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTlBjOGxUYUZyTnFyci04a1NVcWZMb1QwMmlXOGdxaThhd0dyRkM3cENLOGhxbUxQWDZadmtWR2ZVNDNMQVJfNG1QR2cyS2JkOHczdHR1SV9KMy1SaUJrZGdPXzAzUW92a1B1N2E1TkxoVWJHbzNqVmhBLW04NkQ1ei1xTy15R1pydjhnV1EwcEtWTlFDUlJvU2hmaU1BM01lWVBGWGhGY1Jpd9IBrwFBVV95cUxNR3ZxR0lCd3piTnlxTDFOQzZHQktKYldfSWV1dmNVcHloUlNfY28ycHR1Y054dnQxSXVDaTVUYU5pWXNadTFuak5OLTRMNWY5QXBYVW5HWmFvTGFPclU4dG9lR0tRTDgyZXRDTGVfRjNRRkdGbjhSeTRVTjZ2Vm1QbHVpUUpqam9MeUlfMXdvbFluOURGWmdidU5OcXA2X3hWQjE5dDhZb0VkcnFvUWFr?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 13:46:07 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 10,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": {
+        "positive": 0.022,
+        "negative": 0.978,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W31"
+    },
     {
       "title": "Paxton Rolls Out Economic Agenda as Texas Senate Race Tightens - Bloomberg Government News",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRmUzSndOVEhnNWdWenJDNXlvQ3NGSmhsSHVqdDRYbmRYdDFkQXV3VnFyTGtFOWtWR3dYb3BWZTZmOFBkdHdhOXREcFZZYWZudUJJVEdlSmM4emQtQ0Jnek02RGFpc0JIck9WbG8yS0hpd2hyci1Henh0TWkwLXVQZUg5ZnVyRWhEUnZUTGc3c1RNUHJNTl9RdUhSQzhUVnd6aGhxSmNsaEdpdkhzQkRj?oc=5",
@@ -1900,59 +1936,23 @@
       },
       "candidate": "general",
       "weekKey": "2026-W30"
-    },
-    {
-      "title": "Polling shows James Talarico holds an advantage among Black voters in Senate race, but worries about voter turnout remains - CW39 Houston",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOW1sVm12RFQ4MmlmUDJEaEcxc01kQTFCandjaG53cy11bHN1aWZGUjlXSE1ZRmI4bC0waklMMGNOV2llZ1BnbDlVRFFTT1JUM3IwUTdPVTdRbHcxeUpfTGllT1BrWVpNNlF0RE9IQTA2RDVWQ28tcGlZVV9TXy1NYndSZGVLVVB4eXJJMzNiSW1oYVlrM2ZHd3dZdUtsTDBROG9PdGI1RXZ1a3owQnBaSTVqa2VCOFRmOXB5MElqcjU3dGxiSlRxRk9ZYXBJdUJCbDFPUjBGczhGQmYxLUhVOXhOR2FJaXJvWGfSAeoBQVVfeXFMTzltbFZtdkRUODJpZlAyRGhHMXNNZEExQmp3Y2hud3MtdWxzdWlmRlI5V0hNWUZiOGwtMGpJTDBjTldpZWdQZ2w5VURRU09SVDNyMFE3T1U3UWx3MXlKX0xpZU9Qa1laTTZRdERPSEEwNkQ1VkNvLXBpWVVfU18tTWJ3UmRlS1VQeHlySTMzYkltaGFZazNmR3d3WXVLbEwwUThvT3RiNUV2dWt6MEJwWkk1amtlQjhUZjlweTBJanI1N3RsYkpUcUZPWWFwSXVCQmwxT1IwRnM4RkJmMS1IVTl4TkdhSWlyb1hn?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 05:39:52 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.023,
-        "negative": 0.977,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W30"
-    },
-    {
-      "title": "Inside Texas Politics - WFAA",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ2p4TnNpNDNIWDE2RUY2NlBDTC15dV9qRW83WHg2eG91ak4yTkdJWVI2ZXQwN2JfV3JteVlJWW1kNF8xVTdmdE4zUVd3VlZHRGF0cl80azQyNzVLTWU2RUJSRTFiR29VVk9Fc01oSHRnZWluM0FsODdWWnEybVN5OHViMmxRSHd1a243SnliLWVXQmhqdzZhTVk1ZFMtQmx1TlZhajlkS1R0dw?oc=5",
-      "pubDate": "Sun, 26 Jul 2026 14:00:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "sentiment": {
-        "positive": 0.994,
-        "negative": 0.006,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W30"
     }
   ],
   "weekly": {
     "2026-W31": {
-      "paxton": {
-        "positive": 7,
-        "negative": 6,
-        "total": 13
+      "talarico": {
+        "positive": 5,
+        "negative": 8,
+        "total": 14
       },
       "both": {
         "positive": 12,
-        "negative": 6,
-        "total": 19
+        "negative": 7,
+        "total": 20
       },
-      "talarico": {
-        "positive": 4,
-        "negative": 8,
+      "paxton": {
+        "positive": 7,
+        "negative": 6,
         "total": 13
       },
       "general": {
@@ -1969,13 +1969,13 @@
       },
       "talarico": {
         "positive": 1,
-        "negative": 6,
-        "total": 8
+        "negative": 5,
+        "total": 7
       },
       "general": {
-        "positive": 2,
+        "positive": 1,
         "negative": 3,
-        "total": 5
+        "total": 4
       },
       "paxton": {
         "positive": 1,
