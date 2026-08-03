@@ -1,9 +1,122 @@
 {
-  "analyzedAt": "2026-08-03T13:43:47.385Z",
-  "newsFetchedAt": "2026-08-03T11:37:19.431Z",
+  "analyzedAt": "2026-08-03T16:29:42.991Z",
+  "newsFetchedAt": "2026-08-03T14:52:35.720Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 6,
   "stories": [
+    {
+      "title": "Paxton Rolls Out Economic Agenda as Texas Senate Race Tightens - Bloomberg Government News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRmUzSndOVEhnNWdWenJDNXlvQ3NGSmhsSHVqdDRYbmRYdDFkQXV3VnFyTGtFOWtWR3dYb3BWZTZmOFBkdHdhOXREcFZZYWZudUJJVEdlSmM4emQtQ0Jnek02RGFpc0JIck9WbG8yS0hpd2hyci1Henh0TWkwLXVQZUg5ZnVyRWhEUnZUTGc3c1RNUHJNTl9RdUhSQzhUVnd6aGhxSmNsaEdpdkhzQkRj?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 15:22:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.981,
+        "negative": 0.019,
+        "label": "positive"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W31"
+    },
+    {
+      "title": "Talarico vows to take on corruption, from Ken Paxton to Supreme Court, to protect Black voters - TheGrio",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRjdsUXlIaVFvWVJUeS1ob1Z3dXR3ZVNwVHhKQ2xRNi1Yd0xXOEJyUXRRUTMteWZnV21BdzNLZDdSMDNzaElweWFWREctX3ZlWTVlc1ZmamdlSzVoM0d6WWxJVWdPaFN0djhyU1M3VGVlRC0yUUJpVThFX2JCNElCR0c3c1g4Ry1pQm9vUXVGR2ljTDA?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 16:04:13 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.059,
+        "negative": 0.941,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W31"
+    },
+    {
+      "title": "Ken Paxton unveils economic plan centered on tax breaks in U.S. Senate race - KWTX",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOGs0R1cwb0VuVHJESGVXZG9BcDRKSG9TdmFxdXhjbi10Y2p2WnBzaDc1Rmtjc3RsXzRKdHozWFpBS1NDZnU1dU41NlpYWnVyRDhxR0otNFJXaGxwcUxqaE1XSU4yQTMyMEdyZ3VtT1lIVU40Q002Y2xFdjU2dHNSSlJiMFlvYzcxbXJEQTlZMUpzbkUwc0Rfd0I3NF9UQ3BST1E?oc=5",
+      "pubDate": "Sat, 01 Aug 2026 00:56:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.995,
+        "negative": 0.005,
+        "label": "positive"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W31"
+    },
+    {
+      "title": "Can James Talarico Lead Texas Dems Out of the Wilderness - Fox Poll Says Maybe - Hinojosa Gaining Ground Too - The Austin Independent",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQXFOSXowb0Noek9ibTFjb1BuSWVDQzYzZldnWldjRmkxUWhoRE9jUVQ4Nl81SkxrNGMtR2JudzNBSzY2M0w4aTNUMHhQcnktT29Rd1YyM3I5aVVEOTdJdDlBZjMwNll6UWtZcXNjY19OVGhwYmx2V3ZncGJwLVpHcWduNThBQk0tZDdZcW9hNUFmdjBBLVBKUVY5WVRnTkVJeExzN1EyekhYdnB6OGtOYlpNZHhLZi1MOGN6SGh4QmVxdzZhQjVZSEcyc3Q3Q211RGprdA?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 13:06:33 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.012,
+        "negative": 0.988,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W31"
+    },
+    {
+      "title": "James Talarico Agrees the Karmelo Anthony Verdict Was a 'Tragedy' - townhall.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYUV2djQ4VS1MOXdhVWg0R1dINWNmUjRXOTFJZVkwNU1CTTNDWXJROXJFdTdzV25CREVvVXNET3BZMzNnYjlBblVwTy16enNWNmUySlRZS3RVaW1UTkVjSWsxNmtRYm5udjRYZUxYRjBBVU1EMjZVS25LdE1PbVVhSGJac25Ec05MX09nWGFvbk5lMFhmeWNmMlpFbkd3NXM?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 11:45:38 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.016,
+        "negative": 0.984,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W31"
+    },
+    {
+      "title": "Inside Texas Politics | Why Texas Democrats think this year is different from 2018 - NewsBreak: Local News &amp; Alerts",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLTlNLVQ4T0tZYWJKUHFGODRsWW5vdFBWRnlqYm9tWENnQmstWEUxckpQVHNUSWZEVjBrdFVWQ044WUNURTUxLUc2LV9wUXlocnhXZE5LZnRSdko4WklNbkxxWnAyUm40M3pvYzZ1VDREbUw4bF83X0NkSFN6N2ljeW54SDU1UGN5Z3FfNjhPUmJtbVE5U3BCUTJ1YkJFd09DV0hxT0xkSDdhZjM2QW16RnczSm1YTWpvOGlGQzJwZGRLSmhjWW5NZG54X0s?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 03:25:16 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "texas politics",
+        "texas democrat",
+        "texas democrats"
+      ],
+      "sentiment": {
+        "positive": 0.951,
+        "negative": 0.049,
+        "label": "positive"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W31"
+    },
     {
       "title": "Republicans want to talk about James Talarico’s manhood. Talarico says let them. - Politico",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRGVteWVjUXN0UWpVME9BMjdUbzZpWXVCQW9iY29jU1hwaWpKbWI1am0tWWExZFEtcVdnVUZvc0JlSkFNXzRkanc4T0lsMnVCUWR5cUVFUTNXOFMxbFhtYUlrT0p6ZW1UYkFqc3owNEl6ZzFPWVk2bXBmN0F5T3ZUTUR3MXlwMVJ4Wm92SUJfTF92X3JZWFJQVlMya3c5QndaTWdJV2FzSE91NmJ2YnN1MThvNXhMT0doUUpIQnRGWUM4Ulh4OGc?oc=5",
@@ -1823,154 +1936,46 @@
       },
       "candidate": "general",
       "weekKey": "2026-W30"
-    },
-    {
-      "title": "Talarico leads Paxton by 5 points in new poll of Texas’ U.S. Senate race - The Texas Tribune",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVWpUSlZLRy00N2JfSjB5dHo5dkxCbXZFTGhPTFZpRnRtZFFCVnBYai1ZLWJnZWdtTnNMVmVXMDZoSTd3RV9BVUdlVEdKRXpYSXhVN0YxanhFdlEyZDZCdk9iY1RmVHB2U1lqd0tGVm54ZXYtY0xuZTlOLWQ2bW8zd0RvSVVqdXNSdkJZNXdsNDBNT05qd1c0VUdB?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 10:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.987,
-        "negative": 0.013,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W30"
-    },
-    {
-      "title": "Has James Talarico Endorsed Reparations for Black People? - Hungarian Conservative",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONVY4eUlCNFQ3T09LZWE1azZ4RENnOTRHMHc4ZkFWMk5MVXRtZ201ZGJtMjlhUUI1TEJoNmxhb2cwSTR2TmVOUFZNVUlmUFlYanM3MU5rSGVvM2pyajJPQk5RSjA3bEFtZXJEYW83OUpNWnZXcVVlMXFZVVVHMEthbGlDd3dDMHhkQ2JlNEFlcGdOQQ?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 10:19:12 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.029,
-        "negative": 0.971,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W30"
-    },
-    {
-      "title": "Texas Politics Data Center - itemonline.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTmI3eElUSXRHY2MzVU9rXzJ6V2hxelFXaUYyNndzc1JOb3N3SHc1VEUxYXVta3BERjIxZFpuZ2YzMW4wdTI1NkZ6RkVRR2k0SlBBWlU0WHN5ZXNpWmYwWXBwQVdSZVZOeV9WRE5JYTU1TXdPQlRtSU5pSG9CTWdzd3BXU2c1VFZjMW4zb0Fnb0ItNHpmNV9FVE03bDF1Zjh3OWVDbl9RR0U4Qm1lUkxJdDFDZWQ?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 20:16:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "sentiment": {
-        "positive": 0.04,
-        "negative": 0.96,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W30"
-    },
-    {
-      "title": "Texas Senate committee members review law on tax breaks for data centers - ABC13 Houston",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSjBSWmkxZHdUYW9ZV21aYXJHR2wxSmRXamhfMUF2a1VQVFRzcjEyblJHbEd6VXhRSjRmaXFhazZEcm1DM2pnd3U3VjZzc3UxRkdnZHYxWjhTU2FpYmFHeDBCdU85WFE2cXlCc3pHNGdrdTFqakFBbW43elBTYmdYM0VTUjhiSUZBdTlncDNGalI1ZFQ3N2I4czFtRkp0cGvSAaQBQVVfeXFMUGYtMnFjclM4MUxTWmM2OFZCTGVrdUQ2Mnd0Z1BZTmZTZG9ha2VPYk0xOFBCTFlrN3NUbDl5MTR4NXQ2bmtjMjc4TzdSTExKNThvNFJXM2tKT1g3bjZ1S1BZbkpBdTlKdXhSRHN2bl80XzJGWVliRDY1ZGk5anF2MGJpbEJBai04TFZPcnc3OUtpNG5td1huUkMtenBZaGs4aEZqTWE?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 23:10:11 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 7,
-      "matchedKeywords": [
-        "texas senate"
-      ],
-      "sentiment": {
-        "positive": 0.567,
-        "negative": 0.433,
-        "label": "neutral"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W30"
-    },
-    {
-      "title": "Talarico is trying to win back Hispanics along the Texas border who swung toward the GOP - AP News",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYXUxWmZQaThLRmFDbm0zYlhqTWQtOTVRWDd6RlRLNjRjXzFEbldacmJRWTMtY0hwckF1ajdmZUl3QktjZlVvaUlUWWxKRXBldFYtRzB5YmU1ZkZHRldiVV9JZjdhUW56Rm1RSExUWF9vTUtIbmt4a1RLc3BodlNldTRiaFhXQmVGbjg2Q1liOUVsV1h6cjNUeFlxN3M3ZldDTndpVDdjdHdDVFdUd0tyUg?oc=5",
-      "pubDate": "Sat, 25 Jul 2026 14:09:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "talarico"
-      ],
-      "sentiment": {
-        "positive": 0.256,
-        "negative": 0.744,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W30"
-    },
-    {
-      "title": "Years of scandals haven’t stopped Ken Paxton. Can James Talarico change that? - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONXNaa1BHenpxR3I5V1J4T1FSR05zVG40ZWxEUU1zdkZnX2pWbXhtZE9UT3M3U2hoalpiRnlXazVSVjVnajhFNXg2emlxRUlvc2VId0hxTkRjN1BlUm5BZ2dUSW1KQmlXeXJhbmFaNExsbUgyaFZscFFYRTJpNjNOUzRsZHpaOEhiZ1hQZGVjZ1ZPYXpvZ2NsaU1SRkJkbmUxWWt0SUJJc0x6dEp0SkpIUmtKdDBCUTM5TC1aeHlkNW53UdIBygFBVV95cUxNSFZfdnk2czlvT1ZKdDJFaDlud0J0amtBUXJBWEhHaXI3VHdqZ2k5ZzhITHd4QjExV0t5bmVPck9qaWNSWkdWV2M5Njh5ZmFzTEFRTG9BLU5BMjdBTDFrR0VKUFhyMlNYdzRpb3ktUmZoN3VmeXFaTFhCVzlqUkJ6OFZWa01jZDlEVy1teUg3c0Jkd29wSFNDUmFnWFR6djM0NWF6RW1id2kyTmJINVBjc1NfOUtCaWxWcXgxNk9WSl9kazAzOVVfQXFB?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 13:29:50 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 23,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.097,
-        "negative": 0.903,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W30"
     }
   ],
   "weekly": {
     "2026-W31": {
-      "talarico": {
-        "positive": 4,
-        "negative": 6,
-        "total": 11
-      },
-      "general": {
-        "positive": 3,
-        "negative": 2,
-        "total": 5
-      },
       "paxton": {
-        "positive": 5,
+        "positive": 7,
         "negative": 6,
-        "total": 11
+        "total": 13
       },
       "both": {
         "positive": 12,
-        "negative": 5,
-        "total": 18
+        "negative": 6,
+        "total": 19
+      },
+      "talarico": {
+        "positive": 4,
+        "negative": 8,
+        "total": 13
+      },
+      "general": {
+        "positive": 4,
+        "negative": 2,
+        "total": 6
       }
     },
     "2026-W30": {
       "both": {
-        "positive": 31,
-        "negative": 5,
-        "total": 36
+        "positive": 30,
+        "negative": 4,
+        "total": 34
       },
       "talarico": {
         "positive": 1,
-        "negative": 8,
-        "total": 10
+        "negative": 6,
+        "total": 8
       },
       "general": {
         "positive": 2,
-        "negative": 4,
-        "total": 7
+        "negative": 3,
+        "total": 5
       },
       "paxton": {
         "positive": 1,
