@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-08-03T07:32:39.937Z",
-  "newsFetchedAt": "2026-08-03T04:07:49.336Z",
+  "analyzedAt": "2026-08-03T10:55:36.406Z",
+  "newsFetchedAt": "2026-08-03T07:58:06.157Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "For John Cornyn, a thumbs-down moment with stakes beyond Texas - Austin American-Statesman",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSHVXVnBJTm1tX1lUempmUWJWNXZmRzlPSm51eXB4XzNWX2ZWSDhNOEUtaWhoTU5uZVQzTWpDS2ZyYnI3dXVraEJiUVB5dm5LdndZQXVPSFN0MnlLWjJ0S3lfd09KcmpPMG1JYV81VjhVNktZOW5DSGdMTC1hUnJNWkRuVUJJRUdvMU5objJtR25FNWhvV1A0MGRFU0dwR1pj?oc=5",
+      "pubDate": "Sun, 02 Aug 2026 11:00:43 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "cornyn",
+        "john cornyn"
+      ],
+      "sentiment": {
+        "positive": 0.999,
+        "negative": 0.001,
+        "label": "positive"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W31"
+    },
     {
       "title": "Inside Texas Politics | Why Texas Democrats think this year is different from 2018 - WFAA",
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQNS1GdXoxVmhUN1lHN3Jva25WYUprT3ZfMGFJRDFWSFgyYmY0cEhrcTJYZzBZMUR0cDRFUnpNTVBzSTM2YXBVN1lIT3hUMU1QaXZWMFozSGNIOWZjMHhWWmJJal9WUEdUaVpyUk9ydF9leEpIRzVhem9TX0hVYTJGWG5mTC1UME0ySXBCTklSNVBQbng1a3p0SzlzS3pQTWY3R0VZZ1pTbktTS2hDeUg0X1JiZVQ4dTNXOGpJZWVlNW5saTMzbHV1VVY4UnJzZTVKSUlzNVdjb3BKWG1BTTVIWjh1c0ZMX3U5SVFhTGFTZDdLRW9QTi0tS3RzLUUtUXpJc1M2TVlaRzRHRnE5ZGw1QS1Ldw?oc=5",
@@ -1915,32 +1933,14 @@
       },
       "candidate": "both",
       "weekKey": "2026-W30"
-    },
-    {
-      "title": "James Talarico | Texas, Senate Candidate, Jasmine Crockett, Joe Rogan, Stephen Colbert, &amp; Biography - Encyclopedia Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IREhFWWRfcWpQYk8zNnhxeU9jcWRrVzIxWlJfZXpFU2E2aU5qMDI2RE9rTTh0b1RYZEthRWZySHFrdEtXSThJZ1ZROU5aM3k0bVZTTHRXa1owbW83clF0MA?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 05:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.974,
-        "negative": 0.026,
-        "label": "positive"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W30"
     }
   ],
   "weekly": {
     "2026-W31": {
       "general": {
-        "positive": 2,
+        "positive": 3,
         "negative": 2,
-        "total": 4
+        "total": 5
       },
       "talarico": {
         "positive": 4,
@@ -1965,9 +1965,9 @@
         "total": 37
       },
       "talarico": {
-        "positive": 2,
+        "positive": 1,
         "negative": 8,
-        "total": 11
+        "total": 10
       },
       "general": {
         "positive": 2,
