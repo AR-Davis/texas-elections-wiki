@@ -1,9 +1,86 @@
 {
-  "analyzedAt": "2026-08-04T07:15:28.418Z",
-  "newsFetchedAt": "2026-08-04T06:11:34.259Z",
+  "analyzedAt": "2026-08-04T10:12:35.259Z",
+  "newsFetchedAt": "2026-08-04T09:22:22.440Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 4,
   "stories": [
+    {
+      "title": "Poll: Talarico has slim lead over Paxton in Texas Senate race - Axios",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcDZOUlRQQjkwcU5wZUh2aGNyd3FsR185enNyeFRXcEl1M0FOS0JwMXZSYlkxTEJDTnA4bDNIakswaWtyeUlvMmZDbjVTclp0VU1NakZhS2RwYzliZk8xR0xtZXlZRlQ3WVBRTmp3MzZIY0pYbWRMLXRvM3RMYWFqd3lmeXVSLTV5dnJPQ2R5RUxxMzNYZVJSSQ?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 09:04:37 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.001,
+        "negative": 0.999,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W31"
+    },
+    {
+      "title": "Third Texas Senate poll in a week shows Talarico ahead of Ken Paxton - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYXFpNHB6dU1NTEl4eGF1Z2hxN1JLVGRfZUpIUzJYMTRUX1praGppT1V5dWJfYnBlUWhVSGJ5a0tGVEV2QjltdFIzdW1aUTFrc2dENVdNNnBveWJBTFlpTEF2ODd5Wlhhd1J5aDl1el83cTVjc0xqeGJvLVRPaHFOQUdDb2J1VEdDZlpvNjFmTTRxdVFEVE1iZzRXaHhaUmZlcHhCRy1Uc21jNWl5Q0phQk11NlloX0RfQkpnSUhfWlkxQURKZmhVajVEWmVDNllIWkt0ZUpxYm1vQ3gzMDRR?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 09:03:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "ken paxton",
+        "texas senate"
+      ],
+      "sentiment": {
+        "positive": 0.99,
+        "negative": 0.01,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W31"
+    },
+    {
+      "title": "Most Black Texas voters back Talarico over Paxton, poll finds, despite Senate primary tensions - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWldwWlZhOG41STVZQXVLM09ZZHNOdFc4cHB3aHhHZl9jSHo2YkJQY2hsSTBsTGdjcXNWSnE0OVA4WWQwTlRHQ0VyNkJRVnRUOWstc1RtTWZNYm8xWjdXUXgzR3dtLVNPdDhzV2VldUQ3Zy02S0xpV1JkVzRTRG9jdDNKalFlQmlhTExNcS1TTWNnVHNELVcwdl9rVks1b0kzSVJtME1taE1Cb2k0eWNKNzB5QVM?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 09:00:43 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": {
+        "positive": 0.397,
+        "negative": 0.603,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W31"
+    },
+    {
+      "title": "James Talarico Nods as Voter Calls Karmelo Anthony Conviction a ‘Tragedy’ - breitbart.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZEFPR2ZySVBuaEJpb2pvNmtmYmp4Z0VXRTExd3ZTSW16ZW5XRmtwdGdZS3RrNG5UcUhDWGpkbW92NmppWTNrN1RRWkFQblBKTENMZWJDT09fUEdNc3A4aUJCSWY4VnRHUkZNS2pkUzNKcVg1MVpEZEVPeGRRSXpaYVNOQWMtUnVkOFBYLXdEb0NrRi10VTFsd1dPZnVXNlp0emJ4VzgxYzJzSXpWem10RnFUMWxZbWViNGfSAb8BQVVfeXFMTUNQN1FtaTlNc0wxQW9BMVBqZndFdGhDZ1BBTVE0TzV4eEVoV3JLRW51MWF1V2xOMm1XTG9LbTlWNFYtZWJjOE5NdnRJcUMxUkJEZDJCcTdONjZZZV9nX1F0UWxVbVRaTVc1UXBXNFFqczZLQ2V3MWJEMnctR0FIbTF0bUVyNzNhWWpsRVpZT3lyRjJHV0s1bzJOMThaZTdma0dwMndFeHBUYkFhTFpkQl90eFlLQV9FdENKcS1LXzQ?oc=5",
+      "pubDate": "Sun, 02 Aug 2026 00:05:09 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.875,
+        "negative": 0.125,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W31"
+    },
     {
       "title": "Ken Paxton will kick off his first U.S. Senate campaign tour in DFW - Fort Worth Star-Telegram",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNWQwVlBpeGd0aU5jVjZUOWhrVW1fM2Y1X3F4clNteVNadmNVVE91VXd5aTFxWGdPVFpRN25nSC04YWtydTN6Z0QyZXQyQ2pyZDBrLVlGeURPUjlDLWVyUEhvLWxJd3FtZXJpU0I4d2FnOVY5dFlVYnpRZW9MMmQ5TGl30gGCAUFVX3lxTE01ZDBWUGl4Z3RpTmNWNlQ5aGtVbV8zZjVfcXhyU215U1p2Y1VUT3VVd3lpMXFYZ09UWlE3bmdILThha3J1M3pnRDJldDJDanJkMGstWUZ5RE9SOUMtZXJQSG8tbEl3cW1lcmlTQjh3YWc5Vjl0WVVielFlb0wyZDlMaXc?oc=5",
@@ -1830,102 +1907,23 @@
       },
       "candidate": "both",
       "weekKey": "2026-W30"
-    },
-    {
-      "title": "NEW POLL: MASSIVE UPSET IN TEXAS SENATE RACE! (JUNE 2026) Aja Wilson (Fb6VWILcCs) - Mshale",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqamdrQVBDc1BtNlczUTRLNEl5V2hsS3VoUXQ0RHd3Z2ROVTdINWZRdkpIMFlqOVIzd0dMLU9kU05yYmsxVDhDSktLNGR2emR1T1RuS3pCemFrbVE?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 23:43:41 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.013,
-        "negative": 0.987,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W30"
-    },
-    {
-      "title": "Talarico challenges Paxton to 3 televised US Senate debates - El Paso Times",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZUdPWk9TODk3WFlEaE05SDdSc29BSkkwaHlwbEtERmF6Wm1xZTdTcW1hR2JpYzlnOHZBMGRURkR2UTFMRnBiNlFJNnV6cHR3M2wwcGd5N1h5SG1uenZGRXh4dlF5dlliNkQxZktXNUFiUEppejFjTXlDSHZfeThOU2ZxQU9Cd3FGdTdGMFhybDU3c3dFdXBQVWg2SjhEVU9pcE9ERkNrSzBTOXpVT01HU1AxTlZJQk9LN0ladlhGVHo2eGZvcExoZzlZQVN0SlRsa3BvWU95Q2NrczU0bGhLLWpXWXV3Ykl2WHZNZg?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 14:29:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.36,
-        "negative": 0.64,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W30"
-    },
-    {
-      "title": "Poll: Talarico Opens Five-Point Lead over Paxton in Texas Senate Race - breitbart.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNHduRmVBTTVia3JTZS1RUnZVR0p1YmNFVEtLQ25fWUhGVzVVX19ubHI3ZlhEZmZXVlF0QlJyNU0yTkREQWFZdU5nX2oxeUJScjZzM1JMLW9ualZtZlRhRGRSdkRiYUs0OUppcEplYlF1MFBqbnlwaVFCNzNSUENOekZrTU5mdE9ra241RUg3VmJ6RkUwek44S3BkaURTMXoyRXY0ODZoMlkycEZLZk5MU0RodHRDdXdqVWRB0gG7AUFVX3lxTE80d25GZUFNNWJrclNlLVFSdlVHSnViY0VUS0tDbl9ZSEZXNVVfX25scjdmWERmZldWUXRCUnI1TTJORERBYVl1TmdfajF5QlJyNnMzUkwtb25qVm1mVGFEZFJ2RGJhSzQ5SmlwSmViUXUwUGpueXBpUUI3M1JQQ056RmtNTmZ0T2trbjVFSDdWYnpGRTB6TjhLcGRpRFMxejJFdjQ4NmgyWTJwRktmTkxTRGh0dEN1d2pVZEE?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 17:08:51 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.991,
-        "negative": 0.009,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W30"
-    },
-    {
-      "title": "Talarico Widens Lead Over Paxton In Texas Senate Race - 700WLW",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPakJEZ0hPNl9NR2Z6a21KN0xoTXVIdlRxR0tQWEtKTi1raG9xdDM5bXN1YjdkOEFxWnlfYmE1d1ZoZ1F6MFZLeVpZR1BSZXZiVHc2Wnk2c3dnb1FpMEJtMk9jUW9yakcyaVh3QlJPV281bzVrby1ZZnkxNXRqWnpxYnBIbjdJYm10MmZKazJfNU9QMVkzOVBLSkQ3ZWZVS3lM?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 16:25:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.957,
-        "negative": 0.043,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W30"
     }
   ],
   "weekly": {
     "2026-W31": {
+      "both": {
+        "positive": 13,
+        "negative": 10,
+        "total": 24
+      },
+      "talarico": {
+        "positive": 7,
+        "negative": 14,
+        "total": 23
+      },
       "paxton": {
         "positive": 11,
         "negative": 9,
-        "total": 21
-      },
-      "talarico": {
-        "positive": 6,
-        "negative": 14,
-        "total": 22
-      },
-      "both": {
-        "positive": 12,
-        "negative": 8,
         "total": 21
       },
       "general": {
@@ -1936,9 +1934,9 @@
     },
     "2026-W30": {
       "both": {
-        "positive": 20,
-        "negative": 2,
-        "total": 22
+        "positive": 18,
+        "negative": 1,
+        "total": 19
       },
       "talarico": {
         "positive": 1,
@@ -1947,8 +1945,8 @@
       },
       "general": {
         "positive": 1,
-        "negative": 2,
-        "total": 3
+        "negative": 1,
+        "total": 2
       }
     }
   }
