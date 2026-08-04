@@ -1,9 +1,103 @@
 {
-  "analyzedAt": "2026-08-04T10:12:35.259Z",
-  "newsFetchedAt": "2026-08-04T09:22:22.440Z",
+  "analyzedAt": "2026-08-04T12:26:55.026Z",
+  "newsFetchedAt": "2026-08-04T11:40:25.293Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 5,
   "stories": [
+    {
+      "title": "Talarico Has Narrow Poll Edge on Paxton in Key Texas Senate Race - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOemlzdk1jbHBvVG96WFhnRTduN2tyYklJUS1pUFRGcHpkY3ZLVXJncThINVRxME50MDc3S2xuUi1rVWVobXJxWG5KY2JYbW1uUE9NM1RYV2wyeUtZb01jNFVDUGpKWnUyUVhkZHZTNldkS0QzdVVfM0toczRkYWVocDZrTHJwcXpxck9NbkgtakV2RnQ4TlRJd1Q5YkJtUXByaXdERTNqRTA3X09OdEctVFd2NVBWdw?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 09:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.044,
+        "negative": 0.956,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W31"
+    },
+    {
+      "title": "Paxton trails Talarico by 2 points in new Texas Senate poll - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORXItb0VXQjRadGxMVG5SSHhaby1tUXhkUWljay1heFRPWS1BTE81TGlJd05WZnBpU1NWMXRUbEgxaktHcUNSamdhSG84bEY4MFJvWTNLVU5Fc0JaNFJhUUFWN01raF9rWnZmbXgyQXlQbzgweW1jejRFd2pSOElJM2tB0gGHAUFVX3lxTE5wQzBNekJNVFFKWDduQ2NpYTFEUTFPbWlRY24wMmZMR3hibmw1cXZWQnlPd2o2Q05zYlRuWU5qekNYcVJ3ZW5tWm5hTERtYWQ1dzd4LWdRNVdoNU4wVFJEcjZyel9rTHlNeVVLcl9BbENNbmpjUUZBd2FUZnJmOHFJSUVJT0VQSQ?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 09:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate"
+      ],
+      "sentiment": {
+        "positive": 0.525,
+        "negative": 0.475,
+        "label": "neutral"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W31"
+    },
+    {
+      "title": "How North Texas campaign stops reveal key differences in Talarico and Paxton bids for U.S. Senate - KERA News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSHNhN3dxNmoweGNlenlONkYtcnlvWmd2VEdBcDhEZEpKNkJ0TjlCcGRXZlppaEw5RTEtZDJrR0JYU2JIZ1h3YmN6YUJWb3RTLXdpYmV4YmhxdU5ZWG5sOENpeHBoNVBpZHdMZENQTUpFd3doRXNKd0tralF3bmxiQmdMemoyTTBoWGxyaGl5WERQS2dqMGJ5WktUWE5waDZZODVhQ2JR?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 10:01:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": {
+        "positive": 0.008,
+        "negative": 0.992,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W31"
+    },
+    {
+      "title": "New Poll of Texas Statewide Races Shows Talarico Leads Paxton by 2 Percent - thetexan.news",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdThVN3dscENGRjB3WVdnMkQ1dGtqVG1HcFZkYlIyMTRGYnNXbFNTeHJOZkV0WHVJX1dVXzJpZUxPQkhBQkxzZnJJQ05Ual84QlVSU2FnaUlndW1tamgtRjhpRmhTbDdkYUZsamR4QkNKN25ScW91dUpkQnFTZHBOLWtIV013NkFseXZFMHQ1NUUycl9YUFVNaFhjNzFHTlBGZzhLalJmbmpuekplZ1luUGR2Z3NOcFBtU3pDSWVDLThtbWs5WXktak1nWTdaWVlsUC1HSFQydkUtclU2aG9IbzR6VVRxLWc2ak11Qk01V2FlRTA?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 10:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": {
+        "positive": 0.545,
+        "negative": 0.455,
+        "label": "neutral"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W31"
+    },
+    {
+      "title": "Most Black Texas voters back Talarico over Paxton, poll finds, despite Senate primary tensions - KSAT",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN1ZyNVdHNURlQmt0M1VSNFJESWw2dVl1bE5VNTVFWmVnQkNTQnRCN3kwbFFpVU1FcUpjZ2x5Mno0YnRmbWxqUGVUMU5lQTc0ODRHU181dURzUUdyRHBjUmcxY2YzYkNNSUVhYTJRZ0EwU051UVh0TEJ4Wk9FOWNPcnRyeVR1VHh6c18xT0gtS2VaZzMzQ1M5akE0MVRQMm9fQ0tHZmlHSkhfbWxFS3FvSWZlM25Mbm05SVJnRlBkMmZaMV9DMl9mNFBIRFRhU1BzbFE?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 09:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": {
+        "positive": 0.19,
+        "negative": 0.81,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W31"
+    },
     {
       "title": "Poll: Talarico has slim lead over Paxton in Texas Senate race - Axios",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcDZOUlRQQjkwcU5wZUh2aGNyd3FsR185enNyeFRXcEl1M0FOS0JwMXZSYlkxTEJDTnA4bDNIakswaWtyeUlvMmZDbjVTclp0VU1NakZhS2RwYzliZk8xR0xtZXlZRlQ3WVBRTmp3MzZIY0pYbWRMLXRvM3RMYWFqd3lmeXVSLTV5dnJPQ2R5RUxxMzNYZVJSSQ?oc=5",
@@ -1809,112 +1903,14 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W30"
-    },
-    {
-      "title": "Talarico leads Paxton by 5 points in new poll of Texas’ U.S. Senate race - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdEUyLVJnZWNpb3VURktCYzZqaEpndHl1UVgtQ1owdDZPX2VXcXpKMVRWZzZJSTFDYTV6dVNWbThpTlVjR0d5U0pTN2lubkxTY2dGS0daSnBHUXNfdnd0UC1ZNldCWXVfUUxOem4xOE5oLTdHcjRtdzdLYmljVG1mUXdENERCSUlOa1ltbG0wd193MUozLWNWSzQxVThxOGg1ZjRTVUx6ckxuRXNkRThTam92WFY5SU03bTN1WHNRaXEzQlJyYkU2ZTlFVnV0RUNQSUV3ZjlMTWllRnhsNldqUjQ3bzLSAeQBQVVfeXFMTnRFMi1SZ2VjaW91VEZLQmM2amhKZ3R5dVFYLUNaMHQ2T19lV3F6SjFUVmc2SUkxQ2E1enVTVm04aU5VY0dHeVNKUzdpbm5MU2NnRktHWkpwR1FzX3Z3dFAtWTZXQll1X1FMTnpuMThOaC03R3I0bXc3S2JpY1RtZlF3RDREQklJTmtZbWxtMHdfdzFKMy1jVks0MVU4cThoNWY0U1VMenJMbkVzZEU4U2pvdlhWOUlNN20zdVhzUWlxM0JScmJFNmU5RVZ1dEVDUElFd2Y5TE1pZUZ4bDZXalI0N28y?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 17:58:55 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.973,
-        "negative": 0.027,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W30"
-    },
-    {
-      "title": "Talarico leads Paxton in Senate race by 5 points in new poll - KTSM 9 News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVjRrb3dyOHBXR1JmVzZpYjVPZjRiamJMc3UwUTAzaGM0cGc2djh3NXBGYUxNM3NRSnl0UldkS25JYWxJWUpUVWQtRXNCLTBIUUQ5Smg0WFJYYXhlTlFrTnB5X2swYnp1NElEQ2Q0V3ZYaFkxWm40Y1QyVnZzamNYejJrWHFjZW9ObGJFMElEVVNhVlk2LVhEQ2xBSXR4S1BuYXJtcmRpSjdXUdIBqgFBVV95cUxOVjRrb3dyOHBXR1JmVzZpYjVPZjRiamJMc3UwUTAzaGM0cGc2djh3NXBGYUxNM3NRSnl0UldkS25JYWxJWUpUVWQtRXNCLTBIUUQ5Smg0WFJYYXhlTlFrTnB5X2swYnp1NElEQ2Q0V3ZYaFkxWm40Y1QyVnZzamNYejJrWHFjZW9ObGJFMElEVVNhVlk2LVhEQ2xBSXR4S1BuYXJtcmRpSjdXUQ?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 16:17:08 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.978,
-        "negative": 0.022,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W30"
-    },
-    {
-      "title": "James Talarico Campaigns for U.S. Senate in Lockhart, Texas - C-SPAN",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd2djeDNTZXF4NU5MNzMwREE0TGxVS1JLQnRBY3FkdUw2OWltYnJZVUQ2c1FmMEg2ODRpeExRVE11ZFdzLUxGQWQwV2JuWERsT2owc2x0SXE4dlpua0duOWVFQkdPdzJkMGVXMEdZb2M4Y0JsWjVJOHg3RTc5YmJBS2FyOVc1R0RqU2hpZEhyX3lCWHpJd2RyUUdDRE5MLWZoajdDdWVpcjJBSl9S?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 23:48:45 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.157,
-        "negative": 0.843,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W30"
-    },
-    {
-      "title": "James Talarico widens lead over Ken Paxton in new Texas Senate poll - El Paso Times",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeU1wbzFWR0NWeFFEckhzZkJXbnE0UWlxRi1KaExLNUVwSUNfdVM1a0xQSGRVYlZRM3dlMmQwbFRLdXdyVGZCNHlWUGZjOFlXUFVSRXFOaUlVM2hnZW5OaFRGSkFRbVl5Z01Bd1lmc0paUjBNMUwxQmlFUHVxdTktTlJEVlF4ekIyZkk3V2c0QnFmOEU4RFVadVgyYXpFbFFoalo3Sm9CMFY2b0I2ZFdNY1U3YzRpdk43dWd6Vm5LaVltUl9qRlRIN0xrM2JubDYwM1l2Rw?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 16:06:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 29,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "texas senate"
-      ],
-      "sentiment": {
-        "positive": 0.967,
-        "negative": 0.033,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W30"
-    },
-    {
-      "title": "Talarico Widens Lead Over Paxton In Texas Senate Race - 1430 KASI",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbU1PUko3RC15d0M1cUdLN3M2QWlGTnVmY2pBZ0syVTRFdkItcnBhaThUbTdscXBiNzhOYVk5NVdVdFljOHM5eGtwX1E3NGZfR2tINU51aUxXdEpmVW94Q2ZoUGRSTTBYZXVHdDMtTDMtcjVpWjUtWTNDa2tRRHI1R1lFZ0dzdE50QlZ6dWota3FTZElHYm5MRGx3VFBUd2RSRnFn?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 16:25:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.975,
-        "negative": 0.025,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W30"
     }
   ],
   "weekly": {
     "2026-W31": {
       "both": {
         "positive": 13,
-        "negative": 10,
-        "total": 24
+        "negative": 13,
+        "total": 29
       },
       "talarico": {
         "positive": 7,
@@ -1934,14 +1930,14 @@
     },
     "2026-W30": {
       "both": {
-        "positive": 18,
+        "positive": 14,
         "negative": 1,
-        "total": 19
+        "total": 15
       },
       "talarico": {
         "positive": 1,
-        "negative": 3,
-        "total": 4
+        "negative": 2,
+        "total": 3
       },
       "general": {
         "positive": 1,
