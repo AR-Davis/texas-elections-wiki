@@ -1,9 +1,63 @@
 {
-  "analyzedAt": "2026-08-04T01:00:59.209Z",
-  "newsFetchedAt": "2026-08-03T23:38:29.975Z",
+  "analyzedAt": "2026-08-04T04:18:08.002Z",
+  "newsFetchedAt": "2026-08-04T03:15:57.382Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "James Talarico responds to Texas THC ban: 'Oppose cartels, stand with President Trump' - WFAA",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYkFjdEZTVGV3VmE2bTZNVzh6bUU2OHhGUzRKcnU2QWxhblVWdWI2cDdaNjEyU2N4dkpLLUppOWdLTEYxUlJXVTZWM3pCcGctek9LVWR1RndEaGo1YjhodGNkeDRSc0tHaTlSQjRfVWdBNEppaU9JN3FmSktabndZcHBsSHc3bzdOY0dWYlNfMnRrNURjLXdFdVJkWDE4clExOEp6el9aVjFqbTN0eVEyTXdWd2JLeGFPb2hjcTZUeUUtUTNKZkxPeEZXRURxUQ?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 00:14:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.272,
+        "negative": 0.728,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W31"
+    },
+    {
+      "title": "Paxton unveils tax deduction plan as Texas Senate campaign ramps up - cbs19.tv",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSGNVME9Jdjlkcm9CSnlVWGxLemtPeEJUcWxWLWRMY1JMbEs1c3BVSU1Zd3hNdnpucTNQMVdlV3dNNXhDQlBWZWlVLVdUUUhzaGtNRThEb2JQVllvMDI4RS10Z3lCT0ZPZEJSanAtdEVxZ0lvNk1EcEFnczVEc01WXzJ5WmtLM1Y3MmpSV1ZTRzI4cnJjVHRyR0ZKOUdpRWg2YzNDNFRjTXJONDI4bmZRRnlEbU1nMEQ5RDZQd2RzazZHQ01UaS1lMzhpY0hFVkhheXZkRjZkRzlMemFfb2NN?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 00:17:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "texas senate"
+      ],
+      "sentiment": {
+        "positive": 0.253,
+        "negative": 0.747,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W31"
+    },
+    {
+      "title": "James Talarico Tries to Argue the Bible Calls for a Government-Run Healthcare System - legalinsurrection.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNVFtTURvUzVIT1preFhvckZZVGczVm05WmlaNlRZMC1ISG1oc3VMeVQ3MkN0V1VDQXRRNjZrMjVPZUk3WkpiVHN0QmVBamxEbElCYmsyVkR1cmkzTGt6M3VweVJPWkVZM1U1eWJuR0lhNlJsOC1rRjFLaElSZXh3UG9kSXB2aGNwWDZYcFJPaVU4ekJscl9FVndKRkg3eEpHdm1IS0RILTl6Njd3d0RYZWRBYnMzMVlIdGhlRl92RUnSAcYBQVVfeXFMT0FMOC1rSVNfUEhtbGpPVGVQMjdVcjUwekMyazN6dmtxZ2N3aldERVMtZVpSRVc5OG9GNldWLXpfVGVSYmlBV0RlY2dHRU9GZWUteVlXRGxfRDNJSkN4V3UtUVg1MWhQX1ZXY0V1MUJ0RHhSZDZoZXdEZzVRVlA2WnU2ODNtcndiRUx2N1lVQWJWMUlOYkdWQncwaFhKM2FxS0o3WHpkV3J4eHVYalBlNXVUeGg4UXktdkxYWkRTSzJhY2U0dTJB?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 21:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.002,
+        "negative": 0.998,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W31"
+    },
     {
       "title": "James Talarico Uses Trump’s Own Words Against Texas Republicans’ THC Ban - Newsweek",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb29yUzFBU2dIdmx0Ym12WVlmVnd2YVdMeXNwaTRzOVR6ZWowamNJNWJheUU5Q1pYQXhHNTcxUTREY3pNVk0wNm14bjRCNTE3eWpLTkpxeVlnZTl2N1lNSTk0bjJuX2ZDZ1lkc0lUOWxCUlljaXpvZTFtOUc3NFUwc3NyRXNmcmRfY1RzeER0dDJRTkdDelhiekthUXpVeTZIR1l4RjJHVQ?oc=5",
@@ -1859,80 +1913,19 @@
       },
       "candidate": "both",
       "weekKey": "2026-W30"
-    },
-    {
-      "title": "Talarico Widens Lead Over Paxton In Texas Senate Race - KFBK",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR2dlc2ZQX280VFNSMEdLUzNOTnVhYjFfbHo4VEFSY3hZN29BdVRUR2dGNmhOdjk4elE2RUp0R3JpdExJWXRHSTlIcHJnZGhEY0E4ejZ3MHVLWTdVdGJ0UlVfM3J2d3NSc0tiYU4yb2hMYzhveEZCNE1ESnJIcHF0SG55RnhqeEtIS0ZMMXhKdjU5MV9BMzUzbndmQzFSZw?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 16:25:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.985,
-        "negative": 0.015,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W30"
-    },
-    {
-      "title": "Talarico pulls ahead of Paxton by 5-points in new Texas Senate race poll - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSjl0c2RtRE9HY094eWRqbGlhOGxFVURXNENoR2FUdThjR1JRQ1VPSVc3Sy1yRHVZWUdnR1BYRWNFZVc1SkJRdkoxTDdYdXM3UW1xWTMzcENiUU1DVU1PWHJ2RGJhb0hDWkhaV0pNajlOTTVKY09tckgySDFyUUZLbURCb2hQay15bzU1QUJCRGpDa2VqZ3VnUGQ0Zi11SWVVem5tTDN2QXN1VjV1UVBRRHJPX29KZXRZQy12bS13T3o5OGFIcFMxNmN3S3Y5eVdHTTNLbHcwSnpFNUY5WVl4QVd3?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 13:30:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.996,
-        "negative": 0.004,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W30"
-    },
-    {
-      "title": "Talarico leads Paxton in latest poll on Texas US Senate race - FOX 7 Austin",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa284cVZUUU5kUUVDX3JvdVJwYm9ObVd2b0N0SUg0M2k2SzIxMUdMV2VsMTZ6X2FBRHlUYjZRM25NYzlfUTczUDhyaWlXcTR5X0NvY2x1ZWU5TlBwaVhKQTlnQV9vcWprRFpPZFgwdjJXUHVWci1mMWE1Z1g2bVhTN3luOVlkWi1nWkpkQw?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 17:31:10 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.984,
-        "negative": 0.016,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W30"
     }
   ],
   "weekly": {
     "2026-W31": {
       "talarico": {
         "positive": 6,
-        "negative": 11,
-        "total": 19
+        "negative": 13,
+        "total": 21
       },
       "paxton": {
         "positive": 10,
-        "negative": 7,
-        "total": 18
+        "negative": 8,
+        "total": 19
       },
       "both": {
         "positive": 12,
@@ -1947,9 +1940,9 @@
     },
     "2026-W30": {
       "both": {
-        "positive": 24,
+        "positive": 21,
         "negative": 3,
-        "total": 27
+        "total": 24
       },
       "talarico": {
         "positive": 1,
