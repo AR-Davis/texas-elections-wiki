@@ -1,9 +1,51 @@
 {
-  "analyzedAt": "2026-08-05T04:14:30.126Z",
-  "newsFetchedAt": "2026-08-05T00:55:58.490Z",
+  "analyzedAt": "2026-08-05T07:16:16.716Z",
+  "newsFetchedAt": "2026-08-05T04:16:42.784Z",
   "totalAnalyzed": 100,
   "newThisRun": 2,
   "stories": [
+    {
+      "title": "New polls show Talarico leads Paxton in Texas Senate race - KEYE",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUDdxZFpMWWtjVzVxblAxTVdFQWl6U2tXb1M5ZThIOFRDRjNGRlN0eE0wMW9rc3VZNGdkUGg1bXhPb1NyMG5Dc2dFSmJaaV8wU0FnbHdYMF9SQXY4YnNiVXJxUTZSNFRWQWNDaWE3TDNNTGZ0VjJiR2k1QTJ4ZFY2a0JDcnJ3SEJibTJXTHdpRE9OOXRU?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 03:35:39 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.979,
+        "negative": 0.021,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W31"
+    },
+    {
+      "title": "Three polls released in the last week — from Fox News, Texas Public Opinion Research, and the Barbara Jordan Public Policy Research Center — all show Democrat James Talarico narrowly leading Republican Attorney General Ken Paxton in the Texas Sen - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaTBxbWFYaW1pQ0tOSi0yTGRkeUstNTNocEp4QzZDeVVFdV9ZRHY4VjMxNGs5Vmt4UkNVTF9DQ25nVVV4WENlVjRndF9mYzNIbFlvTVhEQVBrcVhEOWdkbmxkcEtwYmdyTC1qVFRZWUtZVFFHdTFKUWlOVjEzemNSRXBWMGxJRlNVQ1ZaUlNKN21Vd0pwWmozZHhqYjc0V2pSRjJ1YzMxbGdsZEZldldvS0tZMFVTWi1zdlliZmRyWmVGYkFMa0tCSTJsQ3p0NXRDUGtVU1ZTVzItNG9XVkNaYTln?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 01:09:06 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 25,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "attorney general"
+      ],
+      "sentiment": {
+        "positive": 0.078,
+        "negative": 0.922,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W31"
+    },
     {
       "title": "U.S. Senate Candidate Ken Paxton Campaigns in Allen, Texas - C-SPAN",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcDNyUVFraHFZdHlvemFPS2lIV21xck5ZcWxES1d0bjNxUC14RmdBdmRqT3dSal9UUHhzcFd6ekR2LUZWczc1Qmc1eTk3ZUREWWFCM0hDX3Y2N1RvbVlGc2djRHlZYXdZQ09uTEdXWHMtTFRrejJaX0hrZmttQkZmaXNSNF9CQWFySDJiUEdGc1ZGa2M3MHFST3VwLUZhcnlUd3ZPVU94VjhoTk0?oc=5",
@@ -1848,61 +1890,24 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W31"
-    },
-    {
-      "title": "Talarico leads Paxton by 5 points in new poll of Texas’ U.S. Senate race - Salon.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcGFKM2tzRUlxUGxCcmliNFVhNndkQlc4T0xIWFBiM1E0cGRnd2lIenNFX0ZpdDhYcGsyN094QXItTWFjWnBWaWdtNS1Ec09ON0ZmZHZZRm42MFZ1Z2NQY2NXQzdQcEtTZF9TbUVsc2s1VkJQQVdfR3FJelY5ejRsai1yVXdaaWVaSGtSUVdaZUc2NWxvMjRVQW9fWmZ0eXhMWEpfQUx6SXVtNE5JWERadzdR?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 10:00:53 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.945,
-        "negative": 0.055,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W30"
-    },
-    {
-      "title": "Did James Talarico Meet Texas’ Residency Requirements? New Report Raises Questions - Daily Signal",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSHBNU092UDlOVDBVNXBBOUFQNG9DblB5U1FFSzlvaEI0QVZlbl9oOEdDMURuSjlNZGxYQUpkSVRTR1VuUkpLOVZ6SjZJYTg2MFV6TGx6OXJlTzJwRGgwSlBQU2dMUW1iT2s5Y0wwMy1TUWNVdDhmVlZ2clBKVE15S1ItanV1YW5keEE?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 18:30:31 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.014,
-        "negative": 0.986,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W31"
     }
   ],
   "weekly": {
     "2026-W31": {
+      "both": {
+        "positive": 15,
+        "negative": 17,
+        "total": 41
+      },
       "paxton": {
         "positive": 12,
         "negative": 12,
         "total": 25
       },
-      "both": {
-        "positive": 14,
-        "negative": 16,
-        "total": 39
-      },
       "talarico": {
         "positive": 9,
-        "negative": 16,
-        "total": 27
+        "negative": 15,
+        "total": 26
       },
       "general": {
         "positive": 6,
@@ -1912,9 +1917,9 @@
     },
     "2026-W30": {
       "both": {
-        "positive": 2,
+        "positive": 1,
         "negative": 0,
-        "total": 2
+        "total": 1
       }
     }
   }
