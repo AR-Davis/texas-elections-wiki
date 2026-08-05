@@ -1,9 +1,29 @@
 {
-  "analyzedAt": "2026-08-05T12:23:55.984Z",
-  "newsFetchedAt": "2026-08-05T04:16:42.784Z",
+  "analyzedAt": "2026-08-05T14:56:13.059Z",
+  "newsFetchedAt": "2026-08-05T12:24:29.691Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "James Talarico accused Ken Paxton of voter fraud. His own voter registration is raising questions. - texastribune.org",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSWw0V3Vmc3g3Y1N3SFdrSmFkeWtyOThNVUZMbFY5d2Z4b0YzZzdIa2dmRXFNS2E4NTJCRm05NXd3Nkwta0xJRkVrTEFtN2FNVGhhWTQ1VmtaazB6UUpQQ0NLRWNnTlAxNUFxN1NLVFdVZnVGQUc3czF3LWI5ZVJpM0JTZGNwejJ5VWdnWkxEaHkzNXpNY3Y5MG1lc2NCOXNWWDY4cQ?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 10:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.025,
+        "negative": 0.975,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W31"
+    },
     {
       "title": "New polls show Talarico leads Paxton in Texas Senate race - KEYE",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUDdxZFpMWWtjVzVxblAxTVdFQWl6U2tXb1M5ZThIOFRDRjNGRlN0eE0wMW9rc3VZNGdkUGg1bXhPb1NyMG5Dc2dFSmJaaV8wU0FnbHdYMF9SQXY4YnNiVXJxUTZSNFRWQWNDaWE3TDNNTGZ0VjJiR2k1QTJ4ZFY2a0JDcnJ3SEJibTJXTHdpRE9OOXRU?oc=5",
@@ -1871,38 +1891,19 @@
       },
       "candidate": "both",
       "weekKey": "2026-W30"
-    },
-    {
-      "title": "Ken Paxton unveils economic plan centered on tax breaks in U.S. Senate race - The Texas Tribune",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWWtHdDZTM3U3SW12N1lRSGg1TTMycm5NTFpIOHNVY2xZdUwzbGEya1JVMk03Z3VGb0FHY0d5QkhGUHlLUG85U3BBc3ViY0JOY2NJMFlGWnpnb3NxQ2pnVkVrTzZLLXU5djhxNDh3LW5HdGttclAxdUNHZzMycUlNSVhhVzJEMmpqc0NPWW9aSkFIR0Nic3VDMms4aUpWQWNmbk5SRm1R?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 12:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.995,
-        "negative": 0.005,
-        "label": "positive"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W31"
     }
   ],
   "weekly": {
     "2026-W31": {
       "both": {
         "positive": 15,
-        "negative": 17,
-        "total": 41
+        "negative": 18,
+        "total": 42
       },
       "paxton": {
-        "positive": 12,
+        "positive": 11,
         "negative": 12,
-        "total": 25
+        "total": 24
       },
       "talarico": {
         "positive": 9,
