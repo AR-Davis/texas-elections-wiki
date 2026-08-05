@@ -1,9 +1,65 @@
 {
-  "analyzedAt": "2026-08-05T20:09:31.990Z",
-  "newsFetchedAt": "2026-08-05T18:25:49.216Z",
+  "analyzedAt": "2026-08-05T21:48:27.441Z",
+  "newsFetchedAt": "2026-08-05T20:10:42.944Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Report: James Talarico Voted Using Parents' Address After Accusing Rival Ken Paxton of Voter Fraud - Latin Times",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ1VYZFJQUjJvQVZUT0tPdURWOGFnYnQ5TmpLNmtON3dXQ29VdGRROUotODM2WGt6bmU2ZlduZWR1ampBb04tVUZkMmxYUnMzaFpIXzI5V1NEZnBVRGROcHp6WFlpbExqbHFSNmpMWFVfVC1CY3ZTZURldklWd2FjNzBuNXRsLVdLM0pMNzdBRUV3M21jZm5aemhHRXZ1Z1M4QWtTSC04MEQtYUVua3RDYXpndkVacllMWVdJYnBFbTVxbWxiVmc?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 18:31:15 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.02,
+        "negative": 0.98,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W31"
+    },
+    {
+      "title": "Asian American groups backing James Talarico for Senate say he needs to step up his game - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMmNKN2NjblJfb1hrT1J4VHRJVGFrYjZWVnhQNjVETTRmUG11WWJxc3dzalRuNS1BTHplbDlOZjYxekVobm93Y250V3JmR2dQY3U4bXJaaEFsT19jcnZxT1EzY3ZCeDVMQnNTdGtvcWtwMVJwRlhHZkFFTU9hemhZUHdVRFFmc3JGUWF0cHVUTGo5WW40OFFwZEFqUTl1Vi00cWRv?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 19:02:46 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.003,
+        "negative": 0.997,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W31"
+    },
+    {
+      "title": "This Is What Jasmine Crockett Had to Say About James Talarico's Chances of Winning - townhall.com",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcVhGUlBUWlZrTGpiZXVIQ3F4V096bDRyaHFEMnFTVm52VFRsVHQ3QVZtaG9VTE1vWmNDOWFtdS1LS1ZEbm96NGZUbWgzUngybWNKWXVlY3pKQmlpcnVjeDVrOWpmV0FqdVQ5VmZTSkswSTBMdWtIX2h0T2NoZ2tvYmtnWlAwNGhXalFXaXNSVWlkdEhUbzFKNnlGU2Jaano3UWpmY3FkUkJuMndsWlRrREV4Rm1QTjVpY0t0ckFFeXRmUUI3eUJhWlQ4VWNMLUlKX2tGa0xqSQ?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 19:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.999,
+        "negative": 0.001,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W31"
+    },
     {
       "title": "New polls show Talarico leads Paxton in Texas Senate race - fox23.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRkN0V2h4dWEtcmItMHhKVVdHcG01bkRrNDZfbGltYVNyOU8wdjRoSlJiWFF1Z1VGdW5fWDFVSXJTSjNzbUhFOEN4Y3RrU0staXNTOFZKclkzT0Jqa192MUZrbmNJRENJWlNOMlpqV1NzNy16SFYwSEwzU0pCNl9RQkx2b3kybUs5MnJfaWtVMnBsS1B3NUNtTnNiSUJpdw?oc=5",
@@ -1833,80 +1889,23 @@
       },
       "candidate": "both",
       "weekKey": "2026-W31"
-    },
-    {
-      "title": "Ken Paxton Unveils Tax-Break Plan In Texas Senate Race - Hoodline",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbFY5Nlg5dFV5dDZHSElmdnRGMndTMzRzSjM4ckg3dEVDbVdzblNWY1NUVFd3ektqWTNhVE5ULVMtZWYxOXZGZE92X1A2MlltR05SeWxwN2M2TnFJdEhlTUVBX3Z0aUFkdGtxZ2gtM0kxNnJZZTl6MHpCaDhXRWRUQ0lELTZmelpNVDN5THpCbS05Yldtcmc?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 17:45:47 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.889,
-        "negative": 0.111,
-        "label": "positive"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W31"
-    },
-    {
-      "title": "Talarico leads Paxton, draws strong Black support in Texas poll - Austin American-Statesman",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ0Q2S0tUUXB2bUhBLU5DRW1oUnRQeVNTaHIya0ZNeTRkaExtLUwwQ19VWnNJZk1mZ1FtV3pMdGdaXy1RZWN1Qks5UjY3bU15cG5jM2s3eHhTRGFCOU54N21TYkFqamVxbGF4SGpFRkhmZ3gweU12eTBJcmpXTXdJOXFBMVVtRm04LTVuSGxSXzd4eDVsQ2hZZ1I2S3BzcGtIRWJEQmxaeGFVZw?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 17:24:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.999,
-        "negative": 0.001,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W31"
-    },
-    {
-      "title": "James Talarico Net Worth - Celebrity Net Worth",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVDlVYWd6VThjN3M5Q3MwVTdrM210VHROc3hvMnlaa05pSUtuY1JxNDZKSDhGMDF6c3pmZkV4eTNLajdCOTNsampRTExlZmxCSnlVVVplOXpIN1FZNlZ3TnRIMk8zeVNITlpKNllpdkEzWGFlcmhpNU03dXk5QUNVRkJCcnhzRWx0VDVKX1NUaVhGMjg?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 23:40:01 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.999,
-        "negative": 0.001,
-        "label": "positive"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W31"
     }
   ],
   "weekly": {
     "2026-W31": {
       "both": {
-        "positive": 16,
-        "negative": 19,
+        "positive": 15,
+        "negative": 20,
         "total": 44
-      },
-      "paxton": {
-        "positive": 11,
-        "negative": 13,
-        "total": 25
       },
       "talarico": {
         "positive": 8,
-        "negative": 15,
+        "negative": 16,
+        "total": 25
+      },
+      "paxton": {
+        "positive": 10,
+        "negative": 13,
         "total": 24
       },
       "general": {
