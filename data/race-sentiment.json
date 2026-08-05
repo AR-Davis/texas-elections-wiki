@@ -1,9 +1,45 @@
 {
-  "analyzedAt": "2026-08-04T23:33:48.827Z",
-  "newsFetchedAt": "2026-08-04T21:50:24.248Z",
+  "analyzedAt": "2026-08-05T00:58:05.045Z",
+  "newsFetchedAt": "2026-08-05T00:55:58.490Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "U.S. Senate Candidate Ken Paxton Campaigns in Allen, Texas - C-SPAN",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcDNyUVFraHFZdHlvemFPS2lIV21xck5ZcWxES1d0bjNxUC14RmdBdmRqT3dSal9UUHhzcFd6ekR2LUZWczc1Qmc1eTk3ZUREWWFCM0hDX3Y2N1RvbVlGc2djRHlZYXdZQ09uTEdXWHMtTFRrejJaX0hrZmttQkZmaXNSNF9CQWFySDJiUEdGc1ZGa2M3MHFST3VwLUZhcnlUd3ZPVU94VjhoTk0?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 23:55:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.24,
+        "negative": 0.76,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W31"
+    },
+    {
+      "title": "U.S. Senate Candidate Ken Paxton Campaigns in Allen, Texas - C-SPAN",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZW1VZTh0aFZ4QV9sbFB4WDUwY0tzdzNqZ0U2bXBsQ2FzN3R5SU9DRktnWVpuVklSM1RJUENJTTJINXFyc3VUOHZlcl9fakMyYU85dDFhNUtHTllyQ1lQaGpRZE5wLXRfODhic3BYUTFIdTY3UlVnNFc0WXU5R1U3S1ZfcmdKR1VxNWRKQ3l6N0NRSWdibGhNUy1wakgyTEh6OGJKUF9zTnQ?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 04:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.24,
+        "negative": 0.76,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W31"
+    },
     {
       "title": "Another poll shows James Talarico leading Ken Paxton in their race for the U.S. Senate - Houston Public Media",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYmpLQmxzNVk5cjBfc3RUMHhveHRqSW1GcmZaLVAyUEZUT01meXVpend4bUtKbDJ6aF83TVlaZFN0X2VXQVlNWEZ1a1VLa2E4ZnJIN0loTHZaOFhXTHFzSUY2X0RIQzJnY2NRWXdURXRKMnlTRnhyRFVoWDlNRnMtWml0clJPTkpFZ25Bd2hnUkZyMUFZeUtYVWE0VzhRVUJESnpPXzB1V09MSThrSVNEdnFES1JCOGx4dWNxUG1FN2JqVzZ2WjBfejlfeFJ5dWFxZTFUMWsyc3dpRTBrS0RnWktGQ3YzQkdPZW11dkJR0gH2AUFVX3lxTE1wNENuSzd3NHhoY0Z1bm5VNnZ2NWt3cUM5bDAxS09kenVPdWtZRmVsNlRjcXd3TEJiOEVOamhMQk4tVXFPRU92dXJNdmxwQUZwNDdERXRHdHhwZ1JUV2ZJYzg1UzZvcUJlWlFuUGFYZ0FBUTdSZHFpV2xvZVF2ei04VVViR1BDci1aLXNoU1NrYm5jVjJ4TjBmeUVQR1B2Skp1am5ONFZUMG4tZjc4RkVwTzFMZ29TeGdSbUtrTzZWNUNIN2RNMjN0ejNwUmQyMnZIWjJlWjBEOTU4TVBBaVNxRGdTQkxFdzdiWUVPclRhbmEzQmpvZw?oc=5",
@@ -1849,49 +1885,15 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W31"
-    },
-    {
-      "title": "Black voters' frustrations with Texas Democrats go beyond just James Talarico - Austin American-Statesman",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRE1EdS1PdHZMVDI4X2VOeGZuVDZKNXJ5VzVHSVYwYU9fRXpQM2hWSHdoWnpncUVmVFdzdkZ1UUFBaWFhaG0tN2JfOFZWU0VPY0M1amZpSHhaTExQQko2UGJzZjlXOVc3czNDUXlDTXJldXF1VHotSTU5Q2R0ZHRnT1k3Y21HWTlHUFFSYVhTWXhDaUhtMVFFYUdR?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 15:05:21 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 19,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas democrat",
-        "texas democrats"
-      ],
-      "sentiment": {
-        "positive": 0.036,
-        "negative": 0.964,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W31"
-    },
-    {
-      "title": "Fox News Poll: GOP divisions shape Texas Senate race - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU01VQjNiNWhzYVBIZkhWc01lRU1fWG96dGprSmRBekNyVkx2ZFg1Sjk3WHpWdnk1OUg4ZTlfZmhmQkF4RHhmOEtSalMzLUV2N0p0ZzF0WVBDN29pcmh2SlhfVmNiQ3RZT1I0b3BkWWNQdGhvQWQ0Q2pRemFTWHNyQmRaem9XTlFxaExLSNIBkgFBVV95cUxNOWtTekNEbVoyV1pSMTZ0R28wSlFBY1l5eVdRY3JQSVVvTk9TZzBHeFJSdWo4aTE2M2xVb2ZrZTBfMTBEbFdNVnlnZXNIZExFbkN4R0FLUVhlY05Pc0dNM2xCcUdYQ0RmMnVhSHlVVTliYmNxTU91bDhObkstdHlHZzdOZk1IdTNFYmhFckllRlBCdw?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 22:00:03 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.209,
-        "negative": 0.791,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W31"
     }
   ],
   "weekly": {
     "2026-W31": {
+      "paxton": {
+        "positive": 12,
+        "negative": 12,
+        "total": 25
+      },
       "both": {
         "positive": 14,
         "negative": 16,
@@ -1899,18 +1901,13 @@
       },
       "talarico": {
         "positive": 9,
-        "negative": 17,
-        "total": 28
-      },
-      "paxton": {
-        "positive": 12,
-        "negative": 10,
-        "total": 23
+        "negative": 16,
+        "total": 27
       },
       "general": {
         "positive": 6,
-        "negative": 2,
-        "total": 8
+        "negative": 1,
+        "total": 7
       }
     },
     "2026-W30": {
