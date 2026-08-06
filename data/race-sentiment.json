@@ -1,9 +1,28 @@
 {
-  "analyzedAt": "2026-08-06T09:42:33.423Z",
-  "newsFetchedAt": "2026-08-06T07:18:03.684Z",
+  "analyzedAt": "2026-08-06T12:05:11.891Z",
+  "newsFetchedAt": "2026-08-06T10:10:53.868Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Texas Senate Race Turns on Bachelor Versus Divorcé-to-Be - streamlinefeed.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQmlra2tlV0NuTmJ4YU8xN2VuSmV5Ny00MGxmc29VSDBWcW03TkNNaEhkOEYza3lxUUd0eTRMZURuaUE0UTFsYjFQNWFleFRKMTlVR3hvVms2QUlkRk1ELW45U0hEWDU2MFV1cW1YVFRvSk1JTzhFSlNHb1p4NnN1RmhiUDBqZi1YTVM5aFpoSGR1d3hi?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 09:01:53 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.043,
+        "negative": 0.957,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W32"
+    },
     {
       "title": "James Talarico rolls out “New American Dream” economic plan - The Texas Tribune",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLVp1SHlNRVkxcVZma0trOXBNV0t3M2dWMFZMcHUxdTNrUHhlRDI0eDYtSlFmQlI0eThYNVhrX3hzLVpJYjJ3NGlLdG9OTl95TG92R05LNV9jOUpwaXgwODVFYUI5U1hGV0p4X3prQXZLMmxDaUJBeE1ESDh1LTBfbW1Zc25aZ1dvU212UlFjWW9zeGFRelVpWTdKbw?oc=5",
@@ -1866,28 +1885,15 @@
       },
       "candidate": "both",
       "weekKey": "2026-W31"
-    },
-    {
-      "title": "Democrats could flip Texas Senate seat because Paxton ‘is so awful’: Sabato - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZTBNYUg5M2wyZU9VLVVMSkZIaURlVFd1Vmtjdm9Wa1A4WktmTzhjTVdZV1JqOUo3MzBoRG0tSGFCSW5iaXdjbTZsR05BRnpjSnY1Mmd2YXhaV3pvSXVmLTFsMDZYOVZIUkhjTDRDcVpHOHltbF8wWDlDekxvQkZUeWtpRVBsX3d3X3lVNENXVdIBlAFBVV95cUxPTGpyMEd2Y1pobVlLWFBmU0xMeUgxdHBodHJNMTJnQkoza2YyLTNzNVhlU2pwazczLXhOXzhwdWJDeU5Ic29zUlpvaUQyV3dkaTNFX3pRWF9YTnRoUjBha2lKb2hjMGU0ejI5UEFFaTk0TlJpb1FuWjFPVDMza1JnSEs1cGVFWmNORDl5a091djF3ZEFM?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 14:28:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "texas senate"
-      ],
-      "sentiment": {
-        "positive": 0.003,
-        "negative": 0.997,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W31"
     }
   ],
   "weekly": {
     "2026-W32": {
+      "general": {
+        "positive": 0,
+        "negative": 1,
+        "total": 1
+      },
       "talarico": {
         "positive": 1,
         "negative": 1,
@@ -1902,8 +1908,8 @@
       },
       "paxton": {
         "positive": 9,
-        "negative": 14,
-        "total": 24
+        "negative": 13,
+        "total": 23
       },
       "talarico": {
         "positive": 8,
