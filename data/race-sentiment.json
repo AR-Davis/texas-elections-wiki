@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-08-06T12:05:11.891Z",
-  "newsFetchedAt": "2026-08-06T10:10:53.868Z",
+  "analyzedAt": "2026-08-06T14:31:07.979Z",
+  "newsFetchedAt": "2026-08-06T12:27:10.105Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Senate hopeful James Talarico to visit Abilene - Abilene Reporter-News",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVGpHNTVUMmRJMmpCWHQzRkJWOTZQTC1SanRGTml4NjQ2dkM5a2EyeGJISkVreGpGRFZsVEtIOWhrZzJvYWp2S012QlNyX0dPZ3hOdERsbHNpbDJYT2ViR0tTMEdrSHhmSkMwWFJ1aHQ4UzMySTlCOHpncEJ4clF6VE1RRG84Yl9OZnNTbkZ4NFVkbm16ZWNqVmVOMWpYU29OUGR5ZGZrTTB5YjlZNVFsdXA3cFAzMmtxSXJ3R0hKY0hqcUZRVDRoTC1WRlVaVnk0SUdZX1pqamQxQQ?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 09:09:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.988,
+        "negative": 0.012,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W32"
+    },
     {
       "title": "Texas Senate Race Turns on Bachelor Versus Divorcé-to-Be - streamlinefeed.co.ke",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQmlra2tlV0NuTmJ4YU8xN2VuSmV5Ny00MGxmc29VSDBWcW03TkNNaEhkOEYza3lxUUd0eTRMZURuaUE0UTFsYjFQNWFleFRKMTlVR3hvVms2QUlkRk1ELW45U0hEWDU2MFV1cW1YVFRvSk1JTzhFSlNHb1p4NnN1RmhiUDBqZi1YTVM5aFpoSGR1d3hi?oc=5",
@@ -1865,46 +1883,26 @@
       },
       "candidate": "both",
       "weekKey": "2026-W31"
-    },
-    {
-      "title": "Inside Texas Politics | New polls this week show Talarico ahead of Paxton in Senate race - NewsBreak: Local News &amp; Alerts",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbnZDSE13Y0ZUbXZDdmFXMjhDT0dVVDNXSVJVUXllZnRBeElGeWEtQVhrWTRCRm9NdGlEcXN3TWRrdDlqa0NoTkpIcFNpam82VlBZWnFuS2k1eXVhNUtLMXg3ZzZiMzZuNzI0MUlydkFiMXNPbHU2d2xQWU11cF95WUVrTzkzcjNsSmk3Q0p0cVZNazdhcVdtZVpROUZTamV5b2Q0bVdmb21pUjF6cDIyZlpQTUEweVZ4bTdhRlAtRlZZTWtpRi1RUzM1RnpfbUdZTEJNVw?oc=5",
-      "pubDate": "Sat, 01 Aug 2026 03:33:12 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 18,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race",
-        "texas politics"
-      ],
-      "sentiment": {
-        "positive": 0.993,
-        "negative": 0.007,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W31"
     }
   ],
   "weekly": {
     "2026-W32": {
+      "talarico": {
+        "positive": 2,
+        "negative": 1,
+        "total": 3
+      },
       "general": {
         "positive": 0,
         "negative": 1,
         "total": 1
-      },
-      "talarico": {
-        "positive": 1,
-        "negative": 1,
-        "total": 2
       }
     },
     "2026-W31": {
       "both": {
-        "positive": 13,
+        "positive": 12,
         "negative": 22,
-        "total": 43
+        "total": 42
       },
       "paxton": {
         "positive": 9,
