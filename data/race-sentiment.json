@@ -1,9 +1,63 @@
 {
-  "analyzedAt": "2026-08-06T00:07:34.143Z",
-  "newsFetchedAt": "2026-08-05T23:06:07.518Z",
+  "analyzedAt": "2026-08-06T03:50:35.181Z",
+  "newsFetchedAt": "2026-08-06T00:53:12.832Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "U.S. Senate Candidate Ken Paxton (R-TX) Campaigns in Houston - c-span.org",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQmhBeG9FYmNURjBUa1pSdTJpTjRXc3VDVld0ZHZjSEdYSE95U1Z3V21hbFRzZmFuX1gtd0h5V0p4R01XTU5KeGUwX25kTGMwcGhXTDJHYXBsbXVJSW05MjBNWmlJVDAwRlVDWHJpV0hXLUFNZHhhRzY2ZVRRYlpsNjZ2MzNzcWk5WHhFWHpwSnNQM0Zwc01tSzRKaFJORHJSRVQ0OThjZXZwQQ?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 04:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.048,
+        "negative": 0.952,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W31"
+    },
+    {
+      "title": "Texas politics: Hinojosa, Paxton campaign in Houston as races heat up - KHOU",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUXlPdE1fQ2t3YnJYbGM3d2xOaDRWLU5yeGJoVmI3Ni01TTA4bFBXbHZkQWpuZlIwNU9uR0luWE1FSUxRRnVaTEJTUTZxVThJdmROcEd3THp0U2U1STlBWE16Z0x3bWtKeldEWGc5ZzFRNGlxU01zWXNWZTZyZUI0Y3FLSG83RnZPS1NtaHR0ajcwTUxrWGExT1FUenBMVEFQSDlFUmcyTGRoYmNKQWxxbzB6SDc4eU81WjJySngtczBWSVFRc29uQXpmaUhTUjZtWG1HME5hWHlfWG00VmJKcEV0VQ?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 23:08:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "texas politics"
+      ],
+      "sentiment": {
+        "positive": 0.738,
+        "negative": 0.262,
+        "label": "positive"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W31"
+    },
+    {
+      "title": "Bitter Jasmine Crockett not getting her hopes up for ex-rival James Talarico - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRHZVWEpJS095ZHZNWW5tX2J4OHZmWjJQSS1rb3hCSEExelNjaV9XWDNpenlXb3dQallKVW9aMExfWFA2cWYxc2VsTmFDc2Q4SWs0TGRCaXJ2N3FJcmUyZGg5Q3JiMTNlRTlDcmpzSnVJek5kb2NDeXJhdnNqYVFOZzRiVXJIeEdhQ0RBUW53OXFFd25pWWxXenp1OEZNVmdzSkMwRHZyTzlMaG9tTHdwVHlBY1VTNGZGRlgyVnFLRU54dw?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 22:17:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W31"
+    },
     {
       "title": "James Talarico accused Ken Paxton of voter fraud. His own voter registration is raising questions. - ValleyCentral.com",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNek9vM0F5a3RIMGluWXR1QUUzbHAwd3hoX19mQ2IxUjdUajlTOG5DQmpWQ2pwZWhSMlNSZUNSeGRuZ2JJTW1teDB5c1BmT1F6QkZjVEtCSl94RWI0ZHJMU2VJYWIyeldfNmJKMEktVkwxckFPU2hPdjBBNTJMSkJRTGpnWmd1bks4cWdKdXN2eDlQUnVUTXFfeWxLN3NDdEI1UGlUeGU3bE1fY3ZPeVJmMjlWRW9zakZtbUg4endyMlV1eEdaREdTcDcxcGlZOHhpYnpJV3JoOG1uOVNpVG5wY9IB5gFBVV95cUxOQmtWVFlWZnNsT2F0T1pDaS1QcUtQaFFsQW15bEtxekNtZW1udFZxV1pjN0RRRWtmZkVqeHFrLU91a2Z1Wkhjdk8zM0lpclhNZS1KNUc1Nnh1eThIeXFlcElOUzVTMGRZT0liQmlLdlY2Ujd3VDJfSjZQdlZERUlpUGx6ekIwaUZrR2NNSDQ0NW1hdXRZTkl5TlppSkxUZHB5alJ2bUFiWEpHaXFub2VSc0ZhMVkwQWJreUZaa21KN2N5LXNibWRwTTJORDF2NVBZR3NoaUhGVVNTRUtURzhWS2pRMnotZw?oc=5",
@@ -1830,90 +1884,29 @@
       },
       "candidate": "both",
       "weekKey": "2026-W31"
-    },
-    {
-      "title": "Debate plans heat up between James Talarico and Ken Paxton in Texas Senate race - KHOU",
-      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPc25GMTZuRXRqaGNVMlZaaUljLXRhWGtWTVN1anRLRVFyNTJQNWZpZGJSNThJMVEyZ2JxQmU1dUZLUkM0SHFON3pIQXQtaERId3MzUjdqc0tqV1NOdUlwNnNVcHhLdS1SX2tubWRVcXBMcFlZMVFSS3kzSEVneFFsN25YVjBkUUNTakF3eF81Q2R1Qm9KdmNsc0pwTUxZX0FSOGxkUGxpX3ZhRzdWWlRxN3RGTFRFcmNxTG1TZFJNR3Q3c1FScmwwNEFzT0tsOUV6SEsycnNFbF83TExTdlFsUWc1aHhqYzVHTFFUa2thMHpPclVENVhHRDZ4Mk5EZ0hMMHc0cWNmQlZ5bXhjLVBHYmlfSjlHWHM3V3lEVA?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 21:50:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 38,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.439,
-        "negative": 0.561,
-        "label": "neutral"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W31"
-    },
-    {
-      "title": "Ken Paxton unveils economic plan centered on tax breaks in U.S. Senate race - WFAA",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQckEzSTc0MnkxSTBCX2MxWDNYbjFrUTlpR2pZTTJpWVpqOUpqOXZ2N0tlTm5CTVJua1YxcXFsbkhSTnd4aVBJeXNoVTJubnlLcTFFSjdNUE95cnFRVVNYaVVwdGNKX2lTNE04SHIxU3ZJZFBXNU5tdkJBMFl4VnRBTHdwelkxODd0MnIzQlZYam53UUFLZEl6andRbjZLVk5nVERYTjdrZE9JREV3VkxlQmVsX09kd0ZEUnpmTnpIOVYyMGc1QUdjRHBjUjdDV2l6ckE?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 21:27:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.995,
-        "negative": 0.005,
-        "label": "positive"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W31"
-    },
-    {
-      "title": "Fox News Poll: GOP divisions shape Texas Senate race - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU01VQjNiNWhzYVBIZkhWc01lRU1fWG96dGprSmRBekNyVkx2ZFg1Sjk3WHpWdnk1OUg4ZTlfZmhmQkF4RHhmOEtSalMzLUV2N0p0ZzF0WVBDN29pcmh2SlhfVmNiQ3RZT1I0b3BkWWNQdGhvQWQ0Q2pRemFTWHNyQmRaem9XTlFxaExLSA?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 22:00:03 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.209,
-        "negative": 0.791,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W31"
     }
   ],
   "weekly": {
     "2026-W31": {
-      "both": {
-        "positive": 14,
-        "negative": 22,
-        "total": 45
+      "paxton": {
+        "positive": 9,
+        "negative": 14,
+        "total": 24
       },
       "talarico": {
         "positive": 8,
-        "negative": 16,
-        "total": 25
+        "negative": 17,
+        "total": 26
       },
-      "paxton": {
-        "positive": 9,
-        "negative": 13,
-        "total": 23
+      "both": {
+        "positive": 14,
+        "negative": 22,
+        "total": 44
       },
       "general": {
         "positive": 6,
-        "negative": 1,
-        "total": 7
+        "negative": 0,
+        "total": 6
       }
     }
   }
