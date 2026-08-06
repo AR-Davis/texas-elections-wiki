@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-08-06T06:35:26.902Z",
-  "newsFetchedAt": "2026-08-06T04:18:00.295Z",
+  "analyzedAt": "2026-08-06T09:42:33.423Z",
+  "newsFetchedAt": "2026-08-06T07:18:03.684Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "James Talarico rolls out “New American Dream” economic plan - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLVp1SHlNRVkxcVZma0trOXBNV0t3M2dWMFZMcHUxdTNrUHhlRDI0eDYtSlFmQlI0eThYNVhrX3hzLVpJYjJ3NGlLdG9OTl95TG92R05LNV9jOUpwaXgwODVFYUI5U1hGV0p4X3prQXZLMmxDaUJBeE1ESDh1LTBfbW1Zc25aZ1dvU212UlFjWW9zeGFRelVpWTdKbw?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 02:50:10 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.991,
+        "negative": 0.009,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W32"
+    },
     {
       "title": "Polls show Talarico leads Paxton in Texas Senate race - sekbernews.id",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOekRja3RVUjMzVHYySm1jSDctMkJobFU5SHA2dUxqcUlKRERBZHVXSW5LVXIxblBtSEpmU244ZTdRRVJDWUpmWWt2SXU4VUtLeExuSU1yMU9BRmFyZEh4VG9vZ05falJyWDM4SmQwV2VPX3BGVExCTnI1VDlvZ1VtZThfZ1RkWU56Umc?oc=5",
@@ -1866,32 +1884,21 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W31"
-    },
-    {
-      "title": "New poll gives Talarico slight lead over Paxton, shows governor’s race tied - FOX 7 Austin",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeWI0YUVUcE1jV0p5TEt2b2ZoRk5KRTFnNFppSUduaGtiQW40blRzamtmMkxqTXhnMG5rTDVDSjYzeWYzaWlzcVZhY1lDTjFEWmVkczJSdjNGSW5ISkJrcDc0UzktMGJvdTd2aDhGR0RHMkE0U2ZxLWpBeDYwQTZXeVdHVWtRUm9IamNxd3dFak1QRng4aDRz?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 17:16:15 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.037,
-        "negative": 0.963,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W31"
     }
   ],
   "weekly": {
+    "2026-W32": {
+      "talarico": {
+        "positive": 1,
+        "negative": 1,
+        "total": 2
+      }
+    },
     "2026-W31": {
       "both": {
         "positive": 13,
-        "negative": 23,
-        "total": 44
+        "negative": 22,
+        "total": 43
       },
       "paxton": {
         "positive": 9,
@@ -1907,13 +1914,6 @@
         "positive": 6,
         "negative": 0,
         "total": 6
-      }
-    },
-    "2026-W32": {
-      "talarico": {
-        "positive": 0,
-        "negative": 1,
-        "total": 1
       }
     }
   }
