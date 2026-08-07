@@ -1,9 +1,48 @@
 {
-  "analyzedAt": "2026-08-07T15:59:51.471Z",
-  "newsFetchedAt": "2026-08-07T14:58:14.002Z",
+  "analyzedAt": "2026-08-07T16:57:30.219Z",
+  "newsFetchedAt": "2026-08-07T16:02:55.872Z",
   "totalAnalyzed": 100,
   "newThisRun": 2,
   "stories": [
+    {
+      "title": "Ken Paxton touts economic plan, bashes Senate race rival James Talarico at Houston rally - KWBU",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRFljWGxnZGRTaVNXQWEzSG1UaVI3Y0pSZGN1amRxalBjbDZBcEVqVEJmVThSNXpDNnkydlRKbEhtaGtyTlEzbUFYbUJ2dEctcDFDc3JXMlAwaEwzUTIyb1lHMEJXQnJicnFLTWdTUG9SY2xrWEJhRGt6S1YxbjQ4aGhza1RieW5BRlNWVXpLcC12UlFvVEMyekVFTlBMdkJqbmgxTW1kdldiOEtFbmhSTVdYejRzVF90MEloN0xSMllGLUI5UkhuNUdsbzBucjBtY3RyTVdEbTJueTlZbUZMSEdBZmQ2b1k?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 14:41:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.066,
+        "negative": 0.934,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W32"
+    },
+    {
+      "title": "Senate Candidate Ken Paxton Campaigns in Houston - c-span.org",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2JnT0tuQXEwY1BEZTlvN1ZQOFExS3pUMHZXQ3JJRFhwczBrbEt0MHB1bV92WWYzakE1MTBGUW9xeURjSHlHSHZlR0MyOUloOEoyQjhpODFtOEtrWm5nbEd0aS1PNlNNdFBQMGItRmVEa2VqVkNWTnk4Nm84VnhLX29iRFQ2VnJKWndRZWhXR1g0d2NVNjQ5dnhXdmE2SEJvX3c?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 00:28:11 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.042,
+        "negative": 0.958,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W32"
+    },
     {
       "title": "Ken Paxton touts economic plan, bashes Senate race rival James Talarico at Houston rally - Texas Public Radio | TPR",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWWNhdEpRamlib1RZLXlqVGdiWkRvWkNKNGhSVWdqbTh4MW9RU3czS2hoWDNhaXF0TXJEWFRfS2hJWVZPbXVWdUgtVXUweFVaVkNIZlFWS3NocnVWTWg5QzdHZVNaVVFnN3N3ZHJ1VnBNQzkzaVhQT1lsS2xsRTlCRy12N0cxQ2VzUDBWSTk4ZDlTV3BLMmU4TVdpTW5aOWhTcEUya0F2NE55elo5NDN0d0Q1UkpJUFNXZ3ZkY1laZXJ6TDkzUnNSN0swUHpHNHNVRVJ6VXdIcWJpOG1GVi00SUpn?oc=5",
@@ -1868,56 +1907,19 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W31"
-    },
-    {
-      "title": "James Talarico Agrees the Karmelo Anthony Verdict Was a 'Tragedy' - townhall.com",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYUV2djQ4VS1MOXdhVWg0R1dINWNmUjRXOTFJZVkwNU1CTTNDWXJROXJFdTdzV25CREVvVXNET3BZMzNnYjlBblVwTy16enNWNmUySlRZS3RVaW1UTkVjSWsxNmtRYm5udjRYZUxYRjBBVU1EMjZVS25LdE1PbVVhSGJac25Ec05MX09nWGFvbk5lMFhmeWNmMlpFbkd3NXM?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 11:45:38 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.016,
-        "negative": 0.984,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W31"
-    },
-    {
-      "title": "Inside Texas Politics | Why Texas Democrats think this year is different from 2018 - NewsBreak: Local News &amp; Alerts",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLTlNLVQ4T0tZYWJKUHFGODRsWW5vdFBWRnlqYm9tWENnQmstWEUxckpQVHNUSWZEVjBrdFVWQ044WUNURTUxLUc2LV9wUXlocnhXZE5LZnRSdko4WklNbkxxWnAyUm40M3pvYzZ1VDREbUw4bF83X0NkSFN6N2ljeW54SDU1UGN5Z3FfNjhPUmJtbVE5U3BCUTJ1YkJFd09DV0hxT0xkSDdhZjM2QW16RnczSm1YTWpvOGlGQzJwZGRLSmhjWW5NZG54X0s?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 03:25:16 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "texas politics",
-        "texas democrat",
-        "texas democrats"
-      ],
-      "sentiment": {
-        "positive": 0.951,
-        "negative": 0.049,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W31"
     }
   ],
   "weekly": {
     "2026-W32": {
       "both": {
         "positive": 1,
-        "negative": 8,
-        "total": 9
+        "negative": 9,
+        "total": 10
       },
       "paxton": {
         "positive": 3,
-        "negative": 0,
-        "total": 3
+        "negative": 1,
+        "total": 4
       },
       "talarico": {
         "positive": 3,
@@ -1938,8 +1940,8 @@
       },
       "talarico": {
         "positive": 6,
-        "negative": 14,
-        "total": 21
+        "negative": 13,
+        "total": 20
       },
       "paxton": {
         "positive": 8,
@@ -1947,9 +1949,9 @@
         "total": 17
       },
       "general": {
-        "positive": 3,
+        "positive": 2,
         "negative": 0,
-        "total": 3
+        "total": 2
       }
     }
   }
