@@ -1,9 +1,48 @@
 {
-  "analyzedAt": "2026-08-07T14:57:06.760Z",
-  "newsFetchedAt": "2026-08-07T12:10:45.620Z",
+  "analyzedAt": "2026-08-07T15:59:51.471Z",
+  "newsFetchedAt": "2026-08-07T14:58:14.002Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Ken Paxton touts economic plan, bashes Senate race rival James Talarico at Houston rally - Texas Public Radio | TPR",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWWNhdEpRamlib1RZLXlqVGdiWkRvWkNKNGhSVWdqbTh4MW9RU3czS2hoWDNhaXF0TXJEWFRfS2hJWVZPbXVWdUgtVXUweFVaVkNIZlFWS3NocnVWTWg5QzdHZVNaVVFnN3N3ZHJ1VnBNQzkzaVhQT1lsS2xsRTlCRy12N0cxQ2VzUDBWSTk4ZDlTV3BLMmU4TVdpTW5aOWhTcEUya0F2NE55elo5NDN0d0Q1UkpJUFNXZ3ZkY1laZXJ6TDkzUnNSN0swUHpHNHNVRVJ6VXdIcWJpOG1GVi00SUpn?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 15:41:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.043,
+        "negative": 0.957,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W32"
+    },
+    {
+      "title": "Tex Rep. Jeff Leach once tried to impeach Ken Paxton. Now he's supporting his U.S. Senate run - KERA News",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOXFodlFhQzQ3cUhiMUNfdE1iZTJyTGxzZl9yOExoVHM4UUtSZm5YUTB5SUphamo2NzFLSFJSZXZiTW9iUlBKSGlyWmx6S0hpSS1ybV9xNk1NNmZXSTBSUklOZnFEdm9aakxWR1U1OTZjYjMxZEU3WWNPOFYtb3lrSnc3UERrZE53WEhqdEJJUHVSeTNMYUVoREJkcDgwRjJZRDZnQ29LeUtfWXNqamYwQjVBQ25LVzJNQU5NbVlRaFZSQVhwQnFCSWhaVHdCZVpvaHp3U0ZTRGJIcDZyMXVoSHJ3?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 19:37:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.861,
+        "negative": 0.139,
+        "label": "positive"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W32"
+    },
     {
       "title": "2 U.S. Senate events in 2 days in DFW: Paxton, Talarico rallies compared - Fort Worth Star-Telegram",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcFZkU0d5X091bkhmeTMweVZLY1pHOWkxZlJIOUt4aXk2T2RpNW8yRUkxcnFkUHplSXJmeVRwemlZcmN5Rkp6VDRuQnBHMTNfQmlKZGpDTl9VMlVrdlozM2tiYjRleURUUzJRajhRa1dRTHl1MldiNlpfVFlWWXBZODdWdEw3T01JSlVTUmRDc2VweDBoc2fSAZYBQVVfeXFMT2VMZGdrSEpWSDRvWEVpamI4NEhwV3FkU0tmamdmTGp5ZF9QRkYzMnBKQ3BNZ1hRUDRGVHRrSXZDa09BcjQwOGthQVpBT1JzR2pUQWVpQmJQbFhLY1BEV0VUQVlyeTB0ZGlDMDUwbTJHM0VxQ1lMeDZYdkU1N3RRUDBia1lRRmZxTm9RYkdpenRQQ0YyR1VR?oc=5",
@@ -1866,55 +1905,19 @@
       },
       "candidate": "general",
       "weekKey": "2026-W31"
-    },
-    {
-      "title": "Republicans want to talk about James Talarico’s manhood. Talarico says let them. - Politico",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRGVteWVjUXN0UWpVME9BMjdUbzZpWXVCQW9iY29jU1hwaWpKbWI1am0tWWExZFEtcVdnVUZvc0JlSkFNXzRkanc4T0lsMnVCUWR5cUVFUTNXOFMxbFhtYUlrT0p6ZW1UYkFqc3owNEl6ZzFPWVk2bXBmN0F5T3ZUTUR3MXlwMVJ4Wm92SUJfTF92X3JZWFJQVlMya3c5QndaTWdJV2FzSE91NmJ2YnN1MThvNXhMT0doUUpIQnRGWUM4Ulh4OGc?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 08:45:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.026,
-        "negative": 0.974,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W31"
-    },
-    {
-      "title": "For John Cornyn, a thumbs-down moment with stakes beyond Texas - Austin American-Statesman",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSHVXVnBJTm1tX1lUempmUWJWNXZmRzlPSm51eXB4XzNWX2ZWSDhNOEUtaWhoTU5uZVQzTWpDS2ZyYnI3dXVraEJiUVB5dm5LdndZQXVPSFN0MnlLWjJ0S3lfd09KcmpPMG1JYV81VjhVNktZOW5DSGdMTC1hUnJNWkRuVUJJRUdvMU5objJtR25FNWhvV1A0MGRFU0dwR1pj?oc=5",
-      "pubDate": "Sun, 02 Aug 2026 11:00:43 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "cornyn",
-        "john cornyn"
-      ],
-      "sentiment": {
-        "positive": 0.999,
-        "negative": 0.001,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W31"
     }
   ],
   "weekly": {
     "2026-W32": {
       "both": {
         "positive": 1,
-        "negative": 7,
-        "total": 8
+        "negative": 8,
+        "total": 9
       },
       "paxton": {
-        "positive": 2,
+        "positive": 3,
         "negative": 0,
-        "total": 2
+        "total": 3
       },
       "talarico": {
         "positive": 3,
@@ -1935,8 +1938,8 @@
       },
       "talarico": {
         "positive": 6,
-        "negative": 15,
-        "total": 22
+        "negative": 14,
+        "total": 21
       },
       "paxton": {
         "positive": 8,
@@ -1944,9 +1947,9 @@
         "total": 17
       },
       "general": {
-        "positive": 4,
+        "positive": 3,
         "negative": 0,
-        "total": 4
+        "total": 3
       }
     }
   }
