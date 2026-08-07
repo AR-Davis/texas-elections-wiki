@@ -1,9 +1,28 @@
 {
-  "analyzedAt": "2026-08-07T19:03:12.687Z",
-  "newsFetchedAt": "2026-08-07T18:23:38.672Z",
+  "analyzedAt": "2026-08-07T19:55:18.614Z",
+  "newsFetchedAt": "2026-08-07T19:31:55.304Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Texas Senate race tightens as fourth straight poll shows slim gap - usatoday.com",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWGNHelJrZUxRcGV0dk1UbGxSNUJibTJXdlhLNjd5dlZjMzBITHVHQzA5anJsTGZQMW5tZ0FZWHdJTkhMb2E1ZEVTMmk5Vmw2WEJfeUJ6T3EzS043TzQxS2xPX0NJYkwySEtHb1BOY05wX0NCM3JKVThBa1lCX1lWa1MxcFY2S1pDYTdLN09SRmF2bFRhd0M1d3NLOXUxSzcxbnBYUnNnVmxUcWtBdFZoSW1lc0RhRkl5cWxKTXZ6NDZHTThJNXFQWTZhSHhLTFUxTEdDLXY1YTQ3UFUxMXdB?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 18:24:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.002,
+        "negative": 0.998,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W32"
+    },
     {
       "title": "Another poll shows James Talarico leading Ken Paxton in race for the U.S. Senate - KTEP 88.5 FM",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMVY2MDFNcUUtRGJmdjVKbTFJOGdUbTRwOHZCYy1kMFVqQzZUOWlmRE5BQWNUaUNGQ1NVeE1ydDB0RHZqV0tCOEZ2MHFzQTk2WTZqQlRFOW04Z0ZNWFBDa19NRGdZWkpZQ1B5cEZ1TFpzTmtPZjEwMU54YnlNUmVVaEh0X3VNcUJIS003VWNyT0dWdzVYSHp2c1lpMjR1akdyRXhKeXR6c05KaHZmVVZuSA?oc=5",
@@ -1889,33 +1908,36 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W31"
-    },
-    {
-      "title": "Talarico vows to take on corruption, from Ken Paxton to Supreme Court, to protect Black voters - TheGrio",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRjdsUXlIaVFvWVJUeS1ob1Z3dXR3ZVNwVHhKQ2xRNi1Yd0xXOEJyUXRRUTMteWZnV21BdzNLZDdSMDNzaElweWFWREctX3ZlWTVlc1ZmamdlSzVoM0d6WWxJVWdPaFN0djhyU1M3VGVlRC0yUUJpVThFX2JCNElCR0c3c1g4Ry1pQm9vUXVGR2ljTDA?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 16:04:13 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.059,
-        "negative": 0.941,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W31"
     }
   ],
   "weekly": {
+    "2026-W32": {
+      "general": {
+        "positive": 2,
+        "negative": 2,
+        "total": 4
+      },
+      "paxton": {
+        "positive": 3,
+        "negative": 2,
+        "total": 5
+      },
+      "both": {
+        "positive": 1,
+        "negative": 9,
+        "total": 10
+      },
+      "talarico": {
+        "positive": 3,
+        "negative": 1,
+        "total": 4
+      }
+    },
     "2026-W31": {
       "both": {
         "positive": 12,
-        "negative": 21,
-        "total": 41
+        "negative": 20,
+        "total": 40
       },
       "talarico": {
         "positive": 6,
@@ -1931,28 +1953,6 @@
         "positive": 2,
         "negative": 0,
         "total": 2
-      }
-    },
-    "2026-W32": {
-      "paxton": {
-        "positive": 3,
-        "negative": 2,
-        "total": 5
-      },
-      "both": {
-        "positive": 1,
-        "negative": 9,
-        "total": 10
-      },
-      "talarico": {
-        "positive": 3,
-        "negative": 1,
-        "total": 4
-      },
-      "general": {
-        "positive": 2,
-        "negative": 1,
-        "total": 3
       }
     }
   }
