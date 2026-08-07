@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-08-07T12:10:26.598Z",
-  "newsFetchedAt": "2026-08-07T11:23:44.693Z",
+  "analyzedAt": "2026-08-07T13:50:32.680Z",
+  "newsFetchedAt": "2026-08-07T12:10:45.620Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "2 U.S. Senate events in 2 days in DFW: Paxton, Talarico rallies compared - Fort Worth Star-Telegram",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcFZkU0d5X091bkhmeTMweVZLY1pHOWkxZlJIOUt4aXk2T2RpNW8yRUkxcnFkUHplSXJmeVRwemlZcmN5Rkp6VDRuQnBHMTNfQmlKZGpDTl9VMlVrdlozM2tiYjRleURUUzJRajhRa1dRTHl1MldiNlpfVFlWWXBZODdWdEw3T01JSlVTUmRDc2VweDBoc2fSAZYBQVVfeXFMT2VMZGdrSEpWSDRvWEVpamI4NEhwV3FkU0tmamdmTGp5ZF9QRkYzMnBKQ3BNZ1hRUDRGVHRrSXZDa09BcjQwOGthQVpBT1JzR2pUQWVpQmJQbFhLY1BEV0VUQVlyeTB0ZGlDMDUwbTJHM0VxQ1lMeDZYdkU1N3RRUDBia1lRRmZxTm9RYkdpenRQQ0YyR1VR?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 10:00:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": {
+        "positive": 0.07,
+        "negative": 0.93,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W32"
+    },
     {
       "title": "Who’s leading in Texas’ U.S. Senate race? We’re tracking poll results between Ken Paxton and James Talarico. - The Texas Tribune",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM00zZ19idFEwU1BRUlpWalpZN3hjYnIzWlNENmtjVHJMc1BBVjNCbVlmajczbzdKTmxmRjh0Vi1qa1c3ajJOWVRKTWtENnZvNk1BaFBlWWwyam5YRllXZngzTkdacmtYRi1uWmtIYmF1dXBRdW5pMzB6RE16TC1yVzFCMGRFLUZ0d0RaVU9DU1NmUQ?oc=5",
@@ -1884,33 +1902,14 @@
       },
       "candidate": "general",
       "weekKey": "2026-W31"
-    },
-    {
-      "title": "Inside Texas Politics | Why Texas Democrats think this year is different from 2018 - WFAA",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQNS1GdXoxVmhUN1lHN3Jva25WYUprT3ZfMGFJRDFWSFgyYmY0cEhrcTJYZzBZMUR0cDRFUnpNTVBzSTM2YXBVN1lIT3hUMU1QaXZWMFozSGNIOWZjMHhWWmJJal9WUEdUaVpyUk9ydF9leEpIRzVhem9TX0hVYTJGWG5mTC1UME0ySXBCTklSNVBQbng1a3p0SzlzS3pQTWY3R0VZZ1pTbktTS2hDeUg0X1JiZVQ4dTNXOGpJZWVlNW5saTMzbHV1VVY4UnJzZTVKSUlzNVdjb3BKWG1BTTVIWjh1c0ZMX3U5SVFhTGFTZDdLRW9QTi0tS3RzLUUtUXpJc1M2TVlaRzRHRnE5ZGw1QS1Ldw?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 03:25:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "texas politics",
-        "texas democrat",
-        "texas democrats"
-      ],
-      "sentiment": {
-        "positive": 0.934,
-        "negative": 0.066,
-        "label": "positive"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W31"
     }
   ],
   "weekly": {
     "2026-W32": {
       "both": {
         "positive": 1,
-        "negative": 6,
-        "total": 7
+        "negative": 7,
+        "total": 8
       },
       "paxton": {
         "positive": 2,
@@ -1945,9 +1944,9 @@
         "total": 17
       },
       "general": {
-        "positive": 5,
+        "positive": 4,
         "negative": 0,
-        "total": 5
+        "total": 4
       }
     }
   }
