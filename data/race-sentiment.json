@@ -1,9 +1,45 @@
 {
-  "analyzedAt": "2026-08-07T21:43:16.277Z",
-  "newsFetchedAt": "2026-08-07T20:48:32.316Z",
+  "analyzedAt": "2026-08-07T22:41:14.478Z",
+  "newsFetchedAt": "2026-08-07T21:44:51.596Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "James Talarico Tells Us His 9 Favorite Bible Verses - babylonbee.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdDRRWDJNTTlheUxzWTJXdDBpOHdlSG9rMmpfQ20xcFFiTG55UEhaQnhQQTIwYUkwZVlCSnBwZnFqa1dIUHFpN3B3Q0FxblBwRkxCWkMwakhqRC0ta3lGLVd6MXJFZDU1OHYtY1g2Z3Y5QU81OUtWZVR3N0VEVHMtZkE3YmxDQQ?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 19:51:22 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.988,
+        "negative": 0.012,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W32"
+    },
+    {
+      "title": "James Talarico Refuses Questions After Report Finds He Voted Five Times Using Parents’ Address - breitbart.com",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNU0pBS2owSUNNTEI0WXV1UFFSWmFTamFJLVJhY25qeG1GVk9MN2FlNVNjbnlzT0xIc0Y3bGhVYjh0VlFjd1NmRE5uSHlqU2lPQ2FTQUFvNTc0c1RXWHBMZ0NsRWpId01PZWJpTk5jRzE3SklfTy1nVXJ3UGk5NkdsWEVqM1MybGZ4TW5JVU9LYlFjSWx0OHdjeFRVaHg5Yy1qY0RCVHFKZEtwTUJDX25ZbEd5d1pld1ZMQmJjdlFRUXpsNWpaUjZPUkp3VVVVREFtMzAySGJGSdIB3AFBVV95cUxPQy1va2RMM3J4alNjQjhFTVlsemY3UDVPQnJBSEZKV0lWclA4TDZSYzl6SEhLVV8xZXpKRVpsZGFkRWZKLWMtYVlCSHJMX203TElhMmxCZ0RPNHV3QmJsSmFrcHhzNlYxZXhLZWl1dlhtYUgwSkJpREpaMHV1dUVJWXZYVTVMS3R3a2gxVWlFbEhlUGZrdXE4eEp0OEhKdEl1UVBRWEZJRl9RVm5VVkV1SnlpYmFMZjZpTzU5N3k0Q1IwWlZjSVJMQ1dlRWdOMF9rMEQ1QUJEcGVhWFRI?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 15:09:20 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.003,
+        "negative": 0.997,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W32"
+    },
     {
       "title": "‘This is a binary choice’: Why a Re­pub­lican who voted to impeach Ken Paxton is now sup­porting his U.S. Senate bid - Spectrum News",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN3hDckdjX2NIS3A3RnVoMWo0ZjNrUFlfTmlqdzNpei1uVkxDZ0o1dXVCc3c4dGQxcXd3WDZrNjRxamdfYm5ISmhvMjJRSzJTVkdiSkZzN2ZVMEtVc0JxTUpOOGYycDFFWW1ZY0pkUF96TEppT1VxVkNOYU9XdjdscnlIWVVkaWNCTU41QUc3TGMxVVNkMHAwSi1Gc2RaUkZVRnY3Q1VaNWVRVmFVRmNjNkcteWRjVGlCWDlEYQ?oc=5",
@@ -1872,44 +1908,15 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W31"
-    },
-    {
-      "title": "Letters to the Editor – Rate hikes, Fauci, hunger, colleges, Medicare, Paxton - Dallas News",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWHkyR2licUtzVlBoV3VROGNlWVYwODBKajNUdGlRQUE2ZF9rNU8zNzd5eEJxN21RVHlMa1dPQjlWVlRuM1hHYThjc1pGUDhQNzdUTUp4cVVUM0ozdW9uT0UtMHEyVWw1VzdPTjZqaUt6UUZVOGhUZXFfTnIwQ3cwUDBRSW1MTWJpZmNHS29UbmRjUnpEZG9OSlpLUkZUdHBVbXNlUGptTEJDNmdvQlppOGVSMlI0VUU?oc=5",
-      "pubDate": "Sun, 02 Aug 2026 10:03:32 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.501,
-        "negative": 0.499,
-        "label": "neutral"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W31"
-    },
-    {
-      "title": "Talarico building a massive advantage with independents - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeHEtbzlXNTZyRldFamxiMUNFWnpPcDNOTlJCMjdQODRROFN2TU5qaUxFM0xIU2ZobmpmdTh5WGVlSkUyMVBDeEV0bFBwd1JVT2xveDVkcUlsSUpmZ3VTX3hNSXNmV2U2ZURCTTk3dnpXb3UxbHl0TjRJTWVCbHdZX0wxMllZYWR1dlBpNDkyVnNoZ3k3WU5pOGdpdllUMkZqcXVfSHl6M2hRTkpPcUlmWXoyVVVyQmVwTWEtZnlfRQ?oc=5",
-      "pubDate": "Sat, 01 Aug 2026 11:06:34 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "talarico"
-      ],
-      "sentiment": {
-        "positive": 0.997,
-        "negative": 0.003,
-        "label": "positive"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W31"
     }
   ],
   "weekly": {
     "2026-W32": {
+      "talarico": {
+        "positive": 4,
+        "negative": 2,
+        "total": 6
+      },
       "paxton": {
         "positive": 3,
         "negative": 3,
@@ -1924,11 +1931,6 @@
         "positive": 2,
         "negative": 2,
         "total": 4
-      },
-      "talarico": {
-        "positive": 3,
-        "negative": 1,
-        "total": 4
       }
     },
     "2026-W31": {
@@ -1938,14 +1940,14 @@
         "total": 39
       },
       "talarico": {
-        "positive": 5,
+        "positive": 4,
         "negative": 12,
-        "total": 18
+        "total": 17
       },
       "paxton": {
         "positive": 6,
         "negative": 8,
-        "total": 15
+        "total": 14
       },
       "general": {
         "positive": 2,
