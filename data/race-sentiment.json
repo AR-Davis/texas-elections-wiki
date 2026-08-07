@@ -1,9 +1,47 @@
 {
-  "analyzedAt": "2026-08-07T17:51:18.437Z",
-  "newsFetchedAt": "2026-08-07T16:02:55.872Z",
+  "analyzedAt": "2026-08-07T19:03:12.687Z",
+  "newsFetchedAt": "2026-08-07T18:23:38.672Z",
   "totalAnalyzed": 100,
   "newThisRun": 2,
   "stories": [
+    {
+      "title": "Another poll shows James Talarico leading Ken Paxton in race for the U.S. Senate - KTEP 88.5 FM",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMVY2MDFNcUUtRGJmdjVKbTFJOGdUbTRwOHZCYy1kMFVqQzZUOWlmRE5BQWNUaUNGQ1NVeE1ydDB0RHZqV0tCOEZ2MHFzQTk2WTZqQlRFOW04Z0ZNWFBDa19NRGdZWkpZQ1B5cEZ1TFpzTmtPZjEwMU54YnlNUmVVaEh0X3VNcUJIS003VWNyT0dWdzVYSHp2c1lpMjR1akdyRXhKeXR6c05KaHZmVVZuSA?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 14:38:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.047,
+        "negative": 0.953,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W31"
+    },
+    {
+      "title": "‘This is a binary choice’: Why a Re­pub­lican who voted to impeach Ken Paxton is now sup­porting his U.S. Senate bid - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQnV0a2ZuUkpMR2d6b1pGSFBreFAzRUxYWGZmNy1RemhfV2kzYkRBcTlJd0N6blMyVk9oNTVQTURvVmFuajJ5OExqQVZVSlc0c3MyNmFPSDgtNGI4U3dSWTFFREJSSGJwa1FQUERkUTg3eU1qQ1Z5dm9rTG9kWFRSVEk1OFVtdHR0QVNSV2k5akN3YS02azdkYmc4dXFIR1NCRVpLZmFqdXBJeW8?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 14:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.006,
+        "negative": 0.994,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W32"
+    },
     {
       "title": "Ken Paxton touts economic plan, bashes Senate race rival James Talarico at Houston rally - KWBU",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRFljWGxnZGRTaVNXQWEzSG1UaVI3Y0pSZGN1amRxalBjbDZBcEVqVEJmVThSNXpDNnkydlRKbEhtaGtyTlEzbUFYbUJ2dEctcDFDc3JXMlAwaEwzUTIyb1lHMEJXQnJicnFLTWdTUG9SY2xrWEJhRGt6S1YxbjQ4aGhza1RieW5BRlNWVXpLcC12UlFvVEMyekVFTlBMdkJqbmgxTW1kdldiOEtFbmhSTVdYejRzVF90MEloN0xSMllGLUI5UkhuNUdsbzBucjBtY3RyTVdEbTJueTlZbUZMSEdBZmQ2b1k?oc=5",
@@ -1870,56 +1908,41 @@
       },
       "candidate": "both",
       "weekKey": "2026-W31"
-    },
-    {
-      "title": "Ken Paxton unveils economic plan centered on tax breaks in U.S. Senate race - KWTX",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOGs0R1cwb0VuVHJESGVXZG9BcDRKSG9TdmFxdXhjbi10Y2p2WnBzaDc1Rmtjc3RsXzRKdHozWFpBS1NDZnU1dU41NlpYWnVyRDhxR0otNFJXaGxwcUxqaE1XSU4yQTMyMEdyZ3VtT1lIVU40Q002Y2xFdjU2dHNSSlJiMFlvYzcxbXJEQTlZMUpzbkUwc0Rfd0I3NF9UQ3BST1E?oc=5",
-      "pubDate": "Sat, 01 Aug 2026 00:56:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.995,
-        "negative": 0.005,
-        "label": "positive"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W31"
-    },
-    {
-      "title": "Can James Talarico Lead Texas Dems Out of the Wilderness - Fox Poll Says Maybe - Hinojosa Gaining Ground Too - The Austin Independent",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQXFOSXowb0Noek9ibTFjb1BuSWVDQzYzZldnWldjRmkxUWhoRE9jUVQ4Nl81SkxrNGMtR2JudzNBSzY2M0w4aTNUMHhQcnktT29Rd1YyM3I5aVVEOTdJdDlBZjMwNll6UWtZcXNjY19OVGhwYmx2V3ZncGJwLVpHcWduNThBQk0tZDdZcW9hNUFmdjBBLVBKUVY5WVRnTkVJeExzN1EyekhYdnB6OGtOYlpNZHhLZi1MOGN6SGh4QmVxdzZhQjVZSEcyc3Q3Q211RGprdA?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 13:06:33 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.012,
-        "negative": 0.988,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W31"
     }
   ],
   "weekly": {
+    "2026-W31": {
+      "both": {
+        "positive": 12,
+        "negative": 21,
+        "total": 41
+      },
+      "talarico": {
+        "positive": 6,
+        "negative": 12,
+        "total": 19
+      },
+      "paxton": {
+        "positive": 7,
+        "negative": 8,
+        "total": 16
+      },
+      "general": {
+        "positive": 2,
+        "negative": 0,
+        "total": 2
+      }
+    },
     "2026-W32": {
+      "paxton": {
+        "positive": 3,
+        "negative": 2,
+        "total": 5
+      },
       "both": {
         "positive": 1,
         "negative": 9,
         "total": 10
-      },
-      "paxton": {
-        "positive": 3,
-        "negative": 1,
-        "total": 4
       },
       "talarico": {
         "positive": 3,
@@ -1930,28 +1953,6 @@
         "positive": 2,
         "negative": 1,
         "total": 3
-      }
-    },
-    "2026-W31": {
-      "both": {
-        "positive": 12,
-        "negative": 20,
-        "total": 40
-      },
-      "talarico": {
-        "positive": 6,
-        "negative": 13,
-        "total": 20
-      },
-      "paxton": {
-        "positive": 8,
-        "negative": 8,
-        "total": 17
-      },
-      "general": {
-        "positive": 2,
-        "negative": 0,
-        "total": 2
       }
     }
   }
