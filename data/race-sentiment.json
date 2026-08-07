@@ -1,9 +1,48 @@
 {
-  "analyzedAt": "2026-08-07T11:23:33.135Z",
-  "newsFetchedAt": "2026-08-07T10:05:06.906Z",
+  "analyzedAt": "2026-08-07T12:10:26.598Z",
+  "newsFetchedAt": "2026-08-07T11:23:44.693Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Who’s leading in Texas’ U.S. Senate race? We’re tracking poll results between Ken Paxton and James Talarico. - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM00zZ19idFEwU1BRUlpWalpZN3hjYnIzWlNENmtjVHJMc1BBVjNCbVlmajczbzdKTmxmRjh0Vi1qa1c3ajJOWVRKTWtENnZvNk1BaFBlWWwyam5YRllXZngzTkdacmtYRi1uWmtIYmF1dXBRdW5pMzB6RE16TC1yVzFCMGRFLUZ0d0RaVU9DU1NmUQ?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 10:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.02,
+        "negative": 0.98,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W32"
+    },
+    {
+      "title": "Ken Paxton’s Far-Right Billionaire Backer Has Returned - Texas Monthly",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85WV9OSUItc2JoNFZMSGN5SWNXVWRMcG85U0lHMFVqb1kzdnFPN2c1WkZvQkNOcHdEM1JNa3V3NllqUHZPQnZ5a0tuRndKcHlnamktbU1pYm0xTFlkWWgyVTJnczJ0TkdVNGVySjN0YlpaeHZmME1qdmFWVnhtZw?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 11:00:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.96,
+        "negative": 0.04,
+        "label": "positive"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W32"
+    },
     {
       "title": "Ken Paxton touts economic plan, bashes Senate race rival James Talarico at Houston rally - Texas Public Radio | TPR",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTmx0dnZhT2NWeGFxWHI1QmY4cVNfbzQwYzVrNWdYS0V2c01OWTBhVVRQbXRLTUpLVm4wX3J4RFliQnZkeUVHbUdUWkRMM0R3SXoxZjY1czVnYVdQX0ZfUzlETUdmYkpiVjExNS1iWUlGS2xuU0o4LWRjTGVtTF9IWjBWcVNRcnpNNTNLd243WE1pT1kzcDNRYlJJREE1Z2hGWUR3WHppWFZvTEtfOENIUUxPbmtUNFdzcjN6SG9qa2ZVc1FORVo3c2JzSm03VXYzZGZRbg?oc=5",
@@ -1864,50 +1903,19 @@
       },
       "candidate": "general",
       "weekKey": "2026-W31"
-    },
-    {
-      "title": "Fact check: Did James Talarico say there are \"six genders\"? - LGBTQ Nation",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40T2RuV2NoQmhSQUtIR0pKcDRIT1pTLWlnNG5FbXMxakhEdGZranljdEM4ZThwVFYtWDN5Sjh5bjJsbUNGcmNrVnhBX0hZQks5N2NFZ1JVSGp6bkNiOGpET1dzNzBKTTE0V1NMR0MxLXlWWXpFV0Z0TEhLbTJEWmM?oc=5",
-      "pubDate": "Sun, 02 Aug 2026 05:24:29 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.008,
-        "negative": 0.992,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W31"
-    },
-    {
-      "title": "Paxton trumpets affordability message with new tax proposal as Senate race hits stalemate - Washington Examiner",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdGhPZHVLbWpaaXlwZXQ2bnpGWlhnenhjTGN1RkJEWVRvTUsxNjgzSm5JOG5YNlZNT2tGcmxDZVEtUmhQcERNX29XblNWNnZnRFYyXzl3WkRtTDN0bmx5aGNtc01vMnNEblczYzNZcDRBTDZ4N3B1Zy1ONUg1RHRsTlZJU0l4WmpLVDJvRXF5NEpsc0o1MDNKaEJnRDZwamJQYW5VQ1ZmbjlPVDMtZUljN1MyM1p6a3g1dHBvcGRXcnpWUmFqbXpxTnlpNXRla2oxMlA5WkUycFEzeHJSWUxNeEFrZw?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 15:12:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 8,
-      "matchedKeywords": [
-        "paxton",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.09,
-        "negative": 0.91,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W31"
     }
   ],
   "weekly": {
     "2026-W32": {
       "both": {
         "positive": 1,
-        "negative": 5,
-        "total": 6
+        "negative": 6,
+        "total": 7
+      },
+      "paxton": {
+        "positive": 2,
+        "negative": 0,
+        "total": 2
       },
       "talarico": {
         "positive": 3,
@@ -1918,11 +1926,6 @@
         "positive": 2,
         "negative": 1,
         "total": 3
-      },
-      "paxton": {
-        "positive": 1,
-        "negative": 0,
-        "total": 1
       }
     },
     "2026-W31": {
@@ -1933,13 +1936,13 @@
       },
       "talarico": {
         "positive": 6,
-        "negative": 16,
-        "total": 23
+        "negative": 15,
+        "total": 22
       },
       "paxton": {
         "positive": 8,
-        "negative": 9,
-        "total": 18
+        "negative": 8,
+        "total": 17
       },
       "general": {
         "positive": 5,
