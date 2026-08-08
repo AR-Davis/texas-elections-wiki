@@ -1,9 +1,25 @@
 {
-  "analyzedAt": "2026-08-08T03:37:41.487Z",
-  "newsFetchedAt": "2026-08-08T02:00:16.611Z",
+  "analyzedAt": "2026-08-08T05:01:50.218Z",
+  "newsFetchedAt": "2026-08-08T03:40:42.705Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Talarico, Paxton split on foreign policy in Texas US Senate race - El Paso Times",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZFd4Nl9MbjlIVDNDbU5aOTZMOEMwTjFaeW01NUQ0NHc0ek90WnZjMGUzZVFSellINVV5cUVKa2tQeHlTSmhERHJjVG9ISWZwYnFFR21raGlpc1NDRldDWEZIcENlZTlBTnduSnc0TDNSSERZTmNYUW5GdEZ0NmZ5OFl3dERqRDdSZjFZNFNuaFVhT2w1dHBGNDBac1VaMmZNMHp2MU9uUmRXc3ZYc0xrZ29lU2tJSDAtZHEzMkEtOWctQW9SQ2MwOXNFWk1uQnJzbnY4Z1JGRlQzRDJBbHNQQi1QM2ktR09leHVVd0hENnRZQy1Bb3BEbDYtTQ?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 14:40:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W32"
+    },
     {
       "title": "Talarico spreads campaign cash across Texas Democrats in bid to build party - Dallas News",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaTJ3NVdiTkE0ckxvdVFsVUtqNDJFWDdBbTFRMktlcnZDWHN0anJYTzFZU1UybUU3RVh5VVNJOUg0THoyb2RCYTZWNTItVGtXa2YtNUNUVTBWdjdDZ2pWT1NWMFNTaW1kQUFCVERCYjVMcno5UGM4ZmJ2eWZGYkdfQVNsbmlabVpLb1pYVWNzNUo1dVV5UGdzOW1QYWJzMTFzd1VoY2ZWaw?oc=5",
@@ -1886,24 +1902,6 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W31"
-    },
-    {
-      "title": "Election triumphs, a series of scandals dot Ken Paxton's political timeline - abcnews.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVlGUDlUSDhmNnllbllSSHVTQlNIcE1iTGRpcHVsdDZfN29hTlJpdDVLSW1fM05zbXhHb2pIM0RqU1NZcXhNUG52ZzJReEVrRkhsLUEwX3JfSjViZWZwdDliZlljWVVBNHpPVWRHRzcxakUzakhrQjV4a0g3SXVzX0NGWjFoSTNlLUIwdFRwanNadmw3azJIQ1JBNXM1blBlTUM5UUZtMDB5bDjSAbABQVVfeXFMUDQyZ0RKenVWMF9sYkRyM0QxZnREc0E2SE96a2R1ZUlEYm1EaWYzdkNobkU5cFR0LVdmQkl0c2ZUYURrbm1oNmhFci1xeUlRYXZjUlBUc3hUTnlYNnJqd1JGeUxQNjF0WEhUV1N6eFhjVWFKRDJSLXR3NGd6X0kwc2hlUDhwVFpPNHAyU0FHdTJfOXNvREs1WFdGNTdJZHR4Y19OVTg0V084RVBGSDNobGE?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 17:30:39 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.059,
-        "negative": 0.941,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W31"
     }
   ],
   "weekly": {
@@ -1942,8 +1940,8 @@
       },
       "paxton": {
         "positive": 6,
-        "negative": 8,
-        "total": 14
+        "negative": 7,
+        "total": 13
       },
       "general": {
         "positive": 1,
