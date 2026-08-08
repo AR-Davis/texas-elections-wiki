@@ -1,9 +1,40 @@
 {
-  "analyzedAt": "2026-08-08T20:35:14.231Z",
-  "newsFetchedAt": "2026-08-08T16:40:08.185Z",
+  "analyzedAt": "2026-08-08T21:34:36.405Z",
+  "newsFetchedAt": "2026-08-08T20:36:40.178Z",
   "totalAnalyzed": 100,
   "newThisRun": 2,
   "stories": [
+    {
+      "title": "‘I Hate To Say It – This Might Be the Year’: Former GOP Strategist Sounds Alarm in Texas Senate Race - Mediaite",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX0NSWTEtNGZDbG1HaXpWUzItMG1yN3hDaUZDdWJwQlBsSkFUYVZmcDJXS3FKODdHMmN1UVNDMFY3YzJ3VEYxcHNleHlBWFBxcjdXcWdhOEc0N2ZBeG9PMjZSWENrOHg0SkRDSkJDLUx1NWJRNFBrSmVFRHpSREhVUWNveU9fOFRJTzBwNkkzQlFJSFRzRkVUdWJxRXVEMjJ0ZWZjTU5OY0RsSzluT05xamJoT250dFNmdEdfbVNyMEtSdFdEY1NSWk9B?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 23:33:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "general",
+      "weekKey": "2026-W32"
+    },
+    {
+      "title": "Texas state Rep. James Talarico, who is running for U.S. Senate, answers questions during a town hall on Saturday, July 11, 2026, at the Plaza Theatre in El Paso, Texas. - The Lufkin Daily News",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxONFdnWUtCeGE3VU9nSDc2RVhvdnlRQ3BhSnk4bFhvUFRnSG1tTy1Xd3hoZ0JHWXBsQkdMVHZUSEM4cEl4a2V5N21BclcwSW1nS1NhbmVPOVJ4V2x4ZUNvTWNSaklzY0xENy16aWJOWHM1YTFLT0Rlb1lTYVVuSWptZUZhN05QZVZrRUlpdjM2dHZaOGk1bGNORld3QnVFU0JSa1FUdDdZRGhPS29QOGtRbmJuWDZfRG9xTW1SZ0lYZlRIakdTeTN2aG9xTExBUW1iSVRkbS0tWW1ZclJhdXVxanNIRGM2eF9FZjcySzBud1lLeGxLZkRlNXZpYUtMNktTc00wTTVoY3RKaVky?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 16:04:10 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W32"
+    },
     {
       "title": "Ken Paxton touts economic plan, bashes Senate race rival James Talarico at Houston rally - Houston Public Media",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVFVCUWJhVEt1MXFBeE1Kek9jRmQ0VXBseHl0QlBtYV9mb21VU2dxTnJid0wzV2l3RGlWOFNiWHpudkt6UzMwY2E5c3RkYXdIa1I0XzFsQ3I4bHl0R0lraEkzWmlLc2RMbGJCdUVqWFJuOERNeWlLOVJ1ZG16QWRETmx6aDBoQWFDUDZsNWdPM2JGbWJZT3p2NTF2ekEyd01MUFJ1cUhEM2lFTUNuUkg5RmxmcVdiTUVDSzJfaVRUZjZUdGdIZmFYaUtVVEFTQUowLWNOQ2hGYXYxTEdpbmdteDF6d3RtWElOWG9nWjQxM0FDUHJrb2fSAf4BQVVfeXFMTTZhNzRxOEZPZ3Z2MjRBa0pCM0tIZlZoUzBKYndtUXdVcWltdFozRVJrQ3NzQ2ttUVBGenlzZnlGZmYxdllqbDNKMVBLbTZ5NlVqNnRWR0NDWkVOUUlxTnBpVzFwVlNudnc4ekNxYUpHOWVJNkdwdWtPZWtNRk8yb2RHWEt6SURBUE9xbGhKTzNQT3Z1TFEwTnpKX1BORTVaaXNhY3hnODdKd1NrQ3NJcVhBRmVuSmdHNTdYSGppOGh0SnJuQzY1djJPZU9QYTAyVEFZX3ZnRllHR3JXS2hOaHBrcENVTlJBeERadTBzbG40ckd1S2tmVEpxNE9xTkE?oc=5",
@@ -1851,41 +1882,6 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W31"
-    },
-    {
-      "title": "Patriots for American Principles PAC launches social media campaign in Texas to highlight Paxton corruption - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQ3BDWmNCdHpoazJsQXpPTk5Ecnd0WEszbXJ4V0RlakZIM2NfM2lvQU1yRTNxWVNoS0ZZU0VORklXRWtrVE1wRlVXZWJvTDRleHFhX2hhdnE5RmxPUEtDVENqbXVBSElqV2ptbzlNT09JdkR1SFF5cEU5OWpxNEVSRnUzSDJNeW9QVUFIVi1FV2ZxYTNCRkFHa2RwNnh6Tmc3a0VCZ0NHNTlSLW9rVlVSeHpjTGlDSDMxR2RFRThIdUJBa1FwWS1rc0xyVjdOWGgxS1JxTzJtZVpoblZJTjNaaG5NQmNnQVJnWE9pREQyMThZV2pPSGJ2WGNLd3M?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 21:22:13 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.044,
-        "negative": 0.956,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W31"
-    },
-    {
-      "title": "James Talarico responds to Texas THC ban: 'Oppose cartels, stand with President Trump' - WFAA",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYkFjdEZTVGV3VmE2bTZNVzh6bUU2OHhGUzRKcnU2QWxhblVWdWI2cDdaNjEyU2N4dkpLLUppOWdLTEYxUlJXVTZWM3pCcGctek9LVWR1RndEaGo1YjhodGNkeDRSc0tHaTlSQjRfVWdBNEppaU9JN3FmSktabndZcHBsSHc3bzdOY0dWYlNfMnRrNURjLXdFdVJkWDE4clExOEp6el9aVjFqbTN0eVEyTXdWd2JLeGFPb2hjcTZUeUUtUTNKZkxPeEZXRURxUQ?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 00:14:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.272,
-        "negative": 0.728,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W31"
     }
   ],
   "weekly": {
@@ -1919,13 +1915,13 @@
       },
       "talarico": {
         "positive": 4,
-        "negative": 8,
-        "total": 12
+        "negative": 7,
+        "total": 11
       },
       "paxton": {
         "positive": 3,
-        "negative": 6,
-        "total": 9
+        "negative": 5,
+        "total": 8
       },
       "general": {
         "positive": 1,
