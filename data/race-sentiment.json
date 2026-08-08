@@ -1,9 +1,42 @@
 {
-  "analyzedAt": "2026-08-08T10:37:55.615Z",
-  "newsFetchedAt": "2026-08-08T09:43:31.557Z",
+  "analyzedAt": "2026-08-08T11:32:48.825Z",
+  "newsFetchedAt": "2026-08-08T10:38:57.244Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "James Talarico accused Ken Paxton of voter fraud. His own voter registration is raising questions - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQR241WFNwYURVUXhSN21CU3lTUTlFbzZXMnJiTllRcGlQUWNkaVhtbUpXV2dDczJ2WEJZUHNTVEp6a3JuMDlqNGhuTFhWZXB3QUJZT2U3YWdyUkViLUNpSEJSX1VMNUFKSDl2bnNib0FCQlYwbnE2T1FKMkx6dmZNbElKOGg2anhZc242TUVTVGFJVVlWUjExZVNlOE1aTXBBUkZXZXhIXzU1Q3NfVUZUZFBGdUh0UFRMamh6TERzUS1pVFFOZ3lweDZUWXZXUmVJYWR4cFRJalJ3alE0dEhERzR1SWhTRGvSAe8BQVVfeXFMTzNvSkx3cEIyeVNnLVRUV1dhd0N3N1JvZU8zaWJRNXNHM3QxeVhMTjFLRTRxNWdpSF90WFE2dEtMYmxJQzNOYThJY3dTUlItcU1ETHNzdkVDdGhISXBXMVlOUWJlR1BWRFcxYjhMZjNVczh2Z1MzTXBXYTFNZTVoM0Vsck9scDJRb0t0Zkx0NzlvSjlwRFFjeFV1S1VucllrTkZOLWhFdnJ5cmc4dFFlN1VxT3NSVVpyeUU5MHpJWlFIdXc4WjB5OVZpYXRkSnZBZVZnOGxVelJRd1B6WUNDelJISXJjM1NHOXJNd0VHdjQ?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 13:38:41 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W31"
+    },
+    {
+      "title": "Texas Senate race heats up with dueling rallies, new polls. Here's the latest - Fort Worth Star-Telegram",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZHpIWWllVTBsbWhHLS1oYk8xd2I0MlZVRDBrUm9xeEdFLXA0MGhYVnR5RGxwS0JPZVdaUU1WemMxTUhtSURRemhvSFJUb0lWb2pDSkkyVFlkaXhYTVZkbXB5MkpvejJFRUkxbnQ2YjFCNmhNUXhfTnBDU21qeWVYQkI4aEkxc0xxVjR1MS1NdkQ1aHhEYkHSAZYBQVVfeXFMTjlyTnZoSXZEQzIxcXA4dE40M19nWlkwek5CUGg3QTB2M08zNElEZGlMbk1Cb3NUbFFzSWxIeW9ta2s1WFdDdVduSTZLeGZVd0lRdzIwQWNuV0ZidlNJMFN4cjN5NDdKRGZ6OFBpbW5qZi12aGJGcFl1TzJKUmN0N0Utd0U5M1VnQkctZGIwUktGekJlQkln?oc=5",
+      "pubDate": "Sat, 08 Aug 2026 10:04:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "general",
+      "weekKey": "2026-W32"
+    },
     {
       "title": "Exclusive | AI James Talarico stars as sex-change doc operating on girl in conservative PAC $10M ad blitz - New York Post",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNHdENlh3UW5WelQ3WmRtQ2NDb3pvcU1DeFdsWFB5N2VJVk1Ya1dfTERtRWFMdmx3Yl9qT3VZVm5oOVlBa0g3V21qLXN1SVRKQlFCU3ZjN3VtYUR2cElIMmhROTdoWmhqYzJBM1VQb0U0cFI4eF9uMmdWRWlhRXZIZEx4Nzlfa2diNDJUY2tyNE11dFNkeEhTdHM3VFNNT1JDQjVwclJPUEtxcGZFZjM2VHMwdzN2SWVXNHRnVWhuektuQmRxMnJKTUZZdjVUUUFBTlB2ZXFOYUd6ay1lYUlGX1ZHSQ?oc=5",
@@ -1858,42 +1891,6 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W31"
-    },
-    {
-      "title": "Ken Paxton will kick off his first U.S. Senate campaign tour in DFW - Fort Worth Star-Telegram",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcjEtemVWcTNjWGpTQVNZRHN1M3drZGpJOEJtUG1xQmhpckRuUUZCdTZacHg4RXBXblV3Q3F4b1YzZ19LcG1yOWItTkJkUnZYaEp5MHptaURzWVVTY05vYmpFX0RmMldxUEh4Y0psempXWnJCNjdGT2lsVDE4Y3BOT25R0gGCAUFVX3lxTE01ZDBWUGl4Z3RpTmNWNlQ5aGtVbV8zZjVfcXhyU215U1p2Y1VUT3VVd3lpMXFYZ09UWlE3bmdILThha3J1M3pnRDJldDJDanJkMGstWUZ5RE9SOUMtZXJQSG8tbEl3cW1lcmlTQjh3YWc5Vjl0WVVielFlb0wyZDlMaXc?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 18:20:55 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.996,
-        "negative": 0.004,
-        "label": "positive"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W31"
-    },
-    {
-      "title": "Opinion: The theology of Ken Paxton - Concord Monitor",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd3lOclpxZE1OUklteDQtTGR6VW1YRzgwYXRqUGNady05R29qOVRwdlo1VjBTYThoU2dTNk5VaTAxdUJTVVFVTUFfU3BKcEREMFVfT2ZWVXNLMzY0YzhhMW5QV0NROWJiTHRDWXVGdUF1UHJ2eVJGMURMcktKY0dfOGtPNWFXMnJaLWstU051TERuQQ?oc=5",
-      "pubDate": "Sat, 01 Aug 2026 10:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.895,
-        "negative": 0.105,
-        "label": "positive"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W31"
     }
   ],
   "weekly": {
@@ -1931,9 +1928,9 @@
         "total": 14
       },
       "paxton": {
-        "positive": 5,
+        "positive": 3,
         "negative": 7,
-        "total": 12
+        "total": 10
       },
       "general": {
         "positive": 1,
