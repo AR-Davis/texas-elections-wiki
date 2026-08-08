@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-08-08T05:01:50.218Z",
-  "newsFetchedAt": "2026-08-08T03:40:42.705Z",
+  "analyzedAt": "2026-08-08T05:48:58.101Z",
+  "newsFetchedAt": "2026-08-08T05:03:21.329Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Ken Paxton's problem with Republicans could prove costly - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcTVtVUZIYTZCYmNNWFc3WVVlQXpDOGhmaWZubnNZQjFDV3ZnRjZGaUpHZVp5SV9rX3Z2U2xzOXZ5Z3huVXJ6VWJVS0ktR29LaWlYa01MWmlfdFZyQVB3MDRuU1hsMGxjUnFNNllDdHhMRGpIdXYwR3hNdjJsVGxDTUtUOTltRFJhMDlybng5N1YzZnExYzd3b0tTTy1BY3c1dWtxeldSRU1UdEFGaHZJRWVzRFZaSk1wNjZB?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 11:10:36 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W32"
+    },
     {
       "title": "Talarico, Paxton split on foreign policy in Texas US Senate race - El Paso Times",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZFd4Nl9MbjlIVDNDbU5aOTZMOEMwTjFaeW01NUQ0NHc0ek90WnZjMGUzZVFSellINVV5cUVKa2tQeHlTSmhERHJjVG9ISWZwYnFFR21raGlpc1NDRldDWEZIcENlZTlBTnduSnc0TDNSSERZTmNYUW5GdEZ0NmZ5OFl3dERqRDdSZjFZNFNuaFVhT2w1dHBGNDBac1VaMmZNMHp2MU9uUmRXc3ZYc0xrZ29lU2tJSDAtZHEzMkEtOWctQW9SQ2MwOXNFWk1uQnJzbnY4Z1JGRlQzRDJBbHNQQi1QM2ktR09leHVVd0hENnRZQy1Bb3BEbDYtTQ?oc=5",
@@ -1883,25 +1898,6 @@
       },
       "candidate": "both",
       "weekKey": "2026-W31"
-    },
-    {
-      "title": "Trump-backed Paxton will beat incumbent Cornyn in Texas GOP Senate runoff, AP projects - abcnews.com",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbmNCQVBFclB5WnZlaks4UnZiUWVkenNZdTdkYlZKOEZRZFhYcGMxNDEyemhBYUt1bV9QaEFHdzBWcW1XMDZENFdZRkVSamZuWXFDa1dQX3VnTXF6ci1MdHptZVlkb2VRd05QamF3akJDVFJGdktUeWhXOGZ2OEVRNGY5QWtJVU45dHd5QUVodDdIb2Q00gGaAUFVX3lxTFA5Q0ZVS01wSmplbWVESnVkdTJWdDRBZHlDU0ZmRWlXS2dSa2VrZFdkay1PZ21sU2FGT0xwMmszQ0xBWkhXbU1NQ2RfVWNxU1lFb09hcE9PVVY1M0tIcE9ZZ2hoZmwtUEhHaVFhSG5Na09lMW5ubUVOZ0FSYXhFYzZYUUtIczdka05UalVjOGxxaEZyRU1nb1VtM1E?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 15:50:37 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "paxton",
-        "cornyn",
-        "texas gop"
-      ],
-      "sentiment": {
-        "positive": 0.958,
-        "negative": 0.042,
-        "label": "positive"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W31"
     }
   ],
   "weekly": {
@@ -1939,9 +1935,9 @@
         "total": 14
       },
       "paxton": {
-        "positive": 6,
+        "positive": 5,
         "negative": 7,
-        "total": 13
+        "total": 12
       },
       "general": {
         "positive": 1,
