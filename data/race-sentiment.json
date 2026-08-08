@@ -1,9 +1,42 @@
 {
-  "analyzedAt": "2026-08-08T22:33:49.392Z",
-  "newsFetchedAt": "2026-08-08T21:35:49.620Z",
+  "analyzedAt": "2026-08-08T23:00:34.665Z",
+  "newsFetchedAt": "2026-08-08T22:35:02.133Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "James Talarico Accused Ken Paxton of Voter Fraud. His Own Voter Registration Is Raising Questions. - MyRGV.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeVdVblNWaXprM2x1TFM3N29PVjZVWjg2RWJ2OGhzZkpNbUd0bjkwVUVBZGNYb3RHMXJFT201MTBtWl93MThTbE1vMFo3eWQ3WDEwOUxiVGJlaFF5SE5raXVscUhPWnpKSE0wdVN2d2lzZ1YyNVlfS2VRNERrbGlpVXRDYWMtNkluNE5ERks2WXhER3BVVmlEQnc2Vkc2Y180UFdGZmQtekE3UXlTclRsQ2JUZjdzQzdVQUFYVnNYWGg5RXlJTFZ5eURwZklBOWZI?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 00:12:09 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W32"
+    },
+    {
+      "title": "SHOCKING: Why The Texas Senate Race Just Became Democrats' Biggest Opportunity Mothers Day Card (NCVfMFk1O9) - Mshale",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3WnZ3V0E5a3l2MDBDRFEzZTlQMmI4dGlCbEJPOXdwblZOUkpZSWdjNGZDS3ZnTEpXX1dXMjExck1kT1Q4a3EyRkRCb09lQVR5NnBPWUx0SzV3SDg?oc=5",
+      "pubDate": "Sat, 08 Aug 2026 08:53:45 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "general",
+      "weekKey": "2026-W32"
+    },
     {
       "title": "James Talarico Accused Ken Paxton of Voter Fraud. His Own Voter Registration Is Raising Questions. - MyRGV.com",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZnM4QnBNMEFhN2RkQ25jVkNQRWIwR0JsSU9UTk5VZDlsSEpnTWxlczR1cDhaMllVS1RVMk9FSlJjS1pIZ0YtZWNzWlphM3B0Q2d6NmI3WDB1dHdSVElHVl9NMWRPTmtETTlZRVdVWTF2TFktc0otOXM2c2J6aUhWZHhGbjBrZ05EbjNnOFFtYW13UXJPSnBIeXpoVkU3UTl3MTFSbGdGbGdCMVIyWDdsekRnWXU0OEFmZ2tONXVRUTFsSk52U2lrUFhNd2JxRlMzaE84?oc=5",
@@ -1845,42 +1878,6 @@
       },
       "candidate": "both",
       "weekKey": "2026-W31"
-    },
-    {
-      "title": "James Talarico Nods as Voter Calls Karmelo Anthony Conviction a ‘Tragedy’ - breitbart.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZEFPR2ZySVBuaEJpb2pvNmtmYmp4Z0VXRTExd3ZTSW16ZW5XRmtwdGdZS3RrNG5UcUhDWGpkbW92NmppWTNrN1RRWkFQblBKTENMZWJDT09fUEdNc3A4aUJCSWY4VnRHUkZNS2pkUzNKcVg1MVpEZEVPeGRRSXpaYVNOQWMtUnVkOFBYLXdEb0NrRi10VTFsd1dPZnVXNlp0emJ4VzgxYzJzSXpWem10RnFUMWxZbWViNGfSAb8BQVVfeXFMTUNQN1FtaTlNc0wxQW9BMVBqZndFdGhDZ1BBTVE0TzV4eEVoV3JLRW51MWF1V2xOMm1XTG9LbTlWNFYtZWJjOE5NdnRJcUMxUkJEZDJCcTdONjZZZV9nX1F0UWxVbVRaTVc1UXBXNFFqczZLQ2V3MWJEMnctR0FIbTF0bUVyNzNhWWpsRVpZT3lyRjJHV0s1bzJOMThaZTdma0dwMndFeHBUYkFhTFpkQl90eFlLQV9FdENKcS1LXzQ?oc=5",
-      "pubDate": "Sun, 02 Aug 2026 00:05:09 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.875,
-        "negative": 0.125,
-        "label": "positive"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W31"
-    },
-    {
-      "title": "Ken Paxton will kick off his first U.S. Senate campaign tour in DFW - Fort Worth Star-Telegram",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNWQwVlBpeGd0aU5jVjZUOWhrVW1fM2Y1X3F4clNteVNadmNVVE91VXd5aTFxWGdPVFpRN25nSC04YWtydTN6Z0QyZXQyQ2pyZDBrLVlGeURPUjlDLWVyUEhvLWxJd3FtZXJpU0I4d2FnOVY5dFlVYnpRZW9MMmQ5TGl30gGCAUFVX3lxTE01ZDBWUGl4Z3RpTmNWNlQ5aGtVbV8zZjVfcXhyU215U1p2Y1VUT3VVd3lpMXFYZ09UWlE3bmdILThha3J1M3pnRDJldDJDanJkMGstWUZ5RE9SOUMtZXJQSG8tbEl3cW1lcmlTQjh3YWc5Vjl0WVVielFlb0wyZDlMaXc?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 18:20:55 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.996,
-        "negative": 0.004,
-        "label": "positive"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W31"
     }
   ],
   "weekly": {
@@ -1913,14 +1910,14 @@
         "total": 38
       },
       "talarico": {
-        "positive": 4,
+        "positive": 3,
         "negative": 6,
-        "total": 10
+        "total": 9
       },
       "paxton": {
-        "positive": 3,
+        "positive": 2,
         "negative": 5,
-        "total": 8
+        "total": 7
       },
       "general": {
         "positive": 1,
