@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-08T21:35:49.620Z",
+  "fetchedAt": "2026-08-08T22:35:02.133Z",
   "count": 23,
   "feedsChecked": 8,
-  "itemsScanned": 81,
+  "itemsScanned": 82,
   "items": [
     {
       "title": "James Talarico Leads Ken Paxton in Texas Senate Race Polls - sekbernews.id",
@@ -79,7 +79,7 @@
     },
     {
       "title": "James Talarico Accused Ken Paxton of Voter Fraud. His Own Voter Registration Is Raising Questions. - MyRGV.com",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZnM4QnBNMEFhN2RkQ25jVkNQRWIwR0JsSU9UTk5VZDlsSEpnTWxlczR1cDhaMllVS1RVMk9FSlJjS1pIZ0YtZWNzWlphM3B0Q2d6NmI3WDB1dHdSVElHVl9NMWRPTmtETTlZRVdVWTF2TFktc0otOXM2c2J6aUhWZHhGbjBrZ05EbjNnOFFtYW13UXJPSnBIeXpoVkU3UTl3MTFSbGdGbGdCMVIyWDdsekRnWXU0OEFmZ2tONXVRUTFsSk52U2lrUFhNd2JxRlMzaE84?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeVdVblNWaXprM2x1TFM3N29PVjZVWjg2RWJ2OGhzZkpNbUd0bjkwVUVBZGNYb3RHMXJFT201MTBtWl93MThTbE1vMFo3eWQ3WDEwOUxiVGJlaFF5SE5raXVscUhPWnpKSE0wdVN2d2lzZ1YyNVlfS2VRNERrbGlpVXRDYWMtNkluNE5ERks2WXhER3BVVmlEQnc2Vkc2Y180UFdGZmQtekE3UXlTclRsQ2JUZjdzQzdVQUFYVnNYWGg5RXlJTFZ5eURwZklBOWZI?oc=5",
       "pubDate": "Thu, 06 Aug 2026 00:12:09 GMT",
       "feedSource": "google-news-race",
       "raceScore": 22,
@@ -96,6 +96,18 @@
       "pubDate": "Sat, 08 Aug 2026 10:04:00 GMT",
       "feedSource": "google-news-race",
       "raceScore": 17,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ]
+    },
+    {
+      "title": "SHOCKING: Why The Texas Senate Race Just Became Democrats' Biggest Opportunity Mothers Day Card (NCVfMFk1O9) - Mshale",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3WnZ3V0E5a3l2MDBDRFEzZTlQMmI4dGlCbEJPOXdwblZOUkpZSWdjNGZDS3ZnTEpXX1dXMjExck1kT1Q4a3EyRkRCb09lQVR5NnBPWUx0SzV3SDg?oc=5",
+      "pubDate": "Sat, 08 Aug 2026 08:53:45 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
       "matchedKeywords": [
         "texas senate",
         "senate race",
@@ -273,17 +285,6 @@
       "matchedKeywords": [
         "talarico",
         "james talarico"
-      ]
-    },
-    {
-      "title": "Senate Candidate Ken Paxton Campaigns in Houston - C-SPAN",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2JnT0tuQXEwY1BEZTlvN1ZQOFExS3pUMHZXQ3JJRFhwczBrbEt0MHB1bV92WWYzakE1MTBGUW9xeURjSHlHSHZlR0MyOUloOEoyQjhpODFtOEtrWm5nbEd0aS1PNlNNdFBQMGItRmVEa2VqVkNWTnk4Nm84VnhLX29iRFQ2VnJKWndRZWhXR1g0d2NVNjQ5dnhXdmE2SEJvX3c?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 00:28:11 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
       ]
     }
   ]
