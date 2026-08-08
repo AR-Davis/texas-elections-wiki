@@ -1,9 +1,26 @@
 {
-  "analyzedAt": "2026-08-08T13:49:15.094Z",
-  "newsFetchedAt": "2026-08-08T10:38:57.244Z",
+  "analyzedAt": "2026-08-08T14:35:37.626Z",
+  "newsFetchedAt": "2026-08-08T13:52:16.217Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "James Talarico accused Ken Paxton of voter fraud. His own voter registration is raising questions. - KWTX",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRm5UM3llTlZUTzBUWDA0a2VsT1FnUHFHYk1KdGkwRjFNWHUtcUdJS3Y4Y3RCXzB2QjNVNTFXREYzZTFsV3J0bm1wSFAzLTRZSmFKRHhCVHlBblBuY0ZFdU1TWUZFSmZrRXBLcjM2eUFjYUl0Vk55dHZObGVmY2dKMFpLYnU4Zzd2d3U5ZnhEc1lZVTNTR29yNHV3WGZXeGw5ZDRtczNiclM4aFU2Q2ZPWDkydmxXTm5aQ3UzZUNGSWhSenNT0gHYAUFVX3lxTE9JTno3eUprQ3dvMHBPTlVsdXYtS212V3BSbng1SHZKdDVsYUxySlpmWXhKaUhuajk0SFhLckhPdjJnRXQwQXZmNFdKVTB4NnNHUmJLR3ZCQmRZbFFoMjhqQXJJSlQ5eGJMR0JSWmp3SDVvakwyeEZBRk5adm1DWkltNldvNXVPMlBpTERTZFBHQU1LRXBBdkdMV1VhUmplNjg1cHdnOHJsX21jRjB1SG02NlQ4RzlWdk9CTTVYZTNTZThMajNfaGhwRmNWcDNzQ1NkTllEMHF5cw?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 20:43:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W31"
+    },
     {
       "title": "James Talarico accused Ken Paxton of voter fraud. His own voter registration is raising questions - Houston Public Media",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQR241WFNwYURVUXhSN21CU3lTUTlFbzZXMnJiTllRcGlQUWNkaVhtbUpXV2dDczJ2WEJZUHNTVEp6a3JuMDlqNGhuTFhWZXB3QUJZT2U3YWdyUkViLUNpSEJSX1VMNUFKSDl2bnNib0FCQlYwbnE2T1FKMkx6dmZNbElKOGg2anhZc242TUVTVGFJVVlWUjExZVNlOE1aTXBBUkZXZXhIXzU1Q3NfVUZUZFBGdUh0UFRMamh6TERzUS1pVFFOZ3lweDZUWXZXUmVJYWR4cFRJalJ3alE0dEhERzR1SWhTRGvSAe8BQVVfeXFMTzNvSkx3cEIyeVNnLVRUV1dhd0N3N1JvZU8zaWJRNXNHM3QxeVhMTjFLRTRxNWdpSF90WFE2dEtMYmxJQzNOYThJY3dTUlItcU1ETHNzdkVDdGhISXBXMVlOUWJlR1BWRFcxYjhMZjNVczh2Z1MzTXBXYTFNZTVoM0Vsck9scDJRb0t0Zkx0NzlvSjlwRFFjeFV1S1VucllrTkZOLWhFdnJ5cmc4dFFlN1VxT3NSVVpyeUU5MHpJWlFIdXc4WjB5OVZpYXRkSnZBZVZnOGxVelJRd1B6WUNDelJISXJjM1NHOXJNd0VHdjQ?oc=5",
@@ -1872,25 +1889,6 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W31"
-    },
-    {
-      "title": "James Talarico Uses Trump’s Own Words Against Texas Republicans’ THC Ban - Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb29yUzFBU2dIdmx0Ym12WVlmVnd2YVdMeXNwaTRzOVR6ZWowamNJNWJheUU5Q1pYQXhHNTcxUTREY3pNVk0wNm14bjRCNTE3eWpLTkpxeVlnZTl2N1lNSTk0bjJuX2ZDZ1lkc0lUOWxCUlljaXpvZTFtOUc3NFUwc3NyRXNmcmRfY1RzeER0dDJRTkdDelhiekthUXpVeTZIR1l4RjJHVQ?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 22:43:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas republican"
-      ],
-      "sentiment": {
-        "positive": 0.547,
-        "negative": 0.453,
-        "label": "neutral"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W31"
     }
   ],
   "weekly": {
@@ -1925,7 +1923,7 @@
       "talarico": {
         "positive": 4,
         "negative": 9,
-        "total": 14
+        "total": 13
       },
       "paxton": {
         "positive": 3,
