@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-08-09T20:37:46.719Z",
-  "newsFetchedAt": "2026-08-09T19:37:58.883Z",
+  "analyzedAt": "2026-08-09T21:36:58.110Z",
+  "newsFetchedAt": "2026-08-09T20:39:15.045Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "'We need help': Senate candidate Ken Paxton appeals for support on Fox News appearance - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT1ZRaWpkNlpuMEsyRzlQQ1BmbVlURG5JSnM5SzBxYXFRRE9yUkpJZUVsZ1FDeW93WXlxbnRUaVlNdDRtdEF4X0VuWnczNnh6Y0lrN0hnc19aZWJzeHN4NHB6eUJ0aU5Uc2VfN3BTZTctU0h1NG44dUN4NVF5MWpmTDdkQ0lZSjhpV0VIb3RWdWRvdU9tRGdSLXQ2V0ltN1dr?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 19:52:58 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W32"
+    },
     {
       "title": "Texas Rep. Jeff Leach once tried to impeach Ken Paxton. Now he's supporting his U.S. Senate run - KWBU",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdnAwRG1aM0l3VkFnWTM2Mm9oU3c2RENTWmlHUG1yM2E0cWhVclRrZUZvYWFhTVViT3lZVkNURE0xNTBENnAyVm52Wjl2c253bjR4VkN5RU1EdmhDUFdMOU1VTDhqdmM3TEJQRnJrV1hSc25HcGwwNHNzb1Zpbl9QVlVqMXpwUWM4cXk0WFhxTl85WkY2ZWhVMUs2cTl4UklMNnhqcV9NSnUyTm9xVVdfZlZoOFJLTzZBZGhBdmU5elhqaEpyeGktZTVrUnZLeVlkbFFhZ2M3TVRDbHpkSVNj?oc=5",
@@ -1818,29 +1833,6 @@
       },
       "candidate": "both",
       "weekKey": "2026-W31"
-    },
-    {
-      "title": "James Talarico has the edge over Ken Paxton in Texas Senate race: Poll - washingtonexaminer.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeElHUzdnLWtCcHpQZWMyUjlWYVlBVXRsaEJaRDYyXzloclh3SFN6Ul9fa2tyZnliNk96b2VjWHh3VlBZTHZuQlhPRlcxbzg4Q0w0aVJiUHgxOTJCRndMTDVkbUo1aDViZ1h4RlBtTEJsZHhvMDFvSlZpTlI3RnNFcF9GZUFsOWpDZVgzc0ZzQUNqTFBwRVFUTl8tY0xaU18wSFp4SndvSE0yeF9IbThfQ0tSSnFTaHRTdEdyT0F3?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 12:14:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 38,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.971,
-        "negative": 0.029,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W31"
     }
   ],
   "weekly": {
@@ -1868,9 +1860,9 @@
     },
     "2026-W31": {
       "both": {
-        "positive": 10,
+        "positive": 9,
         "negative": 13,
-        "total": 28
+        "total": 27
       },
       "talarico": {
         "positive": 2,
