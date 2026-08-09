@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-08-09T16:40:38.349Z",
-  "newsFetchedAt": "2026-08-09T15:59:23.709Z",
+  "analyzedAt": "2026-08-09T17:34:58.010Z",
+  "newsFetchedAt": "2026-08-09T16:48:20.823Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "James Talarico calls for AI dividends, help for first-time homebuyers - Austin American-Statesman",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOU9PcHhWZnhiVEtHSTRPSGRnMVI0LUdaRUxKMGJBdDVGUmxzVVFLX21RRW1qdk10OXFLYmNlT2FYbXhGbmRGXzZWUzF6YXotNjJPVzlWT1NJRHNZemFRX3NaUW1PYmFzTjV1WFFxc296YVJUN2dGQjZqVHJiak5CRnRDTmNmSlpnNGtXNUtLV2Z3azctcUtQZXZRalVtdEdZUVFJTU1HTEs?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 18:55:34 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W32"
+    },
     {
       "title": "Talarico vs. Paxton: The 2026 Texas Senate Race Heats Up - covers.com",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONFd2a2VQYUFGZHMtTUNBTVhkQ1hSSW02TU8wbUdqZlgtSlNSdGdZRWhDZGhNYTN0ckd6cVI2MkJNY3pHcGQ5ci1SUXRlUDFEX3NiU3Jrbjk2MllFTnZSclJieEFmMUZudjZsM2MzdGIxc3J1Z1Y0WmhrTC0wODk2MGxxRFp3OVQtTXlqZg?oc=5",
@@ -1832,24 +1847,6 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W31"
-    },
-    {
-      "title": "Texas Southern Poll: Talarico Holding Tight Lead Over Paxton - Newsmax",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRHhFWUtQeW8xYnRLS2Y4a09SOFJuSFJOT185NmhXajJZZ1VCaktfSDVyUjVsX1hXZXNWMXNiU19jYndkWWR1WnBtcDBQeDZrX3N6YnFTSWR3eXJzQTdtVzFqeGNVcU00NXBqU3UxeVpDUXloU3FfbVVlbndHZS13R3BxTlE1b2ZFdWh2Ql9YcHk?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 13:58:47 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.987,
-        "negative": 0.013,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W31"
     }
   ],
   "weekly": {
@@ -1877,9 +1874,9 @@
     },
     "2026-W31": {
       "both": {
-        "positive": 11,
+        "positive": 10,
         "negative": 13,
-        "total": 30
+        "total": 29
       },
       "talarico": {
         "positive": 3,
