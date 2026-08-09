@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-08-09T03:49:18.322Z",
-  "newsFetchedAt": "2026-08-09T02:07:51.420Z",
+  "analyzedAt": "2026-08-09T05:10:12.913Z",
+  "newsFetchedAt": "2026-08-09T04:00:09.504Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "James Talarico Advocates Political Competition for Texas Policy Progress - asatunews.co.id",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qZV8tc1pZeTBvR2pYU3ViOXA1TnJseUZnemhDY1Bfd3E5TzNyMW9BdmNTQ1h3bklYSnBTbXJ6b1JxYThNYWdTcGJ0Q1JQeEhrWFF6NE94eGV0ejFNYUs4NHpTSFVrLTQtSUQwNzAtM1NKU0s0d1FicXU3aDdLUQ?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 01:41:47 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W32"
+    },
     {
       "title": "James Talarico accused Ken Paxton of voter fraud. His own voter registration is raising questions. - HPPR",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQekhzSDVfbzByWGxXNDNySVlWUzM0VXc5T2pjd1VVclNYRFBjRUplaXhRTWYyMmdtM3BhSWk3LTJaTDc3ZVFQeF9TUGR4RmlsZFJ1MnZrS1JZNTF6NXJ0ZTZyU0Z5YUZ0UWVlVmljRVd1Y0REWmRwZWpRa3pULWVjTFROYk41VWlKNURSR0F1VWhReXpsN3RNWTFqTE9DVnlnYWd0NUNZU3lZcFlEV2FoX19CdnZSQ3ZaMWNpQ1FHRFQtUXVocXlHcnZwY3RJMjBwOEZyRA?oc=5",
@@ -1857,26 +1872,6 @@
       },
       "candidate": "both",
       "weekKey": "2026-W31"
-    },
-    {
-      "title": "Third Texas Senate poll in a week shows Talarico ahead of Ken Paxton - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYXFpNHB6dU1NTEl4eGF1Z2hxN1JLVGRfZUpIUzJYMTRUX1praGppT1V5dWJfYnBlUWhVSGJ5a0tGVEV2QjltdFIzdW1aUTFrc2dENVdNNnBveWJBTFlpTEF2ODd5Wlhhd1J5aDl1el83cTVjc0xqeGJvLVRPaHFOQUdDb2J1VEdDZlpvNjFmTTRxdVFEVE1iZzRXaHhaUmZlcHhCRy1Uc21jNWl5Q0phQk11NlloX0RfQkpnSUhfWlkxQURKZmhVajVEWmVDNllIWkt0ZUpxYm1vQ3gzMDRR?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 09:03:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "ken paxton",
-        "texas senate"
-      ],
-      "sentiment": {
-        "positive": 0.99,
-        "negative": 0.01,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W31"
     }
   ],
   "weekly": {
@@ -1904,9 +1899,9 @@
     },
     "2026-W31": {
       "both": {
-        "positive": 12,
+        "positive": 11,
         "negative": 17,
-        "total": 37
+        "total": 36
       },
       "talarico": {
         "positive": 3,
