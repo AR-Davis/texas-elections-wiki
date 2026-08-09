@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-09T20:39:15.045Z",
-  "count": 22,
+  "fetchedAt": "2026-08-09T21:38:20.584Z",
+  "count": 23,
   "feedsChecked": 8,
-  "itemsScanned": 78,
+  "itemsScanned": 79,
   "items": [
     {
       "title": "James Talarico Leads Ken Paxton in Texas Senate Race Polls - sekbernews.id",
@@ -79,6 +79,18 @@
       "pubDate": "Sat, 08 Aug 2026 10:04:00 GMT",
       "feedSource": "google-news-race",
       "raceScore": 17,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ]
+    },
+    {
+      "title": "GOP Leaders Dismiss Democratic Outreach in Texas Senate Race - sekbernews.id",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVmg4aFpSM3ktWmY1dWVqaVNFeWtGSjkyMVFxY2lEdm84ckZHbFpXMjZUUnduUHJyanFTcUwyRHhWbDQ3OXlJaU54OWV2c1oyb2EtY0QzWkZmTFhqdWlCOHZobEFiRkNiVWV5bmJ5dUxjUUIwYWlWdjBrUjh3VzdDZA?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 20:47:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
       "matchedKeywords": [
         "texas senate",
         "senate race",
