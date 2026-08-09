@@ -1,9 +1,42 @@
 {
-  "analyzedAt": "2026-08-09T15:36:00.301Z",
-  "newsFetchedAt": "2026-08-09T14:07:55.372Z",
+  "analyzedAt": "2026-08-09T16:40:38.349Z",
+  "newsFetchedAt": "2026-08-09T15:59:23.709Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Talarico vs. Paxton: The 2026 Texas Senate Race Heats Up - covers.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONFd2a2VQYUFGZHMtTUNBTVhkQ1hSSW02TU8wbUdqZlgtSlNSdGdZRWhDZGhNYTN0ckd6cVI2MkJNY3pHcGQ5ci1SUXRlUDFEX3NiU3Jrbjk2MllFTnZSclJieEFmMUZudjZsM2MzdGIxc3J1Z1Y0WmhrTC0wODk2MGxxRFp3OVQtTXlqZg?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 15:16:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W32"
+    },
+    {
+      "title": "James Talarico Shared a Stage With an 11-Year-Old 'Drag Queen' at a 2021 Event - townhall.com",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUM5eWhROG13MlJUZnEyWTZ2RnBmS21UcE1hTXE2eHBkSVZ3Z0V6MXBhaklFREN2U09LSWN5UmVPYWtZSlBXY3JzZmFVeFdnMy1FQ1VGWk5jTVFsUDRUQWtLQkstMmRXaERjX3VoekRpWnN5SEhzYmc2bjFLWExJbkhNLWVhUDNReXNuT3lySDZlQ3VXMjdVZ0xSS3pDdEY5Umw0dDNqTVE0SWZZRktid2JCWFVkVzhfcm5ILU1lMmFDUHFzY0F4VkZoWi16LVFEQm80?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 22:00:38 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W32"
+    },
     {
       "title": "Texas Senate Candidate James Talarico Faces Backlash Over Resurfaced Clip On Church Housing Immigrants Facing Deportation - foreignpolicyjournal.com",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNR0U4UlJDQU1CMkZCMmNJbGZxZU9PQVZiZV91MkZDRFhXNGNDRUZ4ZlpROUlFRlZvRVVGVGxKR3pweWpRYjZEUlltRkZPREtYSXI4WU9sMmhTOUVKQkZHbkV4TGp6SjdJRm9ac2UyZ0piZGc4VjdPNExlN253UFFTSG1FTTdTYWFuWTRrRTd0bTZibnBOb0ZuSFRKRE05U3Bjc3ZqR2FvTUlNVERyVlFoSjZVV2hEa2Jkb193bnNNM2JmX0FTLW5PODl0QXZ1WTk5YXdISHcwS1Z3SXZjWGRjc3VLUVFpRV9xb1lldXVITVRJbzJERjhzUlJvX3g1SVU?oc=5",
@@ -1817,45 +1850,6 @@
       },
       "candidate": "both",
       "weekKey": "2026-W31"
-    },
-    {
-      "title": "James Talarico Tries to Argue the Bible Calls for a Government-Run Healthcare System - legalinsurrection.com",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQUw4LWtJU19QSG1sak9UZVAyN1VyNTB6QzJrM3p2a3FnY3dqV0RFUy1lWlJFVzk4b0Y2V1Ytel9UZVJiaUFXRGVjZ0dFT0ZlZS15WVdEbF9EM0lKQ3hXdS1RWDUxaFBfVldjRXUxQnREeFJkNmhld0RnNVFWUDZadTY4M21yd2JFTHY3WVVBYlYxSU5iR1ZCdzBoWEozYXFLSjdYemRXcnh4dVhqUGU1dVR4aDhReS12TFhaRFNLMmFjZTR1MkHSAcYBQVVfeXFMT0FMOC1rSVNfUEhtbGpPVGVQMjdVcjUwekMyazN6dmtxZ2N3aldERVMtZVpSRVc5OG9GNldWLXpfVGVSYmlBV0RlY2dHRU9GZWUteVlXRGxfRDNJSkN4V3UtUVg1MWhQX1ZXY0V1MUJ0RHhSZDZoZXdEZzVRVlA2WnU2ODNtcndiRUx2N1lVQWJWMUlOYkdWQncwaFhKM2FxS0o3WHpkV3J4eHVYalBlNXVUeGg4UXktdkxYWkRTSzJhY2U0dTJB?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 21:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.002,
-        "negative": 0.998,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W31"
-    },
-    {
-      "title": "Talarico Has Narrow Poll Edge on Paxton in Key Texas Senate Race - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOemlzdk1jbHBvVG96WFhnRTduN2tyYklJUS1pUFRGcHpkY3ZLVXJncThINVRxME50MDc3S2xuUi1rVWVobXJxWG5KY2JYbW1uUE9NM1RYV2wyeUtZb01jNFVDUGpKWnUyUVhkZHZTNldkS0QzdVVfM0toczRkYWVocDZrTHJwcXpxck9NbkgtakV2RnQ4TlRJd1Q5YkJtUXByaXdERTNqRTA3X09OdEctVFd2NVBWdw?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 09:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.044,
-        "negative": 0.956,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W31"
     }
   ],
   "weekly": {
@@ -1884,13 +1878,13 @@
     "2026-W31": {
       "both": {
         "positive": 11,
-        "negative": 14,
-        "total": 31
+        "negative": 13,
+        "total": 30
       },
       "talarico": {
         "positive": 3,
-        "negative": 6,
-        "total": 9
+        "negative": 5,
+        "total": 8
       },
       "paxton": {
         "positive": 2,
