@@ -1,9 +1,25 @@
 {
-  "analyzedAt": "2026-08-09T13:52:20.276Z",
-  "newsFetchedAt": "2026-08-09T11:34:40.657Z",
+  "analyzedAt": "2026-08-09T14:39:05.613Z",
+  "newsFetchedAt": "2026-08-09T14:07:55.372Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Texas Senate Candidate James Talarico Faces Backlash Over Resurfaced Clip On Church Housing Immigrants Facing Deportation - foreignpolicyjournal.com",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNR0U4UlJDQU1CMkZCMmNJbGZxZU9PQVZiZV91MkZDRFhXNGNDRUZ4ZlpROUlFRlZvRVVGVGxKR3pweWpRYjZEUlltRkZPREtYSXI4WU9sMmhTOUVKQkZHbkV4TGp6SjdJRm9ac2UyZ0piZGc4VjdPNExlN253UFFTSG1FTTdTYWFuWTRrRTd0bTZibnBOb0ZuSFRKRE05U3Bjc3ZqR2FvTUlNVERyVlFoSjZVV2hEa2Jkb193bnNNM2JmX0FTLW5PODl0QXZ1WTk5YXdISHcwS1Z3SXZjWGRjc3VLUVFpRV9xb1lldXVITVRJbzJERjhzUlJvX3g1SVU?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 13:32:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W32"
+    },
     {
       "title": "‘Absolute Madness’: Man Ejected From Ken Paxton’s Texas Rally After Yelling ‘You Cheated on Your Wife’ Draws Fierce Backlash - The Nerd Stash",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQV3hSTjdKNU1xcFc1b3FIeWNIQTJCbkJFWVhpVlZlb3NURlVUQzRHSWViT3U0R3g3a2hsUHFxb2tuWnZnZ1J0TnBsenFjaVVsZGVGb1lWSGhqVWdsS215djY4YkZ6cmNhd1RVMzlBb1dnTTROUVUxeXZwYy0tZk9tVFVoNXh6TEplRkFoM3NlME5ZS0dNbUhfS0pxWHNyMjZVLVFoMDA3ZnpPM3JqRDJLQ0xuRVJoNVF5SnZCWE5vMTdWcVhiRmFGLXZJTEl5TGp5NG4zZUlsV1d1SG9I?oc=5",
@@ -1840,25 +1856,6 @@
       },
       "candidate": "both",
       "weekKey": "2026-W31"
-    },
-    {
-      "title": "Paxton trails Talarico by 2 points in new Texas Senate poll - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORXItb0VXQjRadGxMVG5SSHhaby1tUXhkUWljay1heFRPWS1BTE81TGlJd05WZnBpU1NWMXRUbEgxaktHcUNSamdhSG84bEY4MFJvWTNLVU5Fc0JaNFJhUUFWN01raF9rWnZmbXgyQXlQbzgweW1jejRFd2pSOElJM2tB0gGHAUFVX3lxTE5wQzBNekJNVFFKWDduQ2NpYTFEUTFPbWlRY24wMmZMR3hibmw1cXZWQnlPd2o2Q05zYlRuWU5qekNYcVJ3ZW5tWm5hTERtYWQ1dzd4LWdRNVdoNU4wVFJEcjZyel9rTHlNeVVLcl9BbENNbmpjUUZBd2FUZnJmOHFJSUVJT0VQSQ?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 09:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate"
-      ],
-      "sentiment": {
-        "positive": 0.525,
-        "negative": 0.475,
-        "label": "neutral"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W31"
     }
   ],
   "weekly": {
@@ -1888,7 +1885,7 @@
       "both": {
         "positive": 11,
         "negative": 14,
-        "total": 32
+        "total": 31
       },
       "talarico": {
         "positive": 3,
