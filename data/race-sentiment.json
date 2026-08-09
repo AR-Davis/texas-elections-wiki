@@ -1,9 +1,26 @@
 {
-  "analyzedAt": "2026-08-09T02:03:12.497Z",
-  "newsFetchedAt": "2026-08-08T22:35:02.133Z",
+  "analyzedAt": "2026-08-09T03:49:18.322Z",
+  "newsFetchedAt": "2026-08-09T02:07:51.420Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "James Talarico accused Ken Paxton of voter fraud. His own voter registration is raising questions. - HPPR",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQekhzSDVfbzByWGxXNDNySVlWUzM0VXc5T2pjd1VVclNYRFBjRUplaXhRTWYyMmdtM3BhSWk3LTJaTDc3ZVFQeF9TUGR4RmlsZFJ1MnZrS1JZNTF6NXJ0ZTZyU0Z5YUZ0UWVlVmljRVd1Y0REWmRwZWpRa3pULWVjTFROYk41VWlKNURSR0F1VWhReXpsN3RNWTFqTE9DVnlnYWd0NUNZU3lZcFlEV2FoX19CdnZSQ3ZaMWNpQ1FHRFQtUXVocXlHcnZwY3RJMjBwOEZyRA?oc=5",
+      "pubDate": "Sat, 08 Aug 2026 12:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W32"
+    },
     {
       "title": "James Talarico Accused Ken Paxton of Voter Fraud. His Own Voter Registration Is Raising Questions. - MyRGV.com",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeVdVblNWaXprM2x1TFM3N29PVjZVWjg2RWJ2OGhzZkpNbUd0bjkwVUVBZGNYb3RHMXJFT201MTBtWl93MThTbE1vMFo3eWQ3WDEwOUxiVGJlaFF5SE5raXVscUhPWnpKSE0wdVN2d2lzZ1YyNVlfS2VRNERrbGlpVXRDYWMtNkluNE5ERks2WXhER3BVVmlEQnc2Vkc2Y180UFdGZmQtekE3UXlTclRsQ2JUZjdzQzdVQUFYVnNYWGg5RXlJTFZ5eURwZklBOWZI?oc=5",
@@ -1860,24 +1877,6 @@
       },
       "candidate": "both",
       "weekKey": "2026-W31"
-    },
-    {
-      "title": "Most Black Texas voters back Talarico over Paxton, poll finds, despite Senate primary tensions - The Texas Tribune",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWldwWlZhOG41STVZQXVLM09ZZHNOdFc4cHB3aHhHZl9jSHo2YkJQY2hsSTBsTGdjcXNWSnE0OVA4WWQwTlRHQ0VyNkJRVnRUOWstc1RtTWZNYm8xWjdXUXgzR3dtLVNPdDhzV2VldUQ3Zy02S0xpV1JkVzRTRG9jdDNKalFlQmlhTExNcS1TTWNnVHNELVcwdl9rVks1b0kzSVJtME1taE1Cb2k0eWNKNzB5QVM?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 09:00:43 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.397,
-        "negative": 0.603,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W31"
     }
   ],
   "weekly": {
@@ -1906,8 +1905,8 @@
     "2026-W31": {
       "both": {
         "positive": 12,
-        "negative": 18,
-        "total": 38
+        "negative": 17,
+        "total": 37
       },
       "talarico": {
         "positive": 3,
