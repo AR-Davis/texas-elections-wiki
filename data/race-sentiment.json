@@ -1,9 +1,26 @@
 {
-  "analyzedAt": "2026-08-09T10:05:45.668Z",
-  "newsFetchedAt": "2026-08-09T08:51:03.180Z",
+  "analyzedAt": "2026-08-09T11:03:04.170Z",
+  "newsFetchedAt": "2026-08-09T10:40:12.618Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Senate candidates Ken Paxton and James Talarico propose different plans to help Texans with affordability - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbkZEWjBYR29OTi1DRFc4bzBGUmpPZlJkWUhxYlpzeWpWZkMxM2JlX2YzSUY1d0l5VTJBZktjTmw1NHA4RnNVMTVVRHNsVXZ6eWEyNFJvNkZBcERPNjA3LVpLZ0NiMWpLaXEzYXpCVHpxSmM4cktDRDdvMlNwRDl3VV91c0pIMVdROTVJZEF1M2JvMWZzY1BaelM1ZFNQZzRJeGIxNDFRV09Wc3FZYW41NWxCclBQLVJEODZCbTFQeXQ3c3E1aWVMZA?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 10:00:10 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W32"
+    },
     {
       "title": "Ben Shapiro. . The Event James Talarico Doesn't Want You Asking About - facebook.com",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMTlFRFJmWks3dVBhMW9NN21nUEVBNGZXbE1KbjBtNDhIR0VwQ1F6WWp6REVZSUxlUUIxNzVaMVJZNXJnbnlYX2dTMzB2b3hPRjhDdVNwbWprRm1HdGpoaHFrbGlPVVdHUUZuMVRscXQyTXFheEV2eDF1Umx1THhJWU1rcVBZQmo0cko2QWZESmFjWk1uUXJmS0pHT2Z2ckQ1Zi1MQ1FRczJqM3VUMnNibUd2QnN5Y3BSZDA5clhZbw?oc=5",
@@ -1845,24 +1862,6 @@
       },
       "candidate": "both",
       "weekKey": "2026-W31"
-    },
-    {
-      "title": "New Poll of Texas Statewide Races Shows Talarico Leads Paxton by 2 Percent - thetexan.news",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdThVN3dscENGRjB3WVdnMkQ1dGtqVG1HcFZkYlIyMTRGYnNXbFNTeHJOZkV0WHVJX1dVXzJpZUxPQkhBQkxzZnJJQ05Ual84QlVSU2FnaUlndW1tamgtRjhpRmhTbDdkYUZsamR4QkNKN25ScW91dUpkQnFTZHBOLWtIV013NkFseXZFMHQ1NUUycl9YUFVNaFhjNzFHTlBGZzhLalJmbmpuekplZ1luUGR2Z3NOcFBtU3pDSWVDLThtbWs5WXktak1nWTdaWVlsUC1HSFQydkUtclU2aG9IbzR6VVRxLWc2ak11Qk01V2FlRTA?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 10:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.545,
-        "negative": 0.455,
-        "label": "neutral"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W31"
     }
   ],
   "weekly": {
@@ -1892,7 +1891,7 @@
       "both": {
         "positive": 11,
         "negative": 15,
-        "total": 34
+        "total": 33
       },
       "talarico": {
         "positive": 3,
