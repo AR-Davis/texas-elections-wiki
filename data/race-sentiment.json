@@ -1,9 +1,39 @@
 {
-  "analyzedAt": "2026-08-10T13:18:34.315Z",
-  "newsFetchedAt": "2026-08-10T12:09:58.519Z",
+  "analyzedAt": "2026-08-10T14:37:17.688Z",
+  "newsFetchedAt": "2026-08-10T13:57:09.752Z",
   "totalAnalyzed": 100,
   "newThisRun": 2,
   "stories": [
+    {
+      "title": "Texas poll: Talarico leads Paxton, Hinojosa closes in on Abbott - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQUNGeFBtMmlPbUtIY01hOU5lMXA3WVlGb3BLYTJHZXFkT2ZaaTVoTG04azZrRkpBR0JmRFA5M25uMjZaZWI4U3hqbGkxaUxENkZ6R2NFTXZJcHJISjRvYUo4R05tMUFYbEkzbjNaeDJqRVo3NDBmeTR4Y1NUZFBQNXM1ODdkMjFORjNneEY1R1U1QWo3UUpMREVrVnYtdGQ0QjVGWVlWcC1rQkU5SXFTTnZ0TFJJaWhEV1VZSTZLZFd5a1k?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 21:38:14 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W32"
+    },
+    {
+      "title": "James Talarico | Texas, Senate Candidate, Jasmine Crockett, Joe Rogan, Stephen Colbert, &amp; Biography - Encyclopedia Britannica",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IREhFWWRfcWpQYk8zNnhxeU9jcWRrVzIxWlJfZXpFU2E2aU5qMDI2RE9rTTh0b1RYZEthRWZySHFrdEtXSThJZ1ZROU5aM3k0bVZTTHRXa1owbW83clF0MA?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 05:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W32"
+    },
     {
       "title": "Texas Senate Odds: Talarico vs Paxton, Priced 50-50 - stokastic.com",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX0t0V1lZclRPR3BWT3k4MWFCU2JNUldNNUtIcE9jQVVrdEJtRmRfbGs4TVRtVU9ENzQzcklJekV5aEs5SkxlalpVallfenF0Tk9MXzFxOWJJZEVOb1Zqa0pjLWZnRk1WVDlDUTdpYXA5Mm1UbmZpMGZZYVlqUDd2MjIxME5RUjA?oc=5",
@@ -1773,45 +1803,6 @@
       },
       "candidate": "both",
       "weekKey": "2026-W31"
-    },
-    {
-      "title": "National Pro-Life Group Endorses Ken Paxton Over Pro-Abortion James Talarico - lifenews.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkJRX0JQWVM3Nk02ZE96ai1TV0hZMG1EbTVyS2t0Zk1oVWl2UEFWX3RnMklvR1BKSW56Nkxub21fT1dfME9fZGFfaWJZTTViNUpKVE5pN2dXLUFfM0poVTZLNmdwVzNzaDNRTXpCNEtHMjVTRGRybkF5RTkydTJ5RHpvRDlLOTVTLXkzSXZLM2JXSXRlU2ZrOE1LWVQtTFNTVUo0VGJUNmxlV3I4cm4zQWQ1bw?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 18:14:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.987,
-        "negative": 0.013,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W31"
-    },
-    {
-      "title": "Talarico Leads Paxton by Two in Texas Senate Poll - streamlinefeed.co.ke",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYWRVMVhoR0duN2Zqbjg3eTdUUmVaZndqSVUtQkc1QnZlQkxlWDJienVidVY0Nl9qRTJ1YzU5Uk4tWldhaEZXOGlTOFBMMnNHdUY3RklXSGtLVFdxQzNKcmlpX0FEMjJFSzJ0Znl5THZZVVFzczB2NS1jdkRKR0tJM2tERFZIMk1JdTdn?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 09:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate"
-      ],
-      "sentiment": {
-        "positive": 0.105,
-        "negative": 0.895,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W31"
     }
   ],
   "weekly": {
@@ -1839,9 +1830,9 @@
     },
     "2026-W31": {
       "both": {
-        "positive": 9,
-        "negative": 12,
-        "total": 22
+        "positive": 8,
+        "negative": 11,
+        "total": 20
       },
       "talarico": {
         "positive": 1,
