@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-08-10T10:44:24.236Z",
-  "newsFetchedAt": "2026-08-10T09:42:03.253Z",
+  "analyzedAt": "2026-08-10T11:51:10.267Z",
+  "newsFetchedAt": "2026-08-10T11:12:49.175Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Are There Really Democrats for Ken Paxton? - texasmonthly.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPakM1RFowRmdPNzh1c0czYTBubVZ5ZEpLY3Rwa0JkN3VxU19xRkZEVlVCTFM0bldWS1MyWGJjT0Q3VVZvNzNmQUZVc0llaC1EazlkRGU4Q0tncmFMcGhmSDk2MDV2ejVGaHV6Qk9KMjhhVU5ES3NYRXc3OWRBenRrdlZR?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 11:00:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W32"
+    },
     {
       "title": "Talarico Leads Paxton in New Texas Senate Odds: Can Democrats Finally Flip the State? - Yahoo",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOXBlT2JCcVRRYVJkdlZSSUZQTndqd3VzOS11Q3dJXzJVek1ZRjAxMG5FVXF3ampPR0w4SWFhNDFXWTFEMVZ2ZnBBSF9ueFc4R0w5dzhFREVpVHF5WXhualdWQmo2SHVDZkZuTDJUZzBNeEdtY3RyeVVab1ZnN25lUWtDTnJGN3hsZkZrXzRKR3VtTHVRVWFtZTlR?oc=5",
@@ -1803,25 +1818,6 @@
       },
       "candidate": "both",
       "weekKey": "2026-W31"
-    },
-    {
-      "title": "Paxton trails Talarico by 2 points in new Texas Senate poll - thehill.com",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR0xuX29YWG8yMkpiVDBlR3JMTjd3SzZqQXlEWl93TzVhcG5PeTN4QW9rNTJTeHBmcjZVb1phS0ozYURyT1RtOW1XaWM5Tjd4VEhKSkNvQzdTOTF4RUo0aVdzanRZY2hNeXNJa1dKa3V0eW1Sa056aHVsSGFrTGtpN2NoZG52a05pQXRXa1JB?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 09:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate"
-      ],
-      "sentiment": {
-        "positive": 0.402,
-        "negative": 0.598,
-        "label": "neutral"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W31"
     }
   ],
   "weekly": {
@@ -1851,7 +1847,7 @@
       "both": {
         "positive": 9,
         "negative": 13,
-        "total": 24
+        "total": 23
       },
       "talarico": {
         "positive": 2,
