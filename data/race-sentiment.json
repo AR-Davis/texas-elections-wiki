@@ -1,9 +1,45 @@
 {
-  "analyzedAt": "2026-08-10T16:02:39.417Z",
-  "newsFetchedAt": "2026-08-10T13:57:09.752Z",
+  "analyzedAt": "2026-08-10T17:02:04.852Z",
+  "newsFetchedAt": "2026-08-10T16:24:32.408Z",
   "totalAnalyzed": 100,
   "newThisRun": 2,
   "stories": [
+    {
+      "title": "Inside Texas Politics | James Talarico ahead of Ken Paxton in 4th Senate race poll - NewsBreak: Local News &amp; Alerts",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbU1lYUI5QUxWWkZrQkxOQVd0Zkg4d2RQVEJvQ2ZSM1hVcXJGWDhXQmF2Z1c3OEJYRUNfVWJlcklwU0Rmdnd1bFE3NVJQeHcxMzdSMkRLbEgwcjB2V3FBQ29CaWpkdTN2XzI2RGJfYWFqSjgtaXJSUDNUdXdybF8tNEpKTG9YNVNRM3prODBoODlwRC1TSlhLa1M4OUtCYThIRjE5OXQxc0hvdmRMbWc4SnVtRGpHWUtlX1pGcDZFWWlsR1ZwbDNYQk1ENGU?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 03:40:02 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 30,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "senate race",
+        "texas politics"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W32"
+    },
+    {
+      "title": "James Talarico leans into populist message in Pasadena, attacking Ken Paxton and ‘billionaire megadonors’ - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYVdHcEVRdnoxX2ppa2FWamhxSU1mNXVLYzZnbW1xYTNiVnJmdEdqT2FMdFpPWnM1Z2lMM0pHcTZNS0daRXNJZktXRF9qOG90Zk5yZ3BVZ015cGsweF9VbmJndERvenpEVW9HbjdZYkUtajFHVTJvQ2pWdlR3M3dYYjFiYVptUWNmMUFIVkJESmg4ZENzRDRHZU1TeWRRbHA2d2dIS1BkM0lMdkk5WElxRG5DZ2NyZ3VHZ2NrQWkwQVJyZ0JFc3J5WNIB0AFBVV95cUxNdUlTVXZCNmpUWHlfOW5sWEk2bEpRUVRLalBFV2t1WVFrbHRxUzMzMGZ6YTMtMnM2dEJsMlI3RzRfMkc5VmdTdzRjc1k0ckFGWUppVXZBWE5vVk1ja2hjRm1ucXhWU3RiSzJ4UVlvdDFSdDQySWplYVV2WW5adjhfU09CR3NzUVJqY2VWTjdPWVFtMzZzMUR0X0E4M3RXbmtPM0ZmektfQnVhRUdNRTZzX1p2cnJtMzU0ajBKSWVzYTEzMmZKR2kyUWE0VzE2VDJU?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 15:58:02 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W32"
+    },
     {
       "title": "Texas poll: Talarico leads Paxton, Hinojosa closes in on Abbott - Houston Chronicle",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQUNGeFBtMmlPbUtIY01hOU5lMXA3WVlGb3BLYTJHZXFkT2ZaaTVoTG04azZrRkpBR0JmRFA5M25uMjZaZWI4U3hqbGkxaUxENkZ6R2NFTXZJcHJISjRvYUo4R05tMUFYbEkzbjNaeDJqRVo3NDBmeTR4Y1NUZFBQNXM1ODdkMjFORjNneEY1R1U1QWo3UUpMREVrVnYtdGQ0QjVGWVlWcC1rQkU5SXFTTnZ0TFJJaWhEV1VZSTZLZFd5a1k?oc=5",
@@ -1765,44 +1801,6 @@
       },
       "candidate": "both",
       "weekKey": "2026-W31"
-    },
-    {
-      "title": "James Talarico Calls Texas THC Ban a ‘Gift to the Cartels’ - saobserver.com",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzX3JDMTEyNVFvMU84Q0VLSEMtSTQzWG9RT25nbXJsdUhvU19kTmJoRUFkTXduOWgxX012WEJqSlNKVGo4eXlLUGpWR3hBVk5vRXhpNWtteExWc0o0WTBmMTFZYXp2TVNaZGYzbA?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 14:11:36 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.004,
-        "negative": 0.996,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W31"
-    },
-    {
-      "title": "Another poll shows James Talarico leading Ken Paxton in their race for the U.S. Senate - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNcDRDbks3dzR4aGNGdW5uVTZ2djVrd3FDOWwwMUtPZHp1T3VrWUZlbDZUY3F3d0xCYjhFTmpoTEJOLVVxT0VPdnVyTXZscEFGcDQ3REV0R3R4cGdSVFdmSWM4NVM2b3FCZVpRblBhWGdBQVE3UmRxaVdsb2VRdnotOFVVYkdQQ3ItWi1zaFNTa2JuY1YyeE4wZnlFUEdQdkpKdWpuTjRWVDBuLWY3OEZFcE8xTGdvU3hnUm1La082VjVDSDdkTTIzdHozcFJkMjJ2SFoyZVowRDk1OE1QQWlTcURnU0JMRXc3YllFT3JUYW5hM0Jqb2fSAfYBQVVfeXFMTXA0Q25LN3c0eGhjRnVublU2dnY1a3dxQzlsMDFLT2R6dU91a1lGZWw2VGNxd3dMQmI4RU5qaExCTi1VcU9FT3Z1ck12bHBBRnA0N0RFdEd0eHBnUlRXZkljODVTNm9xQmVaUW5QYVhnQUFRN1JkcWlXbG9lUXZ6LThVVWJHUENyLVotc2hTU2tibmNWMnhOMGZ5RVBHUHZKSnVqbk40VlQwbi1mNzhGRXBPMUxnb1N4Z1JtS2tPNlY1Q0g3ZE0yM3R6M3BSZDIydkhaMmVaMEQ5NThNUEFpU3FEZ1NCTEV3N2JZRU9yVGFuYTNCam9n?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 17:42:44 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 23,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.076,
-        "negative": 0.924,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W31"
     }
   ],
   "weekly": {
@@ -1831,13 +1829,13 @@
     "2026-W31": {
       "both": {
         "positive": 8,
-        "negative": 11,
-        "total": 20
+        "negative": 10,
+        "total": 19
       },
       "talarico": {
         "positive": 1,
-        "negative": 4,
-        "total": 5
+        "negative": 3,
+        "total": 4
       },
       "paxton": {
         "positive": 1,
