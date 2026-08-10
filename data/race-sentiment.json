@@ -1,9 +1,45 @@
 {
-  "analyzedAt": "2026-08-10T19:02:54.741Z",
-  "newsFetchedAt": "2026-08-10T18:26:55.873Z",
+  "analyzedAt": "2026-08-10T19:57:19.852Z",
+  "newsFetchedAt": "2026-08-10T19:34:28.455Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Texas Senate Nominee James Talarico Places Faith at Center of High-Stakes Race Against Ken Paxton - streamlinefeed.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPV1lPR3JoZXhiQWhsZ0hrUUhGUlNaTnlxZWtUSmNNNkEyU0F5YlBsV1ZVNEtqY3lEdFA0Ym5vRDlLUHA2TGZKdnpPNkxxM0RDcTBaYU5PVU5YZmI1VXlFSEtJY0dpYmxrZTJFQ0pzdnVMN2R3LWtsYVVUaEVwSVM4dnFxVVBFYjRSZjFsUjJvQzdHd1FSYlpONkhJYW9PdkIwZDhrNV9WajN3UVh5MUxLM3l5dElRTzhybkRyTm1VZHhLRjVrZlo0cnc1dw?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 08:40:27 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 28,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "texas senate"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W32"
+    },
+    {
+      "title": "Pro-Life Texas Attorney General Ken Paxton Need Help to Beat James Talarico - lifenews.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeER5ZnU4bDJwcnJIOWlTTUFJd2NIYkkwQ01DY3pQTTBKWVpNZU1QYnA5LUhLcGo1bExsenFvNlVaNFowOE5HVHNUNlZMNW1ZY1pwVDdhcVBwQ3o3NTFzak9tWWFXdkJvdWNSWlctV2lDRTBhazJsQjVhUWJLOHJTdlA0N3JEbFViaXdsb2FDRzZpN3NiVzI5M3hkTnNNa2tPZU93ZW1wVzc1dVlJRGU4dmxR?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 19:01:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 25,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "attorney general"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W32"
+    },
     {
       "title": "James Talarico leans into populist message in Pasadena, attacking Ken Paxton and ‘billionaire megadonors’ - Houston Public Media",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdUlTVXZCNmpUWHlfOW5sWEk2bEpRUVRLalBFV2t1WVFrbHRxUzMzMGZ6YTMtMnM2dEJsMlI3RzRfMkc5VmdTdzRjc1k0ckFGWUppVXZBWE5vVk1ja2hjRm1ucXhWU3RiSzJ4UVlvdDFSdDQySWplYVV2WW5adjhfU09CR3NzUVJqY2VWTjdPWVFtMzZzMUR0X0E4M3RXbmtPM0ZmektfQnVhRUdNRTZzX1p2cnJtMzU0ajBKSWVzYTEzMmZKR2kyUWE0VzE2VDJU0gHQAUFVX3lxTE11SVNVdkI2alRYeV85bmxYSTZsSlFRVEtqUEVXa3VZUWtsdHFTMzMwZnphMy0yczZ0QmwyUjdHNF8yRzlWZ1N3NGNzWTRyQUZZSmlVdkFYTm9WTWNraGNGbW5xeFZTdGJLMnhRWW90MVJ0NDJJamVhVXZZblp2OF9TT0JHc3NRUmpjZVZON09ZUW0zNnMxRHRfQTgzdFdua08zRmZ6S19CdWFFR01FNnNfWnZycm0zNTRqMEpJZXNhMTMyZkpHaTJRYTRXMTZUMlQ?oc=5",
@@ -1748,48 +1784,6 @@
       },
       "candidate": "both",
       "weekKey": "2026-W31"
-    },
-    {
-      "title": "New polls show Talarico leads Paxton in Texas Senate race - KEYE",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUDdxZFpMWWtjVzVxblAxTVdFQWl6U2tXb1M5ZThIOFRDRjNGRlN0eE0wMW9rc3VZNGdkUGg1bXhPb1NyMG5Dc2dFSmJaaV8wU0FnbHdYMF9SQXY4YnNiVXJxUTZSNFRWQWNDaWE3TDNNTGZ0VjJiR2k1QTJ4ZFY2a0JDcnJ3SEJibTJXTHdpRE9OOXRU?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 03:35:39 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.979,
-        "negative": 0.021,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W31"
-    },
-    {
-      "title": "Three polls released in the last week — from Fox News, Texas Public Opinion Research, and the Barbara Jordan Public Policy Research Center — all show Democrat James Talarico narrowly leading Republican Attorney General Ken Paxton in the Texas Sen - facebook.com",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaTBxbWFYaW1pQ0tOSi0yTGRkeUstNTNocEp4QzZDeVVFdV9ZRHY4VjMxNGs5Vmt4UkNVTF9DQ25nVVV4WENlVjRndF9mYzNIbFlvTVhEQVBrcVhEOWdkbmxkcEtwYmdyTC1qVFRZWUtZVFFHdTFKUWlOVjEzemNSRXBWMGxJRlNVQ1ZaUlNKN21Vd0pwWmozZHhqYjc0V2pSRjJ1YzMxbGdsZEZldldvS0tZMFVTWi1zdlliZmRyWmVGYkFMa0tCSTJsQ3p0NXRDUGtVU1ZTVzItNG9XVkNaYTln?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 01:09:06 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 25,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "attorney general"
-      ],
-      "sentiment": {
-        "positive": 0.078,
-        "negative": 0.922,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W31"
     }
   ],
   "weekly": {
@@ -1817,9 +1811,9 @@
     },
     "2026-W31": {
       "both": {
-        "positive": 8,
-        "negative": 9,
-        "total": 17
+        "positive": 7,
+        "negative": 8,
+        "total": 15
       },
       "talarico": {
         "positive": 1,
