@@ -1,9 +1,25 @@
 {
-  "analyzedAt": "2026-08-09T23:35:46.137Z",
-  "newsFetchedAt": "2026-08-09T21:38:20.584Z",
+  "analyzedAt": "2026-08-10T02:07:47.353Z",
+  "newsFetchedAt": "2026-08-09T23:36:46.158Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Talarico opens 4-point lead over Paxton in Texas Senate poll - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMXN4alZ4ZERfLVlqSXNoVDBLbkh4UGFzZGYwMGtrNldfbWswY1d2cTBrNDlpQ0g3RnZuUENGQjZ5MEhvVDhhRG5HZWxERUs1YjZ5QXJHdTNoWDZTalUwdGsxVE9DMm0zWGVjVU1hWHJJWXQzOWFTc2RBZWR4cjduYXk5dUNBTFRxVUU1OUNVelp0bC13MGI5Z1hzVnJDcms?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 13:03:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W32"
+    },
     {
       "title": "GOP Leaders Dismiss Democratic Outreach in Texas Senate Race - sekbernews.id",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVmg4aFpSM3ktWmY1dWVqaVNFeWtGSjkyMVFxY2lEdm84ckZHbFpXMjZUUnduUHJyanFTcUwyRHhWbDQ3OXlJaU54OWV2c1oyb2EtY0QzWkZmTFhqdWlCOHZobEFiRkNiVWV5bmJ5dUxjUUIwYWlWdjBrUjh3VzdDZA?oc=5",
@@ -1811,25 +1827,6 @@
       },
       "candidate": "general",
       "weekKey": "2026-W31"
-    },
-    {
-      "title": "Paxton trails Talarico by 2 points in new Texas Senate poll - thehill.com",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR0xuX29YWG8yMkpiVDBlR3JMTjd3SzZqQXlEWl93TzVhcG5PeTN4QW9rNTJTeHBmcjZVb1phS0ozYURyT1RtOW1XaWM5Tjd4VEhKSkNvQzdTOTF4RUo0aVdzanRZY2hNeXNJa1dKa3V0eW1Sa056aHVsSGFrTGtpN2NoZG52a05pQXRXa1JB0gGTAUFVX3lxTFAtTERhc20yazhKUTFGbGx1dC02M2F4MVhZMGg5bDlBZzloSHhRV1llRUJmLVYteGJGOGpETVhMZnBValVfS0haRWItdG9EeEpRWlBhQjhQb2VXQzV3VWJqY2hBbF9yVG1CTGVsOEhtUTVEVDFPT29YT3V3aGdMbE5VaFVIOExIbDJzY2xMenM4dHpDZw?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 09:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate"
-      ],
-      "sentiment": {
-        "positive": 0.402,
-        "negative": 0.598,
-        "label": "neutral"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W31"
     }
   ],
   "weekly": {
@@ -1859,7 +1856,7 @@
       "both": {
         "positive": 9,
         "negative": 13,
-        "total": 26
+        "total": 25
       },
       "talarico": {
         "positive": 2,
