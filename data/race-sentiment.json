@@ -1,9 +1,56 @@
 {
-  "analyzedAt": "2026-08-10T17:02:04.852Z",
-  "newsFetchedAt": "2026-08-10T16:24:32.408Z",
+  "analyzedAt": "2026-08-10T17:55:22.520Z",
+  "newsFetchedAt": "2026-08-10T17:27:49.951Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Talarico Draws Even With Paxton in Texas Senate Prediction Markets as New Poll Flips the Race - DeFi Rate",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONGxERVZYbURCQ2xWdHhRdkRqTDBLQml0SE96Y0NJZ2FGRmMwRjdYTGlpWmJnU2dKUWRmbFlzaGdEeGpPdnBxa3ZXbTM2ZEFPSTZCZnltd1lzOEtyeFQ4TFA0amNmVUJQa29BMWh5eXZqRE9VeDlranBXSV8tWXNpSENLa3BuTDV0U3FfdA?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 13:30:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W32"
+    },
+    {
+      "title": "Former Cornyn allies open for Ken Paxton at San Antonio rally - San Antonio Report",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaHFMODR6SW9VVWk4ZC0zNDlMZ19IQVNscEFPeE8zRWRsUmd1cDhNX1FKbWJuWGp4ejJnSi02cG5uTnQtY3RyUzZ0aXM0Zy1uWW44cEFsdXJuOGIxakVVcVRldEVRVDNoSXFYWnE1RE1iSTQtMDFmYVhhMk9IV0ZUTG5CS2F6RjRaQkRQZXZSSFdGdEMyTVM2cQ?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 00:20:12 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "cornyn"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W32"
+    },
+    {
+      "title": "Ken Paxton’s economic agenda could actually make things more expensive - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc3lBNHRPUXNBVml1M2NvVENGNm5hZ2thczN2T3V1MXFPZUF5eS1ldlp0c3FCQ3k3RFNDdTJIcHNTLW9nckpCUHJWai0xcUg2eUhmYWdNeXRaVTQ3QWcyam5rb2V6UGF1ODNDOGJKeUpyQXpIVnhyS0FrXzdaVjcxS2NrTW1NcldEV3JXUXNKWWJZVEFicE94Q2hNdEkwTjJOcmFZQl9SNWtYODBDWnVfQVc1dUNldw?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 17:08:05 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W32"
+    },
     {
       "title": "Inside Texas Politics | James Talarico ahead of Ken Paxton in 4th Senate race poll - NewsBreak: Local News &amp; Alerts",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbU1lYUI5QUxWWkZrQkxOQVd0Zkg4d2RQVEJvQ2ZSM1hVcXJGWDhXQmF2Z1c3OEJYRUNfVWJlcklwU0Rmdnd1bFE3NVJQeHcxMzdSMkRLbEgwcjB2V3FBQ29CaWpkdTN2XzI2RGJfYWFqSjgtaXJSUDNUdXdybF8tNEpKTG9YNVNRM3prODBoODlwRC1TSlhLa1M4OUtCYThIRjE5OXQxc0hvdmRMbWc4SnVtRGpHWUtlX1pGcDZFWWlsR1ZwbDNYQk1ENGU?oc=5",
@@ -1744,63 +1791,6 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W31"
-    },
-    {
-      "title": "U.S. Senate Candidate Ken Paxton Campaigns in Allen, Texas - C-SPAN",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZW1VZTh0aFZ4QV9sbFB4WDUwY0tzdzNqZ0U2bXBsQ2FzN3R5SU9DRktnWVpuVklSM1RJUENJTTJINXFyc3VUOHZlcl9fakMyYU85dDFhNUtHTllyQ1lQaGpRZE5wLXRfODhic3BYUTFIdTY3UlVnNFc0WXU5R1U3S1ZfcmdKR1VxNWRKQ3l6N0NRSWdibGhNUy1wakgyTEh6OGJKUF9zTnQ?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 04:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.24,
-        "negative": 0.76,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W31"
-    },
-    {
-      "title": "Another poll shows James Talarico leading Ken Paxton in their race for the U.S. Senate - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYmpLQmxzNVk5cjBfc3RUMHhveHRqSW1GcmZaLVAyUEZUT01meXVpend4bUtKbDJ6aF83TVlaZFN0X2VXQVlNWEZ1a1VLa2E4ZnJIN0loTHZaOFhXTHFzSUY2X0RIQzJnY2NRWXdURXRKMnlTRnhyRFVoWDlNRnMtWml0clJPTkpFZ25Bd2hnUkZyMUFZeUtYVWE0VzhRVUJESnpPXzB1V09MSThrSVNEdnFES1JCOGx4dWNxUG1FN2JqVzZ2WjBfejlfeFJ5dWFxZTFUMWsyc3dpRTBrS0RnWktGQ3YzQkdPZW11dkJR0gH2AUFVX3lxTE1wNENuSzd3NHhoY0Z1bm5VNnZ2NWt3cUM5bDAxS09kenVPdWtZRmVsNlRjcXd3TEJiOEVOamhMQk4tVXFPRU92dXJNdmxwQUZwNDdERXRHdHhwZ1JUV2ZJYzg1UzZvcUJlWlFuUGFYZ0FBUTdSZHFpV2xvZVF2ei04VVViR1BDci1aLXNoU1NrYm5jVjJ4TjBmeUVQR1B2Skp1am5ONFZUMG4tZjc4RkVwTzFMZ29TeGdSbUtrTzZWNUNIN2RNMjN0ejNwUmQyMnZIWjJlWjBEOTU4TVBBaVNxRGdTQkxFdzdiWUVPclRhbmEzQmpvZw?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 17:42:44 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 23,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.076,
-        "negative": 0.924,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W31"
-    },
-    {
-      "title": "Texas Senate Showdown: Can Paxton Beat Talarico? - The Clay Travis &amp; Buck Sexton Show",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GYV9BTVk0OHFtenNuWWRPTVZvWWZiTDM2SmZZY0pkUDlWNGtOUDBpNXd6WDNnQjFjYWhMOEpRN1MtUVZtWmJFLWEwVnRBNE4tN3c?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 19:17:48 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate"
-      ],
-      "sentiment": {
-        "positive": 0.501,
-        "negative": 0.499,
-        "label": "neutral"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W31"
     }
   ],
   "weekly": {
@@ -1829,8 +1819,8 @@
     "2026-W31": {
       "both": {
         "positive": 8,
-        "negative": 10,
-        "total": 19
+        "negative": 9,
+        "total": 17
       },
       "talarico": {
         "positive": 1,
@@ -1839,8 +1829,8 @@
       },
       "paxton": {
         "positive": 1,
-        "negative": 4,
-        "total": 5
+        "negative": 3,
+        "total": 4
       }
     }
   }
