@@ -1,9 +1,26 @@
 {
-  "analyzedAt": "2026-08-11T22:49:20.979Z",
-  "newsFetchedAt": "2026-08-11T22:19:45.082Z",
+  "analyzedAt": "2026-08-11T23:47:20.886Z",
+  "newsFetchedAt": "2026-08-11T23:18:53.238Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Paxton's $448K Data Center Donations Amid Texas Senate Race - hoodline.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMHNsWEpaVWhiYzJzcWo2RV9nbjRUaXZYSnh5MUxqMHFEUkRsT0owQjR5WWo5b2EzZmFheUpDTTBLUFJBOTVLWGRfWmFfVXFHX0RQM2N6eW1iNjJsdVJqelpLUnlsUVVHbVpEa0R6VFNTVk01WjFrLUNJVF93ODV3bHJTdDVUbm5fUEFycllVcjhraUpoaFRGWmNJYy15NUF0QzZxbTR5QXU5OFE?oc=5",
+      "pubDate": "Tue, 11 Aug 2026 21:04:54 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W32"
+    },
     {
       "title": "James Talarico leans into populist message in Pasadena, attacking Ken Paxton and 'billionaire megadonors' - Texas Public Radio | TPR",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMVU5VkRiZGJmeDgxYXB5R0JkZWFXMGFISGNGaWJCcnFBdlpSTjNkZDVVd3NicTItTzUxT1pBV1lRYWw4Zkd5SkI0VTFzcHk4UDgzV2s0a2RTb1BzWHBVc2FwcFNaVjMtb29xUW9nUE1ZWUc2TWY5UFFwWHZhOFZKcFdwRmZZTEN0cEowZi1ZTEVKTWZ0MS0wYTdLaGZOUVRSUW03RE9aMFZFbllleGdxNERRSVZzX2NmZ2JyY1dUT1JNMDJQOGI2R1g0Zm1qTXFKOXdGN0U3d25PdTNPRXg4alVOOVM1NmswLWlOUVQydW81cWp6ZWc?oc=5",
@@ -1720,32 +1737,14 @@
       },
       "candidate": "general",
       "weekKey": "2026-W32"
-    },
-    {
-      "title": "James Talarico rolls out “New American Dream” economic plan - The Texas Tribune",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLVp1SHlNRVkxcVZma0trOXBNV0t3M2dWMFZMcHUxdTNrUHhlRDI0eDYtSlFmQlI0eThYNVhrX3hzLVpJYjJ3NGlLdG9OTl95TG92R05LNV9jOUpwaXgwODVFYUI5U1hGV0p4X3prQXZLMmxDaUJBeE1ESDh1LTBfbW1Zc25aZ1dvU212UlFjWW9zeGFRelVpWTdKbw?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 02:50:10 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.991,
-        "negative": 0.009,
-        "label": "positive"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W32"
     }
   ],
   "weekly": {
     "2026-W32": {
       "talarico": {
-        "positive": 4,
+        "positive": 3,
         "negative": 1,
-        "total": 5
+        "total": 4
       },
       "paxton": {
         "positive": 3,
