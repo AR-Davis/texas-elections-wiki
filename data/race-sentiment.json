@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-08-11T19:36:22.914Z",
-  "newsFetchedAt": "2026-08-11T19:09:22.763Z",
+  "analyzedAt": "2026-08-11T20:52:00.624Z",
+  "newsFetchedAt": "2026-08-11T20:10:13.638Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Paxton's Frisco Cell Tower Deal Draws Fire as Talarico Leads Texas Senate Race - Hoodline",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTlE2ZVU1d0dobTYybFdicmtZNlBRMG10QWxpUmh4X1VXR1pZXzBVbF9ROW1aTGg3ZHNnRHdTYmhwNXRTZ1FzUXlRdWpiTTVrX2xMX3FnSXctQ25qZDA4NkZNUDdwWXhoeVZ6ZGlBd3ZZNUhwMTJIdk1HRUZNSlhCcGtCdU9TdDdMUEJBNzd0MVdsQmxrRFVTaDJGQTVxVVI3QUlKZU1ULXpLcEdM?oc=5",
+      "pubDate": "Tue, 11 Aug 2026 18:44:54 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W32"
+    },
     {
       "title": "Ken Paxton touts economic plan, bashes Senate race rival James Talarico at rally - KTEP 88.5 FM",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSDRRR1NtcjNDR2ozRUhEWkdrUWJURUpieHJoOTZPRnpSTHVSdnVSdVVJRHUwb1VwRlZqV21oRFIyREg4ZHgwRG1CbjJOZ2FIT2t2WGZsMm4tR0x5RWhWS3U3ZVZpMEFkNl9LX1RHbTZNWUlPeHlvNzA2V3ZqdUZVUHM5TTdzRDVkTnBjVzVBSEFfLTFjVzdNVG53UEV4aVlJWnN5b3NEV1hMQjlMMFhseQ?oc=5",
@@ -1732,24 +1750,6 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W31"
-    },
-    {
-      "title": "Texas politics: Hinojosa, Paxton campaign in Houston as races heat up - KHOU",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUXlPdE1fQ2t3YnJYbGM3d2xOaDRWLU5yeGJoVmI3Ni01TTA4bFBXbHZkQWpuZlIwNU9uR0luWE1FSUxRRnVaTEJTUTZxVThJdmROcEd3THp0U2U1STlBWE16Z0x3bWtKeldEWGc5ZzFRNGlxU01zWXNWZTZyZUI0Y3FLSG83RnZPS1NtaHR0ajcwTUxrWGExT1FUenBMVEFQSDlFUmcyTGRoYmNKQWxxbzB6SDc4eU81WjJySngtczBWSVFRc29uQXpmaUhTUjZtWG1HME5hWHlfWG00VmJKcEV0VQ?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 23:08:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "texas politics"
-      ],
-      "sentiment": {
-        "positive": 0.738,
-        "negative": 0.262,
-        "label": "positive"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W31"
     }
   ],
   "weekly": {
@@ -1787,9 +1787,9 @@
         "total": 1
       },
       "paxton": {
-        "positive": 1,
+        "positive": 0,
         "negative": 1,
-        "total": 2
+        "total": 1
       }
     }
   }
