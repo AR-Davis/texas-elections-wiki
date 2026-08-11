@@ -1,9 +1,43 @@
 {
-  "analyzedAt": "2026-08-11T15:02:32.990Z",
-  "newsFetchedAt": "2026-08-11T13:56:17.906Z",
+  "analyzedAt": "2026-08-11T18:26:17.722Z",
+  "newsFetchedAt": "2026-08-11T17:30:34.912Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Inside Texas Politics | James Talarico ahead of Ken Paxton in 4th Senate race poll - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcUQtU24zR3NjTk8xMTV0U0RmbWd1VFd1bHRqSlY5QU94RWNVLU95Tl9NWGw3cVhRZjVSUUJBWHREX2d1WmxKakRxdkY1a3BfZl83eUdKbTZ6dHR0Y3NQRzhrOFUtU3RnVFdVMDg4TkFQbnJQelhmY1JKOUtzX1RXU2NYWXowMkxMRWNsdlZn?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 03:40:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 30,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "senate race",
+        "texas politics"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W32"
+    },
+    {
+      "title": "Paxton vs. Talarico: Solutions for Texas Affordability - Daily Signal",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTUV2VlhnUDBaalFuclBJTE55RXk5VjZVRkVqU2NhbWRfcFNyb0F1U1VGRUYwbHRIZmhRRTlDdjR0ZzJwdmtXVkNZTVVCeDlrLWNfby1zbnVEZ0IzbG51RHJRSnJVZExBYnFxQjRUU1VjeFNaXzA2amFCSzJtZUFfWg?oc=5",
+      "pubDate": "Tue, 11 Aug 2026 15:35:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W32"
+    },
     {
       "title": "Ken Paxton tried to mock James Talarico’s Christianity. It immediately backfired. - LGBTQ Nation",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdklGdjk1Tk1PemlLYTFHSDcyMzJNYXpHZ0FLdDIwUjNQRVZLZmJhT203ZnpXaTR1VGVPV1dZUDdBVTVpNUYzSnlNSnJVRTQwdC1nWU9WQWtWRV81b0VNQnN2ODVpU2hkR2FZTnBoZW1kaXBjRFIxQjAyajV3Wk11OFJiV3E1UGM0bVprVnlWSmhDdnBlVUowZG9Nam9IUlZieGFqMlRJQjlGVDE3eEhEVDNNWEQyUQ?oc=5",
@@ -1720,47 +1754,6 @@
       },
       "candidate": "both",
       "weekKey": "2026-W31"
-    },
-    {
-      "title": "Paxton Pitches Family Tax Cuts While Hammering Talarico in Texas Senate Race - CPA Practice Advisor",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcTZnWk5oTmNJNmk3ZmtvbUFMeVhvNGZacllJSjhRa3dMcUVHcVJfWlJoVFEtdjlSa1N4WHdUUVlMcVhDV2RjS2RrSk5Qb3k5NFJ0S3RxNHdBNTVHMWpUZF9Jc0VuV2hoWENqSFkzcVdNSlItY1Buc3ExMlNyV3prMmZvM0dQbWRaQVBPckR5Sm9HdGdDMy1EemFtVjVVa2NsSFE4X1lsY0J2aGNqeEc3UUt2NFl1NXdMT3lqLVg5bWZiMHp4amZHVWpB?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 20:10:30 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.042,
-        "negative": 0.958,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W31"
-    },
-    {
-      "title": "Report: James Talarico Voted Using Parents' Address After Accusing Rival Ken Paxton of Voter Fraud - Latin Times",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ1VYZFJQUjJvQVZUT0tPdURWOGFnYnQ5TmpLNmtON3dXQ29VdGRROUotODM2WGt6bmU2ZlduZWR1ampBb04tVUZkMmxYUnMzaFpIXzI5V1NEZnBVRGROcHp6WFlpbExqbHFSNmpMWFVfVC1CY3ZTZURldklWd2FjNzBuNXRsLVdLM0pMNzdBRUV3M21jZm5aemhHRXZ1Z1M4QWtTSC04MEQtYUVua3RDYXpndkVacllMWVdJYnBFbTVxbWxiVmc?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 18:31:15 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.02,
-        "negative": 0.98,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W31"
     }
   ],
   "weekly": {
@@ -1789,8 +1782,8 @@
     "2026-W31": {
       "both": {
         "positive": 4,
-        "negative": 5,
-        "total": 9
+        "negative": 3,
+        "total": 7
       },
       "talarico": {
         "positive": 0,
