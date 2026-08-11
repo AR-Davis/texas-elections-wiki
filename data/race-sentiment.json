@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-08-11T12:10:40.578Z",
-  "newsFetchedAt": "2026-08-11T08:30:54.198Z",
+  "analyzedAt": "2026-08-11T13:56:06.462Z",
+  "newsFetchedAt": "2026-08-11T12:11:37.158Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Tim Scott slammed as 'idiotic' for saying James Talarico was running in Michigan - The Mirror US",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWUxWc2tFRzVmUnliYzNyWTdNUndkdV8xUUVGVTFZNElFRkxOOGw2MTRHOVJpQ0sza3JQalR3cWg2UF9zU2ZWQ2xza1pyaUt6WXkzMUVSd3dTUTNseG9VTm9DVl9yNXdXakVzVUppWDl4dTl2bGU1dkxpMG8zSFZFdFZhWdIBiAFBVV95cUxQeVNLLXJXSGk2cVdjUWREeDVPX0lWTWFCOWU0UmJ3WHkyRTg3S0xvTllQbXgyS3ZTRnE5SDlrRThhY2hFaUt2VVpkcE84ZXFYaXFYYU5zbzJ3dXFsNzZTTFEtbkxoNWg5d2lHN3Uxd1hYS3JQZ19CQ1gtY0ZVUW5fYW9VbW93c0Rz?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 21:45:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W32"
+    },
     {
       "title": "Ken Paxton Appeals for Campaign Funds as James Talarico Leads Texas Senate Race - asatunews.co.id",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZemRyWUd0ZkJKZmlfOE1nR3RMbEpBbm8yU3JrRXdnRkFuaFR1bHBfTXN6VnM4X0hPeVZFRFZRX2R4R2Q0NHFDUXBQdllRakFydGF1TUVXaVdkdnNZcEhjNnRFWkRRbENHMWs5eVktUQ?oc=5",
@@ -1747,24 +1762,6 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W31"
-    },
-    {
-      "title": "This Is What Jasmine Crockett Had to Say About James Talarico's Chances of Winning - townhall.com",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcVhGUlBUWlZrTGpiZXVIQ3F4V096bDRyaHFEMnFTVm52VFRsVHQ3QVZtaG9VTE1vWmNDOWFtdS1LS1ZEbm96NGZUbWgzUngybWNKWXVlY3pKQmlpcnVjeDVrOWpmV0FqdVQ5VmZTSkswSTBMdWtIX2h0T2NoZ2tvYmtnWlAwNGhXalFXaXNSVWlkdEhUbzFKNnlGU2Jaano3UWpmY3FkUkJuMndsWlRrREV4Rm1QTjVpY0t0ckFFeXRmUUI3eUJhWlQ4VWNMLUlKX2tGa0xqSQ?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 19:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.999,
-        "negative": 0.001,
-        "label": "positive"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W31"
     }
   ],
   "weekly": {
@@ -1797,9 +1794,9 @@
         "total": 9
       },
       "talarico": {
-        "positive": 1,
+        "positive": 0,
         "negative": 3,
-        "total": 4
+        "total": 3
       },
       "paxton": {
         "positive": 1,
