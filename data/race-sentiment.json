@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-08-12T04:22:51.635Z",
-  "newsFetchedAt": "2026-08-12T03:04:53.341Z",
+  "analyzedAt": "2026-08-12T05:57:45.101Z",
+  "newsFetchedAt": "2026-08-12T05:14:56.182Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Ken Paxton Begs - politizoom.com",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xZ3RtenQ2b0VyOE1KV2hacmtUSTdhekdFRlQwY25vS3V6NlNHVHFiSnlILXpQTDhuclUzanZHX3VFemJXSmNKMTY1OUdtYXFf?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 02:09:47 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W32"
+    },
     {
       "title": "Texas Senate 2026 Odds: The Model Verdict On Paxton Vs Talarico - oddsshopper.com",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOW5DcmJFOGFYaGdTV3BCVTByaEtSQVpkVXJrd180b1FFWlNFRW1HWWkwcXJyVFpPbW5IYWZRX25QVXhfRzB1Vko3WnNWNDdOeDVhM3BRX1IzVnNieXVWTUEyZTcydFRpdVpTazl6OEpnSnhKSHFQVDBWczJlVFFfOTFJMS05ZTRwN05JclZVdGtfN3lrR080?oc=5",
@@ -1711,24 +1726,6 @@
       },
       "candidate": "general",
       "weekKey": "2026-W32"
-    },
-    {
-      "title": "In Houston, It Was Ken Paxton Versus the Emo Baddies - texasmonthly.com",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4c1FjTTRjZ0U0akZpODVqMkJuMXlWblo1YnFhYURMZ2ZyLVpXYi1iVXBwTWw3LWk1ZndCSUZhd0s3WmFrRVZkYVgyWlA2NFZGSHluUWcxNjFlYjNtVVMzbnhFeEtzbzNBUzlOdXU0clFWWEx0?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 17:29:22 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.816,
-        "negative": 0.184,
-        "label": "positive"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W32"
     }
   ],
   "weekly": {
@@ -1739,9 +1736,9 @@
         "total": 3
       },
       "paxton": {
-        "positive": 3,
+        "positive": 2,
         "negative": 3,
-        "total": 6
+        "total": 5
       },
       "both": {
         "positive": 1,
