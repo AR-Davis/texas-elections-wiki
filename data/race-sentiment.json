@@ -1,9 +1,41 @@
 {
-  "analyzedAt": "2026-08-12T02:19:34.319Z",
-  "newsFetchedAt": "2026-08-12T00:08:11.031Z",
+  "analyzedAt": "2026-08-12T04:22:51.635Z",
+  "newsFetchedAt": "2026-08-12T03:04:53.341Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Texas Senate 2026 Odds: The Model Verdict On Paxton Vs Talarico - oddsshopper.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOW5DcmJFOGFYaGdTV3BCVTByaEtSQVpkVXJrd180b1FFWlNFRW1HWWkwcXJyVFpPbW5IYWZRX25QVXhfRzB1Vko3WnNWNDdOeDVhM3BRX1IzVnNieXVWTUEyZTcydFRpdVpTazl6OEpnSnhKSHFQVDBWczJlVFFfOTFJMS05ZTRwN05JclZVdGtfN3lrR080?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 01:29:14 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W32"
+    },
+    {
+      "title": "Ken Paxton Announces 18 Endorsements from Texas Republican Congressional Delegation - breitbart.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORjFEenA5Rm5IRjl3ajNHeDFna0t6YTlFclJIZEd6bUl6SGZDQ3hvZTh1NEtzLUF6RjRaZzIwN2lzdHBmYlBJMk05MV9SX2ZZWXVXbC1oUUJhblZicUhRSDhTSnUzQkxaLW5MMjExQ19fUkVqSG1jRGhVUkdwT2hCTWZ3OGt2b29VSlp6TmU5Z2FUdzE4QnlkbHVMX3FGdGNDOXhHYVpIRnFscFNfd3lNZmNyelh6WmJ6RjVjbzUtSklxQVhZNXFXbThNbXFabFnSAc8BQVVfeXFMTkYxRHpwOUZuSEY5d2ozR3gxZ2tLemE5RXJSSGRHem1JekhmQ0N4b2U4dTRLcy1BekY0WmcyMDdpc3RwZmJQSTJNOTFfUl9mWVl1V2wtaFFCYW5WYnFIUUg4U0p1M0JMWi1uTDIxMUNfX1JFakhtY0RoVVJHcE9oQk1mdzhrdm9vVUpaek5lOWdhVHcxOEJ5ZGx1TF9xRnRjQzl4R2FaSEZxbHBTX3d5TWZjcnpYelpiekY1Y281LUpJcUFYWTVxV204TW1xWmxZ?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 00:16:18 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas republican"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W32"
+    },
     {
       "title": "MARK DAVIS | Ignore The Polls Of Summer. What Lies Ahead In Paxton Vs. Talarico - Dallas Express",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcGlIQk54a1RoaGpHY0FKY0lEUjR2ZHBSa0JBczgxeG9fODQxM01LcFFuYXVtcl9Ma0s4NWtrRnREZUNsZWtGYkN6b1BKU1kwU2FULWRJa0otQ19YelhZbS1aTkFBb3B5RWNNZzFqV1IybGZ0a1lxTllHYTI1d3RDWUJiczBVN3k3azBBWVVWRjZnb01uZjJiQklVejRxY255QjVUalhVTU9ZVzJFNlE?oc=5",
@@ -1697,50 +1729,14 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W32"
-    },
-    {
-      "title": "James Talarico on Joe Rogan's red-state comments: Texas is better 'purple' - Austin American-Statesman",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVjhlZ1RXd2xJTWZONGM2bWVUWUJVODFCSGRnR1lCaXYyWWVpR2hsMV9Dc1VoWktROFp6V1duNGRCN01BZi0zVkVnZXJlX2F0Zi1mU05wRjd4VkFBdVlta1RLd3RGWmlfMWphQjhQTmhPLUFXNzZvNzhzaUFDUVdDZmtCRFlVY0gyQ1ZrM3l6TlhRalUwY2hVQmxZYTJaeVJKUkgtWU4xSQ?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 20:09:26 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.114,
-        "negative": 0.886,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W31"
-    },
-    {
-      "title": "Senate hopeful James Talarico to visit Abilene - Abilene Reporter-News",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVGpHNTVUMmRJMmpCWHQzRkJWOTZQTC1SanRGTml4NjQ2dkM5a2EyeGJISkVreGpGRFZsVEtIOWhrZzJvYWp2S012QlNyX0dPZ3hOdERsbHNpbDJYT2ViR0tTMEdrSHhmSkMwWFJ1aHQ4UzMySTlCOHpncEJ4clF6VE1RRG84Yl9OZnNTbkZ4NFVkbm16ZWNqVmVOMWpYU29OUGR5ZGZrTTB5YjlZNVFsdXA3cFAzMmtxSXJ3R0hKY0hqcUZRVDRoTC1WRlVaVnk0SUdZX1pqamQxQQ?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 09:09:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.988,
-        "negative": 0.012,
-        "label": "positive"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W32"
     }
   ],
   "weekly": {
     "2026-W32": {
       "talarico": {
-        "positive": 3,
+        "positive": 2,
         "negative": 1,
-        "total": 4
+        "total": 3
       },
       "paxton": {
         "positive": 3,
@@ -1763,11 +1759,6 @@
         "positive": 3,
         "negative": 1,
         "total": 4
-      },
-      "talarico": {
-        "positive": 0,
-        "negative": 1,
-        "total": 1
       }
     }
   }
