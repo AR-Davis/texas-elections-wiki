@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-12T11:03:36.003Z",
+  "fetchedAt": "2026-08-12T12:25:02.204Z",
   "count": 25,
   "feedsChecked": 8,
-  "itemsScanned": 99,
+  "itemsScanned": 100,
   "items": [
     {
       "title": "Texas Senate Nominee James Talarico Places Faith at Center of High-Stakes Race Against Ken Paxton - streamlinefeed.co.ke",
@@ -22,20 +22,6 @@
       "title": "NEW POLL: TEXAS SENATE RACE IS NOW A TOSS-UP (Paxton Vs Talarico) JUNE 2026 Declan Rice (EgkjtQHn2z) - Mshale",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03VmdMR1dZeDZMYmVqMkVLWFk5eDE2cE55ZWJJYzhxR21KelRYbmZ1d0lLdERSTFE5N0c2VURYRlJ4R2tsZjBIR0Q2VVNSV2VERDBXR2tDTkZxZDQ?oc=5",
       "pubDate": "Tue, 11 Aug 2026 03:59:54 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ]
-    },
-    {
-      "title": "Talarico Leads Paxton in Tight Texas Senate Race, Paxton Appeals for Support - asatunews.co.id",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mOHZLV3A0S3U1N2t4M0hTaGNIM0trYkhhQnF5Wkltd2tSbE9uV0VvUGRHZDNaZ0twdWhRZGZTRGY4QXZuWlJGT2xVVWhCYV92SzExUkxkZWtJbnBucndhTk8wQkJ2X1JUcWNMY29ZWnlvQm8?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 21:03:00 GMT",
       "feedSource": "google-news-race",
       "raceScore": 26,
       "matchedKeywords": [
@@ -75,7 +61,20 @@
       ]
     },
     {
-      "title": "Paxton's $448K Data Center Donations Amid Texas Senate Race - hoodline.com",
+      "title": "James Talarico leans into populist message in Pasadena, attacking Ken Paxton and ‘billionaire megadonors’ - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYVdHcEVRdnoxX2ppa2FWamhxSU1mNXVLYzZnbW1xYTNiVnJmdEdqT2FMdFpPWnM1Z2lMM0pHcTZNS0daRXNJZktXRF9qOG90Zk5yZ3BVZ015cGsweF9VbmJndERvenpEVW9HbjdZYkUtajFHVTJvQ2pWdlR3M3dYYjFiYVptUWNmMUFIVkJESmg4ZENzRDRHZU1TeWRRbHA2d2dIS1BkM0lMdkk5WElxRG5DZ2NyZ3VHZ2NrQWkwQVJyZ0JFc3J5WNIB0AFBVV95cUxNdUlTVXZCNmpUWHlfOW5sWEk2bEpRUVRLalBFV2t1WVFrbHRxUzMzMGZ6YTMtMnM2dEJsMlI3RzRfMkc5VmdTdzRjc1k0ckFGWUppVXZBWE5vVk1ja2hjRm1ucXhWU3RiSzJ4UVlvdDFSdDQySWplYVV2WW5adjhfU09CR3NzUVJqY2VWTjdPWVFtMzZzMUR0X0E4M3RXbmtPM0ZmektfQnVhRUdNRTZzX1p2cnJtMzU0ajBKSWVzYTEzMmZKR2kyUWE0VzE2VDJU?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 15:58:02 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ]
+    },
+    {
+      "title": "Paxton's $448K Data Center Donations Amid Texas Senate Race - Hoodline",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMHNsWEpaVWhiYzJzcWo2RV9nbjRUaXZYSnh5MUxqMHFEUkRsT0owQjR5WWo5b2EzZmFheUpDTTBLUFJBOTVLWGRfWmFfVXFHX0RQM2N6eW1iNjJsdVJqelpLUnlsUVVHbVpEa0R6VFNTVk01WjFrLUNJVF93ODV3bHJTdDVUbm5fUEFycllVcjhraUpoaFRGWmNJYy15NUF0QzZxbTR5QXU5OFE?oc=5",
       "pubDate": "Tue, 11 Aug 2026 21:04:54 GMT",
       "feedSource": "google-news-texas",
@@ -125,18 +124,6 @@
       ]
     },
     {
-      "title": "James Talarico leans into populist message in Pasadena, attacking Paxton and 'billionaire megadonors' - KERA News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYnFLZUJ3YWg0bjBNZEdQOWo1ZUFHVGxCNEM0YXJ2VkVpXzY2UWpXVU1WSWxQNXlxTEFBNFFGUC1vYWtZbTVxbnBJNkNIVHZnenFZNEhvVXJkZENtTVRfLXdLZDcwejlUMWEta1BGVGRYaFgxUTIwTHo0WGdYU2VxZm53by00Slk5NmdqS1poQVlEc3J3VDVxZkY2blBhUjg1?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 18:32:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton"
-      ]
-    },
-    {
       "title": "Kalshi Texas Senate Odds 2026: Paxton Vs. Talarico Verdict - OddsShopper",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWXI5RUI2dWE3ZWxBb3hSYnpTcHZzUmtnZmtoUzZwSEJGbm5NdGYySUw3NlBsdXRTeUsxWVR4UUNzRjJGM1lrLXN1bHJyb2xBaFozU2l3OUJWZV9WaHdhU2lQbHc4ZzZTOW9BWWVNTFczUDA2MzlYRHEzaWlZbnM5YUwwM0E0ZFVLbWk4ci1qYk8?oc=5",
       "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT",
@@ -158,17 +145,6 @@
         "paxton",
         "ken paxton",
         "texas republican"
-      ]
-    },
-    {
-      "title": "Ken Paxton Criticizes Opponent’s Christianity Before Texas Rally Heckler Fires Back: ‘You Cheated on Your Wife’ - The Nerd Stash",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONG4yQlZIVUFGS0laR1Ewck5KTl9zZ3BlWXVweU9BVjVpbjhSVC1ka2l5WVNzdW05YzcxZmhlMWFRSVhjLThkMTdRRm9ELWkycXRpazd1VU0zdVp5LVZQUldjcVpYU1dES25Cc1VWZTBYY1g1bm02bzQ0ZWdLX1R2ZFVkOTREU2Jxb0VTaHdfMklBVUtxc3pjbHVJUmkwTzRzZ3Q5LTFMbjQ3SVBsdlAyTENYQXpuTmJwSHRXVlJRM2xENUdxbVZxZzhNdFN3Zw?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 08:15:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
       ]
     },
     {
@@ -218,7 +194,7 @@
     {
       "title": "Inspired By AOC, James Talarico Also Elects To Have His Eggs Frozen - babylonbee.com",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeFZFN0pPVEw4OHJydkhyaEQxRER0cVYtQnZzWnFCZFhNTURWR1ZlWnIyeXpyQWZadXljVXYwc2hUSFV3NFdid3dDTjMwWjhGY1VoeTNSY3E0VEI1Xy1rdm1BRlJsWWhmaXY4a184NWlEanZiaVRpR1YxX0lGYW83bEJJZmhvMWFoRzJNTXhMYVBldlVTYkl2bmFB?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 08:05:30 GMT",
+      "pubDate": "Wed, 12 Aug 2026 11:05:31 GMT",
       "feedSource": "google-news-race",
       "raceScore": 11,
       "matchedKeywords": [
@@ -238,7 +214,7 @@
       ]
     },
     {
-      "title": "James Talarico reveals economic policy platform in Port Arthur - Beaumont Enterprise",
+      "title": "James Talarico reveals economic policy platform in Port Arthur - beaumontenterprise.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNy1zUlM1LVRPSXg3MmlmckhpZ0piQVlaajB5M19LWnBuam5IUVIxSjNnNlRlSHBqM2R0anRzVWpyYVJWSjJOdDYtVTFMSF93VXJ6QnVEOV83eVNiZkJTcTEzcDZfUnExMC1taXFwdG9DMHpydHFYVTc1ZzdoYUVhelpKV0JxSnpIWlhPZkYzVGc1N1lJTTlYODdFVQ?oc=5",
       "pubDate": "Tue, 11 Aug 2026 20:34:39 GMT",
       "feedSource": "google-news-race",
@@ -246,6 +222,17 @@
       "matchedKeywords": [
         "talarico",
         "james talarico"
+      ]
+    },
+    {
+      "title": "MARK DAVIS | Ignore The Polls Of Summer. What Lies Ahead In Paxton Vs. Talarico - Dallas Express",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcGlIQk54a1RoaGpHY0FKY0lEUjR2ZHBSa0JBczgxeG9fODQxM01LcFFuYXVtcl9Ma0s4NWtrRnREZUNsZWtGYkN6b1BKU1kwU2FULWRJa0otQ19YelhZbS1aTkFBb3B5RWNNZzFqV1IybGZ0a1lxTllHYTI1d3RDWUJiczBVN3k3azBBWVVWRjZnb01uZjJiQklVejRxY255QjVUalhVTU9ZVzJFNlE?oc=5",
+      "pubDate": "Tue, 11 Aug 2026 19:47:13 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
       ]
     },
     {
@@ -301,6 +288,17 @@
       "matchedKeywords": [
         "talarico",
         "paxton"
+      ]
+    },
+    {
+      "title": "Here are the Texas Republicans in Congress and where they stand on Paxton - Fort Worth Star-Telegram",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNGdsU2cxVGZHbmJrRUw3cEFkU3NlOE5meFRtQXMzLVlFUTd1QWNIb2NUa1RSZkRuYWlkQjhvWUpmdlhUa2ZFUlVnaElqejFKUkhzWkpQTUlTSjNfSi16RnJCcG13SElQMldsQVZFSGMzRUs5MUxOUHpQb1lyRGRjU2RLZjJaNWZlTXk3NG5lU19Yc2dxSGfSAZYBQVVfeXFMUDA1RVBLWXNHUDVPc1RzLV9POEFsaGJJMnlTd3d2S0wxdHZmS3BfUUpnQXYyM1Z0VXd0UDR6anJVM3RNSGdYQlpRWmQ1bkFFRU92bGtLRmdRRjVtOVg5RzVzUkpKeFNJSEkzZXJwNFJXeWpLWTZ4NEVkcHpIdXY1TTZpSm1BRE5YamdJVDNNM3hHNXd6dDNR?oc=5",
+      "pubDate": "Tue, 11 Aug 2026 12:00:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 10,
+      "matchedKeywords": [
+        "paxton",
+        "texas republican"
       ]
     }
   ]
