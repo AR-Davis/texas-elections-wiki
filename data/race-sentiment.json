@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-08-12T11:51:01.074Z",
-  "newsFetchedAt": "2026-08-12T11:03:36.003Z",
+  "analyzedAt": "2026-08-12T13:19:45.015Z",
+  "newsFetchedAt": "2026-08-12T12:25:02.204Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Here are the Texas Republicans in Congress and where they stand on Paxton - Fort Worth Star-Telegram",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNGdsU2cxVGZHbmJrRUw3cEFkU3NlOE5meFRtQXMzLVlFUTd1QWNIb2NUa1RSZkRuYWlkQjhvWUpmdlhUa2ZFUlVnaElqejFKUkhzWkpQTUlTSjNfSi16RnJCcG13SElQMldsQVZFSGMzRUs5MUxOUHpQb1lyRGRjU2RLZjJaNWZlTXk3NG5lU19Yc2dxSGfSAZYBQVVfeXFMUDA1RVBLWXNHUDVPc1RzLV9POEFsaGJJMnlTd3d2S0wxdHZmS3BfUUpnQXYyM1Z0VXd0UDR6anJVM3RNSGdYQlpRWmQ1bkFFRU92bGtLRmdRRjVtOVg5RzVzUkpKeFNJSEkzZXJwNFJXeWpLWTZ4NEVkcHpIdXY1TTZpSm1BRE5YamdJVDNNM3hHNXd6dDNR?oc=5",
+      "pubDate": "Tue, 11 Aug 2026 12:00:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 10,
+      "matchedKeywords": [
+        "paxton",
+        "texas republican"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W32"
+    },
     {
       "title": "Ken Paxton - Encyclopedia Britannica",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mbk0zSnlhSEFWLVY1Sng0d0hNQTJmZGt2eEJFZUo3cVpKWE9RNlVSWHplU09Zb1FWNHRldThhZUNVUXRWN1J4MzNjeEpmc1VFRVNlRTJra2ppc0U?oc=5",
@@ -1678,27 +1693,6 @@
       },
       "candidate": "general",
       "weekKey": "2026-W32"
-    },
-    {
-      "title": "New polls show Talarico leads Paxton in Texas Senate race - WZTV",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVUd2VjUzck51UWJoT09naG9PNThubnBNWmFmSnh5Z2R2cFVmSmE4MlZPN25TQ2JOTV9LLWVTdkZvdGFkSHZYSUVYUWQyWDhlT2N6RXp5Vm02c0FySTU2Q1V4UzBzbnAxeXk2ZHVhZXZtY2RUQU5IaDZuN3VYUnNjXzdLa0YyNkcxNHJkd2hjYUY5SXNJdlNaNWhIZ0lUMm1qYXEtNUpLd1h5WXR5aFBuUTZZcW1Ydw?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 10:58:12 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.949,
-        "negative": 0.051,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W31"
     }
   ],
   "weekly": {
@@ -1726,9 +1720,9 @@
     },
     "2026-W31": {
       "both": {
-        "positive": 3,
+        "positive": 2,
         "negative": 1,
-        "total": 4
+        "total": 3
       }
     }
   }
