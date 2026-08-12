@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-08-12T21:21:37.638Z",
-  "newsFetchedAt": "2026-08-12T16:27:05.825Z",
+  "analyzedAt": "2026-08-12T22:11:40.345Z",
+  "newsFetchedAt": "2026-08-12T21:22:02.557Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Ken Paxton Confronted About ‘Why’ He Allegedly Cheated on His Wife - People.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY2U4QXFlR1gwMDN5RzV3blg5clFhbUFMdzM0SWRTRURNTVlqekpwQzdYSUJWdFB5aFFENHJUcnRuM01KVHBrNGhDUkhjUkpFSVdaVHNjOTFnd3dsWHVvR2hOdGNoOE9TUG1WcDd4ay1nN3pOV0xaRjhhS1h6WGM3bllXTHotRGdLZExBQWN2WUJoaDNjUF8zTUc1Vzlqbk01Y3RwakJ0RFNvOEU5NngteUhqMHlfQlpQ?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 21:05:51 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W32"
+    },
     {
       "title": "Paxton, Talarico split on tech agenda in Texas US Senate race - El Paso Times",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOGlZcUhQeFhwNjVGSW9vVmFUR1ozc1RwTmNpY2Q0Rmx6ZlM4WlBIallHcTRBMTNtUEs4eXQ3ZGt1T0ZIeHFfVlVnV1lLc29fbEM1N3VnU1RfNWVJUnMxamZ0cGFjQ29lMlpEcjBPSEhpM1pVX3NpMkoxNGkyOFJHM0ZpWHdxUU9JWjQ2VVp1RE95WENwYllsM2ZlWUQzMnJWWEVKMUs4T29lZlAzaF9md1ZMMy1SemQzQ2Z4M3lIOTZ6V1pmMmw3aEZuSTNGV0FqVFczN1NWcFd0aEZCNmRtaFBmWjdiRGJaUU1N?oc=5",
@@ -1663,27 +1678,6 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W32"
-    },
-    {
-      "title": "Ken Paxton touts economic plan, bashes Senate race rival James Talarico at Houston rally - KERA News",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa1VFTW90NTg2OW1CdkJRNUdCMWdDUEtSVEk2amJ2V2FzMzBfR0pfUXcxcnZzR3d4ckQyQkJEUU5Sa21acUtERGxyRDFwQW5DV0FtQlRlMmwyS2ljN2t1NS1FTUpydlRyWVh2aEdtd2wxeUVSRGR3aVY5YWtmUC1kRjJYMVRmanRUR1RyQ2pGamtqYzFzb1h4Y2xWazRQVURtY0g2U0VSbldsWUE0d3lxWkloMDE1VUtETFhqOTVQWlc?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 14:15:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.063,
-        "negative": 0.937,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W32"
     }
   ],
   "weekly": {
@@ -1700,8 +1694,8 @@
       },
       "both": {
         "positive": 0,
-        "negative": 8,
-        "total": 8
+        "negative": 7,
+        "total": 7
       },
       "general": {
         "positive": 0,
