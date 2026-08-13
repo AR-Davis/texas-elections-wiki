@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-13T19:09:02.914Z",
-  "count": 23,
+  "fetchedAt": "2026-08-13T20:05:27.489Z",
+  "count": 24,
   "feedsChecked": 8,
-  "itemsScanned": 105,
+  "itemsScanned": 99,
   "items": [
     {
-      "title": "Who leads 2026 Texas Senate race? Latest Paxton vs. Talarico polls - fox7austin.com",
+      "title": "Who leads 2026 Texas Senate race? Latest Paxton vs. Talarico polls - FOX 7 Austin",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbXBvVGhaS1Qwa05CbjZOcnZqUDcycDVaM1YtZXRkZDhsQXRiZ2llejY5dzEwT09QM2NwUVAyT2pEbmthMWROV1gxZ2VsejJWVFhuRmJRTnFxWER2QjVJNGxobVVlbGVJalJQd2MtQ2RBNld0cDlHQUNEOEl4cU5EUA?oc=5",
       "pubDate": "Thu, 13 Aug 2026 17:22:54 GMT",
       "feedSource": "google-news-race",
@@ -33,7 +33,21 @@
       ]
     },
     {
-      "title": "Paxton, Talarico Deadlocked in Texas Senate Race - Newsmax",
+      "title": "Who backs Paxton, Talarico in Texas Senate race? See endorsement list - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSWpqbjdaY0c2UGU0el91ckJtakVNRERCdlFqbXZZZjkxejNibWxsdTlveWhHdWVib3RTQllfejhpdE1rMmdJWmtEd1JHUXVERDUxM3BVLVJGazBUQTNsNE5qUnNOOE04NVdBVTFZdmRXQWo4ZEwyZWlLVTVDdHhNRnpTbktiSnlzTE41dl9lUWIyRURJTHM1V21FYndoTzVSUklkWVUyd2tfU2xRNGRKYnRldDg1R2JfVTdTMzg3Q1EwOUtvLUZPWkd6d1RTWXNKajZpbFZn?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 19:55:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ]
+    },
+    {
+      "title": "Paxton, Talarico Deadlocked in Texas Senate Race - newsmax.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMTRla1k0dFEzdzZLMVlCaWg0cGZIYzRpd2xsQUJGUmlNM3BpN2FMZ3BEc1dkamVpVnlFakxLa0VKUF9JTFpIbkt6X1ZfN05ic0hHeEZIb19NS3JJLVRhc2U3aVVna3Y3RzBXWWF6c0syTEpLWWgxbm9jMUt0eU94dDF0MmM?oc=5",
       "pubDate": "Thu, 13 Aug 2026 14:31:47 GMT",
       "feedSource": "google-news-race",
@@ -47,7 +61,7 @@
       ]
     },
     {
-      "title": "NEW POLL: TEXAS SENATE RACE IS NOW A TOSS-UP (Paxton Vs Talarico) JUNE 2026 Declan Rice (EgkjtQHn2z) - Mshale",
+      "title": "NEW POLL: TEXAS SENATE RACE IS NOW A TOSS-UP (Paxton Vs Talarico) JUNE 2026 Declan Rice (EgkjtQHn2z) - mshale.com",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03VmdMR1dZeDZMYmVqMkVLWFk5eDE2cE55ZWJJYzhxR21KelRYbmZ1d0lLdERSTFE5N0c2VURYRlJ4R2tsZjBIR0Q2VVNSV2VERDBXR2tDTkZxZDQ?oc=5",
       "pubDate": "Tue, 11 Aug 2026 03:59:54 GMT",
       "feedSource": "google-news-race",
@@ -88,19 +102,6 @@
       ]
     },
     {
-      "title": "James Talarico Accused Ken Paxton of Voter Fraud. His Own Voter Registration Is Raising Questions. - The Fulcrum",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SY2R1cXhOVWtqMGc2eHhOUWVTcmlBeEtuSjNfemVuSXJyN1h2TXFhRGZURjgybXFvUGNYekIyUkRwMS1lc0tGaE02YmJGaWdsYTJ3WTVGZkh4XzhwaDE2QnBleDZnMFU?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 04:24:05 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ]
-    },
-    {
       "title": "James Talarico leans into populist message in Pasadena, attacking Ken Paxton and 'billionaire megadonors' - KTEP 88.5 FM",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY0FaNmNOY3hqWEtsdEtBbndHMUxwVmt6dl9sMlRfdzNnQktDdWUtV2pScDcyTllMc3lwY01UMXZqbXFXaFV0cU0tdkNBa1hWRER6WWFmV25uOTUyTVdOVFFQMjNNVnpaMmdnWjJFdnZ1SUUtRUFMSEtXWVNlcUN4ZDQ3dXZQdTI1amZaTGJhUF9qRUdmNmwwZE1nVERxQ0JhdmY2aFJyelkzOGdYVloyd3plTDluXzdkeTV2S2E0MWF0dGxGbmJBTGNrRGFtOWM?oc=5",
       "pubDate": "Mon, 10 Aug 2026 23:06:00 GMT",
@@ -127,7 +128,7 @@
       ]
     },
     {
-      "title": "Paxton's $448K Data Center Donations Amid Texas Senate Race - Hoodline",
+      "title": "Paxton's $448K Data Center Donations Amid Texas Senate Race - hoodline.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMHNsWEpaVWhiYzJzcWo2RV9nbjRUaXZYSnh5MUxqMHFEUkRsT0owQjR5WWo5b2EzZmFheUpDTTBLUFJBOTVLWGRfWmFfVXFHX0RQM2N6eW1iNjJsdVJqelpLUnlsUVVHbVpEa0R6VFNTVk01WjFrLUNJVF93ODV3bHJTdDVUbm5fUEFycllVcjhraUpoaFRGWmNJYy15NUF0QzZxbTR5QXU5OFE?oc=5",
       "pubDate": "Tue, 11 Aug 2026 21:04:54 GMT",
       "feedSource": "google-news-texas",
@@ -153,7 +154,7 @@
       ]
     },
     {
-      "title": "Ken Paxton to Newsmax: No Way Texas Can Elect Talarico Once He's Exposed - Newsmax",
+      "title": "Ken Paxton to Newsmax: No Way Texas Can Elect Talarico Once He's Exposed - newsmax.com",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUGNxNXQtMUlKWTFxX0R5ZTRzbEszWWxUMUVDQ19lWTZUVkh1ZzluNXJMWmtjV2xoR094ZVBkY25GMXdOcDdKT2I2UlJtRS1yN0tlT0lOd2lPanhwdmZYazh2cW1ydnJwc2xMdS1KSzhSYzh0RmhYeElWYXdaUDBtY2kzWmdhM2FVWWlBb0VEemdqb00?oc=5",
       "pubDate": "Thu, 13 Aug 2026 15:25:55 GMT",
       "feedSource": "google-news-race",
@@ -162,18 +163,6 @@
         "talarico",
         "paxton",
         "ken paxton"
-      ]
-    },
-    {
-      "title": "Paxton, Talarico locked in dead heat for Texas Senate: Poll - CW39 Houston",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVG9qNkMwa1F1Nm11eEhfY3J6Rmtxa1QwbHI2SnVfSWhZY2gtVFFfdXJyQlpTbzdzT1liRjQtcW9pZXJUcTRxdGJSdTJ3clp5NUJWQW1RVkRRZXBBM0s0NnJkdmpwYnhWeHViR3lNd0dNRXh3QUhqbEVTVkQxNjE2LWdxXzA1NU9xdWFledIBkgFBVV95cUxPd3lHakRfX2FfbWg3YmEyRVM5R3AwbjdQYWNCMVUwT2VpTWdQVzBpMjdFdGg2NTNKRTAzTkdjckJKYVowTG5EZUFhX0FJUDlCT1otUHFiRy0xWEJpN3hIdG1aOVNLWTk1aUV5WHRzNW56SnZ0aHpCWnFtS1lVSC15WDhoQ3EzRGppUDRvWFZjT01Hdw?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 11:38:04 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate"
       ]
     },
     {
@@ -189,6 +178,18 @@
       ]
     },
     {
+      "title": "Poll finds Texas Senate race tied as Republicans lead race for governor - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOE9vWEN5ZVpKemE2SEtORDdpbzhBR0E0Ui1iLWFrQjZyM3l4X29LYlBNNXJ1VlM3VjFKZWU0a3RlNXl4LThHbmxIb1FCYU96bGdqWEhTVzRvMDFhZUFJcFlXcXJ2MEI5T1E2enpweWVJdkR4OHJtX3lDalBpbjBBTXU0eV9Gbk4xNmFtWm53N1otUQ?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 14:54:59 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ]
+    },
+    {
       "title": "Poll finds Texas Senate race tied as Republicans lead race for governor - USA Today",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOT3h0Z082Z0poSEtqaThWRmw0UGZjSHlfRlFWdnAzbkZmMjdpQ0hSb0JzNkRrRVlsVFhYNzNZWHBkSC1lZjhnX3A3YUZDS0Q3emdUTXhWc2xNOTlodkNsbTVQU3ozOVp2NVFzVWk5ckg4OVlVSnRfRjQ4SHJhdjB1VUxGbnZKdkhfVU9NeG9SN09CUG1QN0Y5Sm1Mb0ZOWGt0em9IbjVab0wxRzhBbmZVUXB6aVlfRkNRWk9YVU5KWS1JZ0Qtc2NiVEFFckVoZw?oc=5",
       "pubDate": "Thu, 13 Aug 2026 14:54:00 GMT",
@@ -198,6 +199,18 @@
         "texas senate",
         "senate race",
         "texas senate race"
+      ]
+    },
+    {
+      "title": "Paxton, Talarico locked in dead heat for Texas Senate: Poll - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRngyZ050UWpzQ2NPUEVodmFXaGxmSFBkdWh1LUVkUXk2dURaazF4U0NpTTJtc3dNWFRGeFE1cjBfdDBIekUycWRreXpCWi1KeXotRDBBOHhiQzhOcGNSSkVpQUJLNGdkR2drbnFTTXFoN2o0MEFna2dOUmlHMEtaV09UYVBFX2fSAYwBQVVfeXFMT1ZwSS1DR2ZNUV93c3h1SElJa2pDZlBLQlJLc0RERUp0dFY1aTZEQ1hhQzdJQmJNSGhGdUZtcERpcmZJX0QtNWFEbi1jaU1JVWtlYnAzUC0tX0ZLd3kzX1JZd2Jpb19HNElGbWZzbmN5MTBjMWtDdHcxMVJsTGN5Umd4cUEtNDk5Q3JCS0c?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 10:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate"
       ]
     },
     {
@@ -237,7 +250,7 @@
       ]
     },
     {
-      "title": "KHOU 11 speaks one-on-one with Texas Democratic U.S. Senate candidate James Talarico - khou.com",
+      "title": "KHOU 11 speaks one-on-one with Texas Democratic U.S. Senate candidate James Talarico - KHOU",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQejJQdTRiQkRDTUd6SFdZZnRSdmF6R0MzaFhGRmJ5MWhaZndqMERLYVphWUNlMU1raE5WZjlNTXJYczQ2TFhUdDc5Q0JBcHdsd3NEbjlibEx1Qnd4VkFxNkNiUjNFYlBQNUdtMlBTUHdTSXBqdHJSUks4YU1nbzhEeXNjN0l4dmhhZHhRNGdERXl5aWR4Q0o0T0lKR0dSNGEtS3dYWVJxSVRfaENMZUJ6OHowcFZwN1FpYm5YX1lidFA2T2ZQaWJoN1ZPTUJtMUd3OWRGLW5aTEVEdw?oc=5",
       "pubDate": "Wed, 12 Aug 2026 22:47:00 GMT",
       "feedSource": "google-news-race",
