@@ -1,9 +1,25 @@
 {
-  "analyzedAt": "2026-08-13T09:41:42.546Z",
-  "newsFetchedAt": "2026-08-13T08:38:36.723Z",
+  "analyzedAt": "2026-08-13T11:02:53.135Z",
+  "newsFetchedAt": "2026-08-13T10:13:23.228Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Texas 2026 Poll: Paxton and Talarico Deadlocked in U.S. Senate Race; Abbott Leads Hinojosa by Four Points - - Emerson Polling",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SSEdQaXEzbGx2THpYQmg2TGNZQXJKMndoWUxRZjVKZUNfVW4xdlVKUHQ1a0N2bWJMTjhld1V0UHBqMm9sQWZpcGtxeDVBazM2VVFVV3M5cHF6dXUwdkVnd04xb0xzNFZ3WGg3cXJJMHd1QnVQLS1sNWN3?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 10:08:08 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W33"
+    },
     {
       "title": "GOP Texas Senate Nominee Ken Paxton Refuses To Answer Blunt Town Hall Question: ‘Why Did You Cheat On... - upolitics.com",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWllzX2FXQnc5OWthSzd2QmVzOXdGWm5NM2loVjVoai1hZXQ5SzFsNFRabXV3dEhFQ3RQcVNtSU0yQ1hyZVBsQl91aE5nMUxJMER5ZkxkUHFXLWd2WHUzeW1pTndCQ0kzV2JybEVwMzREVzFQMHlvMmtqS1NSOV9TUkJmYmdMMkItN3I4cjk5ZnZ4ZEJLVXpqUEY0aFBoUTN4dlFPdGstbENvWEFfektRQm5KNHVlczU0NlJlOUYzS0pGUlJrcEd5bVA1SmpUd05udUtaNnBvVC1qQdIB2gFBVV95cUxNWllzX2FXQnc5OWthSzd2QmVzOXdGWm5NM2loVjVoai1hZXQ5SzFsNFRabXV3dEhFQ3RQcVNtSU0yQ1hyZVBsQl91aE5nMUxJMER5ZkxkUHFXLWd2WHUzeW1pTndCQ0kzV2JybEVwMzREVzFQMHlvMmtqS1NSOV9TUkJmYmdMMkItN3I4cjk5ZnZ4ZEJLVXpqUEY0aFBoUTN4dlFPdGstbENvWEFfektRQm5KNHVlczU0NlJlOUYzS0pGUlJrcEd5bVA1SmpUd05udUtaNnBvVC1qQQ?oc=5",
@@ -1638,24 +1654,6 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W32"
-    },
-    {
-      "title": "2 U.S. Senate events in 2 days in DFW: Paxton, Talarico rallies compared - Fort Worth Star-Telegram",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcFZkU0d5X091bkhmeTMweVZLY1pHOWkxZlJIOUt4aXk2T2RpNW8yRUkxcnFkUHplSXJmeVRwemlZcmN5Rkp6VDRuQnBHMTNfQmlKZGpDTl9VMlVrdlozM2tiYjRleURUUzJRajhRa1dRTHl1MldiNlpfVFlWWXBZODdWdEw3T01JSlVTUmRDc2VweDBoc2fSAZYBQVVfeXFMT2VMZGdrSEpWSDRvWEVpamI4NEhwV3FkU0tmamdmTGp5ZF9QRkYzMnBKQ3BNZ1hRUDRGVHRrSXZDa09BcjQwOGthQVpBT1JzR2pUQWVpQmJQbFhLY1BEV0VUQVlyeTB0ZGlDMDUwbTJHM0VxQ1lMeDZYdkU1N3RRUDBia1lRRmZxTm9RYkdpenRQQ0YyR1VR?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 10:00:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.07,
-        "negative": 0.93,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W32"
     }
   ],
   "weekly": {
@@ -1672,8 +1670,8 @@
       },
       "both": {
         "positive": 0,
-        "negative": 5,
-        "total": 5
+        "negative": 4,
+        "total": 4
       },
       "general": {
         "positive": 0,
