@@ -1,9 +1,75 @@
 {
-  "analyzedAt": "2026-08-13T14:38:21.614Z",
-  "newsFetchedAt": "2026-08-13T13:59:17.197Z",
+  "analyzedAt": "2026-08-13T16:01:50.970Z",
+  "newsFetchedAt": "2026-08-13T15:08:03.055Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 4,
   "stories": [
+    {
+      "title": "Paxton, Talarico Deadlocked in Texas Senate Race - Newsmax",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMTRla1k0dFEzdzZLMVlCaWg0cGZIYzRpd2xsQUJGUmlNM3BpN2FMZ3BEc1dkamVpVnlFakxLa0VKUF9JTFpIbkt6X1ZfN05ic0hHeEZIb19NS3JJLVRhc2U3aVVna3Y3RzBXWWF6c0syTEpLWWgxbm9jMUt0eU94dDF0MmM?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 14:31:47 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W33"
+    },
+    {
+      "title": "Poll finds Texas Senate race tied as Republicans lead race for governor - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOT3h0Z082Z0poSEtqaThWRmw0UGZjSHlfRlFWdnAzbkZmMjdpQ0hSb0JzNkRrRVlsVFhYNzNZWHBkSC1lZjhnX3A3YUZDS0Q3emdUTXhWc2xNOTlodkNsbTVQU3ozOVp2NVFzVWk5ckg4OVlVSnRfRjQ4SHJhdjB1VUxGbnZKdkhfVU9NeG9SN09CUG1QN0Y5Sm1Mb0ZOWGt0em9IbjVab0wxRzhBbmZVUXB6aVlfRkNRWk9YVU5KWS1JZ0Qtc2NiVEFFckVoZw?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 14:54:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "general",
+      "weekKey": "2026-W33"
+    },
+    {
+      "title": "Talarico, Paxton gain endorsements in Texas US Senate race - El Paso Times",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONVdZZGEzYUY0TnM3N1Nwakh4dzlNbnBsb2hBRGNhUlNIRU02NGF3MUJGVjFNMmJRRl90WktuNlNieC1VNkxhbzhZdUVETUo1aGVHZ3RCdHRlRmc1VUNNNWNITjVJdjF6R09QVWpqMmYtNVhleTlnQWVwQV9Pdms4ZWJFWFhDdzhtWTFMZWliYTVILVlKUTNFSVJucFFYUUF3SWNDTWxSUmtvN2VTS244Q1FHdURXaXV2c3pWY1RyYXJzQjdSNGdRb1Y3aGZrVWFJanlFam8wcWc2Wjd0VjhpMHBpb29TbmFZbDhTVWgtZTFadlU?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 14:43:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W33"
+    },
+    {
+      "title": "Sen. Cornyn Joins Texas Senate Democrat Nominee Talarico, Locals in Opposition to Trump’s Big Bend Border Projects - breitbart.com",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQN21UQ3pJMWRocmx5bEh6Q1BWWUxDXzVLN2ZFQ2JaWVlhR0s4Z05mY3o2YUFsM3BJc0NPWWJkZW5HVDhLTzlsZ2ZNRDN1dGlNS2lYZHhmWHluWllxaWItc1RtT082amszMUstbndjNjM0VEFibjFhYUs5NzRWU1JTeW9LRkIxdkxQZmo3dU1hSVFWOTRScm10eXhYeURnS0s3VVg0SEk2ekxRck80ejhtR0xmZXBJSUlxNG5mNjNvSDk0SXZub1h5bDNJdnQwZGhhWDJ0V0ZkWkFiUkd1X1R0UUl4cWIwUHdFUFQ0LdIB8gFBVV95cUxPQ3lKSXhNYU83bk91WVl4aVktWVdrazZ3NWtpaEhPaHJuQ040ajZKSXYtS25HYWxHTWhESjJfM2tlUW1jdk1kdWtyeml6d0FWMjA0U0oyeWtraWpIUnhnc19WZ1ZWVzVwRDJxYktJRHVqRWJCVlBvdmhMYldxbFZINS15UkhtT0k2d3c0NFdvX3pjWlU5X08yOFlCOTEyMFlIclBhTmh2R1RnbDVKaGljVTVoZy0yWjlXMldJbTA5NTFMNnhhc3lsSVN0VF90MVh0dVdsc3BaQ0s1LXlyeEU5TkJoYzV3Sk5fQ3ZQMFdYYmEyQQ?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 14:08:54 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate",
+        "cornyn"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W33"
+    },
     {
       "title": "James Talarico Accused Ken Paxton of Voter Fraud. His Own Voter Registration Is Raising Questions. - The Fulcrum",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SY2R1cXhOVWtqMGc2eHhOUWVTcmlBeEtuSjNfemVuSXJyN1h2TXFhRGZURjgybXFvUGNYekIyUkRwMS1lc0tGaE02YmJGaWdsYTJ3WTVGZkh4XzhwaDE2QnBleDZnMFU?oc=5",
@@ -1559,96 +1625,14 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W32"
-    },
-    {
-      "title": "James Talarico Refuses Questions After Report Finds He Voted Five Times Using Parents’ Address - breitbart.com",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNU0pBS2owSUNNTEI0WXV1UFFSWmFTamFJLVJhY25qeG1GVk9MN2FlNVNjbnlzT0xIc0Y3bGhVYjh0VlFjd1NmRE5uSHlqU2lPQ2FTQUFvNTc0c1RXWHBMZ0NsRWpId01PZWJpTk5jRzE3SklfTy1nVXJ3UGk5NkdsWEVqM1MybGZ4TW5JVU9LYlFjSWx0OHdjeFRVaHg5Yy1qY0RCVHFKZEtwTUJDX25ZbEd5d1pld1ZMQmJjdlFRUXpsNWpaUjZPUkp3VVVVREFtMzAySGJGSdIB3AFBVV95cUxPQy1va2RMM3J4alNjQjhFTVlsemY3UDVPQnJBSEZKV0lWclA4TDZSYzl6SEhLVV8xZXpKRVpsZGFkRWZKLWMtYVlCSHJMX203TElhMmxCZ0RPNHV3QmJsSmFrcHhzNlYxZXhLZWl1dlhtYUgwSkJpREpaMHV1dUVJWXZYVTVMS3R3a2gxVWlFbEhlUGZrdXE4eEp0OEhKdEl1UVBRWEZJRl9RVm5VVkV1SnlpYmFMZjZpTzU5N3k0Q1IwWlZjSVJMQ1dlRWdOMF9rMEQ1QUJEcGVhWFRI?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 15:09:20 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.003,
-        "negative": 0.997,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "‘This is a binary choice’: Why a Re­pub­lican who voted to impeach Ken Paxton is now sup­porting his U.S. Senate bid - Spectrum News",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN3hDckdjX2NIS3A3RnVoMWo0ZjNrUFlfTmlqdzNpei1uVkxDZ0o1dXVCc3c4dGQxcXd3WDZrNjRxamdfYm5ISmhvMjJRSzJTVkdiSkZzN2ZVMEtVc0JxTUpOOGYycDFFWW1ZY0pkUF96TEppT1VxVkNOYU9XdjdscnlIWVVkaWNCTU41QUc3TGMxVVNkMHAwSi1Gc2RaUkZVRnY3Q1VaNWVRVmFVRmNjNkcteWRjVGlCWDlEYQ?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 14:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.006,
-        "negative": 0.994,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "2 U.S. Senate events in 2 days in DFW: Paxton, Talarico rallies compared - Fort Worth Star-Telegram",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZUxkZ2tISlZING9YRWlqYjg0SHBXcWRTS2ZqZ2ZManlkX1BGRjMycEpDcE1nWFFQNEZUdGtJdkNrT0FyNDA4a2FBWkFPUnNHalRBZWlCYlBsWEtjUERXRVRBWXJ5MHRkaUMwNTBtMkczRXFDWUx4Nlh2RTU3dFFQMGJrWVFGZnFOb1FiR2l6dFBDRjJHVVHSAZYBQVVfeXFMT2VMZGdrSEpWSDRvWEVpamI4NEhwV3FkU0tmamdmTGp5ZF9QRkYzMnBKQ3BNZ1hRUDRGVHRrSXZDa09BcjQwOGthQVpBT1JzR2pUQWVpQmJQbFhLY1BEV0VUQVlyeTB0ZGlDMDUwbTJHM0VxQ1lMeDZYdkU1N3RRUDBia1lRRmZxTm9RYkdpenRQQ0YyR1VR?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 10:00:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.07,
-        "negative": 0.93,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "'Fake' moderate Talarico's Texas surge tests Paxton in fight to hold crucial GOP Senate seat - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUm01MnpVRUZ2TGpfWk9Uc0xJUEpTZE9iWU5pcW93ckZNUDIwOUl4SXpWemJFekNlZEdaTjRJOUVNbE5XUllYSlRWZWpoNGZBRWV2SF9xYWMwODgtOXZ0QUpVbTRUTjA4QU5iZGNPLXVXWkI1NWs1SFBtQlpCSzkxZnZwa2w3am1GMXcwcmlfbncwQi04c1Y4UkJjMC1KUmR5elFoMGY0YVhCZlk5dTVlOVZ2RTFJd9IBuwFBVV95cUxOTFc0akR4SnZ6YWFiUm5CWWQ4TzhuV3I3NVBfWkdDYUs4X2VYajhhNEZ5cmNHYmdSSGROelM0NU94OW4xVGZUQWREcUdlNmdmWWYtN0swWlNwREZUR3RCMnVXZnZUY193N3Z2M3Buel9kS2lFYXZUZzJCT2tmR2xCME5lcmppYVROSTlwRXZDUlRRTWFBWWpvSEV2RVBocVFpOFB6d2tBeGxJcWJFYTJfRTFjNVl0d0xQaG0w?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 17:25:20 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.104,
-        "negative": 0.896,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W32"
     }
   ],
   "weekly": {
     "2026-W32": {
       "talarico": {
         "positive": 1,
-        "negative": 1,
-        "total": 2
-      },
-      "paxton": {
-        "positive": 0,
-        "negative": 1,
+        "negative": 0,
         "total": 1
-      },
-      "both": {
-        "positive": 0,
-        "negative": 2,
-        "total": 2
       }
     }
   }
