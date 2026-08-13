@@ -1,9 +1,25 @@
 {
-  "analyzedAt": "2026-08-13T08:24:28.713Z",
-  "newsFetchedAt": "2026-08-13T05:18:55.388Z",
+  "analyzedAt": "2026-08-13T09:41:42.546Z",
+  "newsFetchedAt": "2026-08-13T08:38:36.723Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "GOP Texas Senate Nominee Ken Paxton Refuses To Answer Blunt Town Hall Question: ‘Why Did You Cheat On... - upolitics.com",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWllzX2FXQnc5OWthSzd2QmVzOXdGWm5NM2loVjVoai1hZXQ5SzFsNFRabXV3dEhFQ3RQcVNtSU0yQ1hyZVBsQl91aE5nMUxJMER5ZkxkUHFXLWd2WHUzeW1pTndCQ0kzV2JybEVwMzREVzFQMHlvMmtqS1NSOV9TUkJmYmdMMkItN3I4cjk5ZnZ4ZEJLVXpqUEY0aFBoUTN4dlFPdGstbENvWEFfektRQm5KNHVlczU0NlJlOUYzS0pGUlJrcEd5bVA1SmpUd05udUtaNnBvVC1qQdIB2gFBVV95cUxNWllzX2FXQnc5OWthSzd2QmVzOXdGWm5NM2loVjVoai1hZXQ5SzFsNFRabXV3dEhFQ3RQcVNtSU0yQ1hyZVBsQl91aE5nMUxJMER5ZkxkUHFXLWd2WHUzeW1pTndCQ0kzV2JybEVwMzREVzFQMHlvMmtqS1NSOV9TUkJmYmdMMkItN3I4cjk5ZnZ4ZEJLVXpqUEY0aFBoUTN4dlFPdGstbENvWEFfektRQm5KNHVlczU0NlJlOUYzS0pGUlJrcEd5bVA1SmpUd05udUtaNnBvVC1qQQ?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 05:55:37 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas senate"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W33"
+    },
     {
       "title": "Ken Paxton snubs debate invite from Hearst and NBC/Telemundo - Austin American-Statesman",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQkl5NGlFNTNlMVlrSV96ZjNKS3hjaTVMN0gxdEhNRmhVTkVReDhib3BUcE9WRUpHamVtT3RxZVkyWkRnRTNtNHFOTlVUQVFybThBNWc1VjZ0QTBBb0ZQaXllRV9NZGRobzlpd0VvZ2ZkQ1EteVRSV0p5RG4teC1tdGl6WU1wbi1OR0xZN2kyVDJtU1U?oc=5",
@@ -1640,27 +1656,6 @@
       },
       "candidate": "both",
       "weekKey": "2026-W32"
-    },
-    {
-      "title": "Who’s leading in Texas’ U.S. Senate race? We’re tracking poll results between Ken Paxton and James Talarico. - The Texas Tribune",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM00zZ19idFEwU1BRUlpWalpZN3hjYnIzWlNENmtjVHJMc1BBVjNCbVlmajczbzdKTmxmRjh0Vi1qa1c3ajJOWVRKTWtENnZvNk1BaFBlWWwyam5YRllXZngzTkdacmtYRi1uWmtIYmF1dXBRdW5pMzB6RE16TC1yVzFCMGRFLUZ0d0RaVU9DU1NmUQ?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 10:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.02,
-        "negative": 0.98,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W32"
     }
   ],
   "weekly": {
@@ -1677,8 +1672,8 @@
       },
       "both": {
         "positive": 0,
-        "negative": 6,
-        "total": 6
+        "negative": 5,
+        "total": 5
       },
       "general": {
         "positive": 0,
