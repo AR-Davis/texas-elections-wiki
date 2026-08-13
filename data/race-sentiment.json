@@ -1,9 +1,26 @@
 {
-  "analyzedAt": "2026-08-13T18:02:37.161Z",
-  "newsFetchedAt": "2026-08-13T17:32:20.967Z",
+  "analyzedAt": "2026-08-13T19:14:06.237Z",
+  "newsFetchedAt": "2026-08-13T19:09:02.914Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "James Talarico leans into populist message in Pasadena, attacking Ken Paxton and 'billionaire megadonors' - KTEP 88.5 FM",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY0FaNmNOY3hqWEtsdEtBbndHMUxwVmt6dl9sMlRfdzNnQktDdWUtV2pScDcyTllMc3lwY01UMXZqbXFXaFV0cU0tdkNBa1hWRER6WWFmV25uOTUyTVdOVFFQMjNNVnpaMmdnWjJFdnZ1SUUtRUFMSEtXWVNlcUN4ZDQ3dXZQdTI1amZaTGJhUF9qRUdmNmwwZE1nVERxQ0JhdmY2aFJyelkzOGdYVloyd3plTDluXzdkeTV2S2E0MWF0dGxGbmJBTGNrRGFtOWM?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 23:06:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W32"
+    },
     {
       "title": "Who leads 2026 Texas Senate race? Latest Paxton vs. Talarico polls - FOX 7 Austin",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbXBvVGhaS1Qwa05CbjZOcnZqUDcycDVaM1YtZXRkZDhsQXRiZ2llejY5dzEwT09QM2NwUVAyT2pEbmthMWROV1gxZ2VsejJWVFhuRmJRTnFxWER2QjVJNGxobVVlbGVJalJQd2MtQ2RBNld0cDlHQUNEOEl4cU5EUA?oc=5",
@@ -1604,22 +1621,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "Talarico spreads campaign cash across Texas Democrats in bid to build party - Dallas News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaTJ3NVdiTkE0ckxvdVFsVUtqNDJFWDdBbTFRMktlcnZDWHN0anJYTzFZU1UybUU3RVh5VVNJOUg0THoyb2RCYTZWNTItVGtXa2YtNUNUVTBWdjdDZ2pWT1NWMFNTaW1kQUFCVERCYjVMcno5UGM4ZmJ2eWZGYkdfQVNsbmlabVpLb1pYVWNzNUo1dVV5UGdzOW1QYWJzMTFzd1VoY2ZWaw?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 23:51:53 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "talarico",
-        "texas democrat",
-        "texas democrats"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
       "weekKey": "2026-W32"
     }
   ],
