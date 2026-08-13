@@ -1,9 +1,57 @@
 {
-  "analyzedAt": "2026-08-13T11:02:53.135Z",
-  "newsFetchedAt": "2026-08-13T10:13:23.228Z",
+  "analyzedAt": "2026-08-13T11:54:33.676Z",
+  "newsFetchedAt": "2026-08-13T11:22:09.465Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Talarico’s Gender Mutilation Record Comes Under Fire in Texas Senate Race - Texas Scorecard",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ1RONG5jQ1hCenoxaFdzRTR4c1NMYkU1VWxxc2JPYnRnY3JpTjRrRjRERFc1VFZYV19nZ3pYamhtOW1EZmFQX2gtRVUyLWdlVDc2Vk1aUnVHMTlqYnY4S1lISUZFYWRhSmdZZXluNFdxcmR5R2twT2NYRmZLWjYxbXpFVmNGUzdPUi1ENTZTQ1JYUXBDalhGTk9TRER6U3FuWGF3eGRUcjBURnJ0YWI3RFBZRnY?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 19:29:07 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W32"
+    },
+    {
+      "title": "Paxton, Talarico still fighting tight Senate race, per latest Emerson-Nexstar poll - KXAN Austin",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQmhKX0dJNGJ0eERZTklCX0NpelpCMjRHUzVpMEJuRGFUT19ZV1JhaThPRTVCYUkwZ19ZcGlvVVRVMy1kU1BjemxuSVBrbHAzMF83dEtSZTZZdjlzYlhfTFhkZU5xRlAxQVFTbExxYU44akpKUVY5N2IxVzFlUmF1WXVpTHR0d0NabzAxREdsWEJLUXBYeGFkSmpfZURRUXdtSHlvZdIBqgFBVV95cUxOTjc2WVdZMjlZLWduMlNOLTBRTUk0YXZIRFVHeDFZOExSM1I5RGowa1lrSmFtek15cko5WW0yTFZEVElTSHNtYzZ0XzlaRWhCZE53cWc4VUl3c2h1MnA3VmhNczc0RFFsalh4TjFOaWpJQUJpU0Rmblo1aWdoY1JaNUJoenZHNFQyeGtoc3Fyc0s2SElMYnlub2l2NzdfUmxtZG5aYk5CdEZnUQ?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 11:00:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W33"
+    },
+    {
+      "title": "Paxton, Talarico tap contrary versions of God and Christianity in appeal to Texas voters - texastribune.org",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYml3WmxjTDIzY3NFUm1VM0N4eUh5bTBLdEgwejVna0tUQkczcWpMMlpGaEZaVGR6SDF0Qk0wa3lobDFEY3BwY0ppSUZhcGNkb18yalQydUZvdzNaeUp2UEdyajVMdkxTeFNyWEpoTVdtZWdjcEdQcTI1UDg2czNPXzdTSXRIVm9PRjZEdE11R2lLQ3YzNHdEamw3SGhqMXVqTHFQVER3?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 10:00:45 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W33"
+    },
     {
       "title": "Texas 2026 Poll: Paxton and Talarico Deadlocked in U.S. Senate Race; Abbott Leads Hinojosa by Four Points - - Emerson Polling",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SSEdQaXEzbGx2THpYQmg2TGNZQXJKMndoWUxRZjVKZUNfVW4xdlVKUHQ1a0N2bWJMTjhld1V0UHBqMm9sQWZpcGtxeDVBazM2VVFVV3M5cHF6dXUwdkVnd04xb0xzNFZ3WGg3cXJJMHd1QnVQLS1sNWN3?oc=5",
@@ -1597,63 +1645,6 @@
       },
       "candidate": "both",
       "weekKey": "2026-W32"
-    },
-    {
-      "title": "Senate Candidate Ken Paxton Campaigns in Houston - c-span.org",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2JnT0tuQXEwY1BEZTlvN1ZQOFExS3pUMHZXQ3JJRFhwczBrbEt0MHB1bV92WWYzakE1MTBGUW9xeURjSHlHSHZlR0MyOUloOEoyQjhpODFtOEtrWm5nbEd0aS1PNlNNdFBQMGItRmVEa2VqVkNWTnk4Nm84VnhLX29iRFQ2VnJKWndRZWhXR1g0d2NVNjQ5dnhXdmE2SEJvX3c?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 00:28:11 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.042,
-        "negative": 0.958,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "Ken Paxton touts economic plan, bashes Senate race rival James Talarico at Houston rally - Texas Public Radio | TPR",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWWNhdEpRamlib1RZLXlqVGdiWkRvWkNKNGhSVWdqbTh4MW9RU3czS2hoWDNhaXF0TXJEWFRfS2hJWVZPbXVWdUgtVXUweFVaVkNIZlFWS3NocnVWTWg5QzdHZVNaVVFnN3N3ZHJ1VnBNQzkzaVhQT1lsS2xsRTlCRy12N0cxQ2VzUDBWSTk4ZDlTV3BLMmU4TVdpTW5aOWhTcEUya0F2NE55elo5NDN0d0Q1UkpJUFNXZ3ZkY1laZXJ6TDkzUnNSN0swUHpHNHNVRVJ6VXdIcWJpOG1GVi00SUpn?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 15:41:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.043,
-        "negative": 0.957,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "Tex Rep. Jeff Leach once tried to impeach Ken Paxton. Now he's supporting his U.S. Senate run - KERA News",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOXFodlFhQzQ3cUhiMUNfdE1iZTJyTGxzZl9yOExoVHM4UUtSZm5YUTB5SUphamo2NzFLSFJSZXZiTW9iUlBKSGlyWmx6S0hpSS1ybV9xNk1NNmZXSTBSUklOZnFEdm9aakxWR1U1OTZjYjMxZEU3WWNPOFYtb3lrSnc3UERrZE53WEhqdEJJUHVSeTNMYUVoREJkcDgwRjJZRDZnQ29LeUtfWXNqamYwQjVBQ25LVzJNQU5NbVlRaFZSQVhwQnFCSWhaVHdCZVpvaHp3U0ZTRGJIcDZyMXVoSHJ3?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 19:37:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.861,
-        "negative": 0.139,
-        "label": "positive"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W32"
     }
   ],
   "weekly": {
@@ -1664,14 +1655,14 @@
         "total": 2
       },
       "paxton": {
-        "positive": 1,
-        "negative": 3,
-        "total": 4
+        "positive": 0,
+        "negative": 2,
+        "total": 2
       },
       "both": {
         "positive": 0,
-        "negative": 4,
-        "total": 4
+        "negative": 3,
+        "total": 3
       },
       "general": {
         "positive": 0,
