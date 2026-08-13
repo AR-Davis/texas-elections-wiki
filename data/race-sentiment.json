@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-08-13T22:48:52.278Z",
-  "newsFetchedAt": "2026-08-13T22:19:27.632Z",
+  "analyzedAt": "2026-08-13T23:46:29.091Z",
+  "newsFetchedAt": "2026-08-13T23:19:31.154Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Texas Dem James Talarico Said Securing Border Was An ‘Atrocity’ - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaU9tXzJ5MFA0cmEtRjFGQWc3NzE3dVB2NTZEV2RWV3FwX05QRE50em9EMFZqQ0tOa0pHaldyVEZVb3N2RXJiWTM3RFF4TU1zTDZ3MHVNR1NJcE5oVjI3anQyTHBYVXdzRlpRMHlhRjFrSko4V08wMDhjRGhJR05OaVhGZ1NsNHNkS0stMEF5VXVHTGxHaWQ0dGw1cnJ0UUs5NG9PdkdjSHo3Q2gtSlN5dkxtbjNGcndrMU51QVZSdWZYYzg1SC1GTnBR?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 17:30:50 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W33"
+    },
     {
       "title": "Paxton, Talarico tap contrary versions of God and Christianity in appeal to Texas voters - Houston Public Media",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeGZrQ0M3aW16NXpwdWZMQkoyZjJMQ010dWtWMXIyOTZ3dTd4MmhaQkRKOWNtZ2VhemJQaGwxRTdsd1lTTnpMSnFOb0s4T193RVdkaFFlRWpSUXc5UWdSbnl0S3Z3bUpGN2V4am9oX1h4a2xJaHV0bnljU2ctT3hMX1lnUmtWRGMwdHJMN1NrY0h3QlJXRS0yM250eUEzeWRyYmMyZ1NrODdiNDhtRlgwZVNZUEZhT1U0S3JQbzF6TnExb1dPZGVLYzFOb0s4eGM4eTM1bXQ5RWdBbzBRVFVTLTdVb0tmdTNkRGtJUEhXNkXSAfABQVVfeXFMTXhma0NDN2ltejV6cHVmTEJKMmYyTENNdHVrVjFyMjk2d3U3eDJoWkJESjljbWdlYXpiUGhsMUU3bHdZU056TEpxTm9LOE9fd0VXZGhRZUVqUlF3OVFnUm55dEt2d21KRjdleGpvaF9YeGtsSWh1dG55Y1NnLU94TF9ZZ1JrVkRjMHRyTDdTa2NId0JSV0UtMjNudHlBM3lkcmJjMmdTazg3YjQ4bUZYMGVTWVBGYU9VNEtyUG8xek5xMW9XT2RlS2MxTm9LOHhjOHkzNW10OUVnQW8wUVRVUy03VW9LZnUzZERrSVBIVzZF?oc=5",
@@ -1609,23 +1624,6 @@
       "error": "HTTP 405",
       "candidate": "paxton",
       "weekKey": "2026-W32"
-    },
-    {
-      "title": "James Talarico accused Ken Paxton of voter fraud. His own voter registration is raising questions. - KWTX",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRm5UM3llTlZUTzBUWDA0a2VsT1FnUHFHYk1KdGkwRjFNWHUtcUdJS3Y4Y3RCXzB2QjNVNTFXREYzZTFsV3J0bm1wSFAzLTRZSmFKRHhCVHlBblBuY0ZFdU1TWUZFSmZrRXBLcjM2eUFjYUl0Vk55dHZObGVmY2dKMFpLYnU4Zzd2d3U5ZnhEc1lZVTNTR29yNHV3WGZXeGw5ZDRtczNiclM4aFU2Q2ZPWDkydmxXTm5aQ3UzZUNGSWhSenNT0gHYAUFVX3lxTE9JTno3eUprQ3dvMHBPTlVsdXYtS212V3BSbng1SHZKdDVsYUxySlpmWXhKaUhuajk0SFhLckhPdjJnRXQwQXZmNFdKVTB4NnNHUmJLR3ZCQmRZbFFoMjhqQXJJSlQ5eGJMR0JSWmp3SDVvakwyeEZBRk5adm1DWkltNldvNXVPMlBpTERTZFBHQU1LRXBBdkdMV1VhUmplNjg1cHdnOHJsX21jRjB1SG02NlQ4RzlWdk9CTTVYZTNTZThMajNfaGhwRmNWcDNzQ1NkTllEMHF5cw?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 20:43:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W31"
     }
   ],
   "weekly": {}
