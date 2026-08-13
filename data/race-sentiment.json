@@ -1,9 +1,57 @@
 {
-  "analyzedAt": "2026-08-13T16:01:50.970Z",
-  "newsFetchedAt": "2026-08-13T15:08:03.055Z",
+  "analyzedAt": "2026-08-13T17:04:27.232Z",
+  "newsFetchedAt": "2026-08-13T16:26:46.450Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "New Texas Poll Shows Ken Paxton Leading James Talarico - lifenews.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdTZGa3h2MVhrdktrcldQMWhXc0JYTldZdGltNTR0cHh6WjQwYjNKdml0anZLSTBQVTJCbTZwZGpEYjFVbFdYaXk3NTFhX1NQRXRiMWVGeVNqVGZfWnNia2NFSkphMlNzQUtzeTJEMGJfU1lJNldpbk1iYXVubXo4MkVEazc1WjQxa0FuM01rREZNWFRScmc?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 15:25:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W33"
+    },
+    {
+      "title": "Ken Paxton to Newsmax: No Way Texas Can Elect Talarico Once He's Exposed - Newsmax",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUGNxNXQtMUlKWTFxX0R5ZTRzbEszWWxUMUVDQ19lWTZUVkh1ZzluNXJMWmtjV2xoR094ZVBkY25GMXdOcDdKT2I2UlJtRS1yN0tlT0lOd2lPanhwdmZYazh2cW1ydnJwc2xMdS1KSzhSYzh0RmhYeElWYXdaUDBtY2kzWmdhM2FVWWlBb0VEemdqb00?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 15:25:55 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W33"
+    },
+    {
+      "title": "Texas Dem James Talarico Said Securing Border Was An ‘Atrocity’ - The Daily Wire",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLWluc3haUkRoeWhNX2NXU2VzNE9PZllfdm1Bamk0UnQ3SUZNMVJNcU5mQ1hjTnBlTEU1RzlHeHB0V0g1Vm0zRzA4aE1WYTZ3LVVETm9JZmNkd1dYYkNySE1KQVBxellqUkNFMDZMR1h2WkFfdm8yVE1Ga0hCUFItS2RJRE9YUlZmSjBmU0Q0S0VXM0V3b3Rj?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 15:46:12 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W33"
+    },
     {
       "title": "Paxton, Talarico Deadlocked in Texas Senate Race - Newsmax",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMTRla1k0dFEzdzZLMVlCaWg0cGZIYzRpd2xsQUJGUmlNM3BpN2FMZ3BEc1dkamVpVnlFakxLa0VKUF9JTFpIbkt6X1ZfN05ic0hHeEZIb19NS3JJLVRhc2U3aVVna3Y3RzBXWWF6c0syTEpLWWgxbm9jMUt0eU94dDF0MmM?oc=5",
@@ -1575,65 +1623,7 @@
       "error": "HTTP 405",
       "candidate": "both",
       "weekKey": "2026-W32"
-    },
-    {
-      "title": "Talarico Leads Paxton in Fourth Straight Texas Senate Poll - sekbernews.id",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00QVlrbDZGTjNUYUw1eV9ISk9DY3R6akdFZXowbG0wVjBsVzRsdGozaVNTc29yTkVoLXprTFg5dVVhS0NJMENTQ0hJVDNnV2FPZ1BxZ2V4VHY4b3FFMEZtVDlhcEoyMW1wc1ZieUxBaFhuZWt2bDNv?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 19:41:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "Talarico opens 4-point lead over Paxton in Texas Senate poll - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMXN4alZ4ZERfLVlqSXNoVDBLbkh4UGFzZGYwMGtrNldfbWswY1d2cTBrNDlpQ0g3RnZuUENGQjZ5MEhvVDhhRG5HZWxERUs1YjZ5QXJHdTNoWDZTalUwdGsxVE9DMm0zWGVjVU1hWHJJWXQzOWFTc2RBZWR4cjduYXk5dUNBTFRxVUU1OUNVelp0bC13MGI5Z1hzVnJDcmvSAaQBQVVfeXFMTllPU2IwTHhDa3llajMzYVFrSmZ2dkhtU09qXzV4RThKaGtIbDJ0SmFwNWZUQkRldXY3Q0hCRkZ2TE1ZNjdJRzRNazdwbFBZTlZMbmlrRnJFd1g5V0RVZERldU9laDZWaVJaMENmRkgzdEFZY01TSF9PenF6c2N6clBvcl9aV2ZjSng4UlFQSW1GZXB3U2VQU0NsZ3FZajNsRjVFNno?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 13:03:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "James Talarico Tells Us His 9 Favorite Bible Verses - babylonbee.com",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdDRRWDJNTTlheUxzWTJXdDBpOHdlSG9rMmpfQ20xcFFiTG55UEhaQnhQQTIwYUkwZVlCSnBwZnFqa1dIUHFpN3B3Q0FxblBwRkxCWkMwakhqRC0ta3lGLVd6MXJFZDU1OHYtY1g2Z3Y5QU81OUtWZVR3N0VEVHMtZkE3YmxDQQ?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 19:51:22 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": {
-        "positive": 0.988,
-        "negative": 0.012,
-        "label": "positive"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W32"
     }
   ],
-  "weekly": {
-    "2026-W32": {
-      "talarico": {
-        "positive": 1,
-        "negative": 0,
-        "total": 1
-      }
-    }
-  }
+  "weekly": {}
 }
