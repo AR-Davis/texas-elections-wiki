@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-08-13T20:55:38.358Z",
-  "newsFetchedAt": "2026-08-13T20:05:27.489Z",
+  "analyzedAt": "2026-08-13T21:51:32.149Z",
+  "newsFetchedAt": "2026-08-13T21:23:43.171Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Paxton, Talarico Deadlocked in Texas Senate Race - Newsmax",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNU1RQYnZGSDNaZ1ZTVzFwWnRtc09yNnA1WF9PSDBCNmx0OUlNajc5WE90Wm5YYUhYUHNNOGhZMVNPTjhpUl9EZkFYYWQzbVVnN3dTMHQtblRjSGZzaHlfLXFVSGpPNFJNaGlqQWhDYzBIT1doVDR3Zl9xeGFIaVAwdmV3RWwtVkFlNXZXcGlXRFU2QQ?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 14:55:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W33"
+    },
     {
       "title": "Who backs Paxton, Talarico in Texas Senate race? See endorsement list - USA Today",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSWpqbjdaY0c2UGU0el91ckJtakVNRERCdlFqbXZZZjkxejNibWxsdTlveWhHdWVib3RTQllfejhpdE1rMmdJWmtEd1JHUXVERDUxM3BVLVJGazBUQTNsNE5qUnNOOE04NVdBVTFZdmRXQWo4ZEwyZWlLVTVDdHhNRnpTbktiSnlzTE41dl9lUWIyRURJTHM1V21FYndoTzVSUklkWVUyd2tfU2xRNGRKYnRldDg1R2JfVTdTMzg3Q1EwOUtvLUZPWkd6d1RTWXNKajZpbFZn?oc=5",
@@ -1610,22 +1628,6 @@
       "error": "HTTP 405",
       "candidate": "both",
       "weekKey": "2026-W31"
-    },
-    {
-      "title": "Texas Senate race heats up with dueling rallies, new polls. Here's the latest - Fort Worth Star-Telegram",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZHpIWWllVTBsbWhHLS1oYk8xd2I0MlZVRDBrUm9xeEdFLXA0MGhYVnR5RGxwS0JPZVdaUU1WemMxTUhtSURRemhvSFJUb0lWb2pDSkkyVFlkaXhYTVZkbXB5MkpvejJFRUkxbnQ2YjFCNmhNUXhfTnBDU21qeWVYQkI4aEkxc0xxVjR1MS1NdkQ1aHhEYkHSAZYBQVVfeXFMTjlyTnZoSXZEQzIxcXA4dE40M19nWlkwek5CUGg3QTB2M08zNElEZGlMbk1Cb3NUbFFzSWxIeW9ta2s1WFdDdVduSTZLeGZVd0lRdzIwQWNuV0ZidlNJMFN4cjN5NDdKRGZ6OFBpbW5qZi12aGJGcFl1TzJKUmN0N0Utd0U5M1VnQkctZGIwUktGekJlQkln?oc=5",
-      "pubDate": "Sat, 08 Aug 2026 10:04:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
-      "weekKey": "2026-W32"
     }
   ],
   "weekly": {}
