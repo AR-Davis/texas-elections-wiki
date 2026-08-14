@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-08-14T21:28:53.749Z",
-  "newsFetchedAt": "2026-08-14T19:30:55.779Z",
+  "analyzedAt": "2026-08-14T21:50:50.939Z",
+  "newsFetchedAt": "2026-08-14T21:29:47.752Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "James Talarico pushes new plan to woo Texas veterans, pledges to ‘fight for them the way they fight for us’ - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPdncxMVpHdXFDamdBOFNlUXJmcTB4RklMcGdXZFpwVkw0Uy12cWY0amlsTmQyOUU3bWNqMnMtZzBhUkk3NzVPdThuRi0tcGlMVDZ4SGZPUmN0QmxvY2gtdVo5TlctSURyZ1c2bzFad3dEVkhjWXVKZWpzVEhybVJNU1RMWkVGQWthQXNseXlHSWxxaUZ3b0gzWWtOM0oxMTZOMWNNOGxwT1Y5TVBNLUtsVGJtRkdmWnhUal9hTW92TTlhMDVkWXc5THVLUGJTTzB4dHFJRnhOMGY0NmZLYnMtamFIMTJSRWY5aUlHSFhZZFVWQ1o5MFprUjl6RjB4WEVybWU1Ulo4bjRzaHFxNnNEbkJZZUwzZnZKX1BGUy1jSmLSAagCQVVfeXFMUHJrVG1TMmFOdWJQQjY2Y2dIb0Z3WDk0NTdObDBDem0xOTV2SzlHMXF0SmpydF9JcGF3TzdBRE5aVjhhWENnYWw1Vk5ycHBFWHJoQ012QjEwSmtyTy1oc1BNcUFJX3F5S1dqODVnRUJfdllkWHVGVUstdkE2Y3dfUmtZSmZPZ1p2STlKdHJ3ZmpFRDNIVGlYa0lYQzdjRS1Fal9WQ2t4bFdrU2JCQlFZQkJLSGdveWcxWG5FaUplUTVEM19zRDFfZWFuYUtGcmk0REJnQTYzeVd1V1EwMXhrX01RMDRiUXpsSmI2eHRQa3gtSXc4bVlXYjE0c0J0di15MGZoQWh3ZlVqVDh2NHBMa3BsRlZMUEdjSC1DYm1vN1NVb0ZDcjhqZmc?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 20:32:41 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W33"
+    },
     {
       "title": "Arrington shares why he backs Paxton as Texas Senate race remains tied - Lubbock Avalanche-Journal",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZVEwUWNwZkVvQjI3amlvbEFQd3FpY0JYNVNsNUp0NFROTU1LQ2w1aVA3ZXVXeUJHemU1THJSbkFxelJxTGFkRURGZWxjQV81clNjQy10MWhCV2hhbTdUd3lTR2tjbksyTzBTdGYtTnhHNnFfRVRCbUNiZ2l0d2dWRUhqbFJsYjVIWHo4dm03WEVVdklZbjVxV1VGY1FLclZhbXgtUURrQU13T3RyeWlPS2ozNXA1eG9nQndfX0tBMEdtV3lEeHhFTkpibFJKVVVlZkE?oc=5",
@@ -1593,21 +1608,6 @@
       "title": "Ben Shapiro. . The Event James Talarico Doesn't Want You Asking About - facebook.com",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMTlFRFJmWks3dVBhMW9NN21nUEVBNGZXbE1KbjBtNDhIR0VwQ1F6WWp6REVZSUxlUUIxNzVaMVJZNXJnbnlYX2dTMzB2b3hPRjhDdVNwbWprRm1HdGpoaHFrbGlPVVdHUUZuMVRscXQyTXFheEV2eDF1Umx1THhJWU1rcVBZQmo0cko2QWZESmFjWk1uUXJmS0pHT2Z2ckQ1Zi1MQ1FRczJqM3VUMnNibUd2QnN5Y3BSZDA5clhZbw?oc=5",
       "pubDate": "Fri, 07 Aug 2026 23:30:10 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "Seminary student, US Senate candidate James Talarico tells crowd Christians 'saved' by 'healing the sick' - Christian Post",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcWNadmR5Ym9qaFFWbzlyQnZ1LUwzbzFOV3RzV0hzUjhDYWJlLXRSejZEMERYVjRLNC0zTzZZWi13U0lPV0FaNGc0UUNKUEVXUDZBZGg0TERyNUtUMnktbm5EanhnenBFMTdjX2tVRGY1QmZUekhPQWw4RUJwUEpOcFlwYmRKUmpoazZFaUxJRVM1MFFCbmFla3NBd0w0WkU0QTJF?oc=5",
-      "pubDate": "Sun, 09 Aug 2026 03:54:07 GMT",
       "feedSource": "google-news-race",
       "raceScore": 11,
       "matchedKeywords": [
