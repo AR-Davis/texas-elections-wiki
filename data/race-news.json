@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-14T15:58:39.812Z",
+  "fetchedAt": "2026-08-14T17:02:50.016Z",
   "count": 24,
   "feedsChecked": 8,
-  "itemsScanned": 80,
+  "itemsScanned": 79,
   "items": [
     {
       "title": "Who leads 2026 Texas Senate race? Latest Paxton vs. Talarico polls - FOX 7 Austin",
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "title": "Who backs Paxton, Talarico in Texas Senate race? See endorsement list - usatoday.com",
+      "title": "Who backs Paxton, Talarico in Texas Senate race? See endorsement list - USA Today",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSWpqbjdaY0c2UGU0el91ckJtakVNRERCdlFqbXZZZjkxejNibWxsdTlveWhHdWVib3RTQllfejhpdE1rMmdJWmtEd1JHUXVERDUxM3BVLVJGazBUQTNsNE5qUnNOOE04NVdBVTFZdmRXQWo4ZEwyZWlLVTVDdHhNRnpTbktiSnlzTE41dl9lUWIyRURJTHM1V21FYndoTzVSUklkWVUyd2tfU2xRNGRKYnRldDg1R2JfVTdTMzg3Q1EwOUtvLUZPWkd6d1RTWXNKajZpbFZn?oc=5",
       "pubDate": "Thu, 13 Aug 2026 19:55:00 GMT",
       "feedSource": "google-news-race",
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "title": "Poll finds Texas Senate race tied as Republicans lead race for governor - usatoday.com",
+      "title": "Poll finds Texas Senate race tied as Republicans lead race for governor - USA Today",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOT3h0Z082Z0poSEtqaThWRmw0UGZjSHlfRlFWdnAzbkZmMjdpQ0hSb0JzNkRrRVlsVFhYNzNZWHBkSC1lZjhnX3A3YUZDS0Q3emdUTXhWc2xNOTlodkNsbTVQU3ozOVp2NVFzVWk5ckg4OVlVSnRfRjQ4SHJhdjB1VUxGbnZKdkhfVU9NeG9SN09CUG1QN0Y5Sm1Mb0ZOWGt0em9IbjVab0wxRzhBbmZVUXB6aVlfRkNRWk9YVU5KWS1JZ0Qtc2NiVEFFckVoZw?oc=5",
       "pubDate": "Thu, 13 Aug 2026 14:54:00 GMT",
       "feedSource": "google-news-race",
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "title": "Texas 2026 Poll: Paxton and Talarico Deadlocked in U.S. Senate Race; Abbott Leads Hinojosa by Four Points - emersoncollegepolling.com",
+      "title": "Texas 2026 Poll: Paxton and Talarico Deadlocked in U.S. Senate Race; Abbott Leads Hinojosa by Four Points - - Emerson Polling",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SSEdQaXEzbGx2THpYQmg2TGNZQXJKMndoWUxRZjVKZUNfVW4xdlVKUHQ1a0N2bWJMTjhld1V0UHBqMm9sQWZpcGtxeDVBazM2VVFVV3M5cHF6dXUwdkVnd04xb0xzNFZ3WGg3cXJJMHd1QnVQLS1sNWN3?oc=5",
       "pubDate": "Thu, 13 Aug 2026 10:08:08 GMT",
       "feedSource": "google-news-race",
@@ -227,6 +227,17 @@
         "talarico",
         "paxton",
         "senate race"
+      ]
+    },
+    {
+      "title": "James Talarico pushes new plan to woo Texas veterans, pledges to 'fight for them the way they fight for us' - KERA News",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPb3pPdF9tdV9ONWhmYVNQZFhoNncxT2VUcGZFclp6MUF6bTFiUDhZSk5ZSHNEM0l1aWRfOHFXenl3dXpUMUwzQlI5SFBYZU5VM0xqS2FTSS12Z3NTdE5paDNjMVF0Q2lPbUdTOFE3YUlqRTdiOWFnY1hkVXFaa3RjSldqcU01Wjd4d2RkMFFMWEJ2cGlubXZKTjFBdUVReHVEalZLcTFNLV9fMjN4SGVSRXB1TE9fQXE1VERtVG92QXJYQ1pHLUVKZFJZMi1PaFVmeklOZkEwNXBVUTkzNVVGbnNyc0ZqRVFrc29V?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 15:40:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
       ]
     },
     {
@@ -282,17 +293,6 @@
       "matchedKeywords": [
         "talarico",
         "paxton"
-      ]
-    },
-    {
-      "title": "Texas Dem James Talarico Said Securing Border Was An ‘Atrocity’ - facebook.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaU9tXzJ5MFA0cmEtRjFGQWc3NzE3dVB2NTZEV2RWV3FwX05QRE50em9EMFZqQ0tOa0pHaldyVEZVb3N2RXJiWTM3RFF4TU1zTDZ3MHVNR1NJcE5oVjI3anQyTHBYVXdzRlpRMHlhRjFrSko4V08wMDhjRGhJR05OaVhGZ1NsNHNkS0stMEF5VXVHTGxHaWQ0dGw1cnJ0UUs5NG9PdkdjSHo3Q2gtSlN5dkxtbjNGcndrMU51QVZSdWZYYzg1SC1GTnBR?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 17:30:50 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
       ]
     }
   ]
