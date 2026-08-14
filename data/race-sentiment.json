@@ -1,9 +1,39 @@
 {
-  "analyzedAt": "2026-08-14T13:54:36.286Z",
-  "newsFetchedAt": "2026-08-14T12:10:53.516Z",
+  "analyzedAt": "2026-08-14T14:55:40.149Z",
+  "newsFetchedAt": "2026-08-14T13:55:13.502Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Can a Democrat reclaim Christian politics in Texas? NPR’s Jason DeRose on James Talarico’s campaign - 88.9 KETR",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQTJUcGRzUENJem8tWjZ3VmstZ1dBY2xIVTV0YUQ3Nno0RnFiM1I4QW1rbkNmbzNydndlTVNnYjdpRk1CRm5Bb2VRbW1mOHdocWJZcG5aQXhtMi04WEJSMEtWMmhmbW1POWtEN21lZjZGZ1dsbkRUU0cyMkY5OHZic2NES1ZJY0trZXhUSGFKdW5LVkNPV3g2bW9LSmlhWlpyTmJ1djJOMWowbkwwMTJzbzFrTkJuNFlTdGw2Yi03TmV3X2VvWDVJVjl2MHdSR2NNU2hmcnBTVUFGYldGUlpRMA?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 12:05:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W33"
+    },
+    {
+      "title": "Boycotting White Oak won't hurt Ken Paxton. It will hurt Houston. | Opinion - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcE1hV3JtNURFMHFJWVFSY3JuaFlMSzN3YmV2NWdjVTQtZUNvVWNia3dWbzNESmxXUW9mS2pvczVyNHUyNXNGSkdNYVdSM3pHbVFkUEYzVFZ5WjlZS3NXUlRRUzFldk9YeHVNWENIQ2V1ZjBkLXlQLVJYd3JFN2VhVlBfMUtqWTUtODBiTGM2VC02VDNfemhVc1RJdHhIZ09RMUp1NnAwbVdQakFoSEF4VTREVUI3cDFRbTlj?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 10:21:19 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W33"
+    },
     {
       "title": "Who leads 2026 Texas Senate race? Latest Paxton vs. Talarico polls - AOL.com",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zTGpGQk8tZXlHOEZVYnAyMHYwaTAtYUIzVW14eTF3MmNXN0xSTkJJcjZaVHJIYnlPc1JFLW8ydUgteG9ZOFVZSXdlVjdIbDVEZnp6WlcwR01Jc1dUMXVUZERuaVhwZVU0TzhDbXpSZHd4ZXZJQUdCT0JrUlA?oc=5",
@@ -1593,37 +1623,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "‘I Hate To Say It – This Might Be the Year’: Former GOP Strategist Sounds Alarm in Texas Senate Race - Mediaite",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX0NSWTEtNGZDbG1HaXpWUzItMG1yN3hDaUZDdWJwQlBsSkFUYVZmcDJXS3FKODdHMmN1UVNDMFY3YzJ3VEYxcHNleHlBWFBxcjdXcWdhOEc0N2ZBeG9PMjZSWENrOHg0SkRDSkJDLUx1NWJRNFBrSmVFRHpSREhVUWNveU9fOFRJTzBwNkkzQlFJSFRzRkVUdWJxRXVEMjJ0ZWZjTU5OY0RsSzluT05xamJoT250dFNmdEdfbVNyMEtSdFdEY1NSWk9B?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 23:33:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "Texas state Rep. James Talarico, who is running for U.S. Senate, answers questions during a town hall on Saturday, July 11, 2026, at the Plaza Theatre in El Paso, Texas. - The Lufkin Daily News",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxONFdnWUtCeGE3VU9nSDc2RVhvdnlRQ3BhSnk4bFhvUFRnSG1tTy1Xd3hoZ0JHWXBsQkdMVHZUSEM4cEl4a2V5N21BclcwSW1nS1NhbmVPOVJ4V2x4ZUNvTWNSaklzY0xENy16aWJOWHM1YTFLT0Rlb1lTYVVuSWptZUZhN05QZVZrRUlpdjM2dHZaOGk1bGNORld3QnVFU0JSa1FUdDdZRGhPS29QOGtRbmJuWDZfRG9xTW1SZ0lYZlRIakdTeTN2aG9xTExBUW1iSVRkbS0tWW1ZclJhdXVxanNIRGM2eF9FZjcySzBud1lLeGxLZkRlNXZpYUtMNktTc00wTTVoY3RKaVky?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 16:04:10 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
       "weekKey": "2026-W32"
     }
   ],
