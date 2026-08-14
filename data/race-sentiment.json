@@ -1,9 +1,25 @@
 {
-  "analyzedAt": "2026-08-14T02:19:53.527Z",
-  "newsFetchedAt": "2026-08-13T23:19:31.154Z",
+  "analyzedAt": "2026-08-14T04:23:26.367Z",
+  "newsFetchedAt": "2026-08-14T03:07:35.692Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Talarico sees data centers as an opening in Senate race against Paxton - Dallas News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa29sdGVVMUZ3R2FDRG5faDRUR0ZmYmd5YTJROUdIclVfRzFhaHpyeVBLeUlKQW9KRHhNdjNVM0lWeEdzQkRUbXRxWGVyaW5hYjJSS1Fqc2lwZGRGN3BKR1VrVl9IdlNaUmNWYnhINGZzTDJJQzJ4VU1FTTNKdHVqcGhSLWk4ODhBaTg3bU1zc1dIOTJ6aktwX0MxeHFUeGM4TlFPVUNDWXJmWENaeXc?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 00:18:23 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W33"
+    },
     {
       "title": "Texas Dem James Talarico Said Securing Border Was An ‘Atrocity’ - facebook.com",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaU9tXzJ5MFA0cmEtRjFGQWc3NzE3dVB2NTZEV2RWV3FwX05QRE50em9EMFZqQ0tOa0pHaldyVEZVb3N2RXJiWTM3RFF4TU1zTDZ3MHVNR1NJcE5oVjI3anQyTHBYVXdzRlpRMHlhRjFrSko4V08wMDhjRGhJR05OaVhGZ1NsNHNkS0stMEF5VXVHTGxHaWQ0dGw1cnJ0UUs5NG9PdkdjSHo3Q2gtSlN5dkxtbjNGcndrMU51QVZSdWZYYzg1SC1GTnBR?oc=5",
@@ -1608,21 +1624,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "Is Ken Paxton really working hard enough to win? - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYUoyYnR5SEFEdUhnMWxmSEdlWW94Y3VGbEZPejRoN2tscy1yc0NEU2FUbVM2V3ZFQ2d2bE5rUkZLbFFVVFlURGZldGhZWmtaR3NwYWwxUVpCcU9fTjgycFFHazJONHdWMlpvOEx6Rjd4b3lsOHp1aG9id3dkSE50amQ2cFlmUFhsVkx6bENYdzM0Zk54TWlRZmZWd1haeldVeWdqallCWXV2dHduaHpKTEp6OA?oc=5",
-      "pubDate": "Sat, 08 Aug 2026 11:05:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
       "weekKey": "2026-W32"
     }
   ],
