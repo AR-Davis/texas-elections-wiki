@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-08-14T14:55:40.149Z",
-  "newsFetchedAt": "2026-08-14T13:55:13.502Z",
+  "analyzedAt": "2026-08-14T15:56:08.890Z",
+  "newsFetchedAt": "2026-08-14T14:56:49.098Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Can a Democrat reclaim Christian politics in Texas? NPR’s Jason DeRose on James Talarico’s campaign - 88.9 KETR",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdGlwbnluTEtJSDQxLVhqRURvS0VKZHp0aVUwVVpsUVpRcExTRXBpV1d2Ujhwd1VIWmV4YWh3V25fUVVKVDBQSDBVaG93VFhDYVR4YmJyb1lWdVlwSGkzVWl0N2VRaWNrQXNwemNoelJIVzNKMDR5Mm9kdGZabmZLOW5haGdVRE55NU9WbmVIbnpHRXJuWlBpLTNQOVdMR2hwRk5UM3ZZS3NtdDh0c2tIelpEWTZrSDMxejZWOHNDTjdHVE5TYUx4ejVxWFR4UEpXa0kw?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 12:05:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W33"
+    },
     {
       "title": "Can a Democrat reclaim Christian politics in Texas? NPR’s Jason DeRose on James Talarico’s campaign - 88.9 KETR",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQTJUcGRzUENJem8tWjZ3VmstZ1dBY2xIVTV0YUQ3Nno0RnFiM1I4QW1rbkNmbzNydndlTVNnYjdpRk1CRm5Bb2VRbW1mOHdocWJZcG5aQXhtMi04WEJSMEtWMmhmbW1POWtEN21lZjZGZ1dsbkRUU0cyMkY5OHZic2NES1ZJY0trZXhUSGFKdW5LVkNPV3g2bW9LSmlhWlpyTmJ1djJOMWowbkwwMTJzbzFrTkJuNFlTdGw2Yi03TmV3X2VvWDVJVjl2MHdSR2NNU2hmcnBTVUFGYldGUlpRMA?oc=5",
@@ -1606,23 +1621,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "general",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "James Talarico Accused Ken Paxton of Voter Fraud. His Own Voter Registration Is Raising Questions. - MyRGV.com",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZnM4QnBNMEFhN2RkQ25jVkNQRWIwR0JsSU9UTk5VZDlsSEpnTWxlczR1cDhaMllVS1RVMk9FSlJjS1pIZ0YtZWNzWlphM3B0Q2d6NmI3WDB1dHdSVElHVl9NMWRPTmtETTlZRVdVWTF2TFktc0otOXM2c2J6aUhWZHhGbjBrZ05EbjNnOFFtYW13UXJPSnBIeXpoVkU3UTl3MTFSbGdGbGdCMVIyWDdsekRnWXU0OEFmZ2tONXVRUTFsSk52U2lrUFhNd2JxRlMzaE84?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 00:12:09 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
       "weekKey": "2026-W32"
     }
   ],
