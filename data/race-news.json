@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-15T22:52:06.025Z",
+  "fetchedAt": "2026-08-15T23:25:24.852Z",
   "count": 25,
   "feedsChecked": 8,
-  "itemsScanned": 78,
+  "itemsScanned": 80,
   "items": [
     {
       "title": "Who leads 2026 Texas Senate race? Latest Paxton vs. Talarico polls - FOX 7 Austin",
@@ -126,7 +126,7 @@
       ]
     },
     {
-      "title": "Texas Senate race puts data center growth in the spotlight - dallasnews.com",
+      "title": "Texas Senate race puts data center growth in the spotlight - Dallas News",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa29sdGVVMUZ3R2FDRG5faDRUR0ZmYmd5YTJROUdIclVfRzFhaHpyeVBLeUlKQW9KRHhNdjNVM0lWeEdzQkRUbXRxWGVyaW5hYjJSS1Fqc2lwZGRGN3BKR1VrVl9IdlNaUmNWYnhINGZzTDJJQzJ4VU1FTTNKdHVqcGhSLWk4ODhBaTg3bU1zc1dIOTJ6aktwX0MxeHFUeGM4TlFPVUNDWXJmWENaeXc?oc=5",
       "pubDate": "Fri, 14 Aug 2026 00:18:23 GMT",
       "feedSource": "google-news-race",
@@ -221,7 +221,29 @@
       ]
     },
     {
-      "title": "Can a Democrat reclaim Christian politics in Texas? NPR’s Jason DeRose on James Talarico’s campaign - ketr.org",
+      "title": "State of Texas: One point separates Paxton, Talarico in Senate poll - KXAN Austin",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcnlpVWNKbUQyQmp0YjBRZl9KeWtTa3IwTXc5eHg0VDJIc0FoNGdBblI5Q05yUVZSbUcxdDZnZTZEamFsRGRpc0VwM2FuaENtQVpEQVNUa3Z4dmdNZjhQR2FGdkJBLVpqYmp4ZHBoRmlrcmdIZVYxTmN1ZE54ZktLY0ZWZ203ejhjQWthWWVOdUh4R0RSbG04bjFBY1ZJbjhIWEdUONIBqgFBVV95cUxPcHJvdWlHeDRwZzhsRm0xY2xlc2xDSS04S2ZXQlhXeXNPRHQ1MWNEUXRRRndnQnVOSTF2MWs1LVFzdEpIUzE4V0M3NTVfaTBkTFFCQ3ZCVk9rVEtyQzlsc2dzcWN3SXpBcWFESDF5cS1CZGxZNmNEZXlYTzFQQTQ2WjI2VzU3ZndZTkJOZlVwTW5maUVTbHRDSzIyQmxtd2diY3lZdDRVMHhsQQ?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 23:00:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ]
+    },
+    {
+      "title": "State of Texas: One point separates Paxton, Talarico in Senate poll - KXAN Austin",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYVo5dzRMMW9pdG0xRjVQZ0prd3NvS290N2tyUV82VFFVa083M2NieGxXd2VlaWd0VlZoUjd5bXFyUzZiS2lGdXVKUm96UzJva2JsQlZJZDFnVWRDUVJSZ1VncmZwbVhNeERGdm5HLVFyeXk2Z19OeWNDNTRyczNHODRwbVZKaklRTzhiT1dIb3ZKSzBQa21sYm1MXzRNZ0U5bkVIVA?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 20:29:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ]
+    },
+    {
+      "title": "Can a Democrat reclaim Christian politics in Texas? NPR’s Jason DeRose on James Talarico’s campaign - 88.9 KETR",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdGlwbnluTEtJSDQxLVhqRURvS0VKZHp0aVUwVVpsUVpRcExTRXBpV1d2Ujhwd1VIWmV4YWh3V25fUVVKVDBQSDBVaG93VFhDYVR4YmJyb1lWdVlwSGkzVWl0N2VRaWNrQXNwemNoelJIVzNKMDR5Mm9kdGZabmZLOW5haGdVRE55NU9WbmVIbnpHRXJuWlBpLTNQOVdMR2hwRk5UM3ZZS3NtdDh0c2tIelpEWTZrSDMxejZWOHNDTjdHVE5TYUx4ejVxWFR4UEpXa0kw?oc=5",
       "pubDate": "Fri, 14 Aug 2026 12:05:00 GMT",
       "feedSource": "google-news-race",
@@ -232,7 +254,7 @@
       ]
     },
     {
-      "title": "Can a Democrat reclaim Christian politics in Texas? NPR’s Jason DeRose on James Talarico’s campaign - ketr.org",
+      "title": "Can a Democrat reclaim Christian politics in Texas? NPR’s Jason DeRose on James Talarico’s campaign - 88.9 KETR",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQTJUcGRzUENJem8tWjZ3VmstZ1dBY2xIVTV0YUQ3Nno0RnFiM1I4QW1rbkNmbzNydndlTVNnYjdpRk1CRm5Bb2VRbW1mOHdocWJZcG5aQXhtMi04WEJSMEtWMmhmbW1POWtEN21lZjZGZ1dsbkRUU0cyMkY5OHZic2NES1ZJY0trZXhUSGFKdW5LVkNPV3g2bW9LSmlhWlpyTmJ1djJOMWowbkwwMTJzbzFrTkJuNFlTdGw2Yi03TmV3X2VvWDVJVjl2MHdSR2NNU2hmcnBTVUFGYldGUlpRMA?oc=5",
       "pubDate": "Fri, 14 Aug 2026 12:05:00 GMT",
       "feedSource": "google-news-texas",
@@ -251,17 +273,6 @@
       "matchedKeywords": [
         "paxton",
         "ken paxton"
-      ]
-    },
-    {
-      "title": "Texas Dem James Talarico Said Securing Border Was An ‘Atrocity’ - facebook.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaU9tXzJ5MFA0cmEtRjFGQWc3NzE3dVB2NTZEV2RWV3FwX05QRE50em9EMFZqQ0tOa0pHaldyVEZVb3N2RXJiWTM3RFF4TU1zTDZ3MHVNR1NJcE5oVjI3anQyTHBYVXdzRlpRMHlhRjFrSko4V08wMDhjRGhJR05OaVhGZ1NsNHNkS0stMEF5VXVHTGxHaWQ0dGw1cnJ0UUs5NG9PdkdjSHo3Q2gtSlN5dkxtbjNGcndrMU51QVZSdWZYYzg1SC1GTnBR?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 17:30:50 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
       ]
     },
     {
@@ -295,17 +306,6 @@
       "matchedKeywords": [
         "talarico",
         "james talarico"
-      ]
-    },
-    {
-      "title": "Paxton, Talarico tap contrary versions of God and Christianity in appeal to Texas voters - The Texas Tribune",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYml3WmxjTDIzY3NFUm1VM0N4eUh5bTBLdEgwejVna0tUQkczcWpMMlpGaEZaVGR6SDF0Qk0wa3lobDFEY3BwY0ppSUZhcGNkb18yalQydUZvdzNaeUp2UEdyajVMdkxTeFNyWEpoTVdtZWdjcEdQcTI1UDg2czNPXzdTSXRIVm9PRjZEdE11R2lLQ3YzNHdEamw3SGhqMXVqTHFQVER3?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 10:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
       ]
     }
   ]
