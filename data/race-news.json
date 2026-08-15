@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-15T16:31:01.829Z",
-  "count": 23,
+  "fetchedAt": "2026-08-15T17:25:20.202Z",
+  "count": 24,
   "feedsChecked": 8,
-  "itemsScanned": 82,
+  "itemsScanned": 84,
   "items": [
     {
       "title": "Who leads 2026 Texas Senate race? Latest Paxton vs. Talarico polls - FOX 7 Austin",
@@ -62,8 +62,8 @@
     },
     {
       "title": "Paxton, Talarico Deadlocked in Texas Senate Race - Newsmax",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNU1RQYnZGSDNaZ1ZTVzFwWnRtc09yNnA1WF9PSDBCNmx0OUlNajc5WE90Wm5YYUhYUHNNOGhZMVNPTjhpUl9EZkFYYWQzbVVnN3dTMHQtblRjSGZzaHlfLXFVSGpPNFJNaGlqQWhDYzBIT1doVDR3Zl9xeGFIaVAwdmV3RWwtVkFlNXZXcGlXRFU2QQ?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 14:55:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMTRla1k0dFEzdzZLMVlCaWg0cGZIYzRpd2xsQUJGUmlNM3BpN2FMZ3BEc1dkamVpVnlFakxLa0VKUF9JTFpIbkt6X1ZfN05ic0hHeEZIb19NS3JJLVRhc2U3aVVna3Y3RzBXWWF6c0syTEpLWWgxbm9jMUt0eU94dDF0MmM?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 14:31:47 GMT",
       "feedSource": "google-news-race",
       "raceScore": 26,
       "matchedKeywords": [
@@ -72,6 +72,19 @@
         "texas senate",
         "senate race",
         "texas senate race"
+      ]
+    },
+    {
+      "title": "U.S. Senate hopeful Ken Paxton still hasn't accepted invitation to debate rival James Talarico - San Antonio Current",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNR2Z2WEJxSnpGdHBQQkxoelotZjI1dWtqRHdLeUg2U0xOZURGM3YxUDRMSDI3TEEwSVZUcHBHaHNQcmxJMnRjQzk0MTJyVHd1ZmYtQW5lbXJfN1NaOGNOblpDV195cGxCZGNNX3Bpczd6SmdJRHJ1c1JZSnB2MXFVeXdQWjdkbFZ3TVlYSVlUY1Z6dnRoMmdxRHNzRC1SZ3ctRHBtY3F0cFQ2YjdjbUUzaVdoS24xSGdxY2gxYW5fVU9Xc1lHa1Z2cnFmTkFUYTdo?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 14:02:24 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
       ]
     },
     {
@@ -101,7 +114,7 @@
       ]
     },
     {
-      "title": "Texas Senate race puts data center growth in the spotlight - dallasnews.com",
+      "title": "Texas Senate race puts data center growth in the spotlight - Dallas News",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa29sdGVVMUZ3R2FDRG5faDRUR0ZmYmd5YTJROUdIclVfRzFhaHpyeVBLeUlKQW9KRHhNdjNVM0lWeEdzQkRUbXRxWGVyaW5hYjJSS1Fqc2lwZGRGN3BKR1VrVl9IdlNaUmNWYnhINGZzTDJJQzJ4VU1FTTNKdHVqcGhSLWk4ODhBaTg3bU1zc1dIOTJ6aktwX0MxeHFUeGM4TlFPVUNDWXJmWENaeXc?oc=5",
       "pubDate": "Fri, 14 Aug 2026 00:18:23 GMT",
       "feedSource": "google-news-race",
@@ -220,6 +233,18 @@
       ]
     },
     {
+      "title": "Paxton, Talarico still fighting tight Senate race, per latest Emerson-Nexstar poll - KETK.com",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQVhQRWl4QjVRajhaTV91alBSZHh5UnplRHhGcEZrZ2hKNUNLUGM3X0p6eUpqaVB0Vlh5TVB0MlJLdHRmNGs1Y1ZIVEtubXMxbU5BQUNrcEx4SnpBUHZWaWZiXzU2UDdSb0c1YzNoZnZNNjVfTEFLa3h0bFlGNUViS3ZzSXNwbksyMExRMW1DaVBVcVVtcFJSWENQY0NqVF95Ty1PWFJLR0NlV0NwWFhWb0NOYjdhZ091NFJVbjBaTVRoTklGa3JLX3E5d9IB0AFBVV95cUxNZmt6TlJ6WEw2ckpEMENMRWhGbDQ5WWJtZWd2UE9kS1ZvNng3M3BWVXZDakJBdnBlUTBPXy1tcVZGQnFPNjNQbGNCN0RiTHA1OFhidU40N0xFRE5YdndRN2ltNWFyT05xZ1VIcm1YclZsWVFfTWtQYnI3YTNWOURCNUtnWGFzb0NBaUlCdm1mTkZWbVB2Ukdoc0xjSGFuQVBDM2JhN3F2WTZid2pwRDRHVFJRSHN4NU5aZEJWNTVTY1Z0M0oxYkE2cU9ENGhDSUNL?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 20:02:26 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ]
+    },
+    {
       "title": "Can a Democrat reclaim Christian politics in Texas? NPR’s Jason DeRose on James Talarico’s campaign - 88.9 KETR",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdGlwbnluTEtJSDQxLVhqRURvS0VKZHp0aVUwVVpsUVpRcExTRXBpV1d2Ujhwd1VIWmV4YWh3V25fUVVKVDBQSDBVaG93VFhDYVR4YmJyb1lWdVlwSGkzVWl0N2VRaWNrQXNwemNoelJIVzNKMDR5Mm9kdGZabmZLOW5haGdVRE55NU9WbmVIbnpHRXJuWlBpLTNQOVdMR2hwRk5UM3ZZS3NtdDh0c2tIelpEWTZrSDMxejZWOHNDTjdHVE5TYUx4ejVxWFR4UEpXa0kw?oc=5",
       "pubDate": "Fri, 14 Aug 2026 12:05:00 GMT",
@@ -242,7 +267,7 @@
       ]
     },
     {
-      "title": "Boycotting White Oak won't hurt Ken Paxton. It will hurt Houston. | Opinion - Houston Chronicle",
+      "title": "Boycotting White Oak won't hurt Ken Paxton. It will hurt Houston. | Opinion - houstonchronicle.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcE1hV3JtNURFMHFJWVFSY3JuaFlMSzN3YmV2NWdjVTQtZUNvVWNia3dWbzNESmxXUW9mS2pvczVyNHUyNXNGSkdNYVdSM3pHbVFkUEYzVFZ5WjlZS3NXUlRRUzFldk9YeHVNWENIQ2V1ZjBkLXlQLVJYd3JFN2VhVlBfMUtqWTUtODBiTGM2VC02VDNfemhVc1RJdHhIZ09RMUp1NnAwbVdQakFoSEF4VTREVUI3cDFRbTlj?oc=5",
       "pubDate": "Fri, 14 Aug 2026 10:21:19 GMT",
       "feedSource": "google-news-race",
@@ -272,17 +297,6 @@
       "matchedKeywords": [
         "talarico",
         "james talarico"
-      ]
-    },
-    {
-      "title": "Ken Paxton snubs debate invite from Hearst and NBC/Telemundo - Austin American-Statesman",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQkl5NGlFNTNlMVlrSV96ZjNKS3hjaTVMN0gxdEhNRmhVTkVReDhib3BUcE9WRUpHamVtT3RxZVkyWkRnRTNtNHFOTlVUQVFybThBNWc1VjZ0QTBBb0ZQaXllRV9NZGRobzlpd0VvZ2ZkQ1EteVRSV0p5RG4teC1tdGl6WU1wbi1OR0xZN2kyVDJtU1U?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 22:37:21 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
       ]
     }
   ]
