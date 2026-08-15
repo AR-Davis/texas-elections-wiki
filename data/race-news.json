@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-15T03:47:09.779Z",
-  "count": 24,
+  "fetchedAt": "2026-08-15T04:36:57.298Z",
+  "count": 23,
   "feedsChecked": 8,
-  "itemsScanned": 83,
+  "itemsScanned": 81,
   "items": [
     {
       "title": "Who leads 2026 Texas Senate race? Latest Paxton vs. Talarico polls - FOX 7 Austin",
@@ -10,6 +10,20 @@
       "pubDate": "Thu, 13 Aug 2026 17:22:54 GMT",
       "feedSource": "google-news-race",
       "raceScore": 27,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ]
+    },
+    {
+      "title": "Texas Senate Race Tied as Paxton and Talarico Deadlock in Poll - sekbernews.id",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1qSnBwZFYzT2lkYjA4TFIyYjhJVHZKS29yYmVIS013anlMUFV5bGVMbm1aSGNZWDdULWIyMDFLVlVnSl9jb0YtOEFrb2VVNkU4c1o5TVd0b0p4ZU5aaGwtNnozV1dpME85NUFFaWRjSXRqSkowU1V5V0MyU1Y?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 02:07:30 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
       "matchedKeywords": [
         "talarico",
         "paxton",
@@ -122,18 +136,6 @@
       ]
     },
     {
-      "title": "Poll finds Texas Senate race tied as Republicans lead race for governor - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOE9vWEN5ZVpKemE2SEtORDdpbzhBR0E0Ui1iLWFrQjZyM3l4X29LYlBNNXJ1VlM3VjFKZWU0a3RlNXl4LThHbmxIb1FCYU96bGdqWEhTVzRvMDFhZUFJcFlXcXJ2MEI5T1E2enpweWVJdkR4OHJtX3lDalBpbjBBTXU0eV9Gbk4xNmFtWm53N1otUQ?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 14:54:59 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ]
-    },
-    {
       "title": "Poll finds Texas Senate race tied as Republicans lead race for governor - USA Today",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOT3h0Z082Z0poSEtqaThWRmw0UGZjSHlfRlFWdnAzbkZmMjdpQ0hSb0JzNkRrRVlsVFhYNzNZWHBkSC1lZjhnX3A3YUZDS0Q3emdUTXhWc2xNOTlodkNsbTVQU3ozOVp2NVFzVWk5ckg4OVlVSnRfRjQ4SHJhdjB1VUxGbnZKdkhfVU9NeG9SN09CUG1QN0Y5Sm1Mb0ZOWGt0em9IbjVab0wxRzhBbmZVUXB6aVlfRkNRWk9YVU5KWS1JZ0Qtc2NiVEFFckVoZw?oc=5",
       "pubDate": "Thu, 13 Aug 2026 14:54:00 GMT",
@@ -155,18 +157,6 @@
         "talarico",
         "paxton",
         "texas senate"
-      ]
-    },
-    {
-      "title": "Talarico, Paxton gain endorsements in Texas US Senate race - El Paso Times",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONVdZZGEzYUY0TnM3N1Nwakh4dzlNbnBsb2hBRGNhUlNIRU02NGF3MUJGVjFNMmJRRl90WktuNlNieC1VNkxhbzhZdUVETUo1aGVHZ3RCdHRlRmc1VUNNNWNITjVJdjF6R09QVWpqMmYtNVhleTlnQWVwQV9Pdms4ZWJFWFhDdzhtWTFMZWliYTVILVlKUTNFSVJucFFYUUF3SWNDTWxSUmtvN2VTS244Q1FHdURXaXV2c3pWY1RyYXJzQjdSNGdRb1Y3aGZrVWFJanlFam8wcWc2Wjd0VjhpMHBpb29TbmFZbDhTVWgtZTFadlU?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 14:43:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
       ]
     },
     {
@@ -194,6 +184,18 @@
       ]
     },
     {
+      "title": "Talarico, Paxton gain endorsements in Texas US Senate race - elpasotimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONVdZZGEzYUY0TnM3N1Nwakh4dzlNbnBsb2hBRGNhUlNIRU02NGF3MUJGVjFNMmJRRl90WktuNlNieC1VNkxhbzhZdUVETUo1aGVHZ3RCdHRlRmc1VUNNNWNITjVJdjF6R09QVWpqMmYtNVhleTlnQWVwQV9Pdms4ZWJFWFhDdzhtWTFMZWliYTVILVlKUTNFSVJucFFYUUF3SWNDTWxSUmtvN2VTS244Q1FHdURXaXV2c3pWY1RyYXJzQjdSNGdRb1Y3aGZrVWFJanlFam8wcWc2Wjd0VjhpMHBpb29TbmFZbDhTVWgtZTFadlU?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 14:43:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ]
+    },
+    {
       "title": "Paxton, Talarico still fighting tight Senate race, per latest Emerson-Nexstar poll - KXAN Austin",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQmhKX0dJNGJ0eERZTklCX0NpelpCMjRHUzVpMEJuRGFUT19ZV1JhaThPRTVCYUkwZ19ZcGlvVVRVMy1kU1BjemxuSVBrbHAzMF83dEtSZTZZdjlzYlhfTFhkZU5xRlAxQVFTbExxYU44akpKUVY5N2IxVzFlUmF1WXVpTHR0d0NabzAxREdsWEJLUXBYeGFkSmpfZURRUXdtSHlvZdIBqgFBVV95cUxOTjc2WVdZMjlZLWduMlNOLTBRTUk0YXZIRFVHeDFZOExSM1I5RGowa1lrSmFtek15cko5WW0yTFZEVElTSHNtYzZ0XzlaRWhCZE53cWc4VUl3c2h1MnA3VmhNczc0RFFsalh4TjFOaWpJQUJpU0Rmblo1aWdoY1JaNUJoenZHNFQyeGtoc3Fyc0s2SElMYnlub2l2NzdfUmxtZG5aYk5CdEZnUQ?oc=5",
       "pubDate": "Thu, 13 Aug 2026 11:00:00 GMT",
@@ -218,7 +220,7 @@
       ]
     },
     {
-      "title": "James Talarico pushes new plan to woo Texas veterans, pledges to ‘fight for them the way they fight for us’ - Houston Public Media",
+      "title": "James Talarico pushes new plan to woo Texas veterans, pledges to ‘fight for them the way they fight for us’ - houstonpublicmedia.org",
       "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQcmtUbVMyYU51YlBCNjZjZ0hvRndYOTQ1N05sMEN6bTE5NXZLOUcxcXRKanJ0X0lwYXdPN0FETlpWOGFYQ2dhbDVWTnJwcEVYcmhDTXZCMTBKa3JPLWhzUE1xQUlfcXlLV2o4NWdFQl92WWRYdUZVSy12QTZjd19Sa1lKZk9nWnZJOUp0cndmakVEM0hUaVhrSVhDN2NFLUVqX1ZDa3hsV2tTYkJCUVlCQktIZ295ZzFYbkVpSmVRNUQzX3NEMV9lYW5hS0ZyaTREQmdBNjN5V3VXUTAxeGtfTVEwNGJRemxKYjZ4dFBreC1JdzhtWVdiMTRzQnR2LXkwZmhBaHdmVWpUOHY0cExrcGxGVkxQR2NILUNibW83U1VvRkNyOGpmZ9IBqAJBVV95cUxQcmtUbVMyYU51YlBCNjZjZ0hvRndYOTQ1N05sMEN6bTE5NXZLOUcxcXRKanJ0X0lwYXdPN0FETlpWOGFYQ2dhbDVWTnJwcEVYcmhDTXZCMTBKa3JPLWhzUE1xQUlfcXlLV2o4NWdFQl92WWRYdUZVSy12QTZjd19Sa1lKZk9nWnZJOUp0cndmakVEM0hUaVhrSVhDN2NFLUVqX1ZDa3hsV2tTYkJCUVlCQktIZ295ZzFYbkVpSmVRNUQzX3NEMV9lYW5hS0ZyaTREQmdBNjN5V3VXUTAxeGtfTVEwNGJRemxKYjZ4dFBreC1JdzhtWVdiMTRzQnR2LXkwZmhBaHdmVWpUOHY0cExrcGxGVkxQR2NILUNibW83U1VvRkNyOGpmZw?oc=5",
       "pubDate": "Fri, 14 Aug 2026 20:32:41 GMT",
       "feedSource": "google-news-race",
@@ -226,18 +228,6 @@
       "matchedKeywords": [
         "talarico",
         "james talarico"
-      ]
-    },
-    {
-      "title": "Paxton, Talarico still fighting tight Senate race, per latest Emerson-Nexstar poll - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUXdSZ1p4dC02cWlpZ2c0NWI2YmdIa1h4MGdsU2RKRzF4WUdpUnJPT3NxRzBKY3dxRWp4MXVqZU01dTc0cGc0Yy1udUF4SHczOThFd3NWMk8yVmQ1WnpLRE45aHByMkVDVU5VRlRoSHZjQlNoaF9CRGEtUU5tcThkNXFCcF92cW9CS29EWWNB?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 13:03:53 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
       ]
     },
     {
@@ -285,7 +275,7 @@
       ]
     },
     {
-      "title": "Paxton, Talarico tap contrary versions of God and Christianity in appeal to Texas voters - Houston Public Media",
+      "title": "Paxton, Talarico tap contrary versions of God and Christianity in appeal to Texas voters - houstonpublicmedia.org",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeGZrQ0M3aW16NXpwdWZMQkoyZjJMQ010dWtWMXIyOTZ3dTd4MmhaQkRKOWNtZ2VhemJQaGwxRTdsd1lTTnpMSnFOb0s4T193RVdkaFFlRWpSUXc5UWdSbnl0S3Z3bUpGN2V4am9oX1h4a2xJaHV0bnljU2ctT3hMX1lnUmtWRGMwdHJMN1NrY0h3QlJXRS0yM250eUEzeWRyYmMyZ1NrODdiNDhtRlgwZVNZUEZhT1U0S3JQbzF6TnExb1dPZGVLYzFOb0s4eGM4eTM1bXQ5RWdBbzBRVFVTLTdVb0tmdTNkRGtJUEhXNkXSAfABQVVfeXFMTXhma0NDN2ltejV6cHVmTEJKMmYyTENNdHVrVjFyMjk2d3U3eDJoWkJESjljbWdlYXpiUGhsMUU3bHdZU056TEpxTm9LOE9fd0VXZGhRZUVqUlF3OVFnUm55dEt2d21KRjdleGpvaF9YeGtsSWh1dG55Y1NnLU94TF9ZZ1JrVkRjMHRyTDdTa2NId0JSV0UtMjNudHlBM3lkcmJjMmdTazg3YjQ4bUZYMGVTWVBGYU9VNEtyUG8xek5xMW9XT2RlS2MxTm9LOHhjOHkzNW10OUVnQW8wUVRVUy03VW9LZnUzZERrSVBIVzZF?oc=5",
       "pubDate": "Thu, 13 Aug 2026 19:25:17 GMT",
       "feedSource": "google-news-race",
