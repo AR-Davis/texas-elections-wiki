@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-15T15:48:43.339Z",
+  "fetchedAt": "2026-08-15T16:31:01.829Z",
   "count": 23,
   "feedsChecked": 8,
   "itemsScanned": 82,
@@ -33,9 +33,23 @@
       ]
     },
     {
-      "title": "Who leads 2026 Texas Senate race? Latest Paxton vs. Talarico polls - aol.com",
+      "title": "Who leads 2026 Texas Senate race? Latest Paxton vs. Talarico polls - AOL.com",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zTGpGQk8tZXlHOEZVYnAyMHYwaTAtYUIzVW14eTF3MmNXN0xSTkJJcjZaVHJIYnlPc1JFLW8ydUgteG9ZOFVZSXdlVjdIbDVEZnp6WlcwR01Jc1dUMXVUZERuaVhwZVU0TzhDbXpSZHd4ZXZJQUdCT0JrUlA?oc=5",
       "pubDate": "Fri, 14 Aug 2026 01:55:36 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ]
+    },
+    {
+      "title": "Who backs Paxton, Talarico in Texas Senate race? See endorsement list - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSWpqbjdaY0c2UGU0el91ckJtakVNRERCdlFqbXZZZjkxejNibWxsdTlveWhHdWVib3RTQllfejhpdE1rMmdJWmtEd1JHUXVERDUxM3BVLVJGazBUQTNsNE5qUnNOOE04NVdBVTFZdmRXQWo4ZEwyZWlLVTVDdHhNRnpTbktiSnlzTE41dl9lUWIyRURJTHM1V21FYndoTzVSUklkWVUyd2tfU2xRNGRKYnRldDg1R2JfVTdTMzg3Q1EwOUtvLUZPWkd6d1RTWXNKajZpbFZn?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 19:58:01 GMT",
       "feedSource": "google-news-race",
       "raceScore": 26,
       "matchedKeywords": [
@@ -87,31 +101,6 @@
       ]
     },
     {
-      "title": "Arrington shares why he backs Paxton as Texas Senate race remains tied - Lubbock Avalanche-Journal",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZVEwUWNwZkVvQjI3amlvbEFQd3FpY0JYNVNsNUp0NFROTU1LQ2w1aVA3ZXVXeUJHemU1THJSbkFxelJxTGFkRURGZWxjQV81clNjQy10MWhCV2hhbTdUd3lTR2tjbksyTzBTdGYtTnhHNnFfRVRCbUNiZ2l0d2dWRUhqbFJsYjVIWHo4dm03WEVVdklZbjVxV1VGY1FLclZhbXgtUURrQU13T3RyeWlPS2ozNXA1eG9nQndfX0tBMEdtV3lEeHhFTkpibFJKVVVlZkE?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 17:37:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ]
-    },
-    {
-      "title": "Where the Texas Senate race stands: A voter’s guide to recent polls - Fort Worth Star-Telegram",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV3IxQ013RXRzdkxOZC1wcC1adktPWFRUVWxUXy1ldmx5T0FrVDk3bzFzeVFfZXVrNE1oMFltV3hqSnNiTHNhRkJIMWJiTk5FMko2UV9SQXRQckpuYTFHY05xSGdXcWNydkRoVnhKWkNxWUJYOG0xNW5ZUVB2cGY1bGtBcUhyemE3QVIteVJKX1pHUzNadmfSAZYBQVVfeXFMTzI3MFprQUVZWWdUOW9SUFp3bUVnYW5GY2J6ZE1pYVRnNi1ySE5xR1ViY1Uxblc2Q0dNcm9PODNscWZPTXpnNURRMDlZVkFyVWNqLWlrM21GRTk1WGF6YnI1d3FFTm9nalhad3dheVJUSEg1cEVwZ3g3c3gzNVQ5VTYwYlc3Rjlyc2lMM2Q0bDkteGEtSUJR?oc=5",
-      "pubDate": "Sat, 15 Aug 2026 09:58:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ]
-    },
-    {
       "title": "Texas Senate race puts data center growth in the spotlight - dallasnews.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa29sdGVVMUZ3R2FDRG5faDRUR0ZmYmd5YTJROUdIclVfRzFhaHpyeVBLeUlKQW9KRHhNdjNVM0lWeEdzQkRUbXRxWGVyaW5hYjJSS1Fqc2lwZGRGN3BKR1VrVl9IdlNaUmNWYnhINGZzTDJJQzJ4VU1FTTNKdHVqcGhSLWk4ODhBaTg3bU1zc1dIOTJ6aktwX0MxeHFUeGM4TlFPVUNDWXJmWENaeXc?oc=5",
       "pubDate": "Fri, 14 Aug 2026 00:18:23 GMT",
@@ -133,6 +122,18 @@
         "talarico",
         "paxton",
         "ken paxton"
+      ]
+    },
+    {
+      "title": "Where the Texas Senate race stands: A voter’s guide to recent polls - star-telegram.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV3IxQ013RXRzdkxOZC1wcC1adktPWFRUVWxUXy1ldmx5T0FrVDk3bzFzeVFfZXVrNE1oMFltV3hqSnNiTHNhRkJIMWJiTk5FMko2UV9SQXRQckpuYTFHY05xSGdXcWNydkRoVnhKWkNxWUJYOG0xNW5ZUVB2cGY1bGtBcUhyemE3QVIteVJKX1pHUzNadmfSAZYBQVVfeXFMTzI3MFprQUVZWWdUOW9SUFp3bUVnYW5GY2J6ZE1pYVRnNi1ySE5xR1ViY1Uxblc2Q0dNcm9PODNscWZPTXpnNURRMDlZVkFyVWNqLWlrM21GRTk1WGF6YnI1d3FFTm9nalhad3dheVJUSEg1cEVwZ3g3c3gzNVQ5VTYwYlc3Rjlyc2lMM2Q0bDkteGEtSUJR?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 09:58:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
       ]
     },
     {
