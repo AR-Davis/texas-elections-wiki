@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-15T17:25:20.202Z",
-  "count": 24,
+  "fetchedAt": "2026-08-15T17:48:50.082Z",
+  "count": 25,
   "feedsChecked": 8,
   "itemsScanned": 84,
   "items": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "title": "Who leads 2026 Texas Senate race? Latest Paxton vs. Talarico polls - AOL.com",
+      "title": "Who leads 2026 Texas Senate race? Latest Paxton vs. Talarico polls - aol.com",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zTGpGQk8tZXlHOEZVYnAyMHYwaTAtYUIzVW14eTF3MmNXN0xSTkJJcjZaVHJIYnlPc1JFLW8ydUgteG9ZOFVZSXdlVjdIbDVEZnp6WlcwR01Jc1dUMXVUZERuaVhwZVU0TzhDbXpSZHd4ZXZJQUdCT0JrUlA?oc=5",
       "pubDate": "Fri, 14 Aug 2026 01:55:36 GMT",
       "feedSource": "google-news-race",
@@ -114,6 +114,18 @@
       ]
     },
     {
+      "title": "Where the Texas Senate race stands: A voter’s guide to recent polls - Fort Worth Star-Telegram",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV3IxQ013RXRzdkxOZC1wcC1adktPWFRUVWxUXy1ldmx5T0FrVDk3bzFzeVFfZXVrNE1oMFltV3hqSnNiTHNhRkJIMWJiTk5FMko2UV9SQXRQckpuYTFHY05xSGdXcWNydkRoVnhKWkNxWUJYOG0xNW5ZUVB2cGY1bGtBcUhyemE3QVIteVJKX1pHUzNadmfSAZYBQVVfeXFMTzI3MFprQUVZWWdUOW9SUFp3bUVnYW5GY2J6ZE1pYVRnNi1ySE5xR1ViY1Uxblc2Q0dNcm9PODNscWZPTXpnNURRMDlZVkFyVWNqLWlrM21GRTk1WGF6YnI1d3FFTm9nalhad3dheVJUSEg1cEVwZ3g3c3gzNVQ5VTYwYlc3Rjlyc2lMM2Q0bDkteGEtSUJR?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 09:58:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ]
+    },
+    {
       "title": "Texas Senate race puts data center growth in the spotlight - Dallas News",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa29sdGVVMUZ3R2FDRG5faDRUR0ZmYmd5YTJROUdIclVfRzFhaHpyeVBLeUlKQW9KRHhNdjNVM0lWeEdzQkRUbXRxWGVyaW5hYjJSS1Fqc2lwZGRGN3BKR1VrVl9IdlNaUmNWYnhINGZzTDJJQzJ4VU1FTTNKdHVqcGhSLWk4ODhBaTg3bU1zc1dIOTJ6aktwX0MxeHFUeGM4TlFPVUNDWXJmWENaeXc?oc=5",
       "pubDate": "Fri, 14 Aug 2026 00:18:23 GMT",
@@ -138,18 +150,6 @@
       ]
     },
     {
-      "title": "Where the Texas Senate race stands: A voter’s guide to recent polls - star-telegram.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV3IxQ013RXRzdkxOZC1wcC1adktPWFRUVWxUXy1ldmx5T0FrVDk3bzFzeVFfZXVrNE1oMFltV3hqSnNiTHNhRkJIMWJiTk5FMko2UV9SQXRQckpuYTFHY05xSGdXcWNydkRoVnhKWkNxWUJYOG0xNW5ZUVB2cGY1bGtBcUhyemE3QVIteVJKX1pHUzNadmfSAZYBQVVfeXFMTzI3MFprQUVZWWdUOW9SUFp3bUVnYW5GY2J6ZE1pYVRnNi1ySE5xR1ViY1Uxblc2Q0dNcm9PODNscWZPTXpnNURRMDlZVkFyVWNqLWlrM21GRTk1WGF6YnI1d3FFTm9nalhad3dheVJUSEg1cEVwZ3g3c3gzNVQ5VTYwYlc3Rjlyc2lMM2Q0bDkteGEtSUJR?oc=5",
-      "pubDate": "Sat, 15 Aug 2026 09:58:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ]
-    },
-    {
       "title": "Poll finds Texas Senate race tied as Republicans lead race for governor - USA Today",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOT3h0Z082Z0poSEtqaThWRmw0UGZjSHlfRlFWdnAzbkZmMjdpQ0hSb0JzNkRrRVlsVFhYNzNZWHBkSC1lZjhnX3A3YUZDS0Q3emdUTXhWc2xNOTlodkNsbTVQU3ozOVp2NVFzVWk5ckg4OVlVSnRfRjQ4SHJhdjB1VUxGbnZKdkhfVU9NeG9SN09CUG1QN0Y5Sm1Mb0ZOWGt0em9IbjVab0wxRzhBbmZVUXB6aVlfRkNRWk9YVU5KWS1JZ0Qtc2NiVEFFckVoZw?oc=5",
       "pubDate": "Thu, 13 Aug 2026 14:54:00 GMT",
@@ -162,7 +162,7 @@
       ]
     },
     {
-      "title": "Paxton, Talarico locked in dead heat for Texas Senate: Poll - The Hill",
+      "title": "Paxton, Talarico locked in dead heat for Texas Senate: Poll - thehill.com",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRngyZ050UWpzQ2NPUEVodmFXaGxmSFBkdWh1LUVkUXk2dURaazF4U0NpTTJtc3dNWFRGeFE1cjBfdDBIekUycWRreXpCWi1KeXotRDBBOHhiQzhOcGNSSkVpQUJLNGdkR2drbnFTTXFoN2o0MEFna2dOUmlHMEtaV09UYVBFX2fSAYwBQVVfeXFMT1ZwSS1DR2ZNUV93c3h1SElJa2pDZlBLQlJLc0RERUp0dFY1aTZEQ1hhQzdJQmJNSGhGdUZtcERpcmZJX0QtNWFEbi1jaU1JVWtlYnAzUC0tX0ZLd3kzX1JZd2Jpb19HNElGbWZzbmN5MTBjMWtDdHcxMVJsTGN5Umd4cUEtNDk5Q3JCS0c?oc=5",
       "pubDate": "Thu, 13 Aug 2026 10:00:00 GMT",
       "feedSource": "google-news-race",
@@ -210,7 +210,7 @@
       ]
     },
     {
-      "title": "Texas 2026 Poll: Paxton and Talarico Deadlocked in U.S. Senate Race; Abbott Leads Hinojosa by Four Points - - Emerson Polling",
+      "title": "Texas 2026 Poll: Paxton and Talarico Deadlocked in U.S. Senate Race; Abbott Leads Hinojosa by Four Points - emersoncollegepolling.com",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SSEdQaXEzbGx2THpYQmg2TGNZQXJKMndoWUxRZjVKZUNfVW4xdlVKUHQ1a0N2bWJMTjhld1V0UHBqMm9sQWZpcGtxeDVBazM2VVFVV3M5cHF6dXUwdkVnd04xb0xzNFZ3WGg3cXJJMHd1QnVQLS1sNWN3?oc=5",
       "pubDate": "Thu, 13 Aug 2026 10:08:08 GMT",
       "feedSource": "google-news-race",
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "title": "Boycotting White Oak won't hurt Ken Paxton. It will hurt Houston. | Opinion - houstonchronicle.com",
+      "title": "Boycotting White Oak won't hurt Ken Paxton. It will hurt Houston. | Opinion - Houston Chronicle",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcE1hV3JtNURFMHFJWVFSY3JuaFlMSzN3YmV2NWdjVTQtZUNvVWNia3dWbzNESmxXUW9mS2pvczVyNHUyNXNGSkdNYVdSM3pHbVFkUEYzVFZ5WjlZS3NXUlRRUzFldk9YeHVNWENIQ2V1ZjBkLXlQLVJYd3JFN2VhVlBfMUtqWTUtODBiTGM2VC02VDNfemhVc1RJdHhIZ09RMUp1NnAwbVdQakFoSEF4VTREVUI3cDFRbTlj?oc=5",
       "pubDate": "Fri, 14 Aug 2026 10:21:19 GMT",
       "feedSource": "google-news-race",
@@ -297,6 +297,17 @@
       "matchedKeywords": [
         "talarico",
         "james talarico"
+      ]
+    },
+    {
+      "title": "Ken Paxton snubs debate invite from Hearst and NBC/Telemundo - Austin American-Statesman",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQkl5NGlFNTNlMVlrSV96ZjNKS3hjaTVMN0gxdEhNRmhVTkVReDhib3BUcE9WRUpHamVtT3RxZVkyWkRnRTNtNHFOTlVUQVFybThBNWc1VjZ0QTBBb0ZQaXllRV9NZGRobzlpd0VvZ2ZkQ1EteVRSV0p5RG4teC1tdGl6WU1wbi1OR0xZN2kyVDJtU1U?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 22:37:21 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
       ]
     }
   ]
