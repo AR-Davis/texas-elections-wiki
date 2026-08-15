@@ -1,9 +1,26 @@
 {
-  "analyzedAt": "2026-08-15T15:25:52.699Z",
-  "newsFetchedAt": "2026-08-15T10:27:55.161Z",
+  "analyzedAt": "2026-08-15T15:47:38.836Z",
+  "newsFetchedAt": "2026-08-15T15:26:30.216Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "U.S. Senate hopeful Ken Paxton still hasn't accepted invitation to debate rival James Talarico - San Antonio Current",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNR2Z2WEJxSnpGdHBQQkxoelotZjI1dWtqRHdLeUg2U0xOZURGM3YxUDRMSDI3TEEwSVZUcHBHaHNQcmxJMnRjQzk0MTJyVHd1ZmYtQW5lbXJfN1NaOGNOblpDV195cGxCZGNNX3Bpczd6SmdJRHJ1c1JZSnB2MXFVeXdQWjdkbFZ3TVlYSVlUY1Z6dnRoMmdxRHNzRC1SZ3ctRHBtY3F0cFQ2YjdjbUUzaVdoS24xSGdxY2gxYW5fVU9Xc1lHa1Z2cnFmTkFUYTdo?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 14:02:24 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W33"
+    },
     {
       "title": "Where the Texas Senate race stands: A voter’s guide to recent polls - Fort Worth Star-Telegram",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV3IxQ013RXRzdkxOZC1wcC1adktPWFRUVWxUXy1ldmx5T0FrVDk3bzFzeVFfZXVrNE1oMFltV3hqSnNiTHNhRkJIMWJiTk5FMko2UV9SQXRQckpuYTFHY05xSGdXcWNydkRoVnhKWkNxWUJYOG0xNW5ZUVB2cGY1bGtBcUhyemE3QVIteVJKX1pHUzNadmfSAZYBQVVfeXFMTzI3MFprQUVZWWdUOW9SUFp3bUVnYW5GY2J6ZE1pYVRnNi1ySE5xR1ViY1Uxblc2Q0dNcm9PODNscWZPTXpnNURRMDlZVkFyVWNqLWlrM21GRTk1WGF6YnI1d3FFTm9nalhad3dheVJUSEg1cEVwZ3g3c3gzNVQ5VTYwYlc3Rjlyc2lMM2Q0bDkteGEtSUJR?oc=5",
@@ -1607,21 +1624,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "general",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "James Talarico calls for AI dividends, help for first-time homebuyers - Austin American-Statesman",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOU9PcHhWZnhiVEtHSTRPSGRnMVI0LUdaRUxKMGJBdDVGUmxzVVFLX21RRW1qdk10OXFLYmNlT2FYbXhGbmRGXzZWUzF6YXotNjJPVzlWT1NJRHNZemFRX3NaUW1PYmFzTjV1WFFxc296YVJUN2dGQjZqVHJiak5CRnRDTmNmSlpnNGtXNUtLV2Z3azctcUtQZXZRalVtdEdZUVFJTU1HTEs?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 18:55:34 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
       "weekKey": "2026-W32"
     }
   ],
