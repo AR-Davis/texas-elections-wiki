@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-16T03:05:04.604Z",
+  "fetchedAt": "2026-08-16T04:09:06.726Z",
   "count": 25,
   "feedsChecked": 8,
-  "itemsScanned": 77,
+  "itemsScanned": 76,
   "items": [
     {
       "title": "Who leads 2026 Texas Senate race? Latest Paxton vs. Talarico polls - FOX 7 Austin",
@@ -244,17 +244,6 @@
     },
     {
       "title": "State of Texas: One point separates Paxton, Talarico in Senate poll - KXAN Austin",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcnlpVWNKbUQyQmp0YjBRZl9KeWtTa3IwTXc5eHg0VDJIc0FoNGdBblI5Q05yUVZSbUcxdDZnZTZEamFsRGRpc0VwM2FuaENtQVpEQVNUa3Z4dmdNZjhQR2FGdkJBLVpqYmp4ZHBoRmlrcmdIZVYxTmN1ZE54ZktLY0ZWZ203ejhjQWthWWVOdUh4R0RSbG04bjFBY1ZJbjhIWEdUONIBqgFBVV95cUxPcHJvdWlHeDRwZzhsRm0xY2xlc2xDSS04S2ZXQlhXeXNPRHQ1MWNEUXRRRndnQnVOSTF2MWs1LVFzdEpIUzE4V0M3NTVfaTBkTFFCQ3ZCVk9rVEtyQzlsc2dzcWN3SXpBcWFESDF5cS1CZGxZNmNEZXlYTzFQQTQ2WjI2VzU3ZndZTkJOZlVwTW5maUVTbHRDSzIyQmxtd2diY3lZdDRVMHhsQQ?oc=5",
-      "pubDate": "Sat, 15 Aug 2026 23:00:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ]
-    },
-    {
-      "title": "State of Texas: One point separates Paxton, Talarico in Senate poll - KXAN Austin",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYVo5dzRMMW9pdG0xRjVQZ0prd3NvS290N2tyUV82VFFVa083M2NieGxXd2VlaWd0VlZoUjd5bXFyUzZiS2lGdXVKUm96UzJva2JsQlZJZDFnVWRDUVJSZ1VncmZwbVhNeERGdm5HLVFyeXk2Z19OeWNDNTRyczNHODRwbVZKaklRTzhiT1dIb3ZKSzBQa21sYm1MXzRNZ0U5bkVIVA?oc=5",
       "pubDate": "Sat, 15 Aug 2026 20:29:00 GMT",
       "feedSource": "google-news-texas",
@@ -306,6 +295,17 @@
       "matchedKeywords": [
         "talarico",
         "james talarico"
+      ]
+    },
+    {
+      "title": "Ken Paxton tries to tamp down growing Republican concerns about his Senate campaign - CNN",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tR3FMUVExaGZJOGZFNzlEdHNBdFBFTXY0QUJ5TjRibjhKWFY1M2dOVVlFUm9yVnJiUGdUcVpfSEIxam9Pc3B5dXdrbDBvdHo3ODZWOVJpMi1jNWZxUVJXU2xsQjVfVUZ0V3VYcm1LMmt0eUVJNVZTQ3RQQjY?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 09:00:29 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
       ]
     }
   ]
