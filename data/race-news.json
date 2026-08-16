@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-16T06:50:05.604Z",
+  "fetchedAt": "2026-08-16T07:35:43.003Z",
   "count": 25,
   "feedsChecked": 8,
-  "itemsScanned": 77,
+  "itemsScanned": 76,
   "items": [
     {
       "title": "Who leads 2026 Texas Senate race? Latest Paxton vs. Talarico polls - FOX 7 Austin",
@@ -174,18 +174,6 @@
       ]
     },
     {
-      "title": "Talarico, Paxton gain endorsements in Texas US Senate race - El Paso Times",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONVdZZGEzYUY0TnM3N1Nwakh4dzlNbnBsb2hBRGNhUlNIRU02NGF3MUJGVjFNMmJRRl90WktuNlNieC1VNkxhbzhZdUVETUo1aGVHZ3RCdHRlRmc1VUNNNWNITjVJdjF6R09QVWpqMmYtNVhleTlnQWVwQV9Pdms4ZWJFWFhDdzhtWTFMZWliYTVILVlKUTNFSVJucFFYUUF3SWNDTWxSUmtvN2VTS244Q1FHdURXaXV2c3pWY1RyYXJzQjdSNGdRb1Y3aGZrVWFJanlFam8wcWc2Wjd0VjhpMHBpb29TbmFZbDhTVWgtZTFadlU?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 14:43:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ]
-    },
-    {
       "title": "Sen. Cornyn Joins Texas Senate Democrat Nominee Talarico, Locals in Opposition to Trump’s Big Bend Border Projects - breitbart.com",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQN21UQ3pJMWRocmx5bEh6Q1BWWUxDXzVLN2ZFQ2JaWVlhR0s4Z05mY3o2YUFsM3BJc0NPWWJkZW5HVDhLTzlsZ2ZNRDN1dGlNS2lYZHhmWHluWllxaWItc1RtT082amszMUstbndjNjM0VEFibjFhYUs5NzRWU1JTeW9LRkIxdkxQZmo3dU1hSVFWOTRScm10eXhYeURnS0s3VVg0SEk2ekxRck80ejhtR0xmZXBJSUlxNG5mNjNvSDk0SXZub1h5bDNJdnQwZGhhWDJ0V0ZkWkFiUkd1X1R0UUl4cWIwUHdFUFQ0LdIB8gFBVV95cUxPQ3lKSXhNYU83bk91WVl4aVktWVdrazZ3NWtpaEhPaHJuQ040ajZKSXYtS25HYWxHTWhESjJfM2tlUW1jdk1kdWtyeml6d0FWMjA0U0oyeWtraWpIUnhnc19WZ1ZWVzVwRDJxYktJRHVqRWJCVlBvdmhMYldxbFZINS15UkhtT0k2d3c0NFdvX3pjWlU5X08yOFlCOTEyMFlIclBhTmh2R1RnbDVKaGljVTVoZy0yWjlXMldJbTA5NTFMNnhhc3lsSVN0VF90MVh0dVdsc3BaQ0s1LXlyeEU5TkJoYzV3Sk5fQ3ZQMFdYYmEyQQ?oc=5",
       "pubDate": "Thu, 13 Aug 2026 14:08:54 GMT",
@@ -195,6 +183,18 @@
         "talarico",
         "texas senate",
         "cornyn"
+      ]
+    },
+    {
+      "title": "Talarico, Paxton gain endorsements in Texas US Senate race - elpasotimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONVdZZGEzYUY0TnM3N1Nwakh4dzlNbnBsb2hBRGNhUlNIRU02NGF3MUJGVjFNMmJRRl90WktuNlNieC1VNkxhbzhZdUVETUo1aGVHZ3RCdHRlRmc1VUNNNWNITjVJdjF6R09QVWpqMmYtNVhleTlnQWVwQV9Pdms4ZWJFWFhDdzhtWTFMZWliYTVILVlKUTNFSVJucFFYUUF3SWNDTWxSUmtvN2VTS244Q1FHdURXaXV2c3pWY1RyYXJzQjdSNGdRb1Y3aGZrVWFJanlFam8wcWc2Wjd0VjhpMHBpb29TbmFZbDhTVWgtZTFadlU?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 14:43:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
       ]
     },
     {
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "title": "Boycotting White Oak won't hurt Ken Paxton. It will hurt Houston. | Opinion - Houston Chronicle",
+      "title": "Boycotting White Oak won't hurt Ken Paxton. It will hurt Houston. | Opinion - houstonchronicle.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcE1hV3JtNURFMHFJWVFSY3JuaFlMSzN3YmV2NWdjVTQtZUNvVWNia3dWbzNESmxXUW9mS2pvczVyNHUyNXNGSkdNYVdSM3pHbVFkUEYzVFZ5WjlZS3NXUlRRUzFldk9YeHVNWENIQ2V1ZjBkLXlQLVJYd3JFN2VhVlBfMUtqWTUtODBiTGM2VC02VDNfemhVc1RJdHhIZ09RMUp1NnAwbVdQakFoSEF4VTREVUI3cDFRbTlj?oc=5",
       "pubDate": "Fri, 14 Aug 2026 10:21:19 GMT",
       "feedSource": "google-news-race",
