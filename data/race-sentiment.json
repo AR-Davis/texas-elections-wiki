@@ -1,9 +1,56 @@
 {
-  "analyzedAt": "2026-08-16T10:27:15.378Z",
-  "newsFetchedAt": "2026-08-16T03:05:04.604Z",
+  "analyzedAt": "2026-08-16T10:50:08.938Z",
+  "newsFetchedAt": "2026-08-16T10:28:17.253Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Texas Senate race polls 2026: latest predictions for record-breaking election - The Times",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeWJPaUZGZS1EMUE3WUR6elNRekJLdkt5ZUVPcE1fY21SdWdCeUFYMGdtSGtUUUVFZ2tDUXZVNzRmMlNBanktUUdpYTFtVllYS3dhTF9oLS1zckdzdHVpM0NHWWpkN0VhTV81VTFzVFloejg1aEZMRXVSLVZyajFrTlN1cFFzT3hXck55aTc4R2praDJ3SW1JOW41bGdLWGh5VUlUS2tsSnA0Zw?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 11:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "general",
+      "weekKey": "2026-W33"
+    },
+    {
+      "title": "The $1,000 pen from Ken Paxton’s past is back in the Senate race - Austin American-Statesman",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbk0zdFVnUzJlbTMwV0Jzd2pMWDM0T1FJMEZ1VXZWRDZmR19VWF90eDNVQU9SeXIzaVVGbVlHNWtXME1XZEtZTVVWQjhJbjNweGtFb2lFTWFuWHhFalVaQ09tbTZXb3RYeXJYWGszQlpGUXV0ZEhuUkktc1FES1BYNXRHZUdGOEx6XzFMeEhDREY3VmtMTUtJQm8xM2pub2xXMkJBdVlzMmN5UQ?oc=5",
+      "pubDate": "Sun, 16 Aug 2026 10:06:07 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W33"
+    },
+    {
+      "title": "Paxton, Talarico tap contrary versions of God and Christianity in appeal to Texas voters - Salon.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTF9xbEtwZjA2U2gxMXFJcE9QSDBmSTNtLXNFbUVDWHJsSDRwWTRiX3J3eTdDYk00WnNpdS1GTzVlMzFxQlFZdHNaUjRXdC01U0RNYW5EVmpWZ0lmREJIUk1tOTlMYlJKdkM0bmJBbXg3cmJDSUJsdnJZNy10dG02eERfOVo3Ym0zTDJNMC1QU1Y1T2lMeVpObllwQWJtSVdGb0pGbER1Vy0xOEloQS1KTmtPcjB2Nl9ZOGQtaXpB?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 10:00:23 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W33"
+    },
     {
       "title": "Exclusive — Ken Paxton: ‘If We Lose Texas, the Senate’s Gone’ - breitbart.com",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb3Ewc09QNUs4UXNwbWNhOV9tRllsOURMdEtKZVNhUFY0czY0cDBkU19IMC10dHFoRTJZMFRiTEhUXzYtTlBJQWk2YTlDUkQ5YTdabFF6eFdhV3hSd2t5V2p4bUxveFJTdGE4NXEyY1hycHZDYXRyUHRVRnNFbWZYZGx2MDlmQ0JNNThoR3hjQlVRNW9QV3pqSkV5YUNxRmpLUVp0VjNicE_SAagBQVVfeXFMT29xMHNPUDVLOFFzcG1jYTlfbUZZbDlETHRLSmVTYVBWNHM2NHAwZFNfSDAtdHRxaEUyWTBUYkxIVF82LU5QSUFpNmE5Q1JEOWE3WmxRenhXYVd4UndreVdqeG1Mb3hSU3RhODVxMmNYcnB2Q2F0clB0VUZzRW1mWGRsdjA5ZkNCTTU4aEd4Y0JVUTVvUFd6akpFeWFDcUZqS1FadFYzYnBP?oc=5",
@@ -1554,53 +1601,6 @@
     {
       "title": "Democrat Talarico leads Republican Paxton in new U.S. Senate race polling - The Moore County News-Press",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVDJaYTRlZ0wyUE1HcWY5SjZKR3A2SjZVUmdGOEJhY0U5b09SSDdBaDBaby1Hd2FzNVFBb0M0bHdHZ3drYTNEQ2R6RjM5UXl1amIxcGFpbkhIQnlNemdZem1pUHYxLWtObXRvVGl6R3dlTHBiU2FZdjMzdTZMLUswOTZFdGdsMk9GbGhDMVZZUHJvLU9TY1hkUnFNczc2T1Z6ZE4zaGdULWUyOG9ZTllGN3o2ekp1dDJMcDctcmdvUXYzVnBxaG12cnlUUndsdmlsMHVaczZzU3J4UUhXQnZ2REpTZl9RRkItOWFVUXhwRkc?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 17:34:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "Are There Really Democrats for Ken Paxton? - texasmonthly.com",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPakM1RFowRmdPNzh1c0czYTBubVZ5ZEpLY3Rwa0JkN3VxU19xRkZEVlVCTFM0bldWS1MyWGJjT0Q3VVZvNzNmQUZVc0llaC1EazlkRGU4Q0tncmFMcGhmSDk2MDV2ejVGaHV6Qk9KMjhhVU5ES3NYRXc3OWRBenRrdlZR?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 11:00:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "Talarico Leads Paxton in New Texas Senate Odds: Can Democrats Finally Flip the State? - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOXBlT2JCcVRRYVJkdlZSSUZQTndqd3VzOS11Q3dJXzJVek1ZRjAxMG5FVXF3ampPR0w4SWFhNDFXWTFEMVZ2ZnBBSF9ueFc4R0w5dzhFREVpVHF5WXhualdWQmo2SHVDZkZuTDJUZzBNeEdtY3RyeVVab1ZnN25lUWtDTnJGN3hsZkZrXzRKR3VtTHVRVWFtZTlR?oc=5",
-      "pubDate": "Sun, 09 Aug 2026 14:16:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "Democrat Talarico leads Republican Paxton in new U.S. Senate race polling - The Center Square",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVkNoMG1qQWFMSjdlVHZmbHlSVkdsYUhDUThuLXZnTGJWZ2NHRFBtdG9wQnJ1MjdYLU10bGJIRkRIV0h5MXlFM3NIQzRlb3JjXzg3dFJvVGdsS2lJelYxNTExWmRSZlIzMXhWa0VsVi1PRVkydGU3UnNTb0RDM0RrX00wV2U5TVA3MEVQcXhVRWHSAZYBQVVfeXFMTlpzODZrczBsU3lRVEsyemUxYXZVc3hya183d1hGZk54RGV1TnhLbVA5OG1fVDNmNWYtVFQxRXQtQU1USkZQQkpCdG1tVTRuV29yYzNGZFd2VEZDY0stYkpBeUt5TlAyeXgwbGppb2YtM2pGajRzNG5ETGU0TTB6aVdWSlhTcGtFVy1UTFBxLVpla2ozZXB3?oc=5",
       "pubDate": "Fri, 07 Aug 2026 17:34:00 GMT",
       "feedSource": "google-news-race",
       "raceScore": 13,
