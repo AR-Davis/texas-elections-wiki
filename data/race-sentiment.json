@@ -1,9 +1,39 @@
 {
-  "analyzedAt": "2026-08-16T03:03:55.160Z",
-  "newsFetchedAt": "2026-08-15T23:25:24.852Z",
+  "analyzedAt": "2026-08-16T03:54:49.380Z",
+  "newsFetchedAt": "2026-08-16T03:05:04.604Z",
   "totalAnalyzed": 100,
   "newThisRun": 2,
   "stories": [
+    {
+      "title": "Exclusive — Ken Paxton: ‘If We Lose Texas, the Senate’s Gone’ - breitbart.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb3Ewc09QNUs4UXNwbWNhOV9tRllsOURMdEtKZVNhUFY0czY0cDBkU19IMC10dHFoRTJZMFRiTEhUXzYtTlBJQWk2YTlDUkQ5YTdabFF6eFdhV3hSd2t5V2p4bUxveFJTdGE4NXEyY1hycHZDYXRyUHRVRnNFbWZYZGx2MDlmQ0JNNThoR3hjQlVRNW9QV3pqSkV5YUNxRmpLUVp0VjNicE_SAagBQVVfeXFMT29xMHNPUDVLOFFzcG1jYTlfbUZZbDlETHRLSmVTYVBWNHM2NHAwZFNfSDAtdHRxaEUyWTBUYkxIVF82LU5QSUFpNmE5Q1JEOWE3WmxRenhXYVd4UndreVdqeG1Mb3hSU3RhODVxMmNYcnB2Q2F0clB0VUZzRW1mWGRsdjA5ZkNCTTU4aEd4Y0JVUTVvUFd6akpFeWFDcUZqS1FadFYzYnBP?oc=5",
+      "pubDate": "Sun, 16 Aug 2026 00:58:08 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W33"
+    },
+    {
+      "title": "Exclusive — Ken Paxton: ‘If We Lose Texas, the Senate’s Gone’ - breitbart.com",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZXNEeTZ0OURvcXVXVkU1RV8wQzRwM2d3bHBCcldOSzZvS1ZlNzlCUWxiRkg3SWllWjFaLUdVbkFzaDFzenhDUExCTF9ERUJLMkFBa0ZWUERmY040djlZV0ZaMzllaVQzQ3BlT01CNklFaEJqRVVPbDhCc2kxY1liLXJpek9yRWxYUm9ibFRRWGFkZDZnazhYcnpHNi1LZzdNaWRv0gGoAUFVX3lxTE9vcTBzT1A1SzhRc3BtY2E5X21GWWw5REx0S0plU2FQVjRzNjRwMGRTX0gwLXR0cWhFMlkwVGJMSFRfNi1OUElBaTZhOUNSRDlhN1psUXp4V2FXeFJ3a3lXanhtTG94UlN0YTg1cTJjWHJwdkNhdHJQdFVGc0VtZlhkbHYwOWZDQk01OGhHeGNCVVE1b1BXempKRXlhQ3FGaktRWnRWM2JwTw?oc=5",
+      "pubDate": "Sun, 16 Aug 2026 00:52:48 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W33"
+    },
     {
       "title": "State of Texas: One point separates Paxton, Talarico in Senate poll - KXAN Austin",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcnlpVWNKbUQyQmp0YjBRZl9KeWtTa3IwTXc5eHg0VDJIc0FoNGdBblI5Q05yUVZSbUcxdDZnZTZEamFsRGRpc0VwM2FuaENtQVpEQVNUa3Z4dmdNZjhQR2FGdkJBLVpqYmp4ZHBoRmlrcmdIZVYxTmN1ZE54ZktLY0ZWZ203ejhjQWthWWVOdUh4R0RSbG04bjFBY1ZJbjhIWEdUONIBqgFBVV95cUxPcHJvdWlHeDRwZzhsRm0xY2xlc2xDSS04S2ZXQlhXeXNPRHQ1MWNEUXRRRndnQnVOSTF2MWs1LVFzdEpIUzE4V0M3NTVfaTBkTFFCQ3ZCVk9rVEtyQzlsc2dzcWN3SXpBcWFESDF5cS1CZGxZNmNEZXlYTzFQQTQ2WjI2VzU3ZndZTkJOZlVwTW5maUVTbHRDSzIyQmxtd2diY3lZdDRVMHhsQQ?oc=5",
@@ -1578,43 +1608,6 @@
         "talarico",
         "paxton",
         "senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "James Talarico Criticized for Housing Undocumented Family Amid Texas Senate Race - sekbernews.id",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBib3FfQkVWMUhFelhJamJaVDVFMnBheVRlQ1Z0OW93UnJlSDBMUnBwekl3TU5Lb0h4aHE0Y2FkMlB2TE1peDZERlBYYlZHc1p6WWlvcFd4Zm1PVVgtaTl2el94YXRlODJtUGd6eWtXNlpVR1V4VWlheXpVWQ?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 04:29:22 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "Inside Texas Politics | James Talarico ahead of Ken Paxton in 4th Senate race poll - WFAA",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPT0NGb0puUUtLeGFfU1U3RUZiZFNjRzlKRnNOWi0yUjRETGp1YzA0VWJDWkR1dGNrcUkxVUxLeFQ5YWk1YVFKMkdJZmNJT1FhbHpQVkNqUEhWSXVxQUx6WGFFN2pDMkFubEp0RHdzVjdXZ01TZ0txY1E3TzZnNU9JOFltak9FSVBRWWt3bkNsbG05aUh2QVFwUmtaekllMEFadzdRNDUxNm1qOTYxVE5JTWVpYzZPTFlIZDJpU3JkNjVZQmRHSDlyZ1V0MzBycmdTbFEyTzBKcUpGdFpBSWczaTJQMjlhZU11NV9UdWNLUUNpV3Zab2R1TjlR?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 03:40:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 30,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "senate race",
-        "texas politics"
       ],
       "sentiment": null,
       "error": "HTTP 405",
