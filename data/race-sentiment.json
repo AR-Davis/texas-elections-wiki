@@ -1,9 +1,25 @@
 {
-  "analyzedAt": "2026-08-16T15:48:00.488Z",
-  "newsFetchedAt": "2026-08-16T15:26:46.352Z",
+  "analyzedAt": "2026-08-16T16:30:04.354Z",
+  "newsFetchedAt": "2026-08-16T15:49:35.670Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Texas Man Endorses Talarico For Senate Because Ken Paxton Once Stole His Pen - HuffPost",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOWtxWUstS3Q0ODRibkJjZVpkZHJiRDhyZjRHcFdmSjRmbnFXSVV4TUMwRzVCQ3R3ZjNGb2lVc2ZielJPdUxOVW1tQzNMa0dmX1VKbkhOZGxxSVFjMEdfeFQ2X05MbERXdVNCRVdUVl8tTXBiQTZNV2pZVDh3S2pfMXJRUFVkWm51b2MwUng3Q2NKb0w1aG1WanlwUG1fckHSAaQBQVVfeXFMUHVzXzJxZTZmUWVrVWdPQVA4VktEMjBMdnl6c2FlQkswalRGQTk5MWQ3bWowS2I5NGlHMUlrZkUzdjFiT3FHS1hfb2xYcGxQa0p2Wlp2NlZWS2NPR3dXYXU3Q1hTLVhHTExyT0tydGdSY24yOFpHazlLdlUyc1oteFBrNHhSaGp4QjlhUURnSTBmODJQdEx0SW9BdG5WQ3lKdmlVc1o?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 20:20:38 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W33"
+    },
     {
       "title": "Talarico touts endorsement of man who accused Paxton of stealing $1,000 pen - Washington Examiner",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVE5GRS1GUFpNZmJiMnB3SHZlRzNpbWF2YVV1RlZFWTVpVjh3NnZVdmFzcGZKOWEweEhiOFBhSWgyMEhGd2FyNVlDcGM4WnRKQzBNa29QeTlsNHgzNXlqeUhkd1ZpbXJoV0VDNmtBR1F0aUlQd0pGQ2xYS3djWHl2VkQyOGYweEtoMFJzSklKZ2pNcEdydHRYWXRWWkswaEFZMWh4NXQ2aURVM0p6Z0NMY3VPLUZjTWJOeUFIajlNYVNXTWpaUTJEdnJ2NA?oc=5",
@@ -1589,25 +1605,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "paxton",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "Inside Texas Politics | James Talarico ahead of Ken Paxton in 4th Senate race poll - NewsBreak: Local News &amp; Alerts",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbU1lYUI5QUxWWkZrQkxOQVd0Zkg4d2RQVEJvQ2ZSM1hVcXJGWDhXQmF2Z1c3OEJYRUNfVWJlcklwU0Rmdnd1bFE3NVJQeHcxMzdSMkRLbEgwcjB2V3FBQ29CaWpkdTN2XzI2RGJfYWFqSjgtaXJSUDNUdXdybF8tNEpKTG9YNVNRM3prODBoODlwRC1TSlhLa1M4OUtCYThIRjE5OXQxc0hvdmRMbWc4SnVtRGpHWUtlX1pGcDZFWWlsR1ZwbDNYQk1ENGU?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 03:40:02 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 30,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "senate race",
-        "texas politics"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
       "weekKey": "2026-W32"
     }
   ],
