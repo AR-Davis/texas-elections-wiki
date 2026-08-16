@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-08-16T18:34:23.201Z",
-  "newsFetchedAt": "2026-08-16T17:24:08.264Z",
+  "analyzedAt": "2026-08-16T18:58:19.490Z",
+  "newsFetchedAt": "2026-08-16T18:35:41.267Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "James Talarico Embraces Faith in Texas Senate Race Amid Evangelical Backlash - sekbernews.id",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vdmhDSklxUG03N3hFWUhnZXpTcTNybm1BOXE4bWVuaVpjNnByYmZmUk5aT2tDMzE3aEQyZmhDdE1kWlNYR1I4Q1NBSGgxVHd5cEFXX195bUZCcFE5OV9HcThsQ19jQUwxVWlfQUF3OA?oc=5",
+      "pubDate": "Sun, 16 Aug 2026 13:53:38 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W33"
+    },
     {
       "title": "Ken Paxton seeks Republican unity as Texas Senate race remains competitive - Межа. Новини України.",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wSXJhVHQxY3ZvS1U4U0JEbVo3UF9hLTU4Qk83Q2JCamZaMUhraUsxUWFzMEtaejI5WU54Z19rVVRmODh0NTVUTko4VlF4WEVkT3EtZUJlMDlJNFlBT1JvbExyMmc?oc=5",
@@ -1587,23 +1605,6 @@
         "paxton",
         "ken paxton",
         "attorney general"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "James Talarico leans into populist message in Pasadena, attacking Ken Paxton and ‘billionaire megadonors’ - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdUlTVXZCNmpUWHlfOW5sWEk2bEpRUVRLalBFV2t1WVFrbHRxUzMzMGZ6YTMtMnM2dEJsMlI3RzRfMkc5VmdTdzRjc1k0ckFGWUppVXZBWE5vVk1ja2hjRm1ucXhWU3RiSzJ4UVlvdDFSdDQySWplYVV2WW5adjhfU09CR3NzUVJqY2VWTjdPWVFtMzZzMUR0X0E4M3RXbmtPM0ZmektfQnVhRUdNRTZzX1p2cnJtMzU0ajBKSWVzYTEzMmZKR2kyUWE0VzE2VDJU0gHQAUFVX3lxTE11SVNVdkI2alRYeV85bmxYSTZsSlFRVEtqUEVXa3VZUWtsdHFTMzMwZnphMy0yczZ0QmwyUjdHNF8yRzlWZ1N3NGNzWTRyQUZZSmlVdkFYTm9WTWNraGNGbW5xeFZTdGJLMnhRWW90MVJ0NDJJamVhVXZZblp2OF9TT0JHc3NRUmpjZVZON09ZUW0zNnMxRHRfQTgzdFdua08zRmZ6S19CdWFFR01FNnNfWnZycm0zNTRqMEpJZXNhMTMyZkpHaTJRYTRXMTZUMlQ?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 15:58:02 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 23,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
       ],
       "sentiment": null,
       "error": "HTTP 405",
