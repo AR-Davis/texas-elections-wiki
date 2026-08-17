@@ -1,9 +1,54 @@
 {
-  "analyzedAt": "2026-08-17T16:32:38.881Z",
-  "newsFetchedAt": "2026-08-17T13:42:38.789Z",
+  "analyzedAt": "2026-08-17T16:57:36.484Z",
+  "newsFetchedAt": "2026-08-17T16:33:41.206Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Ken Paxton says he doesn't know 'details' of Texas' THC ban — even though he's the state's top legal officer - San Antonio Current",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaXpEVHlPTXAzNVVUeW9PaTJJb1QzaDBEbC1kVk9kN2pJNmZCQW1DdVFGMm83TlFtX0tJdFNvbml3cVhCZkxjRU1sMGFQSXg4eGFQelRSZ3ZxT081WlVQQUZzbEdrYTlMV1NabWFnem41RVYyUHlsZ2lYZUI1b0lHOW1OeHZfOVBBdXdoTEdzVWtEc0NvY2s3ZGVzYzcxaE91RXVYVlFQOTNjZEZsSEpMdnlERVdSUHhha29GWlVYTDhhLXBoRFRMb0prWkxtbGNLUzcxdVoweFR6a09fQVJzUEFES2FyZG40SnI4?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 14:14:45 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W33"
+    },
+    {
+      "title": "Ken Paxton slammed for running away when asked about Texas law: 'Let's talk later' - rawstory.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SQ08wcV9EWFY3X1gxdU1CcmpxdDBEdkM2TzJVVTRxdFFCT2Y5VEtqLVRpYVBEU1JTU2RxR1hSMmh6SmlxTGp4aHEzYUFUbnZQS2VTSHY2OFl6Y1lqdWFvVUY5RVBIQllDOVk0T0Jn0gFuQVVfeXFMT1JDTzBxX0RYVjdfWDF1TUJyanF0MER2QzZPMlVVNHF0UUJPZjlUS2otVGlhUERTUlNTZHFHWFIyaHpKaXFManhocTNhQVRudlBLZVNIdjY4WXpjWWp1YW9VRjlFUEhCWUM5WTRPQmc?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 20:18:26 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W33"
+    },
+    {
+      "title": "Ken Paxton suffers massive new blow as investigation blows lid off dubious fraud crusade - rawstory.com",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LVjhzRFJYamZsMS13NG9zQmhLbWU4SERUSkxGWTRXZDYxeEZteWpzZkRYbG1QdVZOM1VzYVhBSTdZbmhCWEFtdWpTSEhqWUNob2ZYVnI5b0U4REMwd25KVy1ZUzBvUdIBeEFVX3lxTE9nX2VuWWZIUllLajEyYm11TV9pMkJNSW9oYjhrazctaV9hZUFfYXR5M3dzbFkzTnV6a05QNzZ1WmQ0RndHd0J4UFMwWlFXOGJ0SjFwZHFvWVd1MmN0czFWbFB3c0FMZlhvdlg3N292WXYwaTFUaTk4Qg?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 15:30:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W33"
+    },
     {
       "title": "Talarico walks back religion comments in Texas Senate race - eciks.org",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TQWU2ODdVWlFWZ0JvZVpTSVNYaGprME40SlRRcF9CUWFFOGNhQ201Um1jOHdWU0ZrcjRELVh6bXJWcE5XUG0ybW1fRXdCV3dLcU9aTTZYcmV4YkFDYkNDSV80enNjVU9qU1pxUXRYdGI?oc=5",
@@ -1541,58 +1586,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "talarico",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "Paxton's Frisco Cell Tower Deal Draws Fire as Talarico Leads Texas Senate Race - Hoodline",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTlE2ZVU1d0dobTYybFdicmtZNlBRMG10QWxpUmh4X1VXR1pZXzBVbF9ROW1aTGg3ZHNnRHdTYmhwNXRTZ1FzUXlRdWpiTTVrX2xMX3FnSXctQ25qZDA4NkZNUDdwWXhoeVZ6ZGlBd3ZZNUhwMTJIdk1HRUZNSlhCcGtCdU9TdDdMUEJBNzd0MVdsQmxrRFVTaDJGQTVxVVI3QUlKZU1ULXpLcEdM?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 18:44:54 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "Ken Paxton touts economic plan, bashes Senate race rival James Talarico at rally - KTEP 88.5 FM",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSDRRR1NtcjNDR2ozRUhEWkdrUWJURUpieHJoOTZPRnpSTHVSdnVSdVVJRHUwb1VwRlZqV21oRFIyREg4ZHgwRG1CbjJOZ2FIT2t2WGZsMm4tR0x5RWhWS3U3ZVZpMEFkNl9LX1RHbTZNWUlPeHlvNzA2V3ZqdUZVUHM5TTdzRDVkTnBjVzVBSEFfLTFjVzdNVG53UEV4aVlJWnN5b3NEV1hMQjlMMFhseQ?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 23:09:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 25,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "Texas Senate Odds 2026: The Paxton Vs. Talarico AI Model Verdict Vs. The Kalshi Market - OddsShopper",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWXI5RUI2dWE3ZWxBb3hSYnpTcHZzUmtnZmtoUzZwSEJGbm5NdGYySUw3NlBsdXRTeUsxWVR4UUNzRjJGM1lrLXN1bHJyb2xBaFozU2l3OUJWZV9WaHdhU2lQbHc4ZzZTOW9BWWVNTFczUDA2MzlYRHEzaWlZbnM5YUwwM0E0ZFVLbWk4ci1qYk8?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
       "weekKey": "2026-W32"
     }
   ],
