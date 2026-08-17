@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-08-17T10:35:50.532Z",
-  "newsFetchedAt": "2026-08-17T09:49:04.727Z",
+  "analyzedAt": "2026-08-17T11:30:12.140Z",
+  "newsFetchedAt": "2026-08-17T10:37:02.841Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "An Ad For the Ages: “Vote for James Talarico. He won’t steal your pen.” - Daily Kos",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY2dwNzJIZWRuZHJTbDNlR09YZVVFYUNVMGlHV3N5bHd3a0ZKaUd6dTh3ckNFY3F1MHphZlk0Ri1HbEJzMFF6dS1xMS1wSUwtcE9uUWtXUGQyUkZFTXJwaWVBTm9BYTMtZ2pkcHZrMlZWN01sb0stQ0c0dVk3bWlKTG0yTXlqV19xeXVpcUQ5UlVkRGhaLU8ycXdaWjU1U0xTOGR3djFNdVlNbU0yZUsyZzFxdG9pZ1h3cDhoQlpyRnhfeVJvX1BF?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 15:36:08 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W33"
+    },
     {
       "title": "The 20 biggest donors to Ken Paxton and James Talarico's Texas Senate race - Houston Chronicle",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZU3JMQzliMTVWSURSY1FPcGI5WXQtdHljOVI0M2k5UzNKaU9oSHVuUG9velRnRTV1TnhxbnA1TDA5cVQyNVZCZlo5X2NHemRscWJzcmJKaVlBVTdLS2NKLUtQamFQNTk1bEJEV1NkblI0THBUYWVxTkwwYUlUZUk?oc=5",
@@ -1586,21 +1601,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "Ken Paxton Criticizes Opponent’s Christianity Before Texas Rally Heckler Fires Back: ‘You Cheated on Your Wife’ - The Nerd Stash",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONG4yQlZIVUFGS0laR1Ewck5KTl9zZ3BlWXVweU9BVjVpbjhSVC1ka2l5WVNzdW05YzcxZmhlMWFRSVhjLThkMTdRRm9ELWkycXRpazd1VU0zdVp5LVZQUldjcVpYU1dES25Cc1VWZTBYY1g1bm02bzQ0ZWdLX1R2ZFVkOTREU2Jxb0VTaHdfMklBVUtxc3pjbHVJUmkwTzRzZ3Q5LTFMbjQ3SVBsdlAyTENYQXpuTmJwSHRXVlJRM2xENUdxbVZxZzhNdFN3Zw?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 08:15:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
       "weekKey": "2026-W32"
     }
   ],
