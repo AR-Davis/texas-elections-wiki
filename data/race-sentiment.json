@@ -1,9 +1,25 @@
 {
-  "analyzedAt": "2026-08-17T07:03:47.242Z",
-  "newsFetchedAt": "2026-08-17T06:01:40.044Z",
+  "analyzedAt": "2026-08-17T07:57:19.252Z",
+  "newsFetchedAt": "2026-08-17T07:33:52.659Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "James Talarico steps into the crowd to greet attendees after Thursday’s rally in Abilene on Aug. 13, 2026. The Texas Democratic candidate for U.S. Senate spoke to an overflow crowd of around 800. - lufkindailynews.com",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQV0JzZHl5V2dzeDk3QV9lLVdnRTJncGxEXzM5TFhwUHdNb21GbkZRUWNxNVFsMXJCNkRGUDh5MllPdDlCMDdDajM1ZXZ2Xy1IRGNjNEo4SERKU3p3NkFoMUFyYWVkakRMc1lwazFJR3ZBMlhqRkxtNzhmRmYyVmJSemZYSldiNW5iV2VqUzF2T3JVZDBNZkppLVExUzRyRURpQ0MxU2U0R1RMdjNOWFJaMlhRSEtRWE9uZExNai1aZW10ZE9EUVp6MHlIVExIMklqcDVpLWZmQ0t0TU0tV0RIMlVSNkxWVC1aOE1PT3VsMVFyczZWTkNxaFdnNi1XMi1qdk9XMVRzLVRBbldXTXBWRA?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 19:30:49 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas democrat"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W33"
+    },
     {
       "title": "Paxton, Talarico still fighting tight Senate race, per latest Emerson-Nexstar poll - bigcountryhomepage.com",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcktIZFBnYzlzNU1ZWHFFcko0UmR0QURDS09pN3ZuT2s2QTlJV2ZqdlhpaFAxYzlwYzJCeDZWTVJ3RFNRVW9RczFJcWRJRjJXdER1RzR5ZG84dDYwcFpHVnllMTA1dmJ5d3hiQ28ycTVJOWVMcWRGMXA0Z2NvdVRBQ1hscmVYTmZ5RXlGYmNCNWpQVXJNWTFHbE0zVVpLZGZKM0RhZ2ptV3pxNHdXbVdfc216Y1liREptYWZXc0plVkJEdkFNTDN3Mm56Wko4LU5BR3fSAdcBQVVfeXFMT2VWR0lLYlFnU0VYczBHY2xreEVJNWkxOVBzNldiOFVzajFEeDNhMlBuUWhiSUNEY1daSjNRVDdzNWpHNjdFNFpZZE9XeVF5NGRrWVFoUGkyMEJuTnU0cEF0UjFDcGhOR0tXWlR0NklSM19TTE5LbzVabWlxdjhaMDVuN2NqMWxmSkE0SmRrZlpicDFSYnhNZnRZVTM4S0VsbWtsNG4xVjR5VnFLeGdGYjUxWWFDLUJEc3ZzaGQxNnJVWWNXN0d4eGZMZENweHlicVVLMmtmX28?oc=5",
@@ -1586,23 +1602,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "Talarico brings ‘New American Dream’ tour to Port Arthur as Texas Senate race heats up - 12newsnow.com",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxObXUzWS1oanZTenAzNm5YYnVoMlhsZjJJS0g4Nmp1WEVSaHZXOG5rQVc2VnBaQTdWNTFOa25BRkhOZjBrdGFKWlRhYjNsc2dmNTl1T2taVE1obDlRWTNhRUYyVF9ZRHRyZGZpeHFJRlM5MTU3bmVpRHREWFBUMnFhUXFydlplZk4yTUpUMC05OGNlSXhXTUhXT0RKMDJ3d2JFeVA4S3FUSXdQb3VuU1FRVDIwTFFHRTRqMEZzUk9CeUZoU2N6c1d4UV9mdmM3SkZUZnViZkU1VVRSTjdvWVRuM2xQYlBDc3V5QUJMNFZUSUpBNG53cG93anNkNmViUmM?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 03:13:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
       "weekKey": "2026-W32"
     }
   ],
