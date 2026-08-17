@@ -1,9 +1,41 @@
 {
-  "analyzedAt": "2026-08-17T13:42:02.224Z",
-  "newsFetchedAt": "2026-08-17T12:54:30.945Z",
+  "analyzedAt": "2026-08-17T14:32:21.286Z",
+  "newsFetchedAt": "2026-08-17T13:42:38.789Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Talarico walks back religion comments in Texas Senate race - eciks.org",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TQWU2ODdVWlFWZ0JvZVpTSVNYaGprME40SlRRcF9CUWFFOGNhQ201Um1jOHdWU0ZrcjRELVh6bXJWcE5XUG0ybW1fRXdCV3dLcU9aTTZYcmV4YkFDYkNDSV80enNjVU9qU1pxUXRYdGI?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 09:08:52 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W33"
+    },
+    {
+      "title": "Talarico walks back comments on religion and gender after Paxton's win - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTlBjOGxUYUZyTnFyci04a1NVcWZMb1QwMmlXOGdxaThhd0dyRkM3cENLOGhxbUxQWDZadmtWR2ZVNDNMQVJfNG1QR2cyS2JkOHczdHR1SV9KMy1SaUJrZGdPXzAzUW92a1B1N2E1TkxoVWJHbzNqVmhBLW04NkQ1ei1xTy15R1pydjhnV1EwcEtWTlFDUlJvU2hmaU1BM01lWVBGWGhGY1Jpd9IBrwFBVV95cUxNR3ZxR0lCd3piTnlxTDFOQzZHQktKYldfSWV1dmNVcHloUlNfY28ycHR1Y054dnQxSXVDaTVUYU5pWXNadTFuak5OLTRMNWY5QXBYVW5HWmFvTGFPclU4dG9lR0tRTDgyZXRDTGVfRjNRRkdGbjhSeTRVTjZ2Vm1QbHVpUUpqam9MeUlfMXdvbFluOURGWmdidU5OcXA2X3hWQjE5dDhZb0VkcnFvUWFr?oc=5",
+      "pubDate": "Sun, 16 Aug 2026 23:46:14 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 10,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W33"
+    },
     {
       "title": "Texas Man Endorses Talarico Because Ken Paxton Once Stole His $1,000 Pen - HuffPost UK",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbmYwdDliT2J2blVLU2tTa0RMaGhaX1B6TlpYektya3VmYk1TNU1kQlpjU3FWd2NqVkJuaUNrUC1mTnNxOXlrZkU2dTZ1TzE1VDhMbnVTVkpDcnVvR0NyUzNfaFNqSFRzT3FjSHF6aHBaT09jbGluVVRwbW1kSDI4V1QwRjEtN3RBXzJYaGt6OGl0YVRJS1R1SWpmUTRvdnpxYVhBTV9mMjBoZw?oc=5",
@@ -1557,40 +1589,6 @@
         "talarico",
         "paxton",
         "texas senate"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "Inside Texas Politics | James Talarico ahead of Ken Paxton in 4th Senate race poll - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcUQtU24zR3NjTk8xMTV0U0RmbWd1VFd1bHRqSlY5QU94RWNVLU95Tl9NWGw3cVhRZjVSUUJBWHREX2d1WmxKakRxdkY1a3BfZl83eUdKbTZ6dHR0Y3NQRzhrOFUtU3RnVFdVMDg4TkFQbnJQelhmY1JKOUtzX1RXU2NYWXowMkxMRWNsdlZn?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 03:40:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 30,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "senate race",
-        "texas politics"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "Paxton vs. Talarico: Solutions for Texas Affordability - Daily Signal",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTUV2VlhnUDBaalFuclBJTE55RXk5VjZVRkVqU2NhbWRfcFNyb0F1U1VGRUYwbHRIZmhRRTlDdjR0ZzJwdmtXVkNZTVVCeDlrLWNfby1zbnVEZ0IzbG51RHJRSnJVZExBYnFxQjRUU1VjeFNaXzA2amFCSzJtZUFfWg?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 15:35:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
       ],
       "sentiment": null,
       "error": "HTTP 405",
