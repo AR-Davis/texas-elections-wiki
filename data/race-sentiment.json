@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-08-17T18:45:58.626Z",
-  "newsFetchedAt": "2026-08-17T16:33:41.206Z",
+  "analyzedAt": "2026-08-17T19:31:34.693Z",
+  "newsFetchedAt": "2026-08-17T18:47:39.229Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Ken Paxton suffers massive new blow as investigation blows lid off dubious fraud crusade - rawstory.com",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9nX2VuWWZIUllLajEyYm11TV9pMkJNSW9oYjhrazctaV9hZUFfYXR5M3dzbFkzTnV6a05QNzZ1WmQ0RndHd0J4UFMwWlFXOGJ0SjFwZHFvWVd1MmN0czFWbFB3c0FMZlhvdlg3N292WXYwaTFUaTk4QtIBeEFVX3lxTE9nX2VuWWZIUllLajEyYm11TV9pMkJNSW9oYjhrazctaV9hZUFfYXR5M3dzbFkzTnV6a05QNzZ1WmQ0RndHd0J4UFMwWlFXOGJ0SjFwZHFvWVd1MmN0czFWbFB3c0FMZlhvdlg3N292WXYwaTFUaTk4Qg?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 15:32:49 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W33"
+    },
     {
       "title": "Ken Paxton says he doesn't know 'details' of Texas' THC ban — even though he's the state's top legal officer - San Antonio Current",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaXpEVHlPTXAzNVVUeW9PaTJJb1QzaDBEbC1kVk9kN2pJNmZCQW1DdVFGMm83TlFtX0tJdFNvbml3cVhCZkxjRU1sMGFQSXg4eGFQelRSZ3ZxT081WlVQQUZzbEdrYTlMV1NabWFnem41RVYyUHlsZ2lYZUI1b0lHOW1OeHZfOVBBdXdoTEdzVWtEc0NvY2s3ZGVzYzcxaE91RXVYVlFQOTNjZEZsSEpMdnlERVdSUHhha29GWlVYTDhhLXBoRFRMb0prWkxtbGNLUzcxdVoweFR6a09fQVJzUEFES2FyZG40SnI4?oc=5",
@@ -1564,21 +1579,6 @@
       "pubDate": "Tue, 11 Aug 2026 18:29:50 GMT",
       "feedSource": "google-news-race",
       "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "James Talarico reveals economic policy platform in Port Arthur - Beaumont Enterprise",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNy1zUlM1LVRPSXg3MmlmckhpZ0piQVlaajB5M19LWnBuam5IUVIxSjNnNlRlSHBqM2R0anRzVWpyYVJWSjJOdDYtVTFMSF93VXJ6QnVEOV83eVNiZkJTcTEzcDZfUnExMC1taXFwdG9DMHpydHFYVTc1ZzdoYUVhelpKV0JxSnpIWlhPZkYzVGc1N1lJTTlYODdFVQ?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 20:34:39 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
       "matchedKeywords": [
         "talarico",
         "james talarico"
