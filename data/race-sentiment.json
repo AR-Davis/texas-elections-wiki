@@ -1,9 +1,55 @@
 {
-  "analyzedAt": "2026-08-17T12:52:20.664Z",
-  "newsFetchedAt": "2026-08-17T10:37:02.841Z",
+  "analyzedAt": "2026-08-17T13:42:02.224Z",
+  "newsFetchedAt": "2026-08-17T12:54:30.945Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Texas Man Endorses Talarico Because Ken Paxton Once Stole His $1,000 Pen - HuffPost UK",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbmYwdDliT2J2blVLU2tTa0RMaGhaX1B6TlpYektya3VmYk1TNU1kQlpjU3FWd2NqVkJuaUNrUC1mTnNxOXlrZkU2dTZ1TzE1VDhMbnVTVkpDcnVvR0NyUzNfaFNqSFRzT3FjSHF6aHBaT09jbGluVVRwbW1kSDI4V1QwRjEtN3RBXzJYaGt6OGl0YVRJS1R1SWpmUTRvdnpxYVhBTV9mMjBoZw?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 20:20:38 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W33"
+    },
+    {
+      "title": "Paxton, Talarico tap contrary versions of God and Christianity in appeal to Texas voters - Odessa American",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSUJmRm81V3RBRjktY1RkaGI0eGlKOXRxM1Q4QWhXa1hmem1yRFIwbVRsY1o2MkxKcFkydjFZRHRWN25uWkI0WXQxR0JFNTFfYURkWXdOcHl6TlRvRERueW1Vd3V5Q0ZCdUg5VVNkYjFvcC1zSVFEc1oyYWdFdjFGbTkyaGZ4eGZPRGNya3gwTlZTd19oWGpTaGxYTlpacWQwUjY0aXo4dU5scm92a1gxVjdxWFRkOFlzNHREMk9ULUNVY3d1NDBzNkdn?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 13:00:34 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W33"
+    },
+    {
+      "title": "Ken Paxton tries to tamp down growing Republican concerns about his Senate campaign - news8000.com",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQbDlxRm1talpsakVDQWhMYTlrMGN5cnhIVGtyWGtRd250VzhCYnA5YkwxYmxLMFNkOGNlZk1Ia1Ftb2ZRVmNZR1BUcUFuVnNhMEhzNlhmSWZrNlh0bEJNcjNCLVNueDRNNjRJdnFCTHJXanMtVHRJWVNXbmVWeGp0RjBCNjhQV21BOXBDV21tdkJDUHRrY25vZUtqOGVzNk9jSHpCdHBwUjBBRm5NVE9rTF9GZlZDMUtrc3U5Z25WZzA2eFZ3T2EyZFNQLXVPdm5VQ08tTi1rUU5Kak9heFg0Z0FSN2R1elBrenNEekdUS3llNjlRUTJxQ0pGOGR0LU5TLUNGOGp2OTU3Sk1OeXNfYjdSQ3lXYW9XY1E?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 13:27:32 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W33"
+    },
     {
       "title": "An Ad For the Ages: “Vote for James Talarico. He won’t steal your pen.” - Daily Kos",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY2dwNzJIZWRuZHJTbDNlR09YZVVFYUNVMGlHV3N5bHd3a0ZKaUd6dTh3ckNFY3F1MHphZlk0Ri1HbEJzMFF6dS1xMS1wSUwtcE9uUWtXUGQyUkZFTXJwaWVBTm9BYTMtZ2pkcHZrMlZWN01sb0stQ0c0dVk3bWlKTG0yTXlqV19xeXVpcUQ5UlVkRGhaLU8ycXdaWjU1U0xTOGR3djFNdVlNbU0yZUsyZzFxdG9pZ1h3cDhoQlpyRnhfeVJvX1BF?oc=5",
@@ -1545,58 +1591,6 @@
       "matchedKeywords": [
         "talarico",
         "paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "Ken Paxton tried to mock James Talarico’s Christianity. It immediately backfired. - LGBTQ Nation",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdklGdjk1Tk1PemlLYTFHSDcyMzJNYXpHZ0FLdDIwUjNQRVZLZmJhT203ZnpXaTR1VGVPV1dZUDdBVTVpNUYzSnlNSnJVRTQwdC1nWU9WQWtWRV81b0VNQnN2ODVpU2hkR2FZTnBoZW1kaXBjRFIxQjAyajV3Wk11OFJiV3E1UGM0bVprVnlWSmhDdnBlVUowZG9Nam9IUlZieGFqMlRJQjlGVDE3eEhEVDNNWEQyUQ?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 20:30:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "Tim Scott slammed as 'idiotic' for saying James Talarico was running in Michigan - The Mirror US",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWUxWc2tFRzVmUnliYzNyWTdNUndkdV8xUUVGVTFZNElFRkxOOGw2MTRHOVJpQ0sza3JQalR3cWg2UF9zU2ZWQ2xza1pyaUt6WXkzMUVSd3dTUTNseG9VTm9DVl9yNXdXakVzVUppWDl4dTl2bGU1dkxpMG8zSFZFdFZhWdIBiAFBVV95cUxQeVNLLXJXSGk2cVdjUWREeDVPX0lWTWFCOWU0UmJ3WHkyRTg3S0xvTllQbXgyS3ZTRnE5SDlrRThhY2hFaUt2VVpkcE84ZXFYaXFYYU5zbzJ3dXFsNzZTTFEtbkxoNWg5d2lHN3Uxd1hYS3JQZ19CQ1gtY0ZVUW5fYW9VbW93c0Rz?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 21:45:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "Ken Paxton Appeals for Campaign Funds as James Talarico Leads Texas Senate Race - asatunews.co.id",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZemRyWUd0ZkJKZmlfOE1nR3RMbEpBbm8yU3JrRXdnRkFuaFR1bHBfTXN6VnM4X0hPeVZFRFZRX2R4R2Q0NHFDUXBQdllRakFydGF1TUVXaVdkdnNZcEhjNnRFWkRRbENHMWs5eVktUQ?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 20:34:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 38,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
       ],
       "sentiment": null,
       "error": "HTTP 405",
