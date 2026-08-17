@@ -1,9 +1,44 @@
 {
-  "analyzedAt": "2026-08-17T08:49:15.058Z",
-  "newsFetchedAt": "2026-08-17T07:33:52.659Z",
+  "analyzedAt": "2026-08-17T10:35:50.532Z",
+  "newsFetchedAt": "2026-08-17T09:49:04.727Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "The 20 biggest donors to Ken Paxton and James Talarico's Texas Senate race - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZU3JMQzliMTVWSURSY1FPcGI5WXQtdHljOVI0M2k5UzNKaU9oSHVuUG9velRnRTV1TnhxbnA1TDA5cVQyNVZCZlo5X2NHemRscWJzcmJKaVlBVTdLS2NKLUtQamFQNTk1bEJEV1NkblI0THBUYWVxTkwwYUlUZUk?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 09:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 39,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W33"
+    },
+    {
+      "title": "State of Texas: One point separates Paxton, Talarico in Senate poll - BorderReport",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdTBIRHdvMDFzcFVLSm1OQmtJMGgxaWdwZTE5QmRici1zX0NzSVo5WVhuTVhpNEZVTjZSV2RsWUtYSkQ5RXVPZ1ZNbEVyc21MLXM4VDB6NmtxSVUtWWhOSTVNc01oUDNZbjBTcFY2UGM5QmJhME5yTlB2S3Y1NXVvanlEeWZlMlR1X3Q2d0NxYUswT25xZWttMmk5dlZrRnhramYyLU9VbGdOLWdqX2JB?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 20:29:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W33"
+    },
     {
       "title": "James Talarico steps into the crowd to greet attendees after Thursday’s rally in Abilene on Aug. 13, 2026. The Texas Democratic candidate for U.S. Senate spoke to an overflow crowd of around 800. - lufkindailynews.com",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQV0JzZHl5V2dzeDk3QV9lLVdnRTJncGxEXzM5TFhwUHdNb21GbkZRUWNxNVFsMXJCNkRGUDh5MllPdDlCMDdDajM1ZXZ2Xy1IRGNjNEo4SERKU3p3NkFoMUFyYWVkakRMc1lwazFJR3ZBMlhqRkxtNzhmRmYyVmJSemZYSldiNW5iV2VqUzF2T3JVZDBNZkppLVExUzRyRURpQ0MxU2U0R1RMdjNOWFJaMlhRSEtRWE9uZExNai1aZW10ZE9EUVp6MHlIVExIMklqcDVpLWZmQ0t0TU0tV0RIMlVSNkxWVC1aOE1PT3VsMVFyczZWTkNxaFdnNi1XMi1qdk9XMVRzLVRBbldXTXBWRA?oc=5",
@@ -1566,42 +1601,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "paxton",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "NEW POLL: TEXAS SENATE RACE IS NOW A TOSS-UP (Paxton Vs Talarico) JUNE 2026 Declan Rice (EgkjtQHn2z) - Mshale",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03VmdMR1dZeDZMYmVqMkVLWFk5eDE2cE55ZWJJYzhxR21KelRYbmZ1d0lLdERSTFE5N0c2VURYRlJ4R2tsZjBIR0Q2VVNSV2VERDBXR2tDTkZxZDQ?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 03:59:54 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "Talarico Leads Paxton in Tight Texas Senate Race, Paxton Appeals for Support - asatunews.co.id",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mOHZLV3A0S3U1N2t4M0hTaGNIM0trYkhhQnF5Wkltd2tSbE9uV0VvUGRHZDNaZ0twdWhRZGZTRGY4QXZuWlJGT2xVVWhCYV92SzExUkxkZWtJbnBucndhTk8wQkJ2X1JUcWNMY29ZWnlvQm8?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 21:03:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
       "weekKey": "2026-W32"
     }
   ],
