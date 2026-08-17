@@ -1,9 +1,25 @@
 {
-  "analyzedAt": "2026-08-17T05:38:21.302Z",
-  "newsFetchedAt": "2026-08-17T04:19:54.862Z",
+  "analyzedAt": "2026-08-17T07:03:47.242Z",
+  "newsFetchedAt": "2026-08-17T06:01:40.044Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Paxton, Talarico still fighting tight Senate race, per latest Emerson-Nexstar poll - bigcountryhomepage.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcktIZFBnYzlzNU1ZWHFFcko0UmR0QURDS09pN3ZuT2s2QTlJV2ZqdlhpaFAxYzlwYzJCeDZWTVJ3RFNRVW9RczFJcWRJRjJXdER1RzR5ZG84dDYwcFpHVnllMTA1dmJ5d3hiQ28ycTVJOWVMcWRGMXA0Z2NvdVRBQ1hscmVYTmZ5RXlGYmNCNWpQVXJNWTFHbE0zVVpLZGZKM0RhZ2ptV3pxNHdXbVdfc216Y1liREptYWZXc0plVkJEdkFNTDN3Mm56Wko4LU5BR3fSAdcBQVVfeXFMT2VWR0lLYlFnU0VYczBHY2xreEVJNWkxOVBzNldiOFVzajFEeDNhMlBuUWhiSUNEY1daSjNRVDdzNWpHNjdFNFpZZE9XeVF5NGRrWVFoUGkyMEJuTnU0cEF0UjFDcGhOR0tXWlR0NklSM19TTE5LbzVabWlxdjhaMDVuN2NqMWxmSkE0SmRrZlpicDFSYnhNZnRZVTM4S0VsbWtsNG4xVjR5VnFLeGdGYjUxWWFDLUJEc3ZzaGQxNnJVWWNXN0d4eGZMZENweHlicVVLMmtmX28?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 00:14:38 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W33"
+    },
     {
       "title": "Election triumphs, a series of scandals dot Ken Paxton's political timeline - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVlGUDlUSDhmNnllbllSSHVTQlNIcE1iTGRpcHVsdDZfN29hTlJpdDVLSW1fM05zbXhHb2pIM0RqU1NZcXhNUG52ZzJReEVrRkhsLUEwX3JfSjViZWZwdDliZlljWVVBNHpPVWRHRzcxakUzakhrQjV4a0g3SXVzX0NGWjFoSTNlLUIwdFRwanNadmw3azJIQ1JBNXM1blBlTUM5UUZtMDB5bDjSAbABQVVfeXFMUDQyZ0RKenVWMF9sYkRyM0QxZnREc0E2SE96a2R1ZUlEYm1EaWYzdkNobkU5cFR0LVdmQkl0c2ZUYURrbm1oNmhFci1xeUlRYXZjUlBUc3hUTnlYNnJqd1JGeUxQNjF0WEhUV1N6eFhjVWFKRDJSLXR3NGd6X0kwc2hlUDhwVFpPNHAyU0FHdTJfOXNvREs1WFdGNTdJZHR4Y19OVTg0V084RVBGSDNobGE?oc=5",
@@ -1587,23 +1603,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "talarico",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "Ken Paxton pleads for campaign donations as James Talarico rakes in record hauls - CNN",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZWUwZER6Z1U5S1g5OTJhMi1tNW1UZE9aaWVoM2ZDM29tdkNpVkdJalFQamtkZk96amRoM1RkdHJtczJRaXd1WS1JV3NpRlNkZzhmVmRDemVPVExzcUFrQXpVQ2dtaWZmckdUaUpSQnVLZEFTY3hLb01mUmhFaUJUS1FqNDZQVDZSYWtVbTNsMlR5Q1BMSXBsM3F3?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 17:11:42 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
       "weekKey": "2026-W32"
     }
   ],
