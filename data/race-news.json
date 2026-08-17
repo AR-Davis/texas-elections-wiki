@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-17T16:33:41.206Z",
+  "fetchedAt": "2026-08-17T17:31:12.411Z",
   "count": 22,
   "feedsChecked": 8,
-  "itemsScanned": 87,
+  "itemsScanned": 84,
   "items": [
     {
       "title": "Who are the biggest donors backing Talarico and Paxton in the Texas Senate race? See the top 20. - Houston Chronicle",
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "title": "James Talarico Endorsed by Attorney Accusing Opponent Ken Paxton of Theft - Newsweek",
+      "title": "James Talarico Endorsed by Attorney Accusing Opponent Ken Paxton of Theft - newsweek.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZndUMWp2S2txT29vbGUxcDM2XzBpUkl1aXoxMXlBM2lMZkNJamVwaGVoTXk0UjdyODBvYkZHQ2ZQbWhrVHdOc1dWUW5HMzI3bzJ5MGJLaTdYRVpweUtrT1p0WXNPZTJZcmtIZjVBYXJPN2lzTmUzYzFVSng5OEtOTmY0VFhzNjRaQnZsV0VBTlM5NlRpUF96UGViQnNWUVVuV2VJZXBVa29HSkE?oc=5",
       "pubDate": "Fri, 14 Aug 2026 20:19:00 GMT",
       "feedSource": "google-news-race",
@@ -171,17 +171,6 @@
       ]
     },
     {
-      "title": "Ken Paxton says he doesn't know 'details' of Texas' THC ban — even though he's the state's top legal officer - San Antonio Current",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaXpEVHlPTXAzNVVUeW9PaTJJb1QzaDBEbC1kVk9kN2pJNmZCQW1DdVFGMm83TlFtX0tJdFNvbml3cVhCZkxjRU1sMGFQSXg4eGFQelRSZ3ZxT081WlVQQUZzbEdrYTlMV1NabWFnem41RVYyUHlsZ2lYZUI1b0lHOW1OeHZfOVBBdXdoTEdzVWtEc0NvY2s3ZGVzYzcxaE91RXVYVlFQOTNjZEZsSEpMdnlERVdSUHhha29GWlVYTDhhLXBoRFRMb0prWkxtbGNLUzcxdVoweFR6a09fQVJzUEFES2FyZG40SnI4?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 14:14:45 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ]
-    },
-    {
       "title": "Paxton, Talarico still fighting tight Senate race, per latest Emerson-Nexstar poll - BigCountryHomepage.com",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcktIZFBnYzlzNU1ZWHFFcko0UmR0QURDS09pN3ZuT2s2QTlJV2ZqdlhpaFAxYzlwYzJCeDZWTVJ3RFNRVW9RczFJcWRJRjJXdER1RzR5ZG84dDYwcFpHVnllMTA1dmJ5d3hiQ28ycTVJOWVMcWRGMXA0Z2NvdVRBQ1hscmVYTmZ5RXlGYmNCNWpQVXJNWTFHbE0zVVpLZGZKM0RhZ2ptV3pxNHdXbVdfc216Y1liREptYWZXc0plVkJEdkFNTDN3Mm56Wko4LU5BR3fSAdcBQVVfeXFMT2VWR0lLYlFnU0VYczBHY2xreEVJNWkxOVBzNldiOFVzajFEeDNhMlBuUWhiSUNEY1daSjNRVDdzNWpHNjdFNFpZZE9XeVF5NGRrWVFoUGkyMEJuTnU0cEF0UjFDcGhOR0tXWlR0NklSM19TTE5LbzVabWlxdjhaMDVuN2NqMWxmSkE0SmRrZlpicDFSYnhNZnRZVTM4S0VsbWtsNG4xVjR5VnFLeGdGYjUxWWFDLUJEc3ZzaGQxNnJVWWNXN0d4eGZMZENweHlicVVLMmtmX28?oc=5",
       "pubDate": "Mon, 17 Aug 2026 00:14:38 GMT",
@@ -268,6 +257,17 @@
       "matchedKeywords": [
         "paxton",
         "ken paxton"
+      ]
+    },
+    {
+      "title": "State of Texas: One point separates Paxton, Talarico in Senate poll - BorderReport",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdTBIRHdvMDFzcFVLSm1OQmtJMGgxaWdwZTE5QmRici1zX0NzSVo5WVhuTVhpNEZVTjZSV2RsWUtYSkQ5RXVPZ1ZNbEVyc21MLXM4VDB6NmtxSVUtWWhOSTVNc01oUDNZbjBTcFY2UGM5QmJhME5yTlB2S3Y1NXVvanlEeWZlMlR1X3Q2d0NxYUswT25xZWttMmk5dlZrRnhramYyLU9VbGdOLWdqX2JB?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 20:29:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
       ]
     }
   ]
