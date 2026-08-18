@@ -1,9 +1,43 @@
 {
-  "analyzedAt": "2026-08-18T21:28:24.883Z",
-  "newsFetchedAt": "2026-08-18T20:54:39.367Z",
+  "analyzedAt": "2026-08-18T21:49:07.603Z",
+  "newsFetchedAt": "2026-08-18T21:29:29.543Z",
   "totalAnalyzed": 100,
   "newThisRun": 2,
   "stories": [
+    {
+      "title": "James Talarico’s campaign hires former John Cornyn staffer - KBTX News 3",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMVpmWVZLT010MWNxR1diaW5VMlNKTi1hb3NBUl9MUE5hazJ6M0t0NF8xbnM3NnlBS2VWZWkyVXBzUWJNWXVFbmtTNjF3d1dIMHJ2eXZ3ZHJDdnRqblZuNTJaX3dKSG5VZFhMbTh2YUs1aXdRTmpleU5sRURCdk05TEtidDVfN1AxSGsxSmNENXpIcmwz?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 21:01:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 20,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "cornyn",
+        "john cornyn"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W33"
+    },
+    {
+      "title": "John Cornyn Weighs in on His Staffer Jumping Ship for James Talarico...and It's What You'd Expect - townhall.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNEdCd2E1MzRiOXhiT2pqOXl3aF9LRDlWMUZ5ZHFEVUVWSnpubEUzS3oyakd5RjRBaDNYRWxfWFlhS3ZXMGZkaHFWektnTGs3amtieGpvY3dnaXJiNVR6LTZNM1hDUWd3ZXUyTnBKalJVNlVlZV9uZWFsYU81OExpa3FlNkV6a2hsbUEzZVV6SmNra1RIYTcydDhHTWx4SW04SHNDaW50TkFwQnRaTkd2ZEcwRmZIdnVrYmc?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 19:00:19 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 20,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "cornyn",
+        "john cornyn"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W33"
+    },
     {
       "title": "Talarico campaign poaches former Cornyn staffer in race against Paxton - Washington Examiner",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZ29LbTh5TDY4d1FWU19fN3kwNjJsVTJnZ1ItdFhjZ09BTVJMallrY1JhV0VfU3JzMUtZVi1ZbVhFVDhXeW9fUEY0MnU3OGFyc3Bvb3FobFZEdTd1WS1rOXpCeURCWWJsazkyTUNtWThZU25QRWdrTGRvVHhUUlNKQXp3dGJwWmVPSW5lbUFMNGR1aXlzYUNFOFNHdFk3emtIdWdMakRCMENjVlVVN2VnajRIVmRBUkp6LUJkdGJrYWZHN2xTUURMZ1F5eEFNSzJrM0FV?oc=5",
@@ -1555,38 +1589,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "general",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Talarico, Paxton gain endorsements in Texas US Senate race - El Paso Times",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONVdZZGEzYUY0TnM3N1Nwakh4dzlNbnBsb2hBRGNhUlNIRU02NGF3MUJGVjFNMmJRRl90WktuNlNieC1VNkxhbzhZdUVETUo1aGVHZ3RCdHRlRmc1VUNNNWNITjVJdjF6R09QVWpqMmYtNVhleTlnQWVwQV9Pdms4ZWJFWFhDdzhtWTFMZWliYTVILVlKUTNFSVJucFFYUUF3SWNDTWxSUmtvN2VTS244Q1FHdURXaXV2c3pWY1RyYXJzQjdSNGdRb1Y3aGZrVWFJanlFam8wcWc2Wjd0VjhpMHBpb29TbmFZbDhTVWgtZTFadlU?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 14:43:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Sen. Cornyn Joins Texas Senate Democrat Nominee Talarico, Locals in Opposition to Trump’s Big Bend Border Projects - breitbart.com",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQN21UQ3pJMWRocmx5bEh6Q1BWWUxDXzVLN2ZFQ2JaWVlhR0s4Z05mY3o2YUFsM3BJc0NPWWJkZW5HVDhLTzlsZ2ZNRDN1dGlNS2lYZHhmWHluWllxaWItc1RtT082amszMUstbndjNjM0VEFibjFhYUs5NzRWU1JTeW9LRkIxdkxQZmo3dU1hSVFWOTRScm10eXhYeURnS0s3VVg0SEk2ekxRck80ejhtR0xmZXBJSUlxNG5mNjNvSDk0SXZub1h5bDNJdnQwZGhhWDJ0V0ZkWkFiUkd1X1R0UUl4cWIwUHdFUFQ0LdIB8gFBVV95cUxPQ3lKSXhNYU83bk91WVl4aVktWVdrazZ3NWtpaEhPaHJuQ040ajZKSXYtS25HYWxHTWhESjJfM2tlUW1jdk1kdWtyeml6d0FWMjA0U0oyeWtraWpIUnhnc19WZ1ZWVzVwRDJxYktJRHVqRWJCVlBvdmhMYldxbFZINS15UkhtT0k2d3c0NFdvX3pjWlU5X08yOFlCOTEyMFlIclBhTmh2R1RnbDVKaGljVTVoZy0yWjlXMldJbTA5NTFMNnhhc3lsSVN0VF90MVh0dVdsc3BaQ0s1LXlyeEU5TkJoYzV3Sk5fQ3ZQMFdYYmEyQQ?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 14:08:54 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "talarico",
-        "texas senate",
-        "cornyn"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
       "weekKey": "2026-W33"
     }
   ],
