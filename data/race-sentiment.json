@@ -1,9 +1,58 @@
 {
-  "analyzedAt": "2026-08-18T20:29:03.353Z",
-  "newsFetchedAt": "2026-08-18T18:46:14.345Z",
+  "analyzedAt": "2026-08-18T20:51:19.200Z",
+  "newsFetchedAt": "2026-08-18T20:30:05.797Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Ex-Cornyn Aide Smith Joins Talarico Campaign in Texas Senate Race - sekbernews.id",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yQXRWZHllWFZQSENNZnVMZmpJa01FdU1pdVI3aUxJSlpDNEEyamV0VnFVbDQ0OENnYjZqc2hnOG9wQkYtOF9IcXBuVE1rZllaS082X1dvZ2pMMS1mVUtjbnZYVGhPZTNVM3BIeklMc1JHbDREcnp1TW5GOA?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 18:11:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 25,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race",
+        "cornyn"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W33"
+    },
+    {
+      "title": "John Cornyn on Former Staffer Now Working for Talarico Campaign: Only ‘Authoritarian Countries’ Tell You ‘Where You Work’ - breitbart.com",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRzZwMDR0TjF5ZGV4MHNCWjVhTE82em5ZQXM0YzVucktTSnVuaVVUOEVxUktKUHFHb2NvX2I4Z01uNzdmUnh6U3BVOU0tVDZ1MDVpa0pPYXk5dXF0NmNWUXEtN2o1Z0EyQmVUWVBsZVNfMVVFaU9WdUJJckxJQldPZncyc0w0SmlXa21VMUdwa3VlYUY5SXVSWTRDakEyb0VUb2UxVEFiLU5SLWRRM3lUbkFLNk5fQ2VYa0puekUtQ2JTNmxGaHdoLW93bXlNRWQ1ZDlJYWNjWVB5Wl8zTGRwNENmNzV2RzB0bUNEVTR6UXV5MGFGOG5reG5KTUTSAYICQVVfeXFMUGlNNGh3RHlidWhxY2VmYVdsMFdPMmpDN0V3M1dUZV9rdi1aZmRTQmtrUDF2Vk9DUWNJNnV3dzBLcjJPOTBubVlUV3ZzT0dKekhBUV8tUXowMURqeG9KdWk2UjhGY255Q3FtYVNtYjY5QUNoM3lwc3Q3OFpKN2trLVZGTDhVX0FpTWZvRmhOb0xEeUdyZUlXcW5uSVh5Z3VncFFUZmRheHlPTGZ3amp5bjJTbWp3b3c2NXp6M2FBVTB0VjFfcHhpdEF1NElTWFlBX3lCSFM4WVZaOW9FR19WSzEzNlhkMDYwaThJb3ktQndCVzktV3FRd1A0cW14a2oxWTdB?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 17:58:39 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "cornyn",
+        "john cornyn"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W33"
+    },
+    {
+      "title": "James Talarico Is Proud to Have Led the Fight Against School Choice in Texas - townhall.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc042RnBNZjNKcnN0YktNTFFrdmFqb1NhMFZRcGNRd2R4ZmREZjBRbFpYYTRGa1pQTE1hMlc3ODB4SnRtRVlSdllqeHRRWWExNjU1SHRQZ3VuYXdGb1lKakhEUE90R3BaN1RzbGV6bmtqNEZHWWZ6Ry0yUHRzT21PcllNS2txaV9uUDFBbVlLS0hENXVrNjF4NTVQUWlOOFRMNGRBbTdOTlllTUh5MW52R25pcFVlRFZPQnU4UFdvVGstd1E?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 17:15:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W33"
+    },
     {
       "title": "Talarico campaign poaches former Cornyn staffer in race against Paxton - washingtonexaminer.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbThoRkNIa3AyMkdzYlZDZEtESjVCVkFVZEo4RWp2VkZNek5NSndqQi13SWNUMURUV2p6MkJlUXBLeHRNNDNZemR4X0YwZFBkSFo1YjFvZXdyM1VQbHhVbHZFaU1aUGtGMGNINmZGX1BDYmZzRmlNbVZZVUJjaHlmelJldHB5X0JxdG9ndF9Dell0RlhWYjlwaW1GUGVnc2twdDQ2VjU0MVM0OFVUV2xnZ2otOVQ?oc=5",
@@ -1540,54 +1589,6 @@
       "error": "HTTP 405",
       "candidate": "both",
       "weekKey": "2026-W33"
-    },
-    {
-      "title": "Paxton, Talarico still fighting tight Senate race, per latest Emerson-Nexstar poll - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUXdSZ1p4dC02cWlpZ2c0NWI2YmdIa1h4MGdsU2RKRzF4WUdpUnJPT3NxRzBKY3dxRWp4MXVqZU01dTc0cGc0Yy1udUF4SHczOThFd3NWMk8yVmQ1WnpLRE45aHByMkVDVU5VRlRoSHZjQlNoaF9CRGEtUU5tcThkNXFCcF92cW9CS29EWWNB?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 13:03:53 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "‘Why did you cheat on your wife?’ Ken Paxton gets blindsided by brutal town hall question - bizpacreview.com",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTVBneEJuOWpyWndSd3RVdDVzZXJUdm1sWVdLdjd2bGFVUkJlZXFIenB6R1laaDlocEl1Ri1jYnhsSU1vUjFCYlMtc2tiNTlYcXdsakFZMnY4VU93T3JjUW5BQ0JEVThPWlpyaXlaeGxGUzdlcHZvTmg5N2twQWRuTi11TG91VGpBTUlqdnlHVmt1ajRUMlhZNjc1aXBZX0pTcHF2UllZNnJIN3ZUUXhNNE10a1hZd1R1aWJUTlJKYnEzTWwtVnNpSFkybzBLU1Uy?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 18:25:38 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "Talarico’s Gender Mutilation Record Comes Under Fire in Texas Senate Race - Texas Scorecard",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ1RONG5jQ1hCenoxaFdzRTR4c1NMYkU1VWxxc2JPYnRnY3JpTjRrRjRERFc1VFZYV19nZ3pYamhtOW1EZmFQX2gtRVUyLWdlVDc2Vk1aUnVHMTlqYnY4S1lISUZFYWRhSmdZZXluNFdxcmR5R2twT2NYRmZLWjYxbXpFVmNGUzdPUi1ENTZTQ1JYUXBDalhGTk9TRER6U3FuWGF3eGRUcjBURnJ0YWI3RFBZRnY?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 19:29:07 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W32"
     }
   ],
   "weekly": {}
