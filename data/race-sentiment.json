@@ -1,9 +1,41 @@
 {
-  "analyzedAt": "2026-08-18T20:51:19.200Z",
-  "newsFetchedAt": "2026-08-18T20:30:05.797Z",
+  "analyzedAt": "2026-08-18T21:28:24.883Z",
+  "newsFetchedAt": "2026-08-18T20:54:39.367Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Talarico campaign poaches former Cornyn staffer in race against Paxton - Washington Examiner",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZ29LbTh5TDY4d1FWU19fN3kwNjJsVTJnZ1ItdFhjZ09BTVJMallrY1JhV0VfU3JzMUtZVi1ZbVhFVDhXeW9fUEY0MnU3OGFyc3Bvb3FobFZEdTd1WS1rOXpCeURCWWJsazkyTUNtWThZU25QRWdrTGRvVHhUUlNKQXp3dGJwWmVPSW5lbUFMNGR1aXlzYUNFOFNHdFk3emtIdWdMakRCMENjVlVVN2VnajRIVmRBUkp6LUJkdGJrYWZHN2xTUURMZ1F5eEFNSzJrM0FV?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 18:01:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "cornyn"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W33"
+    },
+    {
+      "title": "John Cornyn Responds to Former Staffer Now Working for Talarico Campaign: Only ‘Authoritarian Countries’ Tell You ‘Where You Work’ - breitbart.com",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQaU00aHdEeWJ1aHFjZWZhV2wwV08yakM3RXczV1RlX2t2LVpmZFNCa2tQMXZWT0NRY0k2dXd3MEtyMk85MG5tWVRXdnNPR0p6SEFRXy1RejAxRGp4b0p1aTZSOEZjbnlDcW1hU21iNjlBQ2gzeXBzdDc4Wko3a2stVkZMOFVfQWlNZm9GaE5vTER5R3JlSVdxbm5JWHlndWdwUVRmZGF4eU9MZndqanluMlNtandvdzY1enozYUFVMHRWMV9weGl0QXU0SVNYWUFfeUJIUzhZVlo5b0VHX1ZLMTM2WGQwNjBpOElveS1Cd0JXOS1XcVF3UDRxbXhrajFZN0HSAYICQVVfeXFMUGlNNGh3RHlidWhxY2VmYVdsMFdPMmpDN0V3M1dUZV9rdi1aZmRTQmtrUDF2Vk9DUWNJNnV3dzBLcjJPOTBubVlUV3ZzT0dKekhBUV8tUXowMURqeG9KdWk2UjhGY255Q3FtYVNtYjY5QUNoM3lwc3Q3OFpKN2trLVZGTDhVX0FpTWZvRmhOb0xEeUdyZUlXcW5uSVh5Z3VncFFUZmRheHlPTGZ3amp5bjJTbWp3b3c2NXp6M2FBVTB0VjFfcHhpdEF1NElTWFlBX3lCSFM4WVZaOW9FR19WSzEzNlhkMDYwaThJb3ktQndCVzktV3FRd1A0cW14a2oxWTdB?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 17:58:39 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "cornyn",
+        "john cornyn"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W33"
+    },
     {
       "title": "Ex-Cornyn Aide Smith Joins Talarico Campaign in Texas Senate Race - sekbernews.id",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yQXRWZHllWFZQSENNZnVMZmpJa01FdU1pdVI3aUxJSlpDNEEyamV0VnFVbDQ0OENnYjZqc2hnOG9wQkYtOF9IcXBuVE1rZllaS082X1dvZ2pMMS1mVUtjbnZYVGhPZTNVM3BIeklMc1JHbDREcnp1TW5GOA?oc=5",
@@ -1555,39 +1587,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "talarico",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "James Talarico Accused Ken Paxton of Voter Fraud. His Own Voter Registration Is Raising Questions. - The Fulcrum",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SY2R1cXhOVWtqMGc2eHhOUWVTcmlBeEtuSjNfemVuSXJyN1h2TXFhRGZURjgybXFvUGNYekIyUkRwMS1lc0tGaE02YmJGaWdsYTJ3WTVGZkh4XzhwaDE2QnBleDZnMFU?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 04:24:05 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Paxton, Talarico locked in dead heat for Texas Senate: Poll - CW39 Houston",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVG9qNkMwa1F1Nm11eEhfY3J6Rmtxa1QwbHI2SnVfSWhZY2gtVFFfdXJyQlpTbzdzT1liRjQtcW9pZXJUcTRxdGJSdTJ3clp5NUJWQW1RVkRRZXBBM0s0NnJkdmpwYnhWeHViR3lNd0dNRXh3QUhqbEVTVkQxNjE2LWdxXzA1NU9xdWFledIBkgFBVV95cUxPd3lHakRfX2FfbWg3YmEyRVM5R3AwbjdQYWNCMVUwT2VpTWdQVzBpMjdFdGg2NTNKRTAzTkdjckJKYVowTG5EZUFhX0FJUDlCT1otUHFiRy0xWEJpN3hIdG1aOVNLWTk1aUV5WHRzNW56SnZ0aHpCWnFtS1lVSC15WDhoQ3EzRGppUDRvWFZjT01Hdw?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 11:38:04 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
       "weekKey": "2026-W33"
     }
   ],
