@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-08-18T03:48:43.984Z",
-  "newsFetchedAt": "2026-08-18T03:00:26.948Z",
+  "analyzedAt": "2026-08-18T04:39:27.061Z",
+  "newsFetchedAt": "2026-08-18T04:09:01.330Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "James Talarico Is Trying to Redefine Faith in Senate Campaign - townhall.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcUdKMFhwYTlGUEtEbjU4LVcwSGtFTkY5blZ5Y19Ual9DY0JjOG91OGU0eHZJWFFlTGcxWjllNHNMMUxGbmpRWHlCY2lneHAtazRLakI2YV9xZzhrT3JFV3psd1RrbHRKcHhlVnV3VnRSSkFhWlplQVZtWlV0T0lJLTZwejZhRUdtNzFMSUhLcVZmcUxoOWdhR2xpSWFFXzhzRDVQQXVENzY5NjkzeDc3SEFJMEdzSExIakcwdnAweVduMGZTSVE?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 04:01:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W33"
+    },
     {
       "title": "John Cornyn Staffer Joins Democrat James Talarico’s Campaign - breitbart.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZkJraTV3NjFXeXFJXy1pWEl3UzZCZTdFQ3BsLVJNdGRzRGtadGtJN3V2U2JBd3E5RDcxZFVUVkIxVmwwWnQxdFYyVjlRYnFHYVFKWDVHbUlZMXlBQzhBSWMxVEtPcHZvOG1YRmk1Z3RNbXFzYVRtYU9VNVg5aEhUektLZHJpdGNGUFpqcW8zYW84OXAxTzM4dTNqdlFYVW9DbWfSAacBQVVfeXFMTTAzMTlneVdQZHYtNTlIU2xTclJJRDE2WVQ2SFY5RnNkZEZmZFkxRWpfeTgxWDVfWHNaVTBHNnZDUG16OU05MGVUTDFmRVNMMUh4TVhuR1I2ZG8yeXc5NXpacU1vbVZrZ0lteGZFQzRkc1l4Q1pxbkM0eWVaME9pckc3Z2JsSVE3RnM1SHJxN25CekdhVzdfaFh5cWRqTVhXb2h1NDNNRlE?oc=5",
@@ -1568,21 +1583,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "Inspired By AOC, James Talarico Also Elects To Have His Eggs Frozen - babylonbee.com",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeFZFN0pPVEw4OHJydkhyaEQxRER0cVYtQnZzWnFCZFhNTURWR1ZlWnIyeXpyQWZadXljVXYwc2hUSFV3NFdid3dDTjMwWjhGY1VoeTNSY3E0VEI1Xy1rdm1BRlJsWWhmaXY4a184NWlEanZiaVRpR1YxX0lGYW83bEJJZmhvMWFoRzJNTXhMYVBldlVTYkl2bmFB?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 19:33:40 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
       "weekKey": "2026-W32"
     }
   ],
