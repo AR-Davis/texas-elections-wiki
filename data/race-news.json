@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-18T04:09:01.330Z",
+  "fetchedAt": "2026-08-18T05:03:18.778Z",
   "count": 20,
   "feedsChecked": 8,
-  "itemsScanned": 99,
+  "itemsScanned": 100,
   "items": [
     {
       "title": "Who are the biggest donors backing Talarico and Paxton in the Texas Senate race? See the top 20. - Houston Chronicle",
@@ -106,6 +106,18 @@
         "texas senate",
         "senate race",
         "texas senate race"
+      ]
+    },
+    {
+      "title": "James Talarico Poaches Cornyn Staffer - News of the United States - NOTUS",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtLWRDamxqdjRXUEs4c1JtX2lkcElfMU9La3dzcnBsVG0xTTdUcE5oLVFfZTE0NVZtX00tUXBOSlhGUm5XbnJKeDktNDVtM3ZobGl5VUhhbUdreUtDQzNCSnpmaVdyOGtKclkyWEYxOXkzWF82dlhWWXZLNWxSNVU?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 22:01:44 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "cornyn"
       ]
     },
     {
@@ -229,17 +241,6 @@
       "matchedKeywords": [
         "paxton",
         "ken paxton"
-      ]
-    },
-    {
-      "title": "An Ad For the Ages: “Vote for James Talarico. He won’t steal your pen.” - Daily Kos",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY2dwNzJIZWRuZHJTbDNlR09YZVVFYUNVMGlHV3N5bHd3a0ZKaUd6dTh3ckNFY3F1MHphZlk0Ri1HbEJzMFF6dS1xMS1wSUwtcE9uUWtXUGQyUkZFTXJwaWVBTm9BYTMtZ2pkcHZrMlZWN01sb0stQ0c0dVk3bWlKTG0yTXlqV19xeXVpcUQ5UlVkRGhaLU8ycXdaWjU1U0xTOGR3djFNdVlNbU0yZUsyZzFxdG9pZ1h3cDhoQlpyRnhfeVJvX1BF?oc=5",
-      "pubDate": "Sat, 15 Aug 2026 15:36:08 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
       ]
     }
   ]
