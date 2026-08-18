@@ -1,9 +1,56 @@
 {
-  "analyzedAt": "2026-08-18T11:29:14.300Z",
-  "newsFetchedAt": "2026-08-18T04:09:01.330Z",
+  "analyzedAt": "2026-08-18T11:52:28.679Z",
+  "newsFetchedAt": "2026-08-18T11:30:12.060Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "John Cornyn Staffer Joins Democrat James Talarico’s Campaign - breitbart.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMDMxOWd5V1Bkdi01OUhTbFNyUklEMTZZVDZIVjlGc2RkRmZkWTFFal95ODFYNV9Yc1pVMEc2dkNQbXo5TTkwZVRMMWZFU0wxSHhNWG5HUjZkbzJ5dzk1elpxTW9tVmtnSW14ZkVDNGRzWXhDWnFuQzR5ZVowT2lyRzdnYmxJUTdGczVIcnE3bkJ6R2FXN19oWHlxZGpNWFdvaHU0M01GUdIBpwFBVV95cUxNMDMxOWd5V1Bkdi01OUhTbFNyUklEMTZZVDZIVjlGc2RkRmZkWTFFal95ODFYNV9Yc1pVMEc2dkNQbXo5TTkwZVRMMWZFU0wxSHhNWG5HUjZkbzJ5dzk1elpxTW9tVmtnSW14ZkVDNGRzWXhDWnFuQzR5ZVowT2lyRzdnYmxJUTdGczVIcnE3bkJ6R2FXN19oWHlxZGpNWFdvaHU0M01GUQ?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 02:10:04 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 20,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "cornyn",
+        "john cornyn"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W33"
+    },
+    {
+      "title": "James Talarico | Texas, Senate Candidate, Jasmine Crockett, Joe Rogan, Stephen Colbert, &amp; Biography - Encyclopedia Britannica",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IREhFWWRfcWpQYk8zNnhxeU9jcWRrVzIxWlJfZXpFU2E2aU5qMDI2RE9rTTh0b1RYZEthRWZySHFrdEtXSThJZ1ZROU5aM3k0bVZTTHRXa1owbW83clF0MA?oc=5",
+      "pubDate": "Sun, 16 Aug 2026 05:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W33"
+    },
+    {
+      "title": "Paxton to Newsmax: Talarico Aims to Look Like a Moderate - Newsmax",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT00tZW9WVW5CWk9wcFAtOEoyNEM2engzeW1VZlk3NUU2QndMcVZaYjYyUXZXYi1LMWs2Z3NKWVF1WXRMaWRtN2JYMGJwY055TGUybUd5bm45ZVB4MnNGZjlQSmc2NGExYUlrRHlCams1c3FCTlZwclpVYkFnUHg5eHdENUYyUTdoZVQyQV9nMmlzLUxPOGxsVkhKSQ?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 01:12:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 10,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W33"
+    },
     {
       "title": "James Talarico Is Trying to Redefine Faith in Senate Campaign - townhall.com",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcUdKMFhwYTlGUEtEbjU4LVcwSGtFTkY5blZ5Y19Ual9DY0JjOG91OGU0eHZJWFFlTGcxWjllNHNMMUxGbmpRWHlCY2lneHAtazRLakI2YV9xZzhrT3JFV3psd1RrbHRKcHhlVnV3VnRSSkFhWlplQVZtWlV0T0lJLTZwejZhRUdtNzFMSUhLcVZmcUxoOWdhR2xpSWFFXzhzRDVQQXVENzY5NjkzeDc3SEFJMEdzSExIakcwdnAweVduMGZTSVE?oc=5",
@@ -1537,52 +1584,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "paxton",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "Paxton faces scrutiny over cell tower deal in Texas US Senate race - El Paso Times",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTzNoOGNHNXN4ZE5vR0NBZXBNNjNFZXg3Z0VjZzV2QWQwOVZfX29pZGZYS00zNnBJM3lyVGtjZ20yZFdPWlRXUWZHbnZZRjJVNFZlRS1yZzg3eVI2VVl2UkJGbzhJLUtRbW5mcXJSSzVYSnlVXzZVVm9jUGVOd0RSSUJhdllnWk5aZDZ3VTFUYzg0YmxDQ2lIbFc1VzVTbUxpQ0l3ZEYtcTVCdFl4aWpCeVhBWW42X2Y3TzFTcE5vcUVIU3lveWtEV1pCS2h1enhYYzViWUVzUEJ2ZjhwMlp1ZkJaNHBqdw?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 16:56:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 10,
-      "matchedKeywords": [
-        "paxton",
-        "senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "Talarico, Paxton polls show Republicans are in a tough spot | Opinion - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM0tpRHlwei0wR1NMY21tQjdOcWN6TUhjaFMxSUw2OEtXOTVnRGQ4RXdLbnowQjJMc2RXR1F5SkV6ZFJBZW85OVdXYTNXWXNNd2gxb2o3NVpEM2ZXaFl0WEZIa3ZNRmhfaFlHdmVLMVhXZTNlVlladk5TWTNnejZBRTktRFMwMDJQZ3FOMlM3QUMtVGU1WU5NZ2lnQlJMOElHT1hUYVlIZmIzZkE3WW5BYVJ1QlJnZXNFRW84ZlRR?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 15:25:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 10,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "James Talarico leans into populist message in Pasadena, attacking Paxton and 'billionaire megadonors' - KERA News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYnFLZUJ3YWg0bjBNZEdQOWo1ZUFHVGxCNEM0YXJ2VkVpXzY2UWpXVU1WSWxQNXlxTEFBNFFGUC1vYWtZbTVxbnBJNkNIVHZnenFZNEhvVXJkZENtTVRfLXdLZDcwejlUMWEta1BGVGRYaFgxUTIwTHo0WGdYU2VxZm53by00Slk5NmdqS1poQVlEc3J3VDVxZkY2blBhUjg1?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 18:32:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
       "weekKey": "2026-W32"
     }
   ],
