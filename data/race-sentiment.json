@@ -1,9 +1,40 @@
 {
-  "analyzedAt": "2026-08-18T18:43:30.899Z",
-  "newsFetchedAt": "2026-08-18T17:32:19.358Z",
+  "analyzedAt": "2026-08-18T19:30:49.033Z",
+  "newsFetchedAt": "2026-08-18T18:46:14.345Z",
   "totalAnalyzed": 100,
-  "newThisRun": 5,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Talarico campaign poaches former Cornyn staffer in race against Paxton - washingtonexaminer.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbThoRkNIa3AyMkdzYlZDZEtESjVCVkFVZEo4RWp2VkZNek5NSndqQi13SWNUMURUV2p6MkJlUXBLeHRNNDNZemR4X0YwZFBkSFo1YjFvZXdyM1VQbHhVbHZFaU1aUGtGMGNINmZGX1BDYmZzRmlNbVZZVUJjaHlmelJldHB5X0JxdG9ndF9Dell0RlhWYjlwaW1GUGVnc2twdDQ2VjU0MVM0OFVUV2xnZ2otOVQ?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 18:01:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "cornyn"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W33"
+    },
+    {
+      "title": "Texas Candidate James Talarico Faces Backlash Over SAVE America Act Remarks: 'Assuming Black People Can’t Get an ID Is Racist’ - The Nerd Stash",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMnBqekZuekFveDVsWm9RVjB3STRDYmVmMmVvZVF0WURXemRTbDdOakZVNjBGbnJjU2dGc1RfbmdGNjF6VGdrcENfWXh1S3M3SW9IeEdxX2plVVZiclhuWDFrd2IwOURmcHZ5YUVXNmswSUY2Z1JVemVUcE9VbTFyT181eUY1Q2xoTVNDNE55NFB1NGg2T0hjV193ODlXN0lJcWZ4WTRLaHJULW02a2JtaXhzTFFiYVFKenMyV3U3TVVmNGJmRlpSeHdCcUQwN1ZRZVA5WWRJalRNTjdIelk0TzlB?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 18:15:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W33"
+    },
     {
       "title": "What to know about Ken Paxton’s and James Talarico’s affordability plans - Houston Chronicle",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVG9YMi03dUIxSVdlcE9oVlFzR1IzSW1lbFdOcHRPYUxvQThVZVVnbi1sQnFMYy1ISDQzWDBqbnJtMFBIR1VBNTdUUnBYSHd4V0VxTUs1a1phQ0RhZlI4czlldnhpMjFodUhjQmhUZlFIYld0clcwR1RWcndCYzA3NU5GN3JUZ19raHdIQ2E2aUh5TVJhRnoxbm1n?oc=5",
@@ -1557,37 +1588,6 @@
       "error": "HTTP 405",
       "candidate": "talarico",
       "weekKey": "2026-W32"
-    },
-    {
-      "title": "Paxton, Talarico still fighting tight Senate race, per latest Emerson-Nexstar poll - KXAN Austin",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQmhKX0dJNGJ0eERZTklCX0NpelpCMjRHUzVpMEJuRGFUT19ZV1JhaThPRTVCYUkwZ19ZcGlvVVRVMy1kU1BjemxuSVBrbHAzMF83dEtSZTZZdjlzYlhfTFhkZU5xRlAxQVFTbExxYU44akpKUVY5N2IxVzFlUmF1WXVpTHR0d0NabzAxREdsWEJLUXBYeGFkSmpfZURRUXdtSHlvZdIBqgFBVV95cUxOTjc2WVdZMjlZLWduMlNOLTBRTUk0YXZIRFVHeDFZOExSM1I5RGowa1lrSmFtek15cko5WW0yTFZEVElTSHNtYzZ0XzlaRWhCZE53cWc4VUl3c2h1MnA3VmhNczc0RFFsalh4TjFOaWpJQUJpU0Rmblo1aWdoY1JaNUJoenZHNFQyeGtoc3Fyc0s2SElMYnlub2l2NzdfUmxtZG5aYk5CdEZnUQ?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 11:00:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Paxton, Talarico tap contrary versions of God and Christianity in appeal to Texas voters - texastribune.org",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYml3WmxjTDIzY3NFUm1VM0N4eUh5bTBLdEgwejVna0tUQkczcWpMMlpGaEZaVGR6SDF0Qk0wa3lobDFEY3BwY0ppSUZhcGNkb18yalQydUZvdzNaeUp2UEdyajVMdkxTeFNyWEpoTVdtZWdjcEdQcTI1UDg2czNPXzdTSXRIVm9PRjZEdE11R2lLQ3YzNHdEamw3SGhqMXVqTHFQVER3?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 10:00:45 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W33"
     }
   ],
   "weekly": {}
