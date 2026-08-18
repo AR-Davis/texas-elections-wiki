@@ -1,9 +1,88 @@
 {
-  "analyzedAt": "2026-08-18T17:30:56.180Z",
-  "newsFetchedAt": "2026-08-18T16:37:17.865Z",
+  "analyzedAt": "2026-08-18T17:56:10.949Z",
+  "newsFetchedAt": "2026-08-18T17:32:19.358Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 5,
   "stories": [
+    {
+      "title": "What to know about Ken Paxton’s and James Talarico’s affordability plans - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVG9YMi03dUIxSVdlcE9oVlFzR1IzSW1lbFdOcHRPYUxvQThVZVVnbi1sQnFMYy1ISDQzWDBqbnJtMFBIR1VBNTdUUnBYSHd4V0VxTUs1a1phQ0RhZlI4czlldnhpMjFodUhjQmhUZlFIYld0clcwR1RWcndCYzA3NU5GN3JUZ19raHdIQ2E2aUh5TVJhRnoxbm1n?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 16:47:54 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W33"
+    },
+    {
+      "title": "Fox News Midterms Forecast Shifts Texas Senate Race From Lean R to TOSS-UP - Mediaite",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSzU5MG9mcFg3c0lKaEFCVWtTMXBoek4wbzZxZC0waS1xQmk2YTlTeGZhR0dnQVBtckhXa0ZVbW1oQzUxc2xXZnB0UUpENVk3UUNoYWVxMkN3cFFTTndCOEJDRDlaTDR6SHVtaEZJRm9FVUlMWWpPWUR4OF91RS1PbXJaSUVwbGp3SktOYlVSU2dmMmdXcmN4Z1I4NXRJeFdLdXcxTzdPaHY1RElXcVE?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 16:40:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "general",
+      "weekKey": "2026-W33"
+    },
+    {
+      "title": "Former Cornyn GOP staffer joins Democrat Talarico's Texas Senate bid - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYXRfX2tpUlctTWg1cVVHMERxdUppTVdqU3lLSDZWSFYxNTZkOGU1amRkcHBxazM2SlFxQ08tTWc4aWtLcWl2YktHRlZVeUVuZ3JuRllhTDlBVlBtRE5EbGEwZExsZmo2NG81d0ZWbExwWmNuZ3dETjBpSW03R0E2U3A2ZExHSTczUTlPaXowamJld3lrN3lpZjNRSjVJLWVwMXl3Vl85ak0wNjNkNFlWWVVqZDAwb3RHN28zcTB0Rm84S0tsVU9WYTE0ekJNb2RwVlZUSW1ocl8?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 16:04:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate",
+        "cornyn"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W33"
+    },
+    {
+      "title": "Group names Ken Paxton among its ‘Most Corrupt Politicians’ of 2026 - Austin American-Statesman",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTlE5UHJYSTlXN0ZqZmluZUlyQU5UbFg4ZHh6N1pYcUJjQXM1Q3JPbFN2cHhHc2V2TDVtek1QX1B3R2hOQUNVNmpMakFOTjc0Rm5XcmliWldIX2pvd0k2UVA2UzVLVHJFbEZNcmFsVUVtdWNEbnJ1YWx2ZWlpZ1gwZlpOYTBmYmx5dFZCbkNfdkZ5OTFlUnExTFA1Uy1pWGNXcHN2OEhNZ1hLWjNWNXlR?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 17:05:17 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W33"
+    },
+    {
+      "title": "Ken Paxton looks for, but struggles to find, noncitizen voters in Texas elections - MS NOW",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdnd5bVNRSnQ3NjlwcXpvNEFIMkU4Q0JudHNOM09pRGw0Zm1nczRmRnhaWDU1c3FDWWRjTWFXNW9QV1J2TkxLSnNZSU5sTkFXOUxaVzEyazB2aFBLQ1dGa0RMdVNReS1wb3M5ZlRZaEJucmdsaWRoWGgwSWF5anlSenVWZjFZY3JmV3lXeTN5RnRmVkJpd1lCQTU4TDkxZw?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 16:50:26 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W33"
+    },
     {
       "title": "Karl Rove Says Texas Senate Race May Hinge on Trump Spending - Mediaite",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNai1VaGlXMjhrbGdhdjFjQjFueU85WV83R3NMbTEyNmRCa0dXZXBGSFpzUHktZTFZLVc0SkZ4Q1ZkV2VDQktUSHNvcm1IVmRKc0QxMGFhWGpTb2xKMWhWMV9SMWhuTmhXUFJ1bWRLbnFfQ1owMVNrUTlMUTJuXzl5engyODRyQV9WWWo4NHR1bWNlYm90YmNUWFU5akJibWhTazlwYnphQ2hqZjdUWkRRVUtuZmNWaGdoY0laZHJPZkJER010YUlVOXFqTG1NbFFPdTB0YnBhSEN0WFgzOFg3TUtHQU5Fdw?oc=5",
@@ -1509,83 +1588,6 @@
       "error": "HTTP 405",
       "candidate": "both",
       "weekKey": "2026-W33"
-    },
-    {
-      "title": "Texas 2026 Poll: Paxton and Talarico Deadlocked in U.S. Senate Race; Abbott Leads Hinojosa by Four Points - - Emerson Polling",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SSEdQaXEzbGx2THpYQmg2TGNZQXJKMndoWUxRZjVKZUNfVW4xdlVKUHQ1a0N2bWJMTjhld1V0UHBqMm9sQWZpcGtxeDVBazM2VVFVV3M5cHF6dXUwdkVnd04xb0xzNFZ3WGg3cXJJMHd1QnVQLS1sNWN3?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 10:08:08 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "GOP Texas Senate Nominee Ken Paxton Refuses To Answer Blunt Town Hall Question: ‘Why Did You Cheat On... - upolitics.com",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWllzX2FXQnc5OWthSzd2QmVzOXdGWm5NM2loVjVoai1hZXQ5SzFsNFRabXV3dEhFQ3RQcVNtSU0yQ1hyZVBsQl91aE5nMUxJMER5ZkxkUHFXLWd2WHUzeW1pTndCQ0kzV2JybEVwMzREVzFQMHlvMmtqS1NSOV9TUkJmYmdMMkItN3I4cjk5ZnZ4ZEJLVXpqUEY0aFBoUTN4dlFPdGstbENvWEFfektRQm5KNHVlczU0NlJlOUYzS0pGUlJrcEd5bVA1SmpUd05udUtaNnBvVC1qQdIB2gFBVV95cUxNWllzX2FXQnc5OWthSzd2QmVzOXdGWm5NM2loVjVoai1hZXQ5SzFsNFRabXV3dEhFQ3RQcVNtSU0yQ1hyZVBsQl91aE5nMUxJMER5ZkxkUHFXLWd2WHUzeW1pTndCQ0kzV2JybEVwMzREVzFQMHlvMmtqS1NSOV9TUkJmYmdMMkItN3I4cjk5ZnZ4ZEJLVXpqUEY0aFBoUTN4dlFPdGstbENvWEFfektRQm5KNHVlczU0NlJlOUYzS0pGUlJrcEd5bVA1SmpUd05udUtaNnBvVC1qQQ?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 05:55:37 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "texas senate"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Ken Paxton snubs debate invite from Hearst and NBC/Telemundo - Austin American-Statesman",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQkl5NGlFNTNlMVlrSV96ZjNKS3hjaTVMN0gxdEhNRmhVTkVReDhib3BUcE9WRUpHamVtT3RxZVkyWkRnRTNtNHFOTlVUQVFybThBNWc1VjZ0QTBBb0ZQaXllRV9NZGRobzlpd0VvZ2ZkQ1EteVRSV0p5RG4teC1tdGl6WU1wbi1OR0xZN2kyVDJtU1U?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 22:37:21 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "Sen John Cornyn Raises Concerns Over Texas Border Wall Project - sekbernews.id",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR3JpRTdkeWlSSktXZjBDT0Fnck4zZEJOYzZRVnZpMWJqX0VpWFdQZ1dLaURSTFJ2VGFqdHA3eTZYOWFuVkVyTEdZQ1RwaWdOVGxlTWZnRTZBMlh1R3dIVWZDWkg1N1VET1A1UVhYQzl2UDZjT09VTC1vNzFRWVRGcXEyYw?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 11:59:24 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 10,
-      "matchedKeywords": [
-        "cornyn",
-        "john cornyn"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "Questions about Ken Paxton's wealth - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdHdnLXd3LWwtcUZnMzVTcDFFUzNXTHBJaW02UVl2ZWlYMUFzbmJPWGVWdDlfUkF2cDJYVkZoRGhVQTRGTE5tbDFYbnRSNnpuQnN0MkRncXNSYjhhcXpjaVk5ekdLY01sZG1HXy1BUl93MGZJbHo3WFc1QUxEM1gtSmhkUQ?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 22:17:31 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W32"
     }
   ],
   "weekly": {}
