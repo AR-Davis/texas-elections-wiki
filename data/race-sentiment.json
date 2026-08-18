@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-08-17T23:48:44.047Z",
-  "newsFetchedAt": "2026-08-17T22:54:47.554Z",
+  "analyzedAt": "2026-08-18T01:26:27.583Z",
+  "newsFetchedAt": "2026-08-17T23:51:10.181Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Paxton, Talarico tap contrary versions of God and Christianity in appeal to Texas voters - HPPR",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSkdNckJYTWkwMVc4dTJnOTgtZXBab3VJOFUwWlJIMzhDQkVoRWU5U0pqcnhxaXhnUDV4QWdVdFFnU1FxUkw3Z1huRHNZLW9wYmZuajJPczVDcEZzN2MyQVNkOGhxQ3ZSMWVjYXN6RjlwTGRDS1M0Sm1raVV6OUJtejJBSHB4b3JqaHJmSWpCQnhBU1JrRGVscFpZamo3MHdtekd3dlhreTBHM24yNDFSMlFBNTlWTGoyQmNXbDlOMkNxbTdjM0NvWA?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 20:50:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W33"
+    },
     {
       "title": "James Talarico Interview 08-12-26 - KXAN Austin",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9EblVGai1XUlhmaFREVjhZb2NlYVhHQ1F2dnlpYldlcnMyR3IwMGRKemJhNHd5UHltY2tRRHVtbVU1cVp3Y21FWTdyRy13M3liRk9waENfZUZXcTR4VVJabXM1bmJQVV9kMkRycmpEbzVuSzV6cHRtdGV3?oc=5",
@@ -1565,23 +1580,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W32"
-    },
-    {
-      "title": "Paxton's $448K Data Center Donations Amid Texas Senate Race - hoodline.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMHNsWEpaVWhiYzJzcWo2RV9nbjRUaXZYSnh5MUxqMHFEUkRsT0owQjR5WWo5b2EzZmFheUpDTTBLUFJBOTVLWGRfWmFfVXFHX0RQM2N6eW1iNjJsdVJqelpLUnlsUVVHbVpEa0R6VFNTVk01WjFrLUNJVF93ODV3bHJTdDVUbm5fUEFycllVcjhraUpoaFRGWmNJYy15NUF0QzZxbTR5QXU5OFE?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 21:04:54 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
       "weekKey": "2026-W32"
     }
   ],
