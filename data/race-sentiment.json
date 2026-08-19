@@ -1,9 +1,25 @@
 {
-  "analyzedAt": "2026-08-19T10:32:50.063Z",
-  "newsFetchedAt": "2026-08-19T03:02:40.495Z",
+  "analyzedAt": "2026-08-19T10:57:12.302Z",
+  "newsFetchedAt": "2026-08-19T10:34:11.734Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Texas Senate 2026 Odds: The Model Verdict On Paxton Vs Talarico - OddsShopper",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOW5DcmJFOGFYaGdTV3BCVTByaEtSQVpkVXJrd180b1FFWlNFRW1HWWkwcXJyVFpPbW5IYWZRX25QVXhfRzB1Vko3WnNWNDdOeDVhM3BRX1IzVnNieXVWTUEyZTcydFRpdVpTazl6OEpnSnhKSHFQVDBWczJlVFFfOTFJMS05ZTRwN05JclZVdGtfN3lrR080?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 09:07:58 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W33"
+    },
     {
       "title": "Texas Democratic Senate Candidate James Talarico has crossed the aisle for a campaign hire, bringing on a former aide to outgoing Republican Sen. John Cornyn ahead of his November showdown with Republican Ken Paxton. - facebook.com",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNd1dqUGNzNjFISjMtcUYwWHc5UER4ZThHVDNPbUZsNEpVTzZOa2Y0NFdRc3ZtRk1WS0ROUXZyTVBiSUdfaU1oeU51eXpUWTNmQ1p0d3ZYd1BMbExsN2ZXT2VOVjBpc3FrNjlHZXFCZXVwTzA5aF82aTc4TFEwZXhYYXRDMW5rUlFEXzg2TV9YQmJsLVNObHp2WHNqU0JlQVI3SHg4LXpPb1FPMzJpQURUTWZSTDZndk5TQWFuRk1nVktvMkxGbTI0ajE3Nks1TExsNUJlb1lhdFRxRFcza2Z4TG1R?oc=5",
@@ -1571,24 +1587,6 @@
       "error": "HTTP 405",
       "candidate": "both",
       "weekKey": "2026-W32"
-    },
-    {
-      "title": "Who leads 2026 Texas Senate race? Latest Paxton vs. Talarico polls - FOX 7 Austin",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbXBvVGhaS1Qwa05CbjZOcnZqUDcycDVaM1YtZXRkZDhsQXRiZ2llejY5dzEwT09QM2NwUVAyT2pEbmthMWROV1gxZ2VsejJWVFhuRmJRTnFxWER2QjVJNGxobVVlbGVJalJQd2MtQ2RBNld0cDlHQUNEOEl4cU5EUA?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 17:22:54 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W33"
     }
   ],
   "weekly": {}
