@@ -1,9 +1,39 @@
 {
-  "analyzedAt": "2026-08-19T01:34:14.906Z",
-  "newsFetchedAt": "2026-08-18T21:29:29.543Z",
+  "analyzedAt": "2026-08-19T02:42:33.230Z",
+  "newsFetchedAt": "2026-08-19T01:38:15.981Z",
   "totalAnalyzed": 100,
   "newThisRun": 2,
   "stories": [
+    {
+      "title": "This Star-Studded Progressive Event Featuring James Talarico and Kamala Harris Was a Complete Flop - townhall.com",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPR2hXOVBndVNuaEExR2tnd0t5Y3ZET3RyZ0x5QVAxQnlOZnE2YzFWNDFLUUNWUXc5Uk5SQnNqRHJwMGVTLVdoOGJmSVRYYldod2xYTlRDWlhBcVV6bXpFY3RmcWZZbXdWdkJwa0doUV9NaEYyd1FmMHVUcFBDRUxPd1BIVVNLMVd2cUdCeXprY3l0MUs4X2FxY1oxOVJqeUdWMF95T2dPUGlBaXM0NHk0X2t5d2tJUVVEVnQzbnowcXFCYjExSEUyaVJ5Y1kzeTJEczVzUTFzWlQ4aWwtaW5DVUhCaUlDdmo3OGFoS2RRVzk?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 23:30:17 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W33"
+    },
+    {
+      "title": "TribCast: Should we believe the polls about Paxton and Talarico? - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9INWE2N0lvTW92MWFhUVl4RERtNkRUamhTOEh4R2E3Yk5uV09ZUVFlT0xCZHNIa0pDVHZyZ0QwUlcyakw2MUROLVFvbWNpVGFUMGZhTmM0N2wzaFlwNUFzX3BYQVpfcDNSZExLY2FWcVRVOUphSnJhUTk3WQ?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 20:46:35 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W33"
+    },
     {
       "title": "James Talarico’s campaign hires former John Cornyn staffer - KBTX News 3",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMVpmWVZLT010MWNxR1diaW5VMlNKTi1hb3NBUl9MUE5hazJ6M0t0NF8xbnM3NnlBS2VWZWkyVXBzUWJNWXVFbmtTNjF3d1dIMHJ2eXZ3ZHJDdnRqblZuNTJaX3dKSG5VZFhMbTh2YUs1aXdRTmpleU5sRURCdk05TEtidDVfN1AxSGsxSmNENXpIcmwz?oc=5",
@@ -1555,40 +1585,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "talarico",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Paxton, Talarico Deadlocked in Texas Senate Race - Newsmax",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMTRla1k0dFEzdzZLMVlCaWg0cGZIYzRpd2xsQUJGUmlNM3BpN2FMZ3BEc1dkamVpVnlFakxLa0VKUF9JTFpIbkt6X1ZfN05ic0hHeEZIb19NS3JJLVRhc2U3aVVna3Y3RzBXWWF6c0syTEpLWWgxbm9jMUt0eU94dDF0MmM?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 14:31:47 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Poll finds Texas Senate race tied as Republicans lead race for governor - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOT3h0Z082Z0poSEtqaThWRmw0UGZjSHlfRlFWdnAzbkZmMjdpQ0hSb0JzNkRrRVlsVFhYNzNZWHBkSC1lZjhnX3A3YUZDS0Q3emdUTXhWc2xNOTlodkNsbTVQU3ozOVp2NVFzVWk5ckg4OVlVSnRfRjQ4SHJhdjB1VUxGbnZKdkhfVU9NeG9SN09CUG1QN0Y5Sm1Mb0ZOWGt0em9IbjVab0wxRzhBbmZVUXB6aVlfRkNRWk9YVU5KWS1JZ0Qtc2NiVEFFckVoZw?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 14:54:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
       "weekKey": "2026-W33"
     }
   ],
