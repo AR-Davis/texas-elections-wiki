@@ -1,9 +1,25 @@
 {
-  "analyzedAt": "2026-08-19T12:55:22.942Z",
-  "newsFetchedAt": "2026-08-19T10:34:11.734Z",
+  "analyzedAt": "2026-08-19T13:48:55.052Z",
+  "newsFetchedAt": "2026-08-19T12:57:07.545Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Texas US Senate race tightens as Talarico, Paxton vie for key voters - elpasotimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNTdyYlFMb1lZbS1OamNtZmNvLVpBR2dvSGh1N0tfb1NkUGRFaVFfVmNUcjJtOU5vaHVyLWRvX0VncUstVm85YVlzbTFrTVI5RlNHbDR4MUsya3Y3aVhNeE05UUdfcHFSLUtqUElyb2tzUXFCdXM1QlhPWFNaV0lzRFFHQ0loRWRUZ2JSblZrNFp3dGJrSlJqTEV0YzJBdERETVZWdXZoY0FZc3hsWDA5bFB2THZIRjJUa2s3NlhZTTF0Um5kYW1hbjFBRHFxNmNLdkR2cVlVUzVHSTlGTDF0UDE1NmFGZ3lXUG9F?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 12:32:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W33"
+    },
     {
       "title": "Texas Senate 2026 Odds: The Model Verdict On Paxton Vs Talarico - OddsShopper",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOW5DcmJFOGFYaGdTV3BCVTByaEtSQVpkVXJrd180b1FFWlNFRW1HWWkwcXJyVFpPbW5IYWZRX25QVXhfRzB1Vko3WnNWNDdOeDVhM3BRX1IzVnNieXVWTUEyZTcydFRpdVpTazl6OEpnSnhKSHFQVDBWczJlVFFfOTFJMS05ZTRwN05JclZVdGtfN3lrR080?oc=5",
@@ -1570,23 +1586,6 @@
       "error": "HTTP 405",
       "candidate": "both",
       "weekKey": "2026-W33"
-    },
-    {
-      "title": "James Talarico leans into populist message in Pasadena, attacking Ken Paxton and 'billionaire megadonors' - KTEP 88.5 FM",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY0FaNmNOY3hqWEtsdEtBbndHMUxwVmt6dl9sMlRfdzNnQktDdWUtV2pScDcyTllMc3lwY01UMXZqbXFXaFV0cU0tdkNBa1hWRER6WWFmV25uOTUyTVdOVFFQMjNNVnpaMmdnWjJFdnZ1SUUtRUFMSEtXWVNlcUN4ZDQ3dXZQdTI1amZaTGJhUF9qRUdmNmwwZE1nVERxQ0JhdmY2aFJyelkzOGdYVloyd3plTDluXzdkeTV2S2E0MWF0dGxGbmJBTGNrRGFtOWM?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 23:06:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W32"
     }
   ],
   "weekly": {}
