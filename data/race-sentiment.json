@@ -1,9 +1,25 @@
 {
-  "analyzedAt": "2026-08-19T16:36:01.135Z",
-  "newsFetchedAt": "2026-08-19T12:57:07.545Z",
+  "analyzedAt": "2026-08-19T17:29:34.215Z",
+  "newsFetchedAt": "2026-08-19T16:37:02.713Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Texas GOP Senate candidate Ken Paxton works to overcome fundraising woes, with President Trump's help - abcnews.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMmdWTmVmZlJmQk12aXJZSlNaa2c0MHJic2F2ZHZxODdtN0tNOUdVcGYtVnZBX3J6Z3RMWGZKQmZSNjVpbkZ0TXR0aTJQM05Ia1dEQlRaY2NZTTVXS3g4ckJvdnMyWXIyRzRleUJkdGVzRjZodnRVWG5tX0Jvbk5zUmQ1bFBfWmhSZmRRd3M1R1N3LXo0U1pOSHJieEFGVVpVdlHSAacBQVVfeXFMUFVCVjdaWlpjQlktRzNLZGhCV2wtZlZmRldlZVhlT2NOc3A2RXk4OHNkN3kwdl85ZnBfaTcxMHNYZ0dvUnNZMUdIbHpXcnpQZXN4bmltUndYQWF1clBBTE42WHZFXzdpRHdBcUtxSHVielFaWFNQUVIycHpLRGxFUU1LbHBVUURVaEdza1FicXN6dVpwMDh2NHd3TTFwUGhLVjVxSmh4cjA?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 16:07:30 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas gop"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W33"
+    },
     {
       "title": "Texas US Senate race tightens as Talarico, Paxton vie for key voters - elpasotimes.com",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNTdyYlFMb1lZbS1OamNtZmNvLVpBR2dvSGh1N0tfb1NkUGRFaVFfVmNUcjJtOU5vaHVyLWRvX0VncUstVm85YVlzbTFrTVI5RlNHbDR4MUsya3Y3aVhNeE05UUdfcHFSLUtqUElyb2tzUXFCdXM1QlhPWFNaV0lzRFFHQ0loRWRUZ2JSblZrNFp3dGJrSlJqTEV0YzJBdERETVZWdXZoY0FZc3hsWDA5bFB2THZIRjJUa2s3NlhZTTF0Um5kYW1hbjFBRHFxNmNLdkR2cVlVUzVHSTlGTDF0UDE1NmFGZ3lXUG9F?oc=5",
@@ -1569,22 +1585,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "general",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Paxton, Talarico locked in dead heat for Texas Senate: Poll - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRngyZ050UWpzQ2NPUEVodmFXaGxmSFBkdWh1LUVkUXk2dURaazF4U0NpTTJtc3dNWFRGeFE1cjBfdDBIekUycWRreXpCWi1KeXotRDBBOHhiQzhOcGNSSkVpQUJLNGdkR2drbnFTTXFoN2o0MEFna2dOUmlHMEtaV09UYVBFX2fSAYwBQVVfeXFMT1ZwSS1DR2ZNUV93c3h1SElJa2pDZlBLQlJLc0RERUp0dFY1aTZEQ1hhQzdJQmJNSGhGdUZtcERpcmZJX0QtNWFEbi1jaU1JVWtlYnAzUC0tX0ZLd3kzX1JZd2Jpb19HNElGbWZzbmN5MTBjMWtDdHcxMVJsTGN5Umd4cUEtNDk5Q3JCS0c?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 10:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
       "weekKey": "2026-W33"
     }
   ],
