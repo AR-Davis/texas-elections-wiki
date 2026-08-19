@@ -1,9 +1,26 @@
 {
-  "analyzedAt": "2026-08-19T22:52:34.955Z",
-  "newsFetchedAt": "2026-08-19T16:37:02.713Z",
+  "analyzedAt": "2026-08-19T23:26:25.919Z",
+  "newsFetchedAt": "2026-08-19T22:55:19.310Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Did Ken Paxton take someone’s $1,000 pen? James Talarico replays 2013 video in ad - Longview News-Journal",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaHRyYVFXX2M4VEp4aHZBUk9oaG83RUdyN3lmT0cwUEREaXRldnFGRlBqd1lFNm9qbGlPSmpqY29ITmlrdjlhbV9wYWZqT1JGTmtiM2NUQ0hLdHNVZ3RQSUhkN3paTzJCd0dGY2xjNzNPR0FLeTZWVk9kNk9lQ2ZJdUNNT01ubzFmanZrQXVDeV94bktWd2RPajV5VkRvdE83Y1V6VEdhOGoyQlJDS0VsRnFHUHA?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 10:49:49 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W33"
+    },
     {
       "title": "Texas GOP Senate candidate Ken Paxton works to overcome fundraising woes, with President Trump's help - abcnews.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMmdWTmVmZlJmQk12aXJZSlNaa2c0MHJic2F2ZHZxODdtN0tNOUdVcGYtVnZBX3J6Z3RMWGZKQmZSNjVpbkZ0TXR0aTJQM05Ia1dEQlRaY2NZTTVXS3g4ckJvdnMyWXIyRzRleUJkdGVzRjZodnRVWG5tX0Jvbk5zUmQ1bFBfWmhSZmRRd3M1R1N3LXo0U1pOSHJieEFGVVpVdlHSAacBQVVfeXFMUFVCVjdaWlpjQlktRzNLZGhCV2wtZlZmRldlZVhlT2NOc3A2RXk4OHNkN3kwdl85ZnBfaTcxMHNYZ0dvUnNZMUdIbHpXcnpQZXN4bmltUndYQWF1clBBTE42WHZFXzdpRHdBcUtxSHVielFaWFNQUVIycHpLRGxFUU1LbHBVUURVaEdza1FicXN6dVpwMDh2NHd3TTFwUGhLVjVxSmh4cjA?oc=5",
@@ -1569,22 +1586,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Poll finds Texas Senate race tied as Republicans lead race for governor - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOE9vWEN5ZVpKemE2SEtORDdpbzhBR0E0Ui1iLWFrQjZyM3l4X29LYlBNNXJ1VlM3VjFKZWU0a3RlNXl4LThHbmxIb1FCYU96bGdqWEhTVzRvMDFhZUFJcFlXcXJ2MEI5T1E2enpweWVJdkR4OHJtX3lDalBpbjBBTXU0eV9Gbk4xNmFtWm53N1otUQ?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 14:54:59 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
       "weekKey": "2026-W33"
     }
   ],
