@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-08-20T17:33:37.682Z",
-  "newsFetchedAt": "2026-08-20T16:40:07.883Z",
+  "analyzedAt": "2026-08-20T17:59:00.684Z",
+  "newsFetchedAt": "2026-08-20T17:35:11.602Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Attack ads revive questions of Ken Paxton's ethics that voters seem to have dismissed in the past - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTFF0X3dWVDBhMEpiQ1dtOXduV2pmbnFpeXI5eXBzS1c0clZXaU1mM0xiTmdyYVhEeXlqSERadkR0X0FXOEM5cmJtTDFqWlJkU044eEViMTV6NmhXNUlSZFZOelZjZDAwSy1lM3d3RjB3UGNpNkxVQnp4V3hLaFVkeU1VM3dpRG1tY0J3cVFYSUFPUzdwaXhFcG9jeHFKXzBCeXNTRzZkUzJFMDhtMVJ0S3pCMVlIZ3JnNFRV?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 16:23:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W33"
+    },
     {
       "title": "Attack Ads Targeting Ken Paxton Resurface Ethical Questions in Texas Senate Race - Readers.id",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYb0RxbmE3XzItbF96OHJ0d2FVMHV6YUJ5ZEhxTHpKb1J1NFNhOXo5dW9ISEV3Mk1WNzJ2NjlGd2tfUlpIQWRCQ216VDVXaDZsZ1R0anlWRmtwVUJLSWpYaHZNcm0wMU4wSnlwOXZHTjNuc1VLMkM0SmdR?oc=5",
@@ -1567,20 +1582,6 @@
       "matchedKeywords": [
         "talarico",
         "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Talarico ‘Clarifies His Position’ On Gender Surgery For Minors - KSST Radio",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTVRSOC1iZXM3WWlGdWNUbndqOThhamtUWnBfVG85NkEzeG9zQ2FuYk9TSGItbTVCTmFheGRsU1Q1Rmk1UGhOVDRPdVhhYVRZZlQ1dklrZFNWMXFDc2ctZl92dElwTkZIU0dhZkJ3SU4xaEJiY21RR2Vvb25CdkQzR0tjZklhdGJoOGR1NTk0Wl94MGs3S3g2T2xDMA?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 14:40:32 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "talarico"
       ],
       "sentiment": null,
       "error": "HTTP 405",
