@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-08-20T18:45:46.995Z",
-  "newsFetchedAt": "2026-08-20T17:35:11.602Z",
+  "analyzedAt": "2026-08-20T19:34:27.199Z",
+  "newsFetchedAt": "2026-08-20T18:48:20.562Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Ken Paxton Faces Ethics Attacks from James Talarico in Senate Race - Readers.id",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsTFJVcE1BVW5KRHhSZ0txSEZaMjVjNUhWcDJKMmI3WXpvZ3lpWHZpVFFxRlNreFdZc0w4TUM2WmwxZlRESUk0aEFiNmJlSEN3LVM4RkRYd0JwYWZTd25TRy1TdV9aSU8wUUczdA?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 18:23:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 25,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Attack ads revive questions of Ken Paxton's ethics that voters seem to have dismissed in the past - Spectrum News",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTFF0X3dWVDBhMEpiQ1dtOXduV2pmbnFpeXI5eXBzS1c0clZXaU1mM0xiTmdyYVhEeXlqSERadkR0X0FXOEM5cmJtTDFqWlJkU044eEViMTV6NmhXNUlSZFZOelZjZDAwSy1lM3d3RjB3UGNpNkxVQnp4V3hLaFVkeU1VM3dpRG1tY0J3cVFYSUFPUzdwaXhFcG9jeHFKXzBCeXNTRzZkUzJFMDhtMVJ0S3pCMVlIZ3JnNFRV?oc=5",
@@ -1571,21 +1589,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "paxton",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Texas state Rep. James Talarico, who is running for U.S. Senate, speaks during a town hall on Saturday, July 11, 2026, at the Plaza Theatre in El Paso, Texas. - The Lufkin Daily News",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQREs0QzdNdDFvd2dURS1oOFk5LU5pMjhJWmc1ZGdfSC1pZ3lXQmZIMTM2X0w5bWg2V3BYaUw5djQwTkVaclZCY1JJU09KMktvdkN4MkpfQ0trR1ExSlhteFA5TEhHMG5odGV5VkRScXM2cnRoYU04QVVLNGtWejRKSGJ5eFRNN0w2VzlGU2FIdU1BMGdaSktRZ25uLTVFQ1UyYUttaWd2VnhwLUxnNHYyTVdkbXEtSndrYUkyMmpTOXNSYm81ekVGS2x3NEItLWt0Z2daeE1hV3JDOXVwa3B1YUdGT0lYektwMDJzNTdwUDlQTHBIY0phT25PeUlDNm9j?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 17:38:03 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
       "weekKey": "2026-W33"
     }
   ],
