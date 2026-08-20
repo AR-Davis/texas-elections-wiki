@@ -1,9 +1,25 @@
 {
-  "analyzedAt": "2026-08-20T20:32:56.733Z",
-  "newsFetchedAt": "2026-08-20T18:48:20.562Z",
+  "analyzedAt": "2026-08-20T20:58:27.733Z",
+  "newsFetchedAt": "2026-08-20T20:34:19.928Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Talarico adds Cornyn aide, broadens Texas US Senate race appeal - El Paso Times",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVWxYNks0dDFGU0JjeWI2d0hGVFdTV0IwZ01hRENUVWtnS2lSQ013ZWhwMmUtbWt3R29NMGc1aTVmQVJfNjdXMWZJN0Zabk1wak5kNDFkNjZYMk0yeF9nczR6UDZQSERFLWZmSnBzM0ZiME5NNWhhQ2VvdEhUWGZHRHpXZURpa28xcWdIM2UwbWl6V25wbjMtb09Vb25mS21WTFVoWkRKZk5CaHhvVzJ3TFlMbmRRT2MwV3RJZjlWMHgyWVh1OGpnU3o0aHd3NENWQlVmM1NBQ2JRN0lEVVVTbXlB?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 14:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "senate race",
+        "cornyn"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Ken Paxton Faces Ethics Attacks from James Talarico in Senate Race - Readers.id",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsTFJVcE1BVW5KRHhSZ0txSEZaMjVjNUhWcDJKMmI3WXpvZ3lpWHZpVFFxRlNreFdZc0w4TUM2WmwxZlRESUk0aEFiNmJlSEN3LVM4RkRYd0JwYWZTd25TRy1TdV9aSU8wUUczdA?oc=5",
@@ -1572,23 +1588,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "talarico",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Arrington shares why he backs Paxton as Texas Senate race remains tied - Lubbock Avalanche-Journal",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZVEwUWNwZkVvQjI3amlvbEFQd3FpY0JYNVNsNUp0NFROTU1LQ2w1aVA3ZXVXeUJHemU1THJSbkFxelJxTGFkRURGZWxjQV81clNjQy10MWhCV2hhbTdUd3lTR2tjbksyTzBTdGYtTnhHNnFfRVRCbUNiZ2l0d2dWRUhqbFJsYjVIWHo4dm03WEVVdklZbjVxV1VGY1FLclZhbXgtUURrQU13T3RyeWlPS2ozNXA1eG9nQndfX0tBMEdtV3lEeHhFTkpibFJKVVVlZkE?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 17:37:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
       "weekKey": "2026-W33"
     }
   ],
