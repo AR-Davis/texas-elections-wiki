@@ -1,9 +1,26 @@
 {
-  "analyzedAt": "2026-08-20T12:57:06.262Z",
-  "newsFetchedAt": "2026-08-20T10:36:07.464Z",
+  "analyzedAt": "2026-08-20T13:50:33.115Z",
+  "newsFetchedAt": "2026-08-20T12:59:17.460Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Stolen $1,000 Pen Haunts Texas Attorney General Ken Paxton in Senate Race - streamlinefeed.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUmNSdzZtaHVtNDhveEd0clBsMmUtOWc5Wnlacm90M0cwMFZqMTdPT3RnT0tpanJNQVNEbFVFS3AtbWhSMHFMU0JHRHdyRWtaNlhULWxiY2l1dXRVVWZ0R2dMRkstT0ljZ3hYX3pGazVYSFRRY1lSVXQ1bW80bTkzNGdlTVJHM2xEUmZNeHNxNXF6VDZRdU40QW9B?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 10:35:48 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "senate race",
+        "attorney general"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Talarico floods Texas airwaves in U.S. Senate race as Paxton, GOP stay quiet - The Texas Tribune",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSjVoaS14VnlyRzRIc2xqY3NvRG8tV1RjcGRvZUM5VFdHcTRFbmkwUmgyWnhFUURLRU5YMlFsNUxHZHFuZkM1QmIwcE85d19LMHU4NC0yQWZ0OFlGT0FBZWR5X1hRTUNzOTdkbE84RzhqTkVucGZWVm9wM09WTF9aWlpLbU44WFV6RHBvRXdEbl9zaGpjeGhLMlN3?oc=5",
@@ -1557,21 +1574,6 @@
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdGlwbnluTEtJSDQxLVhqRURvS0VKZHp0aVUwVVpsUVpRcExTRXBpV1d2Ujhwd1VIWmV4YWh3V25fUVVKVDBQSDBVaG93VFhDYVR4YmJyb1lWdVlwSGkzVWl0N2VRaWNrQXNwemNoelJIVzNKMDR5Mm9kdGZabmZLOW5haGdVRE55NU9WbmVIbnpHRXJuWlBpLTNQOVdMR2hwRk5UM3ZZS3NtdDh0c2tIelpEWTZrSDMxejZWOHNDTjdHVE5TYUx4ejVxWFR4UEpXa0kw?oc=5",
       "pubDate": "Fri, 14 Aug 2026 12:05:00 GMT",
       "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Can a Democrat reclaim Christian politics in Texas? NPR’s Jason DeRose on James Talarico’s campaign - 88.9 KETR",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQTJUcGRzUENJem8tWjZ3VmstZ1dBY2xIVTV0YUQ3Nno0RnFiM1I4QW1rbkNmbzNydndlTVNnYjdpRk1CRm5Bb2VRbW1mOHdocWJZcG5aQXhtMi04WEJSMEtWMmhmbW1POWtEN21lZjZGZ1dsbkRUU0cyMkY5OHZic2NES1ZJY0trZXhUSGFKdW5LVkNPV3g2bW9LSmlhWlpyTmJ1djJOMWowbkwwMTJzbzFrTkJuNFlTdGw2Yi03TmV3X2VvWDVJVjl2MHdSR2NNU2hmcnBTVUFGYldGUlpRMA?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 12:05:00 GMT",
-      "feedSource": "google-news-texas",
       "raceScore": 12,
       "matchedKeywords": [
         "talarico",
