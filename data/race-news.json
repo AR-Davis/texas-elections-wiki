@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-20T06:59:15.115Z",
+  "fetchedAt": "2026-08-20T07:50:53.112Z",
   "count": 24,
   "feedsChecked": 8,
   "itemsScanned": 96,
@@ -172,6 +172,18 @@
       ]
     },
     {
+      "title": "Texas US Senate race tightens as Talarico, Paxton vie for key voters - El Paso Times",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNTdyYlFMb1lZbS1OamNtZmNvLVpBR2dvSGh1N0tfb1NkUGRFaVFfVmNUcjJtOU5vaHVyLWRvX0VncUstVm85YVlzbTFrTVI5RlNHbDR4MUsya3Y3aVhNeE05UUdfcHFSLUtqUElyb2tzUXFCdXM1QlhPWFNaV0lzRFFHQ0loRWRUZ2JSblZrNFp3dGJrSlJqTEV0YzJBdERETVZWdXZoY0FZc3hsWDA5bFB2THZIRjJUa2s3NlhZTTF0Um5kYW1hbjFBRHFxNmNLdkR2cVlVUzVHSTlGTDF0UDE1NmFGZ3lXUG9F?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 12:32:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ]
+    },
+    {
       "title": "Former Cornyn GOP staffer joins Democrat Talarico's Texas Senate bid - USA Today",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYXRfX2tpUlctTWg1cVVHMERxdUppTVdqU3lLSDZWSFYxNTZkOGU1amRkcHBxazM2SlFxQ08tTWc4aWtLcWl2YktHRlZVeUVuZ3JuRllhTDlBVlBtRE5EbGEwZExsZmo2NG81d0ZWbExwWmNuZ3dETjBpSW03R0E2U3A2ZExHSTczUTlPaXowamJld3lrN3lpZjNRSjVJLWVwMXl3Vl85ak0wNjNkNFlWWVVqZDAwb3RHN28zcTB0Rm84S0tsVU9WYTE0ekJNb2RwVlZUSW1ocl8?oc=5",
       "pubDate": "Tue, 18 Aug 2026 16:04:00 GMT",
@@ -193,18 +205,6 @@
         "talarico",
         "paxton",
         "cornyn"
-      ]
-    },
-    {
-      "title": "Texas US Senate race tightens as Talarico, Paxton vie for key voters - elpasotimes.com",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNTdyYlFMb1lZbS1OamNtZmNvLVpBR2dvSGh1N0tfb1NkUGRFaVFfVmNUcjJtOU5vaHVyLWRvX0VncUstVm85YVlzbTFrTVI5RlNHbDR4MUsya3Y3aVhNeE05UUdfcHFSLUtqUElyb2tzUXFCdXM1QlhPWFNaV0lzRFFHQ0loRWRUZ2JSblZrNFp3dGJrSlJqTEV0YzJBdERETVZWdXZoY0FZc3hsWDA5bFB2THZIRjJUa2s3NlhZTTF0Um5kYW1hbjFBRHFxNmNLdkR2cVlVUzVHSTlGTDF0UDE1NmFGZ3lXUG9F?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 12:32:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
       ]
     },
     {
@@ -265,7 +265,18 @@
       ]
     },
     {
-      "title": "Ken Paxton looks for, but struggles to find, noncitizen voters in Texas elections - ms.now",
+      "title": "Group names Ken Paxton among its ‘Most Corrupt Politicians’ of 2026 - Austin American-Statesman",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTlE5UHJYSTlXN0ZqZmluZUlyQU5UbFg4ZHh6N1pYcUJjQXM1Q3JPbFN2cHhHc2V2TDVtek1QX1B3R2hOQUNVNmpMakFOTjc0Rm5XcmliWldIX2pvd0k2UVA2UzVLVHJFbEZNcmFsVUVtdWNEbnJ1YWx2ZWlpZ1gwZlpOYTBmYmx5dFZCbkNfdkZ5OTFlUnExTFA1Uy1pWGNXcHN2OEhNZ1hLWjNWNXlR?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 17:05:46 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ]
+    },
+    {
+      "title": "Ken Paxton looks for, but struggles to find, noncitizen voters in Texas elections - MS NOW",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdnd5bVNRSnQ3NjlwcXpvNEFIMkU4Q0JudHNOM09pRGw0Zm1nczRmRnhaWDU1c3FDWWRjTWFXNW9QV1J2TkxLSnNZSU5sTkFXOUxaVzEyazB2aFBLQ1dGa0RMdVNReS1wb3M5ZlRZaEJucmdsaWRoWGgwSWF5anlSenVWZjFZY3JmV3lXeTN5RnRmVkJpd1lCQTU4TDkxZw?oc=5",
       "pubDate": "Tue, 18 Aug 2026 16:50:26 GMT",
       "feedSource": "google-news-texas",
@@ -284,17 +295,6 @@
       "matchedKeywords": [
         "paxton",
         "ken paxton"
-      ]
-    },
-    {
-      "title": "James Talarico Claims Black Americans Too Dumb to Get Voter ID - townhall.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSXhvSWt4bDMzZE9ER1BjZFdBMURSVzNEQkhLOG1mWEotUVFVQlY2QVBMSGhrZUgtMzh3cFNPTmJpa21XWVMzWHY4WGFCVmh2SDhRd09qZEEzX3Q2SjJnVkNCWl9sLVBpXzI5RFVDZmp4THpLaVBqZ0dscHoyeXJmNXN0eFlKNnVTWDZHVVdpN294TGQ0TmcwSC1iRjI2M0VmSWU3RnQ2RQ?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 18:45:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
       ]
     }
   ]
