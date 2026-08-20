@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-08-20T16:39:13.576Z",
-  "newsFetchedAt": "2026-08-20T14:41:21.461Z",
+  "analyzedAt": "2026-08-20T17:33:37.682Z",
+  "newsFetchedAt": "2026-08-20T16:40:07.883Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Attack Ads Targeting Ken Paxton Resurface Ethical Questions in Texas Senate Race - Readers.id",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYb0RxbmE3XzItbF96OHJ0d2FVMHV6YUJ5ZEhxTHpKb1J1NFNhOXo5dW9ISEV3Mk1WNzJ2NjlGd2tfUlpIQWRCQ216VDVXaDZsZ1R0anlWRmtwVUJLSWpYaHZNcm0wMU4wSnlwOXZHTjNuc1VLMkM0SmdR?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 15:56:20 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Trump to headline Republican National Committee fundraiser in Houston for Ken Paxton - MS NOW",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVjhvVFNYMmVieWJFajBPLTY1UEI0ZFFJcTNlRGZRUG1LdjhGVnViM0t0d1dJVkpIcXM3VVZQeXduUVN4UkxydnZOdWVUSWVLejN2NlM2V3dTNDBkbklTRGNDVFBoMWJiS2RYM2RFNktnel9PWE1nZWlud2tKODBLNGdPanJ3TVhkNkNETnZaTWN6NlBoTktrRGZKNXJNeHBqZnBsMjBaSjRxQ0JR?oc=5",
@@ -1563,21 +1581,6 @@
       "raceScore": 5,
       "matchedKeywords": [
         "talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "James Talarico pushes new plan to woo Texas veterans, pledges to 'fight for them the way they fight for us' - KERA News",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPb3pPdF9tdV9ONWhmYVNQZFhoNncxT2VUcGZFclp6MUF6bTFiUDhZSk5ZSHNEM0l1aWRfOHFXenl3dXpUMUwzQlI5SFBYZU5VM0xqS2FTSS12Z3NTdE5paDNjMVF0Q2lPbUdTOFE3YUlqRTdiOWFnY1hkVXFaa3RjSldqcU01Wjd4d2RkMFFMWEJ2cGlubXZKTjFBdUVReHVEalZLcTFNLV9fMjN4SGVSRXB1TE9fQXE1VERtVG92QXJYQ1pHLUVKZFJZMi1PaFVmeklOZkEwNXBVUTkzNVVGbnNyc0ZqRVFrc29V?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 15:40:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
       ],
       "sentiment": null,
       "error": "HTTP 405",
