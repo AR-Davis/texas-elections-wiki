@@ -1,9 +1,40 @@
 {
-  "analyzedAt": "2026-08-20T10:35:11.336Z",
-  "newsFetchedAt": "2026-08-20T09:40:05.532Z",
+  "analyzedAt": "2026-08-20T11:00:00.335Z",
+  "newsFetchedAt": "2026-08-20T10:36:07.464Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Talarico floods Texas airwaves in U.S. Senate race as Paxton, GOP stay quiet - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSjVoaS14VnlyRzRIc2xqY3NvRG8tV1RjcGRvZUM5VFdHcTRFbmkwUmgyWnhFUURLRU5YMlFsNUxHZHFuZkM1QmIwcE85d19LMHU4NC0yQWZ0OFlGT0FBZWR5X1hRTUNzOTdkbE84RzhqTkVucGZWVm9wM09WTF9aWlpLbU44WFV6RHBvRXdEbl9zaGpjeGhLMlN3?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 10:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W34"
+    },
+    {
+      "title": "Report: Trump to Raise Money for Ken Paxton at Texas RNC Fundraiser - breitbart.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLXllT3dsM0FHb09pRUdCSFV3bHpMalBkLVdNNWc1SXlyUkpWRUJINXRfZDY2cFE3RFFDQVJnODJZcVpORlNCSTBSNHh5NS1fZ2lqSnF3amNXRm04cURqemN5dzdKd3c5S0YtS0xjelhmaldGT1pXUlV4ZllLQ0xGSXRPazdFR2JOYWtYRlc2dmJydlhDSWVlMVdHVUxmWHc3SG1kMWMwc0liczlzV293Ym9Cb9IBuAFBVV95cUxObDQtUWwxU3RVZWlyOTJmWmNMU24xMzFLQ0ZpdFZhR0FYV2dQUWhSNEpaWkxXckVtcHItQTJfU3F3QlJ5UWxmTTBtNEhEaER3MWd2R21XaUJRQ2RNSk84YzFQRGxfTnlDTXlnZlFDV285cTJNVm5FX1VSb3hiRGJIYU1VQjlIem15a01ySWl2dGNsMHlDVlhJUWlyYU94MThPTGNrUTlWeUZLQkh6MTl3LXlvdTBFdWRD?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 00:41:21 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W33"
+    },
     {
       "title": "Texas Senate hopeful James Talarico once claimed ‘God is not a Christian,’ defended abortion during 2023 sermon - New York Post",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWHgyWkhxaXBER3JsWm51V2FDSlNxMUpTeFk1Wmk0TWhIUE90UXJJbmJuYTJ4bVpVZXpLRVpPWDRwWE91YTlkSWpoc2ktY2o1MzRPY055a2lGWTlSX2JUaVI4UUg0Z1ROSGNvLThhNUt5bTdVMGVBV1NaVG41Ri1xVC10aTdrdXJ5aUdETFQzMGZqY3lRMGFwVGNJcmdaNmZfVFdJcmx0UW5hWXVzVGdSVTc0dGpXWXZoTEUxNnZoNThsU29q?oc=5",
@@ -1549,39 +1580,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "talarico",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Boycotting White Oak won't hurt Ken Paxton. It will hurt Houston. | Opinion - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcE1hV3JtNURFMHFJWVFSY3JuaFlMSzN3YmV2NWdjVTQtZUNvVWNia3dWbzNESmxXUW9mS2pvczVyNHUyNXNGSkdNYVdSM3pHbVFkUEYzVFZ5WjlZS3NXUlRRUzFldk9YeHVNWENIQ2V1ZjBkLXlQLVJYd3JFN2VhVlBfMUtqWTUtODBiTGM2VC02VDNfemhVc1RJdHhIZ09RMUp1NnAwbVdQakFoSEF4VTREVUI3cDFRbTlj?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 10:21:19 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Who leads 2026 Texas Senate race? Latest Paxton vs. Talarico polls - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zTGpGQk8tZXlHOEZVYnAyMHYwaTAtYUIzVW14eTF3MmNXN0xSTkJJcjZaVHJIYnlPc1JFLW8ydUgteG9ZOFVZSXdlVjdIbDVEZnp6WlcwR01Jc1dUMXVUZERuaVhwZVU0TzhDbXpSZHd4ZXZJQUdCT0JrUlA?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 17:22:54 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
       "weekKey": "2026-W33"
     }
   ],
