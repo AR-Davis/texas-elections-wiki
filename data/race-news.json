@@ -1,9 +1,23 @@
 {
-  "fetchedAt": "2026-08-20T20:34:19.928Z",
-  "count": 23,
+  "fetchedAt": "2026-08-20T21:33:00.474Z",
+  "count": 24,
   "feedsChecked": 8,
-  "itemsScanned": 87,
+  "itemsScanned": 85,
   "items": [
+    {
+      "title": "Ken Paxton’s $1,000 Pen Incident Resurfaces in Texas Senate Race - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uRXUtQWtQYVlVTzNLaHk1Y1pFSFQxZ1E5SEhhd3VEcnRhV0lzTTZpanp1dWpsZ052dFlKblZrMllwRS1rcFpCWUNWSC13SUJPR0l3NkFhQTZmNERaVXRQa1ptUjhaWkJTM2JrQW56bk80Yk1nMmc?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 17:22:13 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ]
+    },
     {
       "title": "Attack Ads Targeting Ken Paxton Resurface Ethical Questions in Texas Senate Race - Readers.id",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYb0RxbmE3XzItbF96OHJ0d2FVMHV6YUJ5ZEhxTHpKb1J1NFNhOXo5dW9ISEV3Mk1WNzJ2NjlGd2tfUlpIQWRCQ216VDVXaDZsZ1R0anlWRmtwVUJLSWpYaHZNcm0wMU4wSnlwOXZHTjNuc1VLMkM0SmdR?oc=5",
@@ -22,7 +36,7 @@
       "title": "Ken Paxton Faces Ethics Attacks from James Talarico in Senate Race - Readers.id",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsTFJVcE1BVW5KRHhSZ0txSEZaMjVjNUhWcDJKMmI3WXpvZ3lpWHZpVFFxRlNreFdZc0w4TUM2WmwxZlRESUk0aEFiNmJlSEN3LVM4RkRYd0JwYWZTd25TRy1TdV9aSU8wUUczdA?oc=5",
       "pubDate": "Thu, 20 Aug 2026 18:23:00 GMT",
-      "feedSource": "google-news-race",
+      "feedSource": "google-news-texas",
       "raceScore": 25,
       "matchedKeywords": [
         "talarico",
@@ -277,14 +291,14 @@
       ]
     },
     {
-      "title": "Ken Paxton and the Curious Case of the Missing $1,000 Pen - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uRXUtQWtQYVlVTzNLaHk1Y1pFSFQxZ1E5SEhhd3VEcnRhV0lzTTZpanp1dWpsZ052dFlKblZrMllwRS1rcFpCWUNWSC13SUJPR0l3NkFhQTZmNERaVXRQa1ptUjhaWkJTM2JrQW56bk80Yk1nMmc?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 09:04:05 GMT",
+      "title": "James Talarico Claims Black Americans Too Dumb to Get Voter ID - townhall.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSXhvSWt4bDMzZE9ER1BjZFdBMURSVzNEQkhLOG1mWEotUVFVQlY2QVBMSGhrZUgtMzh3cFNPTmJpa21XWVMzWHY4WGFCVmh2SDhRd09qZEEzX3Q2SjJnVkNCWl9sLVBpXzI5RFVDZmp4THpLaVBqZ0dscHoyeXJmNXN0eFlKNnVTWDZHVVdpN294TGQ0TmcwSC1iRjI2M0VmSWU3RnQ2RQ?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 18:45:00 GMT",
       "feedSource": "google-news-race",
       "raceScore": 11,
       "matchedKeywords": [
-        "paxton",
-        "ken paxton"
+        "talarico",
+        "james talarico"
       ]
     }
   ]
