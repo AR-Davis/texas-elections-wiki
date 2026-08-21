@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-08-21T04:10:36.044Z",
-  "newsFetchedAt": "2026-08-21T03:08:32.280Z",
+  "analyzedAt": "2026-08-21T05:05:26.759Z",
+  "newsFetchedAt": "2026-08-21T04:10:43.636Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Elon Musk could spend $200M boosting GOP as Texas’ Ken Paxton battles fundraising gap - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVmM4dzVEbGxwNExSV1dETUQ5STBwMU43LXNqUHhqdFlMRld5NzZ6YmVjUlJnVlkyTkY2aWI0OFZrRTZJLXJhQTlfdXo5Q1htU011Z3psYUVYUy1zSEJkMjZZT180SjRRTmI2TzBPdkxfY1BQQU5pNXVIZ182YzRkeUMwdGp4bGNrUS1tX0I5LXlrbXQ3dkRGYTRfbFhWeXNtNU16eTdQdHNTN1NmV0lreGFhVGt6OEtSR24yQzBCVjA?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 19:34:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Polls: Talarico Pulls Ahead of Paxton in Texas; GOP Chances in November Bleak - thenewamerican.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa3cycGR3OVIwbE9MZGw1Xzg4NFNiaUpwZHJyWThZV2g0RWVpZUQ0UTl5SGo2Q1FkSTkycjVVanotSEFOaEw0NGlrTDFrejdEWjJRQnc1dS11M2VENHJPQ1ljMmlBWGVtSlM0R2dEcjdJTlMxVTJCeG00a3NIb05zU2swMWlGNVBKQWxTZjdkUG04djNyazZsVW9iZUJxdmxiZnQ0YlJMTnFvRTBDcnE2MmprYTlJZw?oc=5",
@@ -1558,24 +1573,6 @@
       "title": "Texas Senate Race Tied as Paxton and Talarico Deadlock in Poll - sekbernews.id",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1qSnBwZFYzT2lkYjA4TFIyYjhJVHZKS29yYmVIS013anlMUFV5bGVMbm1aSGNZWDdULWIyMDFLVlVnSl9jb0YtOEFrb2VVNkU4c1o5TVd0b0p4ZU5aaGwtNnozV1dpME85NUFFaWRjSXRqSkowU1V5V0MyU1Y?oc=5",
       "pubDate": "Sat, 15 Aug 2026 02:07:30 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Who leads 2026 Texas Senate race? Latest Paxton vs. Talarico polls - FOX 5 New York",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yRTQtM3JOWVRvVGdrVG1TMUEteTNreTgyVTZkYlY4eDRKUUZ6LWo2Yzk1UUNqUWxyVm51Y2Y2UUI0amhjS0V6R29KLUQ2dmk3ZVNGdjVxaHlmSUkxV2JXRXQ5NFpPQm01RTk0d2lnMEhMTHBGdXRnZDFkNA?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 17:22:54 GMT",
       "feedSource": "google-news-race",
       "raceScore": 26,
       "matchedKeywords": [
