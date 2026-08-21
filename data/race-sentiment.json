@@ -1,9 +1,38 @@
 {
-  "analyzedAt": "2026-08-21T19:48:57.744Z",
-  "newsFetchedAt": "2026-08-21T19:29:34.397Z",
+  "analyzedAt": "2026-08-21T20:30:17.092Z",
+  "newsFetchedAt": "2026-08-21T19:51:32.778Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Talarico unveils plan to support veterans in Texas US Senate race - El Paso Times",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQnl1VjFPa20tQ2swdlRDOHZNTmxZRFJCU0ZLMHpacENUa0FwNkM1YWhpQlIyODdFbHVfNzZZT1lWMXEyU3BCaVhWZzNMbHRVUks4VDJYUWdnNFR4RUtMZkZIdDhITDVkbWdLTlhzdmRuU3IxSDk1cGM0LTZPQVAxcHJmeWxTdzBfTTRmYWZwc2drakF4dVFILUMzcFNSQlhLWjF6VXZRQUFVRV9jQ3lqUG1PcmJ3TW9ONll6NVVUeHhZc3gwMXdubmRpdG51NjNfMVBOeE9WODhYNWhLVG4yM0hB?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 21:50:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 10,
+      "matchedKeywords": [
+        "talarico",
+        "senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W33"
+    },
+    {
+      "title": "Texas AG Paxton says he has concerns about treatment of Sophie Cunningham supporters - WTOV",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSTFjejYzWXZHSGZOV3E3YnY0czBnbWJvOEY4Q0tsSGlfVUMyeENoZkd4cUJIUmhUVDRsSHlBeU1JazZLNllIZ2I0QlFRVnBPcFB4cm5LTTFrY1F0R1Exd0VvbklPSFdoNVFCWlRwQVdJaEVjbVFhdk14NkgzZEt0cWJ0dHcySDZLWmEtWUozR0p1ZkJQcm1ESEJ3WUotOXFfNk5OWGM1LTM5dXV1NFJqblp4b01yZWlkMGl6eFRRU2xpdUlhMFdOX0p4REZHa3NwQmk1aw?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 16:43:05 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "A wakeup call for Texas GOP: Trump jumps in to help Paxton — if he can | Opinion - Fort Worth Star-Telegram",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JVlpsdlhRVm1VSXZNalc5ZWs4YV95NjdZejR6OW5wQjB5b2lseFlkVG45SGRaQVVlVjRVX0JQN2xvc21INzFaRlNNTFIzaGdwNzRzM2tNYnF2cmUwdDhNdWowUzJHUnlJYzh4eVRrRVl3OHpPblAzY0Rmcw?oc=5",
@@ -1550,36 +1579,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Watch James Talarico Squirm When Asked About Voter Fraud Allegations - townhall.com",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdFlMcEJMVldITWZWTlRwR0VGbk5PMjUyNk5LTjcyclRGUHphMXB2QkpzYlNvNjlkT3pwV0dfLXMySEVfR2VQU1BoaXJMSncwUHF4VTJsRl9UZFZIdFJ6MnRXZ0R3dV9sV2hTelRRakZ1SVByaGpJeENWNkMzOXQ1Qy1FWTFhM2NYckJyTjBnMjZpd1YtZVJfSGRZZ0wxWHlZb01QOXFVZHAwTUIwVzczY0xGTzV3VHF0bnZ4NENqTUk0TDhULUE?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 20:30:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Ken Paxton tries to tamp down growing Republican concerns about his Senate campaign - CNN",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tR3FMUVExaGZJOGZFNzlEdHNBdFBFTXY0QUJ5TjRibjhKWFY1M2dOVVlFUm9yVnJiUGdUcVpfSEIxam9Pc3B5dXdrbDBvdHo3ODZWOVJpMi1jNWZxUVJXU2xsQjVfVUZ0V3VYcm1LMmt0eUVJNVZTQ3RQQjY?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 09:00:29 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
       "weekKey": "2026-W33"
     }
   ],
