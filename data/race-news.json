@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-21T05:59:46.245Z",
+  "fetchedAt": "2026-08-21T07:02:07.102Z",
   "count": 24,
   "feedsChecked": 8,
-  "itemsScanned": 74,
+  "itemsScanned": 75,
   "items": [
     {
       "title": "Attack Ads Targeting Ken Paxton Resurface Ethical Questions in Texas Senate Race - Readers.id",
@@ -96,6 +96,18 @@
         "ken paxton",
         "senate race",
         "attorney general"
+      ]
+    },
+    {
+      "title": "Why Democrats think the 2026 Texas Senate race will be different than 2018 - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVDEzZ3dWM2RLbUNXaFktTU1XVHR4NTV6N0l4UVpZeVlBTWZxMTJsbFFSdXUtS0dWdWVzZmxvMDVmZzlVWk4xdWdpUzFKSzkwcFdmMEwzZ1RBX1BtZXJNVmVleTJBYjJYWm53LVRaTWlialZPcktJUzhBSmd3aVdObjBYTU9EYVRXNWg0NldaNTVEYWtRN29oczVB?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 09:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
       ]
     },
     {
@@ -279,17 +291,6 @@
       "matchedKeywords": [
         "paxton",
         "ken paxton"
-      ]
-    },
-    {
-      "title": "TribCast: Should we believe the polls about Paxton and Talarico? - The Texas Tribune",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9INWE2N0lvTW92MWFhUVl4RERtNkRUamhTOEh4R2E3Yk5uV09ZUVFlT0xCZHNIa0pDVHZyZ0QwUlcyakw2MUROLVFvbWNpVGFUMGZhTmM0N2wzaFlwNUFzX3BYQVpfcDNSZExLY2FWcVRVOUphSnJhUTk3WQ?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 20:46:35 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
       ]
     }
   ]
