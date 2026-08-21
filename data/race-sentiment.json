@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-08-21T03:07:07.867Z",
-  "newsFetchedAt": "2026-08-21T01:41:58.674Z",
+  "analyzedAt": "2026-08-21T04:10:36.044Z",
+  "newsFetchedAt": "2026-08-21T03:08:32.280Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Polls: Talarico Pulls Ahead of Paxton in Texas; GOP Chances in November Bleak - thenewamerican.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa3cycGR3OVIwbE9MZGw1Xzg4NFNiaUpwZHJyWThZV2g0RWVpZUQ0UTl5SGo2Q1FkSTkycjVVanotSEFOaEw0NGlrTDFrejdEWjJRQnc1dS11M2VENHJPQ1ljMmlBWGVtSlM0R2dEcjdJTlMxVTJCeG00a3NIb05zU2swMWlGNVBKQWxTZjdkUG04djNyazZsVW9iZUJxdmxiZnQ0YlJMTnFvRTBDcnE2MmprYTlJZw?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 20:35:51 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Is James Talarico beating Ken Paxton in Texas? Let’s talk about polls | Opinion - Fort Worth Star-Telegram",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5NVRSemtveW5BUUh2QVR5bVZ1MzVIUkgyejRvS3ZVMnV4WklCWFBUN3pvcVNTYjRZM0dCTDYyaERCU21hUDN0bEZCbWc1LWxrQ2JYV0lJNkxTaW1vbEZEUVVxSTdUeThEcndhNC1SQXJrOExMVm95ZUh3?oc=5",
@@ -1573,23 +1588,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Paxton tries to shore up GOP support in tight Texas Senate race - eciks.org",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zWjF5VFlFMlZkT3FTQXd2aC02UFV1UXh3VmxsM21OSUxVOVZBRFB4bWlLTlE1NG5YVXg1LWhzMnlrLXA0U1ZkbkktS28yR084MDkxVVc1MlRfSGR0alNCaHBRaGpNQQ?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 19:02:26 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
       "weekKey": "2026-W33"
     }
   ],
