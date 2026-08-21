@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-08-21T11:31:08.013Z",
-  "newsFetchedAt": "2026-08-21T05:59:46.245Z",
+  "analyzedAt": "2026-08-21T11:54:30.465Z",
+  "newsFetchedAt": "2026-08-21T11:34:41.618Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Questions We’d Ask Ken Paxton and James Talarico in a Texas Senate Debate - Texas Monthly",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU2s4MnJCYTktMWp2YXBHMEU2c0RLZmNPMkJ3dmdYSHZObnloeUhqMEVFRlE4bVNjZzZuZzdub2UwamE0SWtzWUJZOFpCTWZRRVpEelJpSDNIdWhjdnVJSUdmYUw2SG5McGZ6NHk2MFJ0eXRFSGxxZ3FMVmtLY0FreGh3?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 11:00:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 28,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "texas senate"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Outgunned Ken Paxton Needs a Trump-Musk Bailout - New York Magazine",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVUFZM1MxQnBCQ21IY01oWHlYMDluZ0hqRTZTcEdBeVB2aC1RcWo3eXN1RlpYQnM5V0tfc2ZJNjRWX2ZERUdNbTgxUmdzS1piMjladEFWZk5SN3dmMTJEY053MnBHc0Q4LS1nTC1OWUJuVlpsZDdQaTBlVjJ1Ynd1N1FvTVI2d2xnRjdIb1VYclVNYVQxekhMWEZZaw?oc=5",
@@ -1564,22 +1582,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Where the Texas Senate race stands: A voter’s guide to recent polls - Fort Worth Star-Telegram",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV3IxQ013RXRzdkxOZC1wcC1adktPWFRUVWxUXy1ldmx5T0FrVDk3bzFzeVFfZXVrNE1oMFltV3hqSnNiTHNhRkJIMWJiTk5FMko2UV9SQXRQckpuYTFHY05xSGdXcWNydkRoVnhKWkNxWUJYOG0xNW5ZUVB2cGY1bGtBcUhyemE3QVIteVJKX1pHUzNadmfSAZYBQVVfeXFMTzI3MFprQUVZWWdUOW9SUFp3bUVnYW5GY2J6ZE1pYVRnNi1ySE5xR1ViY1Uxblc2Q0dNcm9PODNscWZPTXpnNURRMDlZVkFyVWNqLWlrM21GRTk1WGF6YnI1d3FFTm9nalhad3dheVJUSEg1cEVwZ3g3c3gzNVQ5VTYwYlc3Rjlyc2lMM2Q0bDkteGEtSUJR?oc=5",
-      "pubDate": "Sat, 15 Aug 2026 09:58:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
       "weekKey": "2026-W33"
     }
   ],
