@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-08-21T17:32:50.653Z",
-  "newsFetchedAt": "2026-08-21T11:34:41.618Z",
+  "analyzedAt": "2026-08-21T17:58:57.100Z",
+  "newsFetchedAt": "2026-08-21T17:33:59.195Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Opinion | Ken Paxton isn’t the only Republican looking shaky in Texas - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVWpXeVdsd3hZVmtjQTZrZGpyWkp4MEJqLXNlWlltUTJIVUhVbXQxeGQzRUEwdmZSaENLSzVzMWtHdnYyM0pweGc3WkJDeENoc0N5M1dON0ZtTExOMDZSaWRTOE5zRy13cVg4d1BRSVpucTVkQjVRV1BmdXBfb3lweU9UOC1TN3NKNjh3bEp5U3djOWVXbjZkQjJHMDZlUlZnTjNWa1RMU1ZPMnZYdVZtYUtEbw?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 17:04:31 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Questions We’d Ask Ken Paxton and James Talarico in a Texas Senate Debate - Texas Monthly",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU2s4MnJCYTktMWp2YXBHMEU2c0RLZmNPMkJ3dmdYSHZObnloeUhqMEVFRlE4bVNjZzZuZzdub2UwamE0SWtzWUJZOFpCTWZRRVpEelJpSDNIdWhjdnVJSUdmYUw2SG5McGZ6NHk2MFJ0eXRFSGxxZ3FMVmtLY0FreGh3?oc=5",
@@ -1561,23 +1576,6 @@
         "talarico",
         "paxton",
         "senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "U.S. Senate hopeful Ken Paxton still hasn't accepted invitation to debate rival James Talarico - San Antonio Current",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNR2Z2WEJxSnpGdHBQQkxoelotZjI1dWtqRHdLeUg2U0xOZURGM3YxUDRMSDI3TEEwSVZUcHBHaHNQcmxJMnRjQzk0MTJyVHd1ZmYtQW5lbXJfN1NaOGNOblpDV195cGxCZGNNX3Bpczd6SmdJRHJ1c1JZSnB2MXFVeXdQWjdkbFZ3TVlYSVlUY1Z6dnRoMmdxRHNzRC1SZ3ctRHBtY3F0cFQ2YjdjbUUzaVdoS24xSGdxY2gxYW5fVU9Xc1lHa1Z2cnFmTkFUYTdo?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 14:02:24 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 23,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
       ],
       "sentiment": null,
       "error": "HTTP 405",
