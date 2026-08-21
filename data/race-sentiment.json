@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-08-21T19:28:40.650Z",
-  "newsFetchedAt": "2026-08-21T18:44:06.131Z",
+  "analyzedAt": "2026-08-21T19:48:57.744Z",
+  "newsFetchedAt": "2026-08-21T19:29:34.397Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "A wakeup call for Texas GOP: Trump jumps in to help Paxton — if he can | Opinion - Fort Worth Star-Telegram",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JVlpsdlhRVm1VSXZNalc5ZWs4YV95NjdZejR6OW5wQjB5b2lseFlkVG45SGRaQVVlVjRVX0JQN2xvc21INzFaRlNNTFIzaGdwNzRzM2tNYnF2cmUwdDhNdWowUzJHUnlJYzh4eVRrRVl3OHpPblAzY0Rmcw?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 14:59:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 10,
+      "matchedKeywords": [
+        "paxton",
+        "texas gop"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Paxton, Talarico trade criticism as Senate race heats up - USA Today",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcnlOWUxtWDBReVFJNmY3RlNSMkc2NEpfY1RpSU1WV2pkMGhONHNGZmFWWW5JUFk1QlBIWm51QjhablgzckJoOXpNUEVyN3ZOQW90SU9RRElrTnZOb1FkUWtRZ2xkTDlYOFJvNnYtSHctaWlhMVNwOVFPWHhlaThaSDJOMUE0ZlRTZE80UWNwdkdXeXFpX2JKUHhHcFRrQlBfR05aMGhOWXN3b1QxU1JOOXBJclFRSlN3aWZWZmlwZkFHY3JxcUJCUFQzM2NRdw?oc=5",
@@ -1565,21 +1580,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "paxton",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Antifa Merchandise Distributed at James Talarico's Latest Campaign Rally - townhall.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYzJiSHkxQTdrUDN3dG9iRWpNMTM3MGVnemc3QUQ3SzlFRUJQbE5YU01iV2FIV1dFcm51ZEliTE9ndk5KZlktNU5SQnphU2NaNUIxcEtxYXR5TWtYWFByYXFQMlVVeUZkeVhHeDd2cVZYMlpyRlVGZ2hqdDZFZUxCOE9tVVBqMUZjby1GelEtSzN3anMzNHRqOHBhTFVSWl85QVZ6V0QyR282NUh2RGZHWlNtTV9FVzVSdVZHTmQwZ1hJLXNpM0o1MzBn?oc=5",
-      "pubDate": "Sat, 15 Aug 2026 14:00:45 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
       "weekKey": "2026-W33"
     }
   ],
