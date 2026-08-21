@@ -1,9 +1,38 @@
 {
-  "analyzedAt": "2026-08-21T21:28:46.206Z",
-  "newsFetchedAt": "2026-08-21T20:31:08.811Z",
+  "analyzedAt": "2026-08-21T21:51:02.312Z",
+  "newsFetchedAt": "2026-08-21T21:29:30.821Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Cruz-affiliated group spends nearly $2M on major ad buy to help Ken Paxton's U.S. Senate bid - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU19aUDFuN2NQVjd0aTR1bGZSSUROR1dGdVdZOTROUlJUWnFyY2I2a3Q0TnVhU1JlV1RwM3AtaGFmMUhhVVc3SC1lNlZZWHBIaFJmdURYaUs5NUFJak9aSkxfa05ZQ2tBeEhqWTBwZ19idWlmY3QzdDhlZHNHUzlRUHoyZTBqQk9xQ1hmTHhfUmlvUQ?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 21:10:53 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W34"
+    },
+    {
+      "title": "Texas AG Paxton says he has concerns about treatment of Sophie Cunningham supporters - KGAN",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaXNUb1RzaHdlYnh0eThwdUpwUEl3ZGk3YzdsTE0yYk9RQ2VuQ2VJTHRXSVBUaTRRZHVRMzBjbC1OdXlhaXNoZVNBTWVuS3dGZkdydUZLSExOUXVmT1JoMHFKei1BVGNVTDl5bWQ0djdNdFpoZmRqbV9RQmFKT1FSY093eEs0ZjJnaTNFTlVWSjNRWUFKT08tLV8tWjc5cThIMUdXa0twaDktMEZZczFja1psWnJxV0x4bUVjS0lMVWlVZ3JTS3o5LTVnM2VtOEVxN3V0bV9oQ3k?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 17:27:44 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Texas Senate race is now a toss-up. Here's what it means for November - USA Today",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTmJ6WUtoV2dsTndTQ01wYl8zbVRBZHlrRVVuNEZWN2M2b29Ic1UzcnZkZDBtc1pkRUVPVHpTdTl6SlpndV9OSXgwWFFXSS1RWjBZWHBxREt4S2JuUmdCb3R2VHo0MUJXTnhESDJHOWQyYWhRMUVrRlFub1dMX1pOOGJ5dk9vX3ZqTUdndDd1Nzg4RU1XN3JaOFFqQ1JSTllqNmVDTXhsQVUydlFUMGtkZzdnaDRlRktjeWxxQkR4ekNEX3RDX0J0YlVCUW5ycHFC?oc=5",
@@ -1550,36 +1579,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "paxton",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Exclusive — Ken Paxton: ‘If We Lose Texas, the Senate’s Gone’ - breitbart.com",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZXNEeTZ0OURvcXVXVkU1RV8wQzRwM2d3bHBCcldOSzZvS1ZlNzlCUWxiRkg3SWllWjFaLUdVbkFzaDFzenhDUExCTF9ERUJLMkFBa0ZWUERmY040djlZV0ZaMzllaVQzQ3BlT01CNklFaEJqRVVPbDhCc2kxY1liLXJpek9yRWxYUm9ibFRRWGFkZDZnazhYcnpHNi1LZzdNaWRv0gGoAUFVX3lxTE9vcTBzT1A1SzhRc3BtY2E5X21GWWw5REx0S0plU2FQVjRzNjRwMGRTX0gwLXR0cWhFMlkwVGJMSFRfNi1OUElBaTZhOUNSRDlhN1psUXp4V2FXeFJ3a3lXanhtTG94UlN0YTg1cTJjWHJwdkNhdHJQdFVGc0VtZlhkbHYwOWZDQk01OGhHeGNCVVE1b1BXempKRXlhQ3FGaktRWnRWM2JwTw?oc=5",
-      "pubDate": "Sun, 16 Aug 2026 00:52:48 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "State of Texas: One point separates Paxton, Talarico in Senate poll - KXAN Austin",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcnlpVWNKbUQyQmp0YjBRZl9KeWtTa3IwTXc5eHg0VDJIc0FoNGdBblI5Q05yUVZSbUcxdDZnZTZEamFsRGRpc0VwM2FuaENtQVpEQVNUa3Z4dmdNZjhQR2FGdkJBLVpqYmp4ZHBoRmlrcmdIZVYxTmN1ZE54ZktLY0ZWZ203ejhjQWthWWVOdUh4R0RSbG04bjFBY1ZJbjhIWEdUONIBqgFBVV95cUxPcHJvdWlHeDRwZzhsRm0xY2xlc2xDSS04S2ZXQlhXeXNPRHQ1MWNEUXRRRndnQnVOSTF2MWs1LVFzdEpIUzE4V0M3NTVfaTBkTFFCQ3ZCVk9rVEtyQzlsc2dzcWN3SXpBcWFESDF5cS1CZGxZNmNEZXlYTzFQQTQ2WjI2VzU3ZndZTkJOZlVwTW5maUVTbHRDSzIyQmxtd2diY3lZdDRVMHhsQQ?oc=5",
-      "pubDate": "Sat, 15 Aug 2026 23:00:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
       "weekKey": "2026-W33"
     }
   ],
