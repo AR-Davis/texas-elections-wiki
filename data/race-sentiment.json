@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-08-21T05:58:56.894Z",
-  "newsFetchedAt": "2026-08-21T05:06:14.573Z",
+  "analyzedAt": "2026-08-21T06:54:07.956Z",
+  "newsFetchedAt": "2026-08-21T05:59:46.245Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Outgunned Ken Paxton Needs a Trump-Musk Bailout - New York Magazine",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVUFZM1MxQnBCQ21IY01oWHlYMDluZ0hqRTZTcEdBeVB2aC1RcWo3eXN1RlpYQnM5V0tfc2ZJNjRWX2ZERUdNbTgxUmdzS1piMjladEFWZk5SN3dmMTJEY053MnBHc0Q4LS1nTC1OWUJuVlpsZDdQaTBlVjJ1Ynd1N1FvTVI2d2xnRjdIb1VYclVNYVQxekhMWEZZaw?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 17:17:53 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Talarico Rips Paxton’s Data Center Donors — But He’s In Bed With Them Too - dailycaller.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYjM2YVJHOTQ3T3ZhTGpoY29RSFF4NThJdTZ2RFBBREdhMmxWM1VnRmpOQjY4WXZxNkNzaXNsbDg0NEdjWW15YURQQkl3dEd3VXNBM3B1UFh3VmFKMkpuUmJFNWFMcE1LYlFvSEpfdWxRRUUyYzcxemxLU3NocXU0OTZaTEJYRUdpMjlzY0pIUkpsaHljVjJGalZYZU16ZldYaG9GRWt3XzRKMHE5NGNybWQ0NEg0dDJJR21HN3VB?oc=5",
@@ -1565,23 +1580,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "general",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Texas Senate Race Deadlocked as Paxton Seeks GOP Unity - asatunews.co.id",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xcEpGd25xYjVXa0dqb3dWUXF3TmZJc3JIMVhqcTBNWDBxUUVueVkxeFk1ZXFIQ1diLU5MWTJvSW9CdGRmd1hub1ZEeDNtcG1PVUdtcXlFYUM0M3NiaDEwSjFzbkJDSkxnZGd1a3BZQ2lOcE9aSDlxaQ?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 16:40:12 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
       "weekKey": "2026-W33"
     }
   ],
