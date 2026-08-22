@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-08-22T02:36:57.664Z",
-  "newsFetchedAt": "2026-08-21T23:53:26.849Z",
+  "analyzedAt": "2026-08-22T03:45:33.622Z",
+  "newsFetchedAt": "2026-08-22T02:59:05.630Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "James Talarico’s 'Private' Meeting Wasn’t So Private After All - townhall.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSFlrSVQyVjQtSmhaQW9ZQ0VzOUM2LVhGc3B4NGxwNVF2bGgwMVpEbDBMZldUZVpqUkt2dmZrNnFTeVBPUGFZVmxEaUVraEhRSzEwakF5ZS1pS0V2eU9rMkMydGlCeFpVcnRUOHVuMC00ckpHeHF3VEh3RW5FcVRvNDJWZmo3SkN3Mk1iTzV0akRnZktPbnFZajlQM2dlU3o5VENxQS1VNVdVNzh0Q0tSaUsweWlTWWRkUHJn?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 00:00:56 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "GOP Texas Senate Nominee Ken Paxton Stole $1,000 Pen 10 Years Ago – Now James Talarico Is Using The Story... - upolitics.com",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQd0tkYlVHYk5vZjMwdGdtM3RlYVlhMHphT1J4RUR0WXlWUGlCYUZzempxbWlhd3lORFRxSExWUXJEQ25Hb2YtNkhhTlFSMnJ1cWtJZGpUbXNXRXJZdkZZUENnU2tzOUFjYlE0QjVua0pXVmVzSzdCalE3aVE5RWFJajlZXzFkT3l6THFOUDFBQVVjRHJmM1RXUzc0R0lEQ3hZUUk5Qk93cFM5OUpJWlZid1doUDVydkxhZkpvRnozX1dISHVzMHM2YnBEUzhzSW5jVGhScVMtWnR1UUtIS2fSAd4BQVVfeXFMUHdLZGJVR2JOb2YzMHRnbTN0ZWFZYTB6YU9SeEVEdFl5VlBpQmFGc3pqcW1pYXd5TkRUcUhMVlFyRENuR29mLTZIYU5RUjJydXFrSWRqVG1zV0VyWXZGWVBDZ1NrczlBY2JRNEI1bmtKV1Zlc0s3QmpRN2lROUVhSWo5WV8xZE95ekxxTlAxQUFVY0RyZjNUV1M3NEdJREN4WVFJOUJPd3BTOTlKSVpWYndXaFA1cnZMYWZKb0Z6M19XSEh1czBzNmJwRFM4c0luY1RoUnFTLVp0dVFLSEtn?oc=5",
@@ -1567,21 +1582,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "paxton",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Paxton, Talarico tap contrary versions of God and Christianity in appeal to Texas voters - Salon.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTF9xbEtwZjA2U2gxMXFJcE9QSDBmSTNtLXNFbUVDWHJsSDRwWTRiX3J3eTdDYk00WnNpdS1GTzVlMzFxQlFZdHNaUjRXdC01U0RNYW5EVmpWZ0lmREJIUk1tOTlMYlJKdkM0bmJBbXg3cmJDSUJsdnJZNy10dG02eERfOVo3Ym0zTDJNMC1QU1Y1T2lMeVpObllwQWJtSVdGb0pGbER1Vy0xOEloQS1KTmtPcjB2Nl9ZOGQtaXpB?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 10:00:23 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
       "weekKey": "2026-W33"
     }
   ],
