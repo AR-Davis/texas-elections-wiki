@@ -1,9 +1,25 @@
 {
-  "analyzedAt": "2026-08-22T14:25:44.501Z",
-  "newsFetchedAt": "2026-08-22T05:32:32.396Z",
+  "analyzedAt": "2026-08-22T14:49:47.547Z",
+  "newsFetchedAt": "2026-08-22T14:26:44.003Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Ted Cruz Is About to Spend Big in the Texas Senate Race - townhall.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLXlDdGtvOEZxc3V1UjVwSXlnMWp6XzhNQy1nc3l0YVRGTnV3eWl4TW1zZFlDTmhGaVJMTEFWMEVnZVZEb2prTlJrMzBISnM3RElaeEFKM0VzWXFXVnFuejRXdm5PTmxlV0s1LTQwZGxiRnQ4LWNBNC1mWVlkYTJSQ3hHZVJIbWJiVHUzVUxMYWJTX0xQaW5xV1dzSXo1V19rRGpwV3lWYzdnX3FfLUdCTWM1SV9YWkk?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 13:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "general",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "James Talarico Shuts Out Local News at Campaign Event - breitbart.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVXF3Rml0ak02U1BYZm9CZnFqQmtBbHR1UWgxS0s5aS12VEhiVG5JR2FJeTB3Q3VVTUpyLWxkVnRuUk0tSDlrbE1nT1NiMi1MMUh3dDl1Z0FpOU5rRTNpUGtJRDBUM2pIb1d1Y3ZxRjgyMzJjZDV2ZU1Xa096SUVmZUFzVWNQYVlkX1RMSlZPeWxxSE1zdmhfZE94dktQSkFMcWfSAacBQVVfeXFMUDVSVEs3X3BOMFFnNlJhOEowTV80WGRkZGpCTldMd0xtWEM0S3RjS3I2SUZsbi1zenh1ZUt5YnVRTXMxVU4zQUdObk5sb0FlbzV1VG1JZFFhZ0hQeDFKUjRFOUg2MG55cGdySW84SDMxQUlNdEpNeG5QbXJ6Njd2T2JRR0l6M1JScERvRmkzVkVyYjVzLWR3NW5peEpGOFUxQVlXWkh1UGs?oc=5",
@@ -1565,22 +1581,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "paxton",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Texas Senate race polls 2026: latest predictions for record-breaking election - The Times",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeWJPaUZGZS1EMUE3WUR6elNRekJLdkt5ZUVPcE1fY21SdWdCeUFYMGdtSGtUUUVFZ2tDUXZVNzRmMlNBanktUUdpYTFtVllYS3dhTF9oLS1zckdzdHVpM0NHWWpkN0VhTV81VTFzVFloejg1aEZMRXVSLVZyajFrTlN1cFFzT3hXck55aTc4R2praDJ3SW1JOW41bGdLWGh5VUlUS2tsSnA0Zw?oc=5",
-      "pubDate": "Sat, 15 Aug 2026 11:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
       "weekKey": "2026-W33"
     }
   ],
