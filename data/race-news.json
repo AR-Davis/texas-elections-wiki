@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-22T16:30:38.221Z",
+  "fetchedAt": "2026-08-22T17:26:00.882Z",
   "count": 22,
   "feedsChecked": 8,
-  "itemsScanned": 71,
+  "itemsScanned": 74,
   "items": [
     {
       "title": "GOP Texas Senate Nominee Ken Paxton Stole $1,000 Pen 10 Years Ago – Now James Talarico Is Using The Story... - upolitics.com",
@@ -75,6 +75,18 @@
       "title": "Ted Cruz Is About to Spend Big in the Texas Senate Race - townhall.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLXlDdGtvOEZxc3V1UjVwSXlnMWp6XzhNQy1nc3l0YVRGTnV3eWl4TW1zZFlDTmhGaVJMTEFWMEVnZVZEb2prTlJrMzBISnM3RElaeEFKM0VzWXFXVnFuejRXdm5PTmxlV0s1LTQwZGxiRnQ4LWNBNC1mWVlkYTJSQ3hHZVJIbWJiVHUzVUxMYWJTX0xQaW5xV1dzSXo1V19rRGpwV3lWYzdnX3FfLUdCTWM1SV9YWkk?oc=5",
       "pubDate": "Sat, 22 Aug 2026 13:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ]
+    },
+    {
+      "title": "Scoop: Cruz-linked super PAC jumps into Texas Senate race - Axios",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS2E0OHRrbmVmX1N3Uk1ySmh3dm51SGxxNlo3WXhkOVlzN2xiZ25BMk0yNHRNdC1zclA0NElreldQMkxOeWF5RWFnMFdRbTZTUzBsX3phVjltaGlrbkJXaEpmNFNwY25YMVNiWWRVY0o1Z2tmclpSTlVuMTA2enJlZjNVS080Uk9IamxGank2NVhTUDJwY2RQWHJlN3lwRGNJTUxn?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 16:02:23 GMT",
       "feedSource": "google-news-race",
       "raceScore": 16,
       "matchedKeywords": [
@@ -253,17 +265,6 @@
       "matchedKeywords": [
         "paxton",
         "ken paxton"
-      ]
-    },
-    {
-      "title": "James Talarico Claims Black Americans Too Dumb to Get Voter ID - townhall.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSXhvSWt4bDMzZE9ER1BjZFdBMURSVzNEQkhLOG1mWEotUVFVQlY2QVBMSGhrZUgtMzh3cFNPTmJpa21XWVMzWHY4WGFCVmh2SDhRd09qZEEzX3Q2SjJnVkNCWl9sLVBpXzI5RFVDZmp4THpLaVBqZ0dscHoyeXJmNXN0eFlKNnVTWDZHVVdpN294TGQ0TmcwSC1iRjI2M0VmSWU3RnQ2RQ?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 18:45:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
       ]
     }
   ]
