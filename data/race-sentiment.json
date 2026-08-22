@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-08-22T05:31:21.316Z",
-  "newsFetchedAt": "2026-08-22T02:59:05.630Z",
+  "analyzedAt": "2026-08-22T05:55:45.803Z",
+  "newsFetchedAt": "2026-08-22T05:32:32.396Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "James Talarico Shuts Out Local News at Campaign Event - breitbart.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVXF3Rml0ak02U1BYZm9CZnFqQmtBbHR1UWgxS0s5aS12VEhiVG5JR2FJeTB3Q3VVTUpyLWxkVnRuUk0tSDlrbE1nT1NiMi1MMUh3dDl1Z0FpOU5rRTNpUGtJRDBUM2pIb1d1Y3ZxRjgyMzJjZDV2ZU1Xa096SUVmZUFzVWNQYVlkX1RMSlZPeWxxSE1zdmhfZE94dktQSkFMcWfSAacBQVVfeXFMUDVSVEs3X3BOMFFnNlJhOEowTV80WGRkZGpCTldMd0xtWEM0S3RjS3I2SUZsbi1zenh1ZUt5YnVRTXMxVU4zQUdObk5sb0FlbzV1VG1JZFFhZ0hQeDFKUjRFOUg2MG55cGdySW84SDMxQUlNdEpNeG5QbXJ6Njd2T2JRR0l6M1JScERvRmkzVkVyYjVzLWR3NW5peEpGOFUxQVlXWkh1UGs?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 19:36:53 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "James Talarico’s 'Private' Meeting Wasn’t So Private After All - townhall.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSFlrSVQyVjQtSmhaQW9ZQ0VzOUM2LVhGc3B4NGxwNVF2bGgwMVpEbDBMZldUZVpqUkt2dmZrNnFTeVBPUGFZVmxEaUVraEhRSzEwakF5ZS1pS0V2eU9rMkMydGlCeFpVcnRUOHVuMC00ckpHeHF3VEh3RW5FcVRvNDJWZmo3SkN3Mk1iTzV0akRnZktPbnFZajlQM2dlU3o5VENxQS1VNVdVNzh0Q0tSaUsweWlTWWRkUHJn?oc=5",
@@ -1566,22 +1581,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "general",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "The $1,000 pen from Ken Paxton’s past is back in the Senate race - Austin American-Statesman",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbk0zdFVnUzJlbTMwV0Jzd2pMWDM0T1FJMEZ1VXZWRDZmR19VWF90eDNVQU9SeXIzaVVGbVlHNWtXME1XZEtZTVVWQjhJbjNweGtFb2lFTWFuWHhFalVaQ09tbTZXb3RYeXJYWGszQlpGUXV0ZEhuUkktc1FES1BYNXRHZUdGOEx6XzFMeEhDREY3VmtMTUtJQm8xM2pub2xXMkJBdVlzMmN5UQ?oc=5",
-      "pubDate": "Sun, 16 Aug 2026 10:06:07 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
       "weekKey": "2026-W33"
     }
   ],
