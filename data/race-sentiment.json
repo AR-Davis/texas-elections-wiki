@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-08-21T23:50:12.624Z",
-  "newsFetchedAt": "2026-08-21T21:29:30.821Z",
+  "analyzedAt": "2026-08-22T01:26:33.215Z",
+  "newsFetchedAt": "2026-08-21T23:53:26.849Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "GOP Texas Senate Nominee Ken Paxton Stole $1,000 Pen 10 Years Ago – Now James Talarico Is Using The Story... - upolitics.com",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQd0tkYlVHYk5vZjMwdGdtM3RlYVlhMHphT1J4RUR0WXlWUGlCYUZzempxbWlhd3lORFRxSExWUXJEQ25Hb2YtNkhhTlFSMnJ1cWtJZGpUbXNXRXJZdkZZUENnU2tzOUFjYlE0QjVua0pXVmVzSzdCalE3aVE5RWFJajlZXzFkT3l6THFOUDFBQVVjRHJmM1RXUzc0R0lEQ3hZUUk5Qk93cFM5OUpJWlZid1doUDVydkxhZkpvRnozX1dISHVzMHM2YnBEUzhzSW5jVGhScVMtWnR1UUtIS2fSAd4BQVVfeXFMUHdLZGJVR2JOb2YzMHRnbTN0ZWFZYTB6YU9SeEVEdFl5VlBpQmFGc3pqcW1pYXd5TkRUcUhMVlFyRENuR29mLTZIYU5RUjJydXFrSWRqVG1zV0VyWXZGWVBDZ1NrczlBY2JRNEI1bmtKV1Zlc0s3QmpRN2lROUVhSWo5WV8xZE95ekxxTlAxQUFVY0RyZjNUV1M3NEdJREN4WVFJOUJPd3BTOTlKSVpWYndXaFA1cnZMYWZKb0Z6M19XSEh1czBzNmJwRFM4c0luY1RoUnFTLVp0dVFLSEtn?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 21:44:48 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 28,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "texas senate"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Cruz-affiliated group spends nearly $2M on major ad buy to help Ken Paxton's U.S. Senate bid - Houston Chronicle",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU19aUDFuN2NQVjd0aTR1bGZSSUROR1dGdVdZOTROUlJUWnFyY2I2a3Q0TnVhU1JlV1RwM3AtaGFmMUhhVVc3SC1lNlZZWHBIaFJmdURYaUs5NUFJak9aSkxfa05ZQ2tBeEhqWTBwZ19idWlmY3QzdDhlZHNHUzlRUHoyZTBqQk9xQ1hmTHhfUmlvUQ?oc=5",
@@ -1564,21 +1582,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Exclusive — Ken Paxton: ‘If We Lose Texas, the Senate’s Gone’ - breitbart.com",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb3Ewc09QNUs4UXNwbWNhOV9tRllsOURMdEtKZVNhUFY0czY0cDBkU19IMC10dHFoRTJZMFRiTEhUXzYtTlBJQWk2YTlDUkQ5YTdabFF6eFdhV3hSd2t5V2p4bUxveFJTdGE4NXEyY1hycHZDYXRyUHRVRnNFbWZYZGx2MDlmQ0JNNThoR3hjQlVRNW9QV3pqSkV5YUNxRmpLUVp0VjNicE_SAagBQVVfeXFMT29xMHNPUDVLOFFzcG1jYTlfbUZZbDlETHRLSmVTYVBWNHM2NHAwZFNfSDAtdHRxaEUyWTBUYkxIVF82LU5QSUFpNmE5Q1JEOWE3WmxRenhXYVd4UndreVdqeG1Mb3hSU3RhODVxMmNYcnB2Q2F0clB0VUZzRW1mWGRsdjA5ZkNCTTU4aEd4Y0JVUTVvUFd6akpFeWFDcUZqS1FadFYzYnBP?oc=5",
-      "pubDate": "Sun, 16 Aug 2026 00:58:08 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
       "weekKey": "2026-W33"
     }
   ],
