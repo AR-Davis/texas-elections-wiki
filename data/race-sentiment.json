@@ -1,9 +1,25 @@
 {
-  "analyzedAt": "2026-08-22T17:24:47.595Z",
-  "newsFetchedAt": "2026-08-22T14:26:44.003Z",
+  "analyzedAt": "2026-08-22T17:48:33.640Z",
+  "newsFetchedAt": "2026-08-22T17:26:00.882Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Scoop: Cruz-linked super PAC jumps into Texas Senate race - Axios",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS2E0OHRrbmVmX1N3Uk1ySmh3dm51SGxxNlo3WXhkOVlzN2xiZ25BMk0yNHRNdC1zclA0NElreldQMkxOeWF5RWFnMFdRbTZTUzBsX3phVjltaGlrbkJXaEpmNFNwY25YMVNiWWRVY0o1Z2tmclpSTlVuMTA2enJlZjNVS080Uk9IamxGank2NVhTUDJwY2RQWHJlN3lwRGNJTUxn?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 16:02:23 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "general",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Ted Cruz Is About to Spend Big in the Texas Senate Race - townhall.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLXlDdGtvOEZxc3V1UjVwSXlnMWp6XzhNQy1nc3l0YVRGTnV3eWl4TW1zZFlDTmhGaVJMTEFWMEVnZVZEb2prTlJrMzBISnM3RElaeEFKM0VzWXFXVnFuejRXdm5PTmxlV0s1LTQwZGxiRnQ4LWNBNC1mWVlkYTJSQ3hHZVJIbWJiVHUzVUxMYWJTX0xQaW5xV1dzSXo1V19rRGpwV3lWYzdnX3FfLUdCTWM1SV9YWkk?oc=5",
@@ -1566,21 +1582,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "talarico",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Ken Paxton squirms on Newsmax as hostile host frets he'll cost GOP the Senate - rawstory.com",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2bFpidjhacTREV1ZiY241c1ZodzJhR0tpcEhaQWZsQkJpamlPWWw2T0lzUzJyWUpLNHZOc2tTQmhzdzQxOTJfUlZkbU1GRDk2VGs3NGQzaUY5Z3fSAW5BVV95cUxPanVEVFkxQ0p5VTdmV0UzN19iaDZQd2MzX1VBZXpFUlAzOXZHaWo0NXp1Z0pTNnFobmRyTjBBbzdrdXlHaXhjSkFncS01d3hIZS1pS3VjRTgzbktWQy03dXcyMXZCdTBQaUNOU3g3Zw?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 15:52:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
       "weekKey": "2026-W33"
     }
   ],
