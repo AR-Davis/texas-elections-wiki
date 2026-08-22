@@ -1,9 +1,25 @@
 {
-  "analyzedAt": "2026-08-22T20:27:35.238Z",
-  "newsFetchedAt": "2026-08-22T17:26:00.882Z",
+  "analyzedAt": "2026-08-22T20:50:29.395Z",
+  "newsFetchedAt": "2026-08-22T20:28:45.021Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "CNN's Dana Bash Paints Texas Senate Race As 'Ethical Issues' vs. 'Christian' - newsbusters.org",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV2ZRcHZLTnRaQi04RG9WNUNqY01penpKZVVnU2F1MFgzS0JoRjFfMlBjU0E2aEtRck9SeC1DMVVsSW5keHBOQU82UGFRMVlVRGZ5WEJZZUd3X2s2SG1WQUduTnJmMTNNODBpWXFieE1TUHVvNjNhYzJZaXAzTFBINWZtR2VUUnczOWp5VFNlX1M5VEg3QkpOb1o1c3JQS1Nqbl9ldzhtakE4VGNON0p5Wk1COWpYWDNGelE?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 15:30:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "general",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Scoop: Cruz-linked super PAC jumps into Texas Senate race - Axios",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS2E0OHRrbmVmX1N3Uk1ySmh3dm51SGxxNlo3WXhkOVlzN2xiZ25BMk0yNHRNdC1zclA0NElreldQMkxOeWF5RWFnMFdRbTZTUzBsX3phVjltaGlrbkJXaEpmNFNwY25YMVNiWWRVY0o1Z2tmclpSTlVuMTA2enJlZjNVS080Uk9IamxGank2NVhTUDJwY2RQWHJlN3lwRGNJTUxn?oc=5",
@@ -1567,21 +1583,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Senate hopeful Talarico touts his faith. Texas Republicans call it blasphemy. - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMUFOUHdlams5WGxaWnctRHZYVURIMjMtUTlFVWQ2SjlQdWVCLVIwZ1ZuNnlIdEo4X2wyRGFrdHROUG45QkpBaXhYQXNSeHcwNko3VzJ4LUc4R2pfc1plWDJfQUhxbU1lT1NSS1pfMHBiZDRMb0FZQ3pERmZ0SXNUR1I2RjBteXdERXpNUHZmSVUwWTFseUZQTzdMd2dwSGp1TTgzTHY5WTdZLUl0TTd0dFZFSUNXb3EtZWxaRDU0blFxRDViZXc?oc=5",
-      "pubDate": "Sun, 16 Aug 2026 15:02:41 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 9,
-      "matchedKeywords": [
-        "talarico",
-        "texas republican"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
       "weekKey": "2026-W33"
     }
   ],
