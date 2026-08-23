@@ -1,9 +1,23 @@
 {
-  "analyzedAt": "2026-08-23T23:24:58.540Z",
-  "newsFetchedAt": "2026-08-23T22:27:41.046Z",
+  "analyzedAt": "2026-08-23T23:47:56.075Z",
+  "newsFetchedAt": "2026-08-23T23:26:00.847Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Inside Texas Politics - KVUE",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZTVOcDF5SF9rSUpsWkhvdUF1SHJ6VEFjWjlTVi16M0ZuOERrNk4tbTJBekxNSGxpdklMMU1JdENqOTBqMFhPZzJFS0ZFS0pGLVFTRUtvdy02Q29aR3otRUxWUTQ1a3hybW5QZ1NVdkwwOGlub3F5RjFqUV9jRFRnTFhEbTFmWkhwcHY4WDZBa19rWlFSZXlrcmJDOXE4V2xrV2lLa2t0bWVWZw?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 10:30:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "general",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Texas AG Paxton says he has concerns about treatment of Sophie Cunningham supporters - WCIV",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcEdna0xKc0JadmJhN2dVNHEwbTJNZ2RqTnpWcS1taER1ZDNGYXhPZURENkp1bTJpeUpRVlJ2bEE3WEszbzRXeHBoREZSNTlJNFFFVTZITlFDWFk3UWVOWDJUVUg5dV9lZmZ1NlRoQ0psVHVJbmFUdXI3U1ZWNldyREhERW1rMU9ZWVhlOXR6ai1VMGhtSUhONW55ZC1oQnpmVzZoSmtnV013QkZWRWMwM3pSUzc5SWRvZEJLajgwWU91Ri05UzQ4VWpwSVZ3UFNJVnBfTFg1UnY?oc=5",
@@ -1554,21 +1568,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Ken Paxton tries to tamp down growing Republican concerns about his Senate campaign - news8000.com",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQbDlxRm1talpsakVDQWhMYTlrMGN5cnhIVGtyWGtRd250VzhCYnA5YkwxYmxLMFNkOGNlZk1Ia1Ftb2ZRVmNZR1BUcUFuVnNhMEhzNlhmSWZrNlh0bEJNcjNCLVNueDRNNjRJdnFCTHJXanMtVHRJWVNXbmVWeGp0RjBCNjhQV21BOXBDV21tdkJDUHRrY25vZUtqOGVzNk9jSHpCdHBwUjBBRm5NVE9rTF9GZlZDMUtrc3U5Z25WZzA2eFZ3T2EyZFNQLXVPdm5VQ08tTi1rUU5Kak9heFg0Z0FSN2R1elBrenNEekdUS3llNjlRUTJxQ0pGOGR0LU5TLUNGOGp2OTU3Sk1OeXNfYjdSQ3lXYW9XY1E?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 13:27:32 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
       "weekKey": "2026-W33"
     }
   ],
