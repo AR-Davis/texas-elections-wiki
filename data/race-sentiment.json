@@ -1,9 +1,23 @@
 {
-  "analyzedAt": "2026-08-23T09:32:09.049Z",
-  "newsFetchedAt": "2026-08-23T01:45:07.213Z",
+  "analyzedAt": "2026-08-23T09:54:18.217Z",
+  "newsFetchedAt": "2026-08-23T09:32:51.715Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Inside Texas Politics | Full interview on Democratic Socialism with Austin Councilman Mike Siegel - WFAA",
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNV1ExSG5uX2F4RjQtSUliTTEyMC1zSzh3eGp5VXlkUG1RbzN1WWlCSmVMT3kxX1dLUjQ3dURHQ0x6aDlIMU9rQzl1cVRBZExndXpQZjdjNi1mam1UbFhtbVExVjBRNVcyVHZ1Y0wyTWVMNFBlOTdqU3hfbzVST0hESGpmREIwbElLZ2FySlhpVWFkeGtIUU5HNzNWSGhyX1BzSThwV0V4SzBZQUNxSzNIaXNXdUlJc2M4WjhWa0VfaVhRVzVlSFoxTlpvMkV6OEt0YURSSHNFZkxGQ0pJcFAzc243aEhNUTFEenFTTUdzekNGWk5oOG9oYkM2Q09DV0tyUTNYbzdJQ3FrTUcyMlpDWHZWT2l4Q3dPV0lKbzd2YUhDc1Y3Mnpn?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 03:55:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "general",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "James Talarico’s ‘World Without Prisons’ Dream Would Be A Nightmare - thefederalist.com",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbGJ5QnVaeEpyOGhqNE1sLVJteWdkNWtzenBhMzJPZEFINjhSSzRqZnhvbXV1UWxVZ1E2SWJfdTctZWltS0haRHRjWXJBeUppbENOWnl3RkwyT19TZ0lUUVpwM2swal8xekU4UUsyaHBndWhoRGZvbGdnY1hIVGhiZnZNS3NCOVNKQkVGV01OZm1iaXVhdm80V0Qta3p4aHVBLURGcQ?oc=5",
@@ -1568,21 +1582,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Talarico expands TV ad campaign in Texas US Senate race - El Paso Times",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQmRaR1U4QnNldWg4czNHSExwaVFMcXVTTDRFRzI4VTNzNC02dkFqXzNHS0xrRm1JS0UybG8yY0hLUG1FeE81X1lGTnMxMUl6NzBXUFpiUlNreVhjOGdYMWY3ODhtWm5PSDJLVjRjZ2pSYXF6Q2R4UUZ3RDBjdm13enNoQ1phWHVjcVoxNTk0TUliWlBrUVVUdDR6NkVXcVp5OXdxc1Q5MW1kWmJCbjFyTGR2Vi1iTzYwM3N6NXFIT0dOZmJRTXdnR1VJVDRLaXJVeFoxRnl1b3FJYlZnWmoweU00bmF6dDY1X1E?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 16:10:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 10,
-      "matchedKeywords": [
-        "talarico",
-        "senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
       "weekKey": "2026-W33"
     }
   ],
