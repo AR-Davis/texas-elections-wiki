@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-08-23T11:24:27.363Z",
-  "newsFetchedAt": "2026-08-23T10:54:18.983Z",
+  "analyzedAt": "2026-08-23T11:47:54.075Z",
+  "newsFetchedAt": "2026-08-23T11:25:55.616Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Talarico: Democrats and Republicans Will Come Together as Texans to Defeat Paxton - breitbart.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeERoLURmaDVKVVFGN2o3NDZhaXdjUVlTSjBtelVNOXp0bzh1aUdnSnQwdHhldE1mVTZmWm9xSnExMm85eHV5dHV5SE5YWUt3RjRTTjBmNVI3RkNJSWoyTEFjcXViNm1RSmNHMkZPN2ZRNGZYUUsyaW9wTlNPQ0txVUZxeW5wcUJhLUR6cmRVNlJ4T2Q5RHhWNjdWUE91b0FRQVBiYVJZQ01UekJKbTNDeGZxalRFYzEycjZ5a1pRTGFmZ9IBxwFBVV95cUxNNWVfQzI5X3NGMnFDaWJqMGtvdXdPdFZHOXNHSW1mUlR5ZU1yYWdONDZodzk4RVJoOG9UZDRVRjFycHN4YzFMSGN1QWZoMEFJRlc0RFJHeHFWdXlMQ3pRU0d6dXd4dmZNd1BDZW5VRGloSFdPTi1KaVdNamlNR1ducFlNZVJoMUhTRENzNHBPUWRPbFNITjVJN0xhZENYZ0ZpV25HOGVOU3VvR25rNWV4blNGQkNxN1g5cG5TanpGdmhiY09TR3FF?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 02:31:42 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 10,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Talarico leads young voters, but older Texans may decide the U.S. Senate race - Austin American-Statesman",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRGhXeXRGbU1DdW5Bc3pDSmNPUnVLd3VrV2NNTjlLVlVkbk45M1J1Si1Pdjh6bGdVZ0NLMjlCOGg1M3RZbmtOWXp6Yl85S2hDVlA0d242NEw2Ym9ySThnZVAyTUE0S0p5OTQzX3g1b3NQa3lQdzNlcjVMRnVteURpczNRS0w4LUllb3ROSEdKUWx4cEtYeV9HM1BzSXQ?oc=5",
@@ -1567,24 +1582,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "talarico",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Ken Paxton seeks Republican unity as Texas Senate race remains competitive - Межа. Новини України.",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wSXJhVHQxY3ZvS1U4U0JEbVo3UF9hLTU4Qk83Q2JCamZaMUhraUsxUWFzMEtaejI5WU54Z19rVVRmODh0NTVUTko4VlF4WEVkT3EtZUJlMDlJNFlBT1JvbExyMmc?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 09:08:50 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
       "weekKey": "2026-W33"
     }
   ],
