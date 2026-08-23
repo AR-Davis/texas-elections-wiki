@@ -1,9 +1,37 @@
 {
-  "analyzedAt": "2026-08-23T22:26:24.502Z",
-  "newsFetchedAt": "2026-08-23T21:49:38.435Z",
+  "analyzedAt": "2026-08-23T22:49:34.880Z",
+  "newsFetchedAt": "2026-08-23T22:27:41.046Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Texas AG Paxton says he has concerns about treatment of Sophie Cunningham supporters - WCIV",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcEdna0xKc0JadmJhN2dVNHEwbTJNZ2RqTnpWcS1taER1ZDNGYXhPZURENkp1bTJpeUpRVlJ2bEE3WEszbzRXeHBoREZSNTlJNFFFVTZITlFDWFk3UWVOWDJUVUg5dV9lZmZ1NlRoQ0psVHVJbmFUdXI3U1ZWNldyREhERW1rMU9ZWVhlOXR6ai1VMGhtSUhONW55ZC1oQnpmVzZoSmtnV013QkZWRWMwM3pSUzc5SWRvZEJLajgwWU91Ri05UzQ4VWpwSVZ3UFNJVnBfTFg1UnY?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 16:48:34 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W34"
+    },
+    {
+      "title": "Texas AG Paxton says he has concerns about treatment of Sophie Cunningham supporters - National News Desk",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPc3RfMmp5UGZXU2oyMGt5czRDZ1pIU0NOaWhRNTVXeDVKY2Q1dlRGQkdjTEhWa2pMNzlIZzFoRkpWcll4QkFjY1Nod3BzNDBOYWhiek1vZ21hMURvX054cjNZQ0lxU24wNXFGWmFuUXhTVnA4bElRZkxkRWo0b051VEE1WnVvaDFsdVRXaVl6QTcyV1E0ZTdkOVZBbEsxTUhJVGxZYlQ5TWVaeXlwbEpkVHo4cUJfSHNVcFJSSVpPU3JITTczNUtJYXFYNDhzWEphM3I3YlFTM3RnUjZ0VWMySXBEd2RmbW1mWVo0S2JweG16QkU?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 16:38:02 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "TX Senate Rundown: GOP alarm over ‘lazy’ ‘reprobate’ Paxton’s campaign | Opinion - Fort Worth Star-Telegram",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5OUmVnYWs5aVc1dXB1LWhNb1NzVng0Z3IweFQwVjNjSlRyaU5RcE1WRmVZSGZCN3pkbnhWbW9nY1ZrbGJrakNYeXFaemxIejRuTFFBVlpuUkFITnJOT1ZhQUhtUkcwY3lJNkNXWlRpTXowTkNFZ3JzY3B3?oc=5",
@@ -1541,41 +1569,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "paxton",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "An Ad For the Ages: “Vote for James Talarico. He won’t steal your pen.” - Daily Kos",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY2dwNzJIZWRuZHJTbDNlR09YZVVFYUNVMGlHV3N5bHd3a0ZKaUd6dTh3ckNFY3F1MHphZlk0Ri1HbEJzMFF6dS1xMS1wSUwtcE9uUWtXUGQyUkZFTXJwaWVBTm9BYTMtZ2pkcHZrMlZWN01sb0stQ0c0dVk3bWlKTG0yTXlqV19xeXVpcUQ5UlVkRGhaLU8ycXdaWjU1U0xTOGR3djFNdVlNbU0yZUsyZzFxdG9pZ1h3cDhoQlpyRnhfeVJvX1BF?oc=5",
-      "pubDate": "Sat, 15 Aug 2026 15:36:08 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "The 20 biggest donors to Ken Paxton and James Talarico's Texas Senate race - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZU3JMQzliMTVWSURSY1FPcGI5WXQtdHljOVI0M2k5UzNKaU9oSHVuUG9velRnRTV1TnhxbnA1TDA5cVQyNVZCZlo5X2NHemRscWJzcmJKaVlBVTdLS2NKLUtQamFQNTk1bEJEV1NkblI0THBUYWVxTkwwYUlUZUk?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 09:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 39,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
       "weekKey": "2026-W33"
     }
   ],
