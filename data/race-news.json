@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-23T01:45:07.213Z",
+  "fetchedAt": "2026-08-23T03:08:05.659Z",
   "count": 22,
   "feedsChecked": 8,
-  "itemsScanned": 88,
+  "itemsScanned": 96,
   "items": [
     {
       "title": "GOP Texas Senate Nominee Ken Paxton Stole $1,000 Pen 10 Years Ago – Now James Talarico Is Using The Story... - upolitics.com",
@@ -73,6 +73,18 @@
       "title": "Ted Cruz Is About to Spend Big in the Texas Senate Race - townhall.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLXlDdGtvOEZxc3V1UjVwSXlnMWp6XzhNQy1nc3l0YVRGTnV3eWl4TW1zZFlDTmhGaVJMTEFWMEVnZVZEb2prTlJrMzBISnM3RElaeEFKM0VzWXFXVnFuejRXdm5PTmxlV0s1LTQwZGxiRnQ4LWNBNC1mWVlkYTJSQ3hHZVJIbWJiVHUzVUxMYWJTX0xQaW5xV1dzSXo1V19rRGpwV3lWYzdnX3FfLUdCTWM1SV9YWkk?oc=5",
       "pubDate": "Sat, 22 Aug 2026 13:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ]
+    },
+    {
+      "title": "Scoop: Cruz-linked super PAC jumps into Texas Senate race - Axios",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS2E0OHRrbmVmX1N3Uk1ySmh3dm51SGxxNlo3WXhkOVlzN2xiZ25BMk0yNHRNdC1zclA0NElreldQMkxOeWF5RWFnMFdRbTZTUzBsX3phVjltaGlrbkJXaEpmNFNwY25YMVNiWWRVY0o1Z2tmclpSTlVuMTA2enJlZjNVS080Uk9IamxGank2NVhTUDJwY2RQWHJlN3lwRGNJTUxn?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 16:02:23 GMT",
       "feedSource": "google-news-race",
       "raceScore": 16,
       "matchedKeywords": [
@@ -188,6 +200,17 @@
       ]
     },
     {
+      "title": "James Talarico’s 'Private' Meeting Wasn’t So Private After All - townhall.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSFlrSVQyVjQtSmhaQW9ZQ0VzOUM2LVhGc3B4NGxwNVF2bGgwMVpEbDBMZldUZVpqUkt2dmZrNnFTeVBPUGFZVmxEaUVraEhRSzEwakF5ZS1pS0V2eU9rMkMydGlCeFpVcnRUOHVuMC00ckpHeHF3VEh3RW5FcVRvNDJWZmo3SkN3Mk1iTzV0akRnZktPbnFZajlQM2dlU3o5VENxQS1VNVdVNzh0Q0tSaUsweWlTWWRkUHJn?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 00:00:56 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ]
+    },
+    {
       "title": "James Talarico Shuts Out Local News at Campaign Event - breitbart.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVXF3Rml0ak02U1BYZm9CZnFqQmtBbHR1UWgxS0s5aS12VEhiVG5JR2FJeTB3Q3VVTUpyLWxkVnRuUk0tSDlrbE1nT1NiMi1MMUh3dDl1Z0FpOU5rRTNpUGtJRDBUM2pIb1d1Y3ZxRjgyMzJjZDV2ZU1Xa096SUVmZUFzVWNQYVlkX1RMSlZPeWxxSE1zdmhfZE94dktQSkFMcWfSAacBQVVfeXFMUDVSVEs3X3BOMFFnNlJhOEowTV80WGRkZGpCTldMd0xtWEM0S3RjS3I2SUZsbi1zenh1ZUt5YnVRTXMxVU4zQUdObk5sb0FlbzV1VG1JZFFhZ0hQeDFKUjRFOUg2MG55cGdySW84SDMxQUlNdEpNeG5QbXJ6Njd2T2JRR0l6M1JScERvRmkzVkVyYjVzLWR3NW5peEpGOFUxQVlXWkh1UGs?oc=5",
       "pubDate": "Fri, 21 Aug 2026 19:36:53 GMT",
@@ -240,28 +263,6 @@
       "matchedKeywords": [
         "talarico",
         "james talarico"
-      ]
-    },
-    {
-      "title": "Ken Paxton and the Curious Case of the Missing $1,000 Pen - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uRXUtQWtQYVlVTzNLaHk1Y1pFSFQxZ1E5SEhhd3VEcnRhV0lzTTZpanp1dWpsZ052dFlKblZrMllwRS1rcFpCWUNWSC13SUJPR0l3NkFhQTZmNERaVXRQa1ptUjhaWkJTM2JrQW56bk80Yk1nMmc?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 09:04:05 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ]
-    },
-    {
-      "title": "Talarico Rips Paxton’s Data Center Donors — But He’s In Bed With Them Too - dailycaller.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYjM2YVJHOTQ3T3ZhTGpoY29RSFF4NThJdTZ2RFBBREdhMmxWM1VnRmpOQjY4WXZxNkNzaXNsbDg0NEdjWW15YURQQkl3dEd3VXNBM3B1UFh3VmFKMkpuUmJFNWFMcE1LYlFvSEpfdWxRRUUyYzcxemxLU3NocXU0OTZaTEJYRUdpMjlzY0pIUkpsaHljVjJGalZYZU16ZldYaG9GRWt3XzRKMHE5NGNybWQ0NEg0dDJJR21HN3VB?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 20:58:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 10,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
       ]
     }
   ]
