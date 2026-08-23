@@ -1,9 +1,25 @@
 {
-  "analyzedAt": "2026-08-23T15:26:36.626Z",
-  "newsFetchedAt": "2026-08-23T13:35:46.493Z",
+  "analyzedAt": "2026-08-23T15:48:28.361Z",
+  "newsFetchedAt": "2026-08-23T15:27:46.602Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Cruz-linked super PAC enters Texas Senate race, boosting GOP influence - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTRPeUhoeXJSd05uaVdTVlFicG9nWEE5OE9SUmh2M3VUa2FJaEcwLXk5RGFoX3FOUFlMZXRYb1lGX1ZKNDY2RDVvdkV2b1ZmOTJhaVR3Yi1EWmlyNTRwakRQUDgtSHMwUHhNRUJHSXBsUFVaMENvTUZwcHF1WGI4VFFoejEtYWE1cTNHQldoWXpsMzV2ZkdkZkNLZno1QQ?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 16:07:51 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "general",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Gov. Abbott dismisses GOP worries about Texas, says voters will be 'rushing to vote for Ken Paxton' - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORFVUc2o4b1F2R1RobUlrd3pQcVgwM05PZWxXVkZDZWZ5UXFJeU8yUWd3QzFSOGlZY05pcE9rdzZOV204dXFqWGczYmpSNm45aVl0VUtwbk9YTFRKYUdDSWdXaEI5Y2tqN1E0NlZWWnIzQTZYY2Q5bS1CN05OeEZLcmxSczBCV0xQTGh6VWdOemIzU1VZSXgzVUVPM0JNRzBwOEdV0gGoAUFVX3lxTE9CSzB2Uk05U0c5QW9mMzVhRGF2ekZoM056N2hvc3o3ZHFTY2dfMW9LMDBxZnlXbkpxSmo0MG9qSUJrN24zODA4cE9lNkwxTW84UnptRmVBQWZqV3lvUnZlbTJmMmFlVHN5dm1qM2FaelFaemEzNU13R1lpcG54UjlPdmZHenBSM19NX0VvTGFoNGhSRDBhM1dHakF1WnV5a3dyZ1dRemYzbQ?oc=5",
@@ -1564,21 +1580,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "paxton",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Talarico: Texas Politics Are Flipping Tables Nikoloz Basilashvili (kBKKIkdzEF) - Mshale",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rcXNsUmpZN1RqY1pteHBJT2I2SkhJdFhRZEttTWtYZU5XMXFRTnFjMHF1MjAxUFFOTVlLLUNNcTduT1BheDFaNkJvREltdFlhdUJUbG9pVTlwM1E?oc=5",
-      "pubDate": "Sun, 16 Aug 2026 18:31:24 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 10,
-      "matchedKeywords": [
-        "talarico",
-        "texas politics"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
       "weekKey": "2026-W33"
     }
   ],
