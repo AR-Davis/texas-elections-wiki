@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-08-23T10:51:10.631Z",
-  "newsFetchedAt": "2026-08-23T10:29:31.296Z",
+  "analyzedAt": "2026-08-23T11:24:27.363Z",
+  "newsFetchedAt": "2026-08-23T10:54:18.983Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Talarico leads young voters, but older Texans may decide the U.S. Senate race - Austin American-Statesman",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRGhXeXRGbU1DdW5Bc3pDSmNPUnVLd3VrV2NNTjlLVlVkbk45M1J1Si1Pdjh6bGdVZ0NLMjlCOGg1M3RZbmtOWXp6Yl85S2hDVlA0d242NEw2Ym9ySThnZVAyTUE0S0p5OTQzX3g1b3NQa3lQdzNlcjVMRnVteURpczNRS0w4LUllb3ROSEdKUWx4cEtYeV9HM1BzSXQ?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 10:47:30 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 9,
+      "matchedKeywords": [
+        "talarico",
+        "senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "What Talarico, Paxton are saying about each other in the Texas Senate race now that it's a toss up - CBS News",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSU1oTlhGcG83LUljR1BVUTRhVWpvSzlRX2VENi03MnBoOFo0aVBCQkY4eGU0ekZBNnkzOEI0VVZvbE9QeEJqY3VJcFY1dzVnRGQ0dVY1clQ2NlduakF2MlFWS1FCXzBBUHVveUJvaHgtQ1pib01TZVhwbUJRWjFiNjJvVUM0VVZzWG42c0l5eFQxQ0ZiNW94ZzZzdVROUmhwSFhSZGtLcHdwUQ?oc=5",
@@ -1570,23 +1585,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "paxton",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "James Talarico Endorsed by Attorney Accusing Opponent Ken Paxton of Theft - Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZndUMWp2S2txT29vbGUxcDM2XzBpUkl1aXoxMXlBM2lMZkNJamVwaGVoTXk0UjdyODBvYkZHQ2ZQbWhrVHdOc1dWUW5HMzI3bzJ5MGJLaTdYRVpweUtrT1p0WXNPZTJZcmtIZjVBYXJPN2lzTmUzYzFVSng5OEtOTmY0VFhzNjRaQnZsV0VBTlM5NlRpUF96UGViQnNWUVVuV2VJZXBVa29HSkE?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 20:19:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
       "weekKey": "2026-W33"
     }
   ],
