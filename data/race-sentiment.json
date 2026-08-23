@@ -1,9 +1,60 @@
 {
-  "analyzedAt": "2026-08-23T10:27:56.678Z",
-  "newsFetchedAt": "2026-08-23T09:32:51.715Z",
+  "analyzedAt": "2026-08-23T10:51:10.631Z",
+  "newsFetchedAt": "2026-08-23T10:29:31.296Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "What Talarico, Paxton are saying about each other in the Texas Senate race now that it's a toss up - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSU1oTlhGcG83LUljR1BVUTRhVWpvSzlRX2VENi03MnBoOFo0aVBCQkY4eGU0ekZBNnkzOEI0VVZvbE9QeEJqY3VJcFY1dzVnRGQ0dVY1clQ2NlduakF2MlFWS1FCXzBBUHVveUJvaHgtQ1pib01TZVhwbUJRWjFiNjJvVUM0VVZzWG42c0l5eFQxQ0ZiNW94ZzZzdVROUmhwSFhSZGtLcHdwUQ?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 10:00:11 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W34"
+    },
+    {
+      "title": "Talarico’s Old ‘God Not A Christian’ Remark Explodes As Texas Senate Race Heats Up - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTkhGaGUta09FcUxoMmhHNFVBeWpRT2hPcGVGRXY4SWJuMm1LdU00SE9GZEtMR0VxaTkxRy1yWUhNOFNLbFFnejVHYVBrSEt2LUU3SkhUVXJENFhObFppT0x0eUhDdHRFN3ZwV3Z2Y180R1NlZkNBV09pZDR3U2gxQ2ZiMzVRamVQOVRScXV5dFZPeXhkWmJvUXRtWDQ2YTUyak1MV3dWbU1YS0ZfV0RfNlJMZWZWeU5MM29KT2ZWVG44WkRkYkR0ZklsNkdHdmVEVl94VUxKZVA1LUIydmQ2UFFISUVJYnZuTlV4NlZEQ2YwUdIB9wFBVV95cUxONWZIWnN4Q0U5Z2I5d0xicFEwakNBbE44ZTRBQ3lGLVl1bnEwcHQ3a0Y3TkJMQTJCS3pNbVhmWkRlVjgxTWg5eTNDaTNpZExSUVYxWmFPeWJWUm5VcHdSMGZ2cFdzclMxcUhvYnJqaldHazJaeVBMcGVoYTJPWl9FX3Bva0NGd1hieS1Xc2lRRWVCZ2tmQjNkSk5IUE9qcjdVNkdKY1VPdk1fVUV1YmQ3SVBMTW5JZHJRTzBrYXkxMGRDMlA2X0lFbi1wRU1QYnFzTXBPd0dJd3liY2d6ZEVKVXlmc2FLaWpfMmdheFVoNi1aTkM2VGtr?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 22:15:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W34"
+    },
+    {
+      "title": "Talarico floods Texas airwaves in U.S. Senate race as Paxton, GOP stay quiet - Salon.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQkh2ZmxMT0dOTEJZRzBUOW02R3Z0V3N2RWJpNThQcDJiNG9pVlR6MGl6aXpfTmhaY094YndFWE1xTVROdGczYVZPeURXenZBQmd0blFTN1Npb3d4SmMtMnZlcEFTVzZvczcxa1NfdlNUajV1YUg0WlQ3dDVkamVkdU93V1Fjdl9kNEJobW1lQ0ZyazJzMXFNZUdzNjhUVk8zNGg0WVZTTmJ5SEZjVDBKN0pydUZQN28?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 10:00:35 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Inside Texas Politics | Full interview on Democratic Socialism with Austin Councilman Mike Siegel - WFAA",
       "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNV1ExSG5uX2F4RjQtSUliTTEyMC1zSzh3eGp5VXlkUG1RbzN1WWlCSmVMT3kxX1dLUjQ3dURHQ0x6aDlIMU9rQzl1cVRBZExndXpQZjdjNi1mam1UbFhtbVExVjBRNVcyVHZ1Y0wyTWVMNFBlOTdqU3hfbzVST0hESGpmREIwbElLZ2FySlhpVWFkeGtIUU5HNzNWSGhyX1BzSThwV0V4SzBZQUNxSzNIaXNXdUlJc2M4WjhWa0VfaVhRVzVlSFoxTlpvMkV6OEt0YURSSHNFZkxGQ0pJcFAzc243aEhNUTFEenFTTUdzekNGWk5oOG9oYkM2Q09DV0tyUTNYbzdJQ3FrTUcyMlpDWHZWT2l4Q3dPV0lKbzd2YUhDc1Y3Mnpn?oc=5",
@@ -1532,52 +1583,6 @@
         "james talarico",
         "paxton",
         "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Exclusive / Talarico touts endorsement from man who accused Paxton of stealing his pen - Semafor",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZmpwWGwwcUlmSWZfNnhhVkxTQzFkMnNNWUNldU5KT3JZOFZETWYzOENnclpaU2k1YUl3UW1TYkgxbU9MelRlN0dkY0NaTVhNUWxQbWMtRHg4dG9QQUhVZ2RXNFRmSE5IMVh3Y3liZ3Nla3lrTDUwRUtqSzhaNkhNMUw2NDRaNVIzUVR5a2FjckVHT0pyaDJLMXNZVWxXRjVQUTBhUjJneXA3QQ?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 17:36:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 10,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Texas Man Endorses Talarico For Senate Because Ken Paxton Once Stole His Pen - HuffPost",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOWtxWUstS3Q0ODRibkJjZVpkZHJiRDhyZjRHcFdmSjRmbnFXSVV4TUMwRzVCQ3R3ZjNGb2lVc2ZielJPdUxOVW1tQzNMa0dmX1VKbkhOZGxxSVFjMEdfeFQ2X05MbERXdVNCRVdUVl8tTXBiQTZNV2pZVDh3S2pfMXJRUFVkWm51b2MwUng3Q2NKb0w1aG1WanlwUG1fckHSAaQBQVVfeXFMUHVzXzJxZTZmUWVrVWdPQVA4VktEMjBMdnl6c2FlQkswalRGQTk5MWQ3bWowS2I5NGlHMUlrZkUzdjFiT3FHS1hfb2xYcGxQa0p2Wlp2NlZWS2NPR3dXYXU3Q1hTLVhHTExyT0tydGdSY24yOFpHazlLdlUyc1oteFBrNHhSaGp4QjlhUURnSTBmODJQdEx0SW9BdG5WQ3lKdmlVc1o?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 20:20:38 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Talarico touts endorsement of man who accused Paxton of stealing $1,000 pen - Washington Examiner",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVE5GRS1GUFpNZmJiMnB3SHZlRzNpbWF2YVV1RlZFWTVpVjh3NnZVdmFzcGZKOWEweEhiOFBhSWgyMEhGd2FyNVlDcGM4WnRKQzBNa29QeTlsNHgzNXlqeUhkd1ZpbXJoV0VDNmtBR1F0aUlQd0pGQ2xYS3djWHl2VkQyOGYweEtoMFJzSklKZ2pNcEdydHRYWXRWWkswaEFZMWh4NXQ2aURVM0p6Z0NMY3VPLUZjTWJOeUFIajlNYVNXTWpaUTJEdnJ2NA?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 18:49:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 10,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
       ],
       "sentiment": null,
       "error": "HTTP 405",
