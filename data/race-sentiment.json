@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-08-23T01:41:12.701Z",
-  "newsFetchedAt": "2026-08-22T20:28:45.021Z",
+  "analyzedAt": "2026-08-23T03:07:03.462Z",
+  "newsFetchedAt": "2026-08-23T01:45:07.213Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "James Talarico’s ‘World Without Prisons’ Dream Would Be A Nightmare - thefederalist.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbGJ5QnVaeEpyOGhqNE1sLVJteWdkNWtzenBhMzJPZEFINjhSSzRqZnhvbXV1UWxVZ1E2SWJfdTctZWltS0haRHRjWXJBeUppbENOWnl3RkwyT19TZ0lUUVpwM2swal8xekU4UUsyaHBndWhoRGZvbGdnY1hIVGhiZnZNS3NCOVNKQkVGV01OZm1iaXVhdm80V0Qta3p4aHVBLURGcQ?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 13:32:29 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "CNN's Dana Bash Paints Texas Senate Race As 'Ethical Issues' vs. 'Christian' - newsbusters.org",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV2ZRcHZLTnRaQi04RG9WNUNqY01penpKZVVnU2F1MFgzS0JoRjFfMlBjU0E2aEtRck9SeC1DMVVsSW5keHBOQU82UGFRMVlVRGZ5WEJZZUd3X2s2SG1WQUduTnJmMTNNODBpWXFieE1TUHVvNjNhYzJZaXAzTFBINWZtR2VUUnczOWp5VFNlX1M5VEg3QkpOb1o1c3JQS1Nqbl9ldzhtakE4VGNON0p5Wk1COWpYWDNGelE?oc=5",
@@ -1568,21 +1583,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "talarico",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Pro-Paxton PAC reimagines Cold-War era LBJ ad to show Talarico's ties to trans ideology - Christian Post",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd2F5Z1dRdXY0WGRLdGgxMXpTRlY1X0JwTzBZeFEwWWZiSFdYUDBIYWtiZUZxTjZZT3dkTFhRdEdXV0NOR1kxRTd4clZpY2wzcXZXRTdVMHo4TTk5ZnNPMEtEVWstZGFQRUVWVWliMlhWb1h2RDAwc0VnZTgwV25aTXdVRVd2MlBYMlByN3NZZG9BVHdkSHk1d084Qll6NmlEUFNv?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 16:59:11 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 10,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
       "weekKey": "2026-W33"
     }
   ],
