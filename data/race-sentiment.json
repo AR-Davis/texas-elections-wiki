@@ -1,9 +1,23 @@
 {
-  "analyzedAt": "2026-08-23T21:47:43.388Z",
-  "newsFetchedAt": "2026-08-23T20:29:15.147Z",
+  "analyzedAt": "2026-08-23T22:26:24.502Z",
+  "newsFetchedAt": "2026-08-23T21:49:38.435Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "TX Senate Rundown: GOP alarm over ‘lazy’ ‘reprobate’ Paxton’s campaign | Opinion - Fort Worth Star-Telegram",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5OUmVnYWs5aVc1dXB1LWhNb1NzVng0Z3IweFQwVjNjSlRyaU5RcE1WRmVZSGZCN3pkbnhWbW9nY1ZrbGJrakNYeXFaemxIejRuTFFBVlpuUkFITnJOT1ZhQUhtUkcwY3lJNkNXWlRpTXowTkNFZ3JzY3B3?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 09:44:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "James Talarico Once Compared Religion to 'Forcing Beer on Minors' in Progressive Sermon - townhall.com",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdkVIMmhRYzA5WklnZ0lfcFVVYk1OU3ZnQ1FWeGhGVFRLU0V5LUhqdnZXVXltVklpLUxTV1hGMWJueUY5TWRMR0ZZbUp4U0dZQXI5dnpLMGlUSVJES3lLcEI5WDVBS3JfZDFCd21yRF90YkJfLW0tbURMZjVLelVTdDhEWW4xRUlUQ3lQb0lKcTE0bml2VEVfclFnTkdBWjczS3ZyNzEwTGRDWk9yZF8xbEZoUkhwdDhMZjlHeU5FNDJOWlp2bm85LS1ZXzVSWXZEOG16eEdnNjI5M1gzMV9j?oc=5",
@@ -1558,21 +1572,6 @@
         "texas senate",
         "senate race",
         "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "State of Texas: One point separates Paxton, Talarico in Senate poll - BorderReport",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdTBIRHdvMDFzcFVLSm1OQmtJMGgxaWdwZTE5QmRici1zX0NzSVo5WVhuTVhpNEZVTjZSV2RsWUtYSkQ5RXVPZ1ZNbEVyc21MLXM4VDB6NmtxSVUtWWhOSTVNc01oUDNZbjBTcFY2UGM5QmJhME5yTlB2S3Y1NXVvanlEeWZlMlR1X3Q2d0NxYUswT25xZWttMmk5dlZrRnhramYyLU9VbGdOLWdqX2JB?oc=5",
-      "pubDate": "Sat, 15 Aug 2026 20:29:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
       ],
       "sentiment": null,
       "error": "HTTP 405",
