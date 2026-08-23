@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-08-23T19:46:55.326Z",
-  "newsFetchedAt": "2026-08-23T19:26:03.141Z",
+  "analyzedAt": "2026-08-23T20:28:00.038Z",
+  "newsFetchedAt": "2026-08-23T19:47:49.845Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Election triumphs, a series of scandals dot Ken Paxton's political timeline - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVlGUDlUSDhmNnllbllSSHVTQlNIcE1iTGRpcHVsdDZfN29hTlJpdDVLSW1fM05zbXhHb2pIM0RqU1NZcXhNUG52ZzJReEVrRkhsLUEwX3JfSjViZWZwdDliZlljWVVBNHpPVWRHRzcxakUzakhrQjV4a0g3SXVzX0NGWjFoSTNlLUIwdFRwanNadmw3azJIQ1JBNXM1blBlTUM5UUZtMDB5bDjSAbABQVVfeXFMUDQyZ0RKenVWMF9sYkRyM0QxZnREc0E2SE96a2R1ZUlEYm1EaWYzdkNobkU5cFR0LVdmQkl0c2ZUYURrbm1oNmhFci1xeUlRYXZjUlBUc3hUTnlYNnJqd1JGeUxQNjF0WEhUV1N6eFhjVWFKRDJSLXR3NGd6X0kwc2hlUDhwVFpPNHAyU0FHdTJfOXNvREs1WFdGNTdJZHR4Y19OVTg0V084RVBGSDNobGE?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 20:36:50 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Dems Worry James Talarico Lacks Support From Key Demographic In White Whale Senate Target - dailycaller.com",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOUFVmaUF6UnVPN3BNcHNJLUFqUm1nTWNSVDc2R1ZUcHhRd1BfN2ttVkM0U0JKZUpPcHFaUU5vUU1vbDdJSVNnTmx3Ui1DOXVuMjZzckVYa0ZIeklubzdjWmgtN1c0TlpQWFNHTlk3SEQzLTJzUFh6aUxNek0wRkZYMzN4bXBKeDg0S3NORy1tcUo4NkdvUlF0V0xyWWVKbXRGUmZ1OGcweUJubnVic0dmR3lRSU9hZm5fY0x0R2dWWHNJQTh0d2RVdXE2YU9IMlpZOGhBRWRvR1VKQ1JwZURibllXYWRZamd3ZkdjbFJ2NE14eXFta0VMRENqNUlXQ1hrSTRmWEFGdUk?oc=5",
@@ -1563,22 +1578,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "talarico",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Paxton, Talarico still fighting tight Senate race, per latest Emerson-Nexstar poll - bigcountryhomepage.com",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcktIZFBnYzlzNU1ZWHFFcko0UmR0QURDS09pN3ZuT2s2QTlJV2ZqdlhpaFAxYzlwYzJCeDZWTVJ3RFNRVW9RczFJcWRJRjJXdER1RzR5ZG84dDYwcFpHVnllMTA1dmJ5d3hiQ28ycTVJOWVMcWRGMXA0Z2NvdVRBQ1hscmVYTmZ5RXlGYmNCNWpQVXJNWTFHbE0zVVpLZGZKM0RhZ2ptV3pxNHdXbVdfc216Y1liREptYWZXc0plVkJEdkFNTDN3Mm56Wko4LU5BR3fSAdcBQVVfeXFMT2VWR0lLYlFnU0VYczBHY2xreEVJNWkxOVBzNldiOFVzajFEeDNhMlBuUWhiSUNEY1daSjNRVDdzNWpHNjdFNFpZZE9XeVF5NGRrWVFoUGkyMEJuTnU0cEF0UjFDcGhOR0tXWlR0NklSM19TTE5LbzVabWlxdjhaMDVuN2NqMWxmSkE0SmRrZlpicDFSYnhNZnRZVTM4S0VsbWtsNG4xVjR5VnFLeGdGYjUxWWFDLUJEc3ZzaGQxNnJVWWNXN0d4eGZMZENweHlicVVLMmtmX28?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 00:14:38 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
       "weekKey": "2026-W33"
     }
   ],
