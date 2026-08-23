@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-08-23T19:25:04.405Z",
-  "newsFetchedAt": "2026-08-23T17:24:55.804Z",
+  "analyzedAt": "2026-08-23T19:46:55.326Z",
+  "newsFetchedAt": "2026-08-23T19:26:03.141Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Dems Worry James Talarico Lacks Support From Key Demographic In White Whale Senate Target - dailycaller.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOUFVmaUF6UnVPN3BNcHNJLUFqUm1nTWNSVDc2R1ZUcHhRd1BfN2ttVkM0U0JKZUpPcHFaUU5vUU1vbDdJSVNnTmx3Ui1DOXVuMjZzckVYa0ZIeklubzdjWmgtN1c0TlpQWFNHTlk3SEQzLTJzUFh6aUxNek0wRkZYMzN4bXBKeDg0S3NORy1tcUo4NkdvUlF0V0xyWWVKbXRGUmZ1OGcweUJubnVic0dmR3lRSU9hZm5fY0x0R2dWWHNJQTh0d2RVdXE2YU9IMlpZOGhBRWRvR1VKQ1JwZURibllXYWRZamd3ZkdjbFJ2NE14eXFta0VMRENqNUlXQ1hrSTRmWEFGdUk?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 19:12:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Gov. Abbott dismisses GOP worries about Texas, says voters will be 'rushing to vote for Ken Paxton' - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQkswdlJNOVNHOUFvZjM1YURhdnpGaDNOejdob3N6N2RxU2NnXzFvSzAwcWZ5V25KcUpqNDBvaklCazduMzgwOHBPZTZMMU1vOFJ6bUZlQUFmald5b1J2ZW0yZjJhZVRzeXZtajNhWnpRWnphMzVNd0dZaXBueFI5T3ZmR3pwUjNfTV9Fb0xhaDRoUkQwYTNXR2pBdVp1eWt3cmdXUXpmM23SAagBQVVfeXFMT0JLMHZSTTlTRzlBb2YzNWFEYXZ6RmgzTno3aG9zejdkcVNjZ18xb0swMHFmeVduSnFKajQwb2pJQms3bjM4MDhwT2U2TDFNbzhSem1GZUFBZmpXeW9SdmVtMmYyYWVUc3l2bWozYVp6UVp6YTM1TXdHWWlwbnhSOU92Zkd6cFIzX01fRW9MYWg0aFJEMGEzV0dqQXVadXlrd3JnV1F6ZjNt?oc=5",
@@ -1564,21 +1579,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Election triumphs, a series of scandals dot Ken Paxton's political timeline - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVlGUDlUSDhmNnllbllSSHVTQlNIcE1iTGRpcHVsdDZfN29hTlJpdDVLSW1fM05zbXhHb2pIM0RqU1NZcXhNUG52ZzJReEVrRkhsLUEwX3JfSjViZWZwdDliZlljWVVBNHpPVWRHRzcxakUzakhrQjV4a0g3SXVzX0NGWjFoSTNlLUIwdFRwanNadmw3azJIQ1JBNXM1blBlTUM5UUZtMDB5bDjSAbABQVVfeXFMUDQyZ0RKenVWMF9sYkRyM0QxZnREc0E2SE96a2R1ZUlEYm1EaWYzdkNobkU5cFR0LVdmQkl0c2ZUYURrbm1oNmhFci1xeUlRYXZjUlBUc3hUTnlYNnJqd1JGeUxQNjF0WEhUV1N6eFhjVWFKRDJSLXR3NGd6X0kwc2hlUDhwVFpPNHAyU0FHdTJfOXNvREs1WFdGNTdJZHR4Y19OVTg0V084RVBGSDNobGE?oc=5",
-      "pubDate": "Sun, 16 Aug 2026 22:28:49 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
       "weekKey": "2026-W33"
     }
   ],
