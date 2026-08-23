@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-23T17:48:31.518Z",
+  "fetchedAt": "2026-08-23T18:37:06.849Z",
   "count": 23,
   "feedsChecked": 8,
-  "itemsScanned": 73,
+  "itemsScanned": 72,
   "items": [
     {
       "title": "GOP Texas Senate Nominee Ken Paxton Stole $1,000 Pen 10 Years Ago – Now James Talarico Is Using The Story... - upolitics.com",
@@ -44,6 +44,19 @@
         "texas senate",
         "senate race",
         "texas senate race"
+      ]
+    },
+    {
+      "title": "Is James Talarico beating Ken Paxton in Texas? Let’s talk about polls | Opinion - Fort Worth Star-Telegram",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5NVRSemtveW5BUUh2QVR5bVZ1MzVIUkgyejRvS3ZVMnV4WklCWFBUN3pvcVNTYjRZM0dCTDYyaERCU21hUDN0bEZCbWc1LWxrQ2JYV0lJNkxTaW1vbEZEUVVxSTdUeThEcndhNC1SQXJrOExMVm95ZUh3?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 19:15:39 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 24,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
       ]
     },
     {
@@ -264,17 +277,6 @@
       "matchedKeywords": [
         "talarico",
         "paxton"
-      ]
-    },
-    {
-      "title": "Talarico leads young voters, but older Texans may decide the U.S. Senate race - Austin American-Statesman",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRGhXeXRGbU1DdW5Bc3pDSmNPUnVLd3VrV2NNTjlLVlVkbk45M1J1Si1Pdjh6bGdVZ0NLMjlCOGg1M3RZbmtOWXp6Yl85S2hDVlA0d242NEw2Ym9ySThnZVAyTUE0S0p5OTQzX3g1b3NQa3lQdzNlcjVMRnVteURpczNRS0w4LUllb3ROSEdKUWx4cEtYeV9HM1BzSXQ?oc=5",
-      "pubDate": "Sun, 23 Aug 2026 10:47:30 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 9,
-      "matchedKeywords": [
-        "talarico",
-        "senate race"
       ]
     }
   ]
