@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-08-23T17:23:32.606Z",
-  "newsFetchedAt": "2026-08-23T15:27:46.602Z",
+  "analyzedAt": "2026-08-23T17:47:38.306Z",
+  "newsFetchedAt": "2026-08-23T17:24:55.804Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Gov. Abbott dismisses GOP worries about Texas, says voters will be 'rushing to vote for Ken Paxton' - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQkswdlJNOVNHOUFvZjM1YURhdnpGaDNOejdob3N6N2RxU2NnXzFvSzAwcWZ5V25KcUpqNDBvaklCazduMzgwOHBPZTZMMU1vOFJ6bUZlQUFmald5b1J2ZW0yZjJhZVRzeXZtajNhWnpRWnphMzVNd0dZaXBueFI5T3ZmR3pwUjNfTV9Fb0xhaDRoUkQwYTNXR2pBdVp1eWt3cmdXUXpmM23SAagBQVVfeXFMT0JLMHZSTTlTRzlBb2YzNWFEYXZ6RmgzTno3aG9zejdkcVNjZ18xb0swMHFmeVduSnFKajQwb2pJQms3bjM4MDhwT2U2TDFNbzhSem1GZUFBZmpXeW9SdmVtMmYyYWVUc3l2bWozYVp6UVp6YTM1TXdHWWlwbnhSOU92Zkd6cFIzX01fRW9MYWg0aFJEMGEzV0dqQXVadXlrd3JnV1F6ZjNt?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 13:06:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Cruz-linked super PAC enters Texas Senate race, boosting GOP influence - Crypto Briefing",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTRPeUhoeXJSd05uaVdTVlFicG9nWEE5OE9SUmh2M3VUa2FJaEcwLXk5RGFoX3FOUFlMZXRYb1lGX1ZKNDY2RDVvdkV2b1ZmOTJhaVR3Yi1EWmlyNTRwakRQUDgtSHMwUHhNRUJHSXBsUFVaMENvTUZwcHF1WGI4VFFoejEtYWE1cTNHQldoWXpsMzV2ZkdkZkNLZno1QQ?oc=5",
@@ -1560,22 +1575,6 @@
       "matchedKeywords": [
         "paxton",
         "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Possibly 'Best Political Ad Yet This Season' Shows Texas Republican Ken Paxton's 2012 Pen Theft - Common Dreams",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sQXllYkJkUjJZSWJtb0Y5cHQ3M2lhSFZ0OU11enppY2U0aEtrZTNBQTVWX0tzMTBad2hYSy04S0otYVZ4TE5WdDFPa0FUWWo3SmFpR0hsTG9ORVk2ZFI4NlRsVDAzVVZieGY4SldUWQ?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 20:29:05 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "texas republican"
       ],
       "sentiment": null,
       "error": "HTTP 405",
