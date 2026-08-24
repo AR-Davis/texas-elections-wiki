@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-24T17:06:05.067Z",
-  "count": 25,
+  "fetchedAt": "2026-08-24T17:59:29.140Z",
+  "count": 24,
   "feedsChecked": 8,
-  "itemsScanned": 63,
+  "itemsScanned": 70,
   "items": [
     {
       "title": "James Talarico leads Ken Paxton in Texas Senate race polls - Crypto Briefing",
@@ -200,17 +200,6 @@
       "title": "Can counties stop data centers? Ken Paxton won’t say. - Houston Chronicle",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcWxoVC1WVGxRemg3X2kybWw0Szg5a2R6VHpMTGQya3JLSThoMmMwbEdnS2NmVnBGdnR4czMtM3ZTTGVRMHRpSUtOX2RiQnBycmIxVG9McWpCUHh2eENXREtZUmtFYlpvaURzNElDaTFWbk1iZm9LQjBST3VJQ1lGRHk0SVdyQ0xlSGEyVnNmdDQ1X0dzLWo4?oc=5",
       "pubDate": "Mon, 24 Aug 2026 17:03:34 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ]
-    },
-    {
-      "title": "Ken Paxton releases data center platform - The Texas Tribune",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeDl6U3NXbzZ1cUlYY0ZSX2RwOTM2R0VuY003YjF2NGdjdjFPYnFTMmhDc0ZIWWdjM3Q3dVVhY2o1eWN4Qkh5ZHVhblJHbVJhNlpCNUxiZW5Cc29pZGlramxGRDhnMUZVSE5MLUdjMlVaNHBfcmFSekNlZU50QnlVbjR2SGN5aU1NcVF2dWRkTXQtYlhTaXhr?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 16:54:08 GMT",
       "feedSource": "google-news-race",
       "raceScore": 12,
       "matchedKeywords": [
@@ -235,6 +224,39 @@
       "pubDate": "Fri, 21 Aug 2026 21:10:53 GMT",
       "feedSource": "google-news-race",
       "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ]
+    },
+    {
+      "title": "Talarico is trying to win moderate voters. Why isn’t Paxton? | Opinion - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVWtfNTFaWHRMYjVHRU54NG5sTmd5dkI4aVpLVVBLeFpmc1haem9heDBSYnNJY2tOVVdLNm1KdTRsZGN2bXhHTE9KaU1lcnVNcE9vQ18wcjFsekNpT3E3NWpNYVpYOUZqWEloem5aNEh3OEZtTWV6dUp1cURQVmtmQVpYejYzUlRiMDRaX3RPMERnU3I4MWpwZlBzbVV5eTI0NDF0U1dPd2lqUlZ5aXZLRkNsTlRDUQ?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 17:25:58 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ]
+    },
+    {
+      "title": "Cruz predicts $200M fight in Texas Senate as Abbott backs Paxton - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVzRlcVFhWmRyZmdVRTllLVZUTURGLWpuU0VwWGpaZkxVQmZLVU5WTV9IQVhXbDVneEJVX0EzZVBMVlJWWmJRSElwb3Eyd1RnM1lMSTllWDF4dlJ3Zm5MRVZaNnFIWURfbUlCOEtCeTB0NVhGX3hYbjBUQ2d2aUVPeDJ0TTRGVy1Jc2ZmR0hSQ29zR2RscXdrN0Z1OUtid2w5R1JmWUNzV2hiZ2F5QjlJZmNIYm93RTVyeVVZWFJPRGR1N3FJd2hBbTRtTF9tR09EUmd5Qkh6cjctSTlEOVVNX0RR?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 17:09:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "texas senate"
+      ]
+    },
+    {
+      "title": "Ken Paxton rolls out multi-pronged plan to rein in AI data centers - Washington Times",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdldxS0F1WDVJZlpYd1Q4Q0xQY3hwTjZkUm1XZXM3QnZSM1NnMnhRLVNDanNPTldXVFlLMm5Ia2ZVOGczeTI4QUM0SmttR2R1QUc2Yk16a1pjWFBfanVJTG5FX3BySnEybmxBSk40clFpMExCSEJ0RmZ2TEFSUmNMaUZSdTJjSVQtMElLNkpsVUV1ZWcybnFBUjFUcG1aSzhsWmdyU1dqcFRBUQ?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 16:48:39 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
       "matchedKeywords": [
         "paxton",
         "ken paxton"
@@ -271,39 +293,6 @@
       "matchedKeywords": [
         "talarico",
         "james talarico"
-      ]
-    },
-    {
-      "title": "James Talarico Once Compared Religion to 'Forcing Beer on Minors' in Progressive Sermon - townhall.com",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdkVIMmhRYzA5WklnZ0lfcFVVYk1OU3ZnQ1FWeGhGVFRLU0V5LUhqdnZXVXltVklpLUxTV1hGMWJueUY5TWRMR0ZZbUp4U0dZQXI5dnpLMGlUSVJES3lLcEI5WDVBS3JfZDFCd21yRF90YkJfLW0tbURMZjVLelVTdDhEWW4xRUlUQ3lQb0lKcTE0bml2VEVfclFnTkdBWjczS3ZyNzEwTGRDWk9yZF8xbEZoUkhwdDhMZjlHeU5FNDJOWlp2bm85LS1ZXzVSWXZEOG16eEdnNjI5M1gzMV9j?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 22:30:47 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ]
-    },
-    {
-      "title": "James Talarico Shuts Out Local News at Campaign Event - breitbart.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVXF3Rml0ak02U1BYZm9CZnFqQmtBbHR1UWgxS0s5aS12VEhiVG5JR2FJeTB3Q3VVTUpyLWxkVnRuUk0tSDlrbE1nT1NiMi1MMUh3dDl1Z0FpOU5rRTNpUGtJRDBUM2pIb1d1Y3ZxRjgyMzJjZDV2ZU1Xa096SUVmZUFzVWNQYVlkX1RMSlZPeWxxSE1zdmhfZE94dktQSkFMcWfSAacBQVVfeXFMUDVSVEs3X3BOMFFnNlJhOEowTV80WGRkZGpCTldMd0xtWEM0S3RjS3I2SUZsbi1zenh1ZUt5YnVRTXMxVU4zQUdObk5sb0FlbzV1VG1JZFFhZ0hQeDFKUjRFOUg2MG55cGdySW84SDMxQUlNdEpNeG5QbXJ6Njd2T2JRR0l6M1JScERvRmkzVkVyYjVzLWR3NW5peEpGOFUxQVlXWkh1UGs?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 19:36:53 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ]
-    },
-    {
-      "title": "Polls: Talarico Pulls Ahead of Paxton in Texas; GOP Chances in November Bleak - thenewamerican.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa3cycGR3OVIwbE9MZGw1Xzg4NFNiaUpwZHJyWThZV2g0RWVpZUQ0UTl5SGo2Q1FkSTkycjVVanotSEFOaEw0NGlrTDFrejdEWjJRQnc1dS11M2VENHJPQ1ljMmlBWGVtSlM0R2dEcjdJTlMxVTJCeG00a3NIb05zU2swMWlGNVBKQWxTZjdkUG04djNyazZsVW9iZUJxdmxiZnQ0YlJMTnFvRTBDcnE2MmprYTlJZw?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 19:08:55 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
       ]
     }
   ]
