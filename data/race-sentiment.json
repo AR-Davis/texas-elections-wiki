@@ -1,9 +1,55 @@
 {
-  "analyzedAt": "2026-08-24T10:11:52.007Z",
-  "newsFetchedAt": "2026-08-24T09:54:11.002Z",
+  "analyzedAt": "2026-08-24T11:02:52.477Z",
+  "newsFetchedAt": "2026-08-24T10:41:42.970Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "AI’s massive appetite for power, water ignites fight in high-stakes Texas Senate race - kotaradio.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcVB3TXg5WnZEY0pOdF9VamtnTEhCTGdrd1VNeEp1RzdqUmpNLU9HVVhqRDFyellOZW9YUGlDeUhEdTJtSnVBMzJQOFdoVV9CYVc4ZjZLYlBRN0tGUU1SSWtiNjM0NHJISmtXeE4tQWZNMUhDeHI0MjhDZk82NVl2MzQ3UzhKTDUzN240YmdBejhYaWNZdkp6dV9fZ29ZOXMzd1hBOV9qanlGNVMtYXJfNUdrY0pySlBZdWZFYmJB?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 10:33:20 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "general",
+      "weekKey": "2026-W34"
+    },
+    {
+      "title": "AI's massive appetite for power, water ignites fight in high-stakes Texas Senate race - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcDRCWVJTdUlCeGh0S1FpLVlRcVU5QzhoeEkyQ2ZFRzdsWUVscDRrcXY0cTFtY0FzY04tQjJ4dHpnNkpXYXF0QXF6T0txNTFvSE5uMTRwdHBKZm9jcEpxRm5NV3FSX1drczRJSDNjZXg2em15LUd2S0pFRERMTzhfN0dJV0d3cm9qMHZnUFdjMXRma3JRRFcwWk84Ym1SenFYbXktZklEb0FRdHE3UkHSAbMBQVVfeXFMT3MzTjVLRkM1dS1nZFI0LU5ua1ZGaWxCdDlHbDhhN2Y3amViU2Zubi1rclc0aDBvYnptT0FmcjBRSEV4UU9ZTWlCa3ZWWGhaUUtIaGM4STFURmQ4d3lQRjZjYTloeHVZY2VHWmNGdEtZbkMxdE8zcVhsLUdSUjBmYzc1MHhiMXRtckRZS1o1S3dEM3BuUE5JdXZIUVkzeFB4ZXVmcFZpbzhUVlZqN1dCdTh0Mmc?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 10:00:05 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "general",
+      "weekKey": "2026-W34"
+    },
+    {
+      "title": "Paxton, Trump and a tighter Texas map: Republicans say they’ll still win - Longview News-Journal",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY0tzanl0WmlnR1FUQmEyeWdjZzJpZVRkZXpBa0cxYkFHdzVXMW14ZkZIaE1PTzR5QllxM25MWkh4X0FWaTFJTV9KdVZiREJhZFVqOERKRXBwcVpNQmRiRlp5MEN5R2JCVmJwZzBoLTVSV2RHSDkzb0ZERXRIak5KSnl5VjVKQk5CVmtnUm1Lbi1ySmcyTVdaT21UZ0h2NS1OOU1wTTVVTFdIUQ?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 10:37:36 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "James Talarico leads Ken Paxton in Texas Senate race polls - Crypto Briefing",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdmw2RzBfTTlRNzRaTzNEMFVVMFZpYmkyQk1pMXMyWGUzaHUtQUZFMWNTdmxJcy02c2dsdHZpRU5oZkFZQkVXMkpOT3RSNWVmTHdmMEE0ZkNrSU1xcWtKTXJ2TmZJLUluLUVvS2Frbm5hb1NRT2F4VWZuWlhkelVwYTFqc1l0Nnd4b2t6UkwwVQ?oc=5",
@@ -1511,55 +1557,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "James Talarico Is Trying to Redefine Faith in Senate Campaign - townhall.com",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcUdKMFhwYTlGUEtEbjU4LVcwSGtFTkY5blZ5Y19Ual9DY0JjOG91OGU0eHZJWFFlTGcxWjllNHNMMUxGbmpRWHlCY2lneHAtazRLakI2YV9xZzhrT3JFV3psd1RrbHRKcHhlVnV3VnRSSkFhWlplQVZtWlV0T0lJLTZwejZhRUdtNzFMSUhLcVZmcUxoOWdhR2xpSWFFXzhzRDVQQXVENzY5NjkzeDc3SEFJMEdzSExIakcwdnAweVduMGZTSVE?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 04:01:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "John Cornyn Staffer Joins Democrat James Talarico’s Campaign - breitbart.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZkJraTV3NjFXeXFJXy1pWEl3UzZCZTdFQ3BsLVJNdGRzRGtadGtJN3V2U2JBd3E5RDcxZFVUVkIxVmwwWnQxdFYyVjlRYnFHYVFKWDVHbUlZMXlBQzhBSWMxVEtPcHZvOG1YRmk1Z3RNbXFzYVRtYU9VNVg5aEhUektLZHJpdGNGUFpqcW8zYW84OXAxTzM4dTNqdlFYVW9DbWfSAacBQVVfeXFMTTAzMTlneVdQZHYtNTlIU2xTclJJRDE2WVQ2SFY5RnNkZEZmZFkxRWpfeTgxWDVfWHNaVTBHNnZDUG16OU05MGVUTDFmRVNMMUh4TVhuR1I2ZG8yeXc5NXpacU1vbVZrZ0lteGZFQzRkc1l4Q1pxbkM0eWVaME9pckc3Z2JsSVE3RnM1SHJxN25CekdhVzdfaFh5cWRqTVhXb2h1NDNNRlE?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 02:03:22 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 20,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "cornyn",
-        "john cornyn"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Democrat James Talarico Hires Top Staffer From Republican John Cornyn - Mediaite",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZk95eXNLcm42ODd6ZnZBTlI0T3AwWGpMb191NXdFVzBTYnBnVGpHYUdOd3R2bS1KQTdEdG9GSHR3QzBxMXp0SjFtOVNSb3NrWXlxQlB4TkNuWkZrTmNCdWJpSU5kQUF0c3Q2Z0hveXlhUEZjSlMtc2VWM1VaSWNsZUdGTlVYSDFpcFBabVdzY1dfbzdUaGkzTFFYd0wwRk9kSGtvUXB4Yw?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 00:45:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 20,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "cornyn",
-        "john cornyn"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
       "weekKey": "2026-W33"
     }
   ],
