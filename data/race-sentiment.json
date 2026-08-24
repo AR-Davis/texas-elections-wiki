@@ -1,9 +1,26 @@
 {
-  "analyzedAt": "2026-08-24T15:42:54.884Z",
-  "newsFetchedAt": "2026-08-24T15:10:38.123Z",
+  "analyzedAt": "2026-08-24T16:42:39.722Z",
+  "newsFetchedAt": "2026-08-24T16:04:53.503Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "How close is the race between James Talarico and Ken Paxton? See the major polls. - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pd24yNFR6cGpjNUpBZVVOZmN1bTJvc3YtM21NNWRLUEU4emtTWFdNTDNNMDFUb09sczhldE9hdGRZNXg2VDhEci1vZlZCREZTWkE0cjc2RVVEVUxtVFU2RF8tQjRsb1BhZXJmc0h4Ykt4MkQ1cng0?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 15:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Paxton, Trump and a tighter Texas map: Republicans say they’ll still win - Marshall News Messenger",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTW1hTG90VkFvNXdGN081cW9reTZld1BWQ2N1UVhNb2djX04zMFZnMDZ0UkxFZy1vc1IxSWRBbHhhb1pzdmYtNk5LQ3d0bTRVT3NrT0pXekxCRXgwbFd5ZXNJMHRJbnVFY3lXMjByUkdMM1F5d2VvakJ4cXl2V3plQTF2UThkWlhxMzhQTFlIRFRYbjlya1hTTk41YWRNemZoSmhvTUdnMmxWUFY4eGpId1JmbUNOQQ?oc=5",
@@ -1545,21 +1562,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "talarico",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Longtime GOP aide defects to Dem rising star as Texas Senate battle for Cornyn's seat heats up - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc1I1a3kyNERiaWMzZmNLdVFQdzViUk82UV92VTdHVnNta0kzS0JQaTBKdmJKb1k1cklBNkQzSmF0YnE4dDhXVk1IanROcXNJRElzWWphUUdUOWg3NFAwQV9xTzJQd3V2UDYtSUhpaG1KYUtXbXJZbW5TbmJpclEtd1R6VTRTeFM1SWFXSWJJQm1TcGNGVXJMR2lScXRIbmVfTnc?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 15:29:24 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 10,
-      "matchedKeywords": [
-        "texas senate",
-        "cornyn"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
       "weekKey": "2026-W33"
     }
   ],
