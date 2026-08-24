@@ -1,9 +1,54 @@
 {
-  "analyzedAt": "2026-08-24T17:34:38.004Z",
-  "newsFetchedAt": "2026-08-24T17:06:05.067Z",
+  "analyzedAt": "2026-08-24T18:01:06.046Z",
+  "newsFetchedAt": "2026-08-24T17:59:29.140Z",
   "totalAnalyzed": 100,
-  "newThisRun": 5,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Talarico is trying to win moderate voters. Why isn’t Paxton? | Opinion - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVWtfNTFaWHRMYjVHRU54NG5sTmd5dkI4aVpLVVBLeFpmc1haem9heDBSYnNJY2tOVVdLNm1KdTRsZGN2bXhHTE9KaU1lcnVNcE9vQ18wcjFsekNpT3E3NWpNYVpYOUZqWEloem5aNEh3OEZtTWV6dUp1cURQVmtmQVpYejYzUlRiMDRaX3RPMERnU3I4MWpwZlBzbVV5eTI0NDF0U1dPd2lqUlZ5aXZLRkNsTlRDUQ?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 17:25:58 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W34"
+    },
+    {
+      "title": "Cruz predicts $200M fight in Texas Senate as Abbott backs Paxton - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVzRlcVFhWmRyZmdVRTllLVZUTURGLWpuU0VwWGpaZkxVQmZLVU5WTV9IQVhXbDVneEJVX0EzZVBMVlJWWmJRSElwb3Eyd1RnM1lMSTllWDF4dlJ3Zm5MRVZaNnFIWURfbUlCOEtCeTB0NVhGX3hYbjBUQ2d2aUVPeDJ0TTRGVy1Jc2ZmR0hSQ29zR2RscXdrN0Z1OUtid2w5R1JmWUNzV2hiZ2F5QjlJZmNIYm93RTVyeVVZWFJPRGR1N3FJd2hBbTRtTF9tR09EUmd5Qkh6cjctSTlEOVVNX0RR?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 17:09:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "texas senate"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W34"
+    },
+    {
+      "title": "Ken Paxton rolls out multi-pronged plan to rein in AI data centers - Washington Times",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdldxS0F1WDVJZlpYd1Q4Q0xQY3hwTjZkUm1XZXM3QnZSM1NnMnhRLVNDanNPTldXVFlLMm5Ia2ZVOGczeTI4QUM0SmttR2R1QUc2Yk16a1pjWFBfanVJTG5FX3BySnEybmxBSk40clFpMExCSEJ0RmZ2TEFSUmNMaUZSdTJjSVQtMElLNkpsVUV1ZWcybnFBUjFUcG1aSzhsWmdyU1dqcFRBUQ?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 16:48:39 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Dems Worry James Talarico Lacks Support From Black Voters To Win Texas Senate Race - AOL.com",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONUxMRzJBYS14NlhXNzdFb1VIQ3hFay1DM0pKR3FmWm5pclhUWkZGaGNBOWZxRkZWUFNmSVNrejVyYndjRUtJclN6djFCYjlNeHFsNXQ5MzA3MHlfNUZ5N0RlcUh0ckJvam1LVFUxdUZ5Q2hYYjdCdjVkMzJKQXZOeQ?oc=5",
@@ -1513,55 +1558,6 @@
       "matchedKeywords": [
         "talarico",
         "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "What to know about Ken Paxton’s and James Talarico’s affordability plans - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVG9YMi03dUIxSVdlcE9oVlFzR1IzSW1lbFdOcHRPYUxvQThVZVVnbi1sQnFMYy1ISDQzWDBqbnJtMFBIR1VBNTdUUnBYSHd4V0VxTUs1a1phQ0RhZlI4czlldnhpMjFodUhjQmhUZlFIYld0clcwR1RWcndCYzA3NU5GN3JUZ19raHdIQ2E2aUh5TVJhRnoxbm1n?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 16:47:54 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 23,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Fox News Midterms Forecast Shifts Texas Senate Race From Lean R to TOSS-UP - Mediaite",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSzU5MG9mcFg3c0lKaEFCVWtTMXBoek4wbzZxZC0waS1xQmk2YTlTeGZhR0dnQVBtckhXa0ZVbW1oQzUxc2xXZnB0UUpENVk3UUNoYWVxMkN3cFFTTndCOEJDRDlaTDR6SHVtaEZJRm9FVUlMWWpPWUR4OF91RS1PbXJaSUVwbGp3SktOYlVSU2dmMmdXcmN4Z1I4NXRJeFdLdXcxTzdPaHY1RElXcVE?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 16:40:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Former Cornyn GOP staffer joins Democrat Talarico's Texas Senate bid - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYXRfX2tpUlctTWg1cVVHMERxdUppTVdqU3lLSDZWSFYxNTZkOGU1amRkcHBxazM2SlFxQ08tTWc4aWtLcWl2YktHRlZVeUVuZ3JuRllhTDlBVlBtRE5EbGEwZExsZmo2NG81d0ZWbExwWmNuZ3dETjBpSW03R0E2U3A2ZExHSTczUTlPaXowamJld3lrN3lpZjNRSjVJLWVwMXl3Vl85ak0wNjNkNFlWWVVqZDAwb3RHN28zcTB0Rm84S0tsVU9WYTE0ekJNb2RwVlZUSW1ocl8?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 16:04:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "talarico",
-        "texas senate",
-        "cornyn"
       ],
       "sentiment": null,
       "error": "HTTP 405",
