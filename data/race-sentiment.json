@@ -1,9 +1,39 @@
 {
-  "analyzedAt": "2026-08-24T19:33:03.216Z",
-  "newsFetchedAt": "2026-08-24T18:53:29.914Z",
+  "analyzedAt": "2026-08-24T19:57:20.365Z",
+  "newsFetchedAt": "2026-08-24T19:33:56.835Z",
   "totalAnalyzed": 100,
   "newThisRun": 2,
   "stories": [
+    {
+      "title": "WATCH — Jasmine Crockett: Black Community in Texas Not ‘Excited’ About Democrat James Talarico - breitbart.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbzFjNDBlb2VxQmFCQ3NCZ01vNld2U0VWUUFWNUZoV3ZjeU9uZW1XRnN2c29XUXJGQW5CNGZqZmlEdWdLc1NjRkVYUklLOWl1N0FPWmV0WUtLZWU2LXlxT2NPZVE3X0dYMkp1eE12Sm9ESG9Oa2RPX1RSS1JLT19Kb0xfdW1hNmg3S0VSUnFBTEE4anlHdGdyTlVYSzVveDJ6WDZ0ckhzV09ud2NrckRfcU1JXy1wRWxORk0zcW56OFUydkU5ak5lYWo3anpPUExjanfSAdcBQVVfeXFMTXF6MXRiRmF0VUpWYk1TTnA5YnBCaXVBNFV0QUQ0V0I4OHV0X195ZkxXTEQ1aUpqR2JVVjdWbXk2T3BnODRaRHFqc0pPR1NsaDJXbDViSk1iaWsxOGRfOUZQejZUVGdQQUlxR0ZQeTJ3YTExVHdwbGxBRmEtdkp0RnczV0NyT0pYcFlNWDhURTVyVkd4Xzk0UkhKZkN3czlHTlZyS0lBbTNGMlVNNmFySmhJeGwybHZvMkVyRkNBLUduWlNWdy1hZ3R0LWxBS2lYQ29KY0FqOTg?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 14:14:22 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W34"
+    },
+    {
+      "title": "Talarico hounds Paxton as ‘anti-puppy’ as Dems hunt for scandals that stick in Texas - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeUlpR1V1STlMdUhUd3l5MjNXQzRzQmxXbzgyNzRlMlU4RVVjcU8zUVlPc2FQY1NFcjVsLW52eHNiekk3c040NjV3allaVGpZU3RqVU5jNUFmSHlnTWpmbGdOLVJtZEVEWFowZVRJNlRVVGp1M3VrWnpmdFJ4MVdSaWMtVjhRUTFLbWpicWJoRk9xVmo2dFJRNzBMM21FSzJwY2FIMHh3MTFna1pQWEJnMnZvU0VaOUVTN2hOZ25ZT1U?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 19:25:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Republican U.S. Senate Nominee Ken Paxton Releases Plan to Address Data Centers - WFAA",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxON194S29FbnJEVWVjV2ZDN0hsbTlMZGw2SFlKOG1FN3RESnZ1YTE1MVZ1ZVcybWdwbmQ3bWlhek5WR3ZSVldmR1M3YnVrUFhZVDYyaWxUVThnNThmNWwwQ2JEMm56QTJ0bEVtcTBaLWhUd2NYWWpodFh1WDJITlU2dUtGM01JRmk4TXFNd2VpN1U1MlJaR0QwZFVGUWg5S3RNeWFXUE9vUzR1T3FLRUs2YU0yZGRpem9kNF9aTzlCRFB2b0V3VTMzUXNWYTYxMEpmNE1odjJpVkJ0Yk1EUV8xam05dGRFeEgxZllRcFhTNUZEbXc?oc=5",
@@ -1526,37 +1556,6 @@
         "senate race",
         "texas senate race",
         "cornyn"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "John Cornyn on Former Staffer Now Working for Talarico Campaign: Only ‘Authoritarian Countries’ Tell You ‘Where You Work’ - breitbart.com",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRzZwMDR0TjF5ZGV4MHNCWjVhTE82em5ZQXM0YzVucktTSnVuaVVUOEVxUktKUHFHb2NvX2I4Z01uNzdmUnh6U3BVOU0tVDZ1MDVpa0pPYXk5dXF0NmNWUXEtN2o1Z0EyQmVUWVBsZVNfMVVFaU9WdUJJckxJQldPZncyc0w0SmlXa21VMUdwa3VlYUY5SXVSWTRDakEyb0VUb2UxVEFiLU5SLWRRM3lUbkFLNk5fQ2VYa0puekUtQ2JTNmxGaHdoLW93bXlNRWQ1ZDlJYWNjWVB5Wl8zTGRwNENmNzV2RzB0bUNEVTR6UXV5MGFGOG5reG5KTUTSAYICQVVfeXFMUGlNNGh3RHlidWhxY2VmYVdsMFdPMmpDN0V3M1dUZV9rdi1aZmRTQmtrUDF2Vk9DUWNJNnV3dzBLcjJPOTBubVlUV3ZzT0dKekhBUV8tUXowMURqeG9KdWk2UjhGY255Q3FtYVNtYjY5QUNoM3lwc3Q3OFpKN2trLVZGTDhVX0FpTWZvRmhOb0xEeUdyZUlXcW5uSVh5Z3VncFFUZmRheHlPTGZ3amp5bjJTbWp3b3c2NXp6M2FBVTB0VjFfcHhpdEF1NElTWFlBX3lCSFM4WVZaOW9FR19WSzEzNlhkMDYwaThJb3ktQndCVzktV3FRd1A0cW14a2oxWTdB?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 17:58:39 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "talarico",
-        "cornyn",
-        "john cornyn"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "James Talarico Is Proud to Have Led the Fight Against School Choice in Texas - townhall.com",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc042RnBNZjNKcnN0YktNTFFrdmFqb1NhMFZRcGNRd2R4ZmREZjBRbFpYYTRGa1pQTE1hMlc3ODB4SnRtRVlSdllqeHRRWWExNjU1SHRQZ3VuYXdGb1lKakhEUE90R3BaN1RzbGV6bmtqNEZHWWZ6Ry0yUHRzT21PcllNS2txaV9uUDFBbVlLS0hENXVrNjF4NTVQUWlOOFRMNGRBbTdOTlllTUh5MW52R25pcFVlRFZPQnU4UFdvVGstd1E?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 17:15:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
       ],
       "sentiment": null,
       "error": "HTTP 405",
