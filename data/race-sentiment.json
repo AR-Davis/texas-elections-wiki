@@ -1,9 +1,107 @@
 {
-  "analyzedAt": "2026-08-24T06:04:29.847Z",
-  "newsFetchedAt": "2026-08-24T04:22:26.972Z",
+  "analyzedAt": "2026-08-24T07:14:26.732Z",
+  "newsFetchedAt": "2026-08-24T06:04:48.343Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 7,
   "stories": [
+    {
+      "title": "Texas AG Paxton says he has concerns about treatment of Sophie Cunningham supporters - National News Desk",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRVNEZUtOaUIyMGRuWVc4U0tXQmZ1dE9fWURuZzdYX3lkWGRZaHhwZTNrdDJPY1hhQ3JTeUFGVG9Eb2x2cHBPcHkzd3JqUWtnZEl6QUp2amd0d1Q4ajhkdXdYUUgxWEZWc2E0bUlIcEtCbGdwMkRDVVRELVdMZ1N3c2hiMllzTDZPbnZiRHZjV2hYRFpoSFRXbDFPd241aklNMExiUzBpRnlqYmsta1NDTXVEQzBWc0UwR1lVSGctLU93eEktS3JBaEF1eDN5RHotM1VjWG1GMWNwc3g1QV83RDZ1R0hMa1VC?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 16:38:02 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W34"
+    },
+    {
+      "title": "Inside Texas Politics | Full Interview on new North Texas caucus with State Rep. Jared Patterson - NewsBreak: Local News &amp; Alerts",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdm9ldnJPbzdabDdiU04wSGpodlNpSEVqNzZxal9GMHp1R2xWMXpzMTZ3N2ZxVTVXNjBKZl9WcTdwZFNST0hzdlBuamhOZVJvZzRMQlNKLXFJSHFOalZILTJSLVVIZWZaMFJvWHh1dWJIZDJPYXdzckJGUlhlNXRwMVBENjJQNHNhYlBCV2k1cUVZdlVQQXBBME9WNlg1MGVGMzluNTBRVWl4VTJITW9IaW5WdlNkbzNvOHNKTm81NkpwdGtCUmJWd0tXUzNrUlZ0cWFzMEtrZnlBUEduQWc?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 20:15:27 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "general",
+      "weekKey": "2026-W34"
+    },
+    {
+      "title": "Inside Texas Politics | Full Interview on TEA audit with state Rep. Ana Maria Rodriguez Ramos - WFAA",
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNd2Y3TFNkbkFEVkpfeWpZcjhvODRya21xUUJnY3R5dFlMNGpVOHlfclQxN2FPcWU4NDFkUHNYUEEzblBkWGxOMDU5NWkxTzZiVzVoVkV2SktXZXA1WHpKR25fSmtLMkFuVGhiMDl6c0psZ0JrUlo0VHRBSTZaWDV4d0lYM1RfWHNsR0pjcEZrdlZoTHVDbEdxT0dlTW9uZGstYkVWU2V6WldiZDFpWkhSbmlYSTFfcTJyc1c4bFYxdzlvT21iNFgwX29kOC0tMEZFWXM1QnI3RGFzdldmMzFWdVpzaU85LTVPaDZHRS04aFI3QTd5S1dCdjIwQlVfZE56UldBQXdaQlNWbVdLblpRMzdzTm9QSE96Y25NbzRxaEVsWmRXcExWMGxMQQ?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 20:07:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "general",
+      "weekKey": "2026-W34"
+    },
+    {
+      "title": "Cornered by Big Bend backlash, Texas Republicans tread carefully around Trump - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTG45a0pZckU3RW1OSGgxWTVNMkxlNDM5bkZnbmttY2lpUm00TVNvNUphM1V3R01laEVHR0RkVlFrcG5hdV9ya3NUNXJhUlV1Rmk1ai1LOFZndGFJbkMtYTAxc0N0anYtamd2dkI1MEdvS1pQR0NPaVZjV3JjTEpGUURRVmNJeU4yNHVDakwxdHhERW05TjVjZDgxaURycG9aRmpCN1V2eE10WHpsbk1FOXhXc3BVcEdOd2h3M0s1YmtoWmdydEVQcDBLc2o0NWhHUzNTNmZyNmt5QdIB2gFBVV95cUxOTG45a0pZckU3RW1OSGgxWTVNMkxlNDM5bkZnbmttY2lpUm00TVNvNUphM1V3R01laEVHR0RkVlFrcG5hdV9ya3NUNXJhUlV1Rmk1ai1LOFZndGFJbkMtYTAxc0N0anYtamd2dkI1MEdvS1pQR0NPaVZjV3JjTEpGUURRVmNJeU4yNHVDakwxdHhERW05TjVjZDgxaURycG9aRmpCN1V2eE10WHpsbk1FOXhXc3BVcEdOd2h3M0s1YmtoWmdydEVQcDBLc2o0NWhHUzNTNmZyNmt5QQ?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 14:39:56 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas republican"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "general",
+      "weekKey": "2026-W34"
+    },
+    {
+      "title": "MAGA Inc. sits on campaign cash as donors indicate only Trump can save Paxton - Politico",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMi1BTmdkSzlaYWNndkY1d1N3bVJfS2F1dHpBSnE5V2NNYUFSaTVnNU12TncxblFnMFo3T2hnOHFSdVhhZFNkU1phdEJKX3F1NmpHRndXaGJHem01QUdNMmdhd21fQWlpTDBZRVBHUlctYzZrZndFdEJfUXluUVBSSEhaZlBBdw?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 14:04:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W34"
+    },
+    {
+      "title": "Texas U.S. Senate Election 2026: Latest Polls - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRnFTY28wbS10QjZaN2NoLURKTUNYNkRlVXJFenVsTWphQVBQS2lySHdTOVVKTGhSSVRsX2JSeVEwUE9hMWpVdWU5Z2JESHJSalV5ZFEtQm5sTzY3LWQ5NFR3WjhLeE9IaUQ4VDRoZkhUOHRxQkc1cnR1TG5YVThJLVlJeW10QkxBYVE?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 17:11:42 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 4,
+      "matchedKeywords": [
+        "senate election"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "general",
+      "weekKey": "2026-W34"
+    },
+    {
+      "title": "Texas Republicans tread carefully on Big Bend border plans - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYU9LX2dvYllDUHBzZ0Nlc0hDaWd5MGl5dWlxYmFSdmkzVWtIbm5IYmllSGQ0Z0JMTjZwRUZYU2FXZ1Zoa3VhbGJiRkszY2xWWkpVdl9TNVF2V3laTEw4X0Qza2s3MGF4Sm9tdlhPNFlQd2VZQ3VFYXg5bUxWcEwyN3c2S2hmd3RhTU55eEJjMTNkaUpRckZpNDlnT3VZOUxnYlE?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 10:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 4,
+      "matchedKeywords": [
+        "texas republican"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "general",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Texas AG Paxton says he has concerns about treatment of Sophie Cunningham supporters - WJAC",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOVIyVm95OGVHRlVTX1FSajIxWFpGeHN5Z1JUNjBLVlZxaThVX3ZnNWFTVkV4bE93NjFxZUU0ZkZuN1BPRWJVcmI4TkVaMFlSTGYyeUszZjNNSV9jRjh1VHdpU1cxU2M5MXhfaXlSRmtzOHpqd3dvdUczQ0hwenZoTVNRaVA0UTc4VG9GQXVYT0F6U1JubWYxWUlCWE1QTmwwOHplTmpFTkE4UVBLR0NtNDFscEczaHBKN1Vod2ZXLUNEbC15Y1YyQlhLUEFJU2tGczhCNnIzeV9pR3NjV1BUQTgxemplSURoaUxj?oc=5",
@@ -1458,112 +1556,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "James Talarico Interview 08-12-26 - KXAN Austin",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9EblVGai1XUlhmaFREVjhZb2NlYVhHQ1F2dnlpYldlcnMyR3IwMGRKemJhNHd5UHltY2tRRHVtbVU1cVp3Y21FWTdyRy13M3liRk9waENfZUZXcTR4VVJabXM1bmJQVV9kMkRycmpEbzVuSzV6cHRtdGV3?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 00:43:39 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Did Ken Paxton take someone's $1,000 Montblanc pen? Talarico replays 2013 video in latest ad - Dallas News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa1hPS1h0MlFnTWFOOWZRMXJkazVISGNNRjF1T1hBYm52VFhiTlB1ek85OGpidDdYU2x4QThNZlBuQVB4NWRkeFFLMC12Y2dWSUhFNjQwNnlPNURmZGFvN2ljbWszTGUtX1F2Zi1fQmxIQTdLOS13YUZSd2R1Vmw2UXB3TW5tV0hVM1NvSWNyUmpVeXVWMmdsVUFBd0haVVcwR1dkc05KY00xdDdV?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 19:07:30 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Ken Paxton tells dozens of Texas cities they can't raise property taxes - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY1VSUGpFemphTXBYVjJUYkdzN1pibk5GUnlaREkwamZObzRBYS1tN3dIakFIX19nNk1nQW1mWEUtRnhsVWdQR1h0cmFvWHVvNHZiSnpHMkE5a3NUSWVaa1B4dFVwQ1pITUNSbEVhcFhuRnRnWllRbFd1bHR6RFdETW9FaUJMek95cjFsWnEzaThnamlHTmw4?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 19:19:29 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Ken Paxton suffers massive new blow as investigation blows lid off dubious fraud crusade - rawstory.com",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9nX2VuWWZIUllLajEyYm11TV9pMkJNSW9oYjhrazctaV9hZUFfYXR5M3dzbFkzTnV6a05QNzZ1WmQ0RndHd0J4UFMwWlFXOGJ0SjFwZHFvWVd1MmN0czFWbFB3c0FMZlhvdlg3N292WXYwaTFUaTk4QtIBeEFVX3lxTE9nX2VuWWZIUllLajEyYm11TV9pMkJNSW9oYjhrazctaV9hZUFfYXR5M3dzbFkzTnV6a05QNzZ1WmQ0RndHd0J4UFMwWlFXOGJ0SjFwZHFvWVd1MmN0czFWbFB3c0FMZlhvdlg3N292WXYwaTFUaTk4Qg?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 15:32:49 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Ken Paxton says he doesn't know 'details' of Texas' THC ban — even though he's the state's top legal officer - San Antonio Current",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaXpEVHlPTXAzNVVUeW9PaTJJb1QzaDBEbC1kVk9kN2pJNmZCQW1DdVFGMm83TlFtX0tJdFNvbml3cVhCZkxjRU1sMGFQSXg4eGFQelRSZ3ZxT081WlVQQUZzbEdrYTlMV1NabWFnem41RVYyUHlsZ2lYZUI1b0lHOW1OeHZfOVBBdXdoTEdzVWtEc0NvY2s3ZGVzYzcxaE91RXVYVlFQOTNjZEZsSEpMdnlERVdSUHhha29GWlVYTDhhLXBoRFRMb0prWkxtbGNLUzcxdVoweFR6a09fQVJzUEFES2FyZG40SnI4?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 14:14:45 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Ken Paxton slammed for running away when asked about Texas law: 'Let's talk later' - rawstory.com",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SQ08wcV9EWFY3X1gxdU1CcmpxdDBEdkM2TzJVVTRxdFFCT2Y5VEtqLVRpYVBEU1JTU2RxR1hSMmh6SmlxTGp4aHEzYUFUbnZQS2VTSHY2OFl6Y1lqdWFvVUY5RVBIQllDOVk0T0Jn0gFuQVVfeXFMT1JDTzBxX0RYVjdfWDF1TUJyanF0MER2QzZPMlVVNHF0UUJPZjlUS2otVGlhUERTUlNTZHFHWFIyaHpKaXFManhocTNhQVRudlBLZVNIdjY4WXpjWWp1YW9VRjlFUEhCWUM5WTRPQmc?oc=5",
-      "pubDate": "Sat, 15 Aug 2026 20:18:26 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Ken Paxton suffers massive new blow as investigation blows lid off dubious fraud crusade - rawstory.com",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LVjhzRFJYamZsMS13NG9zQmhLbWU4SERUSkxGWTRXZDYxeEZteWpzZkRYbG1QdVZOM1VzYVhBSTdZbmhCWEFtdWpTSEhqWUNob2ZYVnI5b0U4REMwd25KVy1ZUzBvUdIBeEFVX3lxTE9nX2VuWWZIUllLajEyYm11TV9pMkJNSW9oYjhrazctaV9hZUFfYXR5M3dzbFkzTnV6a05QNzZ1WmQ0RndHd0J4UFMwWlFXOGJ0SjFwZHFvWVd1MmN0czFWbFB3c0FMZlhvdlg3N292WXYwaTFUaTk4Qg?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 15:30:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
       "weekKey": "2026-W33"
     }
   ],
