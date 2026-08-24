@@ -1,9 +1,23 @@
 {
-  "analyzedAt": "2026-08-24T04:22:03.668Z",
-  "newsFetchedAt": "2026-08-24T01:42:36.132Z",
+  "analyzedAt": "2026-08-24T05:19:10.380Z",
+  "newsFetchedAt": "2026-08-24T04:22:26.972Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Texas AG Paxton says he has concerns about treatment of Sophie Cunningham supporters - WJAC",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOVIyVm95OGVHRlVTX1FSajIxWFpGeHN5Z1JUNjBLVlZxaThVX3ZnNWFTVkV4bE93NjFxZUU0ZkZuN1BPRWJVcmI4TkVaMFlSTGYyeUszZjNNSV9jRjh1VHdpU1cxU2M5MXhfaXlSRmtzOHpqd3dvdUczQ0hwenZoTVNRaVA0UTc4VG9GQXVYT0F6U1JubWYxWUlCWE1QTmwwOHplTmpFTkE4UVBLR0NtNDFscEczaHBKN1Vod2ZXLUNEbC15Y1YyQlhLUEFJU2tGczhCNnIzeV9pR3NjV1BUQTgxemplSURoaUxj?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 16:55:39 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Paxton-Talarico Senate race is a toss-up, Cook Report says - Longview News-Journal",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVlZQbWg5bjZWa2U4NmxQY2V1bTg1a0tMdi1SckdvY0k1R3dKeF9wTnNUbUk4VjlUdUxRMnoxMjZ3X3B6MXNtam1xenVhYmZqSEkweHIzbnZZRnYxQW1IMHExVWhHdGhrcjA1VF9fMW4wRXFYOXZQU2kxcDAxMTk0ekFMYWo5VDJTUnlLVjZpdFo2bFcweUM0bnp3?oc=5",
@@ -1550,23 +1564,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "paxton",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Talarico walks back religion comments in Texas Senate race - eciks.org",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TQWU2ODdVWlFWZ0JvZVpTSVNYaGprME40SlRRcF9CUWFFOGNhQ201Um1jOHdWU0ZrcjRELVh6bXJWcE5XUG0ybW1fRXdCV3dLcU9aTTZYcmV4YkFDYkNDSV80enNjVU9qU1pxUXRYdGI?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 09:08:52 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
       "weekKey": "2026-W33"
     }
   ],
