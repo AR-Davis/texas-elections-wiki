@@ -1,9 +1,44 @@
 {
-  "analyzedAt": "2026-08-24T09:24:29.712Z",
-  "newsFetchedAt": "2026-08-24T07:39:06.314Z",
+  "analyzedAt": "2026-08-24T10:11:52.007Z",
+  "newsFetchedAt": "2026-08-24T09:54:11.002Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "James Talarico leads Ken Paxton in Texas Senate race polls - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdmw2RzBfTTlRNzRaTzNEMFVVMFZpYmkyQk1pMXMyWGUzaHUtQUZFMWNTdmxJcy02c2dsdHZpRU5oZkFZQkVXMkpOT3RSNWVmTHdmMEE0ZkNrSU1xcWtKTXJ2TmZJLUluLUVvS2Frbm5hb1NRT2F4VWZuWlhkelVwYTFqc1l0Nnd4b2t6UkwwVQ?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 09:15:02 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 38,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W34"
+    },
+    {
+      "title": "Performative Christian James Talarico helps fuel racial hatred - Washington Examiner",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb2VkQjBYbWVVSjVQb3hvOVFwdFNvT1h0NmdVd3lfT2lYRGdLMUhvcUVIZWJBeENKNXVfeU1GendNcUNROXZzOTRJRzJyc0pTeVBzSHA1R3JVNmVlNXh3ZzNtekxPUXpmUXpLMENFbWhFWDhubWl1bUdYdlE1TVJYN0RZRmdFeW9nNmh3NGZ0RjF1blN5UkhsUlZLcjlmbUh3dkdjUThYU1JyYmgwd0RtcDVZcXpRQl8yYUFBeGpR?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 18:48:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Cook moves Texas Senate to toss-up as Talarico leads on Polymarket - Audacy",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT3ZkZGlyMjdYR3Q1MGxxTjR0UjZpU3k1SGN6cGFPZzd0alRRRVZpVnY4djJCT0hlMFpNR1JBZHpUV0cwemcyMmNqOHU1ZlBHTGNfTFdPV1Q3amx0cFZrbjVsWS01eF9nenhXdzNTX2hxOWcwNzdXTjFmNG42V2RiNGRJZDgxRXlDU25fMTRmbE53Tm0tS0tOUUhad0NuZGxUclVTMDF0UWk?oc=5",
@@ -1521,37 +1556,6 @@
         "james talarico",
         "cornyn",
         "john cornyn"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "James Talarico Poaches Cornyn Staffer - News of the United States - NOTUS",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtLWRDamxqdjRXUEs4c1JtX2lkcElfMU9La3dzcnBsVG0xTTdUcE5oLVFfZTE0NVZtX00tUXBOSlhGUm5XbnJKeDktNDVtM3ZobGl5VUhhbUdreUtDQzNCSnpmaVdyOGtKclkyWEYxOXkzWF82dlhWWXZLNWxSNVU?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 22:01:44 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "cornyn"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "James Talarico Wants to End Religious Exemptions for Vaccine Mandates - townhall.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUE1TTlFEVk54cklXMHpCQ2V3WVJHd044TDFSNGNxNTE0SzVjRW5CeV9WdEdVUVFwaTV2WDB0d2RKTVV5OU5xSWQzNjRuanhSNVFJSWxXSTNFWFpyZGEyaHZQRWhMV0ZlalA2Vm50T29GZVVTYkhDNW5PbEhpbkloYU54YzhjOUNjYlVjRlhLQjlsbVNHUmJTWGdveVpyUzVORU5RbC02R1dWbWFScFY0cmdCM0FNNnRWQlZPbENycmI3czlaUURNWDV3?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 01:00:10 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
       ],
       "sentiment": null,
       "error": "HTTP 405",
