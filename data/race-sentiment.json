@@ -1,9 +1,26 @@
 {
-  "analyzedAt": "2026-08-24T13:55:33.859Z",
-  "newsFetchedAt": "2026-08-24T13:00:54.435Z",
+  "analyzedAt": "2026-08-24T14:46:59.909Z",
+  "newsFetchedAt": "2026-08-24T14:11:52.814Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Q&amp;A: Ted Brown, Ken Paxton, James Talarico on ballot for US Senate - Community Impact",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdUdqbXZ0VURvSjZJX0QxRmhEcmQwWU5VN2VyX29IaUZlRDJFR1RTWUxXcWJLelNsUUpFc2xaOUNhMWgzdE1XN0VQcENXTVFOa0ZiNHBTVy1nVVFJM0NsRXNxRWQzb1ZQVnpIMUZ1M2tOZkg5MTNGY0xjbEhwZHdvTnh5MVNjRDdtdjFTcmRuT1VSVjJ2RXZ3emVPVEhiUFk4RklBc0liOVdHZkpRYVNRM1dOYU95U0w5SUQw?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 23:47:30 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Dems Worry James Talarico Lacks Support From Black Voters to Win Texas Senate Race - Daily Signal",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTZmRMbEVOdUFEWl9VNVBlRzBwYkFGdzBmYXdza1ZscFY0MjhiQWhRSGVweDMwLXFpVUJRLXJ6eFlsU2d3Z2NXQXlsdlJ3cjBuaFd1SnZObVpNcDVRU3VWUTVRTHk3SFpnSFFiajJOS2hwYmVveF9ISy1pa0E?oc=5",
@@ -1535,21 +1552,6 @@
       "title": "John Cornyn's Staffing Fiasco Is Unbelievably Revealing - townhall.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSlpFa2RpVUFkX29hNUZEcG9fTVA5ZGFqRF9acHh5SXJhM2xzcEdnelBveHYza0E3Y1h5VmRHXzlIOE5SMVJnUG91X042X0tPWmNaZWZsaEsyMFRuamxuT0t4WDNOZGlvUkFHS2hmdzVTcC1mUUhLY0V6ZUdFN1VnendYalZ0U1NiNXBVTDhzM0NMTEoyMDVnVmh5cndBSU9DaXpVSTRObkpSMnpXWmwyczNOajJMQQ?oc=5",
       "pubDate": "Tue, 18 Aug 2026 03:30:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 9,
-      "matchedKeywords": [
-        "cornyn",
-        "john cornyn"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "A John Cornyn Staffer Pulled a Benedict Arnold Move. Here's His New Boss. You Won't Believe It - townhall.com",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNU2ZnV2xBRldiaW1sVDgyWnpKWFA1M1RzQnQwbVR4bUp1Y05NU2EyMVdHa3pzeDdOZGZ6NDE4UHhBMk1lQTd0ckM0dHo1U1RPeWdFT0ctS0pIX3UwSHBBaWlZWlktNzVZR000Y3pzdXF2MC1uSDV2UXpTam9ieVNlOEFUZ3YyS25FOG9wUUFSMGJfV011SmZoMFBhLVlISzM2a2kzMW43NWYwTGJNcFlpZVZCak9CQlAyN0pRbWktd3Ribl9VMWhvYWxhcFdtdUhRWDZtZ0xyZllUdC16bDFv?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 01:30:19 GMT",
       "feedSource": "google-news-race",
       "raceScore": 9,
       "matchedKeywords": [
