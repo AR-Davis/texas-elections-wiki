@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-08-24T07:14:26.732Z",
-  "newsFetchedAt": "2026-08-24T06:04:48.343Z",
+  "analyzedAt": "2026-08-24T08:11:27.145Z",
+  "newsFetchedAt": "2026-08-24T07:39:06.314Z",
   "totalAnalyzed": 100,
-  "newThisRun": 7,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Cook moves Texas Senate to toss-up as Talarico leads on Polymarket - Audacy",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT3ZkZGlyMjdYR3Q1MGxxTjR0UjZpU3k1SGN6cGFPZzd0alRRRVZpVnY4djJCT0hlMFpNR1JBZHpUV0cwemcyMmNqOHU1ZlBHTGNfTFdPV1Q3amx0cFZrbjVsWS01eF9nenhXdzNTX2hxOWcwNzdXTjFmNG42V2RiNGRJZDgxRXlDU25fMTRmbE53Tm0tS0tOUUhad0NuZGxUclVTMDF0UWk?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 11:15:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Texas AG Paxton says he has concerns about treatment of Sophie Cunningham supporters - National News Desk",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRVNEZUtOaUIyMGRuWVc4U0tXQmZ1dE9fWURuZzdYX3lkWGRZaHhwZTNrdDJPY1hhQ3JTeUFGVG9Eb2x2cHBPcHkzd3JqUWtnZEl6QUp2amd0d1Q4ajhkdXdYUUgxWEZWc2E0bUlIcEtCbGdwMkRDVVRELVdMZ1N3c2hiMllzTDZPbnZiRHZjV2hYRFpoSFRXbDFPd241aklNMExiUzBpRnlqYmsta1NDTXVEQzBWc0UwR1lVSGctLU93eEktS3JBaEF1eDN5RHotM1VjWG1GMWNwc3g1QV83RDZ1R0hMa1VC?oc=5",
@@ -1541,21 +1556,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "talarico",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Paxton, Talarico tap contrary versions of God and Christianity in appeal to Texas voters - HPPR",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSkdNckJYTWkwMVc4dTJnOTgtZXBab3VJOFUwWlJIMzhDQkVoRWU5U0pqcnhxaXhnUDV4QWdVdFFnU1FxUkw3Z1huRHNZLW9wYmZuajJPczVDcEZzN2MyQVNkOGhxQ3ZSMWVjYXN6RjlwTGRDS1M0Sm1raVV6OUJtejJBSHB4b3JqaHJmSWpCQnhBU1JrRGVscFpZamo3MHdtekd3dlhreTBHM24yNDFSMlFBNTlWTGoyQmNXbDlOMkNxbTdjM0NvWA?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 20:50:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
       "weekKey": "2026-W33"
     }
   ],
