@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-08-24T20:35:11.439Z",
-  "newsFetchedAt": "2026-08-24T19:33:56.835Z",
+  "analyzedAt": "2026-08-24T21:33:37.829Z",
+  "newsFetchedAt": "2026-08-24T20:36:28.521Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "In Texas, Senate Democrat candidate James Talarico opposes voter ID - americanthinker.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTEFMNi0zeGhreXpzcnZBTy1FRXdlYzZzWk00Y0JYUjVYWnRSZjU5ell3MUhxTmwxUF8xRTM5VFVjUG1XdENUSEdsZEwwZ1hDSHdIRU5iaEVVd3RDZUdtZjJOSE5OZFlPS1c4NXFIZjYwVW1lY0xzdzU2TG5XZ2pKb2RiWnFfeURTMnVhZXVPeDVQUmZTUFNuSjdpU1Y5WTR3eFFSS09wZGJCQkViNlh6WHNB?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 19:32:50 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "WATCH — Jasmine Crockett: Black Community in Texas Not ‘Excited’ About Democrat James Talarico - breitbart.com",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbzFjNDBlb2VxQmFCQ3NCZ01vNld2U0VWUUFWNUZoV3ZjeU9uZW1XRnN2c29XUXJGQW5CNGZqZmlEdWdLc1NjRkVYUklLOWl1N0FPWmV0WUtLZWU2LXlxT2NPZVE3X0dYMkp1eE12Sm9ESG9Oa2RPX1RSS1JLT19Kb0xfdW1hNmg3S0VSUnFBTEE4anlHdGdyTlVYSzVveDJ6WDZ0ckhzV09ud2NrckRfcU1JXy1wRWxORk0zcW56OFUydkU5ak5lYWo3anpPUExjanfSAdcBQVVfeXFMTXF6MXRiRmF0VUpWYk1TTnA5YnBCaXVBNFV0QUQ0V0I4OHV0X195ZkxXTEQ1aUpqR2JVVjdWbXk2T3BnODRaRHFqc0pPR1NsaDJXbDViSk1iaWsxOGRfOUZQejZUVGdQQUlxR0ZQeTJ3YTExVHdwbGxBRmEtdkp0RnczV0NyT0pYcFlNWDhURTVyVkd4Xzk0UkhKZkN3czlHTlZyS0lBbTNGMlVNNmFySmhJeGwybHZvMkVyRkNBLUduWlNWdy1hZ3R0LWxBS2lYQ29KY0FqOTg?oc=5",
@@ -1538,24 +1553,6 @@
         "talarico",
         "cornyn",
         "john cornyn"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Ex-Cornyn Aide Smith Joins Talarico Campaign in Texas Senate Race - sekbernews.id",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yQXRWZHllWFZQSENNZnVMZmpJa01FdU1pdVI3aUxJSlpDNEEyamV0VnFVbDQ0OENnYjZqc2hnOG9wQkYtOF9IcXBuVE1rZllaS082X1dvZ2pMMS1mVUtjbnZYVGhPZTNVM3BIeklMc1JHbDREcnp1TW5GOA?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 18:11:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 25,
-      "matchedKeywords": [
-        "talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race",
-        "cornyn"
       ],
       "sentiment": null,
       "error": "HTTP 405",
