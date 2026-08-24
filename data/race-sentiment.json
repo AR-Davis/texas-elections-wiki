@@ -1,9 +1,55 @@
 {
-  "analyzedAt": "2026-08-24T23:25:56.734Z",
-  "newsFetchedAt": "2026-08-24T22:32:05.434Z",
+  "analyzedAt": "2026-08-24T23:48:28.466Z",
+  "newsFetchedAt": "2026-08-24T23:26:30.327Z",
   "totalAnalyzed": 100,
   "newThisRun": 3,
   "stories": [
+    {
+      "title": "Ted Cruz says Texas Senate race will be a \"$200 million\" fight - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUllYREFtMHEtamJMeWp4RXVUeGxrS0hZTlBxZ0l6aHpZUzYxcldGU1B4Smkxd19EQ25MN0VQd00zOHNXcXJwRjQ1MFRBT2hqMlFJWUZTWWVDck00ZlZaaEZtV1VFUVhmOGV0cnJJaElJY3NJWEF0Y1hEUXlYRDdxV3RadUN6WXo1aGFWM1Bub3lRd21EZGNV?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 13:58:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "general",
+      "weekKey": "2026-W34"
+    },
+    {
+      "title": "Abbott Rallies Behind Paxton — But Talarico Has Turned Texas Into a Toss-Up - Houston Style Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUlRRbFhWdWNlWGl0aEJIaVdPSWN2WTdoRGx3cVcwOGhQZ25EdUN6VENBblJhc0ZQZV9XalFjZU1PTTdCWDB1Z1FsR0JJOFkzSDlaRUNNVTlUMGdjcTdyak9WZUZkNnBTZ3dBQVo5MFc3TUV1dkJZOGluREVqZ1IxSFJQQ2NBRWpMcG13YVhIQjROWkwzOEF5QUZKTzg0OHEzUUxYTFByQ21XcmZwek5UdkFja1lXbDdt?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 20:57:57 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W34"
+    },
+    {
+      "title": "In Texas, Senate Democrat candidate James Talarico opposes voter ID - americanthinker.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbW04OUxTWDJUNnV5QXdGeVZEamlNU2NRTjJtVHRqNjQtbmNTTGJjWUtaTF9qcG9TTXN0ODd6SXBpM2hrekNmSFdRdk56VlN5YkY1Zkw5TmVIeHR6ejkyRVNoX3JaUTg4U3NIX2pCM0hxX0FVckFWanpBS2VKZk9tMUVQVzBBblMyR1djYW4zS2RmTU5NN29PcENUVHhBR2xHUVJUTEQ5ZU5FRjBheGxicE9TaHo3UDFvZ0k5aF9n?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 20:20:42 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Texas AG Ken Paxton targets Chinese technology, chatbots in data center platform - KVUE",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZzltMmFUVHdUTUZwYktpSnpLNlVpLVJvTTZ3T0s5Mzh2UGl0MkFkN29JaktOYXI1WDNxb1huTVVJNVk0MVpHdDZzSHlsN21LWlpIbXF3OEgwN2xYNlFhSUZXdko1VVZBSEJLMnhuaVBFNE5kNzVqSEE2MFVEdG5pRTJwZjlLc1lOUlZOZDBLVHBJdGxoNm5IUlVNX3gwLXluMTYwSTBmci1lQWZHUTBLQlZSVlJ5OGxka3JFNmRVYTVCbnhEUGFUS0o0ZkxWbDlDeUE?oc=5",
@@ -1505,52 +1551,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Texas 2026 live primary election results: Cornyn and Paxton headed to runoff, Talarico advances - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaDdzclZQZjY4dW9wTl93S3JKZ2ZsbUlnTDBnNVlKb0p3SU0zRXI2V2Z3QjJJYmNKc1pzUFhlTjdURnIxelRSYVJEeHJITzRkZUxvdDdTR0F3NW1lNks0M1RaRWduUDEyOF9UbWVlcmhtejRDUU8zYzVraFdZRkJ1WDExSDU5SElJazdsVllLdEFNd9IBlwFBVV95cUxPQlR3VjMwVnBZQW5FVEowci1LbTFoelgxYk1NQTRWaFRrTm5Wd0pKU0x4Y1gzN25TNGpCSDRuX25MZWtfZEJmcnFtN0xDRFRMTXduMXpLV1NHaU5hZzN2ekhDREJXc3FZaEJVOTZMcmVTSG1TV3o3QXJaREtreVBtelVWYzVSSV9HdFFmbXpOMlkyMFJ5TkIw?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 00:12:23 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "cornyn"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Report: Trump to Raise Money for Ken Paxton at Texas RNC Fundraiser - breitbart.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObDQtUWwxU3RVZWlyOTJmWmNMU24xMzFLQ0ZpdFZhR0FYV2dQUWhSNEpaWkxXckVtcHItQTJfU3F3QlJ5UWxmTTBtNEhEaER3MWd2R21XaUJRQ2RNSk84YzFQRGxfTnlDTXlnZlFDV285cTJNVm5FX1VSb3hiRGJIYU1VQjlIem15a01ySWl2dGNsMHlDVlhJUWlyYU94MThPTGNrUTlWeUZLQkh6MTl3LXlvdTBFdWRD0gG4AUFVX3lxTE5sNC1RbDFTdFVlaXI5MmZaY0xTbjEzMUtDRml0VmFHQVhXZ1BRaFI0SlpaTFdyRW1wci1BMl9TcXdCUnlRbGZNMG00SERoRHcxZ3ZHbVdpQlFDZE1KTzhjMVBEbF9OeUNNeWdmUUNXbzlxMk1WbkVfVVJveGJEYkhhTVVCOUh6bXlrTXJJaXZ0Y2wweUNWWElRaXJhT3gxOE9MY2tROVZ5RktCSHoxOXcteW91MEV1ZEM?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 00:45:46 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "This Star-Studded Progressive Event Featuring James Talarico and Kamala Harris Was a Complete Flop - townhall.com",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPR2hXOVBndVNuaEExR2tnd0t5Y3ZET3RyZ0x5QVAxQnlOZnE2YzFWNDFLUUNWUXc5Uk5SQnNqRHJwMGVTLVdoOGJmSVRYYldod2xYTlRDWlhBcVV6bXpFY3RmcWZZbXdWdkJwa0doUV9NaEYyd1FmMHVUcFBDRUxPd1BIVVNLMVd2cUdCeXprY3l0MUs4X2FxY1oxOVJqeUdWMF95T2dPUGlBaXM0NHk0X2t5d2tJUVVEVnQzbnowcXFCYjExSEUyaVJ5Y1kzeTJEczVzUTFzWlQ4aWwtaW5DVUhCaUlDdmo3OGFoS2RRVzk?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 23:30:17 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
       "weekKey": "2026-W33"
     }
   ],
