@@ -1,9 +1,23 @@
 {
-  "analyzedAt": "2026-08-24T14:46:59.909Z",
-  "newsFetchedAt": "2026-08-24T14:11:52.814Z",
+  "analyzedAt": "2026-08-24T15:42:54.884Z",
+  "newsFetchedAt": "2026-08-24T15:10:38.123Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Paxton, Trump and a tighter Texas map: Republicans say they’ll still win - Marshall News Messenger",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTW1hTG90VkFvNXdGN081cW9reTZld1BWQ2N1UVhNb2djX04zMFZnMDZ0UkxFZy1vc1IxSWRBbHhhb1pzdmYtNk5LQ3d0bTRVT3NrT0pXekxCRXgwbFd5ZXNJMHRJbnVFY3lXMjByUkdMM1F5d2VvakJ4cXl2V3plQTF2UThkWlhxMzhQTFlIRFRYbjlya1hTTk41YWRNemZoSmhvTUdnMmxWUFY4eGpId1JmbUNOQQ?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 10:40:53 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Q&amp;A: Ted Brown, Ken Paxton, James Talarico on ballot for US Senate - Community Impact",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdUdqbXZ0VURvSjZJX0QxRmhEcmQwWU5VN2VyX29IaUZlRDJFR1RTWUxXcWJLelNsUUpFc2xaOUNhMWgzdE1XN0VQcENXTVFOa0ZiNHBTVy1nVVFJM0NsRXNxRWQzb1ZQVnpIMUZ1M2tOZkg5MTNGY0xjbEhwZHdvTnh5MVNjRDdtdjFTcmRuT1VSVjJ2RXZ3emVPVEhiUFk4RklBc0liOVdHZkpRYVNRM1dOYU95U0w5SUQw?oc=5",
@@ -1542,21 +1556,6 @@
       "matchedKeywords": [
         "texas senate",
         "cornyn"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "John Cornyn's Staffing Fiasco Is Unbelievably Revealing - townhall.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSlpFa2RpVUFkX29hNUZEcG9fTVA5ZGFqRF9acHh5SXJhM2xzcEdnelBveHYza0E3Y1h5VmRHXzlIOE5SMVJnUG91X042X0tPWmNaZWZsaEsyMFRuamxuT0t4WDNOZGlvUkFHS2hmdzVTcC1mUUhLY0V6ZUdFN1VnendYalZ0U1NiNXBVTDhzM0NMTEoyMDVnVmh5cndBSU9DaXpVSTRObkpSMnpXWmwyczNOajJMQQ?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 03:30:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 9,
-      "matchedKeywords": [
-        "cornyn",
-        "john cornyn"
       ],
       "sentiment": null,
       "error": "HTTP 405",
