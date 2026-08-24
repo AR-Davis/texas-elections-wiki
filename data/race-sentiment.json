@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-08-24T11:02:52.477Z",
-  "newsFetchedAt": "2026-08-24T10:41:42.970Z",
+  "analyzedAt": "2026-08-24T11:36:31.510Z",
+  "newsFetchedAt": "2026-08-24T11:34:06.322Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Ken Paxton’s embarrassing weed flub - Dallas News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWEVHTng4aEZZWkdUcUpBVVdMU21JZWRROEJuTGlyTGdmT21TMnFCMXN5TnlmRjNfTmU2NHNmcFJsRms3OGhMNHdaOUhMeEI4LWFlbG02cFhKenlJbkZFYjByaG40eU9LOVNLamJyZkdtbHdTQUVhZGZTdlUwTi00RUFfVnM1TE1vQUlfbFNDOVZCT3BIY1RxTXpVazF6VEFSZEVuWnZXQQ?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 10:32:17 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "AI’s massive appetite for power, water ignites fight in high-stakes Texas Senate race - kotaradio.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcVB3TXg5WnZEY0pOdF9VamtnTEhCTGdrd1VNeEp1RzdqUmpNLU9HVVhqRDFyellOZW9YUGlDeUhEdTJtSnVBMzJQOFdoVV9CYVc4ZjZLYlBRN0tGUU1SSWtiNjM0NHJISmtXeE4tQWZNMUhDeHI0MjhDZk82NVl2MzQ3UzhKTDUzN240YmdBejhYaWNZdkp6dV9fZ29ZOXMzd1hBOV9qanlGNVMtYXJfNUdrY0pySlBZdWZFYmJB?oc=5",
@@ -1542,21 +1557,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "talarico",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Paxton to Newsmax: Talarico Aims to Look Like a Moderate - Newsmax",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT00tZW9WVW5CWk9wcFAtOEoyNEM2engzeW1VZlk3NUU2QndMcVZaYjYyUXZXYi1LMWs2Z3NKWVF1WXRMaWRtN2JYMGJwY055TGUybUd5bm45ZVB4MnNGZjlQSmc2NGExYUlrRHlCams1c3FCTlZwclpVYkFnUHg5eHdENUYyUTdoZVQyQV9nMmlzLUxPOGxsVkhKSQ?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 01:12:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 10,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
       "weekKey": "2026-W33"
     }
   ],
