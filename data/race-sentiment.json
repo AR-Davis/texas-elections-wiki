@@ -1,9 +1,43 @@
 {
-  "analyzedAt": "2026-08-24T12:58:21.410Z",
-  "newsFetchedAt": "2026-08-24T11:34:06.322Z",
+  "analyzedAt": "2026-08-24T13:55:33.859Z",
+  "newsFetchedAt": "2026-08-24T13:00:54.435Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Dems Worry James Talarico Lacks Support From Black Voters to Win Texas Senate Race - Daily Signal",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTZmRMbEVOdUFEWl9VNVBlRzBwYkFGdzBmYXdza1ZscFY0MjhiQWhRSGVweDMwLXFpVUJRLXJ6eFlsU2d3Z2NXQXlsdlJ3cjBuaFd1SnZObVpNcDVRU3VWUTVRTHk3SFpnSFFiajJOS2hwYmVveF9ISy1pa0E?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 22:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W34"
+    },
+    {
+      "title": "Cook Political Report: Texas Senate race a 'toss up,' Texas governor leans right - The Center Square",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdHplY0d0cDdtSUt6WXJrbVIzTnZpNmdMM3pYVTRuWFlvdWRjSnNwVXlBOVpxQnl1YVFUNGtxZVE1SGpHU1MxVDdIVHdBXzFqS3dhQWp6YXB6cVZjUl9VdEJrUE9XVFN6UloyUWtmTnFLdWpJb1oyTUdzbm5qX1lvUHY1WmluRDBIS3RqNThNVkPSAZYBQVVfeXFMUHpQUEpMR3Z1ZUpKQzNjeUhXVEg4LWVPWnNFYkVnUVAwVGJJeE9NbnVSNkp6NnNVZG9PdlFoWDAxUWRpXy13d1A2blo0Q21IRm9OeHdEVl9QdGxfa3pnUTdLWWxNMkMzbS1yS25sNXNScnZzZ1pQMUNWQ3VEaFhibl9lS0xiSFl0UVV3RWI0VVhqNGE4NUp3?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 16:58:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "general",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Ken Paxton’s embarrassing weed flub - Dallas News",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWEVHTng4aEZZWkdUcUpBVVdMU21JZWRROEJuTGlyTGdmT21TMnFCMXN5TnlmRjNfTmU2NHNmcFJsRms3OGhMNHdaOUhMeEI4LWFlbG02cFhKenlJbkZFYjByaG40eU9LOVNLamJyZkdtbHdTQUVhZGZTdlUwTi00RUFfVnM1TE1vQUlfbFNDOVZCT3BIY1RxTXpVazF6VEFSZEVuWnZXQQ?oc=5",
@@ -1525,38 +1559,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "general",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "John Cornyn Staffer Joins Democrat James Talarico’s Campaign - breitbart.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMDMxOWd5V1Bkdi01OUhTbFNyUklEMTZZVDZIVjlGc2RkRmZkWTFFal95ODFYNV9Yc1pVMEc2dkNQbXo5TTkwZVRMMWZFU0wxSHhNWG5HUjZkbzJ5dzk1elpxTW9tVmtnSW14ZkVDNGRzWXhDWnFuQzR5ZVowT2lyRzdnYmxJUTdGczVIcnE3bkJ6R2FXN19oWHlxZGpNWFdvaHU0M01GUdIBpwFBVV95cUxNMDMxOWd5V1Bkdi01OUhTbFNyUklEMTZZVDZIVjlGc2RkRmZkWTFFal95ODFYNV9Yc1pVMEc2dkNQbXo5TTkwZVRMMWZFU0wxSHhNWG5HUjZkbzJ5dzk1elpxTW9tVmtnSW14ZkVDNGRzWXhDWnFuQzR5ZVowT2lyRzdnYmxJUTdGczVIcnE3bkJ6R2FXN19oWHlxZGpNWFdvaHU0M01GUQ?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 02:10:04 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 20,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "cornyn",
-        "john cornyn"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "James Talarico | Texas, Senate Candidate, Jasmine Crockett, Joe Rogan, Stephen Colbert, &amp; Biography - Encyclopedia Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IREhFWWRfcWpQYk8zNnhxeU9jcWRrVzIxWlJfZXpFU2E2aU5qMDI2RE9rTTh0b1RYZEthRWZySHFrdEtXSThJZ1ZROU5aM3k0bVZTTHRXa1owbW83clF0MA?oc=5",
-      "pubDate": "Sun, 16 Aug 2026 05:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
       "weekKey": "2026-W33"
     }
   ],
