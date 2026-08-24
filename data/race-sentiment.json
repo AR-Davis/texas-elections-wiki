@@ -1,9 +1,39 @@
 {
-  "analyzedAt": "2026-08-24T18:50:33.954Z",
-  "newsFetchedAt": "2026-08-24T17:59:29.140Z",
+  "analyzedAt": "2026-08-24T19:33:03.216Z",
+  "newsFetchedAt": "2026-08-24T18:53:29.914Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Republican U.S. Senate Nominee Ken Paxton Releases Plan to Address Data Centers - WFAA",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxON194S29FbnJEVWVjV2ZDN0hsbTlMZGw2SFlKOG1FN3RESnZ1YTE1MVZ1ZVcybWdwbmQ3bWlhek5WR3ZSVldmR1M3YnVrUFhZVDYyaWxUVThnNThmNWwwQ2JEMm56QTJ0bEVtcTBaLWhUd2NYWWpodFh1WDJITlU2dUtGM01JRmk4TXFNd2VpN1U1MlJaR0QwZFVGUWg5S3RNeWFXUE9vUzR1T3FLRUs2YU0yZGRpem9kNF9aTzlCRFB2b0V3VTMzUXNWYTYxMEpmNE1odjJpVkJ0Yk1EUV8xam05dGRFeEgxZllRcFhTNUZEbXc?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 18:44:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W34"
+    },
+    {
+      "title": "'Achingly Close' to Jesus? Rainn Wilson's Podcast Defense of James Talarico Reopens a Fight Over His Faith: REPORT - Latin Times",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWjV3QkNsTU9UMjJEY3Nka1JCZG4zN2pTSFV1bERNRVZjX0RrTVhLSl8wTFVxYURtc1VWUkItNXNwXzYtMG9PUWVLVzQ2QlpzVVdmV1RKdGRTUFkxYmowcTdIVnloNTIzZXNuSXBjV3NFTWU2aXloNUhIUDludFBDc3VkOXVfb053U0JGakU4dlJEdXJyeW1rQXhJT2RVSmt6aU51ZWVXcTFMbFFIY1FHWmVxN2JjWXU4T0tUSUZEUQ?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 17:37:05 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Talarico is trying to win moderate voters. Why isn’t Paxton? | Opinion - Houston Chronicle",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVWtfNTFaWHRMYjVHRU54NG5sTmd5dkI4aVpLVVBLeFpmc1haem9heDBSYnNJY2tOVVdLNm1KdTRsZGN2bXhHTE9KaU1lcnVNcE9vQ18wcjFsekNpT3E3NWpNYVpYOUZqWEloem5aNEh3OEZtTWV6dUp1cURQVmtmQVpYejYzUlRiMDRaX3RPMERnU3I4MWpwZlBzbVV5eTI0NDF0U1dPd2lqUlZ5aXZLRkNsTlRDUQ?oc=5",
@@ -1522,37 +1552,6 @@
       "title": "James Talarico Is Proud to Have Led the Fight Against School Choice in Texas - townhall.com",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc042RnBNZjNKcnN0YktNTFFrdmFqb1NhMFZRcGNRd2R4ZmREZjBRbFpYYTRGa1pQTE1hMlc3ODB4SnRtRVlSdllqeHRRWWExNjU1SHRQZ3VuYXdGb1lKakhEUE90R3BaN1RzbGV6bmtqNEZHWWZ6Ry0yUHRzT21PcllNS2txaV9uUDFBbVlLS0hENXVrNjF4NTVQUWlOOFRMNGRBbTdOTlllTUh5MW52R25pcFVlRFZPQnU4UFdvVGstd1E?oc=5",
       "pubDate": "Tue, 18 Aug 2026 17:15:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Talarico campaign poaches former Cornyn staffer in race against Paxton - washingtonexaminer.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbThoRkNIa3AyMkdzYlZDZEtESjVCVkFVZEo4RWp2VkZNek5NSndqQi13SWNUMURUV2p6MkJlUXBLeHRNNDNZemR4X0YwZFBkSFo1YjFvZXdyM1VQbHhVbHZFaU1aUGtGMGNINmZGX1BDYmZzRmlNbVZZVUJjaHlmelJldHB5X0JxdG9ndF9Dell0RlhWYjlwaW1GUGVnc2twdDQ2VjU0MVM0OFVUV2xnZ2otOVQ?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 18:01:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "cornyn"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Texas Candidate James Talarico Faces Backlash Over SAVE America Act Remarks: 'Assuming Black People Can’t Get an ID Is Racist’ - The Nerd Stash",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMnBqekZuekFveDVsWm9RVjB3STRDYmVmMmVvZVF0WURXemRTbDdOakZVNjBGbnJjU2dGc1RfbmdGNjF6VGdrcENfWXh1S3M3SW9IeEdxX2plVVZiclhuWDFrd2IwOURmcHZ5YUVXNmswSUY2Z1JVemVUcE9VbTFyT181eUY1Q2xoTVNDNE55NFB1NGg2T0hjV193ODlXN0lJcWZ4WTRLaHJULW02a2JtaXhzTFFiYVFKenMyV3U3TVVmNGJmRlpSeHdCcUQwN1ZRZVA5WWRJalRNTjdIelk0TzlB?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 18:15:00 GMT",
       "feedSource": "google-news-race",
       "raceScore": 12,
       "matchedKeywords": [
