@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-25T11:56:02.569Z",
-  "count": 22,
+  "fetchedAt": "2026-08-25T13:02:08.023Z",
+  "count": 21,
   "feedsChecked": 8,
-  "itemsScanned": 80,
+  "itemsScanned": 82,
   "items": [
     {
       "title": "James Talarico leads Ken Paxton in Texas Senate race polls - Crypto Briefing",
@@ -52,6 +52,19 @@
       "title": "James Talarico leads Ken Paxton in new U.S. Senate poll - KXAN Austin",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ1A4V0pQRS0xNUZTUE1HODFDbno5YWMtX1ZWektHSnhHcDlWYzN2dmRpMUxMVXZoTmpLTGhYWUtDZUt0N2M1azlJWDRmVi1OM1Bhcmo4VkNVOXJVM2NjZUdaQW05YWllbW1VWVZObXhzLUsxZmNtT1ZGOFFNM2p1ZkVpa0_SAYoBQVVfeXFMT3pFdU1TYjRXV2tORGRnYklZY2I5X2syQzBEaVVZVHB4bEdnLUxJQnZsSzRJNkNLamNyUjAwQXl0S1BsMnFueGEyZzZZSGEwUVRrSGNKX3FxN3lKNVVDdlVadk5MbjFQQnAyaHVPRTNBZzN5TkFzTVlOZllJYzVlZmE3NDZpOEJaeEhB?oc=5",
       "pubDate": "Tue, 25 Aug 2026 11:30:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ]
+    },
+    {
+      "title": "James Talarico calls out Ken Paxton for data center plan that social media platform tags as AI generated - San Antonio Current",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNamY0alJRZnZRN2x3SzdUZE56THFJNXYzaFl0cEpwVTRicGVtcE04Q0dkQnkxR0plZ2JzWkEtOGpYVl9OS1dZck8wVl84TlVBdV9QWV9SS09IMGJHRzRHYTFvclZLQ2FDTHc1dHpIWWhIVDcwaUNmd3ZKVnIxM05Gc1hZODIyNlZPVGRQR0poSzdSanBJQi1MbnpYOWU0alBYaDM1YlNFQzItM3RCZlRzdXhKa3VRRHRuWUxXLVBzY3NacHBKU0dRQUxiSXJSRzhxcG9ROUxLRHdzNTk4M1dEYTBTVnZyLXdZd0pNT0diTmY?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 21:40:30 GMT",
       "feedSource": "google-news-texas",
       "raceScore": 23,
       "matchedKeywords": [
@@ -144,30 +157,6 @@
         "texas senate",
         "senate race",
         "texas senate race"
-      ]
-    },
-    {
-      "title": "Ted Cruz Is About to Spend Big in the Texas Senate Race - townhall.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLXlDdGtvOEZxc3V1UjVwSXlnMWp6XzhNQy1nc3l0YVRGTnV3eWl4TW1zZFlDTmhGaVJMTEFWMEVnZVZEb2prTlJrMzBISnM3RElaeEFKM0VzWXFXVnFuejRXdm5PTmxlV0s1LTQwZGxiRnQ4LWNBNC1mWVlkYTJSQ3hHZVJIbWJiVHUzVUxMYWJTX0xQaW5xV1dzSXo1V19rRGpwV3lWYzdnX3FfLUdCTWM1SV9YWkk?oc=5",
-      "pubDate": "Sat, 22 Aug 2026 13:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ]
-    },
-    {
-      "title": "Talarico floods Texas airwaves in U.S. Senate race as Paxton, GOP stay quiet - HPPR",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeXNLT1hJbExtaVhFYk1lQUprOTJ0WV9vMjRNdjBBSHFTd1p5YW1mR3l4QWxCYzA4T3N4NGZrNmlVaHBzQWtVemdjbVZXUTdmdHJRWXQzQkdyNWgtVEJrM3ZfbjdFTzgxdVdBQjNrVkUwazBKX3hRejlqNmdLV2JQT01iMjBoUjVXaVNYc0dHNENtbTk3OEpRMGpLNnZEREhESXEtQ1haemRCM1REdHBsTzhRLW0zRms?oc=5",
-      "pubDate": "Sat, 22 Aug 2026 12:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
       ]
     },
     {
