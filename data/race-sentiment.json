@@ -1,9 +1,26 @@
 {
-  "analyzedAt": "2026-08-25T22:31:39.955Z",
-  "newsFetchedAt": "2026-08-25T21:33:53.738Z",
+  "analyzedAt": "2026-08-25T22:57:12.300Z",
+  "newsFetchedAt": "2026-08-25T22:32:58.805Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Poll Gives Ken Paxton 4 Warning Signs in Texas Race Against James Talarico - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY3paaE01MHk5NnNHTnRBZTd0ek1rZl9Zc1FGN0xDQWw0NmFOYTZrS2JfVnR3ZkNsZGdsQldVSlRTSWxTUHBfMjlPbEZSUGhScEpwQ2NoV2wwTVh1V3lYMVU3LU1DR3FySnJqVzM2R0dibW5hU1c3XzJlN2FfelprdG1aaUJwVTdfNVdkaXNJLWdJTnZqRktKbE1tOUVwSWtsbV9oMEZPZ0JtUXJL?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 21:37:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "James Talarico leads Ken Paxton in new U.S. Senate poll - KXAN Austin",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPekV1TVNiNFdXa05EZGdiSVljYjlfazJDMERpVVlUcHhsR2ctTElCdmxLNEk2Q0tqY3JSMDBBeXRLUGwycW54YTJnNllIYTBRVGtIY0pfcXE3eUo1VUN2VVp2TkxuMVBCcDJodU9FM0FnM3lOQXNNWU5mWUljNWVmYTc0Nmk4Qlp4SEHSAYoBQVVfeXFMT3pFdU1TYjRXV2tORGRnYklZY2I5X2syQzBEaVVZVHB4bEdnLUxJQnZsSzRJNkNLamNyUjAwQXl0S1BsMnFueGEyZzZZSGEwUVRrSGNKX3FxN3lKNVVDdlVadk5MbjFQQnAyaHVPRTNBZzN5TkFzTVlOZllJYzVlZmE3NDZpOEJaeEhB?oc=5",
@@ -1534,21 +1551,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "James Talarico accused of siding with teen killer Karmelo Anthony after lamenting ‘there were no black members of the jury’ at his trial - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxObXdjaUFSSVBpZVJvRnl0aWt3SENFRTV1azktTFRuOVRrbmNQN1hRdDBkSmlrZHRIc01TTHBUSk9CWm1lWDZsUVgzb0xLVVZOWXgwdS03ZFhxUDQwQnNYOEhETjZKYU85Q2ZYNU82WHR3eWdscVVmNi1Ebk9ZRTgzaDNEQWdTOGUtNzdncTRIRXN0MnpnZGRzZVJ2bUY0YS1lUzlYWk9OYjJpbkxJR25fRzBIRlFlVERqQmxIOHd6VXJqYkxMYnVOcGp5RWNLVHhwUF9HbEdZWG5EekR3YV9LV1RxVU1BdnFfRjhWQnNuY01XbG8xMlFQeWhYMmRaTlYzZU1Z?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 22:56:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
       "weekKey": "2026-W34"
     }
   ],
