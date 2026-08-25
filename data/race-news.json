@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-25T10:02:04.843Z",
+  "fetchedAt": "2026-08-25T11:00:53.916Z",
   "count": 22,
   "feedsChecked": 8,
-  "itemsScanned": 75,
+  "itemsScanned": 81,
   "items": [
     {
       "title": "James Talarico leads Ken Paxton in Texas Senate race polls - Crypto Briefing",
@@ -46,6 +46,19 @@
         "texas senate",
         "senate race",
         "texas senate race"
+      ]
+    },
+    {
+      "title": "James Talarico calls out Ken Paxton for data center plan that social media platform tags as AI generated - San Antonio Current",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNamY0alJRZnZRN2x3SzdUZE56THFJNXYzaFl0cEpwVTRicGVtcE04Q0dkQnkxR0plZ2JzWkEtOGpYVl9OS1dZck8wVl84TlVBdV9QWV9SS09IMGJHRzRHYTFvclZLQ2FDTHc1dHpIWWhIVDcwaUNmd3ZKVnIxM05Gc1hZODIyNlZPVGRQR0poSzdSanBJQi1MbnpYOWU0alBYaDM1YlNFQzItM3RCZlRzdXhKa3VRRHRuWUxXLVBzY3NacHBKU0dRQUxiSXJSRzhxcG9ROUxLRHdzNTk4M1dEYTBTVnZyLXdZd0pNT0diTmY?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 21:40:30 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
       ]
     },
     {
@@ -151,18 +164,6 @@
       "pubDate": "Sat, 22 Aug 2026 12:00:00 GMT",
       "feedSource": "google-news-race",
       "raceScore": 14,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ]
-    },
-    {
-      "title": "Paxton-Talarico Senate race is a toss-up, Cook Report says - Longview News-Journal",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVlZQbWg5bjZWa2U4NmxQY2V1bTg1a0tMdi1SckdvY0k1R3dKeF9wTnNUbUk4VjlUdUxRMnoxMjZ3X3B6MXNtam1xenVhYmZqSEkweHIzbnZZRnYxQW1IMHExVWhHdGhrcjA1VF9fMW4wRXFYOXZQU2kxcDAxMTk0ekFMYWo5VDJTUnlLVjZpdFo2bFcweUM0bnp3?oc=5",
-      "pubDate": "Sat, 22 Aug 2026 10:24:17 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 13,
       "matchedKeywords": [
         "talarico",
         "paxton",
