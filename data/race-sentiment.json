@@ -1,9 +1,44 @@
 {
-  "analyzedAt": "2026-08-25T15:47:43.052Z",
-  "newsFetchedAt": "2026-08-25T15:23:05.489Z",
+  "analyzedAt": "2026-08-25T16:41:32.135Z",
+  "newsFetchedAt": "2026-08-25T16:09:11.447Z",
   "totalAnalyzed": 100,
   "newThisRun": 2,
   "stories": [
+    {
+      "title": "Paxton and Talarico dead even in Texas Senate race odds - Kalshi News",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObi1qcUVQcnQ4ODE0Xy1jSjh6UWtGeXZsWmNxN1pOWU5ZczN4czFzYldaZDVGQlV2TTNrODdRRmY5SkdIM2dBSDA5V0FFeWlmZmZsaU1uU01RYjYzNzZuZGpyTFpFTzFteEdWSE1uSXY4SFhkNFl3RXl4dkpwTTFTR3ln?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 15:37:55 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W34"
+    },
+    {
+      "title": "James Talarico leads Ken Paxton in new U.S. Senate poll - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYVhPeDdwM1hkYTBJMWkxdThsamxGc0VzQkhEQUpxU1NsRjljbU1oX2VSTjB2Q2JfOWowT1dVNlM3QWxyNzdFdmJqZHBaeU15S0FJblVPQVpVRS0wRl9rUEV0eGRkOVN5czFGSnkybzYtSW9xLXcwQ1JZbzVYSV9vVQ?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 12:34:10 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Ted Cruz Calls Texas Senate Race a $200 Million 'Real Fight' but Predicts GOP Victory - Latin Times",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNekFEUXJCMUJUb3NGRGRjLTNLZHdWSzktaUVmTkM2V2hBdjladjBWaXFIR05iLTY2Z2pMSHZDbFpfdkQxVW5KalNPaDYxYVFEbXI3Rk9BMGlqVU9feTc2YXQtamxtdDlPWlpnSkctd2RBS0g3OFdiWGVaVllFamh0OTRvMzdNc2JhRnN4YlBTYU0xTk9fZ1hkNlBQM3lMRk9sZ3ZuWmF4SjRoVWU5QThZ?oc=5",
@@ -1516,37 +1551,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Report: Trump to Raise Money for Ken Paxton at Texas RNC Fundraiser - breitbart.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLXllT3dsM0FHb09pRUdCSFV3bHpMalBkLVdNNWc1SXlyUkpWRUJINXRfZDY2cFE3RFFDQVJnODJZcVpORlNCSTBSNHh5NS1fZ2lqSnF3amNXRm04cURqemN5dzdKd3c5S0YtS0xjelhmaldGT1pXUlV4ZllLQ0xGSXRPazdFR2JOYWtYRlc2dmJydlhDSWVlMVdHVUxmWHc3SG1kMWMwc0liczlzV293Ym9Cb9IBuAFBVV95cUxObDQtUWwxU3RVZWlyOTJmWmNMU24xMzFLQ0ZpdFZhR0FYV2dQUWhSNEpaWkxXckVtcHItQTJfU3F3QlJ5UWxmTTBtNEhEaER3MWd2R21XaUJRQ2RNSk84YzFQRGxfTnlDTXlnZlFDV285cTJNVm5FX1VSb3hiRGJIYU1VQjlIem15a01ySWl2dGNsMHlDVlhJUWlyYU94MThPTGNrUTlWeUZLQkh6MTl3LXlvdTBFdWRD?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 00:41:21 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Texas Senate hopeful James Talarico once claimed ‘God is not a Christian,’ defended abortion during 2023 sermon - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWHgyWkhxaXBER3JsWm51V2FDSlNxMUpTeFk1Wmk0TWhIUE90UXJJbmJuYTJ4bVpVZXpLRVpPWDRwWE91YTlkSWpoc2ktY2o1MzRPY055a2lGWTlSX2JUaVI4UUg0Z1ROSGNvLThhNUt5bTdVMGVBV1NaVG41Ri1xVC10aTdrdXJ5aUdETFQzMGZqY3lRMGFwVGNJcmdaNmZfVFdJcmx0UW5hWXVzVGdSVTc0dGpXWXZoTEUxNnZoNThsU29q?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 09:30:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
       "weekKey": "2026-W34"
     }
   ],
