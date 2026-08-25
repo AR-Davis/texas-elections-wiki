@@ -1,9 +1,42 @@
 {
-  "analyzedAt": "2026-08-25T18:45:51.118Z",
-  "newsFetchedAt": "2026-08-25T17:57:40.525Z",
+  "analyzedAt": "2026-08-25T19:35:07.631Z",
+  "newsFetchedAt": "2026-08-25T18:50:53.100Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "James Talarico continues to edge out Ken Paxton in Texas’ U.S. Senate race, new poll finds - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPZmdXQ3dFWmFzSlZzUjRBajVTYTlxNnlKaHNxZXN1ZkM1d096dnVobXd4V3ZXb3JyYXlXTnlsdkFLUEg1UTE4dGVMVTFtSFVMVUYxZ2hyd1JjVlpsbGl4Y05pbWlFTDhNZC1PaFNfdDNoQ0ZkNjJ5MzZIOEtReFJnbkRZSVB0N3ZuMG1CaGQ0Rld3ckNwU0o1ZHNyTXBxRUxlN0F5dFYzc0JNSEtBYVRRVmphRXBuSEVWVUtvWTBIQXpPeEpzUlhsX2JiRU8yZGRvc3FNZnRlcHJWNGxKc01IQkNtXzVkalp3Q085YVlJWm1TR2l4WGVVb2cwa0tXUmdRU0UxRGMySlY5QdIBkgJBVV95cUxOLWNPRm9FT1hSWEVQSGNlaElVejV3YVp0UlVJYjRLaU5ucDFYNG85Y2lyc0pSVGNuUl93RnUwMkVBeGcxVWFLa1lLaEI2bTh5eXZKY09vazZYdGlzZFRYTWZHeElLSlozaFU1bU41S0pKTmhEWVRpM3ZRLTFtZDRuZ1Q3LTBvYnpLeG5veGwwM0pxek9DVnFONTZoUlNRa1VndGxsTE03aU9oSl9HS3hzczNSc3ljeXlKUXh1MXR3SHhlU3pEdUI0WUhlRzk0QVNnR2dCZlZLVGNpMjB5QVZWNGczdmU3a2VuUjZfeEJ1eGZxNzBfRUt1a2ZWMEp3NGRFUXdfc1pPOVhuQTNadEJXVEV3?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 18:21:55 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W34"
+    },
+    {
+      "title": "Ken Paxton Unveils Plan to Prevent ‘Negative Impact’ of AI Data Centers on Texas - breitbart.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVUlKQzJGX2E1djR3RVlTcE1XU0pfWWVQcHNwVWNQZmFvc25yaG5KUUJraGRFVkxULVY1aHRqWGZBYnlQcjVMNlV4ejdubHBfdXAtYUtTUGVUcWllZ2dRVmdVZkVmZ1hhM01NRGVmalFnc2hWaEpwbjBWRGVOTjdoQlB0cnhNM3VIR1dNUGdGdHFxV2o4VVBSOEo2LXFCZllKaHlqaFd4eU1BckJVLVVOOWhaMUx0bFBEUU1RdHNUTmMwMDDSAcMBQVVfeXFMTVVJSkMyRl9hNXY0d0VZU3BNV1NKX1llUHBzcFVjUGZhb3NucmhuSlFCa2hkRVZMVC1WNWh0alhmQWJ5UHI1TDZVeHo3bmxwX3VwLWFLU1BlVHFpZWdnUVZnVWZFZmdYYTNNTURlZmpRZ3NoVmhKcG4wVkRlTk43aEJQdHJ4TTN1SEdXTVBnRnRxcVdqOFVQUjhKNi1xQmZZSmh5amhXeHlNQXJCVS1VTjloWjFMdGxQRFFNUXRzVE5jMDAw?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 17:31:39 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Senate poll finds Texas Democrats more energized as Talarico leads Paxton - FOX 7 Austin",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWVVqa0puZ2tGeWVaWXYtdklsVGhpa0RxZmNZcmhIdDlvSlRQY3VJNzZaYjk4aHE4NVFZbDE4QTM0OE1vOW5zLVBxalAwZHFueXdOVkFMWUxnbVlnS2pfVllLa1I4bnk2ZWFTWGs2bFFKTV8wbnNObmZMc0JWNzRZbEdKRjcwakpVSG10SFBvTDFqSFJaX0tuZXBuaFlrVzFEMkUzZg?oc=5",
@@ -1518,39 +1551,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Attack ads revive questions of Ken Paxton's ethics that voters seem to have dismissed in the past - Spectrum News",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTFF0X3dWVDBhMEpiQ1dtOXduV2pmbnFpeXI5eXBzS1c0clZXaU1mM0xiTmdyYVhEeXlqSERadkR0X0FXOEM5cmJtTDFqWlJkU044eEViMTV6NmhXNUlSZFZOelZjZDAwSy1lM3d3RjB3UGNpNkxVQnp4V3hLaFVkeU1VM3dpRG1tY0J3cVFYSUFPUzdwaXhFcG9jeHFKXzBCeXNTRzZkUzJFMDhtMVJ0S3pCMVlIZ3JnNFRV?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 16:23:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Attack Ads Targeting Ken Paxton Resurface Ethical Questions in Texas Senate Race - Readers.id",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYb0RxbmE3XzItbF96OHJ0d2FVMHV6YUJ5ZEhxTHpKb1J1NFNhOXo5dW9ISEV3Mk1WNzJ2NjlGd2tfUlpIQWRCQ216VDVXaDZsZ1R0anlWRmtwVUJLSWpYaHZNcm0wMU4wSnlwOXZHTjNuc1VLMkM0SmdR?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 15:56:20 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
       "weekKey": "2026-W34"
     }
   ],
