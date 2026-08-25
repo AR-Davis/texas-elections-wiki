@@ -1,9 +1,26 @@
 {
-  "analyzedAt": "2026-08-25T10:37:14.851Z",
-  "newsFetchedAt": "2026-08-25T10:02:04.843Z",
+  "analyzedAt": "2026-08-25T11:32:17.679Z",
+  "newsFetchedAt": "2026-08-25T11:00:53.916Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "James Talarico calls out Ken Paxton for data center plan that social media platform tags as AI generated - San Antonio Current",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNamY0alJRZnZRN2x3SzdUZE56THFJNXYzaFl0cEpwVTRicGVtcE04Q0dkQnkxR0plZ2JzWkEtOGpYVl9OS1dZck8wVl84TlVBdV9QWV9SS09IMGJHRzRHYTFvclZLQ2FDTHc1dHpIWWhIVDcwaUNmd3ZKVnIxM05Gc1hZODIyNlZPVGRQR0poSzdSanBJQi1MbnpYOWU0alBYaDM1YlNFQzItM3RCZlRzdXhKa3VRRHRuWUxXLVBzY3NacHBKU0dRQUxiSXJSRzhxcG9ROUxLRHdzNTk4M1dEYTBTVnZyLXdZd0pNT0diTmY?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 21:40:30 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Talarico floods Texas airwaves in U.S. Senate race as Paxton, GOP stay quiet - HPPR",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeXNLT1hJbExtaVhFYk1lQUprOTJ0WV9vMjRNdjBBSHFTd1p5YW1mR3l4QWxCYzA4T3N4NGZrNmlVaHBzQWtVemdjbVZXUTdmdHJRWXQzQkdyNWgtVEJrM3ZfbjdFTzgxdVdBQjNrVkUwazBKX3hRejlqNmdLV2JQT01iMjBoUjVXaVNYc0dHNENtbTk3OEpRMGpLNnZEREhESXEtQ1haemRCM1REdHBsTzhRLW0zRms?oc=5",
@@ -1528,23 +1545,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "talarico",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Did Ken Paxton take someone’s $1,000 pen? James Talarico replays 2013 video in ad - Longview News-Journal",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaHRyYVFXX2M4VEp4aHZBUk9oaG83RUdyN3lmT0cwUEREaXRldnFGRlBqd1lFNm9qbGlPSmpqY29ITmlrdjlhbV9wYWZqT1JGTmtiM2NUQ0hLdHNVZ3RQSUhkN3paTzJCd0dGY2xjNzNPR0FLeTZWVk9kNk9lQ2ZJdUNNT01ubzFmanZrQXVDeV94bktWd2RPajV5VkRvdE83Y1V6VEdhOGoyQlJDS0VsRnFHUHA?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 10:49:49 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
       "weekKey": "2026-W33"
     }
   ],
