@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-08-25T19:35:07.631Z",
-  "newsFetchedAt": "2026-08-25T18:50:53.100Z",
+  "analyzedAt": "2026-08-25T19:58:12.745Z",
+  "newsFetchedAt": "2026-08-25T19:35:50.395Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Ken Paxton's 'Texas First' Data Center Plan for Grid Safety - Daily Signal",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWDhVNjFYRklIcW14RDdiS2hGRVNHVGE0UWxmdWNMZl9RcElCV1pGb0ZWd3d4S1Z4WVpnWE10dklURlhxWFhMZER1elYzekQyNnFEMk1iVFp0d0hMSHRwc2xpZUNxTDR3VnpoSDRnS1g4UWdlS2d4WGZFd0VZV05zWg?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 19:25:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "James Talarico continues to edge out Ken Paxton in Texas’ U.S. Senate race, new poll finds - Houston Public Media",
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPZmdXQ3dFWmFzSlZzUjRBajVTYTlxNnlKaHNxZXN1ZkM1d096dnVobXd4V3ZXb3JyYXlXTnlsdkFLUEg1UTE4dGVMVTFtSFVMVUYxZ2hyd1JjVlpsbGl4Y05pbWlFTDhNZC1PaFNfdDNoQ0ZkNjJ5MzZIOEtReFJnbkRZSVB0N3ZuMG1CaGQ0Rld3ckNwU0o1ZHNyTXBxRUxlN0F5dFYzc0JNSEtBYVRRVmphRXBuSEVWVUtvWTBIQXpPeEpzUlhsX2JiRU8yZGRvc3FNZnRlcHJWNGxKc01IQkNtXzVkalp3Q085YVlJWm1TR2l4WGVVb2cwa0tXUmdRU0UxRGMySlY5QdIBkgJBVV95cUxOLWNPRm9FT1hSWEVQSGNlaElVejV3YVp0UlVJYjRLaU5ucDFYNG85Y2lyc0pSVGNuUl93RnUwMkVBeGcxVWFLa1lLaEI2bTh5eXZKY09vazZYdGlzZFRYTWZHeElLSlozaFU1bU41S0pKTmhEWVRpM3ZRLTFtZDRuZ1Q3LTBvYnpLeG5veGwwM0pxek9DVnFONTZoUlNRa1VndGxsTE03aU9oSl9HS3hzczNSc3ljeXlKUXh1MXR3SHhlU3pEdUI0WUhlRzk0QVNnR2dCZlZLVGNpMjB5QVZWNGczdmU3a2VuUjZfeEJ1eGZxNzBfRUt1a2ZWMEp3NGRFUXdfc1pPOVhuQTNadEJXVEV3?oc=5",
@@ -1533,24 +1548,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "talarico",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Ken Paxton Faces Ethics Attacks from James Talarico in Senate Race - Readers.id",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsTFJVcE1BVW5KRHhSZ0txSEZaMjVjNUhWcDJKMmI3WXpvZ3lpWHZpVFFxRlNreFdZc0w4TUM2WmwxZlRESUk0aEFiNmJlSEN3LVM4RkRYd0JwYWZTd25TRy1TdV9aSU8wUUczdA?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 18:23:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 25,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
       "weekKey": "2026-W34"
     }
   ],
