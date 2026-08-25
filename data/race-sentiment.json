@@ -1,9 +1,26 @@
 {
-  "analyzedAt": "2026-08-25T11:32:17.679Z",
-  "newsFetchedAt": "2026-08-25T11:00:53.916Z",
+  "analyzedAt": "2026-08-25T11:57:12.594Z",
+  "newsFetchedAt": "2026-08-25T11:56:02.569Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "James Talarico leads Ken Paxton in new U.S. Senate poll - KXAN Austin",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ1A4V0pQRS0xNUZTUE1HODFDbno5YWMtX1ZWektHSnhHcDlWYzN2dmRpMUxMVXZoTmpLTGhYWUtDZUt0N2M1azlJWDRmVi1OM1Bhcmo4VkNVOXJVM2NjZUdaQW05YWllbW1VWVZObXhzLUsxZmNtT1ZGOFFNM2p1ZkVpa0_SAYoBQVVfeXFMT3pFdU1TYjRXV2tORGRnYklZY2I5X2syQzBEaVVZVHB4bEdnLUxJQnZsSzRJNkNLamNyUjAwQXl0S1BsMnFueGEyZzZZSGEwUVRrSGNKX3FxN3lKNVVDdlVadk5MbjFQQnAyaHVPRTNBZzN5TkFzTVlOZllJYzVlZmE3NDZpOEJaeEhB?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 11:30:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "James Talarico calls out Ken Paxton for data center plan that social media platform tags as AI generated - San Antonio Current",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNamY0alJRZnZRN2x3SzdUZE56THFJNXYzaFl0cEpwVTRicGVtcE04Q0dkQnkxR0plZ2JzWkEtOGpYVl9OS1dZck8wVl84TlVBdV9QWV9SS09IMGJHRzRHYTFvclZLQ2FDTHc1dHpIWWhIVDcwaUNmd3ZKVnIxM05Gc1hZODIyNlZPVGRQR0poSzdSanBJQi1MbnpYOWU0alBYaDM1YlNFQzItM3RCZlRzdXhKa3VRRHRuWUxXLVBzY3NacHBKU0dRQUxiSXJSRzhxcG9ROUxLRHdzNTk4M1dEYTBTVnZyLXdZd0pNT0diTmY?oc=5",
@@ -1531,21 +1548,6 @@
       "error": "HTTP 405",
       "candidate": "paxton",
       "weekKey": "2026-W34"
-    },
-    {
-      "title": "James Talarico Claims Black Americans Too Dumb to Get Voter ID - townhall.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSXhvSWt4bDMzZE9ER1BjZFdBMURSVzNEQkhLOG1mWEotUVFVQlY2QVBMSGhrZUgtMzh3cFNPTmJpa21XWVMzWHY4WGFCVmh2SDhRd09qZEEzX3Q2SjJnVkNCWl9sLVBpXzI5RFVDZmp4THpLaVBqZ0dscHoyeXJmNXN0eFlKNnVTWDZHVVdpN294TGQ0TmcwSC1iRjI2M0VmSWU3RnQ2RQ?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 18:45:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W33"
     }
   ],
   "weekly": {}
