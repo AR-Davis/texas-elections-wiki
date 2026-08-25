@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-08-25T07:48:56.684Z",
-  "newsFetchedAt": "2026-08-25T04:09:59.686Z",
+  "analyzedAt": "2026-08-25T09:39:52.542Z",
+  "newsFetchedAt": "2026-08-25T09:09:14.456Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Trump to headline RNC fundraiser in Houston aimed at boosting Ken Paxton’s Senate campaign - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOdFZHY1BLS2tCSGRnTk1CekVhQ3hyS3E5eGUzV0lBYTJSa2JubXp2aEhMUTNOTnFkYnJ2M0ZnRHhkNEZMUTB1bkFPVm5qdm0zamJtaXUxQlJuVDZkNmg5TDJ4VGlzLS1oLU9Ja1daTEV1YWw1a1hpd3RZZUV6ZWZwMHBEWWc4NUEwd2NkMzF6aHpadEtyU2Yzb0xDYjNnU1pyUWZPNTAxMGhhQm5TTXh2REsweVI0dy1nSTNCb2Z5R091Z19VS2hJd2hibG93Y3RZWndVVVY3R2RnZnlrR3UtaDMxMHdlcXNraTFmUFU2eEJXUXJDd2tMZXctOVl6RUduSkxDMzVsTEdjcWNi0gGUAkFVX3lxTFBYUl9IQUk1SjJQcGhXaDJJcFlnUkUwYjU4ZmZ2NFFnMnF2WTF3MWgtY21KTTcwOFlKam5HZjVmc3Y0dTVVZnNyVzM0MzFLODQxd2pLdnBWSF9qTHM4T0pLblEtRWFreXMxcjAwTnVBdmJ4ZFZ5a1R3WmpLYk1sYm1ZOS02VFBmVm5rbEExZGR3ZjVuUjhwTlcxc01wU3AxZFpVZUZGLXdJeHZ3UU13TnkzRV9nRGNEejluNEdiWUo1ZGJIaUhmQ1BfcGJQQjhUTkVraEpTRG9QQjRoeE95QzlrbWROajNMcWdmNXBaWFRVMDRvbUl3bGNWUjZ2V0djNkFreUxQaHJoaFAzTmhubzhtYzJkSg?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 21:05:32 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Ken Paxton unveils anti-data-center plan as GOP voter anger mounts in Texas - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcjZxS0hSZU51OU9obUxLVUtWdll2NE9sQVh4MEVGd1FralFnUVc3MXRKbEMzamRrN1N4Z3ktWFBSZUd0WnQyTUhsRUFNQ2VyMG8xVFR2QW5iaDFfMEZSQlRiQldFVWpDeGozNEp2Y0xXVThaVThPMm5DUkNiUUV5RjVxbHl4bVZicmVIeENscU4wTF8wcWpRNUhLd2M2TW9BaEhfLVZUMUtaRTRnQ3VfOTJraVgxN0lwYU9r?oc=5",
@@ -1530,22 +1545,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "paxton",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Texas US Senate race tightens as Talarico, Paxton vie for key voters - elpasotimes.com",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNTdyYlFMb1lZbS1OamNtZmNvLVpBR2dvSGh1N0tfb1NkUGRFaVFfVmNUcjJtOU5vaHVyLWRvX0VncUstVm85YVlzbTFrTVI5RlNHbDR4MUsya3Y3aVhNeE05UUdfcHFSLUtqUElyb2tzUXFCdXM1QlhPWFNaV0lzRFFHQ0loRWRUZ2JSblZrNFp3dGJrSlJqTEV0YzJBdERETVZWdXZoY0FZc3hsWDA5bFB2THZIRjJUa2s3NlhZTTF0Um5kYW1hbjFBRHFxNmNLdkR2cVlVUzVHSTlGTDF0UDE1NmFGZ3lXUG9F?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 12:32:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
       "weekKey": "2026-W33"
     }
   ],
