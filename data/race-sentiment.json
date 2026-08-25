@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-08-25T13:54:05.435Z",
-  "newsFetchedAt": "2026-08-25T11:56:02.569Z",
+  "analyzedAt": "2026-08-25T14:50:43.472Z",
+  "newsFetchedAt": "2026-08-25T14:21:02.520Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Paxton, Talarico lay out competing plans for Texas data center boom - kens5.com",
+      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPcEdWUGZZamNIZHRHZ2MwLUk4cUhhQjNsdS1keFVOcWhBQlpzNG8xRzRnYjFvNGZIOTlFX2NSNk9aTmtxbjBMakdRcU0wQXhQcWhRUkRad3daNE14MmcyNHhIVTctVVB4c0pCUnRrZXhtYk9IRExrRTdnSlpuckZicFJCejdQMmx5T0hMVTJfM1JQRTBqYXNiZjJmalhCcHNYc2h1RTljX0dTM1JxUXB5RXp2blpCMWNSaGdZRmRZd1JFY1duZUlOemxRR2xZb3ZHRG9hUWRiY2ZJYUdsZjdQWGJ5am50REdtUHczdUw5b05qWjIyV2RMb0cwR3JrSzVULWgtT2VOVzUweEx1NFlvcVk2T1k0eDkzbnZmYVBDQUlUOTVoeUNLaHZad2RaNVRZZmJCdDlaN2d3dEk4Wmc?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 11:13:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "James Talarico leads Ken Paxton in new U.S. Senate poll - KXAN Austin",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ1A4V0pQRS0xNUZTUE1HODFDbno5YWMtX1ZWektHSnhHcDlWYzN2dmRpMUxMVXZoTmpLTGhYWUtDZUt0N2M1azlJWDRmVi1OM1Bhcmo4VkNVOXJVM2NjZUdaQW05YWllbW1VWVZObXhzLUsxZmNtT1ZGOFFNM2p1ZkVpa0_SAYoBQVVfeXFMT3pFdU1TYjRXV2tORGRnYklZY2I5X2syQzBEaVVZVHB4bEdnLUxJQnZsSzRJNkNLamNyUjAwQXl0S1BsMnFueGEyZzZZSGEwUVRrSGNKX3FxN3lKNVVDdlVadk5MbjFQQnAyaHVPRTNBZzN5TkFzTVlOZllJYzVlZmE3NDZpOEJaeEhB?oc=5",
@@ -1528,21 +1543,6 @@
         "paxton",
         "ken paxton",
         "texas gop"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Ken Paxton and the Curious Case of the Missing $1,000 Pen - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uRXUtQWtQYVlVTzNLaHk1Y1pFSFQxZ1E5SEhhd3VEcnRhV0lzTTZpanp1dWpsZ052dFlKblZrMllwRS1rcFpCWUNWSC13SUJPR0l3NkFhQTZmNERaVXRQa1ptUjhaWkJTM2JrQW56bk80Yk1nMmc?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 09:04:05 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
       ],
       "sentiment": null,
       "error": "HTTP 405",
