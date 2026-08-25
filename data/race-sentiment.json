@@ -1,9 +1,26 @@
 {
-  "analyzedAt": "2026-08-25T21:32:40.523Z",
-  "newsFetchedAt": "2026-08-25T19:35:50.395Z",
+  "analyzedAt": "2026-08-25T21:55:04.569Z",
+  "newsFetchedAt": "2026-08-25T21:33:53.738Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "James Talarico leads Ken Paxton in new U.S. Senate poll - KXAN Austin",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPekV1TVNiNFdXa05EZGdiSVljYjlfazJDMERpVVlUcHhsR2ctTElCdmxLNEk2Q0tqY3JSMDBBeXRLUGwycW54YTJnNllIYTBRVGtIY0pfcXE3eUo1VUN2VVp2TkxuMVBCcDJodU9FM0FnM3lOQXNNWU5mWUljNWVmYTc0Nmk4Qlp4SEHSAYoBQVVfeXFMT3pFdU1TYjRXV2tORGRnYklZY2I5X2syQzBEaVVZVHB4bEdnLUxJQnZsSzRJNkNLamNyUjAwQXl0S1BsMnFueGEyZzZZSGEwUVRrSGNKX3FxN3lKNVVDdlVadk5MbjFQQnAyaHVPRTNBZzN5TkFzTVlOZllJYzVlZmE3NDZpOEJaeEhB?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 06:30:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Ken Paxton's 'Texas First' Data Center Plan for Grid Safety - Daily Signal",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWDhVNjFYRklIcW14RDdiS2hGRVNHVGE0UWxmdWNMZl9RcElCV1pGb0ZWd3d4S1Z4WVpnWE10dklURlhxWFhMZER1elYzekQyNnFEMk1iVFp0d0hMSHRwc2xpZUNxTDR3VnpoSDRnS1g4UWdlS2d4WGZFd0VZV05zWg?oc=5",
@@ -1528,22 +1545,6 @@
       "matchedKeywords": [
         "talarico",
         "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Talarico adds Cornyn aide, broadens Texas US Senate race appeal - El Paso Times",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVWxYNks0dDFGU0JjeWI2d0hGVFdTV0IwZ01hRENUVWtnS2lSQ013ZWhwMmUtbWt3R29NMGc1aTVmQVJfNjdXMWZJN0Zabk1wak5kNDFkNjZYMk0yeF9nczR6UDZQSERFLWZmSnBzM0ZiME5NNWhhQ2VvdEhUWGZHRHpXZURpa28xcWdIM2UwbWl6V25wbjMtb09Vb25mS21WTFVoWkRKZk5CaHhvVzJ3TFlMbmRRT2MwV3RJZjlWMHgyWVh1OGpnU3o0aHd3NENWQlVmM1NBQ2JRN0lEVVVTbXlB?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 14:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "talarico",
-        "senate race",
-        "cornyn"
       ],
       "sentiment": null,
       "error": "HTTP 405",
