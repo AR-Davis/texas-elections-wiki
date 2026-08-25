@@ -1,9 +1,41 @@
 {
-  "analyzedAt": "2026-08-25T14:50:43.472Z",
-  "newsFetchedAt": "2026-08-25T14:21:02.520Z",
+  "analyzedAt": "2026-08-25T15:47:43.052Z",
+  "newsFetchedAt": "2026-08-25T15:23:05.489Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Ted Cruz Calls Texas Senate Race a $200 Million 'Real Fight' but Predicts GOP Victory - Latin Times",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNekFEUXJCMUJUb3NGRGRjLTNLZHdWSzktaUVmTkM2V2hBdjladjBWaXFIR05iLTY2Z2pMSHZDbFpfdkQxVW5KalNPaDYxYVFEbXI3Rk9BMGlqVU9feTc2YXQtamxtdDlPWlpnSkctd2RBS0g3OFdiWGVaVllFamh0OTRvMzdNc2JhRnN4YlBTYU0xTk9fZ1hkNlBQM3lMRk9sZ3ZuWmF4SjRoVWU5QThZ?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 14:52:44 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "general",
+      "weekKey": "2026-W34"
+    },
+    {
+      "title": "Paxton unveils data center plan; Talarico attacks in Texas US Senate race - El Paso Times",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQkFkSW1oeEVvUFZwOUItc21pZ1FTNnhCUDBsZ0UyZS1SSnYyVFRlZ3RtdlB0ZU1PV2ZsUDV2ZDJxWGJmckRsYnFVYkZBSE92VUsyS284LVVsT1VPVzBuZi02b3dKN0NzUVF3SEdQV2t2a1otSWFpZ2Zfck5Ua2U2RmlIcU5icWdvQl9PeUxnTFFESjJ1cTVYbzdsOVM3MWxaaDdzdHdMNWZFVUJlOEIxekw4SDUzUkJ4bjFpZlJCR3JtXy0tYkh1Z3l1SXFEc2dYMk1BS2lLdXk4Rkp1U1FGSkl6T0ZwbWx2b1lwYVhTSDF5ajRp?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 14:25:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Paxton, Talarico lay out competing plans for Texas data center boom - kens5.com",
       "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPcEdWUGZZamNIZHRHZ2MwLUk4cUhhQjNsdS1keFVOcWhBQlpzNG8xRzRnYjFvNGZIOTlFX2NSNk9aTmtxbjBMakdRcU0wQXhQcWhRUkRad3daNE14MmcyNHhIVTctVVB4c0pCUnRrZXhtYk9IRExrRTdnSlpuckZicFJCejdQMmx5T0hMVTJfM1JQRTBqYXNiZjJmalhCcHNYc2h1RTljX0dTM1JxUXB5RXp2blpCMWNSaGdZRmRZd1JFY1duZUlOemxRR2xZb3ZHRG9hUWRiY2ZJYUdsZjdQWGJ5am50REdtUHczdUw5b05qWjIyV2RMb0cwR3JrSzVULWgtT2VOVzUweEx1NFlvcVk2T1k0eDkzbnZmYVBDQUlUOTVoeUNLaHZad2RaNVRZZmJCdDlaN2d3dEk4Wmc?oc=5",
@@ -1515,38 +1547,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "talarico",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Why Democrats think the 2026 Texas Senate race will be different than 2018 - Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVDEzZ3dWM2RLbUNXaFktTU1XVHR4NTV6N0l4UVpZeVlBTWZxMTJsbFFSdXUtS0dWdWVzZmxvMDVmZzlVWk4xdWdpUzFKSzkwcFdmMEwzZ1RBX1BtZXJNVmVleTJBYjJYWm53LVRaTWlialZPcktJUzhBSmd3aVdObjBYTU9EYVRXNWg0NldaNTVEYWtRN29oczVB?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 09:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Texas GOP Senate candidate Ken Paxton works to overcome fundraising woes - Good Morning America",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTExQN1YycWxOT0hRUkxRMGZDWFYzd0ZKQzFkQU81cTdzeHpQMmwtRk5OZmF6MVJoVDI2MTAwV2s5LXpQbnRfVnFPRUxOaXJ3eHpKZGQ5TEkwMHdMWTl1QzB0UHlKeUM3c29qWmZRNlc5bGZONjF0bEpYQkhLZzQ3YW84QThINVlRMlZUXzRjU21MbFZWTXVvVEZDdGdYOVhlWWFQYnpRQk5GMmFfWUVFUjRR0gGyAUFVX3lxTE9MTFA3VjJxbE5PSFFSTFEwZkNYVjN3RkpDMWRBTzVxN3N4elAybC1GTk5mYXoxUmhUMjYxMDBXazktelBudF9WcU9FTE5pcnd4ekpkZDlMSTAwd0xZOXVDMHRQeUp5Qzdzb2paZlE2VzlsZk42MXRsSlhCSEtnNDdhbzhBOEg1WVEyVlRfNGNTbUxsVlZNdW9URkN0Z1g5WGVZYVBielFCTkYyYV9ZRUVSNFE?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 07:25:06 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "texas gop"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
       "weekKey": "2026-W34"
     }
   ],
