@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-25T16:09:11.447Z",
+  "fetchedAt": "2026-08-25T17:06:12.587Z",
   "count": 22,
   "feedsChecked": 8,
-  "itemsScanned": 83,
+  "itemsScanned": 84,
   "items": [
     {
       "title": "James Talarico leads Ken Paxton in Texas Senate race polls - Crypto Briefing",
@@ -15,6 +15,20 @@
         "james talarico",
         "paxton",
         "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ]
+    },
+    {
+      "title": "Dems Worry James Talarico Lacks Support From Black Voters to Win Texas Senate Race - Daily Signal",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTZmRMbEVOdUFEWl9VNVBlRzBwYkFGdzBmYXdza1ZscFY0MjhiQWhRSGVweDMwLXFpVUJRLXJ6eFlsU2d3Z2NXQXlsdlJ3cjBuaFd1SnZObVpNcDVRU3VWUTVRTHk3SFpnSFFiajJOS2hwYmVveF9ISy1pa0E?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 22:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
         "texas senate",
         "senate race",
         "texas senate race"
@@ -257,17 +271,6 @@
       "matchedKeywords": [
         "talarico",
         "james talarico"
-      ]
-    },
-    {
-      "title": "Can counties stop data centers? Ken Paxton won’t say. - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcWxoVC1WVGxRemg3X2kybWw0Szg5a2R6VHpMTGQya3JLSThoMmMwbEdnS2NmVnBGdnR4czMtM3ZTTGVRMHRpSUtOX2RiQnBycmIxVG9McWpCUHh2eENXREtZUmtFYlpvaURzNElDaTFWbk1iZm9LQjBST3VJQ1lGRHk0SVdyQ0xlSGEyVnNmdDQ1X0dzLWo4?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 17:03:34 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
       ]
     }
   ]
