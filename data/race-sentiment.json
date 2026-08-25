@@ -1,9 +1,25 @@
 {
-  "analyzedAt": "2026-08-25T01:34:19.206Z",
-  "newsFetchedAt": "2026-08-24T23:26:30.327Z",
+  "analyzedAt": "2026-08-25T02:43:05.255Z",
+  "newsFetchedAt": "2026-08-25T01:37:53.920Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Ted Cruz Projects $200 Million Cost for Texas Senate Race - Readers.id",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84R2dMZ05hTTRKbS15cnE5UkJsRUl3OVl4RTZVdEd0MjVLZVlxV2xBSnNLcjJYeUJqVl93UlpwbGV0VE94bnpiQmpKZGxHTGNsTXJmbjdUNmdUU2p3UnMxTnln?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 19:58:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "general",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Ted Cruz says Texas Senate race will be a \"$200 million\" fight - CBS News",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUllYREFtMHEtamJMeWp4RXVUeGxrS0hZTlBxZ0l6aHpZUzYxcldGU1B4Smkxd19EQ25MN0VQd00zOHNXcXJwRjQ1MFRBT2hqMlFJWUZTWWVDck00ZlZaaEZtV1VFUVhmOGV0cnJJaElJY3NJWEF0Y1hEUXlYRDdxV3RadUN6WXo1aGFWM1Bub3lRd21EZGNV?oc=5",
@@ -1527,26 +1543,6 @@
         "talarico",
         "paxton",
         "texas senate"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Texas Democratic Senate Candidate James Talarico has crossed the aisle for a campaign hire, bringing on a former aide to outgoing Republican Sen. John Cornyn ahead of his November showdown with Republican Ken Paxton. - facebook.com",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNd1dqUGNzNjFISjMtcUYwWHc5UER4ZThHVDNPbUZsNEpVTzZOa2Y0NFdRc3ZtRk1WS0ROUXZyTVBiSUdfaU1oeU51eXpUWTNmQ1p0d3ZYd1BMbExsN2ZXT2VOVjBpc3FrNjlHZXFCZXVwTzA5aF82aTc4TFEwZXhYYXRDMW5rUlFEXzg2TV9YQmJsLVNObHp2WHNqU0JlQVI3SHg4LXpPb1FPMzJpQURUTWZSTDZndk5TQWFuRk1nVktvMkxGbTI0ajE3Nks1TExsNUJlb1lhdFRxRFcza2Z4TG1R?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 02:00:14 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 35,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "cornyn",
-        "john cornyn",
-        "texas democrat"
       ],
       "sentiment": null,
       "error": "HTTP 405",
