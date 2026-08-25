@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-08-25T03:51:55.383Z",
-  "newsFetchedAt": "2026-08-25T01:37:53.920Z",
+  "analyzedAt": "2026-08-25T04:43:01.266Z",
+  "newsFetchedAt": "2026-08-25T04:09:59.686Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Ken Paxton unveils anti-data-center plan as GOP voter anger mounts in Texas - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcjZxS0hSZU51OU9obUxLVUtWdll2NE9sQVh4MEVGd1FralFnUVc3MXRKbEMzamRrN1N4Z3ktWFBSZUd0WnQyTUhsRUFNQ2VyMG8xVFR2QW5iaDFfMEZSQlRiQldFVWpDeGozNEp2Y0xXVThaVThPMm5DUkNiUUV5RjVxbHl4bVZicmVIeENscU4wTF8wcWpRNUhLd2M2TW9BaEhfLVZUMUtaRTRnQ3VfOTJraVgxN0lwYU9r?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 04:00:06 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Ted Cruz Projects $200 Million Cost for Texas Senate Race - Readers.id",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84R2dMZ05hTTRKbS15cnE5UkJsRUl3OVl4RTZVdEd0MjVLZVlxV2xBSnNLcjJYeUJqVl93UlpwbGV0VE94bnpiQmpKZGxHTGNsTXJmbjdUNmdUU2p3UnMxTnln?oc=5",
@@ -1527,22 +1542,6 @@
         "talarico",
         "paxton",
         "senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Texas Senate 2026 Odds: The Model Verdict On Paxton Vs Talarico - OddsShopper",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOW5DcmJFOGFYaGdTV3BCVTByaEtSQVpkVXJrd180b1FFWlNFRW1HWWkwcXJyVFpPbW5IYWZRX25QVXhfRzB1Vko3WnNWNDdOeDVhM3BRX1IzVnNieXVWTUEyZTcydFRpdVpTazl6OEpnSnhKSHFQVDBWczJlVFFfOTFJMS05ZTRwN05JclZVdGtfN3lrR080?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 09:07:58 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate"
       ],
       "sentiment": null,
       "error": "HTTP 405",
