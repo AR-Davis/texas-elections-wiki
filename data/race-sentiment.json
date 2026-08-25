@@ -1,9 +1,25 @@
 {
-  "analyzedAt": "2026-08-25T09:39:52.542Z",
-  "newsFetchedAt": "2026-08-25T09:09:14.456Z",
+  "analyzedAt": "2026-08-25T10:37:14.851Z",
+  "newsFetchedAt": "2026-08-25T10:02:04.843Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Talarico floods Texas airwaves in U.S. Senate race as Paxton, GOP stay quiet - HPPR",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeXNLT1hJbExtaVhFYk1lQUprOTJ0WV9vMjRNdjBBSHFTd1p5YW1mR3l4QWxCYzA4T3N4NGZrNmlVaHBzQWtVemdjbVZXUTdmdHJRWXQzQkdyNWgtVEJrM3ZfbjdFTzgxdVdBQjNrVkUwazBKX3hRejlqNmdLV2JQT01iMjBoUjVXaVNYc0dHNENtbTk3OEpRMGpLNnZEREhESXEtQ1haemRCM1REdHBsTzhRLW0zRms?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 12:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Trump to headline RNC fundraiser in Houston aimed at boosting Ken Paxton’s Senate campaign - Houston Public Media",
       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOdFZHY1BLS2tCSGRnTk1CekVhQ3hyS3E5eGUzV0lBYTJSa2JubXp2aEhMUTNOTnFkYnJ2M0ZnRHhkNEZMUTB1bkFPVm5qdm0zamJtaXUxQlJuVDZkNmg5TDJ4VGlzLS1oLU9Ja1daTEV1YWw1a1hpd3RZZUV6ZWZwMHBEWWc4NUEwd2NkMzF6aHpadEtyU2Yzb0xDYjNnU1pyUWZPNTAxMGhhQm5TTXh2REsweVI0dy1nSTNCb2Z5R091Z19VS2hJd2hibG93Y3RZWndVVVY3R2RnZnlrR3UtaDMxMHdlcXNraTFmUFU2eEJXUXJDd2tMZXctOVl6RUduSkxDMzVsTEdjcWNi0gGUAkFVX3lxTFBYUl9IQUk1SjJQcGhXaDJJcFlnUkUwYjU4ZmZ2NFFnMnF2WTF3MWgtY21KTTcwOFlKam5HZjVmc3Y0dTVVZnNyVzM0MzFLODQxd2pLdnBWSF9qTHM4T0pLblEtRWFreXMxcjAwTnVBdmJ4ZFZ5a1R3WmpLYk1sYm1ZOS02VFBmVm5rbEExZGR3ZjVuUjhwTlcxc01wU3AxZFpVZUZGLXdJeHZ3UU13TnkzRV9nRGNEejluNEdiWUo1ZGJIaUhmQ1BfcGJQQjhUTkVraEpTRG9QQjRoeE95QzlrbWROajNMcWdmNXBaWFRVMDRvbUl3bGNWUjZ2V0djNkFreUxQaHJoaFAzTmhubzhtYzJkSg?oc=5",
@@ -1529,22 +1545,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Texas GOP Senate candidate Ken Paxton works to overcome fundraising woes, with President Trump's help - abcnews.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMmdWTmVmZlJmQk12aXJZSlNaa2c0MHJic2F2ZHZxODdtN0tNOUdVcGYtVnZBX3J6Z3RMWGZKQmZSNjVpbkZ0TXR0aTJQM05Ia1dEQlRaY2NZTTVXS3g4ckJvdnMyWXIyRzRleUJkdGVzRjZodnRVWG5tX0Jvbk5zUmQ1bFBfWmhSZmRRd3M1R1N3LXo0U1pOSHJieEFGVVpVdlHSAacBQVVfeXFMUFVCVjdaWlpjQlktRzNLZGhCV2wtZlZmRldlZVhlT2NOc3A2RXk4OHNkN3kwdl85ZnBfaTcxMHNYZ0dvUnNZMUdIbHpXcnpQZXN4bmltUndYQWF1clBBTE42WHZFXzdpRHdBcUtxSHVielFaWFNQUVIycHpLRGxFUU1LbHBVUURVaEdza1FicXN6dVpwMDh2NHd3TTFwUGhLVjVxSmh4cjA?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 16:07:30 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "texas gop"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
       "weekKey": "2026-W33"
     }
   ],
