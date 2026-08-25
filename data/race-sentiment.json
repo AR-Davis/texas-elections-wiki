@@ -1,9 +1,57 @@
 {
-  "analyzedAt": "2026-08-25T17:35:06.368Z",
-  "newsFetchedAt": "2026-08-25T16:09:11.447Z",
+  "analyzedAt": "2026-08-25T18:00:26.705Z",
+  "newsFetchedAt": "2026-08-25T17:57:40.525Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Senate poll finds Texas Democrats more energized as Talarico leads Paxton - FOX 7 Austin",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWVVqa0puZ2tGeWVaWXYtdklsVGhpa0RxZmNZcmhIdDlvSlRQY3VJNzZaYjk4aHE4NVFZbDE4QTM0OE1vOW5zLVBxalAwZHFueXdOVkFMWUxnbVlnS2pfVllLa1I4bnk2ZWFTWGs2bFFKTV8wbnNObmZMc0JWNzRZbEdKRjcwakpVSG10SFBvTDFqSFJaX0tuZXBuaFlrVzFEMkUzZg?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 17:36:15 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 18,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas democrat",
+        "texas democrats"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W34"
+    },
+    {
+      "title": "2026 Midterm Senate Races: Talarico Ahead Of Paxton In New Texas Poll - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOVNQUGlOQ0g5a2lsRTdiYk9DZmp0aU04SlNhY2VXZmJ4MkNET05CSFhrUlc2M1hCQ21iWTd0OGR2cUZLWUN0MkxzUFN0dWRValpEV3BXMl9zOFNvNjg3a3ZyNlRSSjg0QWp2RnhDSTFzaHpvdmYtek9FRGlNVTFOQk1Uc0JMR0xoUFpQTlBsMHctUE0wQmp2WjlmWVhHSnRNSVhjbXp2d3JjWVJEX1RiTmduZ1FxM1BDVUVoWlllSmk?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 17:28:01 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W34"
+    },
+    {
+      "title": "Trump-backed Ken Paxton unveils ‘Texas first’ datacenter plan aimed at ‘negative impact’ - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeW05NmZqdUFnMHJTb01DU0d2enRBMUdFWVQyTi11bjBpY25YbC1abjhLVm45dmRlRUQxOWo4d2tPOXZ0Y3Q2Um5DcG5lYmNRN0l2Y1pJNUlEOWJxaFIyU2tKb2ozbDFKUWRNdmRRMXFvelFlUEc0TmNJSVNJdHZIdXpTNHJxUlo0?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 17:54:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Paxton and Talarico dead even in Texas Senate race odds - Kalshi News",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObi1qcUVQcnQ4ODE0Xy1jSjh6UWtGeXZsWmNxN1pOWU5ZczN4czFzYldaZDVGQlV2TTNrODdRRmY5SkdIM2dBSDA5V0FFeWlmZmZsaU1uU01RYjYzNzZuZGpyTFpFTzFteEdWSE1uSXY4SFhkNFl3RXl4dkpwTTFTR3ln?oc=5",
@@ -1503,54 +1551,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "paxton",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Trump to headline Republican National Committee fundraiser in Houston for Ken Paxton - MS NOW",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVjhvVFNYMmVieWJFajBPLTY1UEI0ZFFJcTNlRGZRUG1LdjhGVnViM0t0d1dJVkpIcXM3VVZQeXduUVN4UkxydnZOdWVUSWVLejN2NlM2V3dTNDBkbklTRGNDVFBoMWJiS2RYM2RFNktnel9PWE1nZWlud2tKODBLNGdPanJ3TVhkNkNETnZaTWN6NlBoTktrRGZKNXJNeHBqZnBsMjBaSjRxQ0JR?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 20:00:06 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W33"
-    },
-    {
-      "title": "Stolen $1,000 Pen Haunts Texas Attorney General Ken Paxton in Senate Race - streamlinefeed.co.ke",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUmNSdzZtaHVtNDhveEd0clBsMmUtOWc5Wnlacm90M0cwMFZqMTdPT3RnT0tpanJNQVNEbFVFS3AtbWhSMHFMU0JHRHdyRWtaNlhULWxiY2l1dXRVVWZ0R2dMRkstT0ljZ3hYX3pGazVYSFRRY1lSVXQ1bW80bTkzNGdlTVJHM2xEUmZNeHNxNXF6VDZRdU40QW9B?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 10:35:48 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "senate race",
-        "attorney general"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Talarico floods Texas airwaves in U.S. Senate race as Paxton, GOP stay quiet - The Texas Tribune",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSjVoaS14VnlyRzRIc2xqY3NvRG8tV1RjcGRvZUM5VFdHcTRFbmkwUmgyWnhFUURLRU5YMlFsNUxHZHFuZkM1QmIwcE85d19LMHU4NC0yQWZ0OFlGT0FBZWR5X1hRTUNzOTdkbE84RzhqTkVucGZWVm9wM09WTF9aWlpLbU44WFV6RHBvRXdEbl9zaGpjeGhLMlN3?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 10:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
       "weekKey": "2026-W34"
     }
   ],
