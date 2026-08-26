@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-08-26T11:33:48.213Z",
-  "newsFetchedAt": "2026-08-26T11:02:59.461Z",
+  "analyzedAt": "2026-08-26T11:59:11.422Z",
+  "newsFetchedAt": "2026-08-26T11:57:33.202Z",
   "totalAnalyzed": 100,
-  "newThisRun": 5,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Talarico wants to unearth Paxton's depositions to keep focus on opponent's past in Texas Senate race - ClickOnDetroit | WDIV Local 4",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNd2NBMGRjbWtIRUlSNkhnQ24zcmxrbFBrdXdRVjB2YWNHY3VSSWdzUlNiM0dSd29hbzR6RGtpUWJDT1kyUDFtTzhZM21xSl80MU80TmlyRUJxcGNHMUNrQ0ZPXzBBejRjWFVNVHdCLTFqd29yZExDRVpoNnJhOUcwckpVVTFWeU5sdEVfUnlvdWZRbTIwb0p1MW9BOEtXcW4zY0FmdUk3N3VNbGpES0NqMnowZWJMODRLWndDUC1rc2IyRUlIUjFuZklKTk1vLTJQSFJUS0tTTzVERHJKMDNWYzlVRU9DbHJFbE5UTDAzWm5PcVVNU3ozX09xaHQ?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 10:01:59 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Talarico wants to unearth Paxton's depositions to keep focus on opponent's past in Texas Senate race - Houston Chronicle",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN2N6eDREU3BzamZWRDROOHpIOFFKT1N3cVFySWdjZmFQMkFlVVliTVQydENBWGFXM0xUZUxnX2xRVUpmNnhrbHVBbHVsWmlKbW5iam1GUXRDVWg1aU1ITVRiNUVVZFd1Q3JINmpWV0JQb2tOS1hJY1FaMTlTUjFOMi1SRllQVFA2Q1VzZVRoUEFUc3N6LWJSV0dvajlGbFlhRF9tRlJTQ3c0U1lMeEZvRGx0eXZuNXVC?oc=5",
@@ -1548,21 +1566,6 @@
       "raceScore": 6,
       "matchedKeywords": [
         "paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "A wakeup call for Texas GOP: Trump jumps in to help Paxton — if he can | Opinion - Fort Worth Star-Telegram",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JVlpsdlhRVm1VSXZNalc5ZWs4YV95NjdZejR6OW5wQjB5b2lseFlkVG45SGRaQVVlVjRVX0JQN2xvc21INzFaRlNNTFIzaGdwNzRzM2tNYnF2cmUwdDhNdWowUzJHUnlJYzh4eVRrRVl3OHpPblAzY0Rmcw?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 14:59:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 10,
-      "matchedKeywords": [
-        "paxton",
-        "texas gop"
       ],
       "sentiment": null,
       "error": "HTTP 405",
