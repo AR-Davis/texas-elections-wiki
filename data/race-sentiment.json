@@ -1,9 +1,26 @@
 {
-  "analyzedAt": "2026-08-26T04:10:36.427Z",
-  "newsFetchedAt": "2026-08-26T01:42:23.928Z",
+  "analyzedAt": "2026-08-26T05:06:21.795Z",
+  "newsFetchedAt": "2026-08-26T04:11:21.054Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "James Talarico leads Ken Paxton in new US Senate poll - NEWS10 ABC",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU2VGYllSUUM3cWROZXA1RzJFLWU0cXcxeXpwLTI3TWxpUFBTNDdUWHh6N3VCdXhtOXhyM1lPdnZyajg2Tm1fMzhjVUNrdlhaWUNUM3VPUWRWRWxuRTI0UG83UjdGU21JbGdpV0xzMkdZVExrTXJqNmU3NHZ5RjZOMG9QTmZNVC1JUU42cW1jZm1sSmJlakRQcVhFMNIBmwFBVV95cUxQU2VGYllSUUM3cWROZXA1RzJFLWU0cXcxeXpwLTI3TWxpUFBTNDdUWHh6N3VCdXhtOXhyM1lPdnZyajg2Tm1fMzhjVUNrdlhaWUNUM3VPUWRWRWxuRTI0UG83UjdGU21JbGdpV0xzMkdZVExrTXJqNmU3NHZ5RjZOMG9QTmZNVC1JUU42cW1jZm1sSmJlakRQcVhFMA?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 19:20:58 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "James Talarico leads Ken Paxton in new US Senate poll - WAVY.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLW1aWTlwZXk5ZHZndWhQa25hUmR4VnVzQk10VWpVRzRCRS1mTkptV3c0S2pCbk9teUk5V013Z1dlNHEwLWRVZDk4YmM2WmNUOGJXMDJ4ZHNhOTZudWVRTkJIUTExM0Q1dVFHN1Q3XzY3NFNRUk9qTTJUcXJDZkZYYmI5VFlFbU5nNHZDUEFXQzlUcHpOVmlCT9IBmAFBVV95cUxOLW1aWTlwZXk5ZHZndWhQa25hUmR4VnVzQk10VWpVRzRCRS1mTkptV3c0S2pCbk9teUk5V013Z1dlNHEwLWRVZDk4YmM2WmNUOGJXMDJ4ZHNhOTZudWVRTkJIUTExM0Q1dVFHN1Q3XzY3NFNRUk9qTTJUcXJDZkZYYmI5VFlFbU5nNHZDUEFXQzlUcHpOVmlCTw?oc=5",
@@ -1536,21 +1553,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "paxton",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Polls: Talarico Pulls Ahead of Paxton in Texas; GOP Chances in November Bleak - thenewamerican.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa3cycGR3OVIwbE9MZGw1Xzg4NFNiaUpwZHJyWThZV2g0RWVpZUQ0UTl5SGo2Q1FkSTkycjVVanotSEFOaEw0NGlrTDFrejdEWjJRQnc1dS11M2VENHJPQ1ljMmlBWGVtSlM0R2dEcjdJTlMxVTJCeG00a3NIb05zU2swMWlGNVBKQWxTZjdkUG04djNyazZsVW9iZUJxdmxiZnQ0YlJMTnFvRTBDcnE2MmprYTlJZw?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 20:35:51 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
       "weekKey": "2026-W34"
     }
   ],
