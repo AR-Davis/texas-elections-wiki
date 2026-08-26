@@ -1,9 +1,45 @@
 {
-  "analyzedAt": "2026-08-26T14:49:09.712Z",
-  "newsFetchedAt": "2026-08-26T14:19:34.738Z",
+  "analyzedAt": "2026-08-26T16:21:15.386Z",
+  "newsFetchedAt": "2026-08-26T16:01:33.271Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "In Texas Senate race, Talarico seeks depositions that could damage Paxton - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTHZmWDY5bnJXNzVqZUM1dzgyMkhXclRaVFF4djdDLTM4ZmJXdGliT2pfWi1Xa3pDMWFRNWhyUGluaTZpVEJnbGRrWnZCV1g3OUxOM2FjaVN5TGFhWG5iRUxZTUhrSWU3SkdFd3ZZZGhISFMwQVh6MGM1S3FiZUM4V1pWUDBic08tVjI5S1owUVhXOHpIblFLeGZLOE9OcDR5bjJya09sX2lxVndIeXJ6QkREdkU4ZDNGLXdic1B3?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 14:41:01 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W34"
+    },
+    {
+      "title": "Talarico wants to unearth Paxton's depositions to keep focus on opponent's past in Texas Senate race - AP News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM3BZU040djZFck1tUndTNDUyXzIxdjc5V29zOHlFdzlRSzh3WlNfZWdUT2J4Y1JTUThtZkFfMU9TeWxYaVAyN19NajFPZDBLZFFhZ2tDNkl0cjNEazBwb3JZRVZtb1BWX01nN3JKMW1HVTJMN28wMUlUYUlxQlp3RThXSUpRaVR3LXhCNHZtbUljR3lEekxJVVJJbS1XOUZ0cFU2Ry1DazVTVUZvRmtBeDBiS3JFdw?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 10:01:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Talarico, Paxton face tighter Texas US Senate race, new analysis shows - El Paso Times",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPS2xBbndQcEFvNFEtdGlQa3dWek43VUpWU01OWWlYUTM1bVJiYXZYWjhMR25zOVRmTGVhbnlVa09RUHpoNFBzQUo0N1pXaFc3OEFBS29GRXJydmdiSDhNTlVsd202SDMtYzh1UmE2Ym80TW1VcVZZVk1sTUp3SmoxZjlnaGJTekVZay02TmlHRW1yMXNPOUV3NVprcEpsbUE5NGwtZ183RGlvS2tQNzQ2NDg4UnJQSDhYTk4zQ3JwVVE2YzhhS09RREtyMkwyNWN5b1BaUElrYm9qX3JuZk1VSHlSOVZVUXM4YkRZZmtmMldtejBk?oc=5",
@@ -1548,35 +1584,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Cruz-affiliated group spends nearly $2M on major ad buy to help Ken Paxton's U.S. Senate bid - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU19aUDFuN2NQVjd0aTR1bGZSSUROR1dGdVdZOTROUlJUWnFyY2I2a3Q0TnVhU1JlV1RwM3AtaGFmMUhhVVc3SC1lNlZZWHBIaFJmdURYaUs5NUFJak9aSkxfa05ZQ2tBeEhqWTBwZ19idWlmY3QzdDhlZHNHUzlRUHoyZTBqQk9xQ1hmTHhfUmlvUQ?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 21:10:53 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Texas AG Paxton says he has concerns about treatment of Sophie Cunningham supporters - KGAN",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaXNUb1RzaHdlYnh0eThwdUpwUEl3ZGk3YzdsTE0yYk9RQ2VuQ2VJTHRXSVBUaTRRZHVRMzBjbC1OdXlhaXNoZVNBTWVuS3dGZkdydUZLSExOUXVmT1JoMHFKei1BVGNVTDl5bWQ0djdNdFpoZmRqbV9RQmFKT1FSY093eEs0ZjJnaTNFTlVWSjNRWUFKT08tLV8tWjc5cThIMUdXa0twaDktMEZZczFja1psWnJxV0x4bUVjS0lMVWlVZ3JTS3o5LTVnM2VtOEVxN3V0bV9oQ3k?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 17:27:44 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
       "weekKey": "2026-W34"
     }
   ],
