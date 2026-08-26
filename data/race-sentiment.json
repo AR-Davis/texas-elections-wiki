@@ -1,9 +1,26 @@
 {
-  "analyzedAt": "2026-08-26T01:38:35.604Z",
-  "newsFetchedAt": "2026-08-25T22:32:58.805Z",
+  "analyzedAt": "2026-08-26T03:09:49.075Z",
+  "newsFetchedAt": "2026-08-26T01:42:23.928Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "James Talarico leads Ken Paxton in new US Senate poll - WAVY.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLW1aWTlwZXk5ZHZndWhQa25hUmR4VnVzQk10VWpVRzRCRS1mTkptV3c0S2pCbk9teUk5V013Z1dlNHEwLWRVZDk4YmM2WmNUOGJXMDJ4ZHNhOTZudWVRTkJIUTExM0Q1dVFHN1Q3XzY3NFNRUk9qTTJUcXJDZkZYYmI5VFlFbU5nNHZDUEFXQzlUcHpOVmlCT9IBmAFBVV95cUxOLW1aWTlwZXk5ZHZndWhQa25hUmR4VnVzQk10VWpVRzRCRS1mTkptV3c0S2pCbk9teUk5V013Z1dlNHEwLWRVZDk4YmM2WmNUOGJXMDJ4ZHNhOTZudWVRTkJIUTExM0Q1dVFHN1Q3XzY3NFNRUk9qTTJUcXJDZkZYYmI5VFlFbU5nNHZDUEFXQzlUcHpOVmlCTw?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 19:26:07 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Poll Gives Ken Paxton 4 Warning Signs in Texas Race Against James Talarico - Newsweek",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY3paaE01MHk5NnNHTnRBZTd0ek1rZl9Zc1FGN0xDQWw0NmFOYTZrS2JfVnR3ZkNsZGdsQldVSlRTSWxTUHBfMjlPbEZSUGhScEpwQ2NoV2wwTVh1V3lYMVU3LU1DR3FySnJqVzM2R0dibW5hU1c3XzJlN2FfelprdG1aaUJwVTdfNVdkaXNJLWdJTnZqRktKbE1tOUVwSWtsbV9oMEZPZ0JtUXJL?oc=5",
@@ -1530,23 +1547,6 @@
       "matchedKeywords": [
         "talarico",
         "paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Is James Talarico beating Ken Paxton in Texas? Let’s talk about polls | Opinion - Fort Worth Star-Telegram",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5NVRSemtveW5BUUh2QVR5bVZ1MzVIUkgyejRvS3ZVMnV4WklCWFBUN3pvcVNTYjRZM0dCTDYyaERCU21hUDN0bEZCbWc1LWxrQ2JYV0lJNkxTaW1vbEZEUVVxSTdUeThEcndhNC1SQXJrOExMVm95ZUh3?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 19:15:39 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 24,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
       ],
       "sentiment": null,
       "error": "HTTP 405",
