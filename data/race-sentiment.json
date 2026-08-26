@@ -1,9 +1,25 @@
 {
-  "analyzedAt": "2026-08-26T13:57:28.777Z",
-  "newsFetchedAt": "2026-08-26T13:08:46.694Z",
+  "analyzedAt": "2026-08-26T14:49:09.712Z",
+  "newsFetchedAt": "2026-08-26T14:19:34.738Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Talarico, Paxton face tighter Texas US Senate race, new analysis shows - El Paso Times",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPS2xBbndQcEFvNFEtdGlQa3dWek43VUpWU01OWWlYUTM1bVJiYXZYWjhMR25zOVRmTGVhbnlVa09RUHpoNFBzQUo0N1pXaFc3OEFBS29GRXJydmdiSDhNTlVsd202SDMtYzh1UmE2Ym80TW1VcVZZVk1sTUp3SmoxZjlnaGJTekVZay02TmlHRW1yMXNPOUV3NVprcEpsbUE5NGwtZ183RGlvS2tQNzQ2NDg4UnJQSDhYTk4zQ3JwVVE2YzhhS09RREtyMkwyNWN5b1BaUElrYm9qX3JuZk1VSHlSOVZVUXM4YkRZZmtmMldtejBk?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 13:21:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Talarico wants to unearth Paxton's depositions to keep focus on opponent's past in Texas Senate race - WRAL",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVWtSMHluU3YxMnRGbkh4SHR1SkJFVE9pRDNVNmZUelY2NGEwT2dIVFFRckVZZGtkc2tQUHRKZGhJUmNGTlY4ZE9WdDF5RFRuU1BMd0hMUWprS1R3eTdhUHU5RUFGQ29WTEEwVG92b0dEYzFWdzdVMjdCc0RWRDhfQy1YS1hnLXBzWUV0TmRtQUxLbkNUdkg3cHJleE9MdUN3RDlZeWpyNjBVbDI0X2w5bEdnN2R0ZlU4YzBxYXY2ME5FWkFuN2hZa2poU2YwZW8?oc=5",
@@ -1561,22 +1577,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "paxton",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Texas Senate race is now a toss-up. Here's what it means for November - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTmJ6WUtoV2dsTndTQ01wYl8zbVRBZHlrRVVuNEZWN2M2b29Ic1UzcnZkZDBtc1pkRUVPVHpTdTl6SlpndV9OSXgwWFFXSS1RWjBZWHBxREt4S2JuUmdCb3R2VHo0MUJXTnhESDJHOWQyYWhRMUVrRlFub1dMX1pOOGJ5dk9vX3ZqTUdndDd1Nzg4RU1XN3JaOFFqQ1JSTllqNmVDTXhsQVUydlFUMGtkZzdnaDRlRktjeWxxQkR4ekNEX3RDX0J0YlVCUW5ycHFC?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 13:54:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
       "weekKey": "2026-W34"
     }
   ],
