@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-08-26T09:47:42.530Z",
-  "newsFetchedAt": "2026-08-26T04:11:21.054Z",
+  "analyzedAt": "2026-08-26T10:39:00.655Z",
+  "newsFetchedAt": "2026-08-26T10:06:58.522Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Talarico wants to unearth Paxton's depositions to keep focus on opponent's past in Texas Senate race - News4JAX",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWERqeVRaWENyTnB6WWxsbHpIZko2TFo4WlBzdDVDclZieHhMaExka2JCZERCaWQzeV9adFgwRVM2M19QRzVwb1BubE5GY1pyUmFYTnI2dUs5Q0JER2Y3RUJ6TVk3aEg4NFhZSXB6SnlBOHNmWDJIX1E2Z2VpTm5lWWNDWHFvU1pOemZvTVd6T2Zaa2RzTldyMUI5a2lDSDRhSS1ya2JpaDVDWllobUFoWmpxZTFCT3UyMG1tNnRvQmVnUTRuY201RXRya2d4X2VfMmkwTTR1akhSUlhfQkhvS2U0SQ?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 10:01:59 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "James Talarico leads Ken Paxton in new US Senate poll - NEWS10 ABC",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU2VGYllSUUM3cWROZXA1RzJFLWU0cXcxeXpwLTI3TWxpUFBTNDdUWHh6N3VCdXhtOXhyM1lPdnZyajg2Tm1fMzhjVUNrdlhaWUNUM3VPUWRWRWxuRTI0UG83UjdGU21JbGdpV0xzMkdZVExrTXJqNmU3NHZ5RjZOMG9QTmZNVC1JUU42cW1jZm1sSmJlakRQcVhFMNIBmwFBVV95cUxQU2VGYllSUUM3cWROZXA1RzJFLWU0cXcxeXpwLTI3TWxpUFBTNDdUWHh6N3VCdXhtOXhyM1lPdnZyajg2Tm1fMzhjVUNrdlhaWUNUM3VPUWRWRWxuRTI0UG83UjdGU21JbGdpV0xzMkdZVExrTXJqNmU3NHZ5RjZOMG9QTmZNVC1JUU42cW1jZm1sSmJlakRQcVhFMA?oc=5",
@@ -1538,21 +1556,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Elon Musk could spend $200M boosting GOP as Texas’ Ken Paxton battles fundraising gap - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVmM4dzVEbGxwNExSV1dETUQ5STBwMU43LXNqUHhqdFlMRld5NzZ6YmVjUlJnVlkyTkY2aWI0OFZrRTZJLXJhQTlfdXo5Q1htU011Z3psYUVYUy1zSEJkMjZZT180SjRRTmI2TzBPdkxfY1BQQU5pNXVIZ182YzRkeUMwdGp4bGNrUS1tX0I5LXlrbXQ3dkRGYTRfbFhWeXNtNU16eTdQdHNTN1NmV0lreGFhVGt6OEtSR24yQzBCVjA?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 19:34:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
       "weekKey": "2026-W34"
     }
   ],
