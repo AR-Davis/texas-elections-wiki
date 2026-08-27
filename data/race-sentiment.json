@@ -1,9 +1,81 @@
 {
-  "analyzedAt": "2026-08-26T20:39:58.705Z",
-  "newsFetchedAt": "2026-08-26T18:18:06.456Z",
+  "analyzedAt": "2026-08-27T00:34:37.092Z",
+  "newsFetchedAt": "2026-08-26T20:41:03.556Z",
   "totalAnalyzed": 100,
-  "newThisRun": 5,
+  "newThisRun": 4,
   "stories": [
+    {
+      "title": "Dems Worry James Talarico Lacks Support From Black Voters To Win Texas Senate Race - tippinsights",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMHdmVmkyZHlnRHo0UWxjTHNYU3BmZWVtV0RsTjR5TlFIQl9RamV5akx3QlMwd0g4ZnI5YS1CVnljYnd4REhSQ1pQOFJwLXBhNUV0N3VjSGN0ZnNPSHFXczdBcUl6NFZRcGVfZlktLXFPaTV3YVM3R3FPd19nLU5NQ1B6OXZOQTZJcjVZbHNoTWR4Rk1tX01ITlNCbFk0ZkxxbDlRZ3dKeUZrNGxC?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 11:26:30 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W34"
+    },
+    {
+      "title": "Talarico wants to unearth Paxton's depositions to keep focus on opponent's past in Texas Senate race - Traverse City Record-Eagle",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPeFV0UENRNXo1UlVKOUxRaTl6V3owM0M4d0pQSXVVaE1EYnZmbWstNF9INTBQczRQcEMyTWU2bW5ZRk5VM2VlV0RFNmY1WF9PaHI4VVU3RDk3RkxLSGJkb24tNmhsc3RKbFRQaHFFd1d3NFowSUdVTnVwNlBYNVhmS2I3Uk11bmFneGgwc1YyWW9telBwM1RhZjhuQ1dkVDhlaDZ3VXdicmYyY0lpNzlyQTd3bWw0Nm9ic09VTkFmQmtDWmNPWXpuOVlwT1k2RC1QZ2g5YzlUNzFlLVRmOVFCczM0R20xNEVieVh4aWMxcjZTeF9feTNkWk5mdGFEVHg1UGE2NTQ2dkdvaEgtMHVvSGZB?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 16:56:18 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W34"
+    },
+    {
+      "title": "Talarico wants to unearth Paxton's depositions to keep focus on opponent's past in Texas Senate race - Bluefield Daily Telegraph",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOOEd4eHBRcVNkcTRVQ29YV2FuSWVfN2FJZ1Z6djE4YUszV2VQdjQ2ZzgxUjRaYVYwY2Q2aGdYRXZsdFZSQ3hSR05Na0gydDRianh5Q2FmNTRFb0paNjVTYllXcEpvZTI3M085ZVNscDI1eWVNRkVaWEZvaC01QVZCQ3M4VW5ZSlVDMU9EcXpxUG8yQ1JMRTlDWDJ3THVGM1VvaG1pTk1EODU5SUJvemF1SXkwQ1FCeEFwSzhwMnNGc283dFBTVnM0SExuTDhONVdGM09BOWI5eVJXZjhhS3dscC1jNmdQaDdlWWZCd3FkeWE0Vk1GWkpvVGVNZXhwMzNWWGhlRlRqZjJGdjBxTUFDNk9USUNqdw?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 16:56:18 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W34"
+    },
+    {
+      "title": "Talarico wants to unearth Paxton’s depositions to keep focus on opponent’s past in Texas Senate race - Hartford Courant",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTnI4eFVjZjZmNHBfUVNyTk1FMi01Rnhtd215MDRKb0JrTFhqYUJiS2JtOS1fNjVlZGhzOWpXMTBKQ0RiTzB1N3g2bGo3RUhsZGF5MkpGV3B1eFNuNm11cjlCTDZwVW5WVWxFTVNDSmdGX0tBblNLOUhoT3VNMlM0ZTh4TGZpUG8x?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 16:43:52 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Talarico wants to unearth Paxton's depositions to keep focus on opponent's past in Texas Senate race - WV News",
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQMWVmLWVLaHQtNnVWVTJQWjlEeU5JbmlPeHkyZWI3dGcyTEpUcWhROC1SelRYRVFKZU1JOFZfeENKc1VCczM1M096VS16bHNYVWp6RW15YjhpWHhVS3kzMi01LU04ZzBFYlhwaFR4dEw0c0NIMmc4NnEtUjFjY2Y4eDRVbmhRdnJWWHBNc3ZueHNmUVN2bTdhOHVOTnN6M0k3d0RHbUR6Umdyc3U2bUFmRGgtZjI5QzBqVUp5X19RaEJVT2I1S3U0cjJOek9IalJaNEh5bWR4MVd3REV0S1lJMHVCVXpfcGdGMnhEd3JsMFk0dGdJWFo0TFVMU0tVcG9CLWtUdjAtOEVYQQ?oc=5",
@@ -1529,67 +1601,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "talarico",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Talarico floods Texas airwaves in U.S. Senate race as Paxton, GOP stay quiet - Salon.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQkh2ZmxMT0dOTEJZRzBUOW02R3Z0V3N2RWJpNThQcDJiNG9pVlR6MGl6aXpfTmhaY094YndFWE1xTVROdGczYVZPeURXenZBQmd0blFTN1Npb3d4SmMtMnZlcEFTVzZvczcxa1NfdlNUajV1YUg0WlQ3dDVkamVkdU93V1Fjdl9kNEJobW1lQ0ZyazJzMXFNZUdzNjhUVk8zNGg0WVZTTmJ5SEZjVDBKN0pydUZQN28?oc=5",
-      "pubDate": "Sat, 22 Aug 2026 10:00:35 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Inside Texas Politics | Full interview on Democratic Socialism with Austin Councilman Mike Siegel - WFAA",
-      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNV1ExSG5uX2F4RjQtSUliTTEyMC1zSzh3eGp5VXlkUG1RbzN1WWlCSmVMT3kxX1dLUjQ3dURHQ0x6aDlIMU9rQzl1cVRBZExndXpQZjdjNi1mam1UbFhtbVExVjBRNVcyVHZ1Y0wyTWVMNFBlOTdqU3hfbzVST0hESGpmREIwbElLZ2FySlhpVWFkeGtIUU5HNzNWSGhyX1BzSThwV0V4SzBZQUNxSzNIaXNXdUlJc2M4WjhWa0VfaVhRVzVlSFoxTlpvMkV6OEt0YURSSHNFZkxGQ0pJcFAzc243aEhNUTFEenFTTUdzekNGWk5oOG9oYkM2Q09DV0tyUTNYbzdJQ3FrTUcyMlpDWHZWT2l4Q3dPV0lKbzd2YUhDc1Y3Mnpn?oc=5",
-      "pubDate": "Sun, 23 Aug 2026 03:55:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "James Talarico’s ‘World Without Prisons’ Dream Would Be A Nightmare - thefederalist.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbGJ5QnVaeEpyOGhqNE1sLVJteWdkNWtzenBhMzJPZEFINjhSSzRqZnhvbXV1UWxVZ1E2SWJfdTctZWltS0haRHRjWXJBeUppbENOWnl3RkwyT19TZ0lUUVpwM2swal8xekU4UUsyaHBndWhoRGZvbGdnY1hIVGhiZnZNS3NCOVNKQkVGV01OZm1iaXVhdm80V0Qta3p4aHVBLURGcQ?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 13:32:29 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "CNN's Dana Bash Paints Texas Senate Race As 'Ethical Issues' vs. 'Christian' - newsbusters.org",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV2ZRcHZLTnRaQi04RG9WNUNqY01penpKZVVnU2F1MFgzS0JoRjFfMlBjU0E2aEtRck9SeC1DMVVsSW5keHBOQU82UGFRMVlVRGZ5WEJZZUd3X2s2SG1WQUduTnJmMTNNODBpWXFieE1TUHVvNjNhYzJZaXAzTFBINWZtR2VUUnczOWp5VFNlX1M5VEg3QkpOb1o1c3JQS1Nqbl9ldzhtakE4VGNON0p5Wk1COWpYWDNGelE?oc=5",
-      "pubDate": "Sat, 22 Aug 2026 15:30:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
       "weekKey": "2026-W34"
     }
   ],
