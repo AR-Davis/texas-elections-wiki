@@ -1,9 +1,94 @@
 {
-  "analyzedAt": "2026-08-27T00:34:37.092Z",
-  "newsFetchedAt": "2026-08-26T20:41:03.556Z",
+  "analyzedAt": "2026-08-27T10:26:53.585Z",
+  "newsFetchedAt": "2026-08-27T00:36:06.417Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 5,
   "stories": [
+    {
+      "title": "Talarico wants to unearth Paxton's depositions to keep focus on opponent's past in Texas Senate race - The Killeen Daily Herald",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPekRPeWtYMC13X1F5aUNyanZtZmQ3NVhXRFo1VXZsOW9HRlAzNkx2aHktcDA5eU1MOF91aEkwNU85ZDdqd1VGSGRQWEdaM1VnTFM5MFRURXJrMWhnWVIwdG43S0s5MDZ3djdyRGYtWGlWTUFaaFl1S0t0Mkw2OXE1Z050MEdjdk0zMGIxTGFSMlVWcXlJODZVLTNsWnJIV0NITkVBMk5JckxncUhrZ3BJTVlhY2QxY3FjTnhEOUZaZEtTTWhaOE43ME5RZkFPMmpPNHNvOUppREl0amNtMnFESld6S2M5dDJJdG5qTmlpenp6NUhFQk9kNUlUaTVZajdwSTdtZHE2WXc?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 17:21:15 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W34"
+    },
+    {
+      "title": "Talarico wants to unearth Paxton's depositions to keep focus on opponent's past in Texas Senate race - Eagle-Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOU1JxWXhqeF92Q2I5MkVoRmlreHFobngyLUhfa0ZxeTNOOHRUUDR3RWx4dGotLVRWRklwd1E1NjhtS2llOVZxS3FPbExFUndZZVkyRDJRZlVhUFdKWXU0UGh4bXV4T1hLb3NUanNldWUtaHRkbk5wSjk2b3RaZU5Ianp4ckNuS193eGFSUDJSNTB4ZTJaVkxuMk1VZ1ptYlpXUVBYbDhaUGdqamVCT3NCdWkwbU0wWmNwMkR3bkFqVnNnelNlemh3a0owZFpocVlGT0JvOXpTN0d2VEM2WXJmamFtM2YydVpkVERtNHdvX2RoRzVkZndQbkY4Y3ZrVjRjOUJqLTlKaDJ6NEE?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 16:56:18 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W34"
+    },
+    {
+      "title": "James Talarico leads Ken Paxton in new US Senate poll - KETK.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeG9QQUh6QmJLdm90a2JuSnVRNlhydHUzTmtpNVlhcmw4bjA5ZFhzMXhVMkJSaEQySHk5MWRFMnhvUzNueFVJRERXUnRrb3hnNmFWWXg1WS0wOFZJSW5JMGhWdm9xZ1hBdzdmYzBmV2JzTGVUUjhadVYwUkZQMTBjLS0yS0hPc1pXckxFd9IBjAFBVV95cUxPeG9QQUh6QmJLdm90a2JuSnVRNlhydHUzTmtpNVlhcmw4bjA5ZFhzMXhVMkJSaEQySHk5MWRFMnhvUzNueFVJRERXUnRrb3hnNmFWWXg1WS0wOFZJSW5JMGhWdm9xZ1hBdzdmYzBmV2JzTGVUUjhadVYwUkZQMTBjLS0yS0hPc1pXckxFdw?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 13:38:16 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W34"
+    },
+    {
+      "title": "Senate poll finds Texas Democrats more energized as Talarico leads Paxton - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcFV1RWJwNDZOR2dyR3hvVlpHbUNHN2RDZ296RTFlRG1Iay1ldms0U0tsQVFKWDBMQTFtQWlLTlBzcEFXanVrVVQ2SEcyX29za3pBSXJLTmF2TUpsVTdVSFkyVWhjdEJQVkktbmg5d1poTXltY2JEOG42cjRzZGxLaXpDQ2dDWU5USmh6SEotYVpxUE4xaWdEVA?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 17:36:15 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas democrat",
+        "texas democrats"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W34"
+    },
+    {
+      "title": "Can Democrat James Talarico unlock Republicans' grip on the veterans' vote? - Austin American-Statesman",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaDJyWXNrMnpaU1RmMWZOSmJzaW5Mc3E2eUhvUVgxUVFQeXVBZ2FiYjdJUWV2OC1LZXJpT09LUWJYQmpaNGZINGpZTkNGYmU4UTlBRDBERHp4SS0wR3J5UzZCaE9DUjNuZVJYa1U5UjdTdUpjTTdDajFya250b05BNkVIMFdVRldsTG0wVzdEZktDMFBRSzRGVERRRWZfbTZMVWFN?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 15:43:33 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W34"
+    },
     {
       "title": "Dems Worry James Talarico Lacks Support From Black Voters To Win Texas Senate Race - tippinsights",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMHdmVmkyZHlnRHo0UWxjTHNYU3BmZWVtV0RsTjR5TlFIQl9RamV5akx3QlMwd0g4ZnI5YS1CVnljYnd4REhSQ1pQOFJwLXBhNUV0N3VjSGN0ZnNPSHFXczdBcUl6NFZRcGVfZlktLXFPaTV3YVM3R3FPd19nLU5NQ1B6OXZOQTZJcjVZbHNoTWR4Rk1tX01ITlNCbFk0ZkxxbDlRZ3dKeUZrNGxC?oc=5",
@@ -1521,86 +1606,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "general",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Gov. Abbott dismisses GOP worries about Texas, says voters will be 'rushing to vote for Ken Paxton' - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORFVUc2o4b1F2R1RobUlrd3pQcVgwM05PZWxXVkZDZWZ5UXFJeU8yUWd3QzFSOGlZY05pcE9rdzZOV204dXFqWGczYmpSNm45aVl0VUtwbk9YTFRKYUdDSWdXaEI5Y2tqN1E0NlZWWnIzQTZYY2Q5bS1CN05OeEZLcmxSczBCV0xQTGh6VWdOemIzU1VZSXgzVUVPM0JNRzBwOEdV0gGoAUFVX3lxTE9CSzB2Uk05U0c5QW9mMzVhRGF2ekZoM056N2hvc3o3ZHFTY2dfMW9LMDBxZnlXbkpxSmo0MG9qSUJrN24zODA4cE9lNkwxTW84UnptRmVBQWZqV3lvUnZlbTJmMmFlVHN5dm1qM2FaelFaemEzNU13R1lpcG54UjlPdmZHenBSM19NX0VvTGFoNGhSRDBhM1dHakF1WnV5a3dyZ1dRemYzbQ?oc=5",
-      "pubDate": "Sat, 22 Aug 2026 21:11:45 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Talarico: Democrats and Republicans Will Come Together as Texans to Defeat Paxton - breitbart.com",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeERoLURmaDVKVVFGN2o3NDZhaXdjUVlTSjBtelVNOXp0bzh1aUdnSnQwdHhldE1mVTZmWm9xSnExMm85eHV5dHV5SE5YWUt3RjRTTjBmNVI3RkNJSWoyTEFjcXViNm1RSmNHMkZPN2ZRNGZYUUsyaW9wTlNPQ0txVUZxeW5wcUJhLUR6cmRVNlJ4T2Q5RHhWNjdWUE91b0FRQVBiYVJZQ01UekJKbTNDeGZxalRFYzEycjZ5a1pRTGFmZ9IBxwFBVV95cUxNNWVfQzI5X3NGMnFDaWJqMGtvdXdPdFZHOXNHSW1mUlR5ZU1yYWdONDZodzk4RVJoOG9UZDRVRjFycHN4YzFMSGN1QWZoMEFJRlc0RFJHeHFWdXlMQ3pRU0d6dXd4dmZNd1BDZW5VRGloSFdPTi1KaVdNamlNR1ducFlNZVJoMUhTRENzNHBPUWRPbFNITjVJN0xhZENYZ0ZpV25HOGVOU3VvR25rNWV4blNGQkNxN1g5cG5TanpGdmhiY09TR3FF?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 02:31:42 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 10,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Talarico leads young voters, but older Texans may decide the U.S. Senate race - Austin American-Statesman",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRGhXeXRGbU1DdW5Bc3pDSmNPUnVLd3VrV2NNTjlLVlVkbk45M1J1Si1Pdjh6bGdVZ0NLMjlCOGg1M3RZbmtOWXp6Yl85S2hDVlA0d242NEw2Ym9ySThnZVAyTUE0S0p5OTQzX3g1b3NQa3lQdzNlcjVMRnVteURpczNRS0w4LUllb3ROSEdKUWx4cEtYeV9HM1BzSXQ?oc=5",
-      "pubDate": "Sun, 23 Aug 2026 10:47:30 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 9,
-      "matchedKeywords": [
-        "talarico",
-        "senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "What Talarico, Paxton are saying about each other in the Texas Senate race now that it's a toss up - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSU1oTlhGcG83LUljR1BVUTRhVWpvSzlRX2VENi03MnBoOFo0aVBCQkY4eGU0ekZBNnkzOEI0VVZvbE9QeEJqY3VJcFY1dzVnRGQ0dVY1clQ2NlduakF2MlFWS1FCXzBBUHVveUJvaHgtQ1pib01TZVhwbUJRWjFiNjJvVUM0VVZzWG42c0l5eFQxQ0ZiNW94ZzZzdVROUmhwSFhSZGtLcHdwUQ?oc=5",
-      "pubDate": "Sun, 23 Aug 2026 10:00:11 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Talarico’s Old ‘God Not A Christian’ Remark Explodes As Texas Senate Race Heats Up - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTkhGaGUta09FcUxoMmhHNFVBeWpRT2hPcGVGRXY4SWJuMm1LdU00SE9GZEtMR0VxaTkxRy1yWUhNOFNLbFFnejVHYVBrSEt2LUU3SkhUVXJENFhObFppT0x0eUhDdHRFN3ZwV3Z2Y180R1NlZkNBV09pZDR3U2gxQ2ZiMzVRamVQOVRScXV5dFZPeXhkWmJvUXRtWDQ2YTUyak1MV3dWbU1YS0ZfV0RfNlJMZWZWeU5MM29KT2ZWVG44WkRkYkR0ZklsNkdHdmVEVl94VUxKZVA1LUIydmQ2UFFISUVJYnZuTlV4NlZEQ2YwUdIB9wFBVV95cUxONWZIWnN4Q0U5Z2I5d0xicFEwakNBbE44ZTRBQ3lGLVl1bnEwcHQ3a0Y3TkJMQTJCS3pNbVhmWkRlVjgxTWg5eTNDaTNpZExSUVYxWmFPeWJWUm5VcHdSMGZ2cFdzclMxcUhvYnJqaldHazJaeVBMcGVoYTJPWl9FX3Bva0NGd1hieS1Xc2lRRWVCZ2tmQjNkSk5IUE9qcjdVNkdKY1VPdk1fVUV1YmQ3SVBMTW5JZHJRTzBrYXkxMGRDMlA2X0lFbi1wRU1QYnFzTXBPd0dJd3liY2d6ZEVKVXlmc2FLaWpfMmdheFVoNi1aTkM2VGtr?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 22:15:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
       "weekKey": "2026-W34"
     }
   ],
