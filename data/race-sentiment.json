@@ -1,9 +1,105 @@
 {
-  "analyzedAt": "2026-08-28T05:09:36.990Z",
-  "newsFetchedAt": "2026-08-27T21:06:34.183Z",
+  "analyzedAt": "2026-08-28T17:39:16.605Z",
+  "newsFetchedAt": "2026-08-28T05:34:02.529Z",
   "totalAnalyzed": 100,
-  "newThisRun": 7,
+  "newThisRun": 6,
   "stories": [
+    {
+      "title": "New poll shows James Talarico leading Ken Paxton by 6 percentage points in Senate race - ABC13 Houston",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGJXNFNqTGFHT2RGMS1WMTVmajRQUXRzQ1NQazBVaFNDdkZKYTQ4UXhwVm53M1NaTG5DOUxlc2VwelR4VnlGQXZ4RENhTU1JMmRHU0tLVGU4WHlSd1M5a2cxaWtPbDk4QVJtNjNkblM2dkFvS2hxdDBhWjBhZExYc0VPQjJ3NWhFWEx5N05rbzBOTFNqYzdGM3FldjBIbVlkVm43Mi1sQUFVMXNsSlpGbnRhRdIBuAFBVV95cUxNNEhPSXFJZnNSMWRTa1pPV1E0SUVnT1RzbGhTMW5ISDZtdkQxXzltOHhHZFU3MnZJdTJVRWNqejd5TVlxeldIaWphclN0ZFRaTUk3em5RR0VrMlg5aG9KODQtVGo1MGV4MDJQLVktR1F2cktsSTBTS3poa3BuenowLWdSVzJjOVNDdmpmV2ZDSGpYSE0zZWFNcENnSTh5TUNxU2RCOHpYVVQ2TXF5M3ZIT3BSbF9uV3NQ?oc=5",
+      "pubDate": "Fri, 28 Aug 2026 02:36:39 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W35"
+    },
+    {
+      "title": "Talarico wants to unearth Paxton's depositions to keep focus on opponent's past in Texas Senate race - Standard Democrat",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOS05HeU5PQ29ERXJ5TlVkeHEzTnBuMGRPbEF1ZTk2U2xDQnhjNFFhMU02TWp1eHZHb0E2S1VOb0o3UXlUYWZjdW5mMTh3ZUhZeUVHUVgzNTBMTVRJT1ZVU3hzN3BUT3kweHVIWTdCSlVoZl9DbFZ4WGdzeFhnUHR6T2YxUk1RdzFrVDZ3UWZNUHhxY21CVjlqczJsaFJFWldKVm1ySnEwV05fRnBtR2NVckRpeWYwd0hXTThYRzRxRXJnVW5zT0V5Vmc2ZGhMVldaLVlqWXBBVjNiZnU2Qk16anpn?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 23:20:39 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W34"
+    },
+    {
+      "title": "Trump visits Texas to fundraise for Ken Paxton’s Senate bid - KSAT",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNREw0MlB0Z2FRaF9GOVkwVDRKRWZReEZxdlBDR280MXJZbzZBYm5rVUFZNS04bTlrNlBUb3FNMHFFT3lNVnpBeW5hWHZGT0czY3drQzg0dTM5b2tkdHdnbTE0VXlWTm0xSV9xT0UzczNJLS10TG5fV2x0WXp6bVdlbzBOMDBITGtjOG8xUE9MaUpidVI2MUZCZHNMcC1lYjZ6SUxtUQ?oc=5",
+      "pubDate": "Fri, 28 Aug 2026 02:37:10 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W35"
+    },
+    {
+      "title": "Trump visits Texas to fundraise for Ken Paxton’s Senate bid - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb1RncmZCRXBNR1dCc3p4NkdVV3FlUE9TbFV1dTZPZnh1WnozZWUtQndnQ0lLdEJQTGxCRkJnc3EybjVoM3RNS0NaVEl5UmZWSVVlM2xCQk14T0tUbzY4bXE2eThiZkI5eU5wSmlxc1B5MUtSSVhFcnRlclFUa0JlRUo0UXBxN3FCeHRNcQ?oc=5",
+      "pubDate": "Fri, 28 Aug 2026 01:52:54 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W35"
+    },
+    {
+      "title": "Greg Abbott and Ken Paxton Going in Different Directions in New Texas Poll - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd2syQ2hYdVZza1IzazRMUEIxVW43UzBHbGhJQzZiNERVeTVnMzlxeTZseVNqN05iZURpbVJ2aFFySnotT1Vhb3Y4amlNQzBWZGdXU2lQM1VkQ0ZzaWdUQjBBWnVmaXVtZjJ0Q0dXQmxpdWlSREp2SjQtakZlR3J2eG1LQzRvWFpCejlsQ0JZR3lGQUtkQXhoWXpoVmdxbGJVMXVsTHVOSXdVX2Fy?oc=5",
+      "pubDate": "Thu, 27 Aug 2026 19:25:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W35"
+    },
+    {
+      "title": "James Talarico, Mark Cuban to discuss healthcare in Fort Worth - Fort Worth Star-Telegram",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYXdYUzFpeVhncGtERDF5R1M4RlE2VXNqTDVtMjRMcXB3a0xRZmozSWJmSGZzRVl0WTZKRG9pWElVOTZKeUF0MEphb3RuUEt6ZFl0MURBaGtYOGFsTS1hcXBQd0RrdlJJSlVXOUNFeDNobWFsemV0VjZtTnhmaHZjbk1n0gGCAUFVX3lxTE11LU1UV0UtOHcxUU81bFpZX1prNUpOVmdRS1JmU01vTml3aUluWThfZVJBNGhuWE5zeTNpZVo0cktzdFB6ZGR3amlsajEzZVhTRUtSWHVTcF9SWnBvZXV6SlV2cUFXcXhDanFvYU5wYkhxbjlVMzFCaWc1TGp2VnpURFE?oc=5",
+      "pubDate": "Thu, 27 Aug 2026 18:43:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W35"
+    },
     {
       "title": "James Talarico is forcing Ken Paxton to air his dirty laundry - Daily Kos",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUmpkUmN5b3FtWHFoVE01VHZFWnlWUjRVWExiallGWjJ1MkRWQ3RyWWV5eEJhQ2pxWF9MaU9Qb245amhsbTlhenZqUzA4UXFncFlVa1BMOUtnU0VXWjZoZzBKbWlZd2dqbklJeXhpaDdoVDdpaEs3UnQxUXFIZGl1d19MS19nR2NqSTBmSy0zNlNuQTB3VEVrSlowOFRsSGk3aWJhQ0tkTjN6WlVX?oc=5",
@@ -1536,92 +1632,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "general",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Cornered by Big Bend backlash, Texas Republicans tread carefully around Trump - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTG45a0pZckU3RW1OSGgxWTVNMkxlNDM5bkZnbmttY2lpUm00TVNvNUphM1V3R01laEVHR0RkVlFrcG5hdV9ya3NUNXJhUlV1Rmk1ai1LOFZndGFJbkMtYTAxc0N0anYtamd2dkI1MEdvS1pQR0NPaVZjV3JjTEpGUURRVmNJeU4yNHVDakwxdHhERW05TjVjZDgxaURycG9aRmpCN1V2eE10WHpsbk1FOXhXc3BVcEdOd2h3M0s1YmtoWmdydEVQcDBLc2o0NWhHUzNTNmZyNmt5QdIB2gFBVV95cUxOTG45a0pZckU3RW1OSGgxWTVNMkxlNDM5bkZnbmttY2lpUm00TVNvNUphM1V3R01laEVHR0RkVlFrcG5hdV9ya3NUNXJhUlV1Rmk1ai1LOFZndGFJbkMtYTAxc0N0anYtamd2dkI1MEdvS1pQR0NPaVZjV3JjTEpGUURRVmNJeU4yNHVDakwxdHhERW05TjVjZDgxaURycG9aRmpCN1V2eE10WHpsbk1FOXhXc3BVcEdOd2h3M0s1YmtoWmdydEVQcDBLc2o0NWhHUzNTNmZyNmt5QQ?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 14:39:56 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas republican"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "MAGA Inc. sits on campaign cash as donors indicate only Trump can save Paxton - Politico",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMi1BTmdkSzlaYWNndkY1d1N3bVJfS2F1dHpBSnE5V2NNYUFSaTVnNU12TncxblFnMFo3T2hnOHFSdVhhZFNkU1phdEJKX3F1NmpHRndXaGJHem01QUdNMmdhd21fQWlpTDBZRVBHUlctYzZrZndFdEJfUXluUVBSSEhaZlBBdw?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 14:04:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Texas U.S. Senate Election 2026: Latest Polls - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRnFTY28wbS10QjZaN2NoLURKTUNYNkRlVXJFenVsTWphQVBQS2lySHdTOVVKTGhSSVRsX2JSeVEwUE9hMWpVdWU5Z2JESHJSalV5ZFEtQm5sTzY3LWQ5NFR3WjhLeE9IaUQ4VDRoZkhUOHRxQkc1cnR1TG5YVThJLVlJeW10QkxBYVE?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 17:11:42 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 4,
-      "matchedKeywords": [
-        "senate election"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Texas Republicans tread carefully on Big Bend border plans - The Texas Tribune",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYU9LX2dvYllDUHBzZ0Nlc0hDaWd5MGl5dWlxYmFSdmkzVWtIbm5IYmllSGQ0Z0JMTjZwRUZYU2FXZ1Zoa3VhbGJiRkszY2xWWkpVdl9TNVF2V3laTEw4X0Qza2s3MGF4Sm9tdlhPNFlQd2VZQ3VFYXg5bUxWcEwyN3c2S2hmd3RhTU55eEJjMTNkaUpRckZpNDlnT3VZOUxnYlE?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 10:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 4,
-      "matchedKeywords": [
-        "texas republican"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Texas AG Paxton says he has concerns about treatment of Sophie Cunningham supporters - WJAC",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOVIyVm95OGVHRlVTX1FSajIxWFpGeHN5Z1JUNjBLVlZxaThVX3ZnNWFTVkV4bE93NjFxZUU0ZkZuN1BPRWJVcmI4TkVaMFlSTGYyeUszZjNNSV9jRjh1VHdpU1cxU2M5MXhfaXlSRmtzOHpqd3dvdUczQ0hwenZoTVNRaVA0UTc4VG9GQXVYT0F6U1JubWYxWUlCWE1QTmwwOHplTmpFTkE4UVBLR0NtNDFscEczaHBKN1Vod2ZXLUNEbC15Y1YyQlhLUEFJU2tGczhCNnIzeV9pR3NjV1BUQTgxemplSURoaUxj?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 16:55:39 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Paxton-Talarico Senate race is a toss-up, Cook Report says - Longview News-Journal",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVlZQbWg5bjZWa2U4NmxQY2V1bTg1a0tMdi1SckdvY0k1R3dKeF9wTnNUbUk4VjlUdUxRMnoxMjZ3X3B6MXNtam1xenVhYmZqSEkweHIzbnZZRnYxQW1IMHExVWhHdGhrcjA1VF9fMW4wRXFYOXZQU2kxcDAxMTk0ekFMYWo5VDJTUnlLVjZpdFo2bFcweUM0bnp3?oc=5",
-      "pubDate": "Sat, 22 Aug 2026 10:24:17 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
       "weekKey": "2026-W34"
     }
   ],
