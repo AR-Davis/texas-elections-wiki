@@ -1,9 +1,41 @@
 {
-  "analyzedAt": "2026-08-29T17:36:20.218Z",
-  "newsFetchedAt": "2026-08-29T14:18:41.314Z",
+  "analyzedAt": "2026-08-29T20:43:45.535Z",
+  "newsFetchedAt": "2026-08-29T17:49:49.363Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Ken Paxton got four warning signs in Texas' Senate race - wonderwall.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU0ZGTGdNM3F3ZnJfWTJleERaVHBlbERvRHp4MUo3ZHFpLWhHaVZBNFF1VUJrUTlOV0xXV05FSkpIRnFPOEkxdUNFVDRKT2t1cEJGOXIyczFuZnhGMUQtV1plb3puZ1Y5Zk5lN0lvZ0FhYmY2Y18wY1JyN0g4SEZHRDREUkwyZzFhaGt1YnBDQkoxdGYwZV9hWUttUmhUeG9OTElKWHlrblBpMk85REk3c2lNbm1vblN0dVJwcFVWcW9KQQ?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 15:18:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W35"
+    },
+    {
+      "title": "Texas Democrats Facing Internal Rift After Crockett Refuses to Campaign With Senate Nominee Talarico - KSST Radio",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPX1BCNFBjWnMyT0hzcFdpOWtRQlZwQXNyb09oZHdURS1oR1phMGRibm9rS0dPQVhXR3djdnQ1aVgzbmJ3R3FILUZBTDVBZVVFVUo4NFR0U1FLSUc5Y3JyS0dHVkl5T19LQ0pyb1dVQm5BMlNQT0ZDZlR5UmVsQnJzUVFLZnIzcDRJMFRNYm5VWWZmYTZIRDRKeXUyeHRVWlJGd0QtWWdMNDlSS1VvZVp5TV8ta3pqOEYxTlRidWk3MWpwcExtTWNheEdPWlNYb2dX?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 15:57:56 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "texas democrat",
+        "texas democrats"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W35"
+    },
     {
       "title": "James Talarico to air first TV ad attacking Ken Paxton in Senate race - The Texas Tribune",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMWRNUGJKTV82QlBhc3AtcWpLeUFSWkNuLW02bzJhUk1OQjBGVk1aT0xrVXppSlNqTDVBbWxRZElfdjgxdFlVa3ZLWlI2RVdCWUx1TmFIaFoxRWpadU1lZlBPVDcxSTd2Rkw4SVE0ZnFrZDV5TnlnM1JsUDVHRGFoT3BaSktoaFNkVFFBODlieXUxQkhKRWViQzRCaHE?oc=5",
@@ -1620,36 +1652,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "talarico",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Talarico is trying to win moderate voters. Why isn’t Paxton? | Opinion - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVWtfNTFaWHRMYjVHRU54NG5sTmd5dkI4aVpLVVBLeFpmc1haem9heDBSYnNJY2tOVVdLNm1KdTRsZGN2bXhHTE9KaU1lcnVNcE9vQ18wcjFsekNpT3E3NWpNYVpYOUZqWEloem5aNEh3OEZtTWV6dUp1cURQVmtmQVpYejYzUlRiMDRaX3RPMERnU3I4MWpwZlBzbVV5eTI0NDF0U1dPd2lqUlZ5aXZLRkNsTlRDUQ?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 17:25:58 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Cruz predicts $200M fight in Texas Senate as Abbott backs Paxton - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVzRlcVFhWmRyZmdVRTllLVZUTURGLWpuU0VwWGpaZkxVQmZLVU5WTV9IQVhXbDVneEJVX0EzZVBMVlJWWmJRSElwb3Eyd1RnM1lMSTllWDF4dlJ3Zm5MRVZaNnFIWURfbUlCOEtCeTB0NVhGX3hYbjBUQ2d2aUVPeDJ0TTRGVy1Jc2ZmR0hSQ29zR2RscXdrN0Z1OUtid2w5R1JmWUNzV2hiZ2F5QjlJZmNIYm93RTVyeVVZWFJPRGR1N3FJd2hBbTRtTF9tR09EUmd5Qkh6cjctSTlEOVVNX0RR?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 17:09:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "texas senate"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
       "weekKey": "2026-W34"
     }
   ],
