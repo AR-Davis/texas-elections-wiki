@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-08-29T23:08:34.829Z",
-  "newsFetchedAt": "2026-08-29T17:49:49.363Z",
+  "analyzedAt": "2026-08-30T01:31:50.708Z",
+  "newsFetchedAt": "2026-08-29T23:10:20.559Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Talarico wants to unearth Paxton's depositions to keep focus on opponent's past in Texas Senate race - Texarkana Gazette",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYXRoVGR6UkxzWUFaMWJEa2t0SzUxNmgzdnhnbEdDQ3F2Mlg1bU1HS2FXZ085S3JKRGRSWm9vdDJiUnNoeFlkRXo2SDJvT1p4V2M5Um5ESU56bXpHUGVDUE5RbEZieGpGdUgtOFpkSGQwSmVXMnF3aWFPYW51UzZKWmFRM2RkMVBrc2g1UDdyNENqV1hseEZzdzdweHNEeFBI?oc=5",
+      "pubDate": "Thu, 27 Aug 2026 03:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W35"
+    },
     {
       "title": "Ken Paxton got four warning signs in Texas' Senate race - wonderwall.com",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU0ZGTGdNM3F3ZnJfWTJleERaVHBlbERvRHp4MUo3ZHFpLWhHaVZBNFF1VUJrUTlOV0xXV05FSkpIRnFPOEkxdUNFVDRKT2t1cEJGOXIyczFuZnhGMUQtV1plb3puZ1Y5Zk5lN0lvZ0FhYmY2Y18wY1JyN0g4SEZHRDREUkwyZzFhaGt1YnBDQkoxdGYwZV9hWUttUmhUeG9OTElKWHlrblBpMk85REk3c2lNbm1vblN0dVJwcFVWcW9KQQ?oc=5",
@@ -1637,21 +1655,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "paxton",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "'Achingly Close' to Jesus? Rainn Wilson's Podcast Defense of James Talarico Reopens a Fight Over His Faith: REPORT - Latin Times",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWjV3QkNsTU9UMjJEY3Nka1JCZG4zN2pTSFV1bERNRVZjX0RrTVhLSl8wTFVxYURtc1VWUkItNXNwXzYtMG9PUWVLVzQ2QlpzVVdmV1RKdGRTUFkxYmowcTdIVnloNTIzZXNuSXBjV3NFTWU2aXloNUhIUDludFBDc3VkOXVfb053U0JGakU4dlJEdXJyeW1rQXhJT2RVSmt6aU51ZWVXcTFMbFFIY1FHWmVxN2JjWXU4T0tUSUZEUQ?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 17:37:05 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
       "weekKey": "2026-W34"
     }
   ],
