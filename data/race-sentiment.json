@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-08-30T07:16:55.168Z",
-  "newsFetchedAt": "2026-08-29T23:10:20.559Z",
+  "analyzedAt": "2026-08-30T13:10:41.484Z",
+  "newsFetchedAt": "2026-08-30T08:08:51.528Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "James Talarico Says He Chose the ‘Ministry’ of His Senate Campaign over ‘Finishing My Ordination’ - breitbart.com",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZXhQd0Q4VU5PUDE1NGw2RTdZbEtxbF9EZmdXZThCcDJTclZxVEZkMExUNjQ4bEFBUC1OZ0NnTjdRR3VUWmNqV241N1lwYzJucTVDemRtTFdzVDVPb3lOQXNNUFBnV1ZQajBib0ZucTlCRVA1elVqWGdHNDQ0d2h2ZDdMcmpMbklIQnBicE40UmgtTkZfdkFyb0pCdEVCRDVCOVluVlNXUVVzVkJxWEppdmpUcFY4ZnJMcy1CTWtORjRRSHVPcmFPVGJTd3g5VXpmcDZqQkdUejFvbWx3WkFSSlZRNmFYaHPSAecBQVVfeXFMT2V4UHdEOFVOT1AxNTRsNkU3WWxLcWxfRGZnV2U4QnAyU3JWcVRGZDBMVDY0OGxBQVAtTmdDZ043UUd1VFpjalduNTdZcGMybnE1Q3pkbUxXc1Q1T295TkFzTVBQZ1dWUGowYm9GbnE5QkVQNXpValhnRzQ0NHdodmQ3THJqTG5JSEJwYnBONFJoLU5GX3ZBcm9KQnRFQkQ1QjlZblZTV1FVc1ZCcVhKaXZqVHBWOGZyTHMtQk1rTkY0UUh1T3JhT1RiU3d4OVV6ZnA2akJHVHoxb21sd1pBUkpWUTZhWGhz?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 04:02:26 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W35"
+    },
     {
       "title": "Talarico wants to unearth Paxton's depositions to keep focus on opponent's past in Texas Senate race - Texarkana Gazette",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYXRoVGR6UkxzWUFaMWJEa2t0SzUxNmgzdnhnbEdDQ3F2Mlg1bU1HS2FXZ085S3JKRGRSWm9vdDJiUnNoeFlkRXo2SDJvT1p4V2M5Um5ESU56bXpHUGVDUE5RbEZieGpGdUgtOFpkSGQwSmVXMnF3aWFPYW51UzZKWmFRM2RkMVBrc2g1UDdyNENqV1hseEZzdzdweHNEeFBI?oc=5",
@@ -1640,21 +1655,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Republican U.S. Senate Nominee Ken Paxton Releases Plan to Address Data Centers - WFAA",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxON194S29FbnJEVWVjV2ZDN0hsbTlMZGw2SFlKOG1FN3RESnZ1YTE1MVZ1ZVcybWdwbmQ3bWlhek5WR3ZSVldmR1M3YnVrUFhZVDYyaWxUVThnNThmNWwwQ2JEMm56QTJ0bEVtcTBaLWhUd2NYWWpodFh1WDJITlU2dUtGM01JRmk4TXFNd2VpN1U1MlJaR0QwZFVGUWg5S3RNeWFXUE9vUzR1T3FLRUs2YU0yZGRpem9kNF9aTzlCRFB2b0V3VTMzUXNWYTYxMEpmNE1odjJpVkJ0Yk1EUV8xam05dGRFeEgxZllRcFhTNUZEbXc?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 18:44:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
       "weekKey": "2026-W34"
     }
   ],
