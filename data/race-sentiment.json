@@ -1,9 +1,70 @@
 {
-  "analyzedAt": "2026-08-30T20:48:55.394Z",
-  "newsFetchedAt": "2026-08-30T18:01:16.354Z",
+  "analyzedAt": "2026-08-30T23:18:38.136Z",
+  "newsFetchedAt": "2026-08-30T21:25:32.316Z",
   "totalAnalyzed": 100,
   "newThisRun": 4,
   "stories": [
+    {
+      "title": "'A close race': Ken Paxton addresses tight polling in Texas Senate fight - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMVEySk5lRHhFWmxnQmJGUFZzOVRial91NkE2SkhYRFRHc29OcllfY3M1Rml6REtfdTJEbXhEeGtSTTVfZk1TUnNkSThvNUxBVGE0bGk5VTJuREdPTWpWVnUtUzlFYXBkVmZLcUJvUVZVNWQ1VmNfVzg4SVRibUx3SjZoZ0ZodHNzaGhDMmlUelNtWFhlNjlQNEVzNnJiZ2t3cmc4ZDFOUHFhUUFOWXc?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 18:47:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas senate"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W35"
+    },
+    {
+      "title": "Jasmine Crockett Abandons James Talarico in Texas - legalinsurrection.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOGFCb2REUV9qVEJvZFFJeHBGbUp4LUtQSGYxSUVuVG10R1libjJHZ1VncVNiVnZ2eHlLS1dCTUM0NjZ3VVVxSjRNOUpRUjVFNFBNcW5vOElncmJGZ2tRUFZLQmZBNFN5SVBKSEJxOFJMSjBiSjVNMmpxMXVsR2hXU25jUTl4ejh5bnBYNTlDRm9zaTVadmRV0gGXAUFVX3lxTE84YUJvZERRX2pUQm9kUUl4cEZtSngtS1BIZjFJRW5UbXRHWWJuMkdnVWdxU2JWdnZ4eUtLV0JNQzQ2NndVVXFKNE05SlFSNUU0UE1xbm84SWdyYkZna1FQVktCZkE0U3lJUEpIQnE4UkxKMGJKNU0yanExdWxHaFdTbmNROXh6OHlucFg1OUNGb3NpNVp2ZFU?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 18:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W35"
+    },
+    {
+      "title": "Trump heads to Texas to bolster Ken Paxton’s sputtering Senate campaign - New York Daily News",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSXRwYWU0eFhETGI4d1VSUkcyeXkzeUgyWEFNY2NKekY1UmtTbUdjQ3RYdEl3eXZKdjdLTE5OWExtd2pMY3EyOEFNd1JhR29kVzBicXhLR25VdnAwVDdUSmxNalpIcmNOaVlkWjVSUlAzTm5WQU01aHpXSUJJNmNpM0ZQaWE?oc=5",
+      "pubDate": "Fri, 28 Aug 2026 14:19:51 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W35"
+    },
+    {
+      "title": "'He is a little freaky,' Trump says of Talarico before heading to Texas to support Paxton - wtvcfox",
+      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxORnhXbHJrRWRXZ2oybkRqQ0lES0Y5LXRDU3F5UHBCS2FQVS03LVJXbVc4Ym01bGhWQzBVV2Y2QmFOc2JYVWZTMEVCaWYzX0VFVmpLQlBnZXgwVlBUUlY5YjdfSk0zT0hVQ0h4Y3RLWi1mLVJtQWNrZnRsYUxISlFHU1RVR3REcE5GNU1QanRJek15TnVRdUd6YW9Ec0U0cnJ2by1WQVhxRzRCQ2lWYk9FY056RHVNNkdmMnRoWHZoa196TTh4S1lSY3lTVWx2a3EzVGluTTNTcGFWZ0NkWlRfRG41S0NJRmJRSDVRSTFmUWdiVGhhTlY4dGxDVWd0U0kxd0R1cDI3N0N4T3hYSm5Sdi1hazc0MllzM3J4WmNmSzFMTWI4a2phWS0wVGVYdldaZ25Vck12OVNWQmxnNDh2OWtJamZRUVdqeEE?oc=5",
+      "pubDate": "Fri, 28 Aug 2026 04:29:59 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W35"
+    },
     {
       "title": "James Talarico called out Texas Senate rival Ken Paxton on AI - wonderwall.com",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLV8zMW11QndGWS1SOVpkX2JadGVaTjM4SVRxcWt1NnljMmVKaXR2aWxyc3Bsc0hoQmJTT1Rtb0dPYXF5VXJZNjFXV0dvSnhBUlVSeEpxdk1TbjM5VkxsVkRUSUZLV1FLaEVoQnZsVjZFemV0Ynl5eXJ1NGc2ekhaMUdVX1VsUkphd05EUklsWDREUVVxUUEta1VBV1dRS0M0ZzJRdjJsUWw1dTVjaGIyYVBkTWphUG45WVhUcGs2NF83TFg2N0JJT2RoMklhZw?oc=5",
@@ -1601,66 +1662,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "talarico",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Texas AG Ken Paxton targets Chinese technology, chatbots in data center platform - KVUE",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZzltMmFUVHdUTUZwYktpSnpLNlVpLVJvTTZ3T0s5Mzh2UGl0MkFkN29JaktOYXI1WDNxb1huTVVJNVk0MVpHdDZzSHlsN21LWlpIbXF3OEgwN2xYNlFhSUZXdko1VVZBSEJLMnhuaVBFNE5kNzVqSEE2MFVEdG5pRTJwZjlLc1lOUlZOZDBLVHBJdGxoNm5IUlVNX3gwLXluMTYwSTBmci1lQWZHUTBLQlZSVlJ5OGxka3JFNmRVYTVCbnhEUGFUS0o0ZkxWbDlDeUE?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 22:28:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Ken Paxton unveils 4-point plan to curb data center growth in Texas - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRnpfOXhpZnlRUDdWMm1PaUl5MHBWT3JuNmh4aGdiclJGOVFmUU1ScEQzZVh3Q1BBbktMdWtPOGJpdEVuOHV2bnVxeTlWMjZGS25sbE42OWxRS0NvN25EWi1aYTRPQmxiQzhCUDI1cXpubk92VzlrTmxpVFdVSVprUUN0SHlNTzJjMnNRR2FncllZQlRGMXItLTBWcFhFMTlFYVNabjBwLW53VFgyU0lQMzJpN1NNZUZXOE1SVm8zUk5wLTVSY1JpOWE1QkxKOUlUY3BhdmdENA?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 22:22:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Trump to headline RNC fundraiser in Houston aimed at boosting Ken Paxton’s Senate campaign - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOb3hJakhwbE9JaDIzMXE5eWp1eUhLSDRzYVlBT2p2eFZ2Tk1SVFVnUzhjaEZ5WHRkNDdWY1BmSGdKeEdIU3ItVzFrcm9PZVl6b0RHeG9vOEtkSnA1RUdRX2s1ZnZqdzhpb1pLdGxIa0NVUEJaOEhBSnlkcUhtMGZHQXp2N21ORjBsT053SWd3cXFUTEtpVWxnMkw4aGp2Q2ZzZUtLSmtwZTZxY1cxMTExOHBTcnVKY3JlYlptQUJ2X1pVcjRCQWFuYm5hX0p1MGdtYjlCazJ3TG5BYzNHX2h5emFXdnYzQlJJRHkyQ1lrSDZBQmpVaVMtMUZvVXNSOTZpZDlPV2M5RUtaTXlSTURuNFowVXM2SHlrUXZIc2RTb0pUalpjZ3h3LWlDbERsdUZzcmFIUzJUTzdxZ3FhRzNudnZROTBBY2czZ1pQc1dLM3BxZm1uX210ZF9uOFpaajFqQXNZNmp0bjUzX0Q3S0ZkRDNXNWVnQVVJUHFFajhn0gH-AkFVX3lxTE5veElqSHBsT0loMjMxcTl5anV5SEtINHNhWUFPanZ4VnZOTVJUVWdTOGNoRnlYdGQ0N1ZjUGZIZ0p4R0hTci1XMWtyb09lWXpvREd4b284S2RKcDVFR1FfazVmdmp3OGlvWkt0bEhrQ1VQQlo4SEFKeWRxSG0wZkdBenY3bU5GMGxPTndJZ3dxcVRMS2lVbGcyTDhoanZDZnNlS0tKa3BlNnFjVzExMTE4cFNydUpjcmViWm1BQnZfWlVyNEJBYW5ibmFfSnUwZ21iOUJrMndMbkFjM0dfaHl6YVd2djNCUklEeTJDWWtINkFCalVpUy0xRm9Vc1I5NmlkOU9XYzlFS1pNeVJNRG40WjBVczZIeWtRdkhzZFNvSlRqWmNneHctaUNsRGx1RnNyYUhTMlRPN3FncWFHM252dlE5MEFjZzNnWlBzV0szcHFmbW5fbXRkX244WlpqMWpBc1k2anRuNTNfRDdLRmREM1c1ZWdBVUlQcUVqOGc?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 21:05:32 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Trump to headline RNC fundraiser in Houston aimed at boosting Ken Paxton’s Senate campaign - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPTngybVpSUkNyOEFXNnQ1ejkxWXJLV01jbXB1RUo0WEJ2VHJaNndsamRhS1M5VjN5WUx1TzU1ZmhIV1VjQnFQVE5lWmZ5b3YzNnBiaUhCZHJtRnNmeDdxV0lHZVh3S0VoY2FIekhUQWFEQUNXYk5hc3A5QXh5aExEZFNXajhRd2Npd0dQMm5COU9DMlpGVXdXM3pCWnhGSnZLc182cWNxeHQxYUZ1UHdWSzNNN2Znc0FwT1R4TUhNaUJMNy1HZ2tveVo5RmlfMXN1WWI1ODRwWGYxU2VYbWZybFp1Yk5JWFp5NlVVTTdST1lNTVJrcDFWSHEzMU1PZ1ZlQTdiWktSSWZiWmt0MXZFTXdlTGNLTko3RlJ4eEpYeGFfX0dKVUU5UGNCWkE0R1c5eGZDdnc2M3k3eU1ObTl5dllSWW56MU5BeGVZbGlaX2xlNUN6SF9hejdMTVdsWTZ6aThSaEVVN05QZVpwZThzRWpVVk5fZ9IB_gJBVV95cUxOb3hJakhwbE9JaDIzMXE5eWp1eUhLSDRzYVlBT2p2eFZ2Tk1SVFVnUzhjaEZ5WHRkNDdWY1BmSGdKeEdIU3ItVzFrcm9PZVl6b0RHeG9vOEtkSnA1RUdRX2s1ZnZqdzhpb1pLdGxIa0NVUEJaOEhBSnlkcUhtMGZHQXp2N21ORjBsT053SWd3cXFUTEtpVWxnMkw4aGp2Q2ZzZUtLSmtwZTZxY1cxMTExOHBTcnVKY3JlYlptQUJ2X1pVcjRCQWFuYm5hX0p1MGdtYjlCazJ3TG5BYzNHX2h5emFXdnYzQlJJRHkyQ1lrSDZBQmpVaVMtMUZvVXNSOTZpZDlPV2M5RUtaTXlSTURuNFowVXM2SHlrUXZIc2RTb0pUalpjZ3h3LWlDbERsdUZzcmFIUzJUTzdxZ3FhRzNudnZROTBBY2czZ1pQc1dLM3BxZm1uX210ZF9uOFpaajFqQXNZNmp0bjUzX0Q3S0ZkRDNXNWVnQVVJUHFFajhn?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 21:05:32 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
       "weekKey": "2026-W34"
     }
   ],
