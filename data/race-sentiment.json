@@ -1,9 +1,75 @@
 {
-  "analyzedAt": "2026-08-30T13:10:41.484Z",
-  "newsFetchedAt": "2026-08-30T08:08:51.528Z",
+  "analyzedAt": "2026-08-30T20:48:55.394Z",
+  "newsFetchedAt": "2026-08-30T18:01:16.354Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 4,
   "stories": [
+    {
+      "title": "James Talarico called out Texas Senate rival Ken Paxton on AI - wonderwall.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLV8zMW11QndGWS1SOVpkX2JadGVaTjM4SVRxcWt1NnljMmVKaXR2aWxyc3Bsc0hoQmJTT1Rtb0dPYXF5VXJZNjFXV0dvSnhBUlVSeEpxdk1TbjM5VkxsVkRUSUZLV1FLaEVoQnZsVjZFemV0Ynl5eXJ1NGc2ekhaMUdVX1VsUkphd05EUklsWDREUVVxUUEta1VBV1dRS0M0ZzJRdjJsUWw1dTVjaGIyYVBkTWphUG45WVhUcGs2NF83TFg2N0JJT2RoMklhZw?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 16:05:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 28,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "texas senate"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W35"
+    },
+    {
+      "title": "James Talarico to air first TV ad attacking Ken Paxton in Senate race - Click2Houston",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTF8zMDRLSV9pX3V3WFdRZE1aQ09PS0Jhb2puRVlNSU96YVFYaEoyTXZ5aGQyZEVHV0oyZUVsU25KendFTUVaWnFlQzExbHlWWW5LV3I3cFlzNkZUWFdIcFdLdnBHNW9hNFlGSE5RTHdtQTBrNVRSUDBzZXVtb3d4dkpIcVZlME1FcE1LNEY0RVJqQlBlM2pGSkUyVDZDNFRHLUZ0bVQ5SEd6X0hwcmROUFp0VHdzN3F6RDFWUV8xMjZsaFNJNFVHSE5VbmV1dFhtUmc?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 14:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W35"
+    },
+    {
+      "title": "Senate Candidate James Talarico (D-TX) Rally in Kerrville, TX - C-SPAN",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUS1zWGdXZnZKd0ZWMDdXMGF0UlBNLVk4bnFid3hhVFBNSlNXV1lXODVGSzBxUmdoOWpUT2U3ZnVOWXpnbGI4SG9fUFh3MTFtNWw0WHN5c1d2UkVwb1ZrdktLU3JPREhiSC1rSFRCcFBUeVZMdVJTdEd3ZkhudHdGNGEtWEYxWVZFS0pldzBsT3h5MnlzcW9SYktQRG5SUkpyazlRVVd4RlljbVB3?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 13:04:02 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W35"
+    },
+    {
+      "title": "'He's a little freaky,' Trump says of Talarico before heading to Texas to support Paxton - fox23.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPTkk2eE94cHBGWU5DV1c4QU1HdFVLUFhLSnpyYmY5eTV1cDZ2X0I1dWQwVnRIY1c5RnNsY0xJbDNPbW5xVF9idGY5eHM2c2J6MXNXcTFleFVfWm9mTmZpVDZITDFLaVdkbHlxdm5RR3FjMkNwdDlranZLMGE3b0lPSHQzM2wwR0VUenhmeVBYQkV6YndtYjVHMGlrSER6M3NFQUIxMEJPRmlEcU9iVU5sZUs1OEFMNmpWOWlpNG15ejMxZENwUDZDTUh4RjRXRlJFSW5fSV9URU8tTElObWppVmVyekxicnJDTzlVeGNacGlvMFpHUmRQb1ZDMTQtaVVIUE9Wc3lRTndrTnh6WWtKYzRmbG5JNkt0R3B6bW9KaG5zWkM0Tm1sbWpVd1lCdVRnbUtYSWZUV3dmN2xlaVlZZG00UQ?oc=5",
+      "pubDate": "Thu, 27 Aug 2026 19:56:02 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W35"
+    },
     {
       "title": "James Talarico Says He Chose the ‘Ministry’ of His Senate Campaign over ‘Finishing My Ordination’ - breitbart.com",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZXhQd0Q4VU5PUDE1NGw2RTdZbEtxbF9EZmdXZThCcDJTclZxVEZkMExUNjQ4bEFBUC1OZ0NnTjdRR3VUWmNqV241N1lwYzJucTVDemRtTFdzVDVPb3lOQXNNUFBnV1ZQajBib0ZucTlCRVA1elVqWGdHNDQ0d2h2ZDdMcmpMbklIQnBicE40UmgtTkZfdkFyb0pCdEVCRDVCOVluVlNXUVVzVkJxWEppdmpUcFY4ZnJMcy1CTWtORjRRSHVPcmFPVGJTd3g5VXpmcDZqQkdUejFvbWx3WkFSSlZRNmFYaHPSAecBQVVfeXFMT2V4UHdEOFVOT1AxNTRsNkU3WWxLcWxfRGZnV2U4QnAyU3JWcVRGZDBMVDY0OGxBQVAtTmdDZ043UUd1VFpjalduNTdZcGMybnE1Q3pkbUxXc1Q1T295TkFzTVBQZ1dWUGowYm9GbnE5QkVQNXpValhnRzQ0NHdodmQ3THJqTG5JSEJwYnBONFJoLU5GX3ZBcm9KQnRFQkQ1QjlZblZTV1FVc1ZCcVhKaXZqVHBWOGZyTHMtQk1rTkY0UUh1T3JhT1RiU3d4OVV6ZnA2akJHVHoxb21sd1pBUkpWUTZhWGhz?oc=5",
@@ -1595,66 +1661,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "paxton",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Ken Paxton's net worth jumped in latest financial disclosure - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTTM3U2ZWZmlFc2VoUGVrM1A0M1g1OWZfeDUwVEQwemxaejFxRE5PU0k4eVZDMWo0aGNQV1RrZ3R6d3EyZGNvSnE4MHhzbTNoM3cyd3NLeW9BWlB5M1phMWJWZFZUTjV1bVAweEhIZUlxUXB4RHZZUDVMNnlOdFpxb3c0ZkRnMlp2cWs1dkZDaHdzVzQ?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 20:53:34 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "In Texas, Senate Democrat candidate James Talarico opposes voter ID - americanthinker.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTEFMNi0zeGhreXpzcnZBTy1FRXdlYzZzWk00Y0JYUjVYWnRSZjU5ell3MUhxTmwxUF8xRTM5VFVjUG1XdENUSEdsZEwwZ1hDSHdIRU5iaEVVd3RDZUdtZjJOSE5OZFlPS1c4NXFIZjYwVW1lY0xzdzU2TG5XZ2pKb2RiWnFfeURTMnVhZXVPeDVQUmZTUFNuSjdpU1Y5WTR3eFFSS09wZGJCQkViNlh6WHNB?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 19:32:50 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "WATCH — Jasmine Crockett: Black Community in Texas Not ‘Excited’ About Democrat James Talarico - breitbart.com",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbzFjNDBlb2VxQmFCQ3NCZ01vNld2U0VWUUFWNUZoV3ZjeU9uZW1XRnN2c29XUXJGQW5CNGZqZmlEdWdLc1NjRkVYUklLOWl1N0FPWmV0WUtLZWU2LXlxT2NPZVE3X0dYMkp1eE12Sm9ESG9Oa2RPX1RSS1JLT19Kb0xfdW1hNmg3S0VSUnFBTEE4anlHdGdyTlVYSzVveDJ6WDZ0ckhzV09ud2NrckRfcU1JXy1wRWxORk0zcW56OFUydkU5ak5lYWo3anpPUExjanfSAdcBQVVfeXFMTXF6MXRiRmF0VUpWYk1TTnA5YnBCaXVBNFV0QUQ0V0I4OHV0X195ZkxXTEQ1aUpqR2JVVjdWbXk2T3BnODRaRHFqc0pPR1NsaDJXbDViSk1iaWsxOGRfOUZQejZUVGdQQUlxR0ZQeTJ3YTExVHdwbGxBRmEtdkp0RnczV0NyT0pYcFlNWDhURTVyVkd4Xzk0UkhKZkN3czlHTlZyS0lBbTNGMlVNNmFySmhJeGwybHZvMkVyRkNBLUduWlNWdy1hZ3R0LWxBS2lYQ29KY0FqOTg?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 14:14:22 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Talarico hounds Paxton as ‘anti-puppy’ as Dems hunt for scandals that stick in Texas - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeUlpR1V1STlMdUhUd3l5MjNXQzRzQmxXbzgyNzRlMlU4RVVjcU8zUVlPc2FQY1NFcjVsLW52eHNiekk3c040NjV3allaVGpZU3RqVU5jNUFmSHlnTWpmbGdOLVJtZEVEWFowZVRJNlRVVGp1M3VrWnpmdFJ4MVdSaWMtVjhRUTFLbWpicWJoRk9xVmo2dFJRNzBMM21FSzJwY2FIMHh3MTFna1pQWEJnMnZvU0VaOUVTN2hOZ25ZT1U?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 19:25:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
       "weekKey": "2026-W34"
     }
   ],
