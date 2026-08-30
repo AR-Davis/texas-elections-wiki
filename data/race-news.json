@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-29T23:10:20.559Z",
+  "fetchedAt": "2026-08-30T01:32:57.486Z",
   "count": 23,
   "feedsChecked": 8,
-  "itemsScanned": 74,
+  "itemsScanned": 76,
   "items": [
     {
       "title": "John Cornyn calls Ken Paxton a ‘poor campaigner’ – says he won’t help ‘lazy’ candidate in Texas Senate race - New York Post",
@@ -126,18 +126,6 @@
         "ken paxton",
         "cornyn",
         "john cornyn"
-      ]
-    },
-    {
-      "title": "Jasmine Crockett Is Breaking An Unwritten Rule In Texas Senate Race - HuffPost UK",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNnB3S1Y5Rktka0NFdFpLYTR5SWpQN0R1bHlsOTBkclZfcmttcDhlSDBPZXN3LXBsZ01FSjJTWWt2SFIwdzJqN0lFNHhlWmhaeGljYkVtWm12bU1XNXFacFI3OElsUDhxNExLOV9UNS1OM1AzRUxrMk5DRXZPb2pXYk8tYzZXYzZxSV82LTA2WkZxbHdvQ21icVFpQUpHWlFfcG9pMUdWTTFNY3VRZTFKYXJpd0VrU3dHemMtd1lB?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 17:42:27 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
       ]
     },
     {
@@ -287,6 +275,17 @@
       "matchedKeywords": [
         "talarico",
         "james talarico"
+      ]
+    },
+    {
+      "title": "Trump rides into Texas to rescue Ken Paxton and mock James ‘Tel-a-freak-o’ - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONXpRbjFKUnlOYzFjT1RpV2RMVnpPZVJBVkIySTd1MkFoRnNNbVM2Qktmb3RXeldXZmJYZVpNSUhsaE1mMVlyY3NrY3pLRk9SS2lJc3VaTWhJVGRVVE9uRkVmWjZFaGV6T2M3czhJSmJMOEhtRTNjQUtscl83bTRVWUplTnR0SGxXSXF1SEpiSTNFUGJGSEFHUDhiemJBZ19lYTltVHp6U0Q2bTFlUkZNSWs0Nmh3SFhQYkRDQ2FR?oc=5",
+      "pubDate": "Thu, 27 Aug 2026 18:10:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
       ]
     }
   ]
