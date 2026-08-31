@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-31T11:31:41.731Z",
+  "fetchedAt": "2026-08-31T19:00:16.849Z",
   "count": 24,
   "feedsChecked": 8,
-  "itemsScanned": 68,
+  "itemsScanned": 64,
   "items": [
     {
       "title": "John Cornyn calls Ken Paxton a ‘poor campaigner’ – says he won’t help ‘lazy’ candidate in Texas Senate race - New York Post",
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "title": "Jasmine Crockett not planning to campaign for James Talarico in Texas Senate race - Washington Examiner",
+      "title": "Jasmine Crockett not planning to campaign for James Talarico in Texas Senate race - washingtonexaminer.com",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX0x5a1RnVjJfSWRiejNlMU5tOHdYVG15aXVlMXFBeWZndUd2Rl9YZmpyNmstNnhvZWVxeEZ0SjU4ajdOd25QWHYzUXZrbzNodzRWZ19zcEhYM0RsQUlYU0JseGxBZ1Y2WkN3aHpHTFJuTUxaRmgzZlQxTmlNVWkwQ2RyVm9NUllqUGdrd2RoMnd0WDY0dnBudFBfRjNYTUtRMFhyc1lwZHdMc0xhcVlZcy12bU9aLWkzeThvS1NBTUF5NHZjU29MaEV2eTBHWFA3SFN1ZQ?oc=5",
       "pubDate": "Fri, 28 Aug 2026 19:30:00 GMT",
       "feedSource": "google-news-race",
@@ -51,20 +51,6 @@
     {
       "title": "James Talarico to air first TV ad attacking Ken Paxton in Senate race - The Texas Tribune",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMWRNUGJKTV82QlBhc3AtcWpLeUFSWkNuLW02bzJhUk1OQjBGVk1aT0xrVXppSlNqTDVBbWxRZElfdjgxdFlVa3ZLWlI2RVdCWUx1TmFIaFoxRWpadU1lZlBPVDcxSTd2Rkw4SVE0ZnFrZDV5TnlnM1JsUDVHRGFoT3BaSktoaFNkVFFBODlieXUxQkhKRWViQzRCaHE?oc=5",
-      "pubDate": "Sat, 29 Aug 2026 14:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "senate race"
-      ]
-    },
-    {
-      "title": "James Talarico to air first TV ad attacking Ken Paxton in Senate race - Click2Houston",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTF8zMDRLSV9pX3V3WFdRZE1aQ09PS0Jhb2puRVlNSU96YVFYaEoyTXZ5aGQyZEVHV0oyZUVsU25KendFTUVaWnFlQzExbHlWWW5LV3I3cFlzNkZUWFdIcFdLdnBHNW9hNFlGSE5RTHdtQTBrNVRSUDBzZXVtb3d4dkpIcVZlME1FcE1LNEY0RVJqQlBlM2pGSkUyVDZDNFRHLUZ0bVQ5SEd6X0hwcmROUFp0VHdzN3F6RDFWUV8xMjZsaFNJNFVHSE5VbmV1dFhtUmc?oc=5",
       "pubDate": "Sat, 29 Aug 2026 14:00:00 GMT",
       "feedSource": "google-news-race",
       "raceScore": 26,
@@ -103,19 +89,6 @@
       ]
     },
     {
-      "title": "John Cornyn calls Ken Paxton 'lazy' and a 'poor campaigner' in explanation of Texas campaign trail absence - Washington Examiner",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdk9QdS14WmxyTDhoNUhpTmNUTEk5UXBDOHI0b2lzeHVDVjVMcjlfa0QwdjREYmpsLXJTdUsyQ2V6eVBES1JsQUpRblNaX3hyVFY1dldWR24zUExMZEQwbm0wcmY4QTUyZ2dUdWZ3M1R5VkFWWnVROTREdFkzby1HWXF2aWpXN1V2dWxPQjRkajlMX3lZWlhTMjBWQjhBRGJObll3NnJWQnlxT0V5MEE4aEl4N1dXRXQ5ZlM3c3dyLW5JTUc5Wkx1MF92WVB5Z0ZYTlpLd0dzTzd5Z1RvV2wwaDJVMUxiZw?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 17:33:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "cornyn",
-        "john cornyn"
-      ]
-    },
-    {
       "title": "GOP Sen. John Cornyn Calls Republican Senate Nominee Ken Paxton ‘Lazy’ &amp; ‘A Poor Camp... - upolitics.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdHNHRGtoWTRDcVNrcGJDNXhpMFdMbTJ1dHNWVGlUbFlUdzFvZVF1bHdrU3ZDSHlwUGpDRjFXS2dydm44S2drNWxFWUV3WG1IdGFuNjUzbVQwc0NncHZXVFZWNWlvaFRTUTNkYTlfUG9mcXN4VWpxbHV4WFhIZTFZNG5Ta0hWSHo5WEc5YXdaYm5ldGZKLWhfSXh6dFJrc0FFNjA1U2IwcjVzMGVLbkxNZEpVaTBfazNV0gG4AUFVX3lxTE10c0dEa2hZNENxU2twYkM1eGkwV0xtMnV0c1ZUaVRsWVR3MW9lUXVsd2tTdkNIeXBQakNGMVdLZ3J2bjhLZ2s1bEVZRXdYbUh0YW42NTNtVDBzQ2dwdldUVlY1aW9oVFNRM2RhOV9Qb2Zxc3hVanFsdXhYWEhlMVk0blNrSFZIejlYRzlhd1pibmV0ZkotaF9JeHp0UmtzQUU2MDVTYjByNXMwZUtuTE1kSlVpMF9rM1U?oc=5",
       "pubDate": "Sun, 30 Aug 2026 23:35:22 GMT",
@@ -144,37 +117,13 @@
     {
       "title": "'A close race': Ken Paxton addresses tight polling in Texas Senate fight - USA Today",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMVEySk5lRHhFWmxnQmJGUFZzOVRial91NkE2SkhYRFRHc29OcllfY3M1Rml6REtfdTJEbXhEeGtSTTVfZk1TUnNkSThvNUxBVGE0bGk5VTJuREdPTWpWVnUtUzlFYXBkVmZLcUJvUVZVNWQ1VmNfVzg4SVRibUx3SjZoZ0ZodHNzaGhDMmlUelNtWFhlNjlQNEVzNnJiZ2t3cmc4ZDFOUHFhUUFOWXc?oc=5",
-      "pubDate": "Sun, 30 Aug 2026 18:47:00 GMT",
+      "pubDate": "Mon, 31 Aug 2026 12:23:00 GMT",
       "feedSource": "google-news-race",
       "raceScore": 17,
       "matchedKeywords": [
         "paxton",
         "ken paxton",
         "texas senate"
-      ]
-    },
-    {
-      "title": "Ken Paxton got four warning signs in Texas' Senate race - wonderwall.com",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU0ZGTGdNM3F3ZnJfWTJleERaVHBlbERvRHp4MUo3ZHFpLWhHaVZBNFF1VUJrUTlOV0xXV05FSkpIRnFPOEkxdUNFVDRKT2t1cEJGOXIyczFuZnhGMUQtV1plb3puZ1Y5Zk5lN0lvZ0FhYmY2Y18wY1JyN0g4SEZHRDREUkwyZzFhaGt1YnBDQkoxdGYwZV9hWUttUmhUeG9OTElKWHlrblBpMk85REk3c2lNbm1vblN0dVJwcFVWcW9KQQ?oc=5",
-      "pubDate": "Sat, 29 Aug 2026 15:18:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "senate race"
-      ]
-    },
-    {
-      "title": "John Cornyn is raising money for competitive Senate races — just not in Texas - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOT20zcGw2TFQyeDNoRk9zRUUteU9aWElMS0NXc2F0R3NUckVURXJLRDMtLUFzZWx2VU9uMjlqREowaExCUm5SVjZzNEJMZGhLdXdRVWF1bUllWHQ1ZkdpbjFPSjR0bDVrenBRNEhpMUNKYm1GZXpaYlZLWmxnQVZqRmpvdnlGZVREOTlXY0lvQTBRbVNIVzZmR0p6U2xlSGpWOEMxdl90aFdmdGEwcmxBOGVMNFJIZDV0UTVVQWRCZm53ZmU4c0hVT21weEtIVnMwTVUtSVJvVENVV0hoYmxJYUJEa0FKbTRpV3BwNVk4dWRhWi1ZVUJHVTFn0gGCAkFVX3lxTE5jQ2Q3Uk93NnBONnZGZzJZWUpEUXA3VFhJSnB2QnJFeVNaS0NUaVhEZm9rX1hWY25pZ1BGOE5VNnhJcHZMdjBneW1SVnBzdjNBQno2NDdNVGdNd3hreXY0a29mN3RGekFEMS1xLV9EMnVJTUZncWI2T1pwYWhlVS1oVGpQck0xaktiQnZlc3hWUUR5YkJBWW56ZEFJMUJCa3lCdEJkV2c4aVNMODMwNnBmUWRud0VKQ0ZqNWFIbm9uTUxpX1VQenFvMUZhZnotcnVsTGgtLUtZbkZBcTR1dnBLN1JzNC1lSlFNd0tJV0lOQ3g4LTU1Ni1ncW1WX1F0bWNXZw?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 13:40:04 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "senate race",
-        "cornyn",
-        "john cornyn"
       ]
     },
     {
@@ -190,7 +139,7 @@
       ]
     },
     {
-      "title": "President Trump heads to Texas to boost Ken Paxton ahead of midterm elections - Scripps News",
+      "title": "President Trump heads to Texas to boost Ken Paxton ahead of midterm elections - scrippsnews.com",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQakhmcTc2eVlDMFBmUUZldU8wZWxHZTdXQXQ4cWdMaExHSnJkc2NPb1NWRmY1Tkt2dDJpZ0UyTC1FcjZaMFRjT1VEOWZXWE9UMjUtQnVKN3NlZ0dvV3hKSzRYakVROWx6TkFsbHZWLWp2Y2FrMWpsLVVxVVhKb1hJcVBsSHVVdWRtbVhMYTlkLWJwVlUwRU1wN2Mwc2RabGdoQ1pqa0F1bFlwbndkTUxxUGxROXFQVDl1LUp6SWExcTJkb1NncFBZ?oc=5",
       "pubDate": "Sat, 29 Aug 2026 07:01:20 GMT",
       "feedSource": "google-news-race",
@@ -212,17 +161,6 @@
       ]
     },
     {
-      "title": "Trump Visits Texas to Support Ken Paxton’s Senate Bid - sanangelolive.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMzluYmJzYUdMcnlRTTcybVN3YV9OajdBSk93SDFFaHQ5Z3N0SWNhclRnZHRCN0ExVmNzRE9IVk1DNGd1RjR1WG43UEI1UmNYZmpmc3Z2RGxxZm1ibnQ5bm5ralZRRGlabnR1VjJ4WVpOZTMyU3NiTFZxekxsUXlybDhjckRCTlQwenpTcldkSUJfQW9aWVhFdjdzSVZQQ3JZUTNSbDEwMA?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 14:13:23 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ]
-    },
-    {
       "title": "Senate Candidate James Talarico (D-TX) Rally in Kerrville, TX - C-SPAN",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUS1zWGdXZnZKd0ZWMDdXMGF0UlBNLVk4bnFid3hhVFBNSlNXV1lXODVGSzBxUmdoOWpUT2U3ZnVOWXpnbGI4SG9fUFh3MTFtNWw0WHN5c1d2UkVwb1ZrdktLU3JPREhiSC1rSFRCcFBUeVZMdVJTdEd3ZkhudHdGNGEtWEYxWVZFS0pldzBsT3h5MnlzcW9SYktQRG5SUkpyazlRVVd4RlljbVB3?oc=5",
       "pubDate": "Sun, 30 Aug 2026 19:04:02 GMT",
@@ -235,19 +173,8 @@
     },
     {
       "title": "James Talarico Says He Chose the ‘Ministry’ of His Senate Campaign over ‘Finishing My Ordination’ - breitbart.com",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZGtGcEpRVzRMVVp6R1NTQ29Wcm91STdlUVhwQTkyMGdtbFF2YkRkaGt3UXM5Qm5OR2FHZVA5dmxtUGRQNjNRMmpDOEF3SGxWdGxqRzdxTlBaSHZCWWo1XzNWckZqLWtLNGVtUG1EVzAtZWxoZXNpZTE3bVVaQTk3Wkg3TE1mbENhd2dZdmx5bFFpZk9qd05zNEpzSmxvRUhVTFJsckZnV2E4X2hVYnVyZ0dDeExqMkNhMHRPZ3p4bFVQRDFjYU0ta2ZBV2ZGQjNjX19mWXUxSWRfbUVEUGR0WXF30gHnAUFVX3lxTE9leFB3RDhVTk9QMTU0bDZFN1lsS3FsX0RmZ1dlOEJwMlNyVnFURmQwTFQ2NDhsQUFQLU5nQ2dON1FHdVRaY2pXbjU3WXBjMm5xNUN6ZG1MV3NUNU9veU5Bc01QUGdXVlBqMGJvRm5xOUJFUDV6VWpYZ0c0NDR3aHZkN0xyakxuSUhCcGJwTjRSaC1ORl92QXJvSkJ0RUJENUI5WW5WU1dRVXNWQnFYSml2alRwVjhmckxzLUJNa05GNFFIdU9yYU9UYlN3eDlVemZwNmpCR1R6MW9tbHdaQVJKVlE2YVhocw?oc=5",
-      "pubDate": "Sat, 29 Aug 2026 03:59:14 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ]
-    },
-    {
-      "title": "Rep. Jasmine Crockett: No plans to campaign for James Talarico - Washington Times",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVFpkWERUQVAwZmFOX3IyQTQzQnowTC1Fa2pzY1FnQmJRWThSMkRVWEsybWZMNGxoTW10RlV2ZGs5d2FONzJfZmRpeVQ2NGx4djRocGdhYjBfa0NVR053OGpQUnVKc0djVGJTLWFxMmNGOFcwam5NUGk1VUpWV0xWMFFMUG1FVTRzbFRMVEl3?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 15:23:38 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZXhQd0Q4VU5PUDE1NGw2RTdZbEtxbF9EZmdXZThCcDJTclZxVEZkMExUNjQ4bEFBUC1OZ0NnTjdRR3VUWmNqV241N1lwYzJucTVDemRtTFdzVDVPb3lOQXNNUFBnV1ZQajBib0ZucTlCRVA1elVqWGdHNDQ0d2h2ZDdMcmpMbklIQnBicE40UmgtTkZfdkFyb0pCdEVCRDVCOVluVlNXUVVzVkJxWEppdmpUcFY4ZnJMcy1CTWtORjRRSHVPcmFPVGJTd3g5VXpmcDZqQkdUejFvbWx3WkFSSlZRNmFYaHPSAecBQVVfeXFMT2V4UHdEOFVOT1AxNTRsNkU3WWxLcWxfRGZnV2U4QnAyU3JWcVRGZDBMVDY0OGxBQVAtTmdDZ043UUd1VFpjalduNTdZcGMybnE1Q3pkbUxXc1Q1T295TkFzTVBQZ1dWUGowYm9GbnE5QkVQNXpValhnRzQ0NHdodmQ3THJqTG5JSEJwYnBONFJoLU5GX3ZBcm9KQnRFQkQ1QjlZblZTV1FVc1ZCcVhKaXZqVHBWOGZyTHMtQk1rTkY0UUh1T3JhT1RiU3d4OVV6ZnA2akJHVHoxb21sd1pBUkpWUTZhWGhz?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 04:02:26 GMT",
       "feedSource": "google-news-race",
       "raceScore": 11,
       "matchedKeywords": [
@@ -278,18 +205,18 @@
       ]
     },
     {
-      "title": "Talarico gaining ground in Texas US Senate race, new poll shows - El Paso Times",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQWRJUVlYaEU4MWJ1ME05YjJNS2ZBazFQOWNMeGt6dXlzSjFCeFJTbFFJTDNYU2U4X3JCbWhzNk1aaHY3ckI1WTNjdV9GYzFVZnY5bm45dy03ZzJPb0ZLNko3WVNuMDdDamJpMS00OW5WVl93ZUJTV1NXZlc0UmRaUDByVldCUGZ0N0lNbFgzTUxmMXhIUlo5OWFlSFZOWWJvUE5ib0NxMlU3MlZjb1FiYUV0b0RrbnA0Qzg4d2ljSXN0YjE4cG9jSlVVR0c0eUhVNm5kQXM0dzBKUnB0WjNnRENSWDh0MTNKUjNXLXltRElfQQ?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 14:08:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 10,
+      "title": "Paxton responds to Cornyn calling him ‘lazy’: ‘They don’t know my schedule’ - ConchoValleyHomepage.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZFNMeklmN2xQQjFxdDNmcGR0OHVVUlV5d2FzOHNSM1hfQnR4YWVVaXU1dml5eTBVNkxyQU1UWWJrOG4xclBmaG92ZHF3U2Jwd0lZS2JUWWxxZ3NGRWZHMEo4VVJSZEIyN0lsdmZNWFl6SmtTM1J3aXo0NWJfcjQ4R0JBTWxXdUF6N1hweUwtSzg1VFhoUnJibllnS3BiVngxTFZmODgwTEFNQi1GVWVwVkhCRC1hNXE5bVdaNVJOOXBVRE1YdUHSAcsBQVVfeXFMTjR4aF9QaGZWVHJjZU1Yd0FGbjZkRm9ZXzh0ejFqRmR2Q2hrcVJ4N3E3czdldHVGclplSXdMVnVTbFExcThQRnRURlZ1VHVUUm1EamxYdFpVWWZSaDZ0YlhOb3dpVjktaWtsbC01NzFxc0NubVdMX2plX3d5NWQzWXM0Rk94TUtvRnB6YldsRXk0b2tvRE1YTDlzRXp0N3RUVC0wbjdEM3h2ZmVGbmlrSFdldkJFYlpUdVVLd0RpX3hCTTNXN1dLNk4wanc?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 15:22:23 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 9,
       "matchedKeywords": [
-        "talarico",
-        "senate race"
+        "paxton",
+        "cornyn"
       ]
     },
     {
-      "title": "Cruz dismisses Cornyn’s warnings that Paxton is ‘lazy,’ a ‘poor campaigner’ - Longview News-Journal",
+      "title": "Cruz dismisses Cornyn’s warnings that Paxton is ‘lazy,’ a ‘poor campaigner’ - news-journal.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeHVpQXFqZmUyZWgtWVVSUDNQSXBrVzFERzJmdDk5NXhSYUpCcUhHWFZyTjJ1YldTdmhFUUV0X2xRZzA4c1VrV29ZYXJLaDBiZ1BJY3gteVJmcXAyNHB6VGFCeUZGQ3h0cVZDd25UVm9FazhZLTNaWjQxTk5iVlZiLWJ4YmFFMDhuWW5qOG0yOUoxVktNNkVRUmYtTGhMdV9xNm05Y09INnhLdw?oc=5",
       "pubDate": "Mon, 31 Aug 2026 10:35:51 GMT",
       "feedSource": "google-news-race",
@@ -297,6 +224,66 @@
       "matchedKeywords": [
         "paxton",
         "cornyn"
+      ]
+    },
+    {
+      "title": "‘We need help’: Kennedy asks Trump for up to $200M to boost Paxton in a very close Texas race - news.meaww.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM1dfQmZNZzV4NjV0cks1ZnJkV0FJRWwxbHNFa3FIWnpyWUJlbGdoTzVzZm9HMWNTMWZvbnExYnhUVk9ENmlWY0JHaHRJUS04X2lsVHM3cHMyN1VaOW5jTHBDMjB1YnpKNnRfVVpmdnQ5QkJORmYxWHp3QTc5RXNDeW5pYmZIQ2Y0NVJDUTJlbENiekVySDY0ZTA1VDNxLV9hMHVWcUlYQlJKaDBPMFgxSDZTbw?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 04:52:52 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "paxton"
+      ]
+    },
+    {
+      "title": "Talarico’s past comments agreeing Christians are villains won’t win Texas: Joe Concha - washingtonexaminer.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeUF1SmJxYVFiV2F3WV9LckVRVDlWc2RCTWJldE05Z3YtQkV3TTF6LTI2dGNBd296YnBna1BGVlUyZWJNZ0lpUWJCa1RJN1lOZ3ppZ3RRUlF4b3UwRl9QenlfaVZPbE5BSkRsN0xVOUNiT01ZT1liaW1Bb0hzZ1dpTWg2Z0c4TkxvSW1XMWFMbW9XNV9NTFhiSnJxUkk4aGdQMVBLOVhhNUM4MzJlMzJrQ21BVQ?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 18:03:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "talarico"
+      ]
+    },
+    {
+      "title": "Trump vows to spend ‘a lot of time in Texas’ helping Paxton Senate bid - BorderReport",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeE1lcmJLdExLcENWVmlWTTI5THdQV2xqT3g0UXVtRlB3bzJocDlNTUhTVG9qeFpyeXJFcTZqT0JCRFJZdXFmSE1Qc2RPT1NEX01YcWFHZnRNbERDbVpPUkpBaEVSRmgyeHZGOXktTl9rNUxnWUhoZVpFZktmalBxRThpMi0ydnZDeEZ1SWhxcU9IRzgydUFTdy02Mm9vOWpOQldMZ1ljSFJNTk5CTF9UZTVXRdIBuAFBVV95cUxQZEVSeDhUOXNWSVF3Y2Q2M0RkMlNVMVNOVzVyRVZfOWJzYkYySWRwZFJNdjlRTDlsd1Z3NWZnckRZNXcyODJhd044czBETDl4R1RCUzJxazZfcVo4bGxndE9NS2k3REE1Wlcxbk01SUxoNXZIYnRXT3hGMDlaREJBSGdyN2l5VzdvYWZvck45Y3RyV1ZOOFhETnV3TWo4WGNSQ00tTTdXZDhYdmJwY2RwWmNudF9Gd3Vm?oc=5",
+      "pubDate": "Fri, 28 Aug 2026 20:36:38 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "paxton"
+      ]
+    },
+    {
+      "title": "Abbott, Talarico leading, races no longer considered solid Republican - The Center Square",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSFV5T0Z2cE1ndnNaT1JqZktoeEp0SnlNcGFMeEVYTW42UGhjTElnVW9IRzRXcUlyOU9aRXdrTjVPVGxDcTFmZzFsdVZJT1ZFWDI0dTMwcm1LZU4weEMwR2pGRFVNRGhwaDBsbFBucC1WdmN2QW4zLXNoZWY3LUs3cDBldC12WUJSV2lZMjhQenjSAZYBQVVfeXFMTmh4TjBvRXhTVUk4OG5aVV8zRkZHUVN6WVVkRmc5Tl9OaFZqcjlydjMydXhSWVQyRmJtNktUWFR2UEdwTmsxc0l6TTRoMXN1SW1MUWhhc3NxeENhTTlwenBBRkV3b2xUVFJCOWtHTlJmN3ZoWm5FdU1EU1hfdGprYkRrWWxxaGtQeVhjQWE3NXc3eEZRR3VR?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 12:37:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "talarico"
+      ]
+    },
+    {
+      "title": "Plan to cut number of polling sites in a major Texas county draws protests as Senate race looms - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbFEzUF9TTFUzaXhqS2RwcHZWRkN1eGZOTF96RGpyMDlPMHFmcm9ybFJRSGtwUXhpVDFHWjdYR29GZ19iSXd1eXVKQlVqSk9ISmk2OEgxZEQzX2JFR2NHNGppbTM0UGJXcGlVdTB3RkZOZ3F2RUk4aFVxak9BR1RVbHFYeUhYWFhGREg4WGUxVTNJNVVvLUpMSUg2RnZxcExkTUFpU0U0UnNOZnNOUkJEZEtHakE?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 01:17:26 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "senate race"
+      ]
+    },
+    {
+      "title": "Plan to cut number of polling sites in a major Texas county draws protests as Senate race looms - click2houston.com",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQb3ZkOFZzOGwyLWV3YWlSckszMUI2SHBnRDVvQ0tjbjdMMU45MmtnUm9DWXc3V01GV29WVUFyTTAzQXpCeDNhc001TkRxbldOSzJYMm4zN0ctYm1hSVY1LTdRMWNMNWxQU19IamRrWUs3Zm94X3pqYmpRN3UyTFZFX2F0SFFNaUhyOFVYVjJFRkRTWExPaWdFdTVEVTVqZGxjcHNCeDNHQnNObDNScWtPMnZvZHhDWnV5MFFJazAtbXVGdXVDVTBCcFBTS0hwMzV2clBhTFdpbFFDRElOV0FZdG9idjQ?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 00:57:37 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "senate race"
       ]
     }
   ]
