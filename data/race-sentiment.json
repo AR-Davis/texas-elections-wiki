@@ -1,9 +1,39 @@
 {
-  "analyzedAt": "2026-08-31T07:31:51.075Z",
-  "newsFetchedAt": "2026-08-31T04:56:25.931Z",
+  "analyzedAt": "2026-08-31T15:19:36.952Z",
+  "newsFetchedAt": "2026-08-31T11:31:41.731Z",
   "totalAnalyzed": 100,
-  "newThisRun": 5,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Talarico gaining ground in Texas US Senate race, new poll shows - El Paso Times",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQWRJUVlYaEU4MWJ1ME05YjJNS2ZBazFQOWNMeGt6dXlzSjFCeFJTbFFJTDNYU2U4X3JCbWhzNk1aaHY3ckI1WTNjdV9GYzFVZnY5bm45dy03ZzJPb0ZLNko3WVNuMDdDamJpMS00OW5WVl93ZUJTV1NXZlc0UmRaUDByVldCUGZ0N0lNbFgzTUxmMXhIUlo5OWFlSFZOWWJvUE5ib0NxMlU3MlZjb1FiYUV0b0RrbnA0Qzg4d2ljSXN0YjE4cG9jSlVVR0c0eUhVNm5kQXM0dzBKUnB0WjNnRENSWDh0MTNKUjNXLXltRElfQQ?oc=5",
+      "pubDate": "Fri, 28 Aug 2026 14:08:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 10,
+      "matchedKeywords": [
+        "talarico",
+        "senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W35"
+    },
+    {
+      "title": "Cruz dismisses Cornyn’s warnings that Paxton is ‘lazy,’ a ‘poor campaigner’ - Longview News-Journal",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeHVpQXFqZmUyZWgtWVVSUDNQSXBrVzFERzJmdDk5NXhSYUpCcUhHWFZyTjJ1YldTdmhFUUV0X2xRZzA4c1VrV29ZYXJLaDBiZ1BJY3gteVJmcXAyNHB6VGFCeUZGQ3h0cVZDd25UVm9FazhZLTNaWjQxTk5iVlZiLWJ4YmFFMDhuWW5qOG0yOUoxVktNNkVRUmYtTGhMdV9xNm05Y09INnhLdw?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 10:35:51 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 9,
+      "matchedKeywords": [
+        "paxton",
+        "cornyn"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W35"
+    },
     {
       "title": "GOP Sen. John Cornyn Calls Republican Senate Nominee Ken Paxton ‘Lazy’ &amp; ‘A Poor Camp... - upolitics.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdHNHRGtoWTRDcVNrcGJDNXhpMFdMbTJ1dHNWVGlUbFlUdzFvZVF1bHdrU3ZDSHlwUGpDRjFXS2dydm44S2drNWxFWUV3WG1IdGFuNjUzbVQwc0NncHZXVFZWNWlvaFRTUTNkYTlfUG9mcXN4VWpxbHV4WFhIZTFZNG5Ta0hWSHo5WEc5YXdaYm5ldGZKLWhfSXh6dFJrc0FFNjA1U2IwcjVzMGVLbkxNZEpVaTBfazNV0gG4AUFVX3lxTE10c0dEa2hZNENxU2twYkM1eGkwV0xtMnV0c1ZUaVRsWVR3MW9lUXVsd2tTdkNIeXBQakNGMVdLZ3J2bjhLZ2s1bEVZRXdYbUh0YW42NTNtVDBzQ2dwdldUVlY1aW9oVFNRM2RhOV9Qb2Zxc3hVanFsdXhYWEhlMVk0blNrSFZIejlYRzlhd1pibmV0ZkotaF9JeHp0UmtzQUU2MDVTYjByNXMwZUtuTE1kSlVpMF9rM1U?oc=5",
@@ -1628,40 +1658,6 @@
       "matchedKeywords": [
         "talarico",
         "paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "James Talarico leads Ken Paxton in new U.S. Senate poll - KXAN Austin",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ1A4V0pQRS0xNUZTUE1HODFDbno5YWMtX1ZWektHSnhHcDlWYzN2dmRpMUxMVXZoTmpLTGhYWUtDZUt0N2M1azlJWDRmVi1OM1Bhcmo4VkNVOXJVM2NjZUdaQW05YWllbW1VWVZObXhzLUsxZmNtT1ZGOFFNM2p1ZkVpa0_SAYoBQVVfeXFMT3pFdU1TYjRXV2tORGRnYklZY2I5X2syQzBEaVVZVHB4bEdnLUxJQnZsSzRJNkNLamNyUjAwQXl0S1BsMnFueGEyZzZZSGEwUVRrSGNKX3FxN3lKNVVDdlVadk5MbjFQQnAyaHVPRTNBZzN5TkFzTVlOZllJYzVlZmE3NDZpOEJaeEhB?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 11:30:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 23,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "James Talarico calls out Ken Paxton for data center plan that social media platform tags as AI generated - San Antonio Current",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNamY0alJRZnZRN2x3SzdUZE56THFJNXYzaFl0cEpwVTRicGVtcE04Q0dkQnkxR0plZ2JzWkEtOGpYVl9OS1dZck8wVl84TlVBdV9QWV9SS09IMGJHRzRHYTFvclZLQ2FDTHc1dHpIWWhIVDcwaUNmd3ZKVnIxM05Gc1hZODIyNlZPVGRQR0poSzdSanBJQi1MbnpYOWU0alBYaDM1YlNFQzItM3RCZlRzdXhKa3VRRHRuWUxXLVBzY3NacHBKU0dRQUxiSXJSRzhxcG9ROUxLRHdzNTk4M1dEYTBTVnZyLXdZd0pNT0diTmY?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 21:40:30 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 23,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
       ],
       "sentiment": null,
       "error": "HTTP 405",
