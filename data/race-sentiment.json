@@ -1,9 +1,86 @@
 {
-  "analyzedAt": "2026-08-31T01:31:27.419Z",
-  "newsFetchedAt": "2026-08-30T23:44:42.125Z",
+  "analyzedAt": "2026-08-31T07:31:51.075Z",
+  "newsFetchedAt": "2026-08-31T04:56:25.931Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 5,
   "stories": [
+    {
+      "title": "GOP Sen. John Cornyn Calls Republican Senate Nominee Ken Paxton ‘Lazy’ &amp; ‘A Poor Camp... - upolitics.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdHNHRGtoWTRDcVNrcGJDNXhpMFdMbTJ1dHNWVGlUbFlUdzFvZVF1bHdrU3ZDSHlwUGpDRjFXS2dydm44S2drNWxFWUV3WG1IdGFuNjUzbVQwc0NncHZXVFZWNWlvaFRTUTNkYTlfUG9mcXN4VWpxbHV4WFhIZTFZNG5Ta0hWSHo5WEc5YXdaYm5ldGZKLWhfSXh6dFJrc0FFNjA1U2IwcjVzMGVLbkxNZEpVaTBfazNV0gG4AUFVX3lxTE10c0dEa2hZNENxU2twYkM1eGkwV0xtMnV0c1ZUaVRsWVR3MW9lUXVsd2tTdkNIeXBQakNGMVdLZ3J2bjhLZ2s1bEVZRXdYbUh0YW42NTNtVDBzQ2dwdldUVlY1aW9oVFNRM2RhOV9Qb2Zxc3hVanFsdXhYWEhlMVk0blNrSFZIejlYRzlhd1pibmV0ZkotaF9JeHp0UmtzQUU2MDVTYjByNXMwZUtuTE1kSlVpMF9rM1U?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 23:35:22 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 20,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "cornyn",
+        "john cornyn"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W35"
+    },
+    {
+      "title": "Trump Visits Texas to Support Ken Paxton’s Senate Bid - sanangelolive.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMzluYmJzYUdMcnlRTTcybVN3YV9OajdBSk93SDFFaHQ5Z3N0SWNhclRnZHRCN0ExVmNzRE9IVk1DNGd1RjR1WG43UEI1UmNYZmpmc3Z2RGxxZm1ibnQ5bm5ralZRRGlabnR1VjJ4WVpOZTMyU3NiTFZxekxsUXlybDhjckRCTlQwenpTcldkSUJfQW9aWVhFdjdzSVZQQ3JZUTNSbDEwMA?oc=5",
+      "pubDate": "Fri, 28 Aug 2026 14:13:23 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W35"
+    },
+    {
+      "title": "James Talarico Says He Chose the ‘Ministry’ of His Senate Campaign over ‘Finishing My Ordination’ - breitbart.com",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZGtGcEpRVzRMVVp6R1NTQ29Wcm91STdlUVhwQTkyMGdtbFF2YkRkaGt3UXM5Qm5OR2FHZVA5dmxtUGRQNjNRMmpDOEF3SGxWdGxqRzdxTlBaSHZCWWo1XzNWckZqLWtLNGVtUG1EVzAtZWxoZXNpZTE3bVVaQTk3Wkg3TE1mbENhd2dZdmx5bFFpZk9qd05zNEpzSmxvRUhVTFJsckZnV2E4X2hVYnVyZ0dDeExqMkNhMHRPZ3p4bFVQRDFjYU0ta2ZBV2ZGQjNjX19mWXUxSWRfbUVEUGR0WXF30gHnAUFVX3lxTE9leFB3RDhVTk9QMTU0bDZFN1lsS3FsX0RmZ1dlOEJwMlNyVnFURmQwTFQ2NDhsQUFQLU5nQ2dON1FHdVRaY2pXbjU3WXBjMm5xNUN6ZG1MV3NUNU9veU5Bc01QUGdXVlBqMGJvRm5xOUJFUDV6VWpYZ0c0NDR3aHZkN0xyakxuSUhCcGJwTjRSaC1ORl92QXJvSkJ0RUJENUI5WW5WU1dRVXNWQnFYSml2alRwVjhmckxzLUJNa05GNFFIdU9yYU9UYlN3eDlVemZwNmpCR1R6MW9tbHdaQVJKVlE2YVhocw?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 03:59:14 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W35"
+    },
+    {
+      "title": "Republicans fret as Talarico bombards airwaves and Paxton awaits Trump team’s cash - KTVQ",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTUM1ZHFQcHNfejFUVUpfVTl3Smg5WS1uVVJmaUJsZFdTYVFMbnhfd3NFRUF6czRrS3NGSjlBRHprcEhiQjBfc1RLYVo4YjJvVEN6bzNZMnVSNmpyV3dzWk03ZDdWQXg2cHZIMEVORUUwUmF3V1RiTlNZNVFOQVpBUVpZM2hSTUs0Z2g3UkFVc1lvaFhBeUNkZ0oya1A0ckVFMUZsaDNab2czdHc1RHo0NQ?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 15:41:10 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 10,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W35"
+    },
+    {
+      "title": "Talarico launches first negative TV ad attacking Paxton over corruption - eciks.org",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RRTNSWm94MHdBM1MtR0JZWlRGTWlncEhrSGJlSkZpWG5PUjNud1JHRVdiaXV0di0waC16MklBeXVobGpnOTNDcXdGa1FxX3doSGRWWXJLNzlSUXUxS25OZnptMkRRcUcyaXEwRlM5SQ?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 16:47:57 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 10,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W35"
+    },
     {
       "title": "Sen. Ted Cruz Dismisses John Cornyn's Warning On Ken Paxton, Predicts Texas Senate Win - Tampa Free Press",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONzdvc0E5YkdtNmxLellOMDgxSExRQlp1dTQ4cmdkckQ5YTNLMUtheHgwN0FSRGJUX3hyMzNpdmpIX2tqbWVkeUhZY2ZjLUFkWVoxSE51a25BZnZrQnNIU2huNzV5c2wxLWRIVFIwYnFoNlpHWTF6bnMxOTVVT3h6aFFWNUNNN243VThGN1BwSmkwY0hpSEFHWFNWYmdZbVg0LW5Takg1YlE1Qy1N?oc=5",
@@ -1589,84 +1666,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Talarico floods Texas airwaves in U.S. Senate race as Paxton, GOP stay quiet - HPPR",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeXNLT1hJbExtaVhFYk1lQUprOTJ0WV9vMjRNdjBBSHFTd1p5YW1mR3l4QWxCYzA4T3N4NGZrNmlVaHBzQWtVemdjbVZXUTdmdHJRWXQzQkdyNWgtVEJrM3ZfbjdFTzgxdVdBQjNrVkUwazBKX3hRejlqNmdLV2JQT01iMjBoUjVXaVNYc0dHNENtbTk3OEpRMGpLNnZEREhESXEtQ1haemRCM1REdHBsTzhRLW0zRms?oc=5",
-      "pubDate": "Sat, 22 Aug 2026 12:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Trump to headline RNC fundraiser in Houston aimed at boosting Ken Paxton’s Senate campaign - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOdFZHY1BLS2tCSGRnTk1CekVhQ3hyS3E5eGUzV0lBYTJSa2JubXp2aEhMUTNOTnFkYnJ2M0ZnRHhkNEZMUTB1bkFPVm5qdm0zamJtaXUxQlJuVDZkNmg5TDJ4VGlzLS1oLU9Ja1daTEV1YWw1a1hpd3RZZUV6ZWZwMHBEWWc4NUEwd2NkMzF6aHpadEtyU2Yzb0xDYjNnU1pyUWZPNTAxMGhhQm5TTXh2REsweVI0dy1nSTNCb2Z5R091Z19VS2hJd2hibG93Y3RZWndVVVY3R2RnZnlrR3UtaDMxMHdlcXNraTFmUFU2eEJXUXJDd2tMZXctOVl6RUduSkxDMzVsTEdjcWNi0gGUAkFVX3lxTFBYUl9IQUk1SjJQcGhXaDJJcFlnUkUwYjU4ZmZ2NFFnMnF2WTF3MWgtY21KTTcwOFlKam5HZjVmc3Y0dTVVZnNyVzM0MzFLODQxd2pLdnBWSF9qTHM4T0pLblEtRWFreXMxcjAwTnVBdmJ4ZFZ5a1R3WmpLYk1sYm1ZOS02VFBmVm5rbEExZGR3ZjVuUjhwTlcxc01wU3AxZFpVZUZGLXdJeHZ3UU13TnkzRV9nRGNEejluNEdiWUo1ZGJIaUhmQ1BfcGJQQjhUTkVraEpTRG9QQjRoeE95QzlrbWROajNMcWdmNXBaWFRVMDRvbUl3bGNWUjZ2V0djNkFreUxQaHJoaFAzTmhubzhtYzJkSg?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 21:05:32 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Ken Paxton unveils anti-data-center plan as GOP voter anger mounts in Texas - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcjZxS0hSZU51OU9obUxLVUtWdll2NE9sQVh4MEVGd1FralFnUVc3MXRKbEMzamRrN1N4Z3ktWFBSZUd0WnQyTUhsRUFNQ2VyMG8xVFR2QW5iaDFfMEZSQlRiQldFVWpDeGozNEp2Y0xXVThaVThPMm5DUkNiUUV5RjVxbHl4bVZicmVIeENscU4wTF8wcWpRNUhLd2M2TW9BaEhfLVZUMUtaRTRnQ3VfOTJraVgxN0lwYU9r?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 04:00:06 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Ted Cruz Projects $200 Million Cost for Texas Senate Race - Readers.id",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84R2dMZ05hTTRKbS15cnE5UkJsRUl3OVl4RTZVdEd0MjVLZVlxV2xBSnNLcjJYeUJqVl93UlpwbGV0VE94bnpiQmpKZGxHTGNsTXJmbjdUNmdUU2p3UnMxTnln?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 19:58:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Ted Cruz says Texas Senate race will be a \"$200 million\" fight - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUllYREFtMHEtamJMeWp4RXVUeGxrS0hZTlBxZ0l6aHpZUzYxcldGU1B4Smkxd19EQ25MN0VQd00zOHNXcXJwRjQ1MFRBT2hqMlFJWUZTWWVDck00ZlZaaEZtV1VFUVhmOGV0cnJJaElJY3NJWEF0Y1hEUXlYRDdxV3RadUN6WXo1aGFWM1Bub3lRd21EZGNV?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 13:58:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
       "weekKey": "2026-W34"
     }
   ],
