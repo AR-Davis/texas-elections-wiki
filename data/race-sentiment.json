@@ -1,9 +1,53 @@
 {
-  "analyzedAt": "2026-09-01T00:28:33.978Z",
-  "newsFetchedAt": "2026-08-31T23:17:36.513Z",
+  "analyzedAt": "2026-09-01T05:30:30.539Z",
+  "newsFetchedAt": "2026-09-01T01:59:20.296Z",
   "totalAnalyzed": 100,
-  "newThisRun": 9,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Paxton responds to Cornyn calling him ‘lazy’: ‘They don’t know my schedule’ - KXAN Austin",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUWt1NDlsZU9BTzBqOFk4cFZxSWJEWWdyem1NTnpsWm00LXJhYkNtMTByODlGZXJzckJKR18wcEdpeTNSSWRZeXQ0SHJ2RjNPNzZfTnRRTEFQSWhjZHdlYk80ZlpBX3lkWkFiXy1nQnFlQm1kblBjdGpLaktTOFZfZWVmeXlSQ0RrTlVCdTBtdGFhdFpvdUx2NE1mbC1Td0RlVVBSMnFBWDJITVNoTTJIddIBtgFBVV95cUxNQ1E3U2xXQnBKRVpxNVplaVNkbGRhNFdWWGxickN6RVdSYm5jdE1SWm9fdkNRVzhSSk5kdXVFTnJqcWIzY2tvOG12MVlVcjFVeFJCaUxLWURzWFRVQ1E0V2lMejNPZWc4VWdqdUV3NGJ1UFI5d2ZMOWRNb3RwaFBGU3JycVhTSTlwRXlMNHNxYnBmSnBsdEdIN1hpWFRWaVZDUTZOY2RieDlqYm9JU2lDQjlwa3JZQQ?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 15:40:07 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 10,
+      "matchedKeywords": [
+        "paxton",
+        "cornyn"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W35"
+    },
+    {
+      "title": "Republicans call Cornyn ‘lousy loser’ for refusing to help Paxton’s struggling Senate campaign - Washington Times",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYVR3aTdTdk9Vd3c3cGZPaUxxaEh3MTdlMmRidmFoc014cnQ5X2VHWGljaGNEUmFIbkg1MS11S1NTN0dqSnJxTWZGVXFtaGZJMlhsSnlSS2RsS1BGel9NZnFEQlpnaWYwa1JZVGt2Nkk5djdrX09rQlZLeGxnZzNVdVlwMzEzcS04TzNkaXV3N1IzeFFadHJhTzNPeV9aVTlYcGRmTjlkLUR1TUNoR0Y0MVl5VjRJeDA?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 20:30:24 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 9,
+      "matchedKeywords": [
+        "paxton",
+        "cornyn"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W35"
+    },
+    {
+      "title": "Talarico Sounds Alarm as Texas Plans to Close Dozens of Polling Sites - The New Republic",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORTNDOXBlN3pwN19qU0lHMUNHNUxnejMxZkczVzVoVTAxb3A2VG9hS3lZMnNmVGJ5OXdubDd1Vllkd0EwckV1SkJ5b2JRTUctQl8zeEJRaE1LMWE3V1c1SkxJU1dnTlNYUkx6czZzaUh4b3BwMFJpanNQc0M4SFg0OXR3ZGJhZWxpV19HSmQwTmtGdlU?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 18:33:03 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W35"
+    },
     {
       "title": "Small business association endorses Ken Paxton as James Talarico pushes for employer regulations - Washington Examiner",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMUNzQTVxNXpkaXRNZThmcVBuc0hBeEJ6aERvUEI2ZU5yRUhoUDdaS1pxRnZWMS1FZE1jcEIzTjByZ3F0S0t0LTFtLXRudUlLU25WYW1tQy00NlRQLXhSVl9zXzZuWV8wMDM5LTlyUGlmdm9GNjBET0lCRmNsZlZVNFhTZWJhUnV3MXFpSXBNalItd1Jpd3ctRzlrNDVZYV9tNFNzemt2cHpUdFN6Y3F3czR6bXU0UEpDUjNKYmhFdWtPMERqNkZBYW15YzZPR0RfQW9ZcVFUZGZxbkJObm9uV0wzU04?oc=5",
@@ -1566,60 +1610,6 @@
     {
       "title": "Talarico wants to unearth Paxton's depositions to keep focus on opponent's past in Texas Senate race - ClickOnDetroit | WDIV Local 4",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVnFPakVoajBSMnlJcWMwRE1HQmhBT2JMTlhYLXhNRGdFX0ZjejNFTTljeklZU0hPZXFnTzRqZWxmejdNaWs1YndnME1NVllRUnNnaHdhSHY3T3pVNklyUUstSldzRGJzOXBQUkYwMjR3cHRWX1NnMDJQYnRYUDZmY0RPNDBuZElQczdFSzZhdFl4dXU4N25RMUpZQ0ViRjhOTU9BSUQ0SE5lY0tGQ191MVZpaGxzT0hPX0N6S2htRGN5bDJ1UkFDeExhUDRtSHAtSklac3JEMHFoY21fc1pVWmdqLWhEelM2ZjZB?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 10:01:59 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Talarico wants to unearth Paxton's depositions to keep focus on opponent's past in Texas Senate race - Bozeman Daily Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNOWZveEFmSFRvNFMyQU5sMlQ1YWFsNVRFelRSc0hYQWtpVXNtd3dLdC1RT3hVdGRpMmF1Ums0MXozVVVGVnNsZXh2RExiLXVjUlVDQU5RZ0tSQ3kxYmszSTRfZE9SRzhQNWl3VDJmQWNuMUlDa01kVldhUVAtRWg0bUJ3VVA2aml4LTNZS2MycjRaYkRQSU1kT1p3dnRkc2xwYnNISjU5QnlWVDhEZlkyMHAxekVQek9aRlRxc2VBMF8waHRNRzRlV0RPTWhEanhZNVh2OF9LV3BNUFpmV2ZUSmJyb2FkN0owQTl2WlJaVUZ3b1dFOVQ0M0w2R2ZMR2V3WVhma3lTckUwa213SWFkUU9YTW1sNXQ3Slp5QlZ4RFM?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 10:01:59 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Talarico wants to unearth Paxton's depositions to keep focus on opponent's past in Texas Senate race - Ottumwa Courier",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNajZnbF81VGl0RWtxU0RLc0V2NFVqTXQtQXpRV3MtQnNqd0V6bnRfZGhOaTZWckJJNlNGZ0d3YmZ1Nk8tVUdmWDZlYWxXbUhmZnNlQ01CbzlyWU5KLVBrekY4OEFaazQ4cXpHV1RrN183ZFAxQXM0UGx2SWNTT2ZoWVZDU3pDMXNOTjl3VEtQcmFfakFGYVNlMW5sd0hBMXY5NXU1Wl9xNmRlZHFmR2psR0xPYUluS0tncTdlMk9KcThPRHdjNkhmd3M3Ny1UcGxNN1dHWEJyZ0FkWGQzWVpUZVZiSWRoSjBieFhkNmJXZ09sYjM3Q3djdHliYmtnak1uc2Z3UjZwMWN0TUtjZTkxdVZ6UnlzQ1FNSTBTa1dB?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 10:01:59 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Talarico wants to unearth Paxton's depositions to keep focus on opponent's past in Texas Senate race - The Batesville Daily Guard",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQVFM4bWZGUGxrc1ByZTRzaXVkQldFR0YyQk1jMjJrYU52NXptd0ExX2thMXR0ZExaVlM4aVZ0VTlEQWZmR1d3bDNTQko3cUR5TlQtSl9HTjVkSTFzX3ZIR2VvUmZjQjc2aTBoODNjajBzR0tmVWhMMFEtQUg2UFp5UTdJaUZVT1Aydnhjb3ZfbDA0aU5tbG1LREFkaXNjUVA3S2ZrZHpLTm5JZlU3VkxJX2VKS3d3ZUtXem5BWlVpbFlKMm9DYU54M19aODdLVGtZMHRlVTdMV2x5LVZ3Ukw0VlpRajFaZXgzanpfNVZQWFJzNm9DUUdyQXpGdFZ1Y21COHNKVkEwQUNMdU1PRE9nSGJwWQ?oc=5",
       "pubDate": "Wed, 26 Aug 2026 10:01:59 GMT",
       "feedSource": "google-news-race",
       "raceScore": 26,
