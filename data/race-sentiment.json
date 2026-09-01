@@ -1,9 +1,55 @@
 {
-  "analyzedAt": "2026-09-01T15:06:22.429Z",
-  "newsFetchedAt": "2026-09-01T13:22:10.964Z",
+  "analyzedAt": "2026-09-01T18:44:26.718Z",
+  "newsFetchedAt": "2026-09-01T17:24:06.164Z",
   "totalAnalyzed": 100,
-  "newThisRun": 6,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Ex-Never Trumper conservative radio host angers MAGA with Texas Senate race hot take - SILive.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMXdWTDllc3JBWDFVbmJaQnJPdFZWSS1xOHg0Y1JGZ1hMQTZaS2tJUy0tQ3dmMndvWTNCY1hvTUg3elhUcmlZS19pemJyYS1TWk9rSU0xM3hXcUJSbVNoUmR3NE91d0NsenBGaGZ0TUpFWG1VeXlKWGthMHh5ZlpHRERncVlKQ2RrSzZqenJ5YlBHZWk4cVhWWEVKTU1uRGdZTllRc3pwZkFCb3FoMVNvMHF1VmF0YVdTMVRKU191aEgwZ0lwZlFkQtIB3AFBVV95cUxPNEZ3VjlzMTBIWHVQZXRkOHU3a0kzQWJoTEF2RlFTVmZRbFdpaW5OY3hmLUx2blJid0tQZjc3Sm83b1dQSExEWnVEb05WNWRvZ3lTd1RKZUs0ZWFDOU1OMThNWXFPNHJmRFVSb29oT2VaTndOaXpobzdkRzBIdmtZU09JSTJvZDFvTjRPeERKQkxSTWZKNzlYeXhYanhDLWJxWGdIMHFOMG40bUx1NS16dVJPWEEtbDBLT1ZhWlB5RDNHdTNyOUVZdDVfbGpLdlA4ODdIUlVHVEhZZTNC?oc=5",
+      "pubDate": "Tue, 01 Sep 2026 16:48:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "general",
+      "weekKey": "2026-W35"
+    },
+    {
+      "title": "Dem James Talarico called capitalism ‘oppressive system’ that should be dismantled in 2020 forum - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeWZpa2lmcnk0WThSTHRmbFlOQ05hMkNPNUxIRVlSRHFwYlI4RTRZWU5PNnhoaTJmdjRNTnJGT01rbk5TejAyNHNNZUNWX0h4UUNtaFdPcXlGZWNBbjV2WUVWWHNyUkZRQ2RFdG9jd1p1V1JSX2hnNFJEaWFyTkhJYlRab1A4VEx2ekhFVW0xZlZ6VnVRSmFCV3NSSzZVeGJHOWM2aVNOakN6N3ozczRfT292bDBzNlhoVHZiOFRtb19MMVgwdW9UMFhTR3lWanRjUFJrdw?oc=5",
+      "pubDate": "Tue, 01 Sep 2026 16:35:41 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W35"
+    },
+    {
+      "title": "Election triumphs, a series of scandals dot Ken Paxton's political timeline - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVlGUDlUSDhmNnllbllSSHVTQlNIcE1iTGRpcHVsdDZfN29hTlJpdDVLSW1fM05zbXhHb2pIM0RqU1NZcXhNUG52ZzJReEVrRkhsLUEwX3JfSjViZWZwdDliZlljWVVBNHpPVWRHRzcxakUzakhrQjV4a0g3SXVzX0NGWjFoSTNlLUIwdFRwanNadmw3azJIQ1JBNXM1blBlTUM5UUZtMDB5bDjSAbABQVVfeXFMUDQyZ0RKenVWMF9sYkRyM0QxZnREc0E2SE96a2R1ZUlEYm1EaWYzdkNobkU5cFR0LVdmQkl0c2ZUYURrbm1oNmhFci1xeUlRYXZjUlBUc3hUTnlYNnJqd1JGeUxQNjF0WEhUV1N6eFhjVWFKRDJSLXR3NGd6X0kwc2hlUDhwVFpPNHAyU0FHdTJfOXNvREs1WFdGNTdJZHR4Y19OVTg0V084RVBGSDNobGE?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 11:56:45 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W35"
+    },
     {
       "title": "Ken Paxton Faces Money Crunch as James Talarico Surges - Newsweek",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdDFISk9vS0JfWmVmZE01ZngzSnVEeTlXaG9UQlI1RVpFWV9VRVZJZXdyWjdjbWtmODNFVnh5TTFvMnVLYWFJVTlRUmlTbTlIbkc1eV9OWndxaUlfdU1oclNkcFNNZjJoYTFuVS1lMnZMM2h1cHAwRjgxdkZDelpQWGlRTlY0X09MVU9nWUJ4Y3RPUQ?oc=5",
@@ -1547,56 +1593,6 @@
       "title": "Talarico wants to unearth Paxton's depositions to keep focus on opponent's past in Texas Senate race - Oskaloosa Herald",
       "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOUEFZaENlZ2RkRVo0VEpaQ2dSeVlBZ0ZlNnJRSE54eGlnVG5kYXN3cDRQTElkek93Qlk5SWFjNHJMRm1xT3I5dlVIZ2ItSm5CZG1ubzNyN2J1empGVFhjSVJEQWhTTm1CVWQzQ1k0N0V0RjgtZTVyQVdjNTh4TGtsOVFhTGRmUG9WQ2UwdHRsb3IxTHhvb09oT29ZeV82NDNqSkV0MHpFTlE1dkJQNVEyS1QwV29lN0xpRFZTaVU3M3hjOHluemFEM2d5cVY5RHhkeVppSzVpZV9fNkYyZHh2NV9qaFhLbW9EZlN4S09iOW5DbzdhVjhZZHRXejNPV09xR2N4eEpycFZDLTV0ZFhJZ0cyNmRjOTg?oc=5",
       "pubDate": "Wed, 26 Aug 2026 10:01:59 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "James Talarico leads Ken Paxton in new US Senate poll - KRQE",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRnJkejV6aUxBNlVzWUY2QXpOTzFIeC1EcU85SjRlSWI0TFFRcjc2R1hTZ0VpbmNjWTZsWkE3V0VUQ2R0bWxlOUcxYzkxME1hQllNS2tuSURma1hZOGF3RnZxYVFhT3FCYW1uczdqelo1MDNWeW5IRjhUNWZ6ZzBsdHJYdWNDS0RjZTJJVm1IU0RfLVlEVWpwN9IBmAFBVV95cUxNRnJkejV6aUxBNlVzWUY2QXpOTzFIeC1EcU85SjRlSWI0TFFRcjc2R1hTZ0VpbmNjWTZsWkE3V0VUQ2R0bWxlOUcxYzkxME1hQllNS2tuSURma1hZOGF3RnZxYVFhT3FCYW1uczdqelo1MDNWeW5IRjhUNWZ6ZzBsdHJYdWNDS0RjZTJJVm1IU0RfLVlEVWpwNw?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 20:48:54 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Ken Paxton says Meta will pay Texas $1 billion as part of child safety case - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMTVmcmJ5VEs1UVpwM2IydlFkTkhBLXhFTjVMT2RES3BZRHJSdUJ6TVdGNDQ5amhZNVpiQmNkeFNYV2FvUUQ1YTNkTERSRWNFaTBKNUY1UlFJS2c5WW5GMVJyR1VBM3NGcDlNaHU2SmxMM19NaDd3QnhWdTJjNnNJQ2p4ZEFrVkM1aVhlY0ZUUmNGUTBrRkhGWUk1Q1FMQQ?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 16:05:03 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "In Texas Senate race, Talarico seeks depositions that could damage Paxton - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTHZmWDY5bnJXNzVqZUM1dzgyMkhXclRaVFF4djdDLTM4ZmJXdGliT2pfWi1Xa3pDMWFRNWhyUGluaTZpVEJnbGRrWnZCV1g3OUxOM2FjaVN5TGFhWG5iRUxZTUhrSWU3SkdFd3ZZZGhISFMwQVh6MGM1S3FiZUM4V1pWUDBic08tVjI5S1owUVhXOHpIblFLeGZLOE9OcDR5bjJya09sX2lxVndIeXJ6QkREdkU4ZDNGLXdic1B3?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 14:41:01 GMT",
       "feedSource": "google-news-race",
       "raceScore": 26,
       "matchedKeywords": [
