@@ -1,9 +1,75 @@
 {
-  "analyzedAt": "2026-09-02T13:26:51.088Z",
-  "newsFetchedAt": "2026-09-02T11:00:51.063Z",
+  "analyzedAt": "2026-09-02T17:15:30.434Z",
+  "newsFetchedAt": "2026-09-02T15:13:32.512Z",
   "totalAnalyzed": 100,
-  "newThisRun": 5,
+  "newThisRun": 4,
   "stories": [
+    {
+      "title": "Ken Paxton Defends Campaign Strategy as Texas Senate Race Tightens - Readers.id",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iOVdlSGFrdi1QOTFORndFMXhxXy1CLXlwM3NGNmVzWWhNOVJGUmMzZExqN0QwMzdqVXVUOGh4TTN2RXdNdnJYNmpnS1VYMGZCdFVON1NvTGhvdE1hN2JfcUx3Y2U4WUtheF9jdlU5MEZrWkVN?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 14:41:46 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W35"
+    },
+    {
+      "title": "Talarico, Paxton Texas Senate race shifted to ‘toss-up’ - MS NOW",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNDd3WXZNSEpFWlpXaGloaHZFa3RnVF9Md2tSenh4dWhMSUxwXzE2dW1VTjR4dlVaUzZFTTNsYnVMa1JOLXVNR0dfMU9mMjAwVWFHdUxKZDJUNDBSZ2lNVTVVY3MxcEx2dHhCbGxYMVp6TDdOVHVRRGE0b0FCYXkwR3FEaHZrMWdGT0d5NVBsOXZWd3pwMzZlRk5FWUJhNHNnUFlCajlB?oc=5",
+      "pubDate": "Wed, 02 Sep 2026 11:48:32 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W35"
+    },
+    {
+      "title": "Assclown Alert: Calling out James Talarico as a ‘backdoor to Al Qaeda’ with Texas pastor Lance Wallnau - San Antonio Current",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcllGUWt2Q0RWMmc0U0s0Q2s2WFBHY0V2VjBLSEJCN1JCeFAxazZoUGVCMHo3Qm5ic2JIRk1FY2NmejhnTkNYS0VOcS1WSE9zdWhFZnZpTGtSb2M5QXRMcm1iYlA4VUs4MFN3RTRGNlgtT2lDSVpWZTBreFpZQmRqTzBwcTk5dmZHNkhZbm0zcWg5TmN3dENONUxWajhPakh3ZVhiekk1SW1xLTVpeS1XRDlxNEJDVE5wQ2F3bER5X1FucTloYzc2cWNhZncxZndmYXJtby1jSHFOdjdUYmlR?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 16:13:16 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W35"
+    },
+    {
+      "title": "Internet users roast Ken Paxton’s outfit choice for San Antonio block walk - San Antonio Current",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWWdrckI0cHNYRTBFTTJlOTNCMDN5aUNoMjZuTGptaFpBTFkta3ZmRTB1NHoyeGtwNTNneTY2SmFJblZLSGREcDFMZWlaeW1rLWEtMWJDLVcyeVFLUXFBN291VG5xSGRRcUp2bU1GYkI2cnZ0V1dCTXdPY256OWxQQWNmYllWWWhXdW12d0FpeGRiSEI5S2dfSDVHeklBTFlYVU1SdGFEUnB0V1h3RW0xRng3VllOUTlxc1diU1p2SnNkTWZOSDZV?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 19:31:05 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W35"
+    },
     {
       "title": "Texas Senate race turns into a money battle: Why this seat matters for Trump’s GOP - financialexpress.com",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNXzBYVWZIUDgwa09TODNaenBKek5XZGNJME1rd2ozdFVHNUxKS05WTnhyR0RNYXFaM0s5Q2U2M3RUUXZldUQzU1V3ZWlwODFKSXdRWEdQXzRnek1OeUlXNU5MOFFzeVIwaFR6RXBKelJUVWN6RmdvV2Vkdmd1eU00d1ppRU8zenlMWTRQZmVTSlAxTTVxV3NoYnJnajVSSE5Za3FzTzBjVGVTY3VtWUZMQkg5WEk1WGRkV09OQnhmc1FtOEdiVUdtUUNRM1VxeXZrUC1nTlBFMmbSAd8BQVVfeXFMT1FDZERnZTFYOENUMXBVMHRCMkJXZkxad19DSDkzYmt3ejJtelV0cHhiRDhhM3pMYUhJSHU0MWtoZkVwWEI1R3RHNWVVOFFfbjM2MEtIei03TU5pWk5DZmdFdTI5cGtmU2syY00tRXEyWkMyQmhqWlJmYUpQaWcxMFNDbHlZSmdsWXBNTVY5UDlZRjBiTkVobGxkZ0t6UEtaYklmYUxicVFlNkNWMzRjOVozRDhxQTdTWEYzbGF2WkJQWXpveUxEWHFhSnhYV2EtTUdYTWNtdkN4bDVNbUxmdw?oc=5",
@@ -1512,70 +1578,6 @@
       "error": "HTTP 405",
       "candidate": "both",
       "weekKey": "2026-W34"
-    },
-    {
-      "title": "Talarico to raise money in Los Angeles in key Texas Senate race - Politico",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM01IVnFjQlNvQkZQTjAwQkUweE1lZC1xQmhJTk1TcmlkSVdqaTJNLXpXZklOcEdwZkVQcUU4QmJpRmNCVUFKejJuQ2RhY3lfV1JYSW1GaVNIOHV4dm11bDYtT1pjNEdGeEpyMGZSSFc0eWM4cTV1eTJqT19Ienk4TFQwZFZGZHNIZGtfX0MtNldmRTc5ZmJid2h4OEhCRGFXWDlrYWJTZmM3RGhFUEwyRUJEcw?oc=5",
-      "pubDate": "Thu, 27 Aug 2026 20:31:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Talarico leads Paxton for Texas Senate while Hinojosa trails Abbott in governor’s race: Poll - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNllWT0toWlZGZXhmWHE1Sk9NSTduellrNXRLTDc3eGw3anVHbW9IOE9sUEZwdUNLWnpwdXBscVNzTXpHaEFzaG1tQ2dlcS1oaEJKMU03S0JsUjNrdHlZd3pqdml2THZuQWE5bi1XeHVDYUQ2NWNad2gxMXVPWm5QbFhEV2NCd0JT0gGOAUFVX3lxTE00NWpJWEFaa1A2N2ExR2VPd2ZmWlRPX2p3M3RrZmNkdEZYMVdMUlJzblBCUi05TGVlNWh2cHVTcjFLMDl4bVAtMmpnaGM3NnpucVV3WFFQYXlUODZVZTA4WEdaVEU3bmdpd081S2NBMlBiQ2xBS1FfeF9oRTloWWl6alRpX21VZXlNWkFrNnc?oc=5",
-      "pubDate": "Thu, 27 Aug 2026 17:38:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "New Texas Senate Poll Shows Talarico Clobbering Paxton in Districts Trump Won by Double Digits - Mediaite",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb3VBdjdqM1YyVGNxWHVXaFlFc3pnVUZHUWxoeXJWcGhrVVdCbkMwcmR3cWhuTmFVRWRDVjdlT2prWlNjQkhyeU01SU40dGVyZHdiUHlwZVR0STdWVXhZVHZlS2s5NGZ6SThvM3VRT3VBMl91QW5DZ3lpOFRZZE0wNTJYd0Y2MWtScHJSam1sUjNONnd0UDZpYWhPdnVjSDRocVhKTTZ6WE0xUHhUanVxRFR6WFItSE5CODgzYU9DYWlTUFdxX2x5dA?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 16:31:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "Trump rides into Texas to rescue Ken Paxton and mock James ‘Tel-a-freak-o’ - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONXpRbjFKUnlOYzFjT1RpV2RMVnpPZVJBVkIySTd1MkFoRnNNbVM2Qktmb3RXeldXZmJYZVpNSUhsaE1mMVlyY3NrY3pLRk9SS2lJc3VaTWhJVGRVVE9uRkVmWjZFaGV6T2M3czhJSmJMOEhtRTNjQUtscl83bTRVWUplTnR0SGxXSXF1SEpiSTNFUGJGSEFHUDhiemJBZ19lYTltVHp6U0Q2bTFlUkZNSWs0Nmh3SFhQYkRDQ2FR?oc=5",
-      "pubDate": "Thu, 27 Aug 2026 19:25:16 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W35"
     }
   ],
   "weekly": {}
