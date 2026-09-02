@@ -1,9 +1,39 @@
 {
-  "analyzedAt": "2026-09-02T03:49:51.396Z",
-  "newsFetchedAt": "2026-09-02T00:55:36.878Z",
+  "analyzedAt": "2026-09-02T08:37:58.290Z",
+  "newsFetchedAt": "2026-09-02T05:37:01.832Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "As Talarico goes from bad to worse, GOP debates support for Paxton - Washington Examiner",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNno4WHZUSS1EM0NXbFpwXzh4SkVzaTNXNmRtNGdkbVFNSlZuZVVpZ01ZWm12T1Q1WGgxemFrWG95Mk5CNTdYWm9aaFlOU2RKUVR4TnFkeFRRNFJMRTFwVTFqWG9SMUVPeDNrQnk2ZVJGcXhOWG95bU1rNU9tY3ZPUUlFNU9RbkhwN29jNWRmOTdaZWZEUnBHT2llLVlZbXlIOUFIakxB?oc=5",
+      "pubDate": "Wed, 02 Sep 2026 04:01:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 10,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W35"
+    },
+    {
+      "title": "Republicans fret as Talarico bombards airwaves and Paxton awaits Trump team’s cash - Scripps News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUzdxWjFNRnljTlVsdWkwRWQ3bXZ4a3VMaUNUaXJxSkJGM2JILVFFNElGSmQzUFZCTkViNWhlV3JVcmdXNkdrX2pWdmhOQW40eEZWSGpCVEUyckpsSE9GdDFGT0xZWVNNUkhMbGZKanRONThRVnZsQktKWEJEVXpSYV92NnpqLXVqWDdvMHJzVnFWeEJiTUZYNzhCSEVXNHphT0FNTy1rVE5KRzlBazNRQ1FCMUNSVmhjWHc?oc=5",
+      "pubDate": "Wed, 02 Sep 2026 00:14:43 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 10,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W35"
+    },
     {
       "title": "Thune says ‘we’re going to need’ Trump to help with pricey Texas Senate race - washingtonexaminer.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONXU2Z1hVRkFiZGZDNWlVTHZ2UXVYT09YcnFOUzBDcFpkZjBlX3JtN1dod3JYMkdfR1QwLTFEVlp0RnFLT1hSLVNhZFlSOUxjTlhvWmpzTWhwR3FsTGpQbm1CUERmRjZ1X3NnaGZvT1l1TUgta1lJQ0VFWTA5NXRNd1J5bVoyaDV0QXdzYW5GVUltM0xmdjRRV05QVlF4Sk11Z2lmMHF0NDVjc2lpZHdodzhJLUhYNmdRTUhEUTR3?oc=5",
@@ -1547,40 +1577,6 @@
       "error": "HTTP 405",
       "candidate": "both",
       "weekKey": "2026-W35"
-    },
-    {
-      "title": "Texas Poll Shows Talarico Tight with Paxton in Senate Race, Abbott Leads Hinojosa for Governor - SSBCrack",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONEsxUnE0TjdpUjd4c2NKTXFFY2VzS1Nzbm1EX2dKSDlvdHRtdWhxSGx5bEJwVUVTdk9Bek1yMEgxZ0JNLUYwT085WkR0dk9UckFXbHZDTDJMR2dBdFZZWHYxRkRfWEhpRzlQUGxkOEpjNlgzZVRRcVhTVTB2NFJmQWNVWEJRYWdveTJjYlFEdEE5SUtaN3owLXZMa3l3Z2NJejg1aXRiNUlDcVVlVG8zS1V2RXVUR2xlVXpsTA?oc=5",
-      "pubDate": "Thu, 27 Aug 2026 03:25:36 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Talarico wants to unearth Paxton's depositions to keep focus on opponent's past in Texas Senate race - The Killeen Daily Herald",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPekRPeWtYMC13X1F5aUNyanZtZmQ3NVhXRFo1VXZsOW9HRlAzNkx2aHktcDA5eU1MOF91aEkwNU85ZDdqd1VGSGRQWEdaM1VnTFM5MFRURXJrMWhnWVIwdG43S0s5MDZ3djdyRGYtWGlWTUFaaFl1S0t0Mkw2OXE1Z050MEdjdk0zMGIxTGFSMlVWcXlJODZVLTNsWnJIV0NITkVBMk5JckxncUhrZ3BJTVlhY2QxY3FjTnhEOUZaZEtTTWhaOE43ME5RZkFPMmpPNHNvOUppREl0amNtMnFESld6S2M5dDJJdG5qTmlpenp6NUhFQk9kNUlUaTVZajdwSTdtZHE2WXc?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 17:21:15 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W34"
     }
   ],
   "weekly": {}
