@@ -1,9 +1,90 @@
 {
-  "analyzedAt": "2026-09-02T20:01:30.383Z",
-  "newsFetchedAt": "2026-09-02T18:53:22.895Z",
+  "analyzedAt": "2026-09-02T22:31:21.529Z",
+  "newsFetchedAt": "2026-09-02T21:40:00.722Z",
   "totalAnalyzed": 100,
-  "newThisRun": 9,
+  "newThisRun": 5,
   "stories": [
+    {
+      "title": "Ken Paxton Launches College Student Initiative Ahead Of Texas Senate Race - tippinsights",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdlNVVC1ZbDIzenpPVzNIV0gzbmlKamc2M1B5Y3BOdnkzWmxiYklTQUlkc21ORWJ4Sm5NYVVXS3dKQ1Y3anJNX3VhUVBORElWeDR0a1JtZ0JFLWVUVldUdEFjR3NDdUpSRTdvbC1Lc0lOOFMxYnlBemxGU2lMUzNtS1NYRDZxTTFoZUllcDNxY0VpUUVOZlBPMmxPUmI3THNR?oc=5",
+      "pubDate": "Wed, 02 Sep 2026 20:28:20 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W35"
+    },
+    {
+      "title": "Dark money in Texas Senate race spurs Talarico complaint to FEC against Paxton - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBJbjBJcklxOFp2U245T3IwUXhVaGt4VDNQQlNPOGczOEgwWnJnNjM1MzdMbEhiWVpERTNKT1NwTzlTaFB4dU1sMGFOSW1rNkNYT05RNlJXUUt1N2NadG0wSFZFQUxKQjVleHpmT1YxVW4xSGVPZDlPLVB1R2g?oc=5",
+      "pubDate": "Wed, 02 Sep 2026 21:23:10 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W35"
+    },
+    {
+      "title": "Jasmine Crockett won't campaign with James Talarico - knewz.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTnl4QUxOWVJqZ1VuMkZteWdsRnN4TXY0N0owUndxVUV1TWNKd0FYUTJXbUVIalZSdXcyRzE5WmV2Xzg5SHBhLV90RmpqbHpHRVdFRlFJQnF0REtPQ2VLQkprdm1ReHBrbExoWVdhQUd1OFBQNVYwTDNJS2FkTTJGLXBIdkxYVHdXd3lKZ0pZRkcxRDRvT0hnbzNRVnZEand0?oc=5",
+      "pubDate": "Tue, 01 Sep 2026 18:47:16 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W35"
+    },
+    {
+      "title": "Democrat James Talarico called capitalism 'oppressive system' that should be dismantled in 2020 forum - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQSmQwT1BVWV9tWlpzeFlibkd6UXNwM01USENqeGlQVkNDbGd5MlRWb3Z1bFlTZVZuQ0ltVHlDbGtMNV9DNkVGOV95YUxYZk9ubEdDUUVKY0YxbW5TZGdneHBIbE1nTk9tRTRqMFNyYWNIRUVCdXZIcWFGQjRUQzIxbGNZamROTVZwWmp5U2ZYM18zb2xNXzhDRFNoLURfakNadzcwVS1PSG5BeTdUMWRVSlFLcHAyRjFMaGR5cmg3aFVab2NIb01NT1M0TXlEVkJ5c2xJYUFmTW1pS0dIUnIwSHpjYTd3cWNhNWFGSEMwZEZMT3VydnZzNHlIeFFxZlZkeW1NV2xudmk2QQ?oc=5",
+      "pubDate": "Tue, 01 Sep 2026 13:36:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W35"
+    },
+    {
+      "title": "Democratic Senate candidate James Talarico to host campaign event on Baylor’s campus - The Baylor Lariat",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNkRoQUtqMXRFVk9CMGd6N0o1QWllY0dRYXBhUkRkbkdDTjZiSzdjNm1ZdS1NajZRbGhxN1FQLWZ2WXZmMDBfNVg3VFo0SmQ0OHBkRTlRT0lkMkVPNTFuRkZqQWxSVFRZM1l5eC1hU2d6Y2dKX1VVZVREVEpPM0pGbUtpSWZ3TzcxY2t3QTRtaUFCOThBdUozaDA3dENLRlVmd04waXNyZ01XTTFCeDlYb2tGNWlmSnVoOGFjYnE2X3dRQW1a0gHEAUFVX3lxTE82RGhBS2oxdEVWT0IwZ3o3SjVBaWVjR1FhcGFSRGRuR0NONmJLN2M2bVl1LU1qNlFsaHE3UVAtZnZZdmYwMF81WDdUWjRKZDQ4cGRFOVFPSWQyRU81MW5GRmpBbFJUVFkzWXl4LWFTZ3pjZ0pfVVVlVERUSk8zSkZtS2lJZndPNzFja3dBNG1pQUI5OEF1SjNoMDd0Q0tGVWZ3TjBpc3JnTVdNMUJ4OVhva0Y1aWZKdWg4YWNicTZfd1FBbVo?oc=5",
+      "pubDate": "Tue, 01 Sep 2026 06:42:55 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W35"
+    },
     {
       "title": "Dem James Talarico notches slight lead over GOP AG Ken Paxton in competitive Texas Senate race - New York Post",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOUFVcm1QWFJTcDBEY2NkY2dkb1FxbGw2V1hvelpkQjNpRVp4c3dqekVaWjdycm1CakYtS0dGZVJwR3FkcWdnZGdvNzBaY2R6Zmt6Qy1KM240QVlEbUp3OUFZUmszTEFQemhtMnhjSXhjdUR3WjdTdnJWSkNRczNfcGZ4NGVQeFRHa3dHU1ZKY0l2ajZReDYtVkp6T3paQU83UTdrRlpYa2VITHduQlZxaGNKUFVzWUg3QkpudUZJdzRlbmlQVXVxVXY2aEx2NWhaaTBlUy0tOWU3djlGVE1WekZCdnRNZHgyRXVz?oc=5",
@@ -1490,91 +1571,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "paxton",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Talarico seeks to unseal Paxton depositions in Texas Senate race - eciks.org",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOSDBpWEFwSnFwSi1LOUhyOVFrWnEyUHFrUDN3c3BVdHNXcjdqLTRJM1ZLV3ZOU0ZId2FCVDlQbnpodUcxUzN3NEgtVXBwVlR1YTB6UGZCTy1EZllnS0RQanpRYld3WkJVSkN0TWtRcVJLUQ?oc=5",
-      "pubDate": "Thu, 27 Aug 2026 04:36:40 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "James Talarico continues to edge out Ken Paxton in Texas’ U.S. Senate race, new poll finds - Texas Public Radio | TPR",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOU3A4LV9lZk1hdjVGRlJRVWtKUklxVHJnLTdFUkt5RE1KMGUxMUNKRFJkUlVLcUxubjFHN0MydnZmNVFiM0M1N3l3aDdnaE5xNm5ralpBSmU0UDhrVWZwd0xtNnlKRWhXdVJBYU5RUWhxellNSC0xcGhFM2s5bWZIc3ZlVm1PQjVUWmNrWUNCZDByM1ZWYWpnX19jTGZhRWUyeXJWdlQ2aThaVDI3QkRVSTlZTkp2ZEhNdExHbGhhbUFVSDZ4b2RjQlBqODJqSVFyM2J4eA?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 18:35:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W34"
-    },
-    {
-      "title": "John Cornyn calls Ken Paxton 'lazy' and a 'poor campaigner' in explanation of Texas campaign trail absence - Washington Examiner",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdk9QdS14WmxyTDhoNUhpTmNUTEk5UXBDOHI0b2lzeHVDVjVMcjlfa0QwdjREYmpsLXJTdUsyQ2V6eVBES1JsQUpRblNaX3hyVFY1dldWR24zUExMZEQwbm0wcmY4QTUyZ2dUdWZ3M1R5VkFWWnVROTREdFkzby1HWXF2aWpXN1V2dWxPQjRkajlMX3lZWlhTMjBWQjhBRGJObll3NnJWQnlxT0V5MEE4aEl4N1dXRXQ5ZlM3c3dyLW5JTUc5Wkx1MF92WVB5Z0ZYTlpLd0dzTzd5Z1RvV2wwaDJVMUxiZw?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 17:33:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "cornyn",
-        "john cornyn"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "John Cornyn is raising money for competitive Senate races — just not in Texas - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOY0NkN1JPdzZwTjZ2RmcyWVlKRFFwN1RYSUpwdkJyRXlTWktDVGlYRGZva19YVmNuaWdQRjhOVTZ4SXB2THYwZ3ltUlZwc3YzQUJ6NjQ3TVRnTXd4a3l2NGtvZjd0RnpBRDEtcS1fRDJ1SU1GZ3FiNk9acGFoZVUtaFRqUHJNMWpLYkJ2ZXN4VlFEeWJCQVluemRBSTFCQmt5QnRCZFdnOGlTTDgzMDZwZlFkbndFSkNGajVhSG5vbk1MaV9VUHpxbzFGYWZ6LXJ1bExoLS1LWW5GQXE0dXZwSzdSczQtZUpRTXdLSVdJTkN4OC01NTYtZ3FtVl9RdG1jV2fSAYICQVVfeXFMTmNDZDdST3c2cE42dkZnMllZSkRRcDdUWElKcHZCckV5U1pLQ1RpWERmb2tfWFZjbmlnUEY4TlU2eElwdkx2MGd5bVJWcHN2M0FCejY0N01UZ013eGt5djRrb2Y3dEZ6QUQxLXEtX0QydUlNRmdxYjZPWnBhaGVVLWhUalByTTFqS2JCdmVzeFZRRHliQkFZbnpkQUkxQkJreUJ0QmRXZzhpU0w4MzA2cGZRZG53RUpDRmo1YUhub25NTGlfVVB6cW8xRmFmei1ydWxMaC0tS1luRkFxNHV2cEs3UnM0LWVKUU13S0lXSU5DeDgtNTU2LWdxbVZfUXRtY1dn?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 13:40:04 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "senate race",
-        "cornyn",
-        "john cornyn"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "John Cornyn is raising money for competitive Senate races — just not in Texas - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOT20zcGw2TFQyeDNoRk9zRUUteU9aWElMS0NXc2F0R3NUckVURXJLRDMtLUFzZWx2VU9uMjlqREowaExCUm5SVjZzNEJMZGhLdXdRVWF1bUllWHQ1ZkdpbjFPSjR0bDVrenBRNEhpMUNKYm1GZXpaYlZLWmxnQVZqRmpvdnlGZVREOTlXY0lvQTBRbVNIVzZmR0p6U2xlSGpWOEMxdl90aFdmdGEwcmxBOGVMNFJIZDV0UTVVQWRCZm53ZmU4c0hVT21weEtIVnMwTVUtSVJvVENVV0hoYmxJYUJEa0FKbTRpV3BwNVk4dWRhWi1ZVUJHVTFn0gGCAkFVX3lxTE5jQ2Q3Uk93NnBONnZGZzJZWUpEUXA3VFhJSnB2QnJFeVNaS0NUaVhEZm9rX1hWY25pZ1BGOE5VNnhJcHZMdjBneW1SVnBzdjNBQno2NDdNVGdNd3hreXY0a29mN3RGekFEMS1xLV9EMnVJTUZncWI2T1pwYWhlVS1oVGpQck0xaktiQnZlc3hWUUR5YkJBWW56ZEFJMUJCa3lCdEJkV2c4aVNMODMwNnBmUWRud0VKQ0ZqNWFIbm9uTUxpX1VQenFvMUZhZnotcnVsTGgtLUtZbkZBcTR1dnBLN1JzNC1lSlFNd0tJV0lOQ3g4LTU1Ni1ncW1WX1F0bWNXZw?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 13:40:04 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "senate race",
-        "cornyn",
-        "john cornyn"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
       "weekKey": "2026-W35"
     }
   ],
