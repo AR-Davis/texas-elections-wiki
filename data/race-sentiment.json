@@ -1,9 +1,125 @@
 {
-  "analyzedAt": "2026-09-03T20:46:32.677Z",
-  "newsFetchedAt": "2026-09-03T17:44:03.654Z",
+  "analyzedAt": "2026-09-03T23:06:46.386Z",
+  "newsFetchedAt": "2026-09-03T20:50:01.068Z",
   "totalAnalyzed": 100,
-  "newThisRun": 8,
+  "newThisRun": 7,
   "stories": [
+    {
+      "title": "Ted Cruz says Texas Senate race between Paxton, Talarico ‘effectively tied’ - NewsNation",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbzBtOWh0dkNqX2hSTU1kblRvVGFVUDM3X0FwN0hxN2d1RGFhT1R6ZThMQ1lBaXpaQ2xlSEVObkxoMVdLeE9wQU4waDEzNjNXR2Zpb3UwRDJCdEpBM0E5ZjU1VlY0UGNjRHZpNzVudEJUQzl0RHEwck96bnM2Q1Izd2pGMnBDSmVRMWNLcVhlSU82eVR5azNj0gGcAUFVX3lxTE1Gd0F1cGNwOGpRc2lJOFBYOHZpNkFtM3ZjLWVBM0pEXzNPQWhzZW5hWjhQV0tuWGdublRlc2NSTDJ0UDRGbjM2WWVwajV3ZzNsWEJDSXFsSS0ydkNpUkNpSlhDVWlXcm40eDJKLVYzRzhTNjMwUWxCVGxvODNneWlHQWR1X1VpSkVGSDI3VjNvamQ3WFVrdE1hWlNHSw?oc=5",
+      "pubDate": "Wed, 02 Sep 2026 09:26:21 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W35"
+    },
+    {
+      "title": "GOP icon hits panic button over floundering Paxton in Texas Senate race: ‘Time is running out’ - SILive.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcFlvdEgzT05DNnRCVDd2QTQtbHY1R3UzNElIZTdaN1hheWtRWTRNVGExTVZ1U2NpcTQ2WFRKQllHRm9rNDdLUmZRSUstT2g3bDFwRXZWWUdKOUFIODZNTTlJeEJ1OFA4UmdGbk5RYURrdW01WmNWYld6MGMzWUJPa0U1MjNKSXFTN2RTZlJZMkZpWnpac0lwcU43bHVtVmxyOHBOcUZwcDZiQWdncjg3amlRYk1sVWNVMVFudWVvbm9hN3E3eUFrQW00TXFpLUFyc2fSAeYBQVVfeXFMUDVJWVlIMW8zeUhjWEx5WTdYVExwdjA0aHQ2ZF95cnFnYXhBR3JLTW85Y3BoWEdLVTZRWW10U1M4Wmo2WlNtcXFESW1WQVlfd2RlZ3hqbEROSzZ5T1VCZy1mN3U4dmJIZUtsakpZVDg4YjFOYkVsbEVoV3pKSm1ucGxETXV3aU13NXQ3dURydlRJajNZakdNWWVFaUk2cHBWcE1WZzdfUmRtVXg5c01hRGRneWNQTE43NFdQU1ZKOE8wWFVOZ0FrelpkRk50V293YVVpR2VTTmQ2dDR6Z081V05QLXJaYkE?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 15:10:22 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "Paxton’s Texas Senate race tightens to toss-up as polls narrow - eciks.org",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vMTM2X3g4ZUVBTGFMdjVxLTZuY3RlUVRLLW1WMWpoOF9QN3psRGtud0hWdExHalFJbHNRX2lobWZGOTIwbXJzSFZsR3lSR0RRSGV2UVBiVTZ5bVFTZDJOeg?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 03:37:12 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "Texas GOP is rigging the Senate race to save Ken Paxton - Daily Kos",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbnBNaFVRNnRWWTVMZ3h0UkFKVm5BQ2RIWlpmLW9CVWdtOERSRXBQdDlSX1JZNnFoMFp2RERnd2JTS2hDNmtDaEY4Vkkzd2lmQndpZlRqUHhLd3RBY2FfSkVlcjFxMm91c04zTERoY0x1UjZSa0dZUTVGekdsNThPR2lvNVdyZ19xWDhGd3ZEMGh5RVpGOWpRekVrb0ZCU1EzQ01TUkFvT2E4VmY2U1pvMlJ6QUkyd1NyRkE?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 16:21:17 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 18,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "senate race",
+        "texas gop"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "Karl Rove sounds the alarm over Texas Senate race, pleads for Trump’s help: ‘Time is running out’ - bizpacreview.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUWV5QTliNjZ1THlSV250cWo1ZXNYcTdFZmFXOTZDbzVDWFY2c3JvdFpUNnJCaE9vT0ZlSmVvbmh5ck44X0NyLVdXX2hDSm1ZbTNpeWVfeUNaZHFkdE44Q19WVU1MM0FtUXJjM2ROOWNhZHEtVUI0anhxb2NaWmVMWl95eUhmTWt2RFhiTm9Mejg0SjJXWnpzQzN1UFFuNjRBWlpYa25USkEyTnpVY3JqZTZvd3NXNHh3ZnN2N0MtbDNVd3JILWRBQUNzNzA1RWJvOHJyWW5vbXk?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 17:58:13 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "general",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "Texas 2026 live primary election results: Cornyn and Paxton headed to runoff, Talarico advances - abcnews.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaDdzclZQZjY4dW9wTl93S3JKZ2ZsbUlnTDBnNVlKb0p3SU0zRXI2V2Z3QjJJYmNKc1pzUFhlTjdURnIxelRSYVJEeHJITzRkZUxvdDdTR0F3NW1lNks0M1RaRWduUDEyOF9UbWVlcmhtejRDUU8zYzVraFdZRkJ1WDExSDU5SElJazdsVllLdEFNd9IBlwFBVV95cUxPQlR3VjMwVnBZQW5FVEowci1LbTFoelgxYk1NQTRWaFRrTm5Wd0pKU0x4Y1gzN25TNGpCSDRuX25MZWtfZEJmcnFtN0xDRFRMTXduMXpLV1NHaU5hZzN2ekhDREJXc3FZaEJVOTZMcmVTSG1TV3o3QXJaREtreVBtelVWYzVSSV9HdFFmbXpOMlkyMFJ5TkIw?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 01:25:30 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "cornyn"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "James Talarico's U.S. Senate campaign held a Lotería in San Antonio - KERA News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZU52R2kzUUx3ckhyTGh2YkduZ0VIajdGUG1OcFN0ZTJiTHlNT2UyeVFHZHEtUEtoZFZ0eXcyTGp5Y1ZmaXZMZHhDNWxjbkZSSGw2R19xaTRSYU16VHhlR1RSQ3QyVUVTRnZmYXhLNXhXM1RNVWwzUzhGSHJ3SEZmYXZ6ZzJuV3ZNaEdEOFl1Ry1kY2FHbXZjN2xZdXZMZFNhSG83a0FtWWI4QmEzMVpZREYyM0tYd28?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 18:53:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W36"
+    },
     {
       "title": "James Talarico and Ken Paxton in Dead Heat in Razor Tight Texas Senate Race - Newsweek",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUl8tcldGVml4d2dCenRaaHR2aGYyRjRvNUdFa2RsaHZtUVp1b2dMd3JfRG9sQ3ZkcUxaNGZoMWRfOW1vVkhJUWhKTHRGZFpIemRjLVkzRENMSWFzRGJRdEVucWc1M3M4b3NfSzNVd25CRVktUnVmMXlEY2JmcTBmanI4bThqd3lSQmUtWGRtLWRsS1ZJOGl5ZEJmMl9XT2xaQjZpRERUalkxWjdSQlE?oc=5",
@@ -1445,105 +1561,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "paxton",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Abbott, Talarico leading, races no longer considered solid Republican - The Center Square",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaHhOMG9FeFNVSTg4blpVXzNGRkdRU3pZVWRGZzlOX05oVmpyOXJ2MzJ1eFJZVDJGYm02S1RYVHZQR3BOazFzSXpNNGgxc3VJbUxRaGFzc3F4Q2FNOXB6cEFGRXdvbFRUUkI5a0dOUmY3dmhabkV1TURTWF90amtiRGtZbHFoa1B5WGNBYTc1dzd4RlFHdVHSAZYBQVVfeXFMTmh4TjBvRXhTVUk4OG5aVV8zRkZHUVN6WVVkRmc5Tl9OaFZqcjlydjMydXhSWVQyRmJtNktUWFR2UEdwTmsxc0l6TTRoMXN1SW1MUWhhc3NxeENhTTlwenBBRkV3b2xUVFJCOWtHTlJmN3ZoWm5FdU1EU1hfdGprYkRrWWxxaGtQeVhjQWE3NXc3eEZRR3VR?oc=5",
-      "pubDate": "Mon, 31 Aug 2026 12:37:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Paxton responds to Cornyn calling him ‘lazy’: ‘They don’t know my schedule’ - ConchoValleyHomepage.com",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZFNMeklmN2xQQjFxdDNmcGR0OHVVUlV5d2FzOHNSM1hfQnR4YWVVaXU1dml5eTBVNkxyQU1UWWJrOG4xclBmaG92ZHF3U2Jwd0lZS2JUWWxxZ3NGRWZHMEo4VVJSZEIyN0lsdmZNWFl6SmtTM1J3aXo0NWJfcjQ4R0JBTWxXdUF6N1hweUwtSzg1VFhoUnJibllnS3BiVngxTFZmODgwTEFNQi1GVWVwVkhCRC1hNXE5bVdaNVJOOXBVRE1YdUHSAcsBQVVfeXFMTjR4aF9QaGZWVHJjZU1Yd0FGbjZkRm9ZXzh0ejFqRmR2Q2hrcVJ4N3E3czdldHVGclplSXdMVnVTbFExcThQRnRURlZ1VHVUUm1EamxYdFpVWWZSaDZ0YlhOb3dpVjktaWtsbC01NzFxc0NubVdMX2plX3d5NWQzWXM0Rk94TUtvRnB6YldsRXk0b2tvRE1YTDlzRXp0N3RUVC0wbjdEM3h2ZmVGbmlrSFdldkJFYlpUdVVLd0RpX3hCTTNXN1dLNk4wanc?oc=5",
-      "pubDate": "Mon, 31 Aug 2026 15:22:23 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 9,
-      "matchedKeywords": [
-        "paxton",
-        "cornyn"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "‘We need help’: Kennedy asks Trump for up to $200M to boost Paxton in a very close Texas race - news.meaww.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM1dfQmZNZzV4NjV0cks1ZnJkV0FJRWwxbHNFa3FIWnpyWUJlbGdoTzVzZm9HMWNTMWZvbnExYnhUVk9ENmlWY0JHaHRJUS04X2lsVHM3cHMyN1VaOW5jTHBDMjB1YnpKNnRfVVpmdnQ5QkJORmYxWHp3QTc5RXNDeW5pYmZIQ2Y0NVJDUTJlbENiekVySDY0ZTA1VDNxLV9hMHVWcUlYQlJKaDBPMFgxSDZTbw?oc=5",
-      "pubDate": "Mon, 31 Aug 2026 04:52:52 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Talarico’s past comments agreeing Christians are villains won’t win Texas: Joe Concha - washingtonexaminer.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeUF1SmJxYVFiV2F3WV9LckVRVDlWc2RCTWJldE05Z3YtQkV3TTF6LTI2dGNBd296YnBna1BGVlUyZWJNZ0lpUWJCa1RJN1lOZ3ppZ3RRUlF4b3UwRl9QenlfaVZPbE5BSkRsN0xVOUNiT01ZT1liaW1Bb0hzZ1dpTWg2Z0c4TkxvSW1XMWFMbW9XNV9NTFhiSnJxUkk4aGdQMVBLOVhhNUM4MzJlMzJrQ21BVQ?oc=5",
-      "pubDate": "Sun, 30 Aug 2026 18:03:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Trump vows to spend ‘a lot of time in Texas’ helping Paxton Senate bid - BorderReport",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeE1lcmJLdExLcENWVmlWTTI5THdQV2xqT3g0UXVtRlB3bzJocDlNTUhTVG9qeFpyeXJFcTZqT0JCRFJZdXFmSE1Qc2RPT1NEX01YcWFHZnRNbERDbVpPUkpBaEVSRmgyeHZGOXktTl9rNUxnWUhoZVpFZktmalBxRThpMi0ydnZDeEZ1SWhxcU9IRzgydUFTdy02Mm9vOWpOQldMZ1ljSFJNTk5CTF9UZTVXRdIBuAFBVV95cUxQZEVSeDhUOXNWSVF3Y2Q2M0RkMlNVMVNOVzVyRVZfOWJzYkYySWRwZFJNdjlRTDlsd1Z3NWZnckRZNXcyODJhd044czBETDl4R1RCUzJxazZfcVo4bGxndE9NS2k3REE1Wlcxbk01SUxoNXZIYnRXT3hGMDlaREJBSGdyN2l5VzdvYWZvck45Y3RyV1ZOOFhETnV3TWo4WGNSQ00tTTdXZDhYdmJwY2RwWmNudF9Gd3Vm?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 20:36:38 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Abbott, Talarico leading, races no longer considered solid Republican - The Center Square",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSFV5T0Z2cE1ndnNaT1JqZktoeEp0SnlNcGFMeEVYTW42UGhjTElnVW9IRzRXcUlyOU9aRXdrTjVPVGxDcTFmZzFsdVZJT1ZFWDI0dTMwcm1LZU4weEMwR2pGRFVNRGhwaDBsbFBucC1WdmN2QW4zLXNoZWY3LUs3cDBldC12WUJSV2lZMjhQenjSAZYBQVVfeXFMTmh4TjBvRXhTVUk4OG5aVV8zRkZHUVN6WVVkRmc5Tl9OaFZqcjlydjMydXhSWVQyRmJtNktUWFR2UEdwTmsxc0l6TTRoMXN1SW1MUWhhc3NxeENhTTlwenBBRkV3b2xUVFJCOWtHTlJmN3ZoWm5FdU1EU1hfdGprYkRrWWxxaGtQeVhjQWE3NXc3eEZRR3VR?oc=5",
-      "pubDate": "Mon, 31 Aug 2026 12:37:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Plan to cut number of polling sites in a major Texas county draws protests as Senate race looms - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbFEzUF9TTFUzaXhqS2RwcHZWRkN1eGZOTF96RGpyMDlPMHFmcm9ybFJRSGtwUXhpVDFHWjdYR29GZ19iSXd1eXVKQlVqSk9ISmk2OEgxZEQzX2JFR2NHNGppbTM0UGJXcGlVdTB3RkZOZ3F2RUk4aFVxak9BR1RVbHFYeUhYWFhGREg4WGUxVTNJNVVvLUpMSUg2RnZxcExkTUFpU0U0UnNOZnNOUkJEZEtHakE?oc=5",
-      "pubDate": "Mon, 31 Aug 2026 01:17:26 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
       "weekKey": "2026-W35"
     }
   ],
