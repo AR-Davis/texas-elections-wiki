@@ -1,9 +1,42 @@
 {
-  "analyzedAt": "2026-09-04T18:57:17.327Z",
-  "newsFetchedAt": "2026-09-04T16:06:57.425Z",
+  "analyzedAt": "2026-09-04T21:18:30.033Z",
+  "newsFetchedAt": "2026-09-04T19:03:55.841Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Ted Cruz says Texas Senate race between Paxton, Talarico ‘effectively tied’ - newsnationnow.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbzBtOWh0dkNqX2hSTU1kblRvVGFVUDM3X0FwN0hxN2d1RGFhT1R6ZThMQ1lBaXpaQ2xlSEVObkxoMVdLeE9wQU4waDEzNjNXR2Zpb3UwRDJCdEpBM0E5ZjU1VlY0UGNjRHZpNzVudEJUQzl0RHEwck96bnM2Q1Izd2pGMnBDSmVRMWNLcVhlSU82eVR5azNj?oc=5",
+      "pubDate": "Wed, 02 Sep 2026 09:26:21 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W35"
+    },
+    {
+      "title": "Ken Paxton’s financial disclosures appear to violate ethics law - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQWJmTFZHdmlPZnpCdjVVUF9JQ0FnNm9wRkZYN3ROS1dfNVV3VVVEeFpnOHEtNU1MOEdyNlJSbmp2cDhpeDY4dk94NGppNzd2dy10MVFQNW1zcG1sY3ZYZDFGYVFGNkw4X05WSDh5eGFSZE9Jb19NenVLQnNYcVFJZWh6eERzb1VMaFMyb3RGNHJQbnlyY3BJd0owV1c4XzhVU1ptQjA5eTJqenhQekpTbmtDM0s?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 15:35:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W36"
+    },
     {
       "title": "James Talarico launches Black voter engagement team as $25M pledge lingers - Austin American-Statesman",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQUZXSkpNM29HRFNEZVMtNmdoMGFlaHdGSlZUNFRVbWRVQUpoNHk2UTFZOW9mczJWOWhDZGpRVUpGTjJGLVVpOUlsS2kyOTA2WDF0eFlhZHU5TmpHWFp2Yy1kM09BSGhBRkpkei1JeEhvNmVGeVJOc1diSDk1Nl9XMTZBN1l2dGFkWGVPak80ejJoLWlZOVNVM29n?oc=5",
@@ -1543,36 +1576,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "talarico",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Senate Candidate James Talarico (D-TX) Rally in Kerrville, TX - C-SPAN",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ2xoM3pBdWhyNlJWZGdMOUllaTNNNUkzMnpOWkNIXzEyUXNJZjFETTItUTJzUUVPRExST25xTzl5WWhydi1CYjFEX3RlVUgyel9nMEZJWmsxV01SRkJGNWl6RWtzbHdRX3VMbXFQZXNJeG5pb1FlX1ZnQ0xRSkRNQ0RPZW1CSFUtTE5sYW1CSXhNQmJrZlVkUmVtZHlNZWdlejdXRHg5c0U3ZVlJNlEw?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 00:17:18 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Paxton responds to Cornyn calling him ‘lazy’: ‘They don’t know my schedule’ - KXAN Austin",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUWt1NDlsZU9BTzBqOFk4cFZxSWJEWWdyem1NTnpsWm00LXJhYkNtMTByODlGZXJzckJKR18wcEdpeTNSSWRZeXQ0SHJ2RjNPNzZfTnRRTEFQSWhjZHdlYk80ZlpBX3lkWkFiXy1nQnFlQm1kblBjdGpLaktTOFZfZWVmeXlSQ0RrTlVCdTBtdGFhdFpvdUx2NE1mbC1Td0RlVVBSMnFBWDJITVNoTTJIddIBtgFBVV95cUxNQ1E3U2xXQnBKRVpxNVplaVNkbGRhNFdWWGxickN6RVdSYm5jdE1SWm9fdkNRVzhSSk5kdXVFTnJqcWIzY2tvOG12MVlVcjFVeFJCaUxLWURzWFRVQ1E0V2lMejNPZWc4VWdqdUV3NGJ1UFI5d2ZMOWRNb3RwaFBGU3JycVhTSTlwRXlMNHNxYnBmSnBsdEdIN1hpWFRWaVZDUTZOY2RieDlqYm9JU2lDQjlwa3JZQQ?oc=5",
-      "pubDate": "Mon, 31 Aug 2026 15:40:07 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 10,
-      "matchedKeywords": [
-        "paxton",
-        "cornyn"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
       "weekKey": "2026-W35"
     }
   ],
