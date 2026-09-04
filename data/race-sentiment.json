@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-09-04T16:03:25.964Z",
-  "newsFetchedAt": "2026-09-04T11:38:15.488Z",
+  "analyzedAt": "2026-09-04T18:57:17.327Z",
+  "newsFetchedAt": "2026-09-04T16:06:57.425Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "James Talarico launches Black voter engagement team as $25M pledge lingers - Austin American-Statesman",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQUZXSkpNM29HRFNEZVMtNmdoMGFlaHdGSlZUNFRVbWRVQUpoNHk2UTFZOW9mczJWOWhDZGpRVUpGTjJGLVVpOUlsS2kyOTA2WDF0eFlhZHU5TmpHWFp2Yy1kM09BSGhBRkpkei1JeEhvNmVGeVJOc1diSDk1Nl9XMTZBN1l2dGFkWGVPak80ejJoLWlZOVNVM29n?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 14:24:24 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W36"
+    },
     {
       "title": "President Trump Praises Ken Paxton's Record as AG as Texas Senate Race Tightens - c-span.org",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbUtRYkRXcUpoeW5mRTBxRUhoVnpNWXp3ZFRKc3Qtc3N4Si0xdkdmSkFOLS1MZFpueC11Q3pmalBaMkxkVXF6VFdMaDAxU2hWWEM1RnVkWEZmYlV0YjVPM3l1RlU3RURsY285bDRlcW9Jb3pnaXFNamxaZXpqMy1MdjhpaFFmNUJNR3JtTHd4Sk10REF2aHluNTZoUk1yYnA3WjFaM01ON0ZieXdvWXlxSVAxa1FXWlhKQnhwQUc4VjJnTWRuQmw4OFdUTnc?oc=5",
@@ -1551,21 +1566,6 @@
       "pubDate": "Mon, 31 Aug 2026 15:40:07 GMT",
       "feedSource": "google-news-texas",
       "raceScore": 10,
-      "matchedKeywords": [
-        "paxton",
-        "cornyn"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Republicans call Cornyn ‘lousy loser’ for refusing to help Paxton’s struggling Senate campaign - Washington Times",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYVR3aTdTdk9Vd3c3cGZPaUxxaEh3MTdlMmRidmFoc014cnQ5X2VHWGljaGNEUmFIbkg1MS11S1NTN0dqSnJxTWZGVXFtaGZJMlhsSnlSS2RsS1BGel9NZnFEQlpnaWYwa1JZVGt2Nkk5djdrX09rQlZLeGxnZzNVdVlwMzEzcS04TzNkaXV3N1IzeFFadHJhTzNPeV9aVTlYcGRmTjlkLUR1TUNoR0Y0MVl5VjRJeDA?oc=5",
-      "pubDate": "Mon, 31 Aug 2026 20:30:24 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 9,
       "matchedKeywords": [
         "paxton",
         "cornyn"
