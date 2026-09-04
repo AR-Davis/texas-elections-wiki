@@ -1,9 +1,73 @@
 {
-  "analyzedAt": "2026-09-03T23:06:46.386Z",
-  "newsFetchedAt": "2026-09-03T20:50:01.068Z",
+  "analyzedAt": "2026-09-04T01:12:24.564Z",
+  "newsFetchedAt": "2026-09-03T23:09:06.189Z",
   "totalAnalyzed": 100,
-  "newThisRun": 7,
+  "newThisRun": 4,
   "stories": [
+    {
+      "title": "Rove: ‘Time is running out’ for Paxton in Texas Senate race - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYm1kUUhCUVpPQ0ctMWdPMThKRXhsV2JfeWFXZ2xaUVFULWZRb0d4SWFxRlZlTzZ6NXJWS2FBNmxjMVlLOXJLYmUwVzNEOXdpdGZqT1V1WE54Q0ozWnI0WUxPUzRqR3o0N2RjVjJZeWtDYnl0emdmc0ZoaklEWGpmbHF30gGHAUFVX3lxTE5meWcycGtPNTh3NndsX2NtY1loek9uSFFVTnVBZTFJbnI1dEoyNDI5Z0dxSGFoOWl4V254bzc2dzZlenVQR0JBTTd4cjIza0FwMTZMU1VNd00yTWVFamtwcEZ2NmFFQUo0c3g3QXJaa2l3OHRCOHRvN0NRZURIVEZQWVZaalpocw?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 20:44:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "Damon Lindelof Brings “Woke Hollywood” to Texas Senate Race - Bleeding Fool",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdUNtUl90STRNbWNzSzZZYTJJak1HNWJxcjZIN1B2ZkQ0ZFJDYlVLRFBFS3oyM01OV1hXZW9ZM3B6MHhPNmdOVGlWMk1tXzBuZFJmNVJucjNwMWcxNE5IemdPSGczYlM1UGJMMmgwMzdqMHk5R0RKQ1hseEtQa3FMRG5JdXg5c3N4YXJrSzF4M1J4QQ?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 11:45:58 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "general",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "Ken Paxton turns down CNN debate offer in Senate race - Washington Times",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSnM5ZjZyVkQ3VElTY0F4V29EbmVBeERiV0xPZVY2V1p5VnFnU3ZoeDVRRkpVNlVnSEN1LVlyS01ZMWVwb3VVNGxNZGhNMW5HQmVoZzBldGYtLWpkek1jV3RFUzA1MlNObHNjdUQzLVpBTXZzSGplazFVdWN4a1VBRUVfaWd5Wk1ZWUxRLUhZaFl1R2V3Qi1nOWZ3?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 18:18:31 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "Texas man accused of sending death threats to James Talarico - San Antonio Express-News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVHJRb2ltT1NMbnAxZjhFUGpfS0hXRjRSRmFuZmQ5LTlrTGVJY1NpVnBRUmhBcU90WUFrMjNORzE2UUNGYkpuaHdMemVSMUJXOVBSNWRacVltRFVCTDJmQVZVenJkSkU5Y1N4NHB4ejNXRHFSb2NmY0FUQ204d2tkVVA1RV9UbzIwa2MyaF9IQXMxNTJtajd4eERNT0QzVXM?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 21:49:10 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W36"
+    },
     {
       "title": "Ted Cruz says Texas Senate race between Paxton, Talarico ‘effectively tied’ - NewsNation",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbzBtOWh0dkNqX2hSTU1kblRvVGFVUDM3X0FwN0hxN2d1RGFhT1R6ZThMQ1lBaXpaQ2xlSEVObkxoMVdLeE9wQU4waDEzNjNXR2Zpb3UwRDJCdEpBM0E5ZjU1VlY0UGNjRHZpNzVudEJUQzl0RHEwck96bnM2Q1Izd2pGMnBDSmVRMWNLcVhlSU82eVR5azNj0gGcAUFVX3lxTE1Gd0F1cGNwOGpRc2lJOFBYOHZpNkFtM3ZjLWVBM0pEXzNPQWhzZW5hWjhQV0tuWGdublRlc2NSTDJ0UDRGbjM2WWVwajV3ZzNsWEJDSXFsSS0ydkNpUkNpSlhDVWlXcm40eDJKLVYzRzhTNjMwUWxCVGxvODNneWlHQWR1X1VpSkVGSDI3VjNvamQ3WFVrdE1hWlNHSw?oc=5",
@@ -1499,64 +1563,6 @@
       "matchedKeywords": [
         "paxton",
         "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Everyone Is Edging Away from Ken Paxton - National Review",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVUJMdWRTeFh0dUxPUF8wTm9kVmFqcS1lSUtyZ2hOMThmNFVyQl9XWGNsUXRCS1p0V2dDWTRRRkp4TVVFWUo4Z2lMWjlsN1dHOTdXb3p1Ujk1RUVXQ1A3el9uNUVxV0gzSTB6VUkwbmNld19tSEpGc0g4d203a25DTldkeWJTemExbkHSAYoBQVVfeXFMTVVCTHVkU3hYdHVMT1BfME5vZFZhanEtZUlLcmdoTjE4ZjRVckJfV1hjbFF0QktadFdnQ1k0UUZKeE1VRVlKOGdpTFo5bDdXRzk3V296dVI5NUVFV0NQN3pfbjVFcVdIM0kwelVJMG5jZXdfbUhKRnNIOHdtN2tuQ05XZHliU3phMW5B?oc=5",
-      "pubDate": "Mon, 31 Aug 2026 20:09:41 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Republicans fret as Talarico bombards airwaves and Paxton awaits Trump team’s cash - cnn.com",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42QjlmbzBhenZ2RTlIOTZUVlRBTVNabUlRdE1EeDBzMmJyWGVqYnJEVDJZUkZ3NFdKZ0VmSS1Bb1drb1hGNGFKRXBJMGpvcUpsVlRjbFVCeGdjRC1YODhuQjJoakJleDZ6WFlz?oc=5",
-      "pubDate": "Sun, 30 Aug 2026 12:00:29 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 10,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Trump vows to spend ‘a lot of time in Texas’ helping Paxton Senate bid - KXAN Austin",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTm41OGRJV1I5clUzRkhISS01NHI4cmpteTNFQ0ZWUHJ5Q2xldnQ3NkxxSjdya1ExN0tkSVVBOHNrWXNQaXpCdEVRQ2ZWaWh2cER6SmNFbm1kT240LVpvMlk5N3FVNXFTdHlZeUg5QS1LVWtLX284SDRrVkIwRFZTQzNXWnJEcVBIWDNmLTg5QkRpMGtkQ0dGM0p3N0M2UThoSExxQ011YTE?oc=5",
-      "pubDate": "Sun, 30 Aug 2026 19:05:36 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 7,
-      "matchedKeywords": [
-        "paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Paxton allies launch $15 million ad campaign - Politico",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ITEFkMEJWR0k5NGVRQUEwc3kxaXJhUkJJVGhlclYwS2hjeUFmZTVENzJpTW5pQWlfbXF2dl9UUE5ZSklOakVjdnVXTi1LckMxbkdsWUo0REh3X3ZGUTE2N01naC12bGFUaWx4UEIwX0dDSmZyTzN1bTBpck4?oc=5",
-      "pubDate": "Mon, 31 Aug 2026 21:55:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "paxton"
       ],
       "sentiment": null,
       "error": "HTTP 405",
