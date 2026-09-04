@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-09-04T11:36:27.815Z",
-  "newsFetchedAt": "2026-09-04T01:13:34.447Z",
+  "analyzedAt": "2026-09-04T16:03:25.964Z",
+  "newsFetchedAt": "2026-09-04T11:38:15.488Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "President Trump Praises Ken Paxton's Record as AG as Texas Senate Race Tightens - c-span.org",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbUtRYkRXcUpoeW5mRTBxRUhoVnpNWXp3ZFRKc3Qtc3N4Si0xdkdmSkFOLS1MZFpueC11Q3pmalBaMkxkVXF6VFdMaDAxU2hWWEM1RnVkWEZmYlV0YjVPM3l1RlU3RURsY285bDRlcW9Jb3pnaXFNamxaZXpqMy1MdjhpaFFmNUJNR3JtTHd4Sk10REF2aHluNTZoUk1yYnA3WjFaM01ON0ZieXdvWXlxSVAxa1FXWlhKQnhwQUc4VjJnTWRuQmw4OFdUTnc?oc=5",
+      "pubDate": "Wed, 02 Sep 2026 07:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W35"
+    },
     {
       "title": "Texas Senate race tightens as Talarico, Paxton face off - cryptobriefing.com",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSi1odVVYc0RBT2l5blVLaVBRU0Rnbmh3b25MNml4endJVWE4U0haTk4ySzJ0U3BtUVJKWWJuM3otcDNJNHZpMUF5SEdpOThQcGhvLUVzdHRNNHNYb3VURExrd0gtZHlYQVlVM1NYVmpaY1ptaW1BcEFCMmd2TUxUc1VnOG1TZ0M1LVE?oc=5",
@@ -1555,20 +1573,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "paxton",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Talarico Sounds Alarm as Texas Plans to Close Dozens of Polling Sites - The New Republic",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORTNDOXBlN3pwN19qU0lHMUNHNUxnejMxZkczVzVoVTAxb3A2VG9hS3lZMnNmVGJ5OXdubDd1Vllkd0EwckV1SkJ5b2JRTUctQl8zeEJRaE1LMWE3V1c1SkxJU1dnTlNYUkx6czZzaUh4b3BwMFJpanNQc0M4SFg0OXR3ZGJhZWxpV19HSmQwTmtGdlU?oc=5",
-      "pubDate": "Mon, 31 Aug 2026 18:33:03 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
       "weekKey": "2026-W35"
     }
   ],
