@@ -1,9 +1,75 @@
 {
-  "analyzedAt": "2026-09-04T01:12:24.564Z",
-  "newsFetchedAt": "2026-09-03T23:09:06.189Z",
+  "analyzedAt": "2026-09-04T06:23:25.190Z",
+  "newsFetchedAt": "2026-09-04T01:13:34.447Z",
   "totalAnalyzed": 100,
   "newThisRun": 4,
   "stories": [
+    {
+      "title": "Texas Senate race tightens as Talarico, Paxton face off - cryptobriefing.com",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSi1odVVYc0RBT2l5blVLaVBRU0Rnbmh3b25MNml4endJVWE4U0haTk4ySzJ0U3BtUVJKWWJuM3otcDNJNHZpMUF5SEdpOThQcGhvLUVzdHRNNHNYb3VURExrd0gtZHlYQVlVM1NYVmpaY1ptaW1BcEFCMmd2TUxUc1VnOG1TZ0M1LVE?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 23:46:06 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "GOP Guru Karl Rove Warns ‘Time Is Running Out’ For Trump Ally Ken Paxton’s Texas Senate C... - upolitics.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYjhyVkFXbUV2Q3FuS01vWDhrTHprbHJsTHNXNUMtejU4bGhTcEUyLTZWYTZoRW5LcUNaRVBvZW5XQkR5MTE2WE11VlVkMk51VjRtZm9RRHJqblNpWEx3UVFLRmNZUHJJaWZOSFdxRno1TmJnRXc1a05zMUlSZW1MMDV3bjItNUhjZ180NWJHNjZJX1ZHWUctWk8tcFhfNjlpY0pXaGlyTTFXNzRJMS1PMWFUeG1wSVdqa1pTYnZR0gHDAUFVX3lxTFBCcjdWZ0tVaFp6bFUxbDV3aDFVT0JHWEVZM0NUVUdPdTg1OHlOZTVoZ3dnZk0wZ3pEVG1BSGZPX01xaFRPRVYxbWQ2d2JEWVZuSFZxTXJYUDBBbzRDTkJFM1FwSXA4Z1Z4Q1RNTUdMa19iMk1ldGotTWRyeUlWQkRncjlmTjZ4XzBZTXVwYWVIMHJiV2s5ZFZ5NWMzWXBYWTZQbGFHQ2hlV050c2pKWGdvVzZaeHRaY24tcGxDRWFuSkpOSQ?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 22:11:19 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas senate"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "Ex-Never Trumper conservative radio host angers MAGA with Texas Senate race hot take - OregonLive.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdEJIMVVIUU9PbFR3TmN2VG9WSlJHVW01clFQMW00Z0Fmd0dTZGlmdjJiZGE2REF6dWN5aFgzaDdNTEZPOEJtSG5pUFVqRWYxUjVKTnYwbWcxa2tlVy1IQXlPOWp5NFhGRThmdUREeWFheHc4YVZnOVJ6NFBQU1RkQkt3MmdlM3Zwek5GbTgtdllSdmtvVHlITWo1dXRQVDZwWHJTajh2Rk5rQjVtZkl6X2N5b1VuM1VWRVFmdkJRYXlZbEZ5aDk2aWRoVG05dw?oc=5",
+      "pubDate": "Tue, 01 Sep 2026 16:48:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "general",
+      "weekKey": "2026-W35"
+    },
+    {
+      "title": "Texas’ Senate race is tightening — so don’t let James Talarico hide his lefty lunacy - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLWdWWDZYWTZhSDFSYktUeTF3d0pUVFlMY0RYWk13cmVFQnUzMFlnNVpZMWNfWU9qbXBtdTVzM1ZVMnBvQk9RSUh0ZTlCeVRDOW5SNkI5TDNPcnI1YjVvc3diOWFOZDNlM2xHWENab05TQkxEY0NsVHdtdl80djdZN2ZzLWVOdmVwRVNMY0o0UTl3blZHSEsxWA?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 23:29:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W36"
+    },
     {
       "title": "Rove: ‘Time is running out’ for Paxton in Texas Senate race - The Hill",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYm1kUUhCUVpPQ0ctMWdPMThKRXhsV2JfeWFXZ2xaUVFULWZRb0d4SWFxRlZlTzZ6NXJWS2FBNmxjMVlLOXJLYmUwVzNEOXdpdGZqT1V1WE54Q0ozWnI0WUxPUzRqR3o0N2RjVjJZeWtDYnl0emdmc0ZoaklEWGpmbHF30gGHAUFVX3lxTE5meWcycGtPNTh3NndsX2NtY1loek9uSFFVTnVBZTFJbnI1dEoyNDI5Z0dxSGFoOWl4V254bzc2dzZlenVQR0JBTTd4cjIza0FwMTZMU1VNd00yTWVFamtwcEZ2NmFFQUo0c3g3QXJaa2l3OHRCOHRvN0NRZURIVEZQWVZaalpocw?oc=5",
@@ -1503,70 +1569,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "talarico",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Small business association endorses Ken Paxton as James Talarico pushes for employer regulations - Washington Examiner",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMUNzQTVxNXpkaXRNZThmcVBuc0hBeEJ6aERvUEI2ZU5yRUhoUDdaS1pxRnZWMS1FZE1jcEIzTjByZ3F0S0t0LTFtLXRudUlLU25WYW1tQy00NlRQLXhSVl9zXzZuWV8wMDM5LTlyUGlmdm9GNjBET0lCRmNsZlZVNFhTZWJhUnV3MXFpSXBNalItd1Jpd3ctRzlrNDVZYV9tNFNzemt2cHpUdFN6Y3F3czR6bXU0UEpDUjNKYmhFdWtPMERqNkZBYW15YzZPR0RfQW9ZcVFUZGZxbkJObm9uV0wzU04?oc=5",
-      "pubDate": "Mon, 31 Aug 2026 18:48:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Talarico Rips Ken Paxton’s “Affordability” Look on Campaign Trail - 2paragraphs.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeHltNmtrenptU21SYnB6T1dnN3dheEVxZVpoam9kNVptaUEyaExiRFkxOEJYUTdLa3YyWlY4VVVIT1BuUktGNUtkdFFTRWY4d0RUdmhWWDh5Q0E1ZmRCOW5hbGdBeEZrNXE3Z2c3UFB1c2xacHdfNlBYRFc4MDl4bmROaHIyWU9qNmVwUkxwSURaQkJNZnBUT0VuZw?oc=5",
-      "pubDate": "Mon, 31 Aug 2026 18:52:51 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Texas Democrat Senate Candidate James Talarico Campaigns on Raising Taxes - breitbart.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdTh6VVZ3NWRFZVlwelhnNEVtUl9BLU9wNnBqUm8yaTFwN3psSDFHdlIyUUVfMV9zWTgzZjEyYU8ta0w4XzlpTnB0UG9XNTFoNHpBWGJkVWt5N2R0T0gxUEtocnUwOWNDazMyb1M4aXRKQzN5MElDRXJBekxLenRWRVcyVUI3V1R1bkRUaDQzRGdhc1VPOEIySG1DTmJUcEk5bVk2YTQtU254alNSc3hGZ1drWE5fWHhw0gG-AUFVX3lxTE1wYWY3ZkVOOWhiS04wX212Zm01OXltdEFKanROd1paVjVVa0lOMWYwaTVqUG10LVB5QXJaNVJBTGtNTHF4Z0JGRGpMQnYxSllUZk5Ld2xTT0NUejlSMHdIWm1CVTZwUy1rcU1xZ0JnMFEyOVR4RUVYWDA5N2NJRVQxZWVFdHBTNVdYTV9CUTN1UndEQ29yTmJEcjlMNEI3MUFyZ3hqejVycXRRV1dtRjc3VTJVUkhoRjJ5Q2Z2N3c?oc=5",
-      "pubDate": "Mon, 31 Aug 2026 19:49:13 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas democrat"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Ken Paxton Campaign Launches 11 College Chapters - Daily Signal",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUDZlRmh0TkIxQ2VqVkVWSERoUE1KX1J1R1BORTk4dDNEQ0tySGpNT1ZoY19jVUJWWVJ2d1dDQVJ0V0lqR3BSd2prOG9oS3ZRdWhNbUlsYU1nYzZWN3d5WTZzbi1ueEFqbXFEUjRROGl5aURTWVpTTjlRaFZzUEJZcg?oc=5",
-      "pubDate": "Mon, 31 Aug 2026 21:30:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
       "weekKey": "2026-W35"
     }
   ],
