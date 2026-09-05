@@ -1,9 +1,28 @@
 {
-  "analyzedAt": "2026-09-05T18:54:39.760Z",
-  "newsFetchedAt": "2026-09-05T17:29:59.958Z",
+  "analyzedAt": "2026-09-05T21:01:33.398Z",
+  "newsFetchedAt": "2026-09-05T19:25:09.979Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "‘Brown Men Headed to Work’: Texas Senate Candidate James Talarico Gets Torched Over Latest ICE Attack - The Nerd Stash",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTkNQemxuZ1RZNF9iRDVJY28yeDM0RF9WM0R0TWNiNzNxUXZ2OVI3TDdwYmxtRV8zZ3c1a3RfLU5WRnEtSWpqbFlvZURXOTRCRkpwd2FjbFhZaURTZ0VqTkhnSTRWOF9BSzZjSmwyNmxHaVdEc3NZSURYRU1oQy1aS2lXTDJnNEFhSHZVTXFESzVPNU1GSnpzSnFkNzg0dEtKTEtsVm03RW5UWUF3dU40dEtMMUU1c0FtWGloY2x4MVlPZw?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 12:30:53 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate"
+      ],
+      "sentiment": {
+        "positive": 0.007,
+        "negative": 0.993,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W36"
+    },
     {
       "title": "Talarico Brings a Touch of Trotsky to Texas Senate Race - Real Clear Politics",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU1E1M2NyVzhQMVdjLTYtbUUwM2x5bXp3ZS05NDBoM0l5QXZ1Q0hJZEFMNmpyYThCbUE4WWNvcUh6eEZZV0o2NE4xZmk5ejdIRGstaWN2XzFVeWNzenRZcFBiXzBJQVN4azZWQlowMUlEa1dTcUhHdkYtXzd1N29GdlBhT3VldDdETU1GRjdsMUJ0dGRGS1BydEs0RDQ5VDB1dmNleWwzb2pGVFlzNC1YZU9R?oc=5",
@@ -1604,29 +1623,14 @@
       "error": "HTTP 405",
       "candidate": "talarico",
       "weekKey": "2026-W35"
-    },
-    {
-      "title": "Paxton responds to Cornyn calling him ‘lazy’: ‘They don’t know my schedule’ - KXAN Austin",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUWt1NDlsZU9BTzBqOFk4cFZxSWJEWWdyem1NTnpsWm00LXJhYkNtMTByODlGZXJzckJKR18wcEdpeTNSSWRZeXQ0SHJ2RjNPNzZfTnRRTEFQSWhjZHdlYk80ZlpBX3lkWkFiXy1nQnFlQm1kblBjdGpLaktTOFZfZWVmeXlSQ0RrTlVCdTBtdGFhdFpvdUx2NE1mbC1Td0RlVVBSMnFBWDJITVNoTTJIdQ?oc=5",
-      "pubDate": "Mon, 31 Aug 2026 15:40:07 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 10,
-      "matchedKeywords": [
-        "paxton",
-        "cornyn"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W35"
     }
   ],
   "weekly": {
     "2026-W36": {
       "talarico": {
         "positive": 2,
-        "negative": 0,
-        "total": 2
+        "negative": 1,
+        "total": 3
       },
       "both": {
         "positive": 2,
