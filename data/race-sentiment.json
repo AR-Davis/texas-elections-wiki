@@ -1,9 +1,64 @@
 {
-  "analyzedAt": "2026-09-05T13:46:26.684Z",
-  "newsFetchedAt": "2026-09-05T11:58:22.089Z",
+  "analyzedAt": "2026-09-05T16:40:39.353Z",
+  "newsFetchedAt": "2026-09-05T15:04:07.716Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Finally, you can play as Ken Paxton in a video game about Texas politics - Chron",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQUZ0dUhFaWEyZEw5VUNQRDZFY2wtWDJ6VkswWVhrVGJrTzlLNk9XU1FsTzl5WjVSQ3h3WlNqaEQyMWtPMEhkWERaUWRTUVdqQzFTT1R0cnMxN0VGeXRrQ2VqNjZ6SlhiSE80dGlfYlBqcnk3UkRtajdQSFUxTEdfaWdaRzI?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 12:03:10 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas politics"
+      ],
+      "sentiment": {
+        "positive": 0.964,
+        "negative": 0.036,
+        "label": "positive"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "Paxton warns Texas Senate seat is at risk, urges Republicans to turn out and donate - Texarkana Gazette",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS2RIOHJFc1BNZ0JEV3UyUWNNWXl1dndYUkNGbmx3VTFVY0hpLWZHOU9tNXZOY3F5YmpiMzI3WFExbmQ1X0tKbEJkZDdjdVhXRVg5WVN5WVdBS2dFblZyRE9lNjhXT0J1cTVrQWlGdm5tNkRXRS1adHRsNzNUYWtEa2poWmQ1bjctNmhETHZEdlVXd1NZd091elI1VjlFYnM?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 09:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "texas senate"
+      ],
+      "sentiment": {
+        "positive": 0.007,
+        "negative": 0.993,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "Texas Senate hopeful Talarico ramps up Black outreach efforts - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWlVRc1hJMXh1Z2xoRGZoZjZPMTZDXzdPbGxVT0Z3eEpDMGRrOFp6VE1lN0plYWx2WWxaUktHcUJUUG1iZElHRi02VWtmWEtBNGhnZDR5eVhtb0VibXZWcENueWk1MHkyYWh6RGhOMU5oenVMdFZaOXB5TWprWmhBaWt4VEpYWVhSY1g3ekVQSmpIcUE3R3JqUU44Y3Z2SVpqTWtLcFp4MTRGWTQ?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 02:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate"
+      ],
+      "sentiment": {
+        "positive": 0.965,
+        "negative": 0.035,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W36"
+    },
     {
       "title": "Musk has started spending money to help Ken Paxton. Will it help change the course of the Texas Senate race? - cnn.com",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9yaHZuX3J5LXpiV1BpTTZQX2Z5RXNWT0d0Q1FBWVFiSFZhV3J2ZHJBU2N2TnAtN0NEUlJOc0dNSmpHN1c0c1hVb0FTRWhHd1FiSWpzMG5FVFROcVE5dW90OE1Vc1pMN0tjZHlyTWx2aTZFM0VTQmtYVw?oc=5",
@@ -1554,60 +1609,19 @@
       "error": "HTTP 405",
       "candidate": "paxton",
       "weekKey": "2026-W35"
-    },
-    {
-      "title": "Ex-Never Trumper conservative radio host angers MAGA with Texas Senate race hot take - SILive.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMXdWTDllc3JBWDFVbmJaQnJPdFZWSS1xOHg0Y1JGZ1hMQTZaS2tJUy0tQ3dmMndvWTNCY1hvTUg3elhUcmlZS19pemJyYS1TWk9rSU0xM3hXcUJSbVNoUmR3NE91d0NsenBGaGZ0TUpFWG1VeXlKWGthMHh5ZlpHRERncVlKQ2RrSzZqenJ5YlBHZWk4cVhWWEVKTU1uRGdZTllRc3pwZkFCb3FoMVNvMHF1VmF0YVdTMVRKU191aEgwZ0lwZlFkQtIB3AFBVV95cUxPNEZ3VjlzMTBIWHVQZXRkOHU3a0kzQWJoTEF2RlFTVmZRbFdpaW5OY3hmLUx2blJid0tQZjc3Sm83b1dQSExEWnVEb05WNWRvZ3lTd1RKZUs0ZWFDOU1OMThNWXFPNHJmRFVSb29oT2VaTndOaXpobzdkRzBIdmtZU09JSTJvZDFvTjRPeERKQkxSTWZKNzlYeXhYanhDLWJxWGdIMHFOMG40bUx1NS16dVJPWEEtbDBLT1ZhWlB5RDNHdTNyOUVZdDVfbGpLdlA4ODdIUlVHVEhZZTNC?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 16:48:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Dem James Talarico called capitalism ‘oppressive system’ that should be dismantled in 2020 forum - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeWZpa2lmcnk0WThSTHRmbFlOQ05hMkNPNUxIRVlSRHFwYlI4RTRZWU5PNnhoaTJmdjRNTnJGT01rbk5TejAyNHNNZUNWX0h4UUNtaFdPcXlGZWNBbjV2WUVWWHNyUkZRQ2RFdG9jd1p1V1JSX2hnNFJEaWFyTkhJYlRab1A4VEx2ekhFVW0xZlZ6VnVRSmFCV3NSSzZVeGJHOWM2aVNOakN6N3ozczRfT292bDBzNlhoVHZiOFRtb19MMVgwdW9UMFhTR3lWanRjUFJrdw?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 16:35:41 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Election triumphs, a series of scandals dot Ken Paxton's political timeline - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVlGUDlUSDhmNnllbllSSHVTQlNIcE1iTGRpcHVsdDZfN29hTlJpdDVLSW1fM05zbXhHb2pIM0RqU1NZcXhNUG52ZzJReEVrRkhsLUEwX3JfSjViZWZwdDliZlljWVVBNHpPVWRHRzcxakUzakhrQjV4a0g3SXVzX0NGWjFoSTNlLUIwdFRwanNadmw3azJIQ1JBNXM1blBlTUM5UUZtMDB5bDjSAbABQVVfeXFMUDQyZ0RKenVWMF9sYkRyM0QxZnREc0E2SE96a2R1ZUlEYm1EaWYzdkNobkU5cFR0LVdmQkl0c2ZUYURrbm1oNmhFci1xeUlRYXZjUlBUc3hUTnlYNnJqd1JGeUxQNjF0WEhUV1N6eFhjVWFKRDJSLXR3NGd6X0kwc2hlUDhwVFpPNHAyU0FHdTJfOXNvREs1WFdGNTdJZHR4Y19OVTg0V084RVBGSDNobGE?oc=5",
-      "pubDate": "Mon, 31 Aug 2026 11:56:45 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W35"
     }
   ],
   "weekly": {
     "2026-W36": {
       "paxton": {
-        "positive": 2,
-        "negative": 1,
-        "total": 3
+        "positive": 3,
+        "negative": 2,
+        "total": 5
+      },
+      "talarico": {
+        "positive": 1,
+        "negative": 0,
+        "total": 1
       },
       "both": {
         "positive": 1,
