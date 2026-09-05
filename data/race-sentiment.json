@@ -1,9 +1,70 @@
 {
-  "analyzedAt": "2026-09-04T21:18:30.033Z",
-  "newsFetchedAt": "2026-09-04T19:03:55.841Z",
+  "analyzedAt": "2026-09-05T01:18:06.251Z",
+  "newsFetchedAt": "2026-09-04T23:51:04.207Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Ken Paxton Refuses CNN Debate With Democratic Opponent James Talarico In High-Stakes Texas Senate Race - foreignpolicyjournal.com",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeFNuVzQ5Q3ctbElRcDdWdmhpaVhuWm5xRWlRek9NdHNtMnM1VE1vWEpRRm5SMXZRaDRZMHd5Skl2RmFlMl85bWtkT0xfNDVmRVk0aVpKLTZoVUxtYkJXcWM1ZnMzRkpsX3NzRWdKSko5amEtTVlDTXdrR3FvR0FZTlFiQ0REQlY0WFJBSkhqM083TWM2bnV5Q3RCQmRHRUxzZ21XcHhFSHhMSEtwRmVJOFJmcGQzVDQ4OVdnNnJ0M29lOUktMHd0c3VCZ01NeGxYYXRlMjBkbkZwZ2xCTEV2ZlNNN29pZw?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 23:44:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 38,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.013,
+        "negative": 0.987,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "Ken Paxton Just Spilled the Tea on Where James Talarico Is Getting His Money From - townhall.com",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZ0lJOVRpZnNoZVVmNE1IczZWTVZhdDNLTzNEaGlCQkk0bVAxMWIwNjBvbVoweE0teEtGMndPaTlDZng2RzNkTUR3cUtlN2ZWRUFrSkUtWlRkUmItX0tkVjdIdG1QZG8tWVBMYWdrZ2JHQTRMWkd1OWNBdXAtMm9BdVZWWWFITXI0bDUwejNXSmtuRUUyUkNGd2dza3FNLUlNN2YxSm12R3N0NnF2UGtwYjVmNXRJdzZrUU5hTzA1UlE4cExiM1pIcU5ncmtnclRVNDc0TnlBRQ?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 16:45:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.002,
+        "negative": 0.998,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "Elon Musk’s super PAC starts spending to boost Ken Paxton in Texas - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT3RqTTAxejA3M0VVSFlPQ0JXWng5MElNTnBKaFRycXhfSk1lQ1Q1M3gtUGduMGRvZ0hqNzVxSXBxc1oyQTNGNWVUcmVaakk5akdGdE4tdEhhb3VHNU91eDNqVDNiQ092UFpmOXlYclcxMWdQMFV3TkZsUi1sY1ZDaVk5NHJPNW9LZzk5Tl9XTFBZbHJpWV8zZ004aldhR28?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 20:35:06 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.998,
+        "negative": 0.002,
+        "label": "positive"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W36"
+    },
     {
       "title": "Ted Cruz says Texas Senate race between Paxton, Talarico ‘effectively tied’ - newsnationnow.com",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbzBtOWh0dkNqX2hSTU1kblRvVGFVUDM3X0FwN0hxN2d1RGFhT1R6ZThMQ1lBaXpaQ2xlSEVObkxoMVdLeE9wQU4waDEzNjNXR2Zpb3UwRDJCdEpBM0E5ZjU1VlY0UGNjRHZpNzVudEJUQzl0RHEwck96bnM2Q1Izd2pGMnBDSmVRMWNLcVhlSU82eVR5azNj?oc=5",
@@ -1532,52 +1593,20 @@
       "error": "HTTP 405",
       "candidate": "paxton",
       "weekKey": "2026-W35"
-    },
-    {
-      "title": "It's not just Trump as GOP money starts flowing in to help Ken Paxton - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb3BEOXNQZm8xWlUzaDMzR2ppUWhETHgxOFdJV2xTbGp0SllSekdIenNXMFdhRFJPaEVXdXl6VDN2dVd5Z01BZ3pkUWVTekdFSmpDREtGTHVoYnFmQlRUSWZzeERWNVJwN3FlTE9HWFpoS0RWdnVfRVdYdVBGQkFFQVpfT19TVXNhQzE2bkQwVFZUeTY0dGRuOG9vUVdfUlRsa3VjbW5waE9EYnFDalBBU1YwRENkSFJPTzc4T1BHNHNMdw?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 11:02:38 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "In 2020 forum, James Talarico said Texas oil was ‘not gonna last,’ called capitalism ‘oppressive’ - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQVlZVnpLa2tIWFNwbW0zUXllaThiZWVqajJwTmd4NjNHcjFJUDJuYmlZUTUxQ0lweUpaV045cEtEYzY1QURmR2ZBa2t1Z3hoZ1V0Qk95QkUteWZPTzRCVWhSY3ZidHZZZ1ktZnI4SnJkMDVfNVlBLUJxSlpMTHZyRElzZVpHNzJw?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 10:00:29 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Democratic Senate candidate James Talarico to host campaign event on Baylor’s campus - The Baylor Lariat",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZmtOUUF2MXVveXRmUG03ZlZ1aWp5NUhma29tTXZOVDVIc0N2bnkzaFVwTzJTNHRuSEhIRnNzclRDeGRhcGpaN3NnWF9wSjFXcTEtNlpZenZqeFlFVl8tU2FvWEFqOV9CbXZQTVpnekZCN0hhQUJ5LTRFbXFnbGhEellWSHkzWkExRjhXd0RRaEVkd2J6aWJVNVpuWEJPMEl6NVFzb2RjX3F6bEF0WjZVR0YxTUxPVUd6cTg1etIBxAFBVV95cUxPNkRoQUtqMXRFVk9CMGd6N0o1QWllY0dRYXBhUkRkbkdDTjZiSzdjNm1ZdS1NajZRbGhxN1FQLWZ2WXZmMDBfNVg3VFo0SmQ0OHBkRTlRT0lkMkVPNTFuRkZqQWxSVFRZM1l5eC1hU2d6Y2dKX1VVZVREVEpPM0pGbUtpSWZ3TzcxY2t3QTRtaUFCOThBdUozaDA3dENLRlVmd04waXNyZ01XTTFCeDlYb2tGNWlmSnVoOGFjYnE2X3dRQW1a?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 06:42:55 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W35"
     }
   ],
-  "weekly": {}
+  "weekly": {
+    "2026-W36": {
+      "both": {
+        "positive": 0,
+        "negative": 2,
+        "total": 2
+      },
+      "paxton": {
+        "positive": 1,
+        "negative": 0,
+        "total": 1
+      }
+    }
+  }
 }
