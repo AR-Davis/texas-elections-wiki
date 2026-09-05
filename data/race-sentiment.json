@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-09-05T01:18:06.251Z",
-  "newsFetchedAt": "2026-09-04T23:51:04.207Z",
+  "analyzedAt": "2026-09-05T06:11:55.920Z",
+  "newsFetchedAt": "2026-09-05T03:55:37.302Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "The Battle for Texas: GOP, Paxton and Talarico - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNXzIwX3Jma0R6cXo1cWJLT0RDNmM5Z0NBRHNmLS1IUkhHM3dsOEc5dVJ0MjdmZ2U2ZE5rTDhVeU4tNlllQ1FUeG55SXJhb210YnNCcHB6MmtrRGxJYzNtSkhtb1ZCbHJQRldmVzUzZFlrV1RoUXhXY2Z0NzlNLTRDcmFiN05FaHlQdGlxbzdoZzdQbnVoS1h3OTdycFJPWHd3ZFdtdHVXWC1DaGpEN01NM2hwRGhsQzdBejZnWDVDdXJXakpKRS1Od0wtX0hITHfSAc8BQVVfeXFMTV8yMF9yZmtEenF6NXFiS09EQzZjOWdDQURzZi0tSFJIRzN3bDhHOXVSdDI3ZmdlNmROa0w4VXlOLTZZZUNRVHhueUlyYW9tdGJzQnBwejJra0RsSWMzbUpIbW9WQmxyUEZXZlc1M2RZa1dUaFF4V2NmdDc5TS00Q3JhYjdORWh5UHRpcW83aGc3UG51aEtYdzk3cnBST1h3d2RXbXR1V1gtQ2hqRDdNTTNocERobEM3QXo2Z1g1Q3VyV2pKSkUtTndMLV9ISEx3?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 22:32:27 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": {
+        "positive": 0.915,
+        "negative": 0.085,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W36"
+    },
     {
       "title": "Ken Paxton Refuses CNN Debate With Democratic Opponent James Talarico In High-Stakes Texas Senate Race - foreignpolicyjournal.com",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeFNuVzQ5Q3ctbElRcDdWdmhpaVhuWm5xRWlRek9NdHNtMnM1VE1vWEpRRm5SMXZRaDRZMHd5Skl2RmFlMl85bWtkT0xfNDVmRVk0aVpKLTZoVUxtYkJXcWM1ZnMzRkpsX3NzRWdKSko5amEtTVlDTXdrR3FvR0FZTlFiQ0REQlY0WFJBSkhqM083TWM2bnV5Q3RCQmRHRUxzZ21XcHhFSHhMSEtwRmVJOFJmcGQzVDQ4OVdnNnJ0M29lOUktMHd0c3VCZ01NeGxYYXRlMjBkbkZwZ2xCTEV2ZlNNN29pZw?oc=5",
@@ -1577,30 +1595,14 @@
       "error": "HTTP 405",
       "candidate": "paxton",
       "weekKey": "2026-W35"
-    },
-    {
-      "title": "Ken Paxton | Texas Attorney General, Republican Senate Candidate, Impeachment, Divorce, &amp; Biography - Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mbk0zSnlhSEFWLVY1Sng0d0hNQTJmZGt2eEJFZUo3cVpKWE9RNlVSWHplU09Zb1FWNHRldThhZUNVUXRWN1J4MzNjeEpmc1VFRVNlRTJra2ppc0U?oc=5",
-      "pubDate": "Sun, 30 Aug 2026 05:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "attorney general"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W35"
     }
   ],
   "weekly": {
     "2026-W36": {
       "both": {
-        "positive": 0,
+        "positive": 1,
         "negative": 2,
-        "total": 2
+        "total": 3
       },
       "paxton": {
         "positive": 1,
