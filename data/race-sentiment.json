@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-09-05T06:11:55.920Z",
-  "newsFetchedAt": "2026-09-05T03:55:37.302Z",
+  "analyzedAt": "2026-09-05T10:51:21.030Z",
+  "newsFetchedAt": "2026-09-05T08:15:50.443Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Elon Musk’s super PAC starts spending to help GOP in midterms, including Texas’ Ken Paxton - Scripps News",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZm5RMjdqR0RKSGpWRDhSemJVUlY2cG5hRl9QbkFPc3hGUGZEMlRuQnV2RWdvMGt0LU9DNnpEbmNMNzk5SU1qblNMMWc1X1ZiQ210NWZGb0hXWmRXcF9yNEtTRHFWZFY3eWdNdWpObnlsQnJQNllORmZyQXNnQXR3TFlCMGh0dGtncDd4cENuLVFqOXFVd01SelZpRVJRb1V3eXR4a1BKT0M0WTA0bkZBaXlCeWgybHJRV2NZUWZrbE9tQQ?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 07:13:20 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.903,
+        "negative": 0.097,
+        "label": "positive"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W36"
+    },
     {
       "title": "The Battle for Texas: GOP, Paxton and Talarico - Houston Public Media",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNXzIwX3Jma0R6cXo1cWJLT0RDNmM5Z0NBRHNmLS1IUkhHM3dsOEc5dVJ0MjdmZ2U2ZE5rTDhVeU4tNlllQ1FUeG55SXJhb210YnNCcHB6MmtrRGxJYzNtSkhtb1ZCbHJQRldmVzUzZFlrV1RoUXhXY2Z0NzlNLTRDcmFiN05FaHlQdGlxbzdoZzdQbnVoS1h3OTdycFJPWHd3ZFdtdHVXWC1DaGpEN01NM2hwRGhsQzdBejZnWDVDdXJXakpKRS1Od0wtX0hITHfSAc8BQVVfeXFMTV8yMF9yZmtEenF6NXFiS09EQzZjOWdDQURzZi0tSFJIRzN3bDhHOXVSdDI3ZmdlNmROa0w4VXlOLTZZZUNRVHhueUlyYW9tdGJzQnBwejJra0RsSWMzbUpIbW9WQmxyUEZXZlc1M2RZa1dUaFF4V2NmdDc5TS00Q3JhYjdORWh5UHRpcW83aGc3UG51aEtYdzk3cnBST1h3d2RXbXR1V1gtQ2hqRDdNTTNocERobEM3QXo2Z1g1Q3VyV2pKSkUtTndMLV9ISEx3?oc=5",
@@ -1578,36 +1596,19 @@
       "error": "HTTP 405",
       "candidate": "both",
       "weekKey": "2026-W35"
-    },
-    {
-      "title": "GOP Sen. John Cornyn Calls Republican Senate Nominee Ken Paxton ‘Lazy’ &amp; ‘A Poor Camp... - upolitics.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNGlWTmY3cUx6YkwwWE1KSnFQMWZlcGFqSjFzc3BKcVUwaFdjcnhISE1ZY2lOdE9yVjlQTUlfb1F2bGludWs2QjkwNV9qMjVRLUJxSXl6V0hqcE5nQlRvYXAyTEhwNk1pTDhZcVM5Z0t2OEpTbUMtWGVpWnFpNDQ5cHZLaFFWTVk4bjBVYjd1ZEFzajRabFBvQTl2MDVSNjY4Zk1nTUFERFpGelJQczBZamxua9IBuAFBVV95cUxNdHNHRGtoWTRDcVNrcGJDNXhpMFdMbTJ1dHNWVGlUbFlUdzFvZVF1bHdrU3ZDSHlwUGpDRjFXS2dydm44S2drNWxFWUV3WG1IdGFuNjUzbVQwc0NncHZXVFZWNWlvaFRTUTNkYTlfUG9mcXN4VWpxbHV4WFhIZTFZNG5Ta0hWSHo5WEc5YXdaYm5ldGZKLWhfSXh6dFJrc0FFNjA1U2IwcjVzMGVLbkxNZEpVaTBfazNV?oc=5",
-      "pubDate": "Sun, 30 Aug 2026 23:37:48 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 20,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "cornyn",
-        "john cornyn"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W35"
     }
   ],
   "weekly": {
     "2026-W36": {
+      "paxton": {
+        "positive": 2,
+        "negative": 0,
+        "total": 2
+      },
       "both": {
         "positive": 1,
         "negative": 2,
         "total": 3
-      },
-      "paxton": {
-        "positive": 1,
-        "negative": 0,
-        "total": 1
       }
     }
   }
