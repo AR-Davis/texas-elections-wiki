@@ -1,9 +1,30 @@
 {
-  "analyzedAt": "2026-09-05T10:51:21.030Z",
-  "newsFetchedAt": "2026-09-05T08:15:50.443Z",
+  "analyzedAt": "2026-09-05T13:46:26.684Z",
+  "newsFetchedAt": "2026-09-05T11:58:22.089Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Musk has started spending money to help Ken Paxton. Will it help change the course of the Texas Senate race? - cnn.com",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9yaHZuX3J5LXpiV1BpTTZQX2Z5RXNWT0d0Q1FBWVFiSFZhV3J2ZHJBU2N2TnAtN0NEUlJOc0dNSmpHN1c0c1hVb0FTRWhHd1FiSWpzMG5FVFROcVE5dW90OE1Vc1pMN0tjZHlyTWx2aTZFM0VTQmtYVw?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 10:30:30 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.013,
+        "negative": 0.987,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W36"
+    },
     {
       "title": "Elon Musk’s super PAC starts spending to help GOP in midterms, including Texas’ Ken Paxton - Scripps News",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZm5RMjdqR0RKSGpWRDhSemJVUlY2cG5hRl9QbkFPc3hGUGZEMlRuQnV2RWdvMGt0LU9DNnpEbmNMNzk5SU1qblNMMWc1X1ZiQ210NWZGb0hXWmRXcF9yNEtTRHFWZFY3eWdNdWpObnlsQnJQNllORmZyQXNnQXR3TFlCMGh0dGtncDd4cENuLVFqOXFVd01SelZpRVJRb1V3eXR4a1BKT0M0WTA0bkZBaXlCeWgybHJRV2NZUWZrbE9tQQ?oc=5",
@@ -1579,31 +1600,14 @@
       "error": "HTTP 405",
       "candidate": "paxton",
       "weekKey": "2026-W35"
-    },
-    {
-      "title": "Ken Paxton Faces Money Crunch as James Talarico Surges - Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdDFISk9vS0JfWmVmZE01ZngzSnVEeTlXaG9UQlI1RVpFWV9VRVZJZXdyWjdjbWtmODNFVnh5TTFvMnVLYWFJVTlRUmlTbTlIbkc1eV9OWndxaUlfdU1oclNkcFNNZjJoYTFuVS1lMnZMM2h1cHAwRjgxdkZDelpQWGlRTlY0X09MVU9nWUJ4Y3RPUQ?oc=5",
-      "pubDate": "Mon, 31 Aug 2026 18:04:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W35"
     }
   ],
   "weekly": {
     "2026-W36": {
       "paxton": {
         "positive": 2,
-        "negative": 0,
-        "total": 2
+        "negative": 1,
+        "total": 3
       },
       "both": {
         "positive": 1,
