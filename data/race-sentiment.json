@@ -1,9 +1,66 @@
 {
-  "analyzedAt": "2026-09-05T16:40:39.353Z",
-  "newsFetchedAt": "2026-09-05T15:04:07.716Z",
+  "analyzedAt": "2026-09-05T18:54:39.760Z",
+  "newsFetchedAt": "2026-09-05T17:29:59.958Z",
   "totalAnalyzed": 100,
   "newThisRun": 3,
   "stories": [
+    {
+      "title": "Talarico Brings a Touch of Trotsky to Texas Senate Race - Real Clear Politics",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU1E1M2NyVzhQMVdjLTYtbUUwM2x5bXp3ZS05NDBoM0l5QXZ1Q0hJZEFMNmpyYThCbUE4WWNvcUh6eEZZV0o2NE4xZmk5ejdIRGstaWN2XzFVeWNzenRZcFBiXzBJQVN4azZWQlowMUlEa1dTcUhHdkYtXzd1N29GdlBhT3VldDdETU1GRjdsMUJ0dGRGS1BydEs0RDQ5VDB1dmNleWwzb2pGVFlzNC1YZU9R?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 11:39:03 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "Talarico aims to rally rural Texans to cut Paxton’s edge in Senate race - Longview News-Journal",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd2xBa3RaLUhnMjN6emtGSmQ4cmVDSVBrQUhHVEVWNWtyQndKM0VqOVQ5TGNfTlBKX1A3bnRLZmpYZHBpMThlaG5zQkk3X3RkVlE4cEpKTzBFRkl1b3J5NGk0Vi1HR3RFbUU5c3c0TFUzbFlqdGZoQU5iWjhPNUJlZEp2eWJvNDE2cUMxWXIzckVRYm52RE9MaEVuVjFsaVJPQ0pjbjdIeGFLZk0?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 10:43:09 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.659,
+        "negative": 0.341,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "The GOP’s Texas-sized Ken Paxton dilemma - Washington Examiner",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMXJ2SGcwelV0X2owTndSVkRWQU1XWi1wMmRpZkxIZTFEOVRUMUlxamhVY0ozcXJmS0RaY0pXSVhrUkFtUHpDYTVwejYwRVpsREZOWFQteURRRmtuYW1EcXpyZHBzRDVnLW9uLVBYQ2xXR0hZcnF4RWpSalNkeTdCendXLU5EQ09yUjVQOVdDQU5UTW9hVml0LUJrMDRUemFxVGZEaHpSM2pVS19KVDAwaWpaZGFnQQ?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 11:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.085,
+        "negative": 0.915,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W36"
+    },
     {
       "title": "Finally, you can play as Ken Paxton in a video game about Texas politics - Chron",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQUZ0dUhFaWEyZEw5VUNQRDZFY2wtWDJ6VkswWVhrVGJrTzlLNk9XU1FsTzl5WjVSQ3h3WlNqaEQyMWtPMEhkWERaUWRTUVdqQzFTT1R0cnMxN0VGeXRrQ2VqNjZ6SlhiSE80dGlfYlBqcnk3UkRtajdQSFUxTEdfaWdaRzI?oc=5",
@@ -1562,71 +1619,24 @@
       "error": "HTTP 405",
       "candidate": "paxton",
       "weekKey": "2026-W35"
-    },
-    {
-      "title": "Exclusive / Trump may need to save Paxton in Texas Senate race - Semafor",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT0F3dVRkZkZxUkR0M0F6SjEtdUN2VXA3TmN4eWFKV1pOWmhkSnUxaDlJdkUtdWJRN2tBcUJEZ2FRdXYwckJqeFFJcC1RX29tMGJ1Z2Fzd3oxbnlpblZVeVYxY01xMEZuSUcxdkdUXzBYQ2hDNVljS3dkaER1ODFFMVhTd2pDbW1kN0pnRzRqOElrMldMUlVRTQ?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 08:51:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Ex-Never Trumper conservative radio host angers MAGA with Texas Senate race hot take - AL.com",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcmxBSlYyS2RGQ0F5RmR5UldIUVREVl9idGRWS1Z4Nk1nRlZ2dkY2b3JRa2JEWVBZNktQclkyVXkwY0MxNWwyRXNHZTlFM0JaSEN0d245SkQ3Sms0bjdMdjN1Smtscm9TNW90SzBtdmxIb1pjaWJ4R1ROc3IxZ2hJc1E3UXJIVjNaeFhEbEF3X0FMMzA3aXdOeUozcFFESnQ1NnF5WU53MDdpekVrWklVaGM2RVFjeVMwaGRWQ0hyR0F1bVhSajd6WXBlSm5rWUZRRDlXR1QtMNIB1wFBVV95cUxOcmxBSlYyS2RGQ0F5RmR5UldIUVREVl9idGRWS1Z4Nk1nRlZ2dkY2b3JRa2JEWVBZNktQclkyVXkwY0MxNWwyRXNHZTlFM0JaSEN0d245SkQ3Sms0bjdMdjN1Smtscm9TNW90SzBtdmxIb1pjaWJ4R1ROc3IxZ2hJc1E3UXJIVjNaeFhEbEF3X0FMMzA3aXdOeUozcFFESnQ1NnF5WU53MDdpekVrWklVaGM2RVFjeVMwaGRWQ0hyR0F1bVhSajd6WXBlSm5rWUZRRDlXR1QtMA?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 16:48:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Trump Rallies for Paxton, Gives Medals to Artemis II Crew in Houston Trip - thetexan.news",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWEx1YXBXMExIdjNKQUt2c1RVTzM5LU5OenZBanhsRTZVUG1LODhYZkgzLXZIUVloQUg2azhYdnlreHVCNmh0VGRqNHVSRWhwR3gxejF4UzNHVHhvWXQ2MnZLZ0VlYkFYSTNRcjV0c0xNbzhuQk5SUjF0TW14M1VxWGFObWhSV042cDRCZnNocFNBUWVqZEhwZ0hGTWRnYV8wUkFSVU0weWpMYTB5a0xMa2pGWV9tUmY5RGdLOXRUcWZUekRHSUFrTUJ0QUFmRktFYVdXV2VpS2xIZUt6bWtlXzl6dmtSRE9jd3gzRmdQQzM?oc=5",
-      "pubDate": "Mon, 31 Aug 2026 10:02:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W35"
     }
   ],
   "weekly": {
     "2026-W36": {
-      "paxton": {
-        "positive": 3,
-        "negative": 2,
-        "total": 5
-      },
       "talarico": {
-        "positive": 1,
+        "positive": 2,
         "negative": 0,
-        "total": 1
+        "total": 2
       },
       "both": {
-        "positive": 1,
+        "positive": 2,
         "negative": 2,
-        "total": 3
+        "total": 4
+      },
+      "paxton": {
+        "positive": 3,
+        "negative": 3,
+        "total": 6
       }
     }
   }
