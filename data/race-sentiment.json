@@ -1,9 +1,69 @@
 {
-  "analyzedAt": "2026-09-06T05:41:33.152Z",
-  "newsFetchedAt": "2026-09-06T04:01:19.804Z",
+  "analyzedAt": "2026-09-06T10:37:42.212Z",
+  "newsFetchedAt": "2026-09-06T08:48:23.074Z",
   "totalAnalyzed": 100,
   "newThisRun": 3,
   "stories": [
+    {
+      "title": "Trump’s super PAC pours $10M into Ken Paxton's Texas Senate race against James Talarico - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcngtOEUtWk5fekN6M1AzRkNHVE9MYmJabFBQR0RlUVI0OVRVTk9zZUk1aGstMzI5N3BlSnpCQ3FleTZaa05mSEtRdXBLcVB0RGE1TzlRQjc3bGxrVG5xaFdncG4zUEQtYXZocUhUUWZ6ZjExVnZjLVl2Q0xGYm1fZlVwWERIUUVRTlpsdzdzODdqS0NDSVNIXzlfNV9QdWVtNnQ3c19SYzVwOWswb2pfZDNqVVhQanc3SmpMdUwwcEc?oc=5",
+      "pubDate": "Sun, 06 Sep 2026 07:22:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 38,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.014,
+        "negative": 0.986,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "Trump jumps into Texas Senate race - The Lewiston Tribune",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbFZCdjdOcFluVnhVdnJZQkYxVExlMTlzRHNVem9IMzAwN0VSdmdLazZtTmM2dTR2MFBiRnktYUh1UkEzeDkxTjh1SnJ0U0hQTTB2WmR4SXNQUHZOeUZqRzZaT0NPSzlNZ1AzYWVsUkJITFVsdWNZMHJqcjNkN0s4eQ?oc=5",
+      "pubDate": "Sun, 06 Sep 2026 07:04:18 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.995,
+        "negative": 0.005,
+        "label": "positive"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "Ken Paxton quiet about Texas’ $10B Medicaid cut - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVTRLVVkwTmtDdVlScHFZczVoQVNzakNGOU01SWFOR1ZhNUxnNDFZZGlPMUZ3TUdVT016Q0NOdXFyNmk4cjRWdHZwRDBWTzJtVHY1TlV3UmcyWVlyaXhfdkdud3BwWDlfLTlQczFzWV9PNmxRT1pQNUhldURWV1lzWHlnY3AzQzNyaWJBR1ZwU0hkY0xyMENfcy1FNWw?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 23:24:45 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.02,
+        "negative": 0.98,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W36"
+    },
     {
       "title": "Trump’s MAGA Group Launches $10 Million Ad Blitz in Texas Senate Race - Times Now",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdGNiUndzM1ZLN2QydjBLckNnVU5HT2tGbzNnNkdVbmlUY256akw3b1RQZGF1Z1dKc0drWUxPREdNZUNXVXdjc1JNTzZnNFpXc3lxcmFyTDJKTXQzTU85N1Boc3VqZ3BqNy05RFZnMi0yN3RuWTJmSmxVRzBXLWxId0dVSm85NmRhRWw3MVdadUJ6QXJXajJDdm9lZG5QbzF5LVBmaXBUYVJoNC15SVhxczlIWmhwNXFNT0xvTFJZSm8tMFdXX0VTdWZENNIB0AFBVV95cUxNU282Q2k0NlFxekJXNHJPcmVVdTlLQWp6dkJIN1NZRXpYYlVObTg4LUttem9LUHl4WlRJU2dTMk1mV2VVWVdnR2VVU2d0MFJUeGlZNk5NQ1NfV3JpbWVWR1g1VWhnLWY3RHg1d1BWRUItWk93QlJjYnRya2NzSjNBYnlqaHpxcUFBUmlQYk1IZURsc2h6ZDhCOFNOZkZkczlDM29mTVRnSUxRS1ctemdKQ3QzNXFQR180bmF5NGxrTUtJTlllM1BQT3ZzVWJSZHht?oc=5",
@@ -1607,74 +1667,29 @@
       "error": "HTTP 405",
       "candidate": "talarico",
       "weekKey": "2026-W35"
-    },
-    {
-      "title": "Trump Houston fundraiser was intended to 'save' Ken Paxton — but the funds didn't go to him - San Antonio Current",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYlBnNWFDd1JITnI2MWJfTEczcHZiUXlMVVFBWTVjMVRKYWZZbTB4c0s3QmJVdE1aQTg2eVc2X3RLOENkOUpkRnlmMktlVThMc2Z2NVFITFEyMWJleERjYXl5SVdLMXI5c01uNHdYWkNMVTdYVHgwT3J3RWdFSXVvV25PTjFjVjlfaURhQkxWM19wODlxMTFKSHpSTDlOTjB0N2hjbldWMDdNU2MyZG44bHlIejFndUpsOVE?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 16:55:08 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "As Talarico goes from bad to worse, GOP debates support for Paxton - Washington Examiner",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNno4WHZUSS1EM0NXbFpwXzh4SkVzaTNXNmRtNGdkbVFNSlZuZVVpZ01ZWm12T1Q1WGgxemFrWG95Mk5CNTdYWm9aaFlOU2RKUVR4TnFkeFRRNFJMRTFwVTFqWG9SMUVPeDNrQnk2ZVJGcXhOWG95bU1rNU9tY3ZPUUlFNU9RbkhwN29jNWRmOTdaZWZEUnBHT2llLVlZbXlIOUFIakxB?oc=5",
-      "pubDate": "Wed, 02 Sep 2026 04:01:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 10,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Republicans fret as Talarico bombards airwaves and Paxton awaits Trump team’s cash - Scripps News",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUzdxWjFNRnljTlVsdWkwRWQ3bXZ4a3VMaUNUaXJxSkJGM2JILVFFNElGSmQzUFZCTkViNWhlV3JVcmdXNkdrX2pWdmhOQW40eEZWSGpCVEUyckpsSE9GdDFGT0xZWVNNUkhMbGZKanRONThRVnZsQktKWEJEVXpSYV92NnpqLXVqWDdvMHJzVnFWeEJiTUZYNzhCSEVXNHphT0FNTy1rVE5KRzlBazNRQ1FCMUNSVmhjWHc?oc=5",
-      "pubDate": "Wed, 02 Sep 2026 00:14:43 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 10,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W35"
     }
   ],
   "weekly": {
     "2026-W36": {
-      "general": {
-        "positive": 0,
-        "negative": 5,
+      "both": {
+        "positive": 2,
+        "negative": 3,
         "total": 5
+      },
+      "general": {
+        "positive": 1,
+        "negative": 5,
+        "total": 6
       },
       "paxton": {
         "positive": 3,
-        "negative": 5,
-        "total": 8
+        "negative": 6,
+        "total": 9
       },
       "talarico": {
         "positive": 2,
         "negative": 1,
         "total": 3
-      },
-      "both": {
-        "positive": 2,
-        "negative": 2,
-        "total": 4
       }
     }
   }
