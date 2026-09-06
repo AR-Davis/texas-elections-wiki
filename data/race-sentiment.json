@@ -1,9 +1,47 @@
 {
-  "analyzedAt": "2026-09-06T14:02:23.668Z",
-  "newsFetchedAt": "2026-09-06T12:46:28.859Z",
+  "analyzedAt": "2026-09-06T16:52:58.432Z",
+  "newsFetchedAt": "2026-09-06T16:06:14.028Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Talarico Insider: Texas’s ‘Perfect Storm’ Could Defeat Republican Ken Paxton - Zeteo | Substack",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DZGpVMzNRZTNONHhNQkxVR0d1WUNUUjdfTXFrSmc5MUlQZGEyUXhwclFDM1VOaUFBdUV2MmtlWGt6MUhhbXd4by00b1NBaXFFeGhZLXdxX3pjWnNSN3JfWk5RZkM0ZldJ?oc=5",
+      "pubDate": "Sun, 06 Sep 2026 13:01:29 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.983,
+        "negative": 0.017,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "A closer look at how Talarico and Paxton could fare in crucial North Texas counties in U.S. Senate race - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZDNwUGE3YTNJeXhQZXk3VGtQZ0pIdVltaEJFd2N1anBrVVNWSjhUYUN5Z2hCRHIxMVFiSGYxSkloZE5jRHVoTHltaVpNWVczeWh3eENQbmVqbWh3VWRuemJnbno4MzF4UzVJMVRCM1NRTXF3bENmUDZRblZqOXl6SHc2cXZoM2hMd1lzc0Z4RW5QbG1laS1SOEdJUzhuU1FfRGNIX0oxbWJScEhzY0gwZzV0cWdsazd0UFFnb0d6NEltYXpBV3RLTkczUzRvbmZ3QWFR?oc=5",
+      "pubDate": "Sun, 06 Sep 2026 10:00:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.998,
+        "negative": 0.002,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W36"
+    },
     {
       "title": "Talarico needs to cut Paxton's edge with rural Texans to win Senate race. Can he? - Texarkana Gazette",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRzc4UHhQbVlkQ0xyWk1OQ2NMN1FnbGw4NEV5TWxzY2Y3dXdwdTlWbzBVLVlNaEhJWklCYkJCaVBTYzBPd0V5QmhnZEd6eUVxckl0ZS15VFV3S0YtSlhFUmNKMjZUQlNsdWt2eHhlUEVBTXR1cElfeEFEc1dfQU1KZDFOVk84ZXByQWNzc2JhR1gyVG5TeEtYckZuTWU?oc=5",
@@ -1638,46 +1676,14 @@
       "error": "HTTP 405",
       "candidate": "general",
       "weekKey": "2026-W35"
-    },
-    {
-      "title": "Why MS NOW rates the Texas Senate race a toss-up - MS NOW",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByVmpkSFVVWjhpQmtpS3p5aXpZNGJhcUZsMHlsMlFjNmNjMHQyT045dzNxSjBDclQwQUxIemYxOHFwNEEtZjMyNkNyOGk5MGY2eEVDa1dFci03ZlFBN0pScUV4SkJzMnRTNEFPdlNJMnhKVWs?oc=5",
-      "pubDate": "Wed, 02 Sep 2026 00:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Ex-Never Trumper conservative radio host angers MAGA with Texas Senate race hot take - AL.com",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNUl0MWV3MXVGOHF0dXZfcVE0V2RFSUVMU3R2cHNqek8yUkt0cWx3QU1WMjJoaG53dHhhWHRXamYxV3JmQjBMZDFrU1RIeUNuM192VEkwYnNWdlVockVjMlhLYTREVW9JdVZoQ0h5b2lJVUZKdHNsSnlUV21YbVlpblRvWEhJakZNUHlsMDAxVWx4TXkwbnQwd0NlbUNXZWJ2QkVpVjVUcVFMUFoxc3lYQTY2d21IN1RCeVJyN2s4OUNwX2fSAdcBQVVfeXFMTnJsQUpWMktkRkNBeUZkeVJXSFFURFZfYnRkVktWeDZNZ0ZWdnZGNm9yUWtiRFlQWTZLUHJZMlV5MGNDMTVsMkVzR2U5RTNCWkhDdHduOUpEN0prNG43THYzdUprbHJvUzVvdEswbXZsSG9aY2lieEdUTnNyMWdoSXNRN1FySFYzWnhYRGxBd19BTDMwN2l3TnlKM3BRREp0NTZxeVlOdzA3aXpFa1pJVWhjNkVRY3lTMGhkVkNIckdBdW1YUmo3ellwZUpua1lGUUQ5V0dULTA?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 16:48:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
-      "weekKey": "2026-W35"
     }
   ],
   "weekly": {
     "2026-W36": {
       "both": {
-        "positive": 2,
+        "positive": 4,
         "negative": 4,
-        "total": 6
+        "total": 8
       },
       "general": {
         "positive": 1,
