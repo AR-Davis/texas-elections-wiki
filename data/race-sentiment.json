@@ -1,9 +1,87 @@
 {
-  "analyzedAt": "2026-09-05T22:46:42.576Z",
-  "newsFetchedAt": "2026-09-05T19:25:09.979Z",
+  "analyzedAt": "2026-09-06T00:44:34.936Z",
+  "newsFetchedAt": "2026-09-05T23:42:03.988Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 4,
   "stories": [
+    {
+      "title": "Trump’s super PAC drops $10 MILLION to boost Paxton in Texas Senate race - thepostmillennial.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPakdqUk1QNmp0M2VOblI1aDk1NDVTbHdiRFBFQ25OWEt1aGJJanZnLS1IOXRwZ0F4VFpOaE10RWFBYWJNaVk0TEhxeFA4QlpxWnZGYzEzWFBIcS0yRTNCRDVETHd4Z3hfUDB6VUZLcVhZeGZqd0hFRHA2akNYMTUyQ01jeVl1TVZRcm1wT09ZSzVWZFZoVzQwSWtTb2V6Y1k2Unc?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 22:22:50 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.001,
+        "negative": 0.999,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "GOP icon hits panic button over floundering Paxton in Texas Senate race: ‘Time is running out’ - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVVJWRi1nNzIxTXlUc19kc3dlXzVGMlY0U294SlVrRTBSNEtDTTVhcjUwZ21PZGR0LWdRMEowM2dtcTV5MWtwMk5pMjZZa09yZ2ZRZEJLRFpSZ1hxeERnSHh6c0NzS0l1YXZBd0ZkRTlwcHVURDdSZlREZW9xMDlScER4SjlsXzZxWG02SFpsVW5WTVltb1FUTlRUUlZBRlRzclJmd3BCSzFBVjZzZHRNdWxhOWJKRkJSZWNObE5CU1AwbHhWOVVQMUxvQ2LSAeABQVVfeXFMTWJJUkVsN1JHMVZQX3FKZW5xeWZTcTRlMndNSWJVUmhjM19XaFdaLTJfVzhnRzRBSmlidFRabVRJZkdQaTVfOVVJWnkyNzhzNGdPRWlDX05UUjZIbV9UVTNoTGRSM0NvWm9kNVBEVFMzNmJMcUIyQmthYWZZWGt0bXIyS1RPd2FNeGZvckhDaUp5ZmVHQnV3RmVmbmFselJadWNuVmFxbEhFeEhheTA5dHZRazhMMHg3NEc4WDMyZVJMc2U1WkF4d0ZlTl9uYVAySVhTb002T2ZaNUNUYjR5T0c?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 15:08:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.123,
+        "negative": 0.877,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "Trump-aligned super PAC to spend $10 million in Texas Senate race - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZWdIMllTakVZY1REM29XTmoxb1c4em9aZUx3TXNBQjUtRzVDZVE1UjZFMUtnbVJWeWVMLWpzcEdiNnVLSVlLdFhRdFJEMlNnZXdnTVc0TG9jTUhZU21aU1NnNi1CZm5hTVBDOGVuOTlBZmVnOVFWdWNGdklUQ09kUmhyZUpSclZFY1JQdTZ0SkR6aVprYjRMR0NJU2hCaVB2YzJuSnYxcnU1QThkR281T2F2M04zMEhGMjRvdHFRMEJrbGpBRkE?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 19:30:46 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.108,
+        "negative": 0.892,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "Trump’s Super PAC Will Spend $10 Million on Texas Senate Race - nytimes.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQckNLRlU1bDlVaHdSNXQtZ1V5SGlwQ1QwNVgwRW8tSnNuQkhnYlFXelJZcUJyZHpQQ0RsZjA4MVdIbjJ2ZnNiTTJMamY4UjUyZXhWWDI2SHFjOFMzTE9vcmROVTRNaldaVFV1VDlVTTNQNnlaZjFKcDZPZXNtRGhZaHpn?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 19:20:09 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.012,
+        "negative": 0.988,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W36"
+    },
     {
       "title": "‘Brown Men Headed to Work’: Texas Senate Candidate James Talarico Gets Torched Over Latest ICE Attack - The Nerd Stash",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTkNQemxuZ1RZNF9iRDVJY28yeDM0RF9WM0R0TWNiNzNxUXZ2OVI3TDdwYmxtRV8zZ3c1a3RfLU5WRnEtSWpqbFlvZURXOTRCRkpwd2FjbFhZaURTZ0VqTkhnSTRWOF9BSzZjSmwyNmxHaVdEc3NZSURYRU1oQy1aS2lXTDJnNEFhSHZVTXFESzVPNU1GSnpzSnFkNzg0dEtKTEtsVm03RW5UWUF3dU40dEtMMUU1c0FtWGloY2x4MVlPZw?oc=5",
@@ -1562,71 +1640,20 @@
       "error": "HTTP 405",
       "candidate": "talarico",
       "weekKey": "2026-W35"
-    },
-    {
-      "title": "State Agency Approves First 'Permian Basin Reliability Plan' Transmission Lines as Paxton Joins Opposition - thetexan.news",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPMlI1emVCeC1RLWdQQ3I4NWhkWmp1MkpGMTh1Tm5pdjVaRVpMbHhTZ2Flem10dE9MTDk1bUFucFgyQ2h2cnFIcHlhcFQ4NkhMbHhnZzhkSUxEeWppY2xyZEd2N1hUMmRkUFFDQUREdTJXNlppZmxaQS00Um9rRklNbjhQbmk3cVRQd2JmQXNsWUdjbk12dHhrcnkwbEdvZ0hHT2poYmVhdlVOY0NqOEpoOGcwSDVlTVVPTThwUVNBdVV6TXJoQUIzWXY1eWlQYmxVdVBSMmxpLW5aTFk5LWRYVkM3aTQ2V1VpUW0taVZkX3hoMU5ycmZDRl9weFFSaWgwSklEeUJNcDd1RG03ZDd4NWJON3BmWTJqMEE?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 10:06:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "‘We flat have to win there’: Thune urges Trump to help Paxton in Texas Senate race - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcWk3YU9pUThmbUl2ZzBkVWVtQVp5NzRLNnV2X2dNQWg2SnlybWQ2X1RWMmN6UXBCSjlJSEhoWE5mTmt6WDI2SzdxcUZSOTdPZkkyQzl0a01QMHgxWjBWbWk0c3lqbW1tejJLUzlMUnRtLVRId3dBRXpmbGtab2xZc3dFMl9UVkJzVlhZbC1uM24yMDlCS0pFeDRjYjNLeVhCRE9Fd1BOc3N3MldLbl9kZEh0Qmh3bXF4ZF9ONHB6VQ?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 21:54:12 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Ken Paxton Super PAC Rolls Out New Attack Ads - Newsmax",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMlQwcklsbU9CcC10aE0wejlvSEd1MjJJVmRycmZLbzBrOWxmNWVOQjBsTFh1dV9RZWpnQnRTVU9CM0tnbUNySWtBZkI1YzY3b21RWlFQUld4YXZSTmFBWkR0V0s2dWZZdDFjNXljaGtuUkxGTWlOcG9QVWRMQVRVbHduTUZ6MmluZFp6RXFONXI?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 19:58:17 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "James Talarico Calls Capitalism ‘Oppressive,’ Echoes DSA Rhetoric on ‘Dismantling’ It - breitbart.com",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU0xMN3FCQTZCdUhNX2xMc29wMkY3Q2wzdGtKT1hsUThOVUplWmYzRnV5Zjc4MldreTZiUHo1NU1xc3RBc2FfalpHQU80LUdGSHJJWFN4cVU1YnFqSlJBVnZWWEc4ZG8wVkI5NXo1bnpKX1hZc1dFWlFpZVpiWFlsVS0zbUR4ZUE5VGR4dS1uQkdFSFNDbWNna0oxOGQ0SDdqbGo2SkRuRjZuelRJN0phVzB1b3IwTkpicjlweXZCTmFsc2I0YmfSAcsBQVVfeXFMTjNvMXYyaGxCMm1PQ3dtWVRHa0FhTjNRT1ZNR00yVV9UNC1zR0RTdDZ4UkpXNmxVYVExV1ZoNXJaZUdXc2pvckpHRnVCSkRBNlZhRFdubTlRc0VpemJlcFZtV21scERLYkxpWDhEZ0R3MUtLVk5FZHAtRkhPbHBmTW9oN3U1SDJOYmxOdkp6dThtZkxILVh4T3NCd2hWLXBVTXVhQ0UtTEliR0dGaFU5Vy1oZy1fMnljX0tOb2xCeWVCakUzMl9PREdnajg?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 15:22:03 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W35"
     }
   ],
   "weekly": {
     "2026-W36": {
+      "paxton": {
+        "positive": 3,
+        "negative": 5,
+        "total": 8
+      },
+      "general": {
+        "positive": 0,
+        "negative": 2,
+        "total": 2
+      },
       "talarico": {
         "positive": 2,
         "negative": 1,
@@ -1636,11 +1663,6 @@
         "positive": 2,
         "negative": 2,
         "total": 4
-      },
-      "paxton": {
-        "positive": 3,
-        "negative": 3,
-        "total": 6
       }
     }
   }
