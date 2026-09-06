@@ -1,9 +1,48 @@
 {
-  "analyzedAt": "2026-09-06T21:09:15.733Z",
-  "newsFetchedAt": "2026-09-06T16:06:14.028Z",
+  "analyzedAt": "2026-09-06T23:01:18.444Z",
+  "newsFetchedAt": "2026-09-06T21:09:42.242Z",
   "totalAnalyzed": 100,
   "newThisRun": 2,
   "stories": [
+    {
+      "title": "GOP icon hits panic button over floundering Paxton in Texas Senate race: ‘Time is running out’ - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgRBVV95cUxOc0FBQXV0WFZ0Qy1qNVgyS05xQzhRNkZ5ckNVWjR0STJNNGlqc0l5d1BZX0g4NGFQN21SWldlU0xRY29PRlRoS0loek5JS2pBeENDelR3ZmJvS0pxVmtRYzZ3Q0hDSUNWVGVuWlJQM2cyYUVOWUF2MEdEQzZrYkV3elFPekU2ODQ4RUoyRmVfcnAwX3UyTjhBQUhuSmpGUDVIR055WmxXTkZUQXBXaDBqV3V3N3dnenRseDA5bEtPZ2lGNlhHT19fTUVwZUVGY2pPUlg5SjJwdmtGYzQ1a2VmcXEwSGdxZ21pTjlyTElWdThSZjNsLXkxbHk1MHZDS2tsUXRybTJLUWljNVhKRVhqbGRkVTJGY0ZYSDh0eWRVSlc4TXgzY0FmRTExeFkxRWlQd0dqalJsNEw3RDhPakYxa0hHOUJtQUtEbTVBa25DS2wtU29lVFdWNkw1Z05DWXNNNGhrZHgtYVZFQjhOMHlLcEtaUEVMR3VGZ2laNkVQcm1OQmJiLWNWZWdpX1hSajFjYmE1R3kzTXdOallSaVVTQzBPMkpWS0xMaHVVcWY5RGhrUTZiNDN3d1NZUnViV1dUMHJjcXdoZHdHY1RHX3p0c2Z3QklFTzJaeV9qcGJMR0FNYUdkcXA3MXVMUWw5bDc5Q2FvRkczZ0dZVHRMTHZsaVdJeTdjNS1IVFhoaEJBSTdQdk8tejIxaXViSmI5dnc1RzVhdjNrTGhDOWxmb1dkS0pTRmlXeldHbGVVdXBHblFEd9IB4AFBVV95cUxNYklSRWw3UkcxVlBfcUplbnF5ZlNxNGUyd01JYlVSaGMzX1doV1otMl9XOGdHNEFKaWJ0VFptVElmR1BpNV85VUlaeTI3OHM0Z09FaUNfTlRSNkhtX1RVM2hMZFIzQ29ab2Q1UERUUzM2YkxxQjJCa2FhZllYa3RtcjJLVE93YU14Zm9ySENpSnlmZUdCdXdGZWZuYWx6Ulp1Y25WYXFsSEV4SGF5MDl0dlFrOEwweDc0RzhYMzJlUkxzZTVaQXh3RmVOX25hUDJJWFNvTTZPZlo1Q1RiNHlPRw?oc=5",
+      "pubDate": "Sun, 06 Sep 2026 18:07:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.123,
+        "negative": 0.877,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "Texas 2026 live primary election results: Cornyn and Paxton headed to runoff, Talarico advances - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaDdzclZQZjY4dW9wTl93S3JKZ2ZsbUlnTDBnNVlKb0p3SU0zRXI2V2Z3QjJJYmNKc1pzUFhlTjdURnIxelRSYVJEeHJITzRkZUxvdDdTR0F3NW1lNks0M1RaRWduUDEyOF9UbWVlcmhtejRDUU8zYzVraFdZRkJ1WDExSDU5SElJazdsVllLdEFNdw?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 16:06:32 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "cornyn"
+      ],
+      "sentiment": {
+        "positive": 0.282,
+        "negative": 0.718,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W36"
+    },
     {
       "title": "Talarico Insider: Texas’s ‘Perfect Storm’ Could Defeat Republican Ken Paxton - Zeteo | Substack",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DZGpVMzNRZTNONHhNQkxVR0d1WUNUUjdfTXFrSmc5MUlQZGEyUXhwclFDM1VOaUFBdUV2MmtlWGt6MUhhbXd4by00b1NBaXFFeGhZLXdxX3pjWnNSN3JfWk5RZkM0ZldJ?oc=5",
@@ -1645,55 +1684,24 @@
       "error": "HTTP 405",
       "candidate": "talarico",
       "weekKey": "2026-W35"
-    },
-    {
-      "title": "Internet users roast Ken Paxton’s outfit choice for San Antonio block walk - San Antonio Current",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWWdrckI0cHNYRTBFTTJlOTNCMDN5aUNoMjZuTGptaFpBTFkta3ZmRTB1NHoyeGtwNTNneTY2SmFJblZLSGREcDFMZWlaeW1rLWEtMWJDLVcyeVFLUXFBN291VG5xSGRRcUp2bU1GYkI2cnZ0V1dCTXdPY256OWxQQWNmYllWWWhXdW12d0FpeGRiSEI5S2dfSDVHeklBTFlYVU1SdGFEUnB0V1h3RW0xRng3VllOUTlxc1diU1p2SnNkTWZOSDZV?oc=5",
-      "pubDate": "Mon, 31 Aug 2026 19:31:05 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Texas Senate race turns into a money battle: Why this seat matters for Trump’s GOP - financialexpress.com",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNXzBYVWZIUDgwa09TODNaenBKek5XZGNJME1rd2ozdFVHNUxKS05WTnhyR0RNYXFaM0s5Q2U2M3RUUXZldUQzU1V3ZWlwODFKSXdRWEdQXzRnek1OeUlXNU5MOFFzeVIwaFR6RXBKelJUVWN6RmdvV2Vkdmd1eU00d1ppRU8zenlMWTRQZmVTSlAxTTVxV3NoYnJnajVSSE5Za3FzTzBjVGVTY3VtWUZMQkg5WEk1WGRkV09OQnhmc1FtOEdiVUdtUUNRM1VxeXZrUC1nTlBFMmbSAd8BQVVfeXFMT1FDZERnZTFYOENUMXBVMHRCMkJXZkxad19DSDkzYmt3ejJtelV0cHhiRDhhM3pMYUhJSHU0MWtoZkVwWEI1R3RHNWVVOFFfbjM2MEtIei03TU5pWk5DZmdFdTI5cGtmU2syY00tRXEyWkMyQmhqWlJmYUpQaWcxMFNDbHlZSmdsWXBNTVY5UDlZRjBiTkVobGxkZ0t6UEtaYklmYUxicVFlNkNWMzRjOVozRDhxQTdTWEYzbGF2WkJQWXpveUxEWHFhSnhYV2EtTUdYTWNtdkN4bDVNbUxmdw?oc=5",
-      "pubDate": "Wed, 02 Sep 2026 06:36:05 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
-      "weekKey": "2026-W35"
     }
   ],
   "weekly": {
     "2026-W36": {
+      "paxton": {
+        "positive": 3,
+        "negative": 7,
+        "total": 10
+      },
       "both": {
         "positive": 4,
-        "negative": 4,
-        "total": 8
+        "negative": 5,
+        "total": 9
       },
       "general": {
         "positive": 1,
         "negative": 5,
         "total": 6
-      },
-      "paxton": {
-        "positive": 3,
-        "negative": 6,
-        "total": 9
       },
       "talarico": {
         "positive": 2,
