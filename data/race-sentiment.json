@@ -1,9 +1,66 @@
 {
-  "analyzedAt": "2026-09-06T00:44:34.936Z",
-  "newsFetchedAt": "2026-09-05T23:42:03.988Z",
+  "analyzedAt": "2026-09-06T05:41:33.152Z",
+  "newsFetchedAt": "2026-09-06T04:01:19.804Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Trump’s MAGA Group Launches $10 Million Ad Blitz in Texas Senate Race - Times Now",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdGNiUndzM1ZLN2QydjBLckNnVU5HT2tGbzNnNkdVbmlUY256akw3b1RQZGF1Z1dKc0drWUxPREdNZUNXVXdjc1JNTzZnNFpXc3lxcmFyTDJKTXQzTU85N1Boc3VqZ3BqNy05RFZnMi0yN3RuWTJmSmxVRzBXLWxId0dVSm85NmRhRWw3MVdadUJ6QXJXajJDdm9lZG5QbzF5LVBmaXBUYVJoNC15SVhxczlIWmhwNXFNT0xvTFJZSm8tMFdXX0VTdWZENNIB0AFBVV95cUxNU282Q2k0NlFxekJXNHJPcmVVdTlLQWp6dkJIN1NZRXpYYlVObTg4LUttem9LUHl4WlRJU2dTMk1mV2VVWVdnR2VVU2d0MFJUeGlZNk5NQ1NfV3JpbWVWR1g1VWhnLWY3RHg1d1BWRUItWk93QlJjYnRya2NzSjNBYnlqaHpxcUFBUmlQYk1IZURsc2h6ZDhCOFNOZkZkczlDM29mTVRnSUxRS1ctemdKQ3QzNXFQR180bmF5NGxrTUtJTlllM1BQT3ZzVWJSZHht?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 22:00:36 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.153,
+        "negative": 0.847,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "Trump’s MAGA Inc. super-PAC funnels $10 million into Texas Senate race - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZmpiczFzRllVQzdyaF8xTTlRMkY3WWItMm5KV2dDX0QyOUhFZDdKZWhoNURMbHphSVotSUVkT1FmdWlVM0hzUG85LWRBNEotbjlnR3BlUDg5bUJjQ2lYaEZYNjVwUFMtNEV1LUVOY1lpQks1RjhWSGFmYWVPU0g3SVJkbTBzVkxrMkpicXo2YXAxUdIBlwFBVV95cUxPNldmQm5uYWhmWVI1TFdGVGFDVVp5T3NFTk9WMm1VSFV4ZTBYMURiaUFBR0lha0cxT3JUVGRpbWd1U0hCQlhaU2ZVWWtveFdRWXdPQzBWZjVTUHN0X3RVZGFMZG81NDVmekFzV19kUll3a01aX2VwR3gyOU5lSzgwd2s4RUJDS2VtNXprWDlaUnBqN0k3SjZZ?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 21:43:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.038,
+        "negative": 0.962,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "Trump Group Spends $10 Million on Texas Senate Race - Newsmax",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbkZpZm90SmJrWlFqelA2WWw5aWd4eHNZQ185enV3VnpNU0xnajlxalZOUGJfYXo4bGlMY21NZ1VKbmNIaUxGaWJMNHZVX0MzeW92VHl5VXRMVWsyS0Q3Q3pEMV9QLXJvYl90d3dCand4MEcwRVFwQTY0MDEwcHVTUzIwM2k0Zw?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 17:59:49 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.007,
+        "negative": 0.993,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W36"
+    },
     {
       "title": "Trump’s super PAC drops $10 MILLION to boost Paxton in Texas Senate race - thepostmillennial.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPakdqUk1QNmp0M2VOblI1aDk1NDVTbHdiRFBFQ25OWEt1aGJJanZnLS1IOXRwZ0F4VFpOaE10RWFBYWJNaVk0TEhxeFA4QlpxWnZGYzEzWFBIcS0yRTNCRDVETHd4Z3hfUDB6VUZLcVhZeGZqd0hFRHA2akNYMTUyQ01jeVl1TVZRcm1wT09ZSzVWZFZoVzQwSWtTb2V6Y1k2Unc?oc=5",
@@ -1595,64 +1652,19 @@
       "error": "HTTP 405",
       "candidate": "both",
       "weekKey": "2026-W35"
-    },
-    {
-      "title": "Thune says ‘we’re going to need’ Trump to help with pricey Texas Senate race - washingtonexaminer.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONXU2Z1hVRkFiZGZDNWlVTHZ2UXVYT09YcnFOUzBDcFpkZjBlX3JtN1dod3JYMkdfR1QwLTFEVlp0RnFLT1hSLVNhZFlSOUxjTlhvWmpzTWhwR3FsTGpQbm1CUERmRjZ1X3NnaGZvT1l1TUgta1lJQ0VFWTA5NXRNd1J5bVoyaDV0QXdzYW5GVUltM0xmdjRRV05QVlF4Sk11Z2lmMHF0NDVjc2lpZHdodzhJLUhYNmdRTUhEUTR3?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 21:20:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "ICYMI: James Talarico Called for Dismantling Capitalism and Texas’s Oil Industry - senateleadershipfund.org",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNR2FnXzFLaFBjU0kyekFiZVd5OS1xalpyWERTTURLYWhLeTVnN24yMnR4RW10bW4weEkyeUxtcmdUcE9WUzdkMVhWMG1oYk5qMVpNOXJGUDJEdm9ROFlHYUpRQ3JMUVpxUHkzY2tmUWtnUTBjLTRPZm1STktZVngyUjRwR0ZRU2kxY3ZhNjI3LTA0czJ1VmNKdWlLNWxUQWxsLXgyVmNacmtxYUNVRVZxMUNXQndLZGlTbGs4NjhTa21vMHlfalE?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 17:29:50 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Talarico Linked Capitalism to ‘White Supremacy’ in 2020 Meeting, Said System Should Be ‘Dismantled’ - nationalreview.com",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTWdhT0E4NUtPM0dqLVg4NUoyY0NBZGN5bk43VGp6eTVpblFTZ3g1Zm9kbms0Rm14VVZpaGVTVUlwUUZaZWYwX2g5SW05SWxlNVdPU3lsTGtiSVJNSlFERUI3Z2JfWXVKSzRuNXViZEhjck5NSlV2SFJpZ1VrS2FCMXVaV1FwaDB0THdwMUZNWS1TNzdUY183U1dKRVRnd0R1U19jSzFfNURmYmloSWdiRWFHZ1VScjdCcWxwUjhmNlUwbW9WTmRWRE1TUnFTSDDSAdQBQVVfeXFMTkVmVmwwNHJGQ1lJRmo5VUJVZXZjUE1TMHczenZlVS13dGpyTFVwbnZqSURRcE5jX29yemtIYmtJQjlHckpEYktlTWNUN0M5TElpYVRFalp5ajdZNkZBaWtPV3Y0X2xXWUpnWFUtbGNjdGo3WS1LQk1rcTVaMUduWlN1WGw5dmh0S1c3SEpyLTZKaVNsTEdaUHJYdnYxUnR5ZWZIZG1hZFhMYmhQN3I4emZEc1docEs2Nnk1aUhtX2hHdDlURDhnYzdkSEw3bEhmT0xhTS0?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 16:25:49 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W35"
     }
   ],
   "weekly": {
     "2026-W36": {
+      "general": {
+        "positive": 0,
+        "negative": 5,
+        "total": 5
+      },
       "paxton": {
         "positive": 3,
         "negative": 5,
         "total": 8
-      },
-      "general": {
-        "positive": 0,
-        "negative": 2,
-        "total": 2
       },
       "talarico": {
         "positive": 2,
