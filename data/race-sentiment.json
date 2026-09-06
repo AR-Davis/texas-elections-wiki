@@ -1,9 +1,28 @@
 {
-  "analyzedAt": "2026-09-06T10:37:42.212Z",
-  "newsFetchedAt": "2026-09-06T08:48:23.074Z",
+  "analyzedAt": "2026-09-06T14:02:23.668Z",
+  "newsFetchedAt": "2026-09-06T12:46:28.859Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Talarico needs to cut Paxton's edge with rural Texans to win Senate race. Can he? - Texarkana Gazette",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRzc4UHhQbVlkQ0xyWk1OQ2NMN1FnbGw4NEV5TWxzY2Y3dXdwdTlWbzBVLVlNaEhJWklCYkJCaVBTYzBPd0V5QmhnZEd6eUVxckl0ZS15VFV3S0YtSlhFUmNKMjZUQlNsdWt2eHhlUEVBTXR1cElfeEFEc1dfQU1KZDFOVk84ZXByQWNzc2JhR1gyVG5TeEtYckZuTWU?oc=5",
+      "pubDate": "Sun, 06 Sep 2026 03:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.004,
+        "negative": 0.996,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W36"
+    },
     {
       "title": "Trump’s super PAC pours $10M into Ken Paxton's Texas Senate race against James Talarico - New York Post",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcngtOEUtWk5fekN6M1AzRkNHVE9MYmJabFBQR0RlUVI0OVRVTk9zZUk1aGstMzI5N3BlSnpCQ3FleTZaa05mSEtRdXBLcVB0RGE1TzlRQjc3bGxrVG5xaFdncG4zUEQtYXZocUhUUWZ6ZjExVnZjLVl2Q0xGYm1fZlVwWERIUUVRTlpsdzdzODdqS0NDSVNIXzlfNV9QdWVtNnQ3c19SYzVwOWswb2pfZDNqVVhQanc3SmpMdUwwcEc?oc=5",
@@ -1651,30 +1670,14 @@
       "error": "HTTP 405",
       "candidate": "general",
       "weekKey": "2026-W35"
-    },
-    {
-      "title": "Texas Democrat Senate Candidate James Talarico Campaigns on Raising Taxes - breitbart.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcGFmN2ZFTjloYktOMF9tdmZtNTl5bXRBSmp0TndaWlY1VWtJTjFmMGk1alBtdC1QeUFyWjVSQUxrTUxxeGdCRkRqTEJ2MUpZVGZOS3dsU09DVHo5UjB3SFptQlU2cFMta3FNcWdCZzBRMjlUeEVFWFgwOTdjSUVUMWVlRXRwUzVXWE1fQlEzdVJ3RENvck5iRHI5TDRCNzFBcmd4ano1cnF0UVdXbUY3N1UyVVJIaEYyeUNmdjd30gG-AUFVX3lxTE1wYWY3ZkVOOWhiS04wX212Zm01OXltdEFKanROd1paVjVVa0lOMWYwaTVqUG10LVB5QXJaNVJBTGtNTHF4Z0JGRGpMQnYxSllUZk5Ld2xTT0NUejlSMHdIWm1CVTZwUy1rcU1xZ0JnMFEyOVR4RUVYWDA5N2NJRVQxZWVFdHBTNVdYTV9CUTN1UndEQ29yTmJEcjlMNEI3MUFyZ3hqejVycXRRV1dtRjc3VTJVUkhoRjJ5Q2Z2N3c?oc=5",
-      "pubDate": "Mon, 31 Aug 2026 19:49:13 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas democrat"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W35"
     }
   ],
   "weekly": {
     "2026-W36": {
       "both": {
         "positive": 2,
-        "negative": 3,
-        "total": 5
+        "negative": 4,
+        "total": 6
       },
       "general": {
         "positive": 1,
