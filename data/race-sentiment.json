@@ -1,9 +1,48 @@
 {
-  "analyzedAt": "2026-09-07T21:21:42.814Z",
-  "newsFetchedAt": "2026-09-07T18:20:37.854Z",
+  "analyzedAt": "2026-09-07T23:41:34.917Z",
+  "newsFetchedAt": "2026-09-07T21:43:29.658Z",
   "totalAnalyzed": 100,
-  "newThisRun": 5,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Ken Paxton would be wise to debate James Talarico: Texas Republican | NewsNation Prime - NewsNation",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY1dFY2Zob1liYk5pcExXU1U5c1Fpbi1hQ3dxS2Mwc0hmQXNPYnJiS18wTjBLVXBPTmxTSDVPZF96ZVozZms4X0JLNU1RUkhEMTJsOWJ6RmQ2aklzWUNPRm5rQ1o2Tzc0a2JkQkxpbVI3T2dYSXlmb3JKSUJwT0hwc3VsRXpxY0xqWXc4a3FiUzVGdzEzRzBxXzBmWVdxQV9VWDU3SzVxaW5yQkZCTXh2TG56d2pfdHMyLTYxUlhKQms4WE16Yk5IRw?oc=5",
+      "pubDate": "Sun, 06 Sep 2026 01:32:12 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "texas republican"
+      ],
+      "sentiment": {
+        "positive": 0.268,
+        "negative": 0.732,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "Elon Musk’s super PAC starts spending to boost Ken Paxton in Texas - KWTX",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnZqQ2JNSE14aGJHaFVHdDlFMTRqdmZ3bTJsWWcweGplOFc5RzZMVS1oNnJJS1U0TEZpemZnV3lUNzNjbEREY0VORm9pblNlWXBFN0NvWWdKVl93MjE3WS1lZkdjMkc1bUtqZEYtWnYtR25zTV9vT0REUDViQmFiQTQ5SUZ5ekU2ODM5cUlsYTU1TUxkQk0w0gGrAUFVX3lxTE5GTy1IMV9Ub1plZ2ZaekYwUWJZYkVYZEcwMGtJUWpHMkR2dnJ3X0hPQzR3ZDl3d1d6Q1E2ZHJTYmdaZEZUX1BxdzBsWmt6S2U0c05XZXdfWEVZdHFxR0JjaUJnd043emlBR0VPcUtUWmNyN0Mxd2huRGRtNkJTUVhpYkpaVW0wMTloNjFqQTRGZm15bm9ncWJ3dDItb25rMG5JbllYeTcxUXppSQ?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 02:10:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.997,
+        "negative": 0.003,
+        "label": "positive"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W36"
+    },
     {
       "title": "Trump’s MAGA Inc. spends $10 million to back Ken Paxton in Texas Senate race - The American Bazaar",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUWtrQ25rZ05HQ0h6clZELWR5dHFSeTd1djAwMXFnOHVrMmxTcWpOTDAwLUxKZGdNVUxjRGMxNDRTM1BULWJfcENxa0V4dnpQZDZ2QTNDbV9tWThSZkVDU0pIeWtnQTFJYjNoRzlWbUNUX0hYWnV5dmlVazNjNlhCV3ZxQXVveDhNWjRSSUljRFhPX005aVk5bldPSFVEREl2SWw4UlpoaXItX0tjZGVCVVNnQ0lubUpQa0E?oc=5",
@@ -1686,55 +1725,19 @@
       "error": "HTTP 405",
       "candidate": "talarico",
       "weekKey": "2026-W35"
-    },
-    {
-      "title": "Dem James Talarico notches slight lead over GOP AG Ken Paxton in competitive Texas Senate race - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOUFVcm1QWFJTcDBEY2NkY2dkb1FxbGw2V1hvelpkQjNpRVp4c3dqekVaWjdycm1CakYtS0dGZVJwR3FkcWdnZGdvNzBaY2R6Zmt6Qy1KM240QVlEbUp3OUFZUmszTEFQemhtMnhjSXhjdUR3WjdTdnJWSkNRczNfcGZ4NGVQeFRHa3dHU1ZKY0l2ajZReDYtVkp6T3paQU83UTdrRlpYa2VITHduQlZxaGNKUFVzWUg3QkpudUZJdzRlbmlQVXVxVXY2aEx2NWhaaTBlUy0tOWU3djlGVE1WekZCdnRNZHgyRXVz?oc=5",
-      "pubDate": "Wed, 02 Sep 2026 13:12:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 38,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Texas Senate Nominee James Talarico Puts an “AI Dividend” at the Center of His Economic Platform - BIEN — Basic Income Earth Network",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYW1GdUEtMHNOS1VERmpVc0J5dmhIR3NFSWhxU1VNQ09tanBjNnNHeE1fUHhUR1BSSDBObGlERGszd0drUGF0SWNzdjdydXlxcUVmU3pYYkp6MHhvX1QwVDJUN2ZvXzExV3NvRFRjMjdCOFlyRko1VTBfNF9yb05PTmdNaUktZ2JVcnNZWVZ3blVGbmcwSFJmUXJVVFhpM0xJLTU5LUxEVFZJeDVvUWdSRkU3MFZPeEFkWWRlbGJ5V3kwZ1M0aXVzOFZmNG8?oc=5",
-      "pubDate": "Wed, 02 Sep 2026 00:15:47 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W35"
     }
   ],
   "weekly": {
     "2026-W36": {
-      "paxton": {
-        "positive": 3,
-        "negative": 12,
-        "total": 15
-      },
       "both": {
         "positive": 5,
-        "negative": 7,
-        "total": 12
+        "negative": 8,
+        "total": 13
+      },
+      "paxton": {
+        "positive": 4,
+        "negative": 12,
+        "total": 16
       },
       "talarico": {
         "positive": 2,
