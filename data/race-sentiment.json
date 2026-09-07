@@ -1,9 +1,66 @@
 {
-  "analyzedAt": "2026-09-07T12:02:55.091Z",
-  "newsFetchedAt": "2026-09-07T06:33:20.606Z",
+  "analyzedAt": "2026-09-07T17:42:26.165Z",
+  "newsFetchedAt": "2026-09-07T13:24:53.942Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Musk has started spending money to help Ken Paxton. Will it help change the course of the Texas Senate race? - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM1JSZE0xQ25GZnhxaEo1WWRqSDNxR1E0UXUyMjZqcGVjc1JQdDhhQ2JuMTVodkdnRkZ5M0RtMFZzS3VBMzQ0VEQwdUZwLTE0eURDamZaZjBGdzVuaUNaVllaSFEzc1J0SnVLVkU5M3dSZ1FRc3ppcksxZENHQlp1R3hicThDaTE5Slo5bDZMM2ltWWR0cVow?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 18:13:04 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.013,
+        "negative": 0.987,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "Desperate Trump drops $10M on Texas Senate ad blitz as he battles Talarico's increasing poll numbers - The Mirror US",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc0N0bkNBTzdqZk5zbU5tcnRxaGV0cWtaemFjd0dBOXpMcTN3SzZ0N1hzaTMteElZSmQ2V3pwQkgzcHRYR0lEQXM1bGlrOThXQlVKQWJNTFQ4SVBLV0V6dU9BT0ZzNXJsa0lqQmJtX25DMnpTYXBTNDh5eW5MTWlURTh3dVR3d9IBiwFBVV95cUxON3JaRkZiTW5EY1Q3MTE0dENwTkpaSmJWak95anoxdEY1b3NaSlJZaG9yWUpzM2s3ZG9NdU5sbmgtcHEzbkJMZDJIb0tkUHRVTHRmWHU3d1M4NzdSczdMbXpNM2hfR2JSdTlYbF9JbWtNTTFHQWw1c0U4WF91NDNlbnpRaHZRWFNzYmZn?oc=5",
+      "pubDate": "Sun, 06 Sep 2026 15:39:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate"
+      ],
+      "sentiment": {
+        "positive": 0.001,
+        "negative": 0.999,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "Could Control of the Senate Hinge on the Race in Texas Between Paxton and Talarico? - The New York Sun",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWXFNeHZmRzBsa2s2YWFKWjlPV0VyaV9tWnNETFdhdjAydjFhbHQ2LXo2RXFJeHRtdjYwMGhBb21HU0RxYzFFNER0UXVRN19mWkF0X1VjcGNmMThtX1RkZ3lZbF8td09HaHg3RmhaZXNGZEdmaHRuME9xZ255YmVNbWxac29fVjdDWEZCM0JqYjliQTFaS3hkWllDbnRNS3JzMXJOejBFdHNPWnY2a2FoU0lR?oc=5",
+      "pubDate": "Sun, 06 Sep 2026 08:13:38 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": {
+        "positive": 0.005,
+        "negative": 0.995,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W36"
+    },
     {
       "title": "Trump’s MAGA Inc. super-PAC funnels $10 million into Texas Senate race - Yahoo News UK",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12VW5aSlhlWDRtTDRYai16S1ZOS01zZVMyQWx6Wm1wODNQelFiY3RoSU1VSVpiUnVVSDRVSEc3akNFLVZlaVRad0YxMVNGTHJFVktZZkZGZGJFYnhxN2U4cEFwSHdLTGszbEI3V2czVEpTUDA?oc=5",
@@ -1643,77 +1700,29 @@
       "error": "HTTP 405",
       "candidate": "paxton",
       "weekKey": "2026-W35"
-    },
-    {
-      "title": "Talarico rips Paxton over debate participation in new ad - Washington Examiner",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRU9NM3A5WjE2dHFsQlV6SG5TLU9ULS1aVHVFdFRNX2E1ZGwxYlFEQnY4UHl6UFRKSUJ1Q1UxMGFTMU5KVXViNzJKTU5mTGpndWN2d0FsQU1rMFVfdEZudUc5N05RWUcwT0dMVTQwdjdUeGZrTVlGRG9raTN6VmZYUWxieGI4QjBUQm5YVi1JdFBOelN6TEJja3luaUUtcDFZWXlydTRMNEN3MmNOVG5RWENCYmw1Sjg?oc=5",
-      "pubDate": "Wed, 02 Sep 2026 14:42:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 10,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "New Poll Shows Texans Split on Paxton and Talarico, Opposed to Flock and Data Centers - thetexan.news",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQVUFiQktoRm1MbHBtR2p1QmhPWmloVFlHamVIOGlJOE5RRmh5SHBBLW5xR2xKZGJrNWNjWTRRVEw0MjhGOGRxTHB4c2hIS1lmRDlHNWppSVpacG41NzFONmowcUNId3NDbHhqZWRMMzg5MnMyZ1FJMlUxNkVJM0lmel9lV0VwN292MkJ3THV6ay1McDZsZVgzNDJ0X0p6NVNlTUliai1yWDNXTFV1bWRoVE11U2N3SkNIeDFxRkhHTElGbGhiTGp5YThnWWFnN1hhR2J6Zm9HMUQtaDRkcG9rWFhjTUVSbVRXNWNlaGdvWDNrRURDZzFjc004T3laV3lh?oc=5",
-      "pubDate": "Wed, 02 Sep 2026 13:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 10,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Ken Paxton Defends Campaign Strategy as Texas Senate Race Tightens - Readers.id",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iOVdlSGFrdi1QOTFORndFMXhxXy1CLXlwM3NGNmVzWWhNOVJGUmMzZExqN0QwMzdqVXVUOGh4TTN2RXdNdnJYNmpnS1VYMGZCdFVON1NvTGhvdE1hN2JfcUx3Y2U4WUtheF9jdlU5MEZrWkVN?oc=5",
-      "pubDate": "Mon, 31 Aug 2026 14:41:46 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W35"
     }
   ],
   "weekly": {
     "2026-W36": {
+      "paxton": {
+        "positive": 3,
+        "negative": 8,
+        "total": 11
+      },
+      "talarico": {
+        "positive": 2,
+        "negative": 2,
+        "total": 4
+      },
+      "both": {
+        "positive": 4,
+        "negative": 7,
+        "total": 11
+      },
       "general": {
         "positive": 1,
         "negative": 6,
         "total": 7
-      },
-      "both": {
-        "positive": 4,
-        "negative": 6,
-        "total": 10
-      },
-      "paxton": {
-        "positive": 3,
-        "negative": 7,
-        "total": 10
-      },
-      "talarico": {
-        "positive": 2,
-        "negative": 1,
-        "total": 3
       }
     }
   }
