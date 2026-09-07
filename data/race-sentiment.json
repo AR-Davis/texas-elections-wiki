@@ -1,9 +1,28 @@
 {
-  "analyzedAt": "2026-09-07T05:51:27.466Z",
-  "newsFetchedAt": "2026-09-06T23:01:52.040Z",
+  "analyzedAt": "2026-09-07T12:02:55.091Z",
+  "newsFetchedAt": "2026-09-07T06:33:20.606Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Trump’s MAGA Inc. super-PAC funnels $10 million into Texas Senate race - Yahoo News UK",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12VW5aSlhlWDRtTDRYai16S1ZOS01zZVMyQWx6Wm1wODNQelFiY3RoSU1VSVpiUnVVSDRVSEc3akNFLVZlaVRad0YxMVNGTHJFVktZZkZGZGJFYnhxN2U4cEFwSHdLTGszbEI3V2czVEpTUDA?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 21:43:31 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.009,
+        "negative": 0.991,
+        "label": "negative"
+      },
+      "candidate": "general",
+      "weekKey": "2026-W36"
+    },
     {
       "title": "MAGA Inc. Drops $10M Into Texas Senate Race For Paxton, Against Talarico - Dallas Express",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcDVvYXRvWDRsYmM2U1NCandkbGgzZHNUVkM0UnVhcWtBbVdQbkJCWFpkNUREWF9fcktCN0hmLTJZeHZxY3V5VVBDNEVVTDBpYnlZS2xZRGZMblJ0M1pmeXBkREZJMzBSZHd5cFBKc1haTlFuLXBrRV9xcy1heUdxVEpPRVJEQlk4bkJfZmI0RXV0cmRHUmN0NXdEQ0xTdU1qSDVrYQ?oc=5",
@@ -1672,28 +1691,15 @@
       "error": "HTTP 405",
       "candidate": "paxton",
       "weekKey": "2026-W35"
-    },
-    {
-      "title": "Talarico, Paxton Texas Senate race shifted to ‘toss-up’ - MS NOW",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNDd3WXZNSEpFWlpXaGloaHZFa3RnVF9Md2tSenh4dWhMSUxwXzE2dW1VTjR4dlVaUzZFTTNsYnVMa1JOLXVNR0dfMU9mMjAwVWFHdUxKZDJUNDBSZ2lNVTVVY3MxcEx2dHhCbGxYMVp6TDdOVHVRRGE0b0FCYXkwR3FEaHZrMWdGT0d5NVBsOXZWd3pwMzZlRk5FWUJhNHNnUFlCajlB?oc=5",
-      "pubDate": "Wed, 02 Sep 2026 11:48:32 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W35"
     }
   ],
   "weekly": {
     "2026-W36": {
+      "general": {
+        "positive": 1,
+        "negative": 6,
+        "total": 7
+      },
       "both": {
         "positive": 4,
         "negative": 6,
@@ -1703,11 +1709,6 @@
         "positive": 3,
         "negative": 7,
         "total": 10
-      },
-      "general": {
-        "positive": 1,
-        "negative": 5,
-        "total": 6
       },
       "talarico": {
         "positive": 2,
