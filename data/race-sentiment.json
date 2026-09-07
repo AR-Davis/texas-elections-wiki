@@ -1,9 +1,106 @@
 {
-  "analyzedAt": "2026-09-07T17:42:26.165Z",
-  "newsFetchedAt": "2026-09-07T13:24:53.942Z",
+  "analyzedAt": "2026-09-07T21:21:42.814Z",
+  "newsFetchedAt": "2026-09-07T18:20:37.854Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 5,
   "stories": [
+    {
+      "title": "Trump’s MAGA Inc. spends $10 million to back Ken Paxton in Texas Senate race - The American Bazaar",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUWtrQ25rZ05HQ0h6clZELWR5dHFSeTd1djAwMXFnOHVrMmxTcWpOTDAwLUxKZGdNVUxjRGMxNDRTM1BULWJfcENxa0V4dnpQZDZ2QTNDbV9tWThSZkVDU0pIeWtnQTFJYjNoRzlWbUNUX0hYWnV5dmlVazNjNlhCV3ZxQXVveDhNWjRSSUljRFhPX005aVk5bldPSFVEREl2SWw4UlpoaXItX0tjZGVCVVNnQ0lubUpQa0E?oc=5",
+      "pubDate": "Mon, 07 Sep 2026 17:53:39 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.016,
+        "negative": 0.984,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "Trump invests $10M in Texas Senate race to boost Ken Paxton - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcUVhaUU3aHlIRjhBNUNaSUN4V3BhSXVYX0tNY09paWdsNWs5V29aU01Ncy1aT2ljOTJLX3ctcGRwQ0w5cS1ldWhlaXYxQXJCQjBmNHdpVkRHQUhOc3JUUnctYXZIZUxkSV9CTzIyTXNXOHBiOVJTUUFDMG1rdmI1MVZLSFJrbGVvUTYzV3JyMA?oc=5",
+      "pubDate": "Mon, 07 Sep 2026 16:21:45 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.099,
+        "negative": 0.901,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "A closer look at how Talarico and Paxton could fare in crucial North Texas counties in U.S. Senate race - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSkJHSFNuaFVraGZVc3RLZ3A1RXJpT0ZZQzZVMXB3MThWTVNxTXJ4N1BMS24zOHExMXFObWdsb0FHQkFaYmhyQm9qMVVpZzR1V0tWeG9CWFp5TTZGcVlxblFQeGJwd2x6b25lRktpU0lCYzZ0cW55ZlE2dkNGZ2pkaGNvNVFxd1pHLWpzQnp1b2ZtTHU3WDRHRmVrZUZUajE2MElrMEh3QXNPcFdhemYxSVpfV3hzWlBVUGRxVzA4TjdOQ3JMNGIxLThTbjNwaFVMQXVZaDV1NlFCeU5qbUZadlB1b19NcGhwb1NYc1RR?oc=5",
+      "pubDate": "Sun, 06 Sep 2026 11:00:08 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.998,
+        "negative": 0.002,
+        "label": "positive"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "The Seven-Point Gap That Could Save Ken Paxton - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeUhCWGM3dG51cHk1cVI1ZW9Wa1pyeWs2NVhmdi1MSlVVX2NDNkNXN0hxQWRjU0NFaTh1NmMtVzBiNHd0akRaTVNiemtCZlNld2Z5QjhVYno3RkJRUWFEMDZKNTZuMGtZQllwY3BjU2dsQ19hRXlVOFN3dm1iOTdDVnhpa2I?oc=5",
+      "pubDate": "Mon, 07 Sep 2026 15:48:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.007,
+        "negative": 0.993,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "Election triumphs, a series of scandals dot Ken Paxton's political timeline - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVlGUDlUSDhmNnllbllSSHVTQlNIcE1iTGRpcHVsdDZfN29hTlJpdDVLSW1fM05zbXhHb2pIM0RqU1NZcXhNUG52ZzJReEVrRkhsLUEwX3JfSjViZWZwdDliZlljWVVBNHpPVWRHRzcxakUzakhrQjV4a0g3SXVzX0NGWjFoSTNlLUIwdFRwanNadmw3azJIQ1JBNXM1blBlTUM5UUZtMDB5bDjSAbABQVVfeXFMUDQyZ0RKenVWMF9sYkRyM0QxZnREc0E2SE96a2R1ZUlEYm1EaWYzdkNobkU5cFR0LVdmQkl0c2ZUYURrbm1oNmhFci1xeUlRYXZjUlBUc3hUTnlYNnJqd1JGeUxQNjF0WEhUV1N6eFhjVWFKRDJSLXR3NGd6X0kwc2hlUDhwVFpPNHAyU0FHdTJfOXNvREs1WFdGNTdJZHR4Y19OVTg0V084RVBGSDNobGE?oc=5",
+      "pubDate": "Sun, 06 Sep 2026 12:13:51 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.063,
+        "negative": 0.937,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W36"
+    },
     {
       "title": "Musk has started spending money to help Ken Paxton. Will it help change the course of the Texas Senate race? - Yahoo",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM1JSZE0xQ25GZnhxaEo1WWRqSDNxR1E0UXUyMjZqcGVjc1JQdDhhQ2JuMTVodkdnRkZ5M0RtMFZzS3VBMzQ0VEQwdUZwLTE0eURDamZaZjBGdzVuaUNaVllaSFEzc1J0SnVLVkU5M3dSZ1FRc3ppcksxZENHQlp1R3hicThDaTE5Slo5bDZMM2ltWWR0cVow?oc=5",
@@ -1625,99 +1722,24 @@
       "error": "HTTP 405",
       "candidate": "talarico",
       "weekKey": "2026-W35"
-    },
-    {
-      "title": "James Talarico | Texas, Senate Candidate, Jasmine Crockett, Joe Rogan, Stephen Colbert, &amp; Biography - Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IREhFWWRfcWpQYk8zNnhxeU9jcWRrVzIxWlJfZXpFU2E2aU5qMDI2RE9rTTh0b1RYZEthRWZySHFrdEtXSThJZ1ZROU5aM3k0bVZTTHRXa1owbW83clF0MA?oc=5",
-      "pubDate": "Mon, 31 Aug 2026 05:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Trump warns Texas could be 'a disaster' if Talarico beats Paxton - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPY0ZrNllsTXpaallycEVYcUVmSGhQNi1uUFRFVTZRU2F3eFpIalVBSVl1blhBVFhSUTRpb2xyQ2FmbHhFMkY5UEFwa1pTZ1EtbmNCQlBxYTl0MkJieTJSYkM0OTQ0SlRqdTd6SldZa1BuaXZhLUFNck5IRl9QaDhmOUtWMThHSU4wZnYtRWpLODRTbXJiVVF1eXFCeHlKeWZiUG1kaC1tOHgzUFJUbGZrN3JKN2dXQW4yVGtkUjE2UGt0TDhJRU5reGlpUHNUR0x6dEVjU1hWQVctZm04YlE?oc=5",
-      "pubDate": "Wed, 02 Sep 2026 17:15:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Ted Cruz to Ken Paxton’s Republican Critics: ‘Stop Your Bitching’ - breitbart.com",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQm80VWVoNmk5MmtoamR2Q20zY3d5SUJjVmN0QW53bkkyUEpqWWJ3a2FhMldNYkV2djVQd3Yta3UxQ0NiOXdXR0trM0drSjFXbXRuM1pHaE5HTGVHZ1B2RXpmWWFEZldEek9KaExfZWs2SUF3bEtlcWFBWHJyR1JiR0xTVVZLMnRVQnZmNmNLU2hDaUxPY19IQ2pEbXNSNV9fc0dER1VrMHLSAa4BQVVfeXFMTTVhbV83dk0xWkY3Zk5zMjg0dDRkcWdZa09sN0xtVnJEX3M0QmJGS0o2cWtrWWdDNTdlUF9tU3F6SHI1UkdKMDQ2Vi1uNUJiT0ViYThnZ3k1RHpLcmFwakpIZGU0UGpOUUR4a2J5dGdHNFIzQmxsYnNWaVRTRUZHQW9Vc2ItMVZ6WFFjcy04T0RteS1mSm9id1I4LWlqYnZoR21FTUpuR3BaOWNBaWd3?oc=5",
-      "pubDate": "Wed, 02 Sep 2026 03:36:21 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "James Talarico’s campaign was vegan — for a day. And we have the receipts - Washington Examiner",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd0U1MEM0eXl2WmN1aENUV0UxU2thZEhnZDc0X0NCZk40NFBtZkxaeTNwb1MyNzJseUlZR2VYZGNvNlJGdVp5TVQyRnk4LUp3cDAyVS1YTEVjR1RORXAzc09hM1UyTC1ZbHRxaWJBWWFqSGZSVk51aC05aE9jRFZvLWQwNy02VlpyZWs5YmZyTFV5Z1g2bl9JZTNXbGdrNklCZlhpTzVKZ1I3dw?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 15:45:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Ken Paxton to bring U.S. Senate campaign tour to Corpus Christi - kiiitv.com",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRmk4Mm9ObGxPRXIwRXNwcHQ5MHI2YktjTFR6SXJWNTZvOHl0cEpsRWFxME41bkNqQVBtdFZpdXBDNnJPU0Z2RjZ0SWVicm5qZlc0eEg0MC1oNzhranA5c3NRY0F4REd5bzlWRjdQZFBwMjJUVjB6LVhQaVAtT1Z3V1FKRlQzVE1DLUJndVBWRkJoaFFDbnNCSC0tbmRtajRxWFc1b1NPRmJEajFqc0Z6M3ZicWNSTURXdzRKVTk1N3NSYWN0cE8zVUcxd3BGeV9IbDBJLU5KTFFJMlFPckdEQnJB?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 11:34:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W35"
     }
   ],
   "weekly": {
     "2026-W36": {
       "paxton": {
         "positive": 3,
-        "negative": 8,
-        "total": 11
+        "negative": 12,
+        "total": 15
+      },
+      "both": {
+        "positive": 5,
+        "negative": 7,
+        "total": 12
       },
       "talarico": {
         "positive": 2,
         "negative": 2,
         "total": 4
-      },
-      "both": {
-        "positive": 4,
-        "negative": 7,
-        "total": 11
       },
       "general": {
         "positive": 1,
