@@ -1,9 +1,30 @@
 {
-  "analyzedAt": "2026-09-06T23:01:18.444Z",
-  "newsFetchedAt": "2026-09-06T21:09:42.242Z",
+  "analyzedAt": "2026-09-07T00:50:07.788Z",
+  "newsFetchedAt": "2026-09-06T23:01:52.040Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "MAGA Inc. Drops $10M Into Texas Senate Race For Paxton, Against Talarico - Dallas Express",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcDVvYXRvWDRsYmM2U1NCandkbGgzZHNUVkM0UnVhcWtBbVdQbkJCWFpkNUREWF9fcktCN0hmLTJZeHZxY3V5VVBDNEVVTDBpYnlZS2xZRGZMblJ0M1pmeXBkREZJMzBSZHd5cFBKc1haTlFuLXBrRV9xcy1heUdxVEpPRVJEQlk4bkJfZmI0RXV0cmRHUmN0NXdEQ0xTdU1qSDVrYQ?oc=5",
+      "pubDate": "Sun, 06 Sep 2026 22:05:10 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.001,
+        "negative": 0.999,
+        "label": "negative"
+      },
+      "candidate": "both",
+      "weekKey": "2026-W36"
+    },
     {
       "title": "GOP icon hits panic button over floundering Paxton in Texas Senate race: ‘Time is running out’ - NJ.com",
       "link": "https://news.google.com/rss/articles/CBMiwgRBVV95cUxOc0FBQXV0WFZ0Qy1qNVgyS05xQzhRNkZ5ckNVWjR0STJNNGlqc0l5d1BZX0g4NGFQN21SWldlU0xRY29PRlRoS0loek5JS2pBeENDelR3ZmJvS0pxVmtRYzZ3Q0hDSUNWVGVuWlJQM2cyYUVOWUF2MEdEQzZrYkV3elFPekU2ODQ4RUoyRmVfcnAwX3UyTjhBQUhuSmpGUDVIR055WmxXTkZUQXBXaDBqV3V3N3dnenRseDA5bEtPZ2lGNlhHT19fTUVwZUVGY2pPUlg5SjJwdmtGYzQ1a2VmcXEwSGdxZ21pTjlyTElWdThSZjNsLXkxbHk1MHZDS2tsUXRybTJLUWljNVhKRVhqbGRkVTJGY0ZYSDh0eWRVSlc4TXgzY0FmRTExeFkxRWlQd0dqalJsNEw3RDhPakYxa0hHOUJtQUtEbTVBa25DS2wtU29lVFdWNkw1Z05DWXNNNGhrZHgtYVZFQjhOMHlLcEtaUEVMR3VGZ2laNkVQcm1OQmJiLWNWZWdpX1hSajFjYmE1R3kzTXdOallSaVVTQzBPMkpWS0xMaHVVcWY5RGhrUTZiNDN3d1NZUnViV1dUMHJjcXdoZHdHY1RHX3p0c2Z3QklFTzJaeV9qcGJMR0FNYUdkcXA3MXVMUWw5bDc5Q2FvRkczZ0dZVHRMTHZsaVdJeTdjNS1IVFhoaEJBSTdQdk8tejIxaXViSmI5dnc1RzVhdjNrTGhDOWxmb1dkS0pTRmlXeldHbGVVdXBHblFEd9IB4AFBVV95cUxNYklSRWw3UkcxVlBfcUplbnF5ZlNxNGUyd01JYlVSaGMzX1doV1otMl9XOGdHNEFKaWJ0VFptVElmR1BpNV85VUlaeTI3OHM0Z09FaUNfTlRSNkhtX1RVM2hMZFIzQ29ab2Q1UERUUzM2YkxxQjJCa2FhZllYa3RtcjJLVE93YU14Zm9ySENpSnlmZUdCdXdGZWZuYWx6Ulp1Y25WYXFsSEV4SGF5MDl0dlFrOEwweDc0RzhYMzJlUkxzZTVaQXh3RmVOX25hUDJJWFNvTTZPZlo1Q1RiNHlPRw?oc=5",
@@ -1669,34 +1690,19 @@
       "error": "HTTP 405",
       "candidate": "both",
       "weekKey": "2026-W35"
-    },
-    {
-      "title": "Assclown Alert: Calling out James Talarico as a ‘backdoor to Al Qaeda’ with Texas pastor Lance Wallnau - San Antonio Current",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcllGUWt2Q0RWMmc0U0s0Q2s2WFBHY0V2VjBLSEJCN1JCeFAxazZoUGVCMHo3Qm5ic2JIRk1FY2NmejhnTkNYS0VOcS1WSE9zdWhFZnZpTGtSb2M5QXRMcm1iYlA4VUs4MFN3RTRGNlgtT2lDSVpWZTBreFpZQmRqTzBwcTk5dmZHNkhZbm0zcWg5TmN3dENONUxWajhPakh3ZVhiekk1SW1xLTVpeS1XRDlxNEJDVE5wQ2F3bER5X1FucTloYzc2cWNhZncxZndmYXJtby1jSHFOdjdUYmlR?oc=5",
-      "pubDate": "Mon, 31 Aug 2026 16:13:16 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W35"
     }
   ],
   "weekly": {
     "2026-W36": {
+      "both": {
+        "positive": 4,
+        "negative": 6,
+        "total": 10
+      },
       "paxton": {
         "positive": 3,
         "negative": 7,
         "total": 10
-      },
-      "both": {
-        "positive": 4,
-        "negative": 5,
-        "total": 9
       },
       "general": {
         "positive": 1,
