@@ -1,9 +1,57 @@
 {
-  "analyzedAt": "2026-09-08T17:22:15.507Z",
-  "newsFetchedAt": "2026-09-08T14:26:58.520Z",
+  "analyzedAt": "2026-09-08T20:08:46.563Z",
+  "newsFetchedAt": "2026-09-08T18:02:36.373Z",
   "totalAnalyzed": 100,
-  "newThisRun": 7,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Ken Paxton whistleblower endorses James Talarico in Texas’ U.S. Senate race - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUzdWR0U3LTdtbzJwUDNrOEg1QmhYRnZJb3VmcmJORlpEQjBkdExIU3RxdklCa2tuQkVWZTJoWEpvYXJKNF9Hd1JfUWJTcHpIcmtZd251cmtIRVJ6S19lRlk0ZXZtV1FMWDdYVTA1Ukg5S181TExrcjZlc2ZTQjJaY1Q4UU9Rd2pqSV9XRmhDUjFUVS1rSmdRQnR3Zlc0aEdjVmxVVGZWckxkVmxaanBDcHNGM2V3VEU?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 17:18:20 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "7 rumors about James Talarico we've fact-checked - Snopes.com",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mMm5LS3hUaXV1V0pPYURaRm1rMDlST1lNNWs1TU8wcTN6TGVJMVFBTkRicXRNbmsxYW14cTNya0gwWDRKaXlhdUJFNHo5Sm5rajZROTROVGw3SnppeTBETGJfZWdIYmU0?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 15:02:34 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "WATCH: James Talarico Denies Jesus Is the Only Way, Says Allah Leads to Same Truth - breitbart.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOTBsSUhJNVNhZlltSXRvSWZ3Q1lROFQ0REdKSlBfVktRNDRUV2UzMEZ4VXlZYmQxOUN5UzY3Ukdhck0tbXZZZUNpS2R3WWg4LTlwYzBtYUU5UDNkN2QwVmlMNUxFeS03X0JHdndRbkxFU25FREt6MERIajUxM1N3UU1vMDdCSWlVYVk3Yy1jd3NuUFNTMWtVUzlsWjEyYlBTd0l4aDhoUVJKZ9IBrwFBVV95cUxQUThaWXhDTERMV0lqdEtvdUpRblpkNnJPZHloczN5ZE5mandjamh5QWJjWElnTGVhS3RiZXZuS3dlNEMxdk9MUVpMVnUzcFowQXhVT3FpM2NNM2dpbFlTMjhxekpXcDhLSzEtSVBYRjEwemg2cG82VEpRTW5vU2lfN2JEcHFwTmhUbVRmUUs1YXFFSlVncU11WG5BR1JfaGxzczJjSjFVdE9lcUJNakVV?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 03:03:03 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W36"
+    },
     {
       "title": "Trump’s PAC wades into midterms with $10 million ad buy to boost Ken Paxton - CNN",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5GdnZzOUstd0VFYUNFTDF0bU9rSDdmaDl4a2U0OXUtbk1WbHg3OWNFNlFYMEgzcEZSaTY4RTFTWlVZcUZULTFqb29MXy1aazE5MzlZNjVlcE5NeHJiVjhsYWRMZHdZVGY4Ums1N0hOMEtwdkE?oc=5",
@@ -1706,51 +1754,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "general",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Ken Paxton heading to Weatherford for next stop of U.S. Senate campaign tour - Fort Worth Star-Telegram",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNb05NLXhHbGFQejlyYk9rc3ZlTHBULW9aU0JhM0EyeFFQRGFOUm91Njd0ckl3ZHdVcjV4MTJjdXJRRURySWkyTHA3ZWdscXBkQTAybk9hcklsd1JPbU85cUxZa096R25OT1lJODlCcDFrV05QU3FRMFdaSVdicGFaVUl30gGCAUFVX3lxTE9xVURNcU9aYTVJMjVmWUF4dkc4UzBjZGoyeUVhVWJBZ0JuS2NlYnBLS3gzaGt3UGNpajVOd2dyYnBiZUdCOEVEWWlhOE05Yk5IWDJsb1dqbi00eGRpMmNJYXpscDlicFJxQzJJX2JJYjIwenI4azRFTmo1eTdKRGlNeVE?oc=5",
-      "pubDate": "Mon, 31 Aug 2026 21:49:32 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Ted Cruz condemns Republicans 'throwing rocks' at Ken Paxton - knewz.com",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNanlhalhHTk56WURfUld6VFRwYUY4ckJqVGJQWDFkbTQ1aHNMU3lDbHdScS1RcjhqUjNmUHhkcmkzal9icURVZ25zMzBCX25qak5XeTh0VkxPcEVSMXBvTkctMlNlWWtTSmgwTklRR2lRenUyYnBlcTNNOGU0czEyc29pWXVOdmZZWlY4WU4zSENPZTFVYTViYnEtN3VTb05tX3dpdGRtMW9qYldZLTVWQ2lfLVdIQnU2N1g2bDlxYktXdXM?oc=5",
-      "pubDate": "Wed, 02 Sep 2026 17:57:32 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Trump warns Texas could be 'a disaster' if Talarico beats Paxton - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdDNVdzZqREFoSmY0dmVIdGptRmxZbU1mNGU5QmU5VWRHLThVZGg5OEZtVXFDc3hCMjJxU2JOMGR4bjhYSTQwNk4xRWVCYnBlZlQ0SktNRDlXRmM0NjUxQk9Pa1hERkRyZHN1N1psazZnTHVxQ3AzY1hXc1ptZk95aTBGaVM1bmExbXo0cUdsb211ektLczJr?oc=5",
-      "pubDate": "Wed, 02 Sep 2026 17:15:22 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
       "weekKey": "2026-W35"
     }
   ],
