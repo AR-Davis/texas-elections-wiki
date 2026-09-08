@@ -1,9 +1,63 @@
 {
-  "analyzedAt": "2026-09-08T03:54:43.408Z",
-  "newsFetchedAt": "2026-09-08T00:06:52.100Z",
+  "analyzedAt": "2026-09-08T08:45:06.941Z",
+  "newsFetchedAt": "2026-09-08T05:04:08.048Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "WATCH: James Talarico Denies Jesus Is the Only Way, Says Allah Leads to Same Truth - breitbart.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOTBsSUhJNVNhZlltSXRvSWZ3Q1lROFQ0REdKSlBfVktRNDRUV2UzMEZ4VXlZYmQxOUN5UzY3Ukdhck0tbXZZZUNpS2R3WWg4LTlwYzBtYUU5UDNkN2QwVmlMNUxFeS03X0JHdndRbkxFU25FREt6MERIajUxM1N3UU1vMDdCSWlVYVk3Yy1jd3NuUFNTMWtVUzlsWjEyYlBTd0l4aDhoUVJKZw?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 03:03:03 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": {
+        "positive": 0.009,
+        "negative": 0.991,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "Ken Paxton omits rental income and mortgages from financial disclosures, obscuring his wealth - KETK.com",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdGxlNVlLR2RpNkxZMWhNLVRzVlpxTFBzU1M1aUc4TTl5UG82N3BtOEthNWlrQWNyc0hOZWY1UHdFNmQ1TU5yU3haaWpuM3RERHNvT01wRVVVYlY0MDlUa0VwZklHN21iU1VTYVNtZUx0aXBQUjRVOXVuNFBYekFqWmNJV3pkdVhBVmhmaE9wWXpnMHdWMEl5TTFOaDRQdmQ1MlRtTG9TclE0VEc3eDczcmNQMlNwZnNQWjJGTlFrcmp5ZF9NQnh2QXVMZjRlM0VYQmxvSW1nSk8yQUnSAeABQVVfeXFMTWN6aVdmVkJJN0ZNNUhFaXZVX3dQT2Q1dHRnSC1uZzJobHJlOGlyYjd6OXpPSUkyZXl6WXozb01GUUp3Zm5sLUtGSDAtaGFydy1IWDJ6ZGdnQXl6MzVpalJTWjkxVEdUMW1ra2Vkb1hORVVpc21NRm4zbU4wcmJCMnVFdzlBYlRrRXhyMDRfTDRtWkpMckg3TFVRanBPVTRkd2dLcktPakVjQ1BucEJFeXZwbVdVNHlHOWZXSXpmVTdVYVBWa2liVFFTbnh3b0E1aVdPeXhnd0RQaDc0NW1mX18?oc=5",
+      "pubDate": "Mon, 07 Sep 2026 21:48:48 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.002,
+        "negative": 0.998,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "Trump’s MAGA Inc. steers $10 million to boost Ken Paxton for Senate - MS NOW",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB4aXRyZjdLSC0zeEVtU2hhczF4c0k1V2VQd2hNUFlOUUpXRGZuRjQyNDQ0aFFUNzFyQ1ZnOTFTVmZfcU1WSUZEeW5adl82T29xb3VENmVVS0ZEM1o5VGgzYVh4ZmcxVXZUN2Vfb2dwNlIwZXFDYmtYQlFuYw?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 20:01:22 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": {
+        "positive": 0.769,
+        "negative": 0.231,
+        "label": "positive"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W36"
+    },
     {
       "title": "Talarico Pledges Record $25M for Black Voter Outreach in Texas Senate Race - KSST Radio",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ3ZOVTJnbE1HY05oamd2WnlyNnVYRlY5N011bzdwYWtJak5FMkZ5cHVVTTlZS2JHbG10VUhLRjQ0VUhTRHBBczhUbk1iTGhUSm9DeDk2QndaU3g0NlNKZ21VVnFxMHJfN0sydUxmYzBrVVA2TDNzaVhrTHYwcXVuRkpjTUZKRGNzRllFd242OVp3SEFRdlFlSi1McnBKZjBtZ3I3LWFNZXRKc2NJ?oc=5",
@@ -1683,70 +1737,19 @@
       "error": "HTTP 405",
       "candidate": "talarico",
       "weekKey": "2026-W35"
-    },
-    {
-      "title": "Ken Paxton Launches College Student Initiative Ahead Of Texas Senate Race - tippinsights",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdlNVVC1ZbDIzenpPVzNIV0gzbmlKamc2M1B5Y3BOdnkzWmxiYklTQUlkc21ORWJ4Sm5NYVVXS3dKQ1Y3anJNX3VhUVBORElWeDR0a1JtZ0JFLWVUVldUdEFjR3NDdUpSRTdvbC1Lc0lOOFMxYnlBemxGU2lMUzNtS1NYRDZxTTFoZUllcDNxY0VpUUVOZlBPMmxPUmI3THNR?oc=5",
-      "pubDate": "Wed, 02 Sep 2026 20:28:20 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Dark money in Texas Senate race spurs Talarico complaint to FEC against Paxton - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBJbjBJcklxOFp2U245T3IwUXhVaGt4VDNQQlNPOGczOEgwWnJnNjM1MzdMbEhiWVpERTNKT1NwTzlTaFB4dU1sMGFOSW1rNkNYT05RNlJXUUt1N2NadG0wSFZFQUxKQjVleHpmT1YxVW4xSGVPZDlPLVB1R2g?oc=5",
-      "pubDate": "Wed, 02 Sep 2026 21:23:10 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Jasmine Crockett won't campaign with James Talarico - knewz.com",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTnl4QUxOWVJqZ1VuMkZteWdsRnN4TXY0N0owUndxVUV1TWNKd0FYUTJXbUVIalZSdXcyRzE5WmV2Xzg5SHBhLV90RmpqbHpHRVdFRlFJQnF0REtPQ2VLQkprdm1ReHBrbExoWVdhQUd1OFBQNVYwTDNJS2FkTTJGLXBIdkxYVHdXd3lKZ0pZRkcxRDRvT0hnbzNRVnZEand0?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 18:47:16 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W35"
     }
   ],
   "weekly": {
     "2026-W36": {
       "talarico": {
         "positive": 2,
-        "negative": 3,
-        "total": 5
+        "negative": 4,
+        "total": 6
       },
       "paxton": {
-        "positive": 4,
-        "negative": 13,
-        "total": 17
+        "positive": 5,
+        "negative": 14,
+        "total": 19
       },
       "both": {
         "positive": 5,
