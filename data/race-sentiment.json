@@ -1,9 +1,48 @@
 {
-  "analyzedAt": "2026-09-07T23:41:34.917Z",
-  "newsFetchedAt": "2026-09-07T21:43:29.658Z",
+  "analyzedAt": "2026-09-08T03:54:43.408Z",
+  "newsFetchedAt": "2026-09-08T00:06:52.100Z",
   "totalAnalyzed": 100,
   "newThisRun": 2,
   "stories": [
+    {
+      "title": "Talarico Pledges Record $25M for Black Voter Outreach in Texas Senate Race - KSST Radio",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ3ZOVTJnbE1HY05oamd2WnlyNnVYRlY5N011bzdwYWtJak5FMkZ5cHVVTTlZS2JHbG10VUhLRjQ0VUhTRHBBczhUbk1iTGhUSm9DeDk2QndaU3g0NlNKZ21VVnFxMHJfN0sydUxmYzBrVVA2TDNzaVhrTHYwcXVuRkpjTUZKRGNzRllFd242OVp3SEFRdlFlSi1McnBKZjBtZ3I3LWFNZXRKc2NJ?oc=5",
+      "pubDate": "Mon, 07 Sep 2026 23:43:17 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": {
+        "positive": 0.014,
+        "negative": 0.986,
+        "label": "negative"
+      },
+      "candidate": "talarico",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "Trump’s MAGA Inc. Pours $10 Million into Ken Paxton’s Senate Race - breitbart.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVUdUcC1rMjBIcVNLWFAxdU9xX3VRX05CNmQ1SGxlRU5ZZHJYS3JWOFpCYzlyakc4bkVLcmZxREZyUTVKLXR4alRtY2JMTzNBNG5WVnlKVFAtQVZfZ1lQWmlZS1JZVE0yanUwOUhWOWRxbGlfS1RrTVRwb0hDNTJyQlR6VVk2Um5jOTZqTE1NOHlJM3Y2WEttMXlHWDlYZHBlcDdfSFFIWlZncHpt0gGyAUFVX3lxTFB3a1hxYlhKR01DcVRoSllNMTQtTW9UN3lFOS13azBFOFRPYThXa0RFZkYzVW9UQTJmTGNXWDhpSS1CMFVPSkZjb0lsLU0zY3dXb1N0cDBMQjY5aWdUQnVocHBfOGpZRzU1cDQ3a2dQMU9GVDFQMTljNjBIY3BYWXpFbkZQSUtHUm9WWjZHbEJvWVFqdVU4X3EwT0t1NEZSaHpBNkxOaWJqRGcxbDdoMEJNSXc?oc=5",
+      "pubDate": "Sun, 06 Sep 2026 02:20:44 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ],
+      "sentiment": {
+        "positive": 0.017,
+        "negative": 0.983,
+        "label": "negative"
+      },
+      "candidate": "paxton",
+      "weekKey": "2026-W36"
+    },
     {
       "title": "Ken Paxton would be wise to debate James Talarico: Texas Republican | NewsNation Prime - NewsNation",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY1dFY2Zob1liYk5pcExXU1U5c1Fpbi1hQ3dxS2Mwc0hmQXNPYnJiS18wTjBLVXBPTmxTSDVPZF96ZVozZms4X0JLNU1RUkhEMTJsOWJ6RmQ2aklzWUNPRm5rQ1o2Tzc0a2JkQkxpbVI3T2dYSXlmb3JKSUJwT0hwc3VsRXpxY0xqWXc4a3FiUzVGdzEzRzBxXzBmWVdxQV9VWDU3SzVxaW5yQkZCTXh2TG56d2pfdHMyLTYxUlhKQms4WE16Yk5IRw?oc=5",
@@ -1695,54 +1734,24 @@
       "error": "HTTP 405",
       "candidate": "talarico",
       "weekKey": "2026-W35"
-    },
-    {
-      "title": "Democrat James Talarico called capitalism 'oppressive system' that should be dismantled in 2020 forum - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQSmQwT1BVWV9tWlpzeFlibkd6UXNwM01USENqeGlQVkNDbGd5MlRWb3Z1bFlTZVZuQ0ltVHlDbGtMNV9DNkVGOV95YUxYZk9ubEdDUUVKY0YxbW5TZGdneHBIbE1nTk9tRTRqMFNyYWNIRUVCdXZIcWFGQjRUQzIxbGNZamROTVZwWmp5U2ZYM18zb2xNXzhDRFNoLURfakNadzcwVS1PSG5BeTdUMWRVSlFLcHAyRjFMaGR5cmg3aFVab2NIb01NT1M0TXlEVkJ5c2xJYUFmTW1pS0dIUnIwSHpjYTd3cWNhNWFGSEMwZEZMT3VydnZzNHlIeFFxZlZkeW1NV2xudmk2QQ?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 13:36:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Democratic Senate candidate James Talarico to host campaign event on Baylor’s campus - The Baylor Lariat",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNkRoQUtqMXRFVk9CMGd6N0o1QWllY0dRYXBhUkRkbkdDTjZiSzdjNm1ZdS1NajZRbGhxN1FQLWZ2WXZmMDBfNVg3VFo0SmQ0OHBkRTlRT0lkMkVPNTFuRkZqQWxSVFRZM1l5eC1hU2d6Y2dKX1VVZVREVEpPM0pGbUtpSWZ3TzcxY2t3QTRtaUFCOThBdUozaDA3dENLRlVmd04waXNyZ01XTTFCeDlYb2tGNWlmSnVoOGFjYnE2X3dRQW1a0gHEAUFVX3lxTE82RGhBS2oxdEVWT0IwZ3o3SjVBaWVjR1FhcGFSRGRuR0NONmJLN2M2bVl1LU1qNlFsaHE3UVAtZnZZdmYwMF81WDdUWjRKZDQ4cGRFOVFPSWQyRU81MW5GRmpBbFJUVFkzWXl4LWFTZ3pjZ0pfVVVlVERUSk8zSkZtS2lJZndPNzFja3dBNG1pQUI5OEF1SjNoMDd0Q0tGVWZ3TjBpc3JnTVdNMUJ4OVhva0Y1aWZKdWg4YWNicTZfd1FBbVo?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 06:42:55 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W35"
     }
   ],
   "weekly": {
     "2026-W36": {
+      "talarico": {
+        "positive": 2,
+        "negative": 3,
+        "total": 5
+      },
+      "paxton": {
+        "positive": 4,
+        "negative": 13,
+        "total": 17
+      },
       "both": {
         "positive": 5,
         "negative": 8,
         "total": 13
-      },
-      "paxton": {
-        "positive": 4,
-        "negative": 12,
-        "total": 16
-      },
-      "talarico": {
-        "positive": 2,
-        "negative": 2,
-        "total": 4
       },
       "general": {
         "positive": 1,
