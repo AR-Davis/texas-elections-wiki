@@ -1,9 +1,107 @@
 {
-  "analyzedAt": "2026-09-09T16:16:49.563Z",
-  "newsFetchedAt": "2026-09-09T13:50:49.245Z",
+  "analyzedAt": "2026-09-09T19:23:27.135Z",
+  "newsFetchedAt": "2026-09-09T17:44:02.795Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 6,
   "stories": [
+    {
+      "title": "Paxton whistleblower backs Talarico in tight Texas Senate race - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZkN4MmktNXNXejgtS2RHUlROcWJubHg4UUJWNzJRMWdHcllQeHJZN0Q0SldpZDRtRE5mVjFXMk1RTmx4Q183eTBCay1kY081T0JxNERTX0h3Q1ZMY1VONmF6Wk9XZkxLYkNMUWR4UU9mRTF6d2hfSkYyLTkyRk5UejRmSk5hT3FyQ0tPWDdKd1ZVYldmMFFfSlNWa0hfc25Ddm5EM3Vqd1Z6ZlRHOFEydG5wRld5RXY5ZzVhN3pIcm53WDhJVUZqcA?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 13:49:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "Paxton whistleblower backs Talarico in tight Texas Senate race - South Bend Tribune",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUDNxUzRHcWRrWWpreUlLaXAxc2Q5azczNTItSm94ODlCQ0J6cjdoMlljbV8wZDVZU0wwcU4yMmk4TlZsUXlGS0VObEdqbW9zNFpmWVZDM1RfOEVndTFxUFU2cDhFS1gySlZRa3ZUUHJMOHNRSG9HSm8xN0ZRTWw3Uk5sS2J2NUI5M3BkNVFqT25WTUlYVkpjMEFHQmhBMmpyQ0pNVlplU3Q0aldlRzFCXzRRRXR6RXpSaWhWb1Q5Zmd5WlhiaEJFTEg4MnRra2p5SW9V?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 13:49:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "Ken Paxton launches AI attack ad targeting James Talarico's faith views - El Paso Times",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOM2VlU28wZFp1d3NiVDlPa1g1dW94M2d5TXR4d0hhYmZUUWt2WExYQUx5STc1ZkpnZjZiRzY0TnJvVnhla281SDBTa1FGWm9rd0Fza18wSFpiaEZIZ0Q4YXpXQ2dOTE9aeEVnLW5JMHkyYlFha0laYklySmdlcW9ZNnVISjZHMkw0aXhVdHBESlJ1bXl4VkhTZGwxa2E4alh5U3kzU0puY2ZpU19SbUJpU0xPY0p3Z05jWi1qR2UtVnBsU2lucEJwLXNudTRTOWlDQVlnaGNjdjMxemJVc2F0NGlySmtsZU40?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 14:12:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "Paxton's new AI ad puts words in a fake Talarico's mouth. Watch it here - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNUpUMEUxRndnNW55c2JCQjAxYlJPdXRFdlB1TWRHWXlYN3ZRZGYzQ1REMjJkOXJpRUEyeHltb1lWRFU1WWpEZzBvRUZZTW5mYW9UZzQ2c21FRk9fVWJBNUVNcUNWMkFVQTlscktCQXZydURhWUhVMnpGSzVkRk1Yc2RXNGoxXy00VEpja3pucmpNczdvVkM4VnZPcTVsejdqbXhYeV9YbGtxaU1UQWJ4TmlRZDZua1c4b0E?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 14:28:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 10,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "The Pushback Chronicles: Talarico vs. Paxton for TX Senator - Daily Kos",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVGJydGxxVlY5T1h5SG9vclBPZGtkNEFuN1Jwazd4VDRveGdmNms0c1NpdFRqUjdSWGVnbExMRzkxU1hsTG5xRUUxSXNaZ2R4Mkh0U3NYUHNqNVpZZXRONGJRUEpwZG1NSGVCY3Z6RTJsbzFYNDBxTUVlNENpeE4wXzlJODI0a0dJbjFqcWxNMkt4c1k2LXZnSzlXcmxRY0lUVVJHRTMycW9QMXRGWHhidjI4bllPZ3RmQmczSA?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 13:02:08 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 10,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "Talarico walks back comments on religion and gender after Paxton's win - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTlBjOGxUYUZyTnFyci04a1NVcWZMb1QwMmlXOGdxaThhd0dyRkM3cENLOGhxbUxQWDZadmtWR2ZVNDNMQVJfNG1QR2cyS2JkOHczdHR1SV9KMy1SaUJrZGdPXzAzUW92a1B1N2E1TkxoVWJHbzNqVmhBLW04NkQ1ei1xTy15R1pydjhnV1EwcEtWTlFDUlJvU2hmaU1BM01lWVBGWGhGY1Jpd9IBrwFBVV95cUxNR3ZxR0lCd3piTnlxTDFOQzZHQktKYldfSWV1dmNVcHloUlNfY28ycHR1Y054dnQxSXVDaTVUYU5pWXNadTFuak5OLTRMNWY5QXBYVW5HWmFvTGFPclU4dG9lR0tRTDgyZXRDTGVfRjNRRkdGbjhSeTRVTjZ2Vm1QbHVpUUpqam9MeUlfMXdvbFluOURGWmdidU5OcXA2X3hWQjE5dDhZb0VkcnFvUWFr?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 06:24:05 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 10,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W36"
+    },
     {
       "title": "As Texas Senate race tightens, Talarico's mask is slipping | Opinion - USA Today",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUTVYUTdRNjVUTE5HYXhxTEEwU1R5aFNJZ1N0a2dLVi1CQjBFTF91QVlJN2E0SGsxRUNGeHZiWUxwV2RJVnNuTDUzUl9wLVV1dXVUQVdxR0pZbUhLU1U4ZDlNX1hXaGVOTENJV1hVcmVPTDFHX0l3cjdvWjh4c0RmQUJWQVJidldfVHdLN0hlRWFmY2g5UEdQWjdqYUZoM2YtNTZtTExTWk5rNnJNVU9QLWFhMUNoMXNSSUpxaQ?oc=5",
@@ -1679,95 +1777,6 @@
       "error": "HTTP 405",
       "candidate": "both",
       "weekKey": "2026-W36"
-    },
-    {
-      "title": "Ken Paxton went after gambling in Texas — but stays hands off on Kalshi - Politico",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVDJhNTdFRGhoQUxVd2NTdG1jZElXTWdXNEpyRVZDTUpHNEUwaXBneXdWZTU5THdNekN3cVpZY0lCbGhMbUZXWjV2YTljOXFfUlZFMENvQjIzTHBHbnkxaTNhM29fQmFJUzJDQVB0RElFV1pPM0NYcC1WM2pDeUwySWp3Q1JGcTRuSzVhSFQzNUdXc1RVUVpB?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 08:45:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W36"
-    },
-    {
-      "title": "Fort Worth man charged with threatening to kill U.S. Senate candidate James Talarico - KEYE",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYm9UNVdia1FPMFI3UFZKNWNJX28waGZUY1c3aDNreGh6X2R5bTM5ZUlZSUxjT1h0TXk3NlktaHVQbG1TTG5veTVfNlgtUkd4NGM0SmJtTXB4LVdENzJ1YnEtcWZJY2VyUmk0TTNvYWNhZHZDaXBBMUtSVnU0eGhheHh4Ri1WNm9ISHdHNll4ZndZVGdXR3NVd2ZJOTRuTjU2UjRaYVBWMWRibENxZDNoem9xamltNWdTY3hJ?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 05:21:04 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W36"
-    },
-    {
-      "title": "Trump Insults Ken Paxton’s Style and ‘Looks’ in Backhanded Senate Endorsement: ‘I Might as Well Say It’ - People.com",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZV9ubGl0UVJoa2M4SFVlSkpDV29IR3dROUx3enQzbE5kcXV5aXctUVhxcFpibkVVT2ZWREtJT3ljVFBjQlA2NzhobXlWaHhDN2lwOWRwdFFOTzJZNXJlQkdqR0V3M0F2SUtsR3FoTkt4TjdxRU9ndzAxdmdtUTM2d3lTbmFhcDl3aEtIckhyT0VxV0U?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 15:46:33 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W36"
-    },
-    {
-      "title": "James Talarico’s U.S. Senate campaign held a Lotería in San Antonio - San Antonio Report",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcm5WeHhGX0VrUmt3TjJtS05WaVpocGdKeEFDZFlUVnp1d2xCYzMxVld4ZGloWnJWcUs1RzlSa21VZVp3VGg1REtnemhvUl9MTmIxdUpTeU1HRFcybmxiUUdVUmE0cjhXbjJrN19uaTlIMlVFa2VCSmVOWTNobUdPNlVGMEZpUjZoek5F?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 10:00:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W36"
-    },
-    {
-      "title": "Ken Paxton allies are betting millions that China attack ads will resonate - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSVBOMngzTFRORldSNXZONTh0TC01TjRUcUZxVW9taDl2MDZmZHg4WlpURUVValdtdllZa2t5SkFJSXJQOE02cDJadU51U3FweVZFZnpEVF9ja3hKUGlZZGgwcWdtbzJIRXBtMVJsUm9XRFl2cEtKSW55SzRFelFZUkowVzJEWGswZTlQdWtJaVZOUGVDOWJ5OTlPZkxqZTQ?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 09:05:03 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W36"
-    },
-    {
-      "title": "‘Drag your body through the streets’: Man arrested after threats sent to Talarico’s campaign, office - KXAN Austin",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUTdCUTNIN3NESk5ZUVFzcUNxQVd4MTBBQzRtMDBnV3g2UWc5QVJqQktnaTViOXlDNG0tWmNOVHRlSEhZYmRVMjU3clVVeEF4UXQwdkpGVXhKSGRDaUg1X1VlSkZIVVlQbWdTRzY3WDRFNmJtTXlySjBRNER5NE1EVGJFakt0bzVmMHpYUndTdXFnOW9xMUhOTlJBTDA4QmVHdzlpdXQ0RVNiNmNKWHhaRW9jM0xHWGUtNGdHcGxTbDJUQy1xMERz?oc=5",
-      "pubDate": "Wed, 02 Sep 2026 17:23:27 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W35"
     }
   ],
   "weekly": {
