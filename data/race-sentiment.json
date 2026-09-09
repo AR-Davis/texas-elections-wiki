@@ -1,9 +1,46 @@
 {
-  "analyzedAt": "2026-09-09T06:30:42.516Z",
-  "newsFetchedAt": "2026-09-09T04:09:36.111Z",
+  "analyzedAt": "2026-09-09T11:45:12.418Z",
+  "newsFetchedAt": "2026-09-09T09:06:11.937Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "David Maxwell, Texas Attorney General Ken Paxton’s former top law enforcement official who reported him to the FBI, has endorsed state Rep. James Talarico (D) in the state’s U.S. Senate race. - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN25hcUoxVDJHM2dtalZRbWNmYWZwU1l4SmhNby04LUVZZmwxQlJzWUFKY01hY0NTSTBPUHp2NjZFR3BKZDhlZmtVelA3dGJRSURkdklYeGVXU3k5cXlOVTc0a1p4ekRTWkdjQ2FVTFBGa3lqT2o0YUdnVlJCVUM0UWdnaEYyNnVnckdUY1NHQU5fMWUydjQwSldIRTl3Z1RESlNqbFl5di1LMGx6YWFpb0VTOEI3bVo5YTdCNmRISlZPeElTc05Vc1RCSUNoakVDdTZLdkdEenZSLWQ3?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 07:00:19 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 28,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "senate race",
+        "attorney general"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "Ken Paxton whistleblower endorses James Talarico in Texas’ U.S. Senate race - KBTX News 3",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc09jZXNxUzJEQUM2UWVwejNlQ1plT19xX2oxT0dubGJ4SkxsTkJIQ0xlRThLVFdlRG9FNy0zaHo2SnhwXzR0SEFnejNUR090bXBZcHJ1Si1kSFoybS1PWXdPWWc1YzBZVnJfdFp3ZmhBaFNuRVFNSG9vdTI4TkdXRFk2ODVnTHM0QTFPVnJWSi1LTnlyUFZBb25GM0FNX2F0ZnRBRg?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 21:26:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W36"
+    },
     {
       "title": "Republicans fret as Talarico bombards airwaves and Paxton awaits Trump team’s cash - Scripps News",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUzdxWjFNRnljTlVsdWkwRWQ3bXZ4a3VMaUNUaXJxSkJGM2JILVFFNElGSmQzUFZCTkViNWhlV3JVcmdXNkdrX2pWdmhOQW40eEZWSGpCVEUyckpsSE9GdDFGT0xZWVNNUkhMbGZKanRONThRVnZsQktKWEJEVXpSYV92NnpqLXVqWDdvMHJzVnFWeEJiTUZYNzhCSEVXNHphT0FNTy1rVE5KRzlBazNRQ1FCMUNSVmhjWHc?oc=5",
@@ -1716,34 +1753,6 @@
       "pubDate": "Wed, 02 Sep 2026 00:13:59 GMT",
       "feedSource": "google-news-texas",
       "raceScore": 4,
-      "matchedKeywords": [
-        "tarrant county"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Tarrant County Approves 224 Election Day Polling Locations After Heated Debate - thetexan.news",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxORDBuZzNwTU9ZdnN5LVZURzBlUmtTaUt5Mk9nU2c3THYzbVF1d2VlNndvTUVXSEVUYjV0RnJxdmNhTkI3ODFyRTc5M3Bvb3R2NHoxVWZhWi0tTU1hQUJfSjhUNlZiMnVSUFE1Zm1VZEdwVU9LRFRTN2hLVzlwNlBidGwwQUxoMUxTQkgtQ3YzbHQ2d1U5T0Uyb0hJZ0hULUl1R1EydWZBRFNidDRiRmJ0ZjhUbmRUWWE0dmlVaFJHSS01UlJDWGdDWWFWTDhUbDZaUndtUXdFak1nR09IdFBfWEFGQnE0Mkk0cFMtVXFZYzlOWjlEVEJpQw?oc=5",
-      "pubDate": "Wed, 02 Sep 2026 15:29:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 3,
-      "matchedKeywords": [
-        "tarrant county"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Tarrant County commissioners vote to cut election polling sites - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZDNEb1d1cHZjQmFBd0dyaHpMZ1ZaRjFaaTd6R1c3cTFTblBSN1VUVmVGRXBWNGY1MC1sMDM4bGFqcHJVT29GUGh0MHlCNVlVQVJDTEZ0RUtsa3E5eDZZMGd2eWlrMnk1QWZmMVRrZ3Nwc3F3aWs2VTV3QVhQdS1oWGhjTzIzcFlTbzlmM2hR?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 23:43:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 3,
       "matchedKeywords": [
         "tarrant county"
       ],
