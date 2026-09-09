@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-09-09T01:07:01.760Z",
-  "newsFetchedAt": "2026-09-08T23:35:01.145Z",
+  "analyzedAt": "2026-09-09T06:30:42.516Z",
+  "newsFetchedAt": "2026-09-09T04:09:36.111Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Republicans fret as Talarico bombards airwaves and Paxton awaits Trump team’s cash - Scripps News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUzdxWjFNRnljTlVsdWkwRWQ3bXZ4a3VMaUNUaXJxSkJGM2JILVFFNElGSmQzUFZCTkViNWhlV3JVcmdXNkdrX2pWdmhOQW40eEZWSGpCVEUyckpsSE9GdDFGT0xZWVNNUkhMbGZKanRONThRVnZsQktKWEJEVXpSYV92NnpqLXVqWDdvMHJzVnFWeEJiTUZYNzhCSEVXNHphT0FNTy1rVE5KRzlBazNRQ1FCMUNSVmhjWHc?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 02:07:45 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 10,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W36"
+    },
     {
       "title": "Ken Paxton’s former ‘top cop’ endorses James Talarico in Texas Senate race - Washington Examiner",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWUU1ZHhNQUxLNXlFQXBmSTBTblVrSnZoWDFUbWc4THM5Unp3a3BUdTFNbVM1ZUhmOG9qVHpvdkVqaG5fdFRmbzhKeWNkWkppdURmZ0d6dDB1cWtoUUhham1GbkRQejhKR3k2N0dNcDdFS2ZUTDFIV0NHbkhIODB6dG5Vd2dkWEFmNTBWNlRaSzlPeWJBYlFwcVhjbDFYZmx1d2k1ZzFMbUIwOG5lUHdoS01IaHQ0TldZTlVIU0Q4SGQ5Z1RpbjluRzFOODJ5RTVjVFphTWdxc2pnWjg?oc=5",
@@ -1736,23 +1751,6 @@
       "error": "HTTP 405",
       "candidate": "general",
       "weekKey": "2026-W35"
-    },
-    {
-      "title": "Pulpit wars: James Talarico, Ken Paxton test voter turnout strategies - The Houston Defender",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd2tsT1dqRUsyNUF4MUlGeVZGSUJOX2xobWtWUlp6VWhENDFtNzN2WU1DeXlTWENLX29ncURQYnpsdU1MMi1pTU1iUDJ6XzFjRzBSQTNPd3FGRk5sdldtSk93dHJ1NGtaTVMyUjY2NVVwVzQ4U05OaFM0NTQtMzRsQWl1ZEJ4b1F5LVNmSTBOem50T1Ixb1lWV0dxcHh6bFZTTXFMN2U1MU0wRTFyUGdN?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 05:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 23,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W36"
     }
   ],
   "weekly": {
