@@ -1,9 +1,73 @@
 {
-  "analyzedAt": "2026-09-09T11:45:12.418Z",
-  "newsFetchedAt": "2026-09-09T09:06:11.937Z",
+  "analyzedAt": "2026-09-09T16:16:49.563Z",
+  "newsFetchedAt": "2026-09-09T13:50:49.245Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 4,
   "stories": [
+    {
+      "title": "As Texas Senate race tightens, Talarico's mask is slipping | Opinion - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUTVYUTdRNjVUTE5HYXhxTEEwU1R5aFNJZ1N0a2dLVi1CQjBFTF91QVlJN2E0SGsxRUNGeHZiWUxwV2RJVnNuTDUzUl9wLVV1dXVUQVdxR0pZbUhLU1U4ZDlNX1hXaGVOTENJV1hVcmVPTDFHX0l3cjdvWjh4c0RmQUJWQVJidldfVHdLN0hlRWFmY2g5UEdQWjdqYUZoM2YtNTZtTExTWk5rNnJNVU9QLWFhMUNoMXNSSUpxaQ?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 08:31:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "GOP icon hits panic button over floundering Paxton in Texas Senate race: ‘Time is running out’ - AL.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQelg0ZndXeFVoMy1BX3lLYmV0aFB0U0lyejRYSmpFMlUzcmRQUGZQaGQxTEEzVVV1NkJhNjA5TUdZYU5NcV9wQnB6VHBpUmlzYzY5TXQzVmJJMTc1VFNRYlRKTTRQb0JnbEo0bm9IT21kWTFoNGhPQjJwWUxXeFpmSXVoSHNLRk5sOW1VdU5fWFpMVHZDSkp6Z0pjN3R2LW1Xam1lSzM2eTRzNm9YWXJ3RXpsbXVXb21rU0NINXhfVVVuNGNDUnJBaGNOb2bSAeABQVVfeXFMTlJSN2JqT2VyRlJMT2FkYkFXdXlyaF9IRkl6RU1rb21TQ3FENEU5QlFGSUpXSjNUTEZkMF9yXzlMdVR2akdvVnNZc2twTk1VQ3VsSjg4blZEWW93STc0UjZValpYYWJiSkt1OW1wcjJYY0FzOEVHTDZvWEJJb04xMzZkUHZhMFdqZU9Db1F0cFRjay12blVoSHVZb1FQUUxtNm10R2xPMjZJVFhhbVRRM0NyZ2dwbnJEWnBuQlhaMFN4YlNINlZhblJfRkpES05YbldqcEQwRHA3UUt1aFNzd3o?oc=5",
+      "pubDate": "Sun, 06 Sep 2026 18:07:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "Ken Paxton’s Financial Disclosures Appear to Violate Federal Ethics Law, Experts Say - NewsGram",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdXpaRGJBU3A0YXVjZ2tkaGEtWUlnVW9Wcjh4N0hJMC1Ca0lyUE1zU25ZcXNDTDZhZmozMzNwOWI5ZTdVWnIteFFtVGZwX1ZPUmVtUUhHdjRQVEJ5d2E3d1ZxbDViUml2ZXJxeU1oanNRbWZHQVB3cXNFOGZIbjNUN1htTlI4elRkWDJQWkFPSWg3ZlNlS0RzQ1Jnejg?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 22:30:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "John Cornyn to 'support Republican ticket' despite decision to skip GOP Midterm Convention - Christian Post",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdHVma0NZMG9HTjJ3MkpRQTVwNFgtNTRJTEJnNzZRZTVOUl9VSC1NdUY3UWpoSUFqTmROQ3NuNlBUTHNpLVRaZGhuTkc0cFZ0ZFBtcDdBc3FIVnJ6TVZSTmRmX3g5ZVBQbUJoVEZHNFFYWFpGRHFyVE9pcnlSMXJsMnZpODlQeVpWT2lYLU9veGNpaks0SE5laWl3NVh0TTFvazY3MVpn?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 13:28:58 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 9,
+      "matchedKeywords": [
+        "cornyn",
+        "john cornyn"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "general",
+      "weekKey": "2026-W36"
+    },
     {
       "title": "David Maxwell, Texas Attorney General Ken Paxton’s former top law enforcement official who reported him to the FBI, has endorsed state Rep. James Talarico (D) in the state’s U.S. Senate race. - facebook.com",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN25hcUoxVDJHM2dtalZRbWNmYWZwU1l4SmhNby04LUVZZmwxQlJzWUFKY01hY0NTSTBPUHp2NjZFR3BKZDhlZmtVelA3dGJRSURkdklYeGVXU3k5cXlOVTc0a1p4ekRTWkdjQ2FVTFBGa3lqT2o0YUdnVlJCVUM0UWdnaEYyNnVnckdUY1NHQU5fMWUydjQwSldIRTl3Z1RESlNqbFl5di1LMGx6YWFpb0VTOEI3bVo5YTdCNmRISlZPeElTc05Vc1RCSUNoakVDdTZLdkdEenZSLWQ3?oc=5",
@@ -1703,62 +1767,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "talarico",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "New poll shows Abbott, Talarico races statistically tied - thecentersquare.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUVdkYUZFb29YU2dxMjZBc2JnQVk0U0NJT3dBNmJrZEE0NHE2R3IybTZkZXR3SV9yMlFDRTRraWVXaGRHTWlGd29QckhqNDlMZm1hNWNLUVJRa1NKaW1qU0gtSkUtSGtRRjViYUdjMjN0SkFKQWVrd1M3Q3Fkblk5TEJvQ0RrWjh6dlRLZTd5eHJVNnhlN1HSAZYBQVVfeXFMTVFXZGFGRW9vWFNncTI2QXNiZ0FZNFNDSU93QTZia2RBNDRxNkdyMm02ZGV0d0lfcjJRQ0U0a2llV2hkR01pRndvUHJIajQ5TGZtYTVjS1FSUWtTSmltalNILUpFLUhrUUY1YmFHYzIzdEpBSkFla3dTN0NxZG5ZOUxCb0NEa1o4enZUS2U3eXhyVTZ4ZTdR?oc=5",
-      "pubDate": "Wed, 02 Sep 2026 21:44:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Texas Republicans Turn Against Data Centers, Putting Big Tech on Notice - U.S. News &amp; World Report",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY3ZjVkRBZkt3elVjdEgyZHZzUms0SU45T3hpejlhcXVaREROVnhad3ZxTVVSX1FwcWw3TVRlbHE3aUZ1OUF4bDdlWmR2WURvNnBDajNDY1BPRnNRdjhUWi1ablRiTUVjR3A3RV9MdDh5TWZmZmY2MmxLS3RPc3ZSNUJBRU1mUkxoN1NFSDJlWUh0bllwR3RzeDlIM0xXNHlTNmNXU2lzaUZXbHp5LXBuTjJ1Vnd0MzJCLUtjcnA4YlFmcVU2dlE?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 10:07:47 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 4,
-      "matchedKeywords": [
-        "texas republican"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
-      "weekKey": "2026-W36"
-    },
-    {
-      "title": "Middleton leads Johnson in race for Texas attorney general, but the contest is unusually close - houstonpublicmedia.org",
-      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPRmVtYUt6ZVJETV9iNUh0N2JGaTVRMUR3VlRyblhhZ1U2VGtBaWE0REg5Z255MFRFdmM0ZWxPNGdzdE13SVdjbExVdmhHSXVmXzBlaXdXVlhaQlJ2eExPZ0F0SEpzX1A1WGZ4T3ZCdEdnUXdWdmVXcGNZM004T29TdjFnY29uWnVqajBMZ0RRRWI4ZmpwTTVwZXFVQXFjeUpZV3c3SHlWc1JXTFpzb3VzVXZIODJPTHRlc09PVW1wbXQtbGxOTXJXRTFiR2NTdHVJQjFvMGFjc0U3YmY4WWRDcWk3MG9wd3lMNVYtVXJJemlZdnRSNnlDUEZLMjFwSklUNmhQdTVNTVcyM1dLUTVqSlZ2NlJvSmVrNHlVeTl0ZWFmM2kyTVNDUzU2YWRBUnpPemdfWXhBcm1oZUJrTnhFU3F1UWI0aUlWUlRyNkVXMmdINHJQTVBKNHRIdDFYeEd2VmtrQmIwYnVzeVI1SWM0STJhcmhEZDNQYkVWcjRfT1ZXUkXSAYMDQVVfeXFMT0ZlbWFLemVSRE1fYjVIdDdiRmk1UTFEd1ZUcm5YYWdVNlRrQWlhNERIOWdueTBURXZjNGVsTzRnc3RNd0lXY2xMVXZoR0l1Zl8wZWl3V1ZYWkJSdnhMT2dBdEhKc19QNVhmeE92QnRHZ1F3VnZlV3BjWTNNOE9vU3YxZ2Nvblp1amowTGdEUUViOGZqcE01cGVxVUFxY3lKWVd3N0h5VnNSV0xac291c1V2SDgyT0x0ZXNPT1VtcG10LWxsTk1yV0UxYkdjU3R1SUIxbzBhY3NFN2JmOFlkQ3FpNzBvcHd5TDVWLVVySXppWXZ0UjZ5Q1BGSzIxcEpJVDZoUHU1TU1XMjNXS1E1akpWdjZSb0plazR5VXk5dGVhZjNpMk1TQ1M1NmFkQVJ6T3pnX1l4QXJtaGVCa054RVNxdVFiNGlJVlJUcjZFVzJnSDRyUE1QSjR0SHQxWHhHdlZra0JiMGJ1c3lSNUljNEkyYXJoRGQzUGJFVnI0X09WV1JF?oc=5",
-      "pubDate": "Wed, 02 Sep 2026 12:42:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 4,
-      "matchedKeywords": [
-        "attorney general"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "Amid public outcry, Tarrant County, Texas cuts polling locations ahead of 2026 midterm elections - ABC7 Chicago",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcXlnaHdTZ0YwZUJDU3dlaXVrS3NpQXBxMlVjanIwM0NmSFk1NlJKcVpKdFBpRnB4ZTBGZjc1VGVyeWdPMUpnSGVzak9HcFJRUTc4S2FKZGxQYzRzWEZKMlJfN0pJWmpLQ28zR2d2cVJTYUxORkpxM1NhXzh2Z1dHZVNMWjBFTmVlV1A1dkJWYWZLeXMtOC1pY2lKdDdrSF9ZVWJzZGZzZ3hSUG9KQmJic1NYSzYyQTB5dzhZUVBBTHJoT21tTC10Zk9qSQ?oc=5",
-      "pubDate": "Wed, 02 Sep 2026 00:13:59 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 4,
-      "matchedKeywords": [
-        "tarrant county"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
       "weekKey": "2026-W35"
     }
   ],
