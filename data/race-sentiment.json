@@ -1,9 +1,56 @@
 {
-  "analyzedAt": "2026-09-09T23:56:03.472Z",
-  "newsFetchedAt": "2026-09-09T23:06:26.726Z",
+  "analyzedAt": "2026-09-10T03:59:07.304Z",
+  "newsFetchedAt": "2026-09-10T01:21:25.501Z",
   "totalAnalyzed": 100,
-  "newThisRun": 9,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Ken Paxton at RNC Midterm Convention: ‘James Talarico wants to destroy the American dream’ - KWTX",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb0dtQTJKR053Q3FKdkZxR21iQ2NiM1ZSXzZkc2dpNFVIOVpuTUFtbnFaQ0dzSzVBMVBVU0VHZElUTEZiRU9LdUktS1ljT2c0bFNDMnRHSHdqRjdrT2c1OUlLUVJTbE1IWHI2d2x3TVFZcjNnTnNiUWFSekJCNlY3bnpDU0VZSnVOVXQydGNSUDA3LWptWU9ZQS1GTjJ4aE5iQzN0Mkh3Tmdwd9IBvgFBVV95cUxQMXJHVUJucVVxZFM5dElyTHB1OW9YTmdyN2ZzdTdTYTdYXzRCaEZLVC13eDBJU2pESjlsY1ZGUmJmQzNZVkJnaDNaQjVHTVN2WFVPdElJUno5UG50VVlOUjVVZElWLUF5YUtzWVdVYlZtWW93WjRhM1VOb1BTcDdrRVZmSUJLVUxYbVFGTE5nMGhvVUlWcHRWYjVVVVhBOUU4N1UzRm5CY08ySXoyQ0tTTjd6WnJkYVFzck5IVy1R?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 23:05:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "James Talarico walks back past opposition to transgender sports ban - Austin American-Statesman",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZHl0RU5LVWE4MC1MWFZMTWxOZnBnWGpua1FqVl94S3VyeHo5SEd6a1pZbEI3S0k4bHM3RVlmT2JReWs2REtrcjZuNi1kY0ZCVERFMVBZemg2U0pJcGgxTmZVMUNnUHFfcWJGWm9MRTBSWUdyc0VtOXRtUHhveExla0lIUUk2alpvdDlEWTVid0ZYZGhvWjlubWlB?oc=5",
+      "pubDate": "Thu, 10 Sep 2026 00:48:37 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W37"
+    },
+    {
+      "title": "Paxton warns GOP convention of ‘radical’ Talarico in his Texas race for Senate - Fort Worth Star-Telegram",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOElLREI0Y2xxVWo1cnBFZUh1b1phR19TTV9YdjhMdm5SMDAwS2FwTWM3M2hMSDJiQkNYWlFMd3QteUt0UlppaFVQTG1fSjhPWTYxTWJYa0k3aHk1ZWpJQXZIQm9NNkhQcEZ4dGlBVzJ6UGx0UkV4RFN5dnZfQmVLUXJyMDE3Y0xVaXA2MzR6WUVFR0FtSVHSAZYBQVVfeXFMTTd6Z3o2M2JtMUN2VTFZNVVrbUh4cGYwYUZGeS0zTkNZRXphZ1ZpSmdJT0FDdHZ6cGVLMWVhSDdrOXVRUk9IbmtXMkltb3QxVi1aNkxZT09UaTRWYWVwRHZrY1A2NjN3eVo1aWY4eXQzMWk1RlZrR01CVHJGQzlJeFhNX0NqcnV5cEE4dWdUMWZYMjFLcHN3?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 23:49:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W36"
+    },
     {
       "title": "Ken Paxton Uses AI Deepfake to Mock Opponent’s Faith in Texas Senate Race - easternherald.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQckVpbXBZRUN5R01sLWZGSjRnMXVOOU5peS1CMGhRSkNoZDJRQmg2eGJELUYwdWR2a1BsWURUY1Z0Zkd6REVkR1hqdkZDdGNra2E1NHhNTjVQN2VYbEtISDllVldRSlM3R0VlYW9teXM0Ml9HVXJ4WHVLODc2bDdsREFvQzc?oc=5",
@@ -1721,58 +1768,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "talarico",
-      "weekKey": "2026-W36"
-    },
-    {
-      "title": "Ted Cruz says Texas Senate race between Paxton, Talarico ‘effectively tied’ - NewsNation",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbzBtOWh0dkNqX2hSTU1kblRvVGFVUDM3X0FwN0hxN2d1RGFhT1R6ZThMQ1lBaXpaQ2xlSEVObkxoMVdLeE9wQU4waDEzNjNXR2Zpb3UwRDJCdEpBM0E5ZjU1VlY0UGNjRHZpNzVudEJUQzl0RHEwck96bnM2Q1Izd2pGMnBDSmVRMWNLcVhlSU82eVR5azNj0gGcAUFVX3lxTE1Gd0F1cGNwOGpRc2lJOFBYOHZpNkFtM3ZjLWVBM0pEXzNPQWhzZW5hWjhQV0tuWGdublRlc2NSTDJ0UDRGbjM2WWVwajV3ZzNsWEJDSXFsSS0ydkNpUkNpSlhDVWlXcm40eDJKLVYzRzhTNjMwUWxCVGxvODNneWlHQWR1X1VpSkVGSDI3VjNvamQ3WFVrdE1hWlNHSw?oc=5",
-      "pubDate": "Wed, 02 Sep 2026 09:26:21 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W35"
-    },
-    {
-      "title": "GOP icon hits panic button over floundering Paxton in Texas Senate race: ‘Time is running out’ - SILive.com",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcFlvdEgzT05DNnRCVDd2QTQtbHY1R3UzNElIZTdaN1hheWtRWTRNVGExTVZ1U2NpcTQ2WFRKQllHRm9rNDdLUmZRSUstT2g3bDFwRXZWWUdKOUFIODZNTTlJeEJ1OFA4UmdGbk5RYURrdW01WmNWYld6MGMzWUJPa0U1MjNKSXFTN2RTZlJZMkZpWnpac0lwcU43bHVtVmxyOHBOcUZwcDZiQWdncjg3amlRYk1sVWNVMVFudWVvbm9hN3E3eUFrQW00TXFpLUFyc2fSAeYBQVVfeXFMUDVJWVlIMW8zeUhjWEx5WTdYVExwdjA0aHQ2ZF95cnFnYXhBR3JLTW85Y3BoWEdLVTZRWW10U1M4Wmo2WlNtcXFESW1WQVlfd2RlZ3hqbEROSzZ5T1VCZy1mN3U4dmJIZUtsakpZVDg4YjFOYkVsbEVoV3pKSm1ucGxETXV3aU13NXQ3dURydlRJajNZakdNWWVFaUk2cHBWcE1WZzdfUmRtVXg5c01hRGRneWNQTE43NFdQU1ZKOE8wWFVOZ0FrelpkRk50V293YVVpR2VTTmQ2dDR6Z081V05QLXJaYkE?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 15:10:22 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W36"
-    },
-    {
-      "title": "Paxton’s Texas Senate race tightens to toss-up as polls narrow - eciks.org",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vMTM2X3g4ZUVBTGFMdjVxLTZuY3RlUVRLLW1WMWpoOF9QN3psRGtud0hWdExHalFJbHNRX2lobWZGOTIwbXJzSFZsR3lSR0RRSGV2UVBiVTZ5bVFTZDJOeg?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 03:37:12 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
       "weekKey": "2026-W36"
     }
   ],
