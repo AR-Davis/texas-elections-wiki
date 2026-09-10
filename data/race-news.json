@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-10T12:09:00.557Z",
-  "count": 23,
+  "fetchedAt": "2026-09-10T16:36:59.953Z",
+  "count": 24,
   "feedsChecked": 8,
-  "itemsScanned": 106,
+  "itemsScanned": 116,
   "items": [
     {
       "title": "Ken Paxton’s former ‘top cop’ endorses James Talarico in Texas Senate race - Washington Examiner",
@@ -15,20 +15,6 @@
         "james talarico",
         "paxton",
         "ken paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ]
-    },
-    {
-      "title": "James Talarico Revises Stance on Transgender Athletes in Texas Senate Race - Readers.id",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpYkdRb2FyNVJxN05qWHR3d0d5OUxmWE5ERzM1NXlGbEJqbTk2ZUlxZVd0Z0FIWDBhYnY1ZUsya01GT05pc21jRDF4bTZINkpNM2pFUHFuYnIxV3RCV2dLcFV5UzByTDRWUEJJTmo3aw?oc=5",
-      "pubDate": "Thu, 10 Sep 2026 04:16:22 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
         "texas senate",
         "senate race",
         "texas senate race"
@@ -63,7 +49,7 @@
       ]
     },
     {
-      "title": "Paxton whistleblower backs Talarico in tight Texas Senate race - southbendtribune.com",
+      "title": "Paxton whistleblower backs Talarico in tight Texas Senate race - South Bend Tribune",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUDNxUzRHcWRrWWpreUlLaXAxc2Q5azczNTItSm94ODlCQ0J6cjdoMlljbV8wZDVZU0wwcU4yMmk4TlZsUXlGS0VObEdqbW9zNFpmWVZDM1RfOEVndTFxUFU2cDhFS1gySlZRa3ZUUHJMOHNRSG9HSm8xN0ZRTWw3Uk5sS2J2NUI5M3BkNVFqT25WTUlYVkpjMEFHQmhBMmpyQ0pNVlplU3Q0aldlRzFCXzRRRXR6RXpSaWhWb1Q5Zmd5WlhiaEJFTEg4MnRra2p5SW9V?oc=5",
       "pubDate": "Wed, 09 Sep 2026 13:49:00 GMT",
       "feedSource": "google-news-race",
@@ -77,7 +63,7 @@
       ]
     },
     {
-      "title": "Ken Paxton whistleblower endorses James Talarico in Texas’ U.S. Senate race - kbtx.com",
+      "title": "Ken Paxton whistleblower endorses James Talarico in Texas’ U.S. Senate race - KBTX News 3",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc09jZXNxUzJEQUM2UWVwejNlQ1plT19xX2oxT0dubGJ4SkxsTkJIQ0xlRThLVFdlRG9FNy0zaHo2SnhwXzR0SEFnejNUR090bXBZcHJ1Si1kSFoybS1PWXdPWWc1YzBZVnJfdFp3ZmhBaFNuRVFNSG9vdTI4TkdXRFk2ODVnTHM0QTFPVnJWSi1LTnlyUFZBb25GM0FNX2F0ZnRBRg?oc=5",
       "pubDate": "Tue, 08 Sep 2026 21:26:00 GMT",
       "feedSource": "google-news-race",
@@ -105,7 +91,7 @@
       ]
     },
     {
-      "title": "Ken Paxton whistleblower endorses James Talarico in Texas’ U.S. Senate race - The Texas Tribune",
+      "title": "Ken Paxton whistleblower endorses James Talarico in Texas’ U.S. Senate race - texastribune.org",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUzdWR0U3LTdtbzJwUDNrOEg1QmhYRnZJb3VmcmJORlpEQjBkdExIU3RxdklCa2tuQkVWZTJoWEpvYXJKNF9Hd1JfUWJTcHpIcmtZd251cmtIRVJ6S19lRlk0ZXZtV1FMWDdYVTA1Ukg5S181TExrcjZlc2ZTQjJaY1Q4UU9Rd2pqSV9XRmhDUjFUVS1rSmdRQnR3Zlc0aEdjVmxVVGZWckxkVmxaanBDcHNGM2V3VEU?oc=5",
       "pubDate": "Tue, 08 Sep 2026 17:18:20 GMT",
       "feedSource": "google-news-race",
@@ -137,6 +123,19 @@
       "pubDate": "Wed, 09 Sep 2026 14:12:00 GMT",
       "feedSource": "google-news-race",
       "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ]
+    },
+    {
+      "title": "James Talarico touts GOP endorsements ahead of matchup against Ken Paxton - Washington Examiner",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeE5keUN3d0JPRjB6aDJjX1ZtcW5pZTV6dWJRaTA3dkpjYmxlM2o5Y0JSZ29veDVqSWQxOHh6ZEhNSGJST1ZzNTE2M1YzU0hrcl9sRndQV0lPbFdncVUwOHNYQ3U1MUlSbmZuejJMaU01SmZKbXpUNk1SVlQzZHoyczR6cnNRcGFibFVQQTFzd181ZWlFRThSZ2xDWkVoMHlHaFJfTlo5aV9RRHJzbXhmcFJzSTBCaDl4clBPZWJZYUJ4YWhBbFRpQzFPRWxyZnVPSWRTT093?oc=5",
+      "pubDate": "Thu, 10 Sep 2026 15:02:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 22,
       "matchedKeywords": [
         "talarico",
         "james talarico",
@@ -196,7 +195,7 @@
       ]
     },
     {
-      "title": "‘Jimmy Kimmel Live’ Moves Interview With Texas Senate Candidate James Talarico From TV to YouTube Due to FCC Threats - Variety",
+      "title": "‘Jimmy Kimmel Live’ Moves Interview With Texas Senate Candidate James Talarico From TV to YouTube Due to FCC Threats - variety.com",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTXhnNXRKalM4MmhBM2lkVEhjcGZzdTlpVW9tMkVOYjRmNzExMkhBNkZPSUVkVlVyQkJxMU1yN0FBMFY2QmxuR3FqUGZseXZIWXJKbU5oTkMwbEdXdjJCSV9seXZiZU1CVG12VmlTMVltdWNLNnhwV0tpNDBVZkVFM245NUV3RTNIbVZYNFlLZFhtTXM?oc=5",
       "pubDate": "Thu, 10 Sep 2026 05:28:00 GMT",
       "feedSource": "google-news-race",
@@ -244,10 +243,10 @@
       ]
     },
     {
-      "title": "Talarico, Paxton face new Texas Senate poll as Election Day nears - patriotledger.com",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaTRNUjFndVFTLXhlVzEwNy11MGVTZEl3N01Dai1QeC02OUh2aWhiS0I3Q2F0aXd2NHREY2JjSUFnZFlKU25jLVIxM3o0WGpyVjA4VkgwYV9raEJfbVRLcDB6M1FhWFhoa052SHA2N2dQdk9ONl80QzdSTi1zSVV6bUFpMEtneGtfUGlpcGloQ08wZG9pNmRhcFFmNVFjdHB3SnB5M0NSZDdZUlN4NDZTcGY1SE9wdmR1VEFQdnJVWVpFRTQ2WlBsZ290VW1lYmt3X0E3TXVWSGw0UTBkOFlpN3VybXFrUQ?oc=5",
+      "title": "Talarico, Paxton face new Texas Senate poll as Election Day nears - Greenville Online",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTmxKVkZtT0FsbjhUVndPSGtESlQ0bkl4dlFoeFlqUWNiVjRFX3d3c3Y5RW52RUZPaHAtd1pXVV8zb0wwTl81emExVV9sNDkxT2NNaFF6UTB4cGtlMnlVNWJjNk44NTd2TmxrRlN4Q0tPbXFvdEE4Szg3REVDNmU0ZG9abUtFSElhYlE0eGJlTWswRFJHRGJSSDFnSDhkQkJrazVEeU5DNE51MlNNb0RRNGVtdGh2UzI2WXNOSmYwdHNBWGFGUlF6SWNpR0JJVUx6RXM2V2hrN25JUkhmQ2dkZENUNHhDR29ESEE?oc=5",
       "pubDate": "Wed, 09 Sep 2026 18:30:00 GMT",
-      "feedSource": "google-news-texas",
+      "feedSource": "google-news-race",
       "raceScore": 16,
       "matchedKeywords": [
         "talarico",
@@ -256,15 +255,15 @@
       ]
     },
     {
-      "title": "Former North Texas GOP elected leaders back Talarico over Paxton - Dallas News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVjI0NjdsR3pDZXlueUVZZ3BRcXJBY0VtTjFwMjFidHNoOTIwcHhkZzdsSHlubllKRm1JMnU2NkJveFF6RTFDTEcyZVZ5WXloeWQ2RS1Qa0pzajcwZ1k5ZHpGLTFlV2NYZTB2SS1NcFlBVTJPSlZSem5RYTgxUC1UczQyXzI0c1ZpN0UwLXRlVUdRcXlEZWlUT0o2Q3BVR2NaZlRjX2xOQTh2NTg?oc=5",
-      "pubDate": "Thu, 10 Sep 2026 11:08:12 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 15,
+      "title": "Talarico, Paxton face new Texas Senate poll as Election Day nears - The Patriot Ledger",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaTRNUjFndVFTLXhlVzEwNy11MGVTZEl3N01Dai1QeC02OUh2aWhiS0I3Q2F0aXd2NHREY2JjSUFnZFlKU25jLVIxM3o0WGpyVjA4VkgwYV9raEJfbVRLcDB6M1FhWFhoa052SHA2N2dQdk9ONl80QzdSTi1zSVV6bUFpMEtneGtfUGlpcGloQ08wZG9pNmRhcFFmNVFjdHB3SnB5M0NSZDdZUlN4NDZTcGY1SE9wdmR1VEFQdnJVWVpFRTQ2WlBsZ290VW1lYmt3X0E3TXVWSGw0UTBkOFlpN3VybXFrUQ?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 18:30:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 16,
       "matchedKeywords": [
         "talarico",
         "paxton",
-        "texas gop"
+        "texas senate"
       ]
     },
     {
@@ -280,6 +279,18 @@
       ]
     },
     {
+      "title": "Trump backs Paxton, mocks Talarico at Texas Republican convention - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNLUpQY0RlenRPTVZqaDhPc2E2Tzc4QjlhQ2RtWVo3YzRndURVaWVENXVBSUotQWprMVBnUll4SDdFZmRCOGZiZ2Rxejhua0lFb0duZXdsVDFoZ3JZOGxkMHh1b1hiUUdkYnFmM1VVV0c3LV9GcV9tcXljNDh3cXI4aEZjOHgxbmVwUVRwREF0ZnFGaXozemR4Y2FGdnFydTlsam1Kem9lWFdkVXJyRlZXQzkwcTNLRzVCM2NwX25Wa2pMUGJuU3paS3dUak5SV1l0YzJvT0hkNHBXMFN4aWV5aFBaZw?oc=5",
+      "pubDate": "Thu, 10 Sep 2026 13:13:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas republican"
+      ]
+    },
+    {
       "title": "In Dallas speech, President Trump vows to come back to Texas to campaign for Ken Paxton - Dallas News",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbER1bUx6NzAwRU9wNUF6SGg3VVdVSk5iUDc1QnFIVnRFNzk2aERnU2NZdmRwQVJGOGUyTmlUSXdJTlVmMWowTmRlVG1KNDM2SHZ2c1hFNTMwbkV5dFkxRWpVdy1fSW9GdERSZlIzNUlNWUs0X2E4R29hZC1pOWZSWWdXempyYTB1dmVobnAweDRzVmlUUC11UGF2bDU?oc=5",
       "pubDate": "Wed, 09 Sep 2026 22:44:40 GMT",
@@ -291,9 +302,9 @@
       ]
     },
     {
-      "title": "Texas U.S. Senate Candidate James Talarico Makes Announcement - c-span.org",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNkFLeHNyZnVjSlNCc1JnZDFRV0VEWFgxNDUwSTRDN2ctNG9iS2N4VEJoUWxqTW1RaXVWWXJsbHhRbjR0SE8tNUZxRjhGd1RLQy1tdlV6YnNUdUlZVXZ1aXRoYm1IWXhCV3d5WUxaWk1RTEFyQmVJZzdFUlRIT2txNzJ4N1BHZm5rNk4zczlEYXVJcDNwaVZzZWVwcWw0eXd2UUtfY294ZXd2aUJlamc?oc=5",
-      "pubDate": "Thu, 10 Sep 2026 04:00:00 GMT",
+      "title": "Jimmy Kimmel’s interview with James Talarico won’t air on ABC, will go to YouTube instead - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOMHZRY2x0SEdjYUtSa194SGdUNnhsLXl0X1lrVkdsTVR0SjNqS1llc1EyY2FqblZFU01QNTRrRlR0ck9PQUFHclM4ckIydXU1b3lBWUg2UkM1UDRacGxtZk9aOHRiSjR3ajlnMjhYRmpnWjVBS3VodTVlMHE2ZFlfWWJoYWlyT2UxZmV4eGJEa0NhckZzU3hWZUZpVjdTMGEzajZabXktVmF0dXZmUjRiX3U5NUozWkxlaUZld0RzUmdlMlNLX2wzc1Q2TnJ5Tkstcl9PTHFueXBLTVdtUXFma3Nnd3B1azZqeERWZ1lWTXdyMGZGZWRRSG52MjF3SWkxdVByN0tpaG4?oc=5",
+      "pubDate": "Thu, 10 Sep 2026 15:24:00 GMT",
       "feedSource": "google-news-race",
       "raceScore": 12,
       "matchedKeywords": [
