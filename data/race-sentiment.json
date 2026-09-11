@@ -1,9 +1,26 @@
 {
-  "analyzedAt": "2026-09-11T20:44:48.804Z",
-  "newsFetchedAt": "2026-09-11T09:03:11.011Z",
+  "analyzedAt": "2026-09-11T23:05:41.736Z",
+  "newsFetchedAt": "2026-09-11T20:47:26.825Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Ken Paxton dodges confrontation while slamming James Talarico as weak - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOWtNWTc5bTJBNjNRMWhtUnhFVkNod1o5eWllemNOTXpMQWdFMWJGaGo2dkd0X1FhMUZEZnJjTkhCR0c3WkpDMjF4eUpXUEx5OG1OTXd1QUxGeWcxUlMtQTFRMWU2Vmg4YVBaOHBobVBnSFpfUUtyRk1oazNxYjZpQktnN1hGWng2c1NCNm9VS2RnVHQyQjBrRVR0S1QyYTdwMy1McFZjcUR0R21NVlBLRU9PNzFLa0pmcFE?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 17:24:55 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W37"
+    },
     {
       "title": "Ken Paxton Uses AI Deepfake to Mock Opponent’s Faith in Texas Senate Race - The Eastern Herald",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvcngtUEpUOFZ5YlNPeHJrR2I2RjZha20tSnJrS09CV3lxcWpiaFVFc3ZSM2kwcnh0eWhfMlZPQlQ4em95VEtHUk9rWXFHRVQwZ2w3cXRGbURsa3VhZGc4QXRhZFZxbFBFTGZwb00yYlZoaDZOdlE?oc=5",
@@ -1717,25 +1734,6 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W36"
-    },
-    {
-      "title": "Trump-aligned super PAC to spend $10 million in Texas Senate race - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZWdIMllTakVZY1REM29XTmoxb1c4em9aZUx3TXNBQjUtRzVDZVE1UjZFMUtnbVJWeWVMLWpzcEdiNnVLSVlLdFhRdFJEMlNnZXdnTVc0TG9jTUhZU21aU1NnNi1CZm5hTVBDOGVuOTlBZmVnOVFWdWNGdklUQ09kUmhyZUpSclZFY1JQdTZ0SkR6aVprYjRMR0NJU2hCaVB2YzJuSnYxcnU1QThkR281T2F2M04zMEhGMjRvdHFRMEJrbGpBRkE?oc=5",
-      "pubDate": "Sat, 05 Sep 2026 19:30:46 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.108,
-        "negative": 0.892,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W36"
     }
   ],
   "weekly": {
@@ -1747,8 +1745,8 @@
       },
       "general": {
         "positive": 1,
-        "negative": 6,
-        "total": 7
+        "negative": 5,
+        "total": 6
       },
       "talarico": {
         "positive": 0,
