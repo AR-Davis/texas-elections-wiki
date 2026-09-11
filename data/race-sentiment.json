@@ -1,9 +1,97 @@
 {
-  "analyzedAt": "2026-09-10T22:22:11.068Z",
-  "newsFetchedAt": "2026-09-10T21:49:32.542Z",
+  "analyzedAt": "2026-09-11T00:24:22.503Z",
+  "newsFetchedAt": "2026-09-10T23:54:04.797Z",
   "totalAnalyzed": 100,
   "newThisRun": 5,
   "stories": [
+    {
+      "title": "Poll Shows James Talarico Leading Ken Paxton in Texas Senate Race - SuaraGarut.ID",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xdDlleXhHRHVKNm5zSWtCeks2OUJZMmVxU2J3aVpSWHdEWVdHbUE5MHNlMFRkZnBEU1RadzI5T1RrX2hLM0cwVXU4cFRid3pNOFdtd3ZyNnFOa3NTTU95aTNiZ2xUVEcycEpKRC1VVUN6R1cwMUpTZFVpRXNzSUU?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 23:38:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 38,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "James Talarico Clarifies Positions on Border Security and Identity Issues in Texas Senate Race - SuaraGarut.ID",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJMHFseFpBLUVTd1MtZnR3WU9RLVpPMVlpOFVaN0ljaVJBdUFXTTN4d3I0dFZhRU1hb1FHSkc2NVZLbDNBMGh0ZEhQTG5DX25VcHB4WXRsWERYX2p4bXN3OFp3ZERmdzRJMk1pb25sZzFvQQ?oc=5",
+      "pubDate": "Thu, 10 Sep 2026 03:46:22 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W37"
+    },
+    {
+      "title": "James Talarico edges Ken Paxton in Texas poll as GOP midterm convention opens - eciks.org",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXMTk3M2t3cEF2TFJZd3JoTGFWOXVpOUt2Y2gybWlSMEhQZmpKb20zTkNCVHZZRjdqa2p5QUlpdHRVazhwVUtkTDRhMWRWWTgzX1gtLW56bGg3QjRIcGJkN0pIS0JQRjA?oc=5",
+      "pubDate": "Thu, 10 Sep 2026 12:42:06 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W37"
+    },
+    {
+      "title": "Republicans hammer James Talarico at Dallas midterm convention as new poll shows him leading Ken Paxton - WFAA",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQN0d3TUhvemhiNW5Hd0IyRF9mVHlTczVBal9KaENsdHpCbFVqZzY4aThpejVLUV8wZ3k1d04wTFBGaXM4U2Ywd3VxMTlBV2pPSk5Wd3FJX1BJSlZIU0tyX0lMUXc0VkhQX3VLTE1OdnNUZktlVXhwTURfM1FfV1RIWEMycUN3ZzNVMHdxekU3WU9HM3hRTmk3VGRMVmMzelFFM0FPLUNxX1BxVk03UFozNy1McDExdXFfVldnNUhxbThDenFUMjRNVzMtdDZiSVlyaXp3OEdiUk5laklmbDU4YkdMN0pUWWl3TngzT0dtbkxwcmlSU09VaDFDb2tpblpsaDBpbUtKVlVJZGJCYlRFWE9oT1BGbmw0UTRaSVhnSC1IdEk?oc=5",
+      "pubDate": "Thu, 10 Sep 2026 02:31:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W37"
+    },
+    {
+      "title": "Texas Senate Race takes top billing at 2026 RNC Convention - wtvm.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX3laempidV92WEotTlFBVndUNGJCRFUzUHlta1VCdjZnNVB0SGhrQlBFa3c2Q3JjMVNqZjlJbTBKVWU5WDd6RlpJcVBhcHJkY2tkZld0S0U2QlpUUTVjLVc5MUtuTDJ6NEdMYm5vam4wdEpBa1J5Vm5qcGpkTGdFTUtrTWlHcllfVEI3Q2NVRUNwTGZiNTNOQW5n?oc=5",
+      "pubDate": "Thu, 10 Sep 2026 02:02:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "general",
+      "weekKey": "2026-W37"
+    },
     {
       "title": "Ken Paxton faces scrutiny over financial disclosures in Texas Senate race - eciks.org",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqZFhWeUtDdGtaWndwVHp1SlVsb0twNVdjMzVaQjEwRzFBRHM5eW1rWlJWTEliYlE3NWVSUlRkamVaMnJDQ0ptVm9aSzJsNy1GWllxQmxmei1lMlEybWVaNV9fT29rUUF0ODBRaGNQcU9NLTlzeDY4?oc=5",
@@ -1651,108 +1739,14 @@
       },
       "candidate": "talarico",
       "weekKey": "2026-W36"
-    },
-    {
-      "title": "Talarico Brings a Touch of Trotsky to Texas Senate Race - Real Clear Politics",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU1E1M2NyVzhQMVdjLTYtbUUwM2x5bXp3ZS05NDBoM0l5QXZ1Q0hJZEFMNmpyYThCbUE4WWNvcUh6eEZZV0o2NE4xZmk5ejdIRGstaWN2XzFVeWNzenRZcFBiXzBJQVN4azZWQlowMUlEa1dTcUhHdkYtXzd1N29GdlBhT3VldDdETU1GRjdsMUJ0dGRGS1BydEs0RDQ5VDB1dmNleWwzb2pGVFlzNC1YZU9R?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 11:39:03 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W36"
-    },
-    {
-      "title": "Talarico aims to rally rural Texans to cut Paxton’s edge in Senate race - Longview News-Journal",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd2xBa3RaLUhnMjN6emtGSmQ4cmVDSVBrQUhHVEVWNWtyQndKM0VqOVQ5TGNfTlBKX1A3bnRLZmpYZHBpMThlaG5zQkk3X3RkVlE4cEpKTzBFRkl1b3J5NGk0Vi1HR3RFbUU5c3c0TFUzbFlqdGZoQU5iWjhPNUJlZEp2eWJvNDE2cUMxWXIzckVRYm52RE9MaEVuVjFsaVJPQ0pjbjdIeGFLZk0?oc=5",
-      "pubDate": "Sat, 05 Sep 2026 10:43:09 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.659,
-        "negative": 0.341,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W36"
-    },
-    {
-      "title": "The GOP’s Texas-sized Ken Paxton dilemma - Washington Examiner",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMXJ2SGcwelV0X2owTndSVkRWQU1XWi1wMmRpZkxIZTFEOVRUMUlxamhVY0ozcXJmS0RaY0pXSVhrUkFtUHpDYTVwejYwRVpsREZOWFQteURRRmtuYW1EcXpyZHBzRDVnLW9uLVBYQ2xXR0hZcnF4RWpSalNkeTdCendXLU5EQ09yUjVQOVdDQU5UTW9hVml0LUJrMDRUemFxVGZEaHpSM2pVS19KVDAwaWpaZGFnQQ?oc=5",
-      "pubDate": "Sat, 05 Sep 2026 11:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.085,
-        "negative": 0.915,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W36"
-    },
-    {
-      "title": "Finally, you can play as Ken Paxton in a video game about Texas politics - Chron",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQUZ0dUhFaWEyZEw5VUNQRDZFY2wtWDJ6VkswWVhrVGJrTzlLNk9XU1FsTzl5WjVSQ3h3WlNqaEQyMWtPMEhkWERaUWRTUVdqQzFTT1R0cnMxN0VGeXRrQ2VqNjZ6SlhiSE80dGlfYlBqcnk3UkRtajdQSFUxTEdfaWdaRzI?oc=5",
-      "pubDate": "Sat, 05 Sep 2026 12:03:10 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "texas politics"
-      ],
-      "sentiment": {
-        "positive": 0.964,
-        "negative": 0.036,
-        "label": "positive"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W36"
-    },
-    {
-      "title": "Paxton warns Texas Senate seat is at risk, urges Republicans to turn out and donate - Texarkana Gazette",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS2RIOHJFc1BNZ0JEV3UyUWNNWXl1dndYUkNGbmx3VTFVY0hpLWZHOU9tNXZOY3F5YmpiMzI3WFExbmQ1X0tKbEJkZDdjdVhXRVg5WVN5WVdBS2dFblZyRE9lNjhXT0J1cTVrQWlGdm5tNkRXRS1adHRsNzNUYWtEa2poWmQ1bjctNmhETHZEdlVXd1NZd091elI1VjlFYnM?oc=5",
-      "pubDate": "Sat, 05 Sep 2026 09:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "texas senate"
-      ],
-      "sentiment": {
-        "positive": 0.007,
-        "negative": 0.993,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W36"
     }
   ],
   "weekly": {
     "2026-W36": {
       "paxton": {
-        "positive": 5,
-        "negative": 16,
-        "total": 22
+        "positive": 4,
+        "negative": 14,
+        "total": 19
       },
       "general": {
         "positive": 1,
@@ -1760,14 +1754,14 @@
         "total": 8
       },
       "talarico": {
-        "positive": 1,
+        "positive": 0,
         "negative": 4,
-        "total": 5
+        "total": 4
       },
       "both": {
-        "positive": 4,
+        "positive": 3,
         "negative": 6,
-        "total": 10
+        "total": 9
       }
     }
   }
