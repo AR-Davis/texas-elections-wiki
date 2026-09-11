@@ -1,9 +1,44 @@
 {
-  "analyzedAt": "2026-09-11T05:02:27.835Z",
-  "newsFetchedAt": "2026-09-10T23:54:04.797Z",
+  "analyzedAt": "2026-09-11T09:31:51.443Z",
+  "newsFetchedAt": "2026-09-11T09:03:11.011Z",
   "totalAnalyzed": 100,
-  "newThisRun": 5,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Ken Paxton Uses AI Deepfake to Mock Opponent’s Faith in Texas Senate Race - The Eastern Herald",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvcngtUEpUOFZ5YlNPeHJrR2I2RjZha20tSnJrS09CV3lxcWpiaFVFc3ZSM2kwcnh0eWhfMlZPQlQ4em95VEtHUk9rWXFHRVQwZ2w3cXRGbURsa3VhZGc4QXRhZFZxbFBFTGZwb00yYlZoaDZOdlE?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W36"
+    },
+    {
+      "title": "James Talarico needles Ken Paxton amid GOP midterm convention - Washington Examiner",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbzNhQWZueUd6Y0VaQzNxTVpwb09vdkszbzhtSkxmclp5SDRWYW4xMG1lZWw4TVRNWnFwX0tKRV9vVTZzVk5mbXJFamlidjZfUGc2dzZmbmsxZU8tOVdyelVFOGZGTnI4VUJFZjJsYm4tNWZ4UUh0Qlc5S2FkX0FwSnFVWHdEa25Ic1lCanZYcUE1MzlOSDNfaFJ1ZWRwcG9jVGl2WEZwN05oMnZVcFIzSk5taHljZ2Rpd1Jz?oc=5",
+      "pubDate": "Thu, 10 Sep 2026 20:15:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W37"
+    },
     {
       "title": "Poll Shows James Talarico Leading Ken Paxton in Texas Senate Race - SuaraGarut.ID",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xdDlleXhHRHVKNm5zSWtCeks2OUJZMmVxU2J3aVpSWHdEWVdHbUE5MHNlMFRkZnBEU1RadzI5T1RrX2hLM0cwVXU4cFRid3pNOFdtd3ZyNnFOa3NTTU95aTNiZ2xUVEcycEpKRC1VVUN6R1cwMUpTZFVpRXNzSUU?oc=5",
@@ -1701,44 +1736,6 @@
       },
       "candidate": "general",
       "weekKey": "2026-W36"
-    },
-    {
-      "title": "Trump’s Super PAC Will Spend $10 Million on Texas Senate Race - nytimes.com",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQckNLRlU1bDlVaHdSNXQtZ1V5SGlwQ1QwNVgwRW8tSnNuQkhnYlFXelJZcUJyZHpQQ0RsZjA4MVdIbjJ2ZnNiTTJMamY4UjUyZXhWWDI2SHFjOFMzTE9vcmROVTRNaldaVFV1VDlVTTNQNnlaZjFKcDZPZXNtRGhZaHpn?oc=5",
-      "pubDate": "Sat, 05 Sep 2026 19:20:09 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.012,
-        "negative": 0.988,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W36"
-    },
-    {
-      "title": "‘Brown Men Headed to Work’: Texas Senate Candidate James Talarico Gets Torched Over Latest ICE Attack - The Nerd Stash",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTkNQemxuZ1RZNF9iRDVJY28yeDM0RF9WM0R0TWNiNzNxUXZ2OVI3TDdwYmxtRV8zZ3c1a3RfLU5WRnEtSWpqbFlvZURXOTRCRkpwd2FjbFhZaURTZ0VqTkhnSTRWOF9BSzZjSmwyNmxHaVdEc3NZSURYRU1oQy1aS2lXTDJnNEFhSHZVTXFESzVPNU1GSnpzSnFkNzg0dEtKTEtsVm03RW5UWUF3dU40dEtMMUU1c0FtWGloY2x4MVlPZw?oc=5",
-      "pubDate": "Sat, 05 Sep 2026 12:30:53 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate"
-      ],
-      "sentiment": {
-        "positive": 0.007,
-        "negative": 0.993,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W36"
     }
   ],
   "weekly": {
@@ -1750,13 +1747,13 @@
       },
       "general": {
         "positive": 1,
-        "negative": 7,
-        "total": 8
+        "negative": 6,
+        "total": 7
       },
       "talarico": {
         "positive": 0,
-        "negative": 4,
-        "total": 4
+        "negative": 3,
+        "total": 3
       },
       "both": {
         "positive": 3,
