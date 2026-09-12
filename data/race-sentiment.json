@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-09-12T17:22:46.555Z",
-  "newsFetchedAt": "2026-09-12T14:18:42.659Z",
+  "analyzedAt": "2026-09-12T19:35:09.946Z",
+  "newsFetchedAt": "2026-09-12T17:23:06.981Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Republican leaders are targeting James Talarico's faith in key Texas race - Dallas News",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMVF0cGZpNjY0VUV6OURHc3RHUHpPSlFBX0JEYVBleWVpdzdwNkpiOGFscHlhWnh1NlBwSFZSVXlrV0UydC1rWTNqa3U2NXFIakxhMGN3LTR1R0V6el81NndVNWVSamdYZXhvaEJzTDc4ZEpYbFFiU0g2REh4TXdDb291MzJUdjkyNlpqZjRtQmY4QQ?oc=5",
+      "pubDate": "Thu, 10 Sep 2026 11:04:07 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W37"
+    },
     {
       "title": "Ken Paxton’s New Anti-Trans Attack on James Talarico Is Literally Fake - them.us",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FVHNUMFJWQUpfUEJmaGFOdXJGYXl4V085T0NWWkRRdHNoRmRjY3VYOW9jUWQzZFN5VTVra281al9CNVFRZ01BMHlIOFFrWlBIdUJNd2twaENUbmhUTlJWX1AtNkZoRktBSWpIOFZ1UjA?oc=5",
@@ -1691,25 +1706,6 @@
       },
       "candidate": "both",
       "weekKey": "2026-W36"
-    },
-    {
-      "title": "A closer look at how Talarico and Paxton could fare in crucial North Texas counties in U.S. Senate race - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZDNwUGE3YTNJeXhQZXk3VGtQZ0pIdVltaEJFd2N1anBrVVNWSjhUYUN5Z2hCRHIxMVFiSGYxSkloZE5jRHVoTHltaVpNWVczeWh3eENQbmVqbWh3VWRuemJnbno4MzF4UzVJMVRCM1NRTXF3bENmUDZRblZqOXl6SHc2cXZoM2hMd1lzc0Z4RW5QbG1laS1SOEdJUzhuU1FfRGNIX0oxbWJScEhzY0gwZzV0cWdsazd0UFFnb0d6NEltYXpBV3RLTkczUzRvbmZ3QWFR?oc=5",
-      "pubDate": "Sun, 06 Sep 2026 10:00:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.998,
-        "negative": 0.002,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W36"
     }
   ],
   "weekly": {
@@ -1730,9 +1726,9 @@
         "total": 3
       },
       "both": {
-        "positive": 3,
+        "positive": 2,
         "negative": 4,
-        "total": 7
+        "total": 6
       }
     }
   }
