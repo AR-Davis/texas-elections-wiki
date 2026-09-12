@@ -1,9 +1,25 @@
 {
-  "analyzedAt": "2026-09-12T01:24:51.752Z",
-  "newsFetchedAt": "2026-09-11T23:07:30.979Z",
+  "analyzedAt": "2026-09-12T06:18:37.793Z",
+  "newsFetchedAt": "2026-09-12T01:25:49.235Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "James Talarico highlights GOP support for Senate campaign | Inside Texas Politics: Sept. 13, 2026 - WFAA",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOMW1jZDkzRTdMbVdldEQ1U2Nna2tza1pJeEMzUmY2LU1KOVpYd29LN2hXd0paXzRWaDg0bF85amJrQzFtV21FWVFBSjRBN005cThUZFcza1hsRWtZWGIzS2t2aGxXRE1FMVNEc0NFOHE1anZsaW5aajlMS3hLY2x0MG9ZQXZCMXR1UU9NODBrNFdfTk1BM3RaTS1zd0F0N0FwX2E4ZEx2TXJSdDVRQ2VqS0ZoNGVrbUNBaldLNlQtZmRYR1duVk5BM0w3V2NFRnBIMXp6c29mTl9yeE0wdWV5clc4dHFKRFlOQmdJY1dDVGdCVXViMWlFX3I4S2ptdHZHS0hRR0lKTEJlc19rUFZLUDB0VHZGeS1QOHc?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 22:57:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas politics"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W37"
+    },
     {
       "title": "James Talarico’s rise sparks debate over FCC and Texas Senate race - WTMJ",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTU9ONDZRQk1hdjlMdGFkYUdPeGF1cnotSUNkN2Y0X1g5TkQxYmFmc1l6Q3hMTXdfc0Z0THFneG00S2hzaGxrWXZhUEdvYlRyQzR1MGU5SHdQMVZ3OEFoY2tkcE9qVDNYZktwUjc0SDFtbjlheVA4VWVtMUFIS1VVUnZhWkVnd1NuOEhsa0UxblJhQTZKbXVj?oc=5",
@@ -1712,34 +1728,14 @@
       },
       "candidate": "general",
       "weekKey": "2026-W36"
-    },
-    {
-      "title": "Trump’s super PAC drops $10 MILLION to boost Paxton in Texas Senate race - thepostmillennial.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPakdqUk1QNmp0M2VOblI1aDk1NDVTbHdiRFBFQ25OWEt1aGJJanZnLS1IOXRwZ0F4VFpOaE10RWFBYWJNaVk0TEhxeFA4QlpxWnZGYzEzWFBIcS0yRTNCRDVETHd4Z3hfUDB6VUZLcVhZeGZqd0hFRHA2akNYMTUyQ01jeVl1TVZRcm1wT09ZSzVWZFZoVzQwSWtTb2V6Y1k2Unc?oc=5",
-      "pubDate": "Sat, 05 Sep 2026 22:22:50 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.001,
-        "negative": 0.999,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W36"
     }
   ],
   "weekly": {
     "2026-W36": {
       "paxton": {
         "positive": 4,
-        "negative": 13,
-        "total": 18
+        "negative": 12,
+        "total": 17
       },
       "general": {
         "positive": 1,
