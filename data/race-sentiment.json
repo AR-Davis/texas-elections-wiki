@@ -1,9 +1,54 @@
 {
-  "analyzedAt": "2026-09-13T04:07:31.426Z",
-  "newsFetchedAt": "2026-09-13T00:10:10.655Z",
+  "analyzedAt": "2026-09-13T09:40:27.725Z",
+  "newsFetchedAt": "2026-09-13T05:15:37.965Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "State of Texas: Paxton and Talarico in their own words - KXAN Austin",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUFB4cm4yczZCLTl4QlFPMGhRSFBYSTFYZ2hFYzF6aHlCSUotYlV6ZGh3MkZMQzllWTlKWUpGWWVwQnk5dzJ0SjdYUl9INUZ2RWxYZ0FVVFNDNHZGd2NON1RLRHdwUzZMN0NaZkxNOVdpNHdYWll6eHlsX1JjUmRUMGp4cXg2R2lQMHNlVGVDcTNZYWNo0gGaAUFVX3lxTE1LQ3VVbnJ1Z1JNOWdBc1BSNGRScEttbmV0OTlTQ2hZdTRlTDFmeTd2RXU5d3lUajdmYXpHYk1NWjY2X1FkM2hPLV85cU1fQ3BzWlZxSHZ2VTJqX0lfSXZ6TVc2R3JDZjhtRVUwd3VIM0I4TFRPYXFBclFhdWw0RGV0bl9PdEE4b2dYWUNVcEY4MHFOSEtNRmNZTlE?oc=5",
+      "pubDate": "Sat, 12 Sep 2026 23:00:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W37"
+    },
+    {
+      "title": "J Vance Targets Democratic Senate Candidate James Talarico In Fiery Texas Convention Address - foreignpolicyjournal.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdUM4R0k2YjhORGlZNERzb0ctdFMzZi1vMnptdk9KakdNR29tUlNPbVREMU0zTk83cF83VmJwWXl0ZlJJZTcxVnJxM0NDTEZFcXJfeENWT0E1Qi0tX1ZoQWkzRERWckJtMWZhRVNKNE53QjN5bnU0ZXVOdmVrcFB1Z3VWV3FCaUJla1JDWERkeWgzT3ZMNkFlN19oLWpOUWxDVFViU2dEVnZqLTNWQmtIWlExRXQ4NnNVVThnakM4VUNiajhRblJIUk84amlKMzJIOE12XzJUVVI?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 15:14:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W37"
+    },
+    {
+      "title": "Republican cavalry arrives for Ken Paxton as big-bucks Texas offensive opens cash floodgates - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUlZTaU5tVlpsdkpTRkQ5eTc1QnZ0V3hIaHB2UjBiM3REMnlKbnRpT3ZQRE1GRUJDY1VkUHdWQmFveFVIQnF0aEttdG1EbzFjdEMwYklxcU05M3ZIRGozYVhvMlJILWd6bGpnRF9IR2NrSFFNVy1oSDRfWmZvYUNvSGxzU1VVbnd2WTVhcFIwRE52UXlLODB2dUdlS18zM2I5UFphOG1lcUVLbjhyejFMeVBFdzZHeWo1dHfSAb8BQVVfeXFMUFlETFVtbFFXQW9RT1ZKTE9MMVJnM2dSR2lHYVdKLTVGWnhqdFR4REZSUGdhQUtTdFhLYU83Rlprc1hrb2syckxqUUtkTEwydndrUXJQSDd2UXRQWmhHc0pTc1A1dVYxZy1rV084bkQ2QWszZzBVV3h5UUFxZERvZUJ6VEZfeEFaUG5ydjdRWTNfeEZsMkk1M3RZamtMdWFVeFF3b2VCdUM2bVRYUjB5Y2p6Mms4bF9yeVdJNUxTWEE?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 09:00:56 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W37"
+    },
     {
       "title": "Trump critiques Ken Paxton's looks, style while endorsing Senate bid - El Paso Times",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRnFZR29TdmhhTFozeEV6UFQyRWlSdzZCbFdZTk1SMGRmTy1JZm05TzU1VFcwQmRVNFFaSXFVYmFsSHViekJGYXFLS2lYX0dYdVIyWl9kazk0dU43aWhTVEhXbG1WSVl1bnQ4S2haRGNTT204OGlNZENIbmpqRmxzZmdzU3JrcG1oTFRtU0FuQmxxdzc4YXJaUGc0VDhQeWRfMkl1anhsaVVkclFHUDJyU2lQYUpqaF9uRV9VNGVqQ2ZhUU1URElaelZGYVJaWVpYT3VKc2w2UEVxZE8yT25DQl80dFhFT2s?oc=5",
@@ -1626,71 +1671,14 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W36"
-    },
-    {
-      "title": "Musk has started spending money to help Ken Paxton. Will it help change the course of the Texas Senate race? - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM1JSZE0xQ25GZnhxaEo1WWRqSDNxR1E0UXUyMjZqcGVjc1JQdDhhQ2JuMTVodkdnRkZ5M0RtMFZzS3VBMzQ0VEQwdUZwLTE0eURDamZaZjBGdzVuaUNaVllaSFEzc1J0SnVLVkU5M3dSZ1FRc3ppcksxZENHQlp1R3hicThDaTE5Slo5bDZMM2ltWWR0cVow?oc=5",
-      "pubDate": "Sat, 05 Sep 2026 18:13:04 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.013,
-        "negative": 0.987,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W36"
-    },
-    {
-      "title": "Desperate Trump drops $10M on Texas Senate ad blitz as he battles Talarico's increasing poll numbers - The Mirror US",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc0N0bkNBTzdqZk5zbU5tcnRxaGV0cWtaemFjd0dBOXpMcTN3SzZ0N1hzaTMteElZSmQ2V3pwQkgzcHRYR0lEQXM1bGlrOThXQlVKQWJNTFQ4SVBLV0V6dU9BT0ZzNXJsa0lqQmJtX25DMnpTYXBTNDh5eW5MTWlURTh3dVR3d9IBiwFBVV95cUxON3JaRkZiTW5EY1Q3MTE0dENwTkpaSmJWak95anoxdEY1b3NaSlJZaG9yWUpzM2s3ZG9NdU5sbmgtcHEzbkJMZDJIb0tkUHRVTHRmWHU3d1M4NzdSczdMbXpNM2hfR2JSdTlYbF9JbWtNTTFHQWw1c0U4WF91NDNlbnpRaHZRWFNzYmZn?oc=5",
-      "pubDate": "Sun, 06 Sep 2026 15:39:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "texas senate"
-      ],
-      "sentiment": {
-        "positive": 0.001,
-        "negative": 0.999,
-        "label": "negative"
-      },
-      "candidate": "talarico",
-      "weekKey": "2026-W36"
-    },
-    {
-      "title": "Could Control of the Senate Hinge on the Race in Texas Between Paxton and Talarico? - The New York Sun",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWXFNeHZmRzBsa2s2YWFKWjlPV0VyaV9tWnNETFdhdjAydjFhbHQ2LXo2RXFJeHRtdjYwMGhBb21HU0RxYzFFNER0UXVRN19mWkF0X1VjcGNmMThtX1RkZ3lZbF8td09HaHg3RmhaZXNGZEdmaHRuME9xZ255YmVNbWxac29fVjdDWEZCM0JqYjliQTFaS3hkWllDbnRNS3JzMXJOejBFdHNPWnY2a2FoU0lR?oc=5",
-      "pubDate": "Sun, 06 Sep 2026 08:13:38 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.005,
-        "negative": 0.995,
-        "label": "negative"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W36"
     }
   ],
   "weekly": {
     "2026-W36": {
       "paxton": {
         "positive": 4,
-        "negative": 10,
-        "total": 15
+        "negative": 9,
+        "total": 14
       },
       "general": {
         "positive": 0,
@@ -1699,13 +1687,13 @@
       },
       "talarico": {
         "positive": 0,
-        "negative": 3,
-        "total": 3
+        "negative": 2,
+        "total": 2
       },
       "both": {
         "positive": 1,
-        "negative": 2,
-        "total": 3
+        "negative": 1,
+        "total": 2
       }
     }
   }
