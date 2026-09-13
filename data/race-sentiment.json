@@ -1,9 +1,69 @@
 {
-  "analyzedAt": "2026-09-13T09:40:27.725Z",
-  "newsFetchedAt": "2026-09-13T05:15:37.965Z",
+  "analyzedAt": "2026-09-13T14:11:17.108Z",
+  "newsFetchedAt": "2026-09-13T10:31:45.840Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 4,
   "stories": [
+    {
+      "title": "Texas U.S. Senate Candidate James Talarico Holds News Conference with Epstein Abuse Survivors - C-SPAN",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbEU2TGhqcXdiYUJ3OFYxNzBXcEp5Zi1SWkJpVnRUYWpEbFd1czBWT3ZPblNRdFlFZVFqejFDb2RoM09nMHdSRmptYkZPVGwyTUgtNU5ON2tHNUFaVWlhLWtKTDF0T2lwZjBLUnVMZ3c4MFJBRXFhQXltaGZ5ZUNJdzdJOEpCRlB4YkQ3T1VzUHN6TFRxNnBUUWtQUk1hckk3OTlUMGdSNUxqVTZMT0dPZjd4ZGdzd1JBeXdyZ3V1Y2doSFBYNDlCanc1YldDbGVqam41ZEYxeFhUQVE?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 02:59:58 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W37"
+    },
+    {
+      "title": "James Talarico highlights Republican support for his Senate campaign, collects food for Texas families - WFAA",
+      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNNmhBY2pTQW5yckxZYnVfT0xGNlNCZjdsWTNjenBXSW5qS21rQ2VpMUJVaVZsVGRCTzhkMzh4akRKc2ZxQXZ3OFRjcEs2T3RLOG5Ub3FkZnBLcmJUWU5oVXlJZzZLRXRtelhtTUNoNXdaV1JjaXJDT2dYUU02NHlieGMyOTdKTTRBNEVKTjA1Yk9pRFJMNlhnVXZnOV84UWZ1M3B0RHlQVjhQMTVzWjdxXzY1dHVoclF0WlN1SXIwdEttdVA1dm5wOU1WeVVqQjdSMWtCaDhGT2hacmlncFZWM295Wndtb1hTX0tIX2pmbWthbk0yaWJJMWRTczMtU19QMFp1UDJBbjJKd1AwRDBuUkJ6YjkwMndCc0paZVpfS2NsLWVJSUNuNmRzYVMtWGl1TGtUQ2F2T3pZZDFP?oc=5",
+      "pubDate": "Thu, 10 Sep 2026 19:58:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W37"
+    },
+    {
+      "title": "Ken Paxton put out an AI-generated attack ad. He’s not the only one - Texas Standard",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uVFZPTWd1Vk1ESXRYRnJTSGxpYk45ZG0zb2dmWGhLSkZDaXA2ZWNpM2Z4aXBNQWtlSWI1R0xMVFlibEVOOVpfUEdobXU1QlhDQWt4amdzSnFsRkZ4TFY3ZzhwOTRVXzJqNDF3X0NEeW9acjRX?oc=5",
+      "pubDate": "Thu, 10 Sep 2026 17:36:52 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W37"
+    },
+    {
+      "title": "Jimmy Kimmel’s interview with James Talarico won’t air on ABC, will go to YouTube instead - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOMHZRY2x0SEdjYUtSa194SGdUNnhsLXl0X1lrVkdsTVR0SjNqS1llc1EyY2FqblZFU01QNTRrRlR0ck9PQUFHclM4ckIydXU1b3lBWUg2UkM1UDRacGxtZk9aOHRiSjR3ajlnMjhYRmpnWjVBS3VodTVlMHE2ZFlfWWJoYWlyT2UxZmV4eGJEa0NhckZzU3hWZUZpVjdTMGEzajZabXktVmF0dXZmUjRiX3U5NUozWkxlaUZld0RzUmdlMlNLX2wzc1Q2TnJ5Tkstcl9PTHFueXBLTVdtUXFma3Nnd3B1azZqeERWZ1lWTXdyMGZGZWRRSG52MjF3SWkxdVByN0tpaG7SAZACQVVfeXFMTTFHZVEteUZudU1OcUNfdWxteWxOWEk5VW9adTBXbEx2aEdTcWlfTXhEX2ZIU1lMU1lETktGM0x3MDMwRllWaG5KbE5uc04xeUMyR3NaamhPTENZSUY3ZmIyc0EzNGo5ekVRME9rMU12MGl4aXpBVmY5SUxTZEVsZnRlaUVONVJPRmRrbXBNRG8wSkcyMDZmR1RMOGxlOGtYa1dLS0wzV3hTQ01GazYxWkJPOVZoZmgzODFISlU1UkxIY3FNSml6S1ZZcDNLUVctcW5MUk4tbUVUS3pfejJzZEY3TU9Ca3lQUVk4eXVHbC0yT0VuWDhMN0hmeXNCVEJmVUlsYi1DRm15NUgyZlpCSmY?oc=5",
+      "pubDate": "Thu, 10 Sep 2026 15:24:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W37"
+    },
     {
       "title": "State of Texas: Paxton and Talarico in their own words - KXAN Austin",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUFB4cm4yczZCLTl4QlFPMGhRSFBYSTFYZ2hFYzF6aHlCSUotYlV6ZGh3MkZMQzllWTlKWUpGWWVwQnk5dzJ0SjdYUl9INUZ2RWxYZ0FVVFNDNHZGd2NON1RLRHdwUzZMN0NaZkxNOVdpNHdYWll6eHlsX1JjUmRUMGp4cXg2R2lQMHNlVGVDcTNZYWNo0gGaAUFVX3lxTE1LQ3VVbnJ1Z1JNOWdBc1BSNGRScEttbmV0OTlTQ2hZdTRlTDFmeTd2RXU5d3lUajdmYXpHYk1NWjY2X1FkM2hPLV85cU1fQ3BzWlZxSHZ2VTJqX0lfSXZ6TVc2R3JDZjhtRVUwd3VIM0I4TFRPYXFBclFhdWw0RGV0bl9PdEE4b2dYWUNVcEY4MHFOSEtNRmNZTlE?oc=5",
@@ -1595,90 +1655,14 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W36"
-    },
-    {
-      "title": "Trump invests $10M in Texas Senate race to boost Ken Paxton - Crypto Briefing",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcUVhaUU3aHlIRjhBNUNaSUN4V3BhSXVYX0tNY09paWdsNWs5V29aU01Ncy1aT2ljOTJLX3ctcGRwQ0w5cS1ldWhlaXYxQXJCQjBmNHdpVkRHQUhOc3JUUnctYXZIZUxkSV9CTzIyTXNXOHBiOVJTUUFDMG1rdmI1MVZLSFJrbGVvUTYzV3JyMA?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 16:21:45 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.099,
-        "negative": 0.901,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W36"
-    },
-    {
-      "title": "A closer look at how Talarico and Paxton could fare in crucial North Texas counties in U.S. Senate race - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSkJHSFNuaFVraGZVc3RLZ3A1RXJpT0ZZQzZVMXB3MThWTVNxTXJ4N1BMS24zOHExMXFObWdsb0FHQkFaYmhyQm9qMVVpZzR1V0tWeG9CWFp5TTZGcVlxblFQeGJwd2x6b25lRktpU0lCYzZ0cW55ZlE2dkNGZ2pkaGNvNVFxd1pHLWpzQnp1b2ZtTHU3WDRHRmVrZUZUajE2MElrMEh3QXNPcFdhemYxSVpfV3hzWlBVUGRxVzA4TjdOQ3JMNGIxLThTbjNwaFVMQXVZaDV1NlFCeU5qbUZadlB1b19NcGhwb1NYc1RR?oc=5",
-      "pubDate": "Sun, 06 Sep 2026 11:00:08 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ],
-      "sentiment": {
-        "positive": 0.998,
-        "negative": 0.002,
-        "label": "positive"
-      },
-      "candidate": "both",
-      "weekKey": "2026-W36"
-    },
-    {
-      "title": "The Seven-Point Gap That Could Save Ken Paxton - Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeUhCWGM3dG51cHk1cVI1ZW9Wa1pyeWs2NVhmdi1MSlVVX2NDNkNXN0hxQWRjU0NFaTh1NmMtVzBiNHd0akRaTVNiemtCZlNld2Z5QjhVYno3RkJRUWFEMDZKNTZuMGtZQllwY3BjU2dsQ19hRXlVOFN3dm1iOTdDVnhpa2I?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 15:48:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.007,
-        "negative": 0.993,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W36"
-    },
-    {
-      "title": "Election triumphs, a series of scandals dot Ken Paxton's political timeline - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVlGUDlUSDhmNnllbllSSHVTQlNIcE1iTGRpcHVsdDZfN29hTlJpdDVLSW1fM05zbXhHb2pIM0RqU1NZcXhNUG52ZzJReEVrRkhsLUEwX3JfSjViZWZwdDliZlljWVVBNHpPVWRHRzcxakUzakhrQjV4a0g3SXVzX0NGWjFoSTNlLUIwdFRwanNadmw3azJIQ1JBNXM1blBlTUM5UUZtMDB5bDjSAbABQVVfeXFMUDQyZ0RKenVWMF9sYkRyM0QxZnREc0E2SE96a2R1ZUlEYm1EaWYzdkNobkU5cFR0LVdmQkl0c2ZUYURrbm1oNmhFci1xeUlRYXZjUlBUc3hUTnlYNnJqd1JGeUxQNjF0WEhUV1N6eFhjVWFKRDJSLXR3NGd6X0kwc2hlUDhwVFpPNHAyU0FHdTJfOXNvREs1WFdGNTdJZHR4Y19OVTg0V084RVBGSDNobGE?oc=5",
-      "pubDate": "Sun, 06 Sep 2026 12:13:51 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.063,
-        "negative": 0.937,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W36"
     }
   ],
   "weekly": {
     "2026-W36": {
       "paxton": {
         "positive": 4,
-        "negative": 9,
-        "total": 14
+        "negative": 6,
+        "total": 11
       },
       "general": {
         "positive": 0,
@@ -1691,9 +1675,9 @@
         "total": 2
       },
       "both": {
-        "positive": 1,
+        "positive": 0,
         "negative": 1,
-        "total": 2
+        "total": 1
       }
     }
   }
