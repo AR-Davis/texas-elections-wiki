@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-09-13T14:11:17.108Z",
-  "newsFetchedAt": "2026-09-13T10:31:45.840Z",
+  "analyzedAt": "2026-09-13T17:33:30.222Z",
+  "newsFetchedAt": "2026-09-13T14:52:29.861Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Inside the Impeachment Trial that Threatened to End Ken Paxton’s Political Career - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQREdPSTBBRnE2VVNrZFRVQTZvWHUyWUZBUF83X3ZlaGFseU15c1NqNEh1Y3NMUlc2Y251QTZ5dWcyYmJsWWRoSDcycnc1SU9iR01UX2NWMF9wVlpIZ2F4SjZpLXdkZTdSam5PT2Y1ZW5WZmJEekpPN3dfNTdDOUEyeGtGdDd4X2NBTXdTNmFDUnA?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 12:58:45 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W37"
+    },
     {
       "title": "Texas U.S. Senate Candidate James Talarico Holds News Conference with Epstein Abuse Survivors - C-SPAN",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbEU2TGhqcXdiYUJ3OFYxNzBXcEp5Zi1SWkJpVnRUYWpEbFd1czBWT3ZPblNRdFlFZVFqejFDb2RoM09nMHdSRmptYkZPVGwyTUgtNU5ON2tHNUFaVWlhLWtKTDF0T2lwZjBLUnVMZ3c4MFJBRXFhQXltaGZ5ZUNJdzdJOEpCRlB4YkQ3T1VzUHN6TFRxNnBUUWtQUk1hckk3OTlUMGdSNUxqVTZMT0dPZjd4ZGdzd1JBeXdyZ3V1Y2doSFBYNDlCanc1YldDbGVqam41ZEYxeFhUQVE?oc=5",
@@ -1634,35 +1649,14 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W36"
-    },
-    {
-      "title": "Trump’s MAGA Inc. spends $10 million to back Ken Paxton in Texas Senate race - The American Bazaar",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUWtrQ25rZ05HQ0h6clZELWR5dHFSeTd1djAwMXFnOHVrMmxTcWpOTDAwLUxKZGdNVUxjRGMxNDRTM1BULWJfcENxa0V4dnpQZDZ2QTNDbV9tWThSZkVDU0pIeWtnQTFJYjNoRzlWbUNUX0hYWnV5dmlVazNjNlhCV3ZxQXVveDhNWjRSSUljRFhPX005aVk5bldPSFVEREl2SWw4UlpoaXItX0tjZGVCVVNnQ0lubUpQa0E?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 17:53:39 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": {
-        "positive": 0.016,
-        "negative": 0.984,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W36"
     }
   ],
   "weekly": {
     "2026-W36": {
       "paxton": {
         "positive": 4,
-        "negative": 6,
-        "total": 11
+        "negative": 5,
+        "total": 10
       },
       "general": {
         "positive": 0,
