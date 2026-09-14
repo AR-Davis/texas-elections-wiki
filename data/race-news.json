@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-14T01:27:50.475Z",
+  "fetchedAt": "2026-09-14T06:56:26.955Z",
   "count": 24,
   "feedsChecked": 8,
-  "itemsScanned": 90,
+  "itemsScanned": 82,
   "items": [
     {
       "title": "Texas Senate race: How James Talarico and Ken Paxton say they’ll make life more affordable - KXAN Austin",
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "title": "James Talarico’s rise sparks debate over FCC and Texas Senate race - wtmj.com",
+      "title": "James Talarico’s rise sparks debate over FCC and Texas Senate race - WTMJ",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTU9ONDZRQk1hdjlMdGFkYUdPeGF1cnotSUNkN2Y0X1g5TkQxYmFmc1l6Q3hMTXdfc0Z0THFneG00S2hzaGxrWXZhUEdvYlRyQzR1MGU5SHdQMVZ3OEFoY2tkcE9qVDNYZktwUjc0SDFtbjlheVA4VWVtMUFIS1VVUnZhWkVnd1NuOEhsa0UxblJhQTZKbXVj?oc=5",
       "pubDate": "Fri, 11 Sep 2026 20:04:28 GMT",
       "feedSource": "google-news-race",
@@ -51,21 +51,21 @@
       ]
     },
     {
-      "title": "Paxton whistleblower backs Talarico, dragging Nate Paul into Texas Senate race - therealdeal.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb2RZampybUw3RVlUTkw3SHkxaGFubG5QSzJwbmMtSTg3Qy1NR1IwbzkwbmpCZEszSzFraTEyc3gydG5kajI1OEdUQXRyNGpsaUdoemlicHRFQV9jOENIOTNtWFFpNzhNWVNuVnlqcTBmbjBwZS03UHVKVDlxbUgxMGJVbGg2aFU?oc=5",
-      "pubDate": "Fri, 11 Sep 2026 17:35:00 GMT",
-      "feedSource": "google-news-race",
+      "title": "Texas GOP Senate Nominee Ken Paxton Refuses To Debate James Talarico While Questioning His Masculinity - upolitics.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTVdNZVM3VW5jdlJzUngwd1JZVW9LNzBsNWhYRGlhSlUwR21MQVR2SUQ3bm9NUXF1UVNLYmlqeUhPWVBwTGNSSnhIYUFLRVcwZGozZmtENnFwRjN2cC0tRE54ZXY3MEhJNWdpSlNldmlvUFphcExwSmNiVG1hQS1YbExWSVdqcFRLdFZGdnM2NE1KWGY2QlNwRmhrRkd2RzRGR3kwM2VDdHVQcXlLekxVcHZsQW9PbGhMWXRTbjZBaUFGWlFXWXdvZndB0gHPAUFVX3lxTE1lV29kWlN3bldLSDRVOG1VVDV5VEJzTUlRTzhvcTUzenJhVUdXU0tQSWdPVF94ZDE5MzZBZjRZbTZiRW9iVDk1cDZPQndYZ1RzWjl4SGlGOTQ4eWhVNmRUWGZLSUNlTVpFNVlSbmVLcnRFdW56TEJsZWNMUk5QTXp5WUFfUVJQTkRRenFBNjdzZXlLOUJBYXNiN09rNVdMN2VNN29yQWtlNXhTM2k5QW00d2F2WUtwemZYT01wODE4Z21FT3VTUGNpNXAwaGtqMA?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 01:26:35 GMT",
+      "feedSource": "google-news-texas",
       "raceScore": 26,
       "matchedKeywords": [
         "talarico",
+        "james talarico",
         "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
+        "ken paxton",
+        "texas gop"
       ]
     },
     {
-      "title": "Ken Paxton dodges confrontation while slamming James Talarico as weak - nbcnews.com",
+      "title": "Ken Paxton dodges confrontation while slamming James Talarico as weak - NBC News",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOWtNWTc5bTJBNjNRMWhtUnhFVkNod1o5eWllemNOTXpMQWdFMWJGaGo2dkd0X1FhMUZEZnJjTkhCR0c3WkpDMjF4eUpXUEx5OG1OTXd1QUxGeWcxUlMtQTFRMWU2Vmg4YVBaOHBobVBnSFpfUUtyRk1oazNxYjZpQktnN1hGWng2c1NCNm9VS2RnVHQyQjBrRVR0S1QyYTdwMy1McFZjcUR0R21NVlBLRU9PNzFLa0pmcFE?oc=5",
       "pubDate": "Fri, 11 Sep 2026 17:24:55 GMT",
       "feedSource": "google-news-race",
@@ -91,19 +91,7 @@
       ]
     },
     {
-      "title": "James Talarico highlights GOP support for Senate campaign | Inside Texas Politics: Sept. 13, 2026 - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa21XRi1WVUxGUXB2bHVSTTByZDA0ck55amlPTlEwTWljcUpCTkdfakNDLUozYzY1Y0ZYLWlTTG1mUWcwSlFHbmdvRHNxR2pVMEZTb0hSZkVkSWZwdDdqWExvU0t6QWVtZ1VVQU52Z0hUNm1WMGhGYVRvWmk2R25xU2VpZVZ1SXZwUHJHdnpKcw?oc=5",
-      "pubDate": "Fri, 11 Sep 2026 22:57:45 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas politics"
-      ]
-    },
-    {
-      "title": "James Talarico highlights GOP support for Senate campaign | Inside Texas Politics: Sept. 13, 2026 - WFAA",
+      "title": "James Talarico highlights GOP support for Senate campaign | Inside Texas Politics: Sept. 13, 2026 - wfaa.com",
       "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOMW1jZDkzRTdMbVdldEQ1U2Nna2tza1pJeEMzUmY2LU1KOVpYd29LN2hXd0paXzRWaDg0bF85amJrQzFtV21FWVFBSjRBN005cThUZFcza1hsRWtZWGIzS2t2aGxXRE1FMVNEc0NFOHE1anZsaW5aajlMS3hLY2x0MG9ZQXZCMXR1UU9NODBrNFdfTk1BM3RaTS1zd0F0N0FwX2E4ZEx2TXJSdDVRQ2VqS0ZoNGVrbUNBaldLNlQtZmRYR1duVk5BM0w3V2NFRnBIMXp6c29mTl9yeE0wdWV5clc4dHFKRFlOQmdJY1dDVGdCVXViMWlFX3I4S2ptdHZHS0hRR0lKTEJlc19rUFZLUDB0VHZGeS1QOHc?oc=5",
       "pubDate": "Fri, 11 Sep 2026 22:57:00 GMT",
       "feedSource": "google-news-race",
@@ -124,6 +112,17 @@
         "talarico",
         "paxton",
         "ken paxton"
+      ]
+    },
+    {
+      "title": "James Talarico renews push for Black voters at Houston rally - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdmNTOXhvbFdCcUZJbGpVV1cybUZFV0x6LUJxX2JsZkg3bklFVU1qalFMU0RnY3ZaQXJyeDF3TEJlSHhnWWExLVBLSkNrZG43VkFaamRUME14V3VTM21rQ3NEal82S2tFT0NVSUtLSXFLNHJGRDBvcnE4SXZfS3Q1V2s0ZktYQ3JfSnRQMHViZ1BuaVdCTjdVbkUzX3ZJa0U?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 03:32:36 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
       ]
     },
     {
@@ -182,17 +181,6 @@
       ]
     },
     {
-      "title": "Texas U.S. Senate Candidate James Talarico Holds News Conference with Epstein Abuse Survivors - C-SPAN",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbEU2TGhqcXdiYUJ3OFYxNzBXcEp5Zi1SWkJpVnRUYWpEbFd1czBWT3ZPblNRdFlFZVFqejFDb2RoM09nMHdSRmptYkZPVGwyTUgtNU5ON2tHNUFaVWlhLWtKTDF0T2lwZjBLUnVMZ3c4MFJBRXFhQXltaGZ5ZUNJdzdJOEpCRlB4YkQ3T1VzUHN6TFRxNnBUUWtQUk1hckk3OTlUMGdSNUxqVTZMT0dPZjd4ZGdzd1JBeXdyZ3V1Y2doSFBYNDlCanc1YldDbGVqam41ZEYxeFhUQVE?oc=5",
-      "pubDate": "Fri, 11 Sep 2026 02:59:58 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ]
-    },
-    {
       "title": "Paxton and Talarico spar over racially charged post about Texas college students - Washington Examiner",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTkZXdllkeTZsVGxaMUV1ZTQxQzBlUVJGRDFDbnpnNWpJX1RGbnNvcGlRdU5GSHR1UEozVWc1SXlSRXYtVDdxZHFtM1lPSVJJUVM4VkpXNVRQOTZNdkpKQjlvNG1mRVRvT3FQU1hibDFPdWNESmRyMFFCS0wyTm9paExjWmNlU0wzRnl3dnhvMFllTDJFSGZGR2Q1XzkxT3dsdEppZG9UT3NtMkxIY2tNag?oc=5",
       "pubDate": "Mon, 14 Sep 2026 01:17:00 GMT",
@@ -206,7 +194,7 @@
     {
       "title": "Inside the Impeachment Trial that Threatened to End Ken Paxton’s Political Career - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQREdPSTBBRnE2VVNrZFRVQTZvWHUyWUZBUF83X3ZlaGFseU15c1NqNEh1Y3NMUlc2Y251QTZ5dWcyYmJsWWRoSDcycnc1SU9iR01UX2NWMF9wVlpIZ2F4SjZpLXdkZTdSam5PT2Y1ZW5WZmJEekpPN3dfNTdDOUEyeGtGdDd4X2NBTXdTNmFDUnA?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 13:52:37 GMT",
+      "pubDate": "Sun, 13 Sep 2026 09:02:25 GMT",
       "feedSource": "google-news-race",
       "raceScore": 11,
       "matchedKeywords": [
@@ -215,7 +203,7 @@
       ]
     },
     {
-      "title": "Don’t be deceived by the dodges of lefty Dems like James Talarico - nypost.com",
+      "title": "Don’t be deceived by the dodges of lefty Dems like James Talarico - New York Post",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQamdFdU1mQ0d2ZGtCQlNxZU9HZ2NMTGVlZm8tS185WGkxMTg4UFRxMDAxTXZLOFhRLS1XUEdrUXVpSk13OUVmaF9JbExXaWdGOWlHNjE5UFVyRGwzMnd4UWFFUEgyTXNyYmxQbmk1eGxtRkM0bFE5SkFQRlZDdHdxZGdsd1NSY0NwTF92Z2lLZkVkWHRva2thNDQ1SFAyZWJxRm1pRjd3?oc=5",
       "pubDate": "Sat, 12 Sep 2026 14:23:00 GMT",
       "feedSource": "google-news-race",
@@ -289,6 +277,17 @@
       "matchedKeywords": [
         "talarico",
         "james talarico"
+      ]
+    },
+    {
+      "title": "Ken Paxton to appear at meet-and-greet rally Tuesday in Longview: What to know - Longview News-Journal",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc2tBakJROWNRd3pSNndVT29ya1d3Q29TaktDa3ZaUklsUDZNZ0E0bTVhVlhvSTRLeXFBN1NLOENiWnJHNVNwelI3R3cwNExXUVJBbk9sZUM2RVRpREhydWNVWDVZSnQtUUktUnNVTk1QUS1hZU5tUXdGYldLZ0FFUm1oWkhMbTd6c2JvNTVVdmZTRi1oZlh6Tml1aldtV3ZSdEU5WUJSSTNTb3ltRTRPTGdqaFk?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 10:43:06 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
       ]
     }
   ]
