@@ -1,9 +1,57 @@
 {
-  "analyzedAt": "2026-09-14T05:19:37.108Z",
-  "newsFetchedAt": "2026-09-14T01:27:50.475Z",
+  "analyzedAt": "2026-09-14T10:54:41.757Z",
+  "newsFetchedAt": "2026-09-14T06:56:26.955Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Texas GOP Senate Nominee Ken Paxton Refuses To Debate James Talarico While Questioning His Masculinity - upolitics.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTVdNZVM3VW5jdlJzUngwd1JZVW9LNzBsNWhYRGlhSlUwR21MQVR2SUQ3bm9NUXF1UVNLYmlqeUhPWVBwTGNSSnhIYUFLRVcwZGozZmtENnFwRjN2cC0tRE54ZXY3MEhJNWdpSlNldmlvUFphcExwSmNiVG1hQS1YbExWSVdqcFRLdFZGdnM2NE1KWGY2QlNwRmhrRkd2RzRGR3kwM2VDdHVQcXlLekxVcHZsQW9PbGhMWXRTbjZBaUFGWlFXWXdvZndB0gHPAUFVX3lxTE1lV29kWlN3bldLSDRVOG1VVDV5VEJzTUlRTzhvcTUzenJhVUdXU0tQSWdPVF94ZDE5MzZBZjRZbTZiRW9iVDk1cDZPQndYZ1RzWjl4SGlGOTQ4eWhVNmRUWGZLSUNlTVpFNVlSbmVLcnRFdW56TEJsZWNMUk5QTXp5WUFfUVJQTkRRenFBNjdzZXlLOUJBYXNiN09rNVdMN2VNN29yQWtlNXhTM2k5QW00d2F2WUtwemZYT01wODE4Z21FT3VTUGNpNXAwaGtqMA?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 01:26:35 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "texas gop"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W37"
+    },
+    {
+      "title": "James Talarico renews push for Black voters at Houston rally - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdmNTOXhvbFdCcUZJbGpVV1cybUZFV0x6LUJxX2JsZkg3bklFVU1qalFMU0RnY3ZaQXJyeDF3TEJlSHhnWWExLVBLSkNrZG43VkFaamRUME14V3VTM21rQ3NEal82S2tFT0NVSUtLSXFLNHJGRDBvcnE4SXZfS3Q1V2s0ZktYQ3JfSnRQMHViZ1BuaVdCTjdVbkUzX3ZJa0U?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 03:32:36 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W37"
+    },
+    {
+      "title": "Ken Paxton to appear at meet-and-greet rally Tuesday in Longview: What to know - Longview News-Journal",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc2tBakJROWNRd3pSNndVT29ya1d3Q29TaktDa3ZaUklsUDZNZ0E0bTVhVlhvSTRLeXFBN1NLOENiWnJHNVNwelI3R3cwNExXUVJBbk9sZUM2RVRpREhydWNVWDVZSnQtUUktUnNVTk1QUS1hZU5tUXdGYldLZ0FFUm1oWkhMbTd6c2JvNTVVdmZTRi1oZlh6Tml1aldtV3ZSdEU5WUJSSTNTb3ltRTRPTGdqaFk?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 10:43:06 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W37"
+    },
     {
       "title": "Paxton and Talarico spar over racially charged post about Texas college students - Washington Examiner",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTkZXdllkeTZsVGxaMUV1ZTQxQzBlUVJGRDFDbnpnNWpJX1RGbnNvcGlRdU5GSHR1UEozVWc1SXlSRXYtVDdxZHFtM1lPSVJJUVM4VkpXNVRQOTZNdkpKQjlvNG1mRVRvT3FQU1hibDFPdWNESmRyMFFCS0wyTm9paExjWmNlU0wzRnl3dnhvMFllTDJFSGZGR2Q1XzkxT3dsdEppZG9UT3NtMkxIY2tNag?oc=5",
@@ -1569,68 +1617,7 @@
       "error": "HTTP 405",
       "candidate": "talarico",
       "weekKey": "2026-W36"
-    },
-    {
-      "title": "Trump’s PAC wades into midterms with $10 million ad buy to boost Ken Paxton - CNN",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5GdnZzOUstd0VFYUNFTDF0bU9rSDdmaDl4a2U0OXUtbk1WbHg3OWNFNlFYMEgzcEZSaTY4RTFTWlVZcUZULTFqb29MXy1aazE5MzlZNjVlcE5NeHJiVjhsYWRMZHdZVGY4Ums1N0hOMEtwdkE?oc=5",
-      "pubDate": "Sat, 05 Sep 2026 19:05:11 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": {
-        "positive": 0.008,
-        "negative": 0.992,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W36"
-    },
-    {
-      "title": "MAGA Inc. cavalry arrives for Paxton in Texas Senate as Trump’s PAC places $10 million ad buy - The Texas Tribune",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR2RERG40cE5GQ19MLUpuVGFNV2lUY2ZiVGdXcjlCS3gyR2JCRy12dGdJT25WWUgyckNwbTVMVGNKS0hsVUpyRWFLM2VkY2dqaXhqOXlCd3JxMWQ3bHNPeU5fLWNTam1lNVcyN3VXWVl0b3RUMWRQUzFYUVdqcTlFUG5uemQzVWhkNUdsOWg5bjNPUQ?oc=5",
-      "pubDate": "Sat, 05 Sep 2026 18:47:51 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "texas senate"
-      ],
-      "sentiment": {
-        "positive": 0.078,
-        "negative": 0.922,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W36"
-    },
-    {
-      "title": "Hinojosa on Trump $10M Paxton race investment: ‘I welcome the attention on Texas’ - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYXF2bnptVTRQYXJxS2RLX2wtTDhpaUNtbE1QVGhqUlU2Q2xaY2RHRWd3V3NaMTBvdEhsdjM0OUEwNFBIbEFTdlZjTEt2OWc1dnlQczN1SUlFTWZMcURRR2lWdnBQazk0WGVsZXpPcUdoUFMwb01LSko2LTZCcDFjSUdiUXFFVm9zdWhrRlNhYXVhenExeENJVzhRcFExSjDSAaQBQVVfeXFMTzZIU3JNYWxTVnFHUFlIUHJlNkdtQk5vSjBtOWpBUlhmbGY0QUt1TVc1SkppQUxTeHlKM3IwMWhPT2o1WWtmUG9sYlI5cjRHTV9SOUQ0clNrNzUtWWxGRUV0UFVKUGJOYmdreUt4X2tpc25Lb3NzN0VsXzMycXh4cXhqTnV2N29xekl5MVY2OTNEaUZ6T2pyajIwUmdRelhVaUJuRGw?oc=5",
-      "pubDate": "Sun, 06 Sep 2026 19:20:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.999,
-        "negative": 0.001,
-        "label": "positive"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W36"
     }
   ],
-  "weekly": {
-    "2026-W36": {
-      "paxton": {
-        "positive": 1,
-        "negative": 2,
-        "total": 3
-      }
-    }
-  }
+  "weekly": {}
 }
