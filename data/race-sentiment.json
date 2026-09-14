@@ -1,9 +1,57 @@
 {
-  "analyzedAt": "2026-09-13T22:14:49.460Z",
-  "newsFetchedAt": "2026-09-13T21:03:44.309Z",
+  "analyzedAt": "2026-09-14T00:21:23.645Z",
+  "newsFetchedAt": "2026-09-13T23:22:55.937Z",
   "totalAnalyzed": 100,
-  "newThisRun": 7,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Paxton whistleblower backs Talarico, dragging Nate Paul into Texas Senate race - The Real Deal",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb2RZampybUw3RVlUTkw3SHkxaGFubG5QSzJwbmMtSTg3Qy1NR1IwbzkwbmpCZEszSzFraTEyc3gydG5kajI1OEdUQXRyNGpsaUdoemlicHRFQV9jOENIOTNtWFFpNzhNWVNuVnlqcTBmbjBwZS03UHVKVDlxbUgxMGJVbGg2aFU?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 17:35:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W37"
+    },
+    {
+      "title": "National Republicans Are About to Give Ken Paxton a Huge Boost - townhall.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNWZWbnZfLXdyMzhCQXotN1VOb1BXMWk0U25GUC1zemNQZmk1dDZyQk01RXhuZW1DZ3BTY2l6cUJraUxhVUFBdlZoaG52RWU3VnAxUjRhcF9qdzhmTUx0UjhIQ2tRY3RITnNKcDg4RDJzMWxlQVVqWTZRMnRla2JjMjBxQ2EzWk5YNGloaUUxdjJZSTk5QV9TWlBVUlM3c3dwMU55eElxZWlpZW96eEg2eFpKQkkwaXgwa2VmMWYzdWo?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 18:00:19 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W37"
+    },
+    {
+      "title": "James Talarico softens stance on trans sports, sex surgeries, walks back previous claim: 'I missed the mark' - christianpost.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeklnLURvbWNEb2RFN185eTcxeThVcWVDZnRnV2JEZ09YakVZcGlKR2R1QVhWYWdoZWx4ci1XNGFMTG1LTHo2b0x3MFBSWEJ1Q2N1LTd1NnhoNmpqdUZUbHUtTmIzUlloRXQtOUFVb1F5NGdrYmM1dFpEWnJENUFMcFZHNlNFdXVoaWxDSVZuUGdtSWxaaWpiUGpZbHFnUEly?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 15:11:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W37"
+    },
     {
       "title": "Texas Senate race: How James Talarico and Ken Paxton say they’ll make life more affordable - KXAN Austin",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQXM3QlNsMmIzQmVDWWdlaW9MTGZGdDlOQkRBYUg0VEl4R1dGV1VWWG5Ub3hJNjlmNmFic28zLUU2azRSRzJRMnVKY0lzbWJnNy1HNnhuNEZFRURZcXQxaWlOdVRKdU0wVkwxZjJ2Zmk4cVhSLTcwZVRXWEJFVWVsMFNacDl2TF9TNFNrV1BlS1pOOTUxSHlsLWdrRUlsaHRjbUcwRm9mR2l6M1plOGFnSDBGZFpPd25lUnJYM0FZS1BQeWczU0JUUWxR0gHPAUFVX3lxTFBnXzJ4cVZuSzBjWlNhV2k5N1VCYWU2dGhXN3hnWVdGSDlVakYwcUZBbEJnRDNld2I5RktpRVhQMWxJX1p6cUlCQ2I5bWhYY2lpb0lQMGtDUXg4emhhUkRzMDdVWnFkU1dlcGE2RXRYd2pLYnV1eU9SZHZrNUphQmtPbEhvQURyQkhFWG9Sa1RvTUc3aDJQa2MtV2dWVGJWcG50LU5maW8yQTBwRHV6bGNidmZkbC1ieVUyRkRTcElxczF0R0xSbjI2dVA0UkMzWQ?oc=5",
@@ -1576,70 +1624,14 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W36"
-    },
-    {
-      "title": "Trump’s Super PAC to Pump $10 Million Into Texas to Boost Paxton - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdUh3WVpLcjRDUXhnOThfWGpjVUFCY09ZdUlFU2h2ZFNKelBsRGx4dU9IRnE2bE5mTWZkQWhEa1RlYnhuUjVPY185Q0VDSG1pWkFMN01PWEdyTkFWMldsUVVZdnBLaXM2Q2owS3djM0FsVnpxdklMeDE0Z1JTTWVQUGtvTi1IWkZqdEo4U2d2elhxOWpyTl81Q2dhVTdmS24wNTdSNnl0ZlJXcEpUdjYxRVZPMXA?oc=5",
-      "pubDate": "Sat, 05 Sep 2026 20:45:23 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.593,
-        "negative": 0.407,
-        "label": "neutral"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W36"
-    },
-    {
-      "title": "MAGA Inc. sends $10 million to back Paxton in Texas after repeated GOP pleas - Washington Examiner",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSHVXQXl2Mnp4NVhQQTJPa0tCUkZKbzU2Z3pKNTUxUEY5eDRJQ1FYcE5iNU5pTUhsbU8zZzdRSDEwMldZcGQ1V01zc2xVVEVsc1lDUENDZnlRdGs2Rk5ZTXVkZFJsOUYyRjgxTDlDU1pTWlgycWJQcTBZT2ZpZVhaZU9BaWVsaUhaNFVmWDZmZlZQLUVBN1ktQ0lpQTl5ZWJvM2R4TkxYWWM?oc=5",
-      "pubDate": "Sat, 05 Sep 2026 20:12:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.007,
-        "negative": 0.993,
-        "label": "negative"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W36"
-    },
-    {
-      "title": "Trump’s first major midterm money move: A $10M Texas Senate ad blitz - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT19ZcmhOY19qOWhFdC1CNE5nWk9mMlRua3Zsc0VGVEV4R3piYUozcjJPd1ZPem55a0IxT0ROdGRyTjlsWGpiekdiVXhITjlDaE15X2h6ZUZPNXdkbUVqRXdpT2V4LWt1akZUMkMxUnF0alBQY3BLOUNfUG1teU5PSF9sZWpzX0YxRnhfT3V4ZmhMNFZYVzdrYnozcXBNYXUxc1lZ?oc=5",
-      "pubDate": "Sat, 05 Sep 2026 19:49:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "texas senate"
-      ],
-      "sentiment": {
-        "positive": 0.01,
-        "negative": 0.99,
-        "label": "negative"
-      },
-      "candidate": "general",
-      "weekKey": "2026-W36"
     }
   ],
   "weekly": {
     "2026-W36": {
       "paxton": {
         "positive": 2,
-        "negative": 3,
-        "total": 6
-      },
-      "general": {
-        "positive": 0,
-        "negative": 1,
-        "total": 1
+        "negative": 2,
+        "total": 4
       }
     }
   }
