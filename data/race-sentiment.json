@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-09-14T00:21:23.645Z",
-  "newsFetchedAt": "2026-09-13T23:22:55.937Z",
+  "analyzedAt": "2026-09-14T05:19:37.108Z",
+  "newsFetchedAt": "2026-09-14T01:27:50.475Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Paxton and Talarico spar over racially charged post about Texas college students - Washington Examiner",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTkZXdllkeTZsVGxaMUV1ZTQxQzBlUVJGRDFDbnpnNWpJX1RGbnNvcGlRdU5GSHR1UEozVWc1SXlSRXYtVDdxZHFtM1lPSVJJUVM4VkpXNVRQOTZNdkpKQjlvNG1mRVRvT3FQU1hibDFPdWNESmRyMFFCS0wyTm9paExjWmNlU0wzRnl3dnhvMFllTDJFSGZGR2Q1XzkxT3dsdEppZG9UT3NtMkxIY2tNag?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 01:17:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W37"
+    },
     {
       "title": "Paxton whistleblower backs Talarico, dragging Nate Paul into Texas Senate race - The Real Deal",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb2RZampybUw3RVlUTkw3SHkxaGFubG5QSzJwbmMtSTg3Qy1NR1IwbzkwbmpCZEszSzFraTEyc3gydG5kajI1OEdUQXRyNGpsaUdoemlicHRFQV9jOENIOTNtWFFpNzhNWVNuVnlqcTBmbjBwZS03UHVKVDlxbUgxMGJVbGg2aFU?oc=5",
@@ -1607,31 +1622,14 @@
       },
       "candidate": "paxton",
       "weekKey": "2026-W36"
-    },
-    {
-      "title": "Trump taps massive war chest to help embattled Paxton in Texas - Axios",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYldWWmp3SzFfb29aMXk5Z2ZLc25QVnRNS1k3ME90UmdHbUc3N2VFVHFWTmNQd0hPZUFTbkxDX0haSy14MnVqSmV6RHVxaHhCOTkwOUJZcGR5c3hBbVVvUTFTQkpwUHNRUkJMWW5MMEE4R3U0b3VxLXpRNDNSdzNYVA?oc=5",
-      "pubDate": "Sun, 06 Sep 2026 04:42:57 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "paxton"
-      ],
-      "sentiment": {
-        "positive": 0.977,
-        "negative": 0.023,
-        "label": "positive"
-      },
-      "candidate": "paxton",
-      "weekKey": "2026-W36"
     }
   ],
   "weekly": {
     "2026-W36": {
       "paxton": {
-        "positive": 2,
+        "positive": 1,
         "negative": 2,
-        "total": 4
+        "total": 3
       }
     }
   }
