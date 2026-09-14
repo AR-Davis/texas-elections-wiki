@@ -1,9 +1,73 @@
 {
-  "analyzedAt": "2026-09-14T10:54:41.757Z",
-  "newsFetchedAt": "2026-09-14T06:56:26.955Z",
+  "analyzedAt": "2026-09-14T16:52:53.962Z",
+  "newsFetchedAt": "2026-09-14T13:52:17.800Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 4,
   "stories": [
+    {
+      "title": "Texas GOP Senate Nominee Ken Paxton Refuses To Debate James Talarico While Questioning His Masculinity - upolitics.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZVdvZFpTd25XS0g0VThtVVQ1eVRCc01JUU84b3E1M3pyYVVHV1NLUElnT1RfeGQxOTM2QWY0WW02YkVvYlQ5NXA2T0J3WGdUc1o5eEhpRjk0OHloVTZkVFhmS0lDZU1aRTVZUm5lS3J0RXVuekxCbGVjTFJOUE16eVlBX1FSUE5EUXpxQTY3c2V5SzlCQWFzYjdPazVXTDdlTTdvckFrZTV4UzNpOUFtNHdhdllLcHpmWE9NcDgxOGdtRU91U1BjaTVwMGhrajDSAc8BQVVfeXFMTWVXb2RaU3duV0tINFU4bVVUNXlUQnNNSVFPOG9xNTN6cmFVR1dTS1BJZ09UX3hkMTkzNkFmNFltNmJFb2JUOTVwNk9Cd1hnVHNaOXhIaUY5NDh5aFU2ZFRYZktJQ2VNWkU1WVJuZUtydEV1bnpMQmxlY0xSTlBNenlZQV9RUlBORFF6cUE2N3NleUs5QkFhc2I3T2s1V0w3ZU03b3JBa2U1eFMzaTlBbTR3YXZZS3B6ZlhPTXA4MThnbUVPdVNQY2k1cDBoa2ow?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 01:25:54 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "texas gop"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W37"
+    },
+    {
+      "title": "Texas Senate race polls: who will win the 2026 election? - The Times",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeWJPaUZGZS1EMUE3WUR6elNRekJLdkt5ZUVPcE1fY21SdWdCeUFYMGdtSGtUUUVFZ2tDUXZVNzRmMlNBanktUUdpYTFtVllYS3dhTF9oLS1zckdzdHVpM0NHWWpkN0VhTV81VTFzVFloejg1aEZMRXVSLVZyajFrTlN1cFFzT3hXck55aTc4R2praDJ3SW1JOW41bGdLWGh5VUlUS2tsSnA0Zw?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 17:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "general",
+      "weekKey": "2026-W37"
+    },
+    {
+      "title": "Ken Paxton’s financial disclosures appear to violate federal ethics law, experts say - KERA News",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTncxWHhNbjU0UmU4bjI0bERoX0pIa1pjVzJYNzJXZGpxbV95LXU1b05wM3ZVeVdnOE9NOWs5a193R3ZWc3JHTy1oengtQ29MT3h4OGdDck15UjFYbUNoTWZFbmdodFdUVlBrZUVKMFhiWXd3RXpuYWxublFJTWZVZEFmdDJBM2M3WHl2UW1fSldBamF1UGc3VjFIaVRMQmZmSEEtS2Y5d1p5eDhCMGd4UlA2NlJhNmlxUWJBTUR3dTVDU2dCTUEtSg?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 10:04:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W37"
+    },
+    {
+      "title": "State of Texas: Paxton and Talarico in their own words - ValleyCentral.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLTJ0ZDFwNFZpUXpNRWRoTWlBbm1TNFpwaXBpdlNHclFLVGs5Y1hNTlNzdlFHZlFmMEZfXzdHYzFraHlOR0paX0RidHZ1Nlh3X1NMRmNjV3RYUjhLcks1aFZQZVJtb2ZkUko5bXNPUDBxUG5jUE5UcHJRRzAwdTN1RGNrYkJzdW1NUEFFVWVIMm1lcGZqbUlSc2ZubzlmV3V1S0RHMGtMR3p6NHNh0gGsAUFVX3lxTFAtMnRkMXA0VmlRek1FZGhNaUFubVM0WnBpcGl2U0dyUUtUazljWE1OU3N2UUdmUWYwRl9fN0djMWtoeU5HSlpfRGJ0dnU2WHdfU0xGY2NXdFhSOEtySzVoVlBlUm1vZmRSSjltc09QMHFQbmNQTlRwclFHMDB1M3VEY2tiQnN1bU1QQUVVZUgybWVwZmptSVJzZm5vOWZXdXVLREcwa0xHeno0c2E?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 13:01:43 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W37"
+    },
     {
       "title": "Texas GOP Senate Nominee Ken Paxton Refuses To Debate James Talarico While Questioning His Masculinity - upolitics.com",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTVdNZVM3VW5jdlJzUngwd1JZVW9LNzBsNWhYRGlhSlUwR21MQVR2SUQ3bm9NUXF1UVNLYmlqeUhPWVBwTGNSSnhIYUFLRVcwZGozZmtENnFwRjN2cC0tRE54ZXY3MEhJNWdpSlNldmlvUFphcExwSmNiVG1hQS1YbExWSVdqcFRLdFZGdnM2NE1KWGY2QlNwRmhrRkd2RzRGR3kwM2VDdHVQcXlLekxVcHZsQW9PbGhMWXRTbjZBaUFGWlFXWXdvZndB0gHPAUFVX3lxTE1lV29kWlN3bldLSDRVOG1VVDV5VEJzTUlRTzhvcTUzenJhVUdXU0tQSWdPVF94ZDE5MzZBZjRZbTZiRW9iVDk1cDZPQndYZ1RzWjl4SGlGOTQ4eWhVNmRUWGZLSUNlTVpFNVlSbmVLcnRFdW56TEJsZWNMUk5QTXp5WUFfUVJQTkRRenFBNjdzZXlLOUJBYXNiN09rNVdMN2VNN29yQWtlNXhTM2k5QW00d2F2WUtwemZYT01wODE4Z21FT3VTUGNpNXAwaGtqMA?oc=5",
@@ -1546,69 +1610,6 @@
       "pubDate": "Sun, 06 Sep 2026 05:00:00 GMT",
       "feedSource": "google-news-race",
       "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W36"
-    },
-    {
-      "title": "Musk and Trump attempt to save Paxton’s crumbling Texas Senate bid - Daily Kos",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcnNFdHpLLXZCMnZIdTVNVGRmVkl6eTg5UV9LbW1KdV9YSFVnMkJRWE55bUFIeEpEd1huZ1ZOMlJZMVpEZktzOUtpRTVfeHRaazlNRDhvR1Z2TDk5SDY0czJ1ZW55NDU4d2dyR1BfWFNMWDBlM3lPYTExVHd3OUpWUldwUmVWUlFvWWxJR0NLZDY0THlvcDVjXzdyWFV6dFN1OU41WW1FdndEX29VN1Jyc1pDNjNxYTRlb0Zld2RzNnNBUVhoeE5z?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 18:32:40 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "texas senate"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W36"
-    },
-    {
-      "title": "Ken Paxton whistleblower endorses James Talarico in Texas’ U.S. Senate race - The Texas Tribune",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUzdWR0U3LTdtbzJwUDNrOEg1QmhYRnZJb3VmcmJORlpEQjBkdExIU3RxdklCa2tuQkVWZTJoWEpvYXJKNF9Hd1JfUWJTcHpIcmtZd251cmtIRVJ6S19lRlk0ZXZtV1FMWDdYVTA1Ukg5S181TExrcjZlc2ZTQjJaY1Q4UU9Rd2pqSV9XRmhDUjFUVS1rSmdRQnR3Zlc0aEdjVmxVVGZWckxkVmxaanBDcHNGM2V3VEU?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 17:18:20 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W36"
-    },
-    {
-      "title": "7 rumors about James Talarico we've fact-checked - Snopes.com",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mMm5LS3hUaXV1V0pPYURaRm1rMDlST1lNNWs1TU8wcTN6TGVJMVFBTkRicXRNbmsxYW14cTNya0gwWDRKaXlhdUJFNHo5Sm5rajZROTROVGw3SnppeTBETGJfZWdIYmU0?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 15:02:34 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W36"
-    },
-    {
-      "title": "WATCH: James Talarico Denies Jesus Is the Only Way, Says Allah Leads to Same Truth - breitbart.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOTBsSUhJNVNhZlltSXRvSWZ3Q1lROFQ0REdKSlBfVktRNDRUV2UzMEZ4VXlZYmQxOUN5UzY3Ukdhck0tbXZZZUNpS2R3WWg4LTlwYzBtYUU5UDNkN2QwVmlMNUxFeS03X0JHdndRbkxFU25FREt6MERIajUxM1N3UU1vMDdCSWlVYVk3Yy1jd3NuUFNTMWtVUzlsWjEyYlBTd0l4aDhoUVJKZ9IBrwFBVV95cUxQUThaWXhDTERMV0lqdEtvdUpRblpkNnJPZHloczN5ZE5mandjamh5QWJjWElnTGVhS3RiZXZuS3dlNEMxdk9MUVpMVnUzcFowQXhVT3FpM2NNM2dpbFlTMjhxekpXcDhLSzEtSVBYRjEwemg2cG82VEpRTW5vU2lfN2JEcHFwTmhUbVRmUUs1YXFFSlVncU11WG5BR1JfaGxzczJjSjFVdE9lcUJNakVV?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 03:03:03 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
       "matchedKeywords": [
         "talarico",
         "james talarico"
