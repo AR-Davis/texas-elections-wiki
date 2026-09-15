@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-15T17:35:30.472Z",
+  "fetchedAt": "2026-09-15T21:06:13.443Z",
   "count": 23,
   "feedsChecked": 8,
-  "itemsScanned": 96,
+  "itemsScanned": 97,
   "items": [
     {
       "title": "Texas Senate race: How James Talarico and Ken Paxton say they’ll make life more affordable - KXAN Austin",
@@ -10,6 +10,22 @@
       "pubDate": "Sun, 13 Sep 2026 19:42:20 GMT",
       "feedSource": "google-news-race",
       "raceScore": 39,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ]
+    },
+    {
+      "title": "Texas Senate race: How James Talarico and Ken Paxton say they’ll make life more affordable - KETK.com",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdHZBM1hhQTJTczdZUEZtdWVUUk0yNW1STy15eXVCYm93bkZrM1VjdDhuN2ViZjBvY2pBQ2tYTWJkYUJrcjI4RlFHZFozcVRlcTNnanNYb2Roc3BNbFp2ZGMyVk5jU2VRSExvQnZRU0RTdFBWeDRsaFhqYmdzSjlaWnBGdThRWGJGZjdpTWpUOWphMmVnMUhleWZRWmJCLUUtVkJEdzF2c3l0NUw4ZU5laGVnZzVNdVhTY3VGU1ByQm92TlNNUkE0dWYwMTJFc0pWem01TXdB0gHbAUFVX3lxTE85RXlfYnZQMzBMaWhpaTJHWVpYN09QWHlhZFBzTGFtY0I1QVlMU3RwTEVlQmNIR1M4WFFoN3dRSHRjaFF0Y1poNlFrMF9vNDN4dmp2bVBXR00yUEl4S080WlpWaVp0TlVIX1VsX3RFTU9TaXBtdmpEQXg5cGRIY0laa0o5dWRwXzg0b09MMFFVd09EVW5MX3c0OVE1SUpaTHlUNnA3UVd1WFJYUzdRQXFDUkRiVVl4NHNoMGtramlhRGxFUlZOcm95cnJGeXk4V3lNS1dIRUFWQjBtRQ?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 23:19:09 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 38,
       "matchedKeywords": [
         "talarico",
         "james talarico",
@@ -77,7 +93,7 @@
       ]
     },
     {
-      "title": "Talarico ahead of Paxton in Texas Senate race as older voters shift lead - usatoday.com",
+      "title": "Talarico ahead of Paxton in Texas Senate race as older voters shift lead - USA Today",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU1lVUzBVckxaeGpmNjg3WG9CM0RxakV4eVNIdDNHQ3pHcVJZX0tBTThGRkY5VGFtUnVlVUJBUkdOLU1QbVpfMDJNWnZQaVVQVG1nVWs2NUhnYkJ3MUprQ09aZGpNNFVMSGVWMWh1QkVLRDE0bUZQRE1NVkFqa2I0OWJ4dHVxdVI2MkFQU0kzdEdUNlJRMzBqQzB0R3lOQm5BS0NLbUU1TmxVekJTRmh0VVNJZ1ZWSUJ1RmllUFRqRnc?oc=5",
       "pubDate": "Mon, 14 Sep 2026 21:13:00 GMT",
       "feedSource": "google-news-race",
@@ -183,7 +199,7 @@
       ]
     },
     {
-      "title": "Texas Senate race takes new turn post-GOP convention, poll shows - usatoday.com",
+      "title": "Texas Senate race takes new turn post-GOP convention, poll shows - USA Today",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORE9wUVdSblp3OUd1YlU3dXg1Z1lEdU9pdldyeHVqMDRRSGxScjRHcEd1MEViVjc5Nk9DZHRvNHRyakdQRUd6amhlQmNjbzlqeDFCOVdKTk91dzQ0cUlDZnBXcTFOY0VlOGxERTIteWh4aFh1S2s4Nld6WTNEeDJXekdBelo2NHEzTjdZd2hGN0hLWHJwT2d4OTd1X2hGTDFiV2xDTkd4S183a0J0ek9aYUc5cVAxUVotTHpGcFRLdkc5MHdXM0E?oc=5",
       "pubDate": "Tue, 15 Sep 2026 15:36:00 GMT",
       "feedSource": "google-news-race",
@@ -210,17 +226,6 @@
       "title": "Senate Republicans finally mobilize with big money for Ken Paxton in Texas - ValleyCentral.com",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN1BlbDdzMGpaZ2hmckhxU0twcjFFZkpub2ZCekFmVTdXRXA1VGlnRzVDZG9hXzFrRUhqZVo5NXBUdF9tTVAxNVhTV0dpWGFaRHhub1pjaHhXZG5xblpkZmhyeHZBc0lsQnpuY2QtaVhad0JQWnBhaWlWS202V0hpTTBTMF81WUdVRkZheHNqd0dzZU5HbllrTi1YM1NZYll3bkdPRkRvNkRMQy0ybHZoN0lhYklER1Z0SFBMdzVGeXNEVFnSAcgBQVVfeXFMUDFoOGRScnR4S05BQThTR1hYUUs5VXFINzlGSzBKX3FkQzAwLTY3a2g4ZTREZVhlOW1PdjdRekx2UkRsa0dxRnV1RlNRc0tIYzNzc1h0MFNjS3FvOEFRSDdBc1pvY0txNDVJMmxLR01idVd4YmlDcVJhUXNWdzkwWFRrMGR6V3gyT0k2MFhubVRGWE0yZ24yR0lPN2pHSWUwNGM1RlA1NEl3RUVJSjNWLXFwTUdacFlPVE92VWM3Sk04aV9tUFhIQno?oc=5",
       "pubDate": "Mon, 14 Sep 2026 21:30:12 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ]
-    },
-    {
-      "title": "Ken Paxton won't condemn Bo French for controversial Texas football tweet - Chron",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbFVvOHpRQm9GWGpUZVJCQmtzdlZSVzJ1UktsYkdHcFpuVkRPMktMNUJDVXl5Z2N0RkFHS055aXhoY2JhVEt6N0tzTDVNaE9rMlRxOHVobkVKd3FhdUtHQnBNeHhQcTNxblo3aGRZcUZrdnk4ODNSRlpYS0IwTDktZWtlZ2pOUVhYQm1z?oc=5",
-      "pubDate": "Mon, 14 Sep 2026 14:30:14 GMT",
       "feedSource": "google-news-race",
       "raceScore": 12,
       "matchedKeywords": [
@@ -229,7 +234,7 @@
       ]
     },
     {
-      "title": "Ken Paxton needs help campaigning. Who will help him in the Senate? | Opinion - Houston Chronicle",
+      "title": "Ken Paxton needs help campaigning. Who will help him in the Senate? | Opinion - houstonchronicle.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN2pVSkk2cl92Uk9VNDU4NnlqQlBRNnY1Z1M2by1SYUZaWTlkaTdzem1BVzl5QzA2Y3VZN2lXZWY3QzZqYVcxcXJHNm42Z1BZSGlnQ1oyNkkyNmZSWG1DU3g1M24xZFlvb2ZoMk54TWpKYVdzOGpnYTdodHpfNDlwb3BaeXlCTUJnWG5feGVSZXlPV3E4V0d1WnBTM1RTUmh5cjdNWVNNd2o1b3l4MUdPS0lwXzY?oc=5",
       "pubDate": "Mon, 14 Sep 2026 14:11:06 GMT",
       "feedSource": "google-news-race",
@@ -240,18 +245,7 @@
       ]
     },
     {
-      "title": "Senate Republicans finally mobilize with big money for Ken Paxton in Texas - KERA News",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbU02bDAwZzFrV0Nua2s2TnFmd0laSHdOLU5zX2wtWTVxYmx5TlpVbmNYRWc1YXJWdXlBTHh6Rm43UDJFSHg1VUFNcEdWcXBkNUxoSnp5bUhSNGtyTDg4R0VsSEhyelpsMG5RZ2d5a09adUJ5TWUxQXhWODFmXy03YTNzRS1NYVkzQi1OVFNOVnJzbng5YWNZQlFlZEdYTkpiUHM2X29pYXR4czl2cnM3X3lTd1FCcldUT0E2QTNFaWtMbUVQeUdUSQ?oc=5",
-      "pubDate": "Mon, 14 Sep 2026 11:40:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ]
-    },
-    {
-      "title": "James Talarico renews push for Black voters at Houston rally - Houston Chronicle",
+      "title": "James Talarico renews push for Black voters at Houston rally - houstonchronicle.com",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdmNTOXhvbFdCcUZJbGpVV1cybUZFV0x6LUJxX2JsZkg3bklFVU1qalFMU0RnY3ZaQXJyeDF3TEJlSHhnWWExLVBLSkNrZG43VkFaamRUME14V3VTM21rQ3NEal82S2tFT0NVSUtLSXFLNHJGRDBvcnE4SXZfS3Q1V2s0ZktYQ3JfSnRQMHViZ1BuaVdCTjdVbkUzX3ZJa0U?oc=5",
       "pubDate": "Mon, 14 Sep 2026 03:32:36 GMT",
       "feedSource": "google-news-race",
@@ -259,6 +253,17 @@
       "matchedKeywords": [
         "talarico",
         "james talarico"
+      ]
+    },
+    {
+      "title": "Senate Republicans finally mobilize with big money for Ken Paxton in Texas - Bryan College Station Eagle",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMG9WU296TmhRYU9VWkVaeDNRbEZrVDhQTGxSYUxvQnhtTnUxUkdaMldDZ2hXUTdjaFBsZ2Q5MnF1R05SRnIxdWltWFgxR2gxU2c5RmVza0I1N0kzSEFRTUNDTV9tT2JTZVIxdDU2YVAwYnN3U3U3S284NHdCZGtnSWVKX015V05pd1Bzd2RseTNsclpGQ3BtbzBtcFlpWGxqSEE0SGFoRTlFMkdUeEdFRy1hUWNuOFg3OGZfcg?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 04:30:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
       ]
     },
     {
@@ -273,6 +278,17 @@
       ]
     },
     {
+      "title": "U.S. Senate Candidate Ken Paxton (R-TX) Rallies in Longview, TX - C-SPAN",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZVRMNk5qTEVmYS1CMEhiOFUtQk1WcnlGVlJsME5rX0UwN2QtRWdsc2piYXNqajhEY3FMOC1ZVGtuY0F3ZDNoYVFWTXlRd25scFByUV94UVh2M2FDaXN2ZU80X1ludmEzRnJ2bzFXNFd6Mk5LdkJGOEppSG9lelJWMTRxdW5GeHBLdThDcmZfaVNuamhlUE9pb2hHX0MxdmRZTnlpR3BWTVpYdkl4?oc=5",
+      "pubDate": "Tue, 15 Sep 2026 04:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ]
+    },
+    {
       "title": "Paxton, Talarico make Senate pitches during Southeast Texas visits - 12newsnow.com",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNTUU4eE9FV3NaMW9iRWVtUEJjVkp6QW1YNGVFXzJaU3llSTZPLUxjUGl1WTRrcENHUDdGc1ZicUthemhWaVVuU1ctczBrTnAyV0MxZlNkU2o5c2M2dk43d2pnbVhkLW1IbDF1ZzFzVDBuMmx2aUtXeGpyTENJUE9KMnZTWE4xT2pxVTlMeThKV3JtdGZJNXVRR2tJaW9Oa2gwdGJDSXJaNGRQSHoyWFk1bkh6ZWp1NWNWUHh2bUtOeDRGSHNtQWZYRnd2b3FzVDNEeTdZemo4MXJSQkJHN2xpX0dqNUQ0c0RDbW1KcVJxeHVtdEc3Y3RJcjYwdDBwUnVD?oc=5",
       "pubDate": "Mon, 14 Sep 2026 23:45:00 GMT",
@@ -281,17 +297,6 @@
       "matchedKeywords": [
         "talarico",
         "paxton"
-      ]
-    },
-    {
-      "title": "Why Trump Just Poured Millions Into Saving Ken Paxton - ИФЗ РАН",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CMVh1WDBCU0dpd2VseEtXcGVxcHlDQUlKekhHZWNBVUNkcmJvbFNZYjJ1aWJBZWdDSTZQbDM1RFd1VDdNRS1LYWEwU0xPTGdpdnRVOWhKUy1mODcwaC1EdkNZYjcwVVN4MWNIOXdzVldhUQ?oc=5",
-      "pubDate": "Mon, 14 Sep 2026 22:22:55 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
       ]
     }
   ]
