@@ -1,9 +1,57 @@
 {
-  "analyzedAt": "2026-09-15T09:32:54.758Z",
-  "newsFetchedAt": "2026-09-15T06:34:12.603Z",
+  "analyzedAt": "2026-09-15T14:25:30.732Z",
+  "newsFetchedAt": "2026-09-15T12:34:04.133Z",
   "totalAnalyzed": 100,
-  "newThisRun": 6,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Senate Leadership Fund Pours $54 Million Into Ken Paxton’s Texas Senate Race - foreignpolicyjournal.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc04tdXJUdUFMZ1JSVlVBX1ZfMU1ZNll4d3gwWmN5ZC1JeEhKT2xURVZRNnd5UEFyTllFanB3U1JBTG9fVEFvbXFCbk5SdWhCeVh6MjZvZXJ0S1laZzBqVTcxR0lUVmZtMUJXOGZvUnBuSmtfMnpDSFZ6S3R4TEd6TXVHeFVfak5ia0xMM05LYnZXYmhhampPMG5TNzc3a2djbnZZbE1keUNkdEdleEQ3dWtQcERmd1Q0dnRmTnY3eEE?oc=5",
+      "pubDate": "Tue, 15 Sep 2026 11:34:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W37"
+    },
+    {
+      "title": "Ken Paxton won't condemn Bo French for controversial Texas football tweet - Chron",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbFVvOHpRQm9GWGpUZVJCQmtzdlZSVzJ1UktsYkdHcFpuVkRPMktMNUJDVXl5Z2N0RkFHS055aXhoY2JhVEt6N0tzTDVNaE9rMlRxOHVobkVKd3FhdUtHQnBNeHhQcTNxblo3aGRZcUZrdnk4ODNSRlpYS0IwTDktZWtlZ2pOUVhYQm1z?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 14:30:14 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W37"
+    },
+    {
+      "title": "Senate Republicans finally mobilize with big money for Ken Paxton in Texas - Bryan College Station Eagle",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMG9WU296TmhRYU9VWkVaeDNRbEZrVDhQTGxSYUxvQnhtTnUxUkdaMldDZ2hXUTdjaFBsZ2Q5MnF1R05SRnIxdWltWFgxR2gxU2c5RmVza0I1N0kzSEFRTUNDTV9tT2JTZVIxdDU2YVAwYnN3U3U3S284NHdCZGtnSWVKX015V05pd1Bzd2RseTNsclpGQ3BtbzBtcFlpWGxqSEE0SGFoRTlFMkdUeEdFRy1hUWNuOFg3OGZfcg?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 04:30:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W37"
+    },
     {
       "title": "James Talarico Leads Ken Paxton in Texas Senate Race Polls - Readers.id",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSjM0OG9hRE5DbUVDYTB0NU04ZHVtLVhjZ012cnR2akpiTmNnQkhyZUFINjhzeF9ueWxWdUpqUWNJZ3ZEQlNBaE93N29SLUxmcEkwNDBQZTZ0cUtaTXo4cmtOSF9VSngtTzdpbDRXUFlYN3AyNkZnV0gtT1NRYk1UeQ?oc=5",
@@ -1559,58 +1607,6 @@
       "matchedKeywords": [
         "talarico",
         "paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W36"
-    },
-    {
-      "title": "Ken Paxton Uses AI Deepfake to Mock Opponent’s Faith in Texas Senate Race - easternherald.com",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQckVpbXBZRUN5R01sLWZGSjRnMXVOOU5peS1CMGhRSkNoZDJRQmg2eGJELUYwdWR2a1BsWURUY1Z0Zkd6REVkR1hqdkZDdGNra2E1NHhNTjVQN2VYbEtISDllVldRSlM3R0VlYW9teXM0Ml9HVXJ4WHVLODc2bDdsREFvQzc?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 21:44:51 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W36"
-    },
-    {
-      "title": "James Talarico says Ken Paxton is \"lying to the people of Texas\" with AI ad that puts \"words in my mouth\" - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQemxuNm13LURJd1pnYl83ak1TZTJILWw3MU9NZndua1I2VHhPOWhIVEM2d2ZDbGw0aUo3M01XTF94SDh4eDI5cXFwZ0pZa2U2Rmo4MzU1VngydzBsSnBSVnlsbzJDaTdIRWxxcDNfVV9iY01Tb0xKMUx1N3VueTNPYlJjLURuSEg0dTVr?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 19:41:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 23,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W36"
-    },
-    {
-      "title": "James Talarico’s Chances Against Ken Paxton After Latest AI Attack Ad - Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Ma2s0bXI2cy1jSlVtaGVIR25ueE5WUjY5M3NLVERBMC1QRW1PSWZORzVPeFRyWm9fd3FDdk9mY1RVaWdoMTRwZE1vTWlFSGpIMGQzSE9qdDU4YUg4UmtBS3BKSkNmaFpiUUJlOTVXQUNlLXBTOTRTNFdSemk?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 15:38:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
       ],
       "sentiment": null,
       "error": "HTTP 405",
