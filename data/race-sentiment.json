@@ -1,9 +1,44 @@
 {
-  "analyzedAt": "2026-09-15T18:24:16.406Z",
-  "newsFetchedAt": "2026-09-15T17:35:30.472Z",
+  "analyzedAt": "2026-09-15T21:39:45.591Z",
+  "newsFetchedAt": "2026-09-15T21:06:13.443Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Texas Senate race: How James Talarico and Ken Paxton say they’ll make life more affordable - KETK.com",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdHZBM1hhQTJTczdZUEZtdWVUUk0yNW1STy15eXVCYm93bkZrM1VjdDhuN2ViZjBvY2pBQ2tYTWJkYUJrcjI4RlFHZFozcVRlcTNnanNYb2Roc3BNbFp2ZGMyVk5jU2VRSExvQnZRU0RTdFBWeDRsaFhqYmdzSjlaWnBGdThRWGJGZjdpTWpUOWphMmVnMUhleWZRWmJCLUUtVkJEdzF2c3l0NUw4ZU5laGVnZzVNdVhTY3VGU1ByQm92TlNNUkE0dWYwMTJFc0pWem01TXdB0gHbAUFVX3lxTE85RXlfYnZQMzBMaWhpaTJHWVpYN09QWHlhZFBzTGFtY0I1QVlMU3RwTEVlQmNIR1M4WFFoN3dRSHRjaFF0Y1poNlFrMF9vNDN4dmp2bVBXR00yUEl4S080WlpWaVp0TlVIX1VsX3RFTU9TaXBtdmpEQXg5cGRIY0laa0o5dWRwXzg0b09MMFFVd09EVW5MX3c0OVE1SUpaTHlUNnA3UVd1WFJYUzdRQXFDUkRiVVl4NHNoMGtramlhRGxFUlZOcm95cnJGeXk4V3lNS1dIRUFWQjBtRQ?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 23:19:09 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 38,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W37"
+    },
+    {
+      "title": "U.S. Senate Candidate Ken Paxton (R-TX) Rallies in Longview, TX - C-SPAN",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZVRMNk5qTEVmYS1CMEhiOFUtQk1WcnlGVlJsME5rX0UwN2QtRWdsc2piYXNqajhEY3FMOC1ZVGtuY0F3ZDNoYVFWTXlRd25scFByUV94UVh2M2FDaXN2ZU80X1ludmEzRnJ2bzFXNFd6Mk5LdkJGOEppSG9lelJWMTRxdW5GeHBLdThDcmZfaVNuamhlUE9pb2hHX0MxdmRZTnlpR3BWTVpYdkl4?oc=5",
+      "pubDate": "Tue, 15 Sep 2026 04:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W37"
+    },
     {
       "title": "VoteHub gives James Talarico 55% chance in Texas Senate race - tippahnews.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdUswNGdIckxyYlFjWXQtRE1vRFBGVDJjU2NzQ2RHUTYybGJEUXRmWU9aOEY4S2RBd1RVMF9LR2I3TTVVV1BwUjA5c2FiSElsLXZyV04taWlKT1FKUUVwSERUdE9JRENxZl9QOHl2aXpGR0FQRGtXMm03UkNPLVNsbDludVB2dEl6ZWNlalpGeXZpenJyaWZfekd0Y2s2dw?oc=5",
@@ -1582,37 +1617,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W36"
-    },
-    {
-      "title": "Ken Paxton makes plea to Texas voters as US Senate race tightens - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNzVxamJ6YTg3b25WWTFDWTVKVXFmdFFROHJlNkJMTFBndjlWdGJzTmZuQnh2UlBxSGhOdW5LclJyekhjMThEaHZfQ0tsb0lfVC1KUDhuWjJRdmZGRVV1cGZSakdTNTJLbnhWMmhFZmdMQVNhTnp3b09Ud1BINVJFQ3hDTlZ3VWFRWlNXYXFsS2hJeDlMQTZpaV9JOTJxbXU1dGIyV0hOLTJob2QwMTY3MWM1S2kxYXF1ZjlEQm5xRTNTQ0JPVTJwcGRpU3F0X1NneTUw?oc=5",
-      "pubDate": "Thu, 10 Sep 2026 01:24:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "In Dallas speech, President Trump vows to come back to Texas to campaign for Ken Paxton - Dallas News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbER1bUx6NzAwRU9wNUF6SGg3VVdVSk5iUDc1QnFIVnRFNzk2aERnU2NZdmRwQVJGOGUyTmlUSXdJTlVmMWowTmRlVG1KNDM2SHZ2c1hFNTMwbkV5dFkxRWpVdy1fSW9GdERSZlIzNUlNWUs0X2E4R29hZC1pOWZSWWdXempyYTB1dmVobnAweDRzVmlUUC11UGF2bDU?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 22:44:40 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
       "weekKey": "2026-W36"
     }
   ],
