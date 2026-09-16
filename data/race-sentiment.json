@@ -1,9 +1,39 @@
 {
-  "analyzedAt": "2026-09-16T18:45:58.979Z",
-  "newsFetchedAt": "2026-09-16T18:21:06.150Z",
+  "analyzedAt": "2026-09-16T21:58:15.786Z",
+  "newsFetchedAt": "2026-09-16T21:35:38.330Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Family sues Ken Paxton, alleging Texas woman died due to denied abortion care - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUTg0VkxNcVlyTHhyUVhEcXBOOTdKUC0yT05mYk5UQ3V6MkR4LVVOME1BSGxob1lYdm5XMGZLYkNkZFBNbXQtb3dvLVltR1hTUHQ3X3ByZUhaRnJ5dUJuUVNkMG16XzQ4RHlkamd3ckJLMEdMaFVyUkpNUTdyb3djcUtjeS1qaWRXdGd1MWY0TmVWR191bGxDWTQ5TEdXazdzZUpIX08zX2Z1ZUREem93Sm5oU2ljY3pTbUVLeTZmTTlzbGs?oc=5",
+      "pubDate": "Wed, 16 Sep 2026 20:08:21 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W37"
+    },
+    {
+      "title": "GOP slams James Talarico over viral Alyssa Edwards clip - wonderwall.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa0Y2Y2NSdGo1YWdGTUM1YXRQeXFUT2FyQ2Q1ZVAtd19NcG8wQWZ2X05RN2JOOXhQNHhkTEtfblI1NzFISzFIWWh1N3dtOXhPOVlUdDhWZ2Z0M1lOc2xzaHlGNjd5TkNpSEFadXRKbmNXaUNlUkNNWVJJN2ZwVU85U1B0aTFCRHBxRGNZZ3ZYSm8tSkw2dl9haV96eERVc0pHTjZrVVNxZmN5TmNueHZHQjJCX3g2eU1mdUE?oc=5",
+      "pubDate": "Wed, 16 Sep 2026 14:21:46 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W37"
+    },
     {
       "title": "Democrat James Talarico's odds of beating Republican Ken Paxton in Texas Senate race reach new highs - knewz.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNTN1T1hxNFJwTTBrMFJoMkNvOXEtOEZqSHJZY1ZjSkZfYXV4eWRPR1FBOTk2T1RJZGxCaDd3dWlqMjZmNnFTTzA0RVlCbTJRbW9ONy0xeDduN1RvV04zRzczUF9nZmNJOVduSk9PdDVQdFU5NHdJUGNqcm02MkpHemgzbFVJRzU1a3NyN0NxaDV3MERELS1ENVJldDJnQlNVRnM2b3R3Tms2ZzhGeEVJNjJn?oc=5",
@@ -1586,40 +1616,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "Texas Senate Race takes top billing at 2026 RNC Convention - wtvm.com",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX3laempidV92WEotTlFBVndUNGJCRFUzUHlta1VCdjZnNVB0SGhrQlBFa3c2Q3JjMVNqZjlJbTBKVWU5WDd6RlpJcVBhcHJkY2tkZld0S0U2QlpUUTVjLVc5MUtuTDJ6NEdMYm5vam4wdEpBa1J5Vm5qcGpkTGdFTUtrTWlHcllfVEI3Q2NVRUNwTGZiNTNOQW5n?oc=5",
-      "pubDate": "Thu, 10 Sep 2026 02:02:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "Ken Paxton faces scrutiny over financial disclosures in Texas Senate race - eciks.org",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqZFhWeUtDdGtaWndwVHp1SlVsb0twNVdjMzVaQjEwRzFBRHM5eW1rWlJWTEliYlE3NWVSUlRkamVaMnJDQ0ptVm9aSzJsNy1GWllxQmxmei1lMlEybWVaNV9fT29rUUF0ODBRaGNQcU9NLTlzeDY4?oc=5",
-      "pubDate": "Thu, 10 Sep 2026 12:42:09 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
       "weekKey": "2026-W37"
     }
   ],
