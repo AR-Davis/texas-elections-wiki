@@ -1,9 +1,46 @@
 {
-  "analyzedAt": "2026-09-16T04:40:25.225Z",
-  "newsFetchedAt": "2026-09-16T04:19:51.764Z",
+  "analyzedAt": "2026-09-16T09:46:07.896Z",
+  "newsFetchedAt": "2026-09-16T09:27:15.409Z",
   "totalAnalyzed": 100,
-  "newThisRun": 7,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Texas Senate race: How James Talarico and Ken Paxton say they’ll make life more affordable - ConchoValleyHomepage.com",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSmh5NGpMOVdibXdfTlo5akFCOV9lam0wTWFDaXRLRW1Vbi1GeF9aNFJvRGlwQmZfYlZNUGF5V056Wm9BeVNqNVYyekNzbWZtaW42bDNzR2FVOFlEOGhSSUh3Zk5ST19qdWNZYnBXOVVjMmR0YTdsZEFtS3ZaM0k0UHM0NzdRMlJ4UUdTdWljaG9TSUdhbWtSQjhVS3FFb0tHMjNvTTRTUmNIZU14c0g5Z3QtSzhvMVJRYlc1WU5DNmVEUmwtWC1ZTy1oT292dlJHLWtfZ1VCbWhERmpxdVhNTEdsZ0sxVnBSY2I0S0VR0gHkAUFVX3lxTE53d29lZzM5bmFQT21XQmVBZVdya3d1MjZ3SG5ITWRpN0pUbFItTW9qb0pNNW43ZmdJR3N4VG4wbkdTWVduV2Fma3hBZE9WYk9mdF9CTDdzRnJtQWtnZVRyTGxiRTBSMF9TcGtmRlNuVmlhaFBncDNKczRBQjZOQWEzMDU5WWtqaXJBbk1pdXgtbXdaZmM3bjRYOGxrSUhNWER2bkgwMWMwajhOU0lWVlZRTGNkZk9KUC0tOE41QkNMaGE2dWJQVFdoa0dnby1RQW1Kd2NUaXNyWE0wMERnU25GY19sag?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 12:53:45 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 38,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W37"
+    },
+    {
+      "title": "'Republicans for Talarico' launches as Texas Senate race tightens - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTlRxcGlDZFlEMzJlOXNudW5wcW1LcmpOOFhDeFZmWTN0MEt4a1pCWmdHUkxicGdVaEJlZlVfWGV1bWxrQnhhVlFfWXlqNVJMOU50XzhLLXFOM05CRUhzX3hWdHB2NDAtakl0eW1kU1BPMi1ZeVFxaUJrWWJYdGROUnlMR0dSU0txQlZGbk93bmhUQU9DaFlzR2VLMU4zejUwYjk0Z0RQM0IwUE9wSENEdktCeE55ZVVaVzhXbGNaWlRSRk1xRF92MmMwblhkUQ?oc=5",
+      "pubDate": "Tue, 15 Sep 2026 17:06:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W37"
+    },
     {
       "title": "Ken Paxton vs James Talarico: August polls showed Talarico with a slim lead - eciks.org",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BVUVhanlBeC0yZ2dENUo0ZGxXY1cyeVBJRXVia0g0ZFl0Nzl3cjlScjQ2UzVIX3E3aUk0U1h4Ykp0MHZjWU4wRHdoQWd6OFJPdjVBQzFhaUNYQXVqaGc?oc=5",
@@ -1583,37 +1620,6 @@
       "error": "HTTP 405",
       "candidate": "both",
       "weekKey": "2026-W36"
-    },
-    {
-      "title": "Trump backs Paxton, mocks Talarico at Texas Republican convention - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNLUpQY0RlenRPTVZqaDhPc2E2Tzc4QjlhQ2RtWVo3YzRndURVaWVENXVBSUotQWprMVBnUll4SDdFZmRCOGZiZ2Rxejhua0lFb0duZXdsVDFoZ3JZOGxkMHh1b1hiUUdkYnFmM1VVV0c3LV9GcV9tcXljNDh3cXI4aEZjOHgxbmVwUVRwREF0ZnFGaXozemR4Y2FGdnFydTlsam1Kem9lWFdkVXJyRlZXQzkwcTNLRzVCM2NwX25Wa2pMUGJuU3paS3dUak5SV1l0YzJvT0hkNHBXMFN4aWV5aFBaZw?oc=5",
-      "pubDate": "Thu, 10 Sep 2026 13:13:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas republican"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "Jimmy Kimmel’s interview with James Talarico won’t air on ABC, will go to YouTube instead - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOMHZRY2x0SEdjYUtSa194SGdUNnhsLXl0X1lrVkdsTVR0SjNqS1llc1EyY2FqblZFU01QNTRrRlR0ck9PQUFHclM4ckIydXU1b3lBWUg2UkM1UDRacGxtZk9aOHRiSjR3ajlnMjhYRmpnWjVBS3VodTVlMHE2ZFlfWWJoYWlyT2UxZmV4eGJEa0NhckZzU3hWZUZpVjdTMGEzajZabXktVmF0dXZmUjRiX3U5NUozWkxlaUZld0RzUmdlMlNLX2wzc1Q2TnJ5Tkstcl9PTHFueXBLTVdtUXFma3Nnd3B1azZqeERWZ1lWTXdyMGZGZWRRSG52MjF3SWkxdVByN0tpaG4?oc=5",
-      "pubDate": "Thu, 10 Sep 2026 15:24:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W37"
     }
   ],
   "weekly": {}
