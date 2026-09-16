@@ -1,9 +1,25 @@
 {
-  "analyzedAt": "2026-09-15T21:39:45.591Z",
-  "newsFetchedAt": "2026-09-15T21:06:13.443Z",
+  "analyzedAt": "2026-09-16T00:03:47.775Z",
+  "newsFetchedAt": "2026-09-15T23:37:26.226Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Poll: Talarico Leads Paxton in Texas US Senate Race - Newsmax",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbW11dE56bFdLalpfVEFXTVowQ1ZRd1FlTUkwNzNjaW9rUTJuZlRjLXhkS1FBTHp6T1ZJX3hsWGpJYkpnejRZa0JLSWxTY3NnaTRGdmotOGthZTFESFR6blpXTUlncmEzdDUxQ3lRNUhLcXdTLXZaVDlYQk5yY0xjNU5JZVJVbVllTmN5bk9udXQ?oc=5",
+      "pubDate": "Tue, 15 Sep 2026 20:36:54 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W37"
+    },
     {
       "title": "Texas Senate race: How James Talarico and Ken Paxton say they’ll make life more affordable - KETK.com",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdHZBM1hhQTJTczdZUEZtdWVUUk0yNW1STy15eXVCYm93bkZrM1VjdDhuN2ViZjBvY2pBQ2tYTWJkYUJrcjI4RlFHZFozcVRlcTNnanNYb2Roc3BNbFp2ZGMyVk5jU2VRSExvQnZRU0RTdFBWeDRsaFhqYmdzSjlaWnBGdThRWGJGZjdpTWpUOWphMmVnMUhleWZRWmJCLUUtVkJEdzF2c3l0NUw4ZU5laGVnZzVNdVhTY3VGU1ByQm92TlNNUkE0dWYwMTJFc0pWem01TXdB0gHbAUFVX3lxTE85RXlfYnZQMzBMaWhpaTJHWVpYN09QWHlhZFBzTGFtY0I1QVlMU3RwTEVlQmNIR1M4WFFoN3dRSHRjaFF0Y1poNlFrMF9vNDN4dmp2bVBXR00yUEl4S080WlpWaVp0TlVIX1VsX3RFTU9TaXBtdmpEQXg5cGRIY0laa0o5dWRwXzg0b09MMFFVd09EVW5MX3c0OVE1SUpaTHlUNnA3UVd1WFJYUzdRQXFDUkRiVVl4NHNoMGtramlhRGxFUlZOcm95cnJGeXk4V3lNS1dIRUFWQjBtRQ?oc=5",
@@ -1602,22 +1618,6 @@
       "error": "HTTP 405",
       "candidate": "talarico",
       "weekKey": "2026-W37"
-    },
-    {
-      "title": "Talarico, Paxton face new Texas Senate poll as Election Day nears - The Patriot Ledger",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaTRNUjFndVFTLXhlVzEwNy11MGVTZEl3N01Dai1QeC02OUh2aWhiS0I3Q2F0aXd2NHREY2JjSUFnZFlKU25jLVIxM3o0WGpyVjA4VkgwYV9raEJfbVRLcDB6M1FhWFhoa052SHA2N2dQdk9ONl80QzdSTi1zSVV6bUFpMEtneGtfUGlpcGloQ08wZG9pNmRhcFFmNVFjdHB3SnB5M0NSZDdZUlN4NDZTcGY1SE9wdmR1VEFQdnJVWVpFRTQ2WlBsZ290VW1lYmt3X0E3TXVWSGw0UTBkOFlpN3VybXFrUQ?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 18:30:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W36"
     }
   ],
   "weekly": {}
