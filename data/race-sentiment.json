@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-09-17T05:10:05.393Z",
-  "newsFetchedAt": "2026-09-17T00:15:02.306Z",
+  "analyzedAt": "2026-09-17T10:18:33.743Z",
+  "newsFetchedAt": "2026-09-17T05:11:20.451Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Paxton tells Longview crowd that Texas Senate seat vital to nation’s survival - Longview News-Journal",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb3h2eHRsTW1tTWRXMDE1QlRLenNQN3h3WkFKaFU5ZWxkQUgxNzFodnpRTlZoRDR2ME5DSkZndVlEa0VsUl9DNWtxQzZYUTRudDhLNTlXUmdMTzR2bnhmSHVKcUc1X2VDaFJ4bWpILU9LeWUyUUhiVDUydVJBU1pJRXY0ai13NHlCRmNDSWJEZGczNTJYUTdZMWlXTEdGT01hNXNMbXRzeFdzT0o4a19FSkF2UQ?oc=5",
+      "pubDate": "Wed, 16 Sep 2026 11:04:02 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "texas senate"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W37"
+    },
     {
       "title": "Ken Paxton's 'Weird' Smear Against James Talarico Goes Viral - PinkNews",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IOVZpZ3lFV1FlNkRjN1NvUEpmYjdha3JENkZadkhzWVFfenNnQ1F1TEI3QnVfX3FxTnVZY3poQm42OU45MWhRbXpPU0JQVGx0enNoal9SVUw0VDdQWEh3LU9SMTNNMXR4NS1kNFhOdDBuelJl?oc=5",
@@ -1599,24 +1614,6 @@
       "error": "HTTP 405",
       "candidate": "both",
       "weekKey": "2026-W36"
-    },
-    {
-      "title": "James Talarico Clarifies Positions on Border Security and Identity Issues in Texas Senate Race - SuaraGarut.ID",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJMHFseFpBLUVTd1MtZnR3WU9RLVpPMVlpOFVaN0ljaVJBdUFXTTN4d3I0dFZhRU1hb1FHSkc2NVZLbDNBMGh0ZEhQTG5DX25VcHB4WXRsWERYX2p4bXN3OFp3ZERmdzRJMk1pb25sZzFvQQ?oc=5",
-      "pubDate": "Thu, 10 Sep 2026 03:46:22 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W37"
     }
   ],
   "weekly": {}
