@@ -1,9 +1,43 @@
 {
-  "analyzedAt": "2026-09-17T00:13:34.205Z",
-  "newsFetchedAt": "2026-09-16T21:35:38.330Z",
+  "analyzedAt": "2026-09-17T05:10:05.393Z",
+  "newsFetchedAt": "2026-09-17T00:15:02.306Z",
   "totalAnalyzed": 100,
   "newThisRun": 2,
   "stories": [
+    {
+      "title": "Ken Paxton's 'Weird' Smear Against James Talarico Goes Viral - PinkNews",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IOVZpZ3lFV1FlNkRjN1NvUEpmYjdha3JENkZadkhzWVFfenNnQ1F1TEI3QnVfX3FxTnVZY3poQm42OU45MWhRbXpPU0JQVGx0enNoal9SVUw0VDdQWEh3LU9SMTNNMXR4NS1kNFhOdDBuelJl?oc=5",
+      "pubDate": "Wed, 16 Sep 2026 16:24:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W37"
+    },
+    {
+      "title": "Talarico dragged down by drag queen in toss-up Texas Senate race - Washington Times",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVjdqa0UwRnRfSjRmaWo5Y2ktdkNLb282aC13ZTh4WFBMeEgteTduR2NwTmRJWnRHLUJxcVA3SEI5dDA1d2hSS1J6Yms4MnliMDFuU0g1cXd6eEN4TnhKZTlyVTZwSzRFNU9Semd5UUxTN2daWU5GSkJsMnhSblBfRFM1SmxwSXc0czZkR042ZkpJWnVFa1h0dTJOWkN4MmhtUklveXFQY1JWUQ?oc=5",
+      "pubDate": "Wed, 16 Sep 2026 21:31:15 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W37"
+    },
     {
       "title": "Family sues Ken Paxton, alleging Texas woman died due to denied abortion care - Houston Chronicle",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUTg0VkxNcVlyTHhyUVhEcXBOOTdKUC0yT05mYk5UQ3V6MkR4LVVOME1BSGxob1lYdm5XMGZLYkNkZFBNbXQtb3dvLVltR1hTUHQ3X3ByZUhaRnJ5dUJuUVNkMG16XzQ4RHlkamd3ckJLMEdMaFVyUkpNUTdyb3djcUtjeS1qaWRXdGd1MWY0TmVWR191bGxDWTQ5TEdXazdzZUpIX08zX2Z1ZUREem93Sm5oU2ljY3pTbUVLeTZmTTlzbGs?oc=5",
@@ -1582,40 +1616,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "talarico",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "James Talarico edges Ken Paxton in Texas poll as GOP midterm convention opens - eciks.org",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXMTk3M2t3cEF2TFJZd3JoTGFWOXVpOUt2Y2gybWlSMEhQZmpKb20zTkNCVHZZRjdqa2p5QUlpdHRVazhwVUtkTDRhMWRWWTgzX1gtLW56bGg3QjRIcGJkN0pIS0JQRjA?oc=5",
-      "pubDate": "Thu, 10 Sep 2026 12:42:06 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 23,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "Republicans hammer James Talarico at Dallas midterm convention as new poll shows him leading Ken Paxton - WFAA",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQN0d3TUhvemhiNW5Hd0IyRF9mVHlTczVBal9KaENsdHpCbFVqZzY4aThpejVLUV8wZ3k1d04wTFBGaXM4U2Ywd3VxMTlBV2pPSk5Wd3FJX1BJSlZIU0tyX0lMUXc0VkhQX3VLTE1OdnNUZktlVXhwTURfM1FfV1RIWEMycUN3ZzNVMHdxekU3WU9HM3hRTmk3VGRMVmMzelFFM0FPLUNxX1BxVk03UFozNy1McDExdXFfVldnNUhxbThDenFUMjRNVzMtdDZiSVlyaXp3OEdiUk5laklmbDU4YkdMN0pUWWl3TngzT0dtbkxwcmlSU09VaDFDb2tpblpsaDBpbUtKVlVJZGJCYlRFWE9oT1BGbmw0UTRaSVhnSC1IdEk?oc=5",
-      "pubDate": "Thu, 10 Sep 2026 02:31:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 23,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
       "weekKey": "2026-W37"
     }
   ],
