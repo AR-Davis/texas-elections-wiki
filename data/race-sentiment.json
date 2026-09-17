@@ -1,9 +1,57 @@
 {
-  "analyzedAt": "2026-09-17T15:13:05.509Z",
-  "newsFetchedAt": "2026-09-17T10:19:25.817Z",
+  "analyzedAt": "2026-09-17T19:11:59.898Z",
+  "newsFetchedAt": "2026-09-17T15:14:13.218Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Ken Paxton is within striking distance of James Talarico - knewz.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaHpRa0d4ODl5VmhVbm9DUG5zOXoycVM3UUdmVVJ4Z2RGN2VYUXJSUThXcEJ0SWctclpmT1FqVnV3c0FORjlGQzhULUoxb1N1bndvVThvdzFaVTF6RzF6NDdXZFRkV01xYlp4aVV0QkMtQmxaSzdZd0kwMUhrMmlMSHI0cl9BZEc0Uk1xdHFlRWU0TG9aeGxQU1FZcHVpZ2pCTVhLWldJc19kQk9TVmd4TXJn?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 13:53:08 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W38"
+    },
+    {
+      "title": "National Right to Life Endorses Ken Paxton for U.S. Senate, Texas attorney general has consistently defended life and the most vulnerable - National Right to Life Committee",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQY2RCV29KTm1ESGxtaGNwSDk5UmI5RFNOWWdqWXFweDV3TnFRQWFEdS1weGctM0xLUVNkYUQwT3VNUy1sRXhQeDdEbTZtSVU5YTI4azZQNVBKYXZSZXJOcF96b2M2Z1c5cl9DaHJRdmZDcTVtWFdhak9ONGdoa1otd3duMUlrNEJiQnZpOWZRTkN4VmNIWEJfUTc5YndJVm55UUJFZDdTZWN4OWRQUVNWOU5hcld6Z1FhNnBqaVYxUkJCWmFOREp6STg4VmRJZ3pFdk81QUVRdGZZWVc4OGhPeHMxU2xUUmQ2WXNBWHQ1eG05bEtKd1l5TU1JZjFYcGplR2FxRQ?oc=5",
+      "pubDate": "Wed, 16 Sep 2026 15:49:19 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "attorney general"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W37"
+    },
+    {
+      "title": "Elon Musk is spending big to keep James Talarico out of Senate - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUXNGZkE3MFZBSDRrR0NRNmZGMjVwYk1wXzIxSUh3N0lnbnYzVG9hVWpya0FxYkRQNEFnLVhvekRDRjQzcG1vdHU2d3lPOVQ0OFdNU3F1MjJuMFhuc1F1ZVB3clVVQXVsWUJlTDhXSGwxX0lrU1FBSjV0WWxuY0VmdGppMUVjUE1tY2pEVkREeUZzME54aHA0MTB5a3JxN2pDc3VnVFM2QWNjTmF1UERydFF4bjZvUTRvY1RYcUxnamM?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 11:08:50 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W38"
+    },
     {
       "title": "James Talarico’s Chances of Beating Ken Paxton Hits High in Four Trackers - Newsweek",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRkJDZ08xY21OcDRQNXVQUGVWYk9aMG9jbU8wa2NDd2JyZHhfNGQ5bG16WDNRWXdpT3FMNU1QYnVxa2dzU0U1Szd4TlhRWm5aUjBjSHdDUTZzYWhMcFA4MVQ2YTN1RW5pQ3N0dDg1ZVN6cWdWRmdCc24yMnlDUVZlbHk1M3NLRXd5UUU1S0V5dHU2WGJtOWFPNUdSRUhjcTVQM1UzOGdhb19HLVpEXzlhMUFKSQ?oc=5",
@@ -1558,58 +1606,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "talarico",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "Ken Paxton dodges confrontation while slamming James Talarico as weak - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOWtNWTc5bTJBNjNRMWhtUnhFVkNod1o5eWllemNOTXpMQWdFMWJGaGo2dkd0X1FhMUZEZnJjTkhCR0c3WkpDMjF4eUpXUEx5OG1OTXd1QUxGeWcxUlMtQTFRMWU2Vmg4YVBaOHBobVBnSFpfUUtyRk1oazNxYjZpQktnN1hGWng2c1NCNm9VS2RnVHQyQjBrRVR0S1QyYTdwMy1McFZjcUR0R21NVlBLRU9PNzFLa0pmcFE?oc=5",
-      "pubDate": "Fri, 11 Sep 2026 17:24:55 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "Ken Paxton Uses AI Deepfake to Mock Opponent’s Faith in Texas Senate Race - The Eastern Herald",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvcngtUEpUOFZ5YlNPeHJrR2I2RjZha20tSnJrS09CV3lxcWpiaFVFc3ZSM2kwcnh0eWhfMlZPQlQ4em95VEtHUk9rWXFHRVQwZ2w3cXRGbURsa3VhZGc4QXRhZFZxbFBFTGZwb00yYlZoaDZOdlE?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W36"
-    },
-    {
-      "title": "James Talarico needles Ken Paxton amid GOP midterm convention - Washington Examiner",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbzNhQWZueUd6Y0VaQzNxTVpwb09vdkszbzhtSkxmclp5SDRWYW4xMG1lZWw4TVRNWnFwX0tKRV9vVTZzVk5mbXJFamlidjZfUGc2dzZmbmsxZU8tOVdyelVFOGZGTnI4VUJFZjJsYm4tNWZ4UUh0Qlc5S2FkX0FwSnFVWHdEa25Ic1lCanZYcUE1MzlOSDNfaFJ1ZWRwcG9jVGl2WEZwN05oMnZVcFIzSk5taHljZ2Rpd1Jz?oc=5",
-      "pubDate": "Thu, 10 Sep 2026 20:15:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
       "weekKey": "2026-W37"
     }
   ],
