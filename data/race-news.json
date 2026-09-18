@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-18T10:57:06.299Z",
-  "count": 23,
+  "fetchedAt": "2026-09-18T14:54:25.870Z",
+  "count": 24,
   "feedsChecked": 8,
   "itemsScanned": 109,
   "items": [
@@ -23,7 +23,7 @@
     {
       "title": "Paxton closes in on Talarico as new poll shows GOP within striking distance in Texas Senate race - news.meaww.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOGdYbkRWYTJyN2xrazcyNmVVYnFDNW10WDhCUmR1dTRMTGppMF9TeGYxN1I3VnB5TDUxMWk2Z1o1VEtvSF9Tb3pySVR6Ml9aZkdjS0NWOWdjUC1mSzdvR3pPUHl4bklxeDRZSkVMdllVN1Q4NEJHcmdoX3dBNFhOcGtxMzJURWM4OGJacWpGVFVEWENoUHZpQ3VYYnBfd19UX0E1ZFlxNmNGVUlTQVN4T1hjc1Q0UkszUGFj?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 07:38:40 GMT",
+      "pubDate": "Fri, 18 Sep 2026 07:43:40 GMT",
       "feedSource": "google-news-race",
       "raceScore": 26,
       "matchedKeywords": [
@@ -294,6 +294,18 @@
         "talarico",
         "paxton",
         "texas senate"
+      ]
+    },
+    {
+      "title": "Talarico blasts Paxton AI ad in Texas US Senate race fight - El Paso Times",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOX042NE1VMnlqS0llaFdiX0dsV0tMU0gxZ1ljNkd4LUVac2JrWk10c052eG5GakZadzcxYzBCekpJMkxuYmR1ZTRHdlhTTEpiNkk1eG9zTTZxMVNRQXlkcFo5MUJ2R3FibDJQM0VGNmpNYUZoTTBHR2ZEX2VsM1lHR0VReDhhWWYtM2tHRE9EanNDekc1RWhEYlRMcDc1aVdKcXBrSEQ2WFdtVUtDV1RXc1k2ZEpTRkN3QW5RU3VtMXBESmZRSmp5QjdwV2pFZVQ3UmV2aUY0Y0R2WGZEYzNwY3BFVG8?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 17:27:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
       ]
     }
   ]
