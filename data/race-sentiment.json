@@ -1,9 +1,25 @@
 {
-  "analyzedAt": "2026-09-18T00:41:27.566Z",
-  "newsFetchedAt": "2026-09-17T22:23:08.721Z",
+  "analyzedAt": "2026-09-18T05:43:08.073Z",
+  "newsFetchedAt": "2026-09-18T00:42:10.852Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Ken Paxton Trashed on Joe Rogan as Talarico Soars in Texas Polls - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeUJvYVVxV1ZvbDN4V005MWlNOFA4QmVFVGVEcHd4VWV3TWZyRVZXQVZCTERzYVNIOW1tNDI1RjR5TElqbEtIV01VcHFEdDdSWVo5NnFJOURPYUFpVk1FdElKWjB6SWVLcHdfb1JWMzdtcUZCYU9pNXdaMlhYSGhwRnZIeEpQaHg3Q0NDMVJB?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 09:56:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W38"
+    },
     {
       "title": "James Talarico’s chances of beating Ken Paxton hit new high across four trackers - Yahoo",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOGhlaDZSZFU5T0xZN1lfRkNfTWpUUnBtWVBVdkVOa2VEZ3A1bkJkbEhQVmI0b0JyNXYwNlJUcF9qbF9IYzBvMVYxQlM4V1FabVVkVENPb0F5LS1QMFJhSUtGcjRJYUpfeGdUSXlTdjVtNkhkdUpmOEZCQnI3NngtZHhNTmlxMjdyTUtsRW5ZcFFjZy14QTlVYTl3?oc=5",
@@ -1591,21 +1607,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "paxton",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "The James Talarico Interview ABC Wouldn't Air: What the Kimmel-FCC Clash Means for Texas Voters - Latin Times",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUEVBX24xOUh2cGxEUjRoUlkzaWFsc2NSMDVYUU5xbTdvQzhHbFRkQy1VUnRPVFB4UHVFeVFxalVyRG1ETlVkbERSWVFCOHZRckpmaElmdmJtQUwxSjVYaWlPbC1YcDJwSHZJTmUtdl94Z1J2ZEU4a0hUZU1xZWRlckc2anM4YzhHWTFzQlhVeFVvREhuWVlGM1BYZGVEREdTMC1zOTNCZHBWaXJ3ZHhlUEJFUmE4Zw?oc=5",
-      "pubDate": "Sat, 12 Sep 2026 02:16:33 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
       "weekKey": "2026-W37"
     }
   ],
