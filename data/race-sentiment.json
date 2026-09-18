@@ -1,9 +1,25 @@
 {
-  "analyzedAt": "2026-09-18T21:08:36.174Z",
-  "newsFetchedAt": "2026-09-18T18:14:06.715Z",
+  "analyzedAt": "2026-09-18T23:30:24.331Z",
+  "newsFetchedAt": "2026-09-18T21:09:25.784Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Talarico outpaces Paxton among Hispanic voters in Texas US Senate race - El Paso Times",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOS2Z5VEs3NzdGUXVsMTRDczlCc3BLVFFkNHFfY2JKODV2c2t4d3NJdDd6T1RIbngwQk9tUUREN3ZlQmU0clFuRWpUZ25GalRjbXY5RnJwbmhtUFZQSWVLSTFOZnNla1hIMkkwQjNkalpKWnRFVVlvTGUwVkREcFR2RjN1UDdIZDFHbDZ3UXdqZ19hSy1mY3Y1YXlzeER2TXZhVmNNcjAwcGhpeHo3ZjRGVEt6RXBMdkNJQ2g4RkpsOTVVTGxtNWhvdkZiWDRBRnNncGZLYkRwbEJqN0ExMGtwdm5ZeWYwd0VYQndWT3ZR?oc=5",
+      "pubDate": "Fri, 18 Sep 2026 14:25:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W38"
+    },
     {
       "title": "Democrat James Talarico leads Republican Ken Paxton in Texas Senate race with every pollster for the first time ever - knewz.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPck9kTnd1MElxc0VLYUdJRHVaMFFhQVdFOGRQblZTSjZOcDR1bk9XQ2pHRzBWVUV2TmxuT0x1Vjc4Z2p5LW9CNUtFS1g4U05aemdHX1VXbC1xTTN5bmRTMkQxRXpvNWpRTHd0cjR3R0pmdUlvR0UxQzVDSV8wdnhLeGFieHc?oc=5",
@@ -1598,21 +1614,6 @@
       "title": "Texas U.S. Senate Candidate James Talarico Holds News Conference with Epstein Abuse Survivors - C-SPAN",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbEU2TGhqcXdiYUJ3OFYxNzBXcEp5Zi1SWkJpVnRUYWpEbFd1czBWT3ZPblNRdFlFZVFqejFDb2RoM09nMHdSRmptYkZPVGwyTUgtNU5ON2tHNUFaVWlhLWtKTDF0T2lwZjBLUnVMZ3c4MFJBRXFhQXltaGZ5ZUNJdzdJOEpCRlB4YkQ3T1VzUHN6TFRxNnBUUWtQUk1hckk3OTlUMGdSNUxqVTZMT0dPZjd4ZGdzd1JBeXdyZ3V1Y2doSFBYNDlCanc1YldDbGVqam41ZEYxeFhUQVE?oc=5",
       "pubDate": "Fri, 11 Sep 2026 02:59:58 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "James Talarico highlights Republican support for his Senate campaign, collects food for Texas families - WFAA",
-      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNNmhBY2pTQW5yckxZYnVfT0xGNlNCZjdsWTNjenBXSW5qS21rQ2VpMUJVaVZsVGRCTzhkMzh4akRKc2ZxQXZ3OFRjcEs2T3RLOG5Ub3FkZnBLcmJUWU5oVXlJZzZLRXRtelhtTUNoNXdaV1JjaXJDT2dYUU02NHlieGMyOTdKTTRBNEVKTjA1Yk9pRFJMNlhnVXZnOV84UWZ1M3B0RHlQVjhQMTVzWjdxXzY1dHVoclF0WlN1SXIwdEttdVA1dm5wOU1WeVVqQjdSMWtCaDhGT2hacmlncFZWM295Wndtb1hTX0tIX2pmbWthbk0yaWJJMWRTczMtU19QMFp1UDJBbjJKd1AwRDBuUkJ6YjkwMndCc0paZVpfS2NsLWVJSUNuNmRzYVMtWGl1TGtUQ2F2T3pZZDFP?oc=5",
-      "pubDate": "Thu, 10 Sep 2026 19:58:00 GMT",
       "feedSource": "google-news-race",
       "raceScore": 12,
       "matchedKeywords": [
