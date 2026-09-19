@@ -1,9 +1,25 @@
 {
-  "analyzedAt": "2026-09-19T20:19:53.115Z",
-  "newsFetchedAt": "2026-09-19T19:14:46.671Z",
+  "analyzedAt": "2026-09-19T22:25:39.123Z",
+  "newsFetchedAt": "2026-09-19T21:38:45.430Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Ken Paxton | Texas Attorney General, Republican Senate Candidate, Impeachment, Divorce, &amp; Biography - Britannica",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mbk0zSnlhSEFWLVY1Sng0d0hNQTJmZGt2eEJFZUo3cVpKWE9RNlVSWHplU09Zb1FWNHRldThhZUNVUXRWN1J4MzNjeEpmc1VFRVNlRTJra2ppc0U?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 05:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "attorney general"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W38"
+    },
     {
       "title": "Texas AG Ken Paxton owes overdue property taxes in Hawaii - KERA News",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRnc2S0Q5QVNXOHYyTno2S19hVGthR0tzM3hPWFM1blgzWDJ5MjY0bFJkVFVUSWVzNXIybzF4Q2RJNXl3RWozZDAxMmEwR2VzdVdFN3JCeEEycW5fUEYtQU85SXdfUThHMlV3S1Z6R29LQkE5UFl0LWxGdXQzcFJJTlAwMXA2NU5rNGNZS2lwenQzYWRGbUFIemw4SHVYWXM?oc=5",
@@ -1616,21 +1632,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "paxton",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "Paxton and Talarico spar over racially charged post about Texas college students - Washington Examiner",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTkZXdllkeTZsVGxaMUV1ZTQxQzBlUVJGRDFDbnpnNWpJX1RGbnNvcGlRdU5GSHR1UEozVWc1SXlSRXYtVDdxZHFtM1lPSVJJUVM4VkpXNVRQOTZNdkpKQjlvNG1mRVRvT3FQU1hibDFPdWNESmRyMFFCS0wyTm9paExjWmNlU0wzRnl3dnhvMFllTDJFSGZGR2Q1XzkxT3dsdEppZG9UT3NtMkxIY2tNag?oc=5",
-      "pubDate": "Mon, 14 Sep 2026 01:17:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
       "weekKey": "2026-W37"
     }
   ],
