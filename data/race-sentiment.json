@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-09-19T17:51:54.810Z",
-  "newsFetchedAt": "2026-09-19T16:42:33.609Z",
+  "analyzedAt": "2026-09-19T20:19:53.115Z",
+  "newsFetchedAt": "2026-09-19T19:14:46.671Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Texas AG Ken Paxton owes overdue property taxes in Hawaii - KERA News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRnc2S0Q5QVNXOHYyTno2S19hVGthR0tzM3hPWFM1blgzWDJ5MjY0bFJkVFVUSWVzNXIybzF4Q2RJNXl3RWozZDAxMmEwR2VzdVdFN3JCeEEycW5fUEYtQU85SXdfUThHMlV3S1Z6R29LQkE5UFl0LWxGdXQzcFJJTlAwMXA2NU5rNGNZS2lwenQzYWRGbUFIemw4SHVYWXM?oc=5",
+      "pubDate": "Fri, 18 Sep 2026 18:34:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W38"
+    },
     {
       "title": "New poll signals movement in Talarico vs Paxton Texas Senate race - USA Today",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbWJqR3dlVS11QlZPb29Vb29HVmlGdjFXal9DbUUyXzhDUnVNZEVNejktUUlvdmZsRGVmMlo5VzVhdXBfQms2dDJValllUHFDOW1sYlFvdWxRUHNYaVltUkVxVG9OeDZrVmRBWTBqTkpTQzB0VDB3OFcyV0ZXUk1PbnMxNENmOXAtTEM4dlJBa2VDMl9IZ3NSRXZTYmRKU1NBOGg0VDBWdlFjUXlmbHJz?oc=5",
@@ -1612,24 +1627,6 @@
       "matchedKeywords": [
         "talarico",
         "paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "Paxton whistleblower backs Talarico, dragging Nate Paul into Texas Senate race - The Real Deal",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb2RZampybUw3RVlUTkw3SHkxaGFubG5QSzJwbmMtSTg3Qy1NR1IwbzkwbmpCZEszSzFraTEyc3gydG5kajI1OEdUQXRyNGpsaUdoemlicHRFQV9jOENIOTNtWFFpNzhNWVNuVnlqcTBmbjBwZS03UHVKVDlxbUgxMGJVbGg2aFU?oc=5",
-      "pubDate": "Fri, 11 Sep 2026 17:35:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
       ],
       "sentiment": null,
       "error": "HTTP 405",
