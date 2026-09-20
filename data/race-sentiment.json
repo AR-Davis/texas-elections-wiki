@@ -1,9 +1,42 @@
 {
-  "analyzedAt": "2026-09-20T19:40:22.144Z",
-  "newsFetchedAt": "2026-09-20T17:36:23.079Z",
+  "analyzedAt": "2026-09-20T22:17:56.290Z",
+  "newsFetchedAt": "2026-09-20T20:36:15.389Z",
   "totalAnalyzed": 100,
-  "newThisRun": 6,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Republican Ken Paxton is within striking distance of Democrat James Talarico in race for Texas Senate seat - wonderwall.com",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQR0tEbTh4R0E2Zl9ONnBWWnlRNFQ4bTJTYlR2VFpnZUNHUEJFZUJOWGNYX0laWURxV205a1EyU3JxN3BFeVYyZjV0T21CQjhWdEpYSkhVWnhkUlFGRm5iT1RELUpCVGNJYzZ5NzhTNUlQY0FKbUZneWlDdk1XcklQYlZubTZOTDY2SFVwTVdFU0hVNURSNGpURjVXMEVLb0l1OTBrdjVoeXJxN21GazF0dExrSU1GcW1INnlqN0xLT1pBaUpCMVNSUUxlNHFNWmo4XzJmZlBnQ0tsbFpKREE?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 18:11:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 28,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "texas senate"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W38"
+    },
+    {
+      "title": "Yes, They Do Exist: Ken Paxton Shuts Down Chinese Birth Tourism Center in Texas - westernjournal.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeFd4VzNIVVVRSUpLRDdyRjZTNUFYZFRQYURneTdnTnRnSDNZSlVUT3pMUndBZ3NBbmVTdXp1cmJhYk0xRUFySzFTdTJZa0MwQ0VMSDRUbktGQ0JXcm0weXFmMUd3MDA5RUhaUm42MFIycnBUckhTT19CcWszelRHazNkNEExTnNSQnMtTkRWM0xKN0hhUUM3TQ?oc=5",
+      "pubDate": "Fri, 18 Sep 2026 07:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W38"
+    },
     {
       "title": "Ken Paxton Accuses James Talarico of Corruption Over $83,000 Consulting Job - 2paragraphs.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN1VQQXotRXQ4dEZHWEZVOFJPRHNhSVBENlVoYlhXZGV0aTB4c0prdF9OVlZsMXlxeEJBLVJURWdOWHJVNEhjbS1EMzYxRTYzdWJjS3hMeEVaWUZTamNfNXFVUzRjNkcyLXV5M0F1UFdoMkdDZEtmWnV6b1p4WXFWbFVueUlDOUkxSEhjcHJBTVBxYS1ucUZ4TXhEcTJEdVlXRDg1dnZyQTEtQQ?oc=5",
@@ -1599,40 +1632,6 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcVJzdnYtR1h4M05jZ0taN0Z6OUtiY1NSa2NQODUxMkRkbmFaQ2dmZmJnMGFOOElmSGlDY3h6R0pVLVRnZjkwYzdkVHRuUkZaYXpsRDJRb0IzV05CRHE2UEVOOW1aNjNMeWtPMTBSaGVBMnV6TGJ5aHQwYllXT3lhRDgydjA2clozOTJQLU1SNEhTSmxjUjVtbmlmSE05cEdlSFFUZEV5OTVxWWU0YXllSFMtTTJfQVU?oc=5",
       "pubDate": "Mon, 14 Sep 2026 16:59:03 GMT",
       "feedSource": "google-news-race",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "James Talarico’s Chance of Beating Ken Paxton Flips in New Poll - Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbWRoTTY2UFpzM1JCY3VwMjQ0QXJ1THFtVlJSVEtsMkZHTENnRWpxbU1pN1NaMjNGSlJ4WFREaEI5cWkycmtWbjk5QnhLQ1dDbVhJZmJqSTZKak5PSERNR2pjY2tlT2dhUnQ1S1huSFhMUmx3ZHJZSUhLZ1RnYURjNlpMMmRJeWpIaHFrY0Q2NzZ0eVRPdl9rMEZCeF82dU1MdFBlejk3d1RPQk1maXM3bjVn?oc=5",
-      "pubDate": "Mon, 14 Sep 2026 13:35:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "How James Talarico and Ken Paxton say they’ll make life more affordable - BorderReport",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMjJrQzZLb2lxelN4NDkzaVRwZDVSUDg5RmtMSmw0YW9nd3p5OVlWOEtjcWRBajZFZGx6cTZMTFZpU1lMU2p2NUpOOTh0YU5kMDh6Q2hOcWE2SVQyb3dfcFUwRGlrbWdwV3pLT05kVE1QYmVvU2lLbndvTC1xS3R6YkRESEhkeGFMcDA2UUNuTkRMT2p2blVXRlNCbWZfaFBuQm5NblZUZTluU0FrY2Y5MHJCWkVRSkF0dlpaNWpiLWVIdw?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 22:26:19 GMT",
-      "feedSource": "google-news-texas",
       "raceScore": 22,
       "matchedKeywords": [
         "talarico",
