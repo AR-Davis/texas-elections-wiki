@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-09-19T22:25:39.123Z",
-  "newsFetchedAt": "2026-09-19T21:38:45.430Z",
+  "analyzedAt": "2026-09-20T00:17:30.890Z",
+  "newsFetchedAt": "2026-09-19T23:59:24.886Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Paxton Agrees to Debate Talarico in Texas Senate Race - Springfield News-Sun",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZ3EyZk85alVRRVUxdlRScU5UYjUwcFBYUnhtdUl5blBvaHctS2c2c3BVVG5Udmd6ZTdKUktuOEcwMWpWaHlYUUxILVQ1UnBvYm9EMzdjSE9EUVlaRXpGUGVWTVNadGUtcEVYckFsNkVfT003TTJKS2dxUDUySXNhbHo1ZFZYQXdWYkYwMFFNNXhxSzUwck5GRFh1YXFRZDBiZThXY1Y5VHhyRGhXOWJSc1hJY1JpY19KWVZFbldSRnBoY3lDYVlCMllVOE1lVl9mUUpKU3pOanhkSmNwdFVPcFhwcw?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 13:09:32 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W38"
+    },
     {
       "title": "Ken Paxton | Texas Attorney General, Republican Senate Candidate, Impeachment, Divorce, &amp; Biography - Britannica",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mbk0zSnlhSEFWLVY1Sng0d0hNQTJmZGt2eEJFZUo3cVpKWE9RNlVSWHplU09Zb1FWNHRldThhZUNVUXRWN1J4MzNjeEpmc1VFRVNlRTJra2ppc0U?oc=5",
@@ -1617,21 +1635,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "talarico",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "Ken Paxton to appear at meet-and-greet rally Tuesday in Longview: What to know - Longview News-Journal",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc2tBakJROWNRd3pSNndVT29ya1d3Q29TaktDa3ZaUklsUDZNZ0E0bTVhVlhvSTRLeXFBN1NLOENiWnJHNVNwelI3R3cwNExXUVJBbk9sZUM2RVRpREhydWNVWDVZSnQtUUktUnNVTk1QUS1hZU5tUXdGYldLZ0FFUm1oWkhMbTd6c2JvNTVVdmZTRi1oZlh6Tml1aldtV3ZSdEU5WUJSSTNTb3ltRTRPTGdqaFk?oc=5",
-      "pubDate": "Fri, 11 Sep 2026 10:43:06 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
       "weekKey": "2026-W37"
     }
   ],
