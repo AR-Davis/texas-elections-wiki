@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-09-20T05:15:41.654Z",
-  "newsFetchedAt": "2026-09-20T04:45:59.573Z",
+  "analyzedAt": "2026-09-20T10:00:01.822Z",
+  "newsFetchedAt": "2026-09-20T09:40:35.679Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Republicans pour more than $50 million into Ken Paxton’s Texas campaign - wonderwall.com",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQYlVJeUs1QXRmSVBDRVU5cWFKNGNrN3lzRy1NZjFBQjNuUjBsbUE2LXljYnRtWDlWc01VZktpS0kwSmJQTFV5LWVUZVlDZFk4UnJKbkZ0WVpuNWo1TjVwVFM2ZWhydlhMakFTb1kzYk4yM2lrcmc2UXY2OVp1ZWNDSGxYY2xIXzJ5UkYzQVF3TjRPQUgtTWRQeVNYYzZrTGFBeUlwQmJZSTlzdktYdUYtdVo4dW13OFc1QUhCN3VraW5VVVZNR3VrUl9SRzhyRlhOTHozUHlPUVV3MW81dHhmbzNYanN2eHVXRk4xNm9YNG92Wm1sUlBWU0pNaFpqT1VIWkNoNjBDaGRPNFUxdEFNdl9yQ2k0Y2V6OUZn?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 08:13:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W38"
+    },
     {
       "title": "Trump's MAGA Inc. Pours An Additional $5 Million Into Texas Senate Race To Back Ken Paxton - foreignpolicyjournal.com",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWJ2Zm1Vc3ltNlVHdGRQX18zeXAzeG5YYkV6b3RzelNpbXNIdmtZWEFRVjdKNXA2aE1pOXdBQVJ4d1VzY2RnZXZRdF9fc2p5eE5oQWh0UFhJbWhaa2FHX2l1ejVWRHYtZ0gxSHFGRmthdW9wSDJOclVaa3p0enJTVDF0RGlMZ19zeHRNZE00Tjh1UlBlcVhJNkRkSmRTa2ExcVBJWk5RNExuN1pnZ1BsU3d1bmc3cDQ5NEZfX2pmRm1idVM5dTV1eTIxNkFJZTEzemc?oc=5",
@@ -1624,22 +1639,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "Texas Senate race polls: who will win the 2026 election? - The Times",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeWJPaUZGZS1EMUE3WUR6elNRekJLdkt5ZUVPcE1fY21SdWdCeUFYMGdtSGtUUUVFZ2tDUXZVNzRmMlNBanktUUdpYTFtVllYS3dhTF9oLS1zckdzdHVpM0NHWWpkN0VhTV81VTFzVFloejg1aEZMRXVSLVZyajFrTlN1cFFzT3hXck55aTc4R2praDJ3SW1JOW41bGdLWGh5VUlUS2tsSnA0Zw?oc=5",
-      "pubDate": "Fri, 11 Sep 2026 17:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
       "weekKey": "2026-W37"
     }
   ],
