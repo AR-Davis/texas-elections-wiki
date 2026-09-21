@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-09-20T22:17:56.290Z",
-  "newsFetchedAt": "2026-09-20T20:36:15.389Z",
+  "analyzedAt": "2026-09-21T00:25:21.235Z",
+  "newsFetchedAt": "2026-09-20T23:06:05.125Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Ken Paxton’s Cypress typo draws ridicule ahead of rally with Ted Cruz - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONXRYYWZmbmZUckxndjJDRG1SUkNZSE5jWWVEaTRkajg4UVdXdmtZSlY1clFnRWxYZ0N5eFFkVHUtQlZKZEdYcTc4cHJ4LTdWV05zUU5VQUh4clNvWkRDNGtxVjN0aWNkVHhYQnNfRHYwemFCNHRSZWlsWm10dkNuWWRQWFhXMk5QTEpLSDJ5aVFzN1VMS2V2dFVPdw?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 22:32:31 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W38"
+    },
     {
       "title": "Republican Ken Paxton is within striking distance of Democrat James Talarico in race for Texas Senate seat - wonderwall.com",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQR0tEbTh4R0E2Zl9ONnBWWnlRNFQ4bTJTYlR2VFpnZUNHUEJFZUJOWGNYX0laWURxV205a1EyU3JxN3BFeVYyZjV0T21CQjhWdEpYSkhVWnhkUlFGRm5iT1RELUpCVGNJYzZ5NzhTNUlQY0FKbUZneWlDdk1XcklQYlZubTZOTDY2SFVwTVdFU0hVNURSNGpURjVXMEVLb0l1OTBrdjVoeXJxN21GazF0dExrSU1GcW1INnlqN0xLT1pBaUpCMVNSUUxlNHFNWmo4XzJmZlBnQ0tsbFpKREE?oc=5",
@@ -1625,23 +1640,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "talarico",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "Ken Paxton Absolutely Schooled James Talarico, and It Was Brutal - pjmedia.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcVJzdnYtR1h4M05jZ0taN0Z6OUtiY1NSa2NQODUxMkRkbmFaQ2dmZmJnMGFOOElmSGlDY3h6R0pVLVRnZjkwYzdkVHRuUkZaYXpsRDJRb0IzV05CRHE2UEVOOW1aNjNMeWtPMTBSaGVBMnV6TGJ5aHQwYllXT3lhRDgydjA2clozOTJQLU1SNEhTSmxjUjVtbmlmSE05cEdlSFFUZEV5OTVxWWU0YXllSFMtTTJfQVU?oc=5",
-      "pubDate": "Mon, 14 Sep 2026 16:59:03 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
       "weekKey": "2026-W37"
     }
   ],
