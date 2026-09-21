@@ -1,9 +1,25 @@
 {
-  "analyzedAt": "2026-09-21T05:18:48.381Z",
-  "newsFetchedAt": "2026-09-21T01:27:49.736Z",
+  "analyzedAt": "2026-09-21T10:59:48.931Z",
+  "newsFetchedAt": "2026-09-21T07:00:32.892Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Texas 2026 live primary election results: Cornyn and Paxton headed to runoff, Talarico advances - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaDdzclZQZjY4dW9wTl93S3JKZ2ZsbUlnTDBnNVlKb0p3SU0zRXI2V2Z3QjJJYmNKc1pzUFhlTjdURnIxelRSYVJEeHJITzRkZUxvdDdTR0F3NW1lNks0M1RaRWduUDEyOF9UbWVlcmhtejRDUU8zYzVraFdZRkJ1WDExSDU5SElJazdsVllLdEFNd9IBlwFBVV95cUxPQlR3VjMwVnBZQW5FVEowci1LbTFoelgxYk1NQTRWaFRrTm5Wd0pKU0x4Y1gzN25TNGpCSDRuX25MZWtfZEJmcnFtN0xDRFRMTXduMXpLV1NHaU5hZzN2ekhDREJXc3FZaEJVOTZMcmVTSG1TV3o3QXJaREtreVBtelVWYzVSSV9HdFFmbXpOMlkyMFJ5TkIw?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 09:04:17 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "cornyn"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W38"
+    },
     {
       "title": "Democrat James Talarico leads Republican Ken Paxton in Texas Senate race with every pollster for the first time ever - wonderwall.com",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPREI2d1lqczNrZ0tuU0ZnRzdXdHpoMTItWTIwLVNrckdrRHViS2lTU0RkM0lKVUhidFhHdVNETERucnVaVmtiQjU1SWdGcUJJazd4QUtkVXJ3UkVFUEk0T1A3WEYwT0ZWNDMzbWlGVXU0b2tfUE5XUUZRc0owMUJqNElLNG5vNTZQY0k4aG9OR2FWSHpMT1JWVTZDSFJsVHlxbXVBeVVyUW9PVko3S0RISTRVRUFqaUtKbFRfRm13WEZtclkydTlMMnQ3OWtFRnJQdkltb3dmSkM?oc=5",
@@ -1619,21 +1635,6 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdER3b3JiYUs1Z3hvMW9BS3dBa1A4VW9neGNoUVhwRERnVUlVYm1wOFdUcWFCVmxzbWdHWU5tUm9jaG13WTRTOE1SSkh3TmFxRnFPQ1NISTd4NkUwRm4wQW0xUmE1OTFrMFJBeTVZWkw3MndEMUpkcFhPc1FfX3VKTGRFWEFsSGRYcDdRT1NIZFVCa2JrSGhXVy1HS1VLcDV2QnpTaS1zQTlRbi1meVJQRmh3?oc=5",
       "pubDate": "Mon, 14 Sep 2026 21:25:19 GMT",
       "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "State of Texas: Paxton and Talarico in their own words - Yourbasin",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPanFiMmJMSWo2MU5BX0pnT0N6bkIyLV96U2t1VWFHclpfaDdJRE5tbEhRTTBNckRMaWtHLXVGcW9tX0lRak1FVkh2MWYzTTB2V3FzRFVpaEVTWlkxcTlhemw0Y2o2cmdERnhBa0FwQlkxYVI2NWJNOUl6SV9TYzBnVHQwdVBPVC1uNDZ6ckFpZDBTam5keV9wb2RsTy1oeFEzc2fSAacBQVVfeXFMTklaR1U5aVVLVGlWQ1hJeTd5SXgzaWg4NTJYSHFpWksyRmtYTzhmM0hpWnBaS0ZVNkRxUGdqZF82SUoyOFo1bEFnYThIc0tUWmllWXhQbjJWemVSUmxSM1hkX3V0aE9kNlZxY2NlbE9KZHY1Q05scWI4bmdHaXo5LXhWWVdZcENnRGktNmFEQVdpS1lCeWVCZEE5VDNhLVFXdGsydGJ6NUk?oc=5",
-      "pubDate": "Mon, 14 Sep 2026 02:42:39 GMT",
-      "feedSource": "google-news-texas",
       "raceScore": 11,
       "matchedKeywords": [
         "talarico",
