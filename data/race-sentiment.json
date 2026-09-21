@@ -1,9 +1,29 @@
 {
-  "analyzedAt": "2026-09-21T00:25:21.235Z",
-  "newsFetchedAt": "2026-09-20T23:06:05.125Z",
+  "analyzedAt": "2026-09-21T05:18:48.381Z",
+  "newsFetchedAt": "2026-09-21T01:27:49.736Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Democrat James Talarico leads Republican Ken Paxton in Texas Senate race with every pollster for the first time ever - wonderwall.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPREI2d1lqczNrZ0tuU0ZnRzdXdHpoMTItWTIwLVNrckdrRHViS2lTU0RkM0lKVUhidFhHdVNETERucnVaVmtiQjU1SWdGcUJJazd4QUtkVXJ3UkVFUEk0T1A3WEYwT0ZWNDMzbWlGVXU0b2tfUE5XUUZRc0owMUJqNElLNG5vNTZQY0k4aG9OR2FWSHpMT1JWVTZDSFJsVHlxbXVBeVVyUW9PVko3S0RISTRVRUFqaUtKbFRfRm13WEZtclkydTlMMnQ3OWtFRnJQdkltb3dmSkM?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 01:09:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 38,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W38"
+    },
     {
       "title": "Ken Paxton’s Cypress typo draws ridicule ahead of rally with Ted Cruz - Houston Chronicle",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONXRYYWZmbmZUckxndjJDRG1SUkNZSE5jWWVEaTRkajg4UVdXdmtZSlY1clFnRWxYZ0N5eFFkVHUtQlZKZEdYcTc4cHJ4LTdWV05zUU5VQUh4clNvWkRDNGtxVjN0aWNkVHhYQnNfRHYwemFCNHRSZWlsWm10dkNuWWRQWFhXMk5QTEpLSDJ5aVFzN1VMS2V2dFVPdw?oc=5",
@@ -1622,24 +1642,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "James Talarico courts Black voters as Texas Senate race enters final stretch - TheGrio",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2SnlMUVY4SmJCdG03Q01SVkpJYTZrWlZ6Y0Z3S1VUQW92QnZIWUdNRC1IWGRSVFFmZEdtR3ZEdGM5QnNEV3RGUDU5aHNsV1h5WkRRZVctZFZsNTM1bDNydUkwOE54d3NMZDBYX2tDZlZ3WWJ2RW9uOW5pb19rZw?oc=5",
-      "pubDate": "Mon, 14 Sep 2026 15:49:32 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
       "weekKey": "2026-W37"
     }
   ],
