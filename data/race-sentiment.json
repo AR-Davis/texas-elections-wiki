@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-09-21T20:54:16.191Z",
-  "newsFetchedAt": "2026-09-21T19:41:29.254Z",
+  "analyzedAt": "2026-09-21T23:57:03.575Z",
+  "newsFetchedAt": "2026-09-21T23:06:18.069Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Exclusive: Ken Paxton donations tied to Chinese real estate investment firm - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeXlVRnJkdk9UeVhBT1NOVU52RE5GTTdndW9SaGtfQmFNc2ZVdnV3N1BqT2R0WFJmakVfd215cGJFUk5xUGVJRVA4X09RTEhodWFva252aDVnaEFwdGNLZ292bW9GZmhwRW85a2tBN0ZCdkRRRVR6Rlhuc1R6MURmVUFMQTRnb3VPS2RfcER1RWJPZzZKblNHZ3dLTQ?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 20:41:58 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W38"
+    },
     {
       "title": "Ken Paxton accused James Talarico of corruption - knewz.com",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTFhSNEtMMG9tSlZaMmtBMjMwYXRRajYwbk9DTlRVd0J6U3ZPanBxNmR1My1Tazd4czFxeXNXeHJUcndTUzdhTE1SVzVPRkZUeGhNRjAwem1HZjBEallhdWRXOS1pUVpJSmdvaDBRdDFpdkUwUWtSYnVxRlNYY0NJeGZURWplbnFjTzEzYmkzRENpOG83TmFSNURjLV95Y3dPS2V3S193?oc=5",
@@ -1635,22 +1650,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "Texas Attorney General Ken Paxton bringing U.S. Senate campaign rally to Longview - The Moore County News-Press",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUmxFMWEwbjBoSXRoS21TLTBUNWtTRXpOdFJSZXVoMUNCSlg3VGlOc01hSnZwaTA2N29GZUNrSUh4bV9kZnltalliVVozWTRiWlFsbmtjNlREMTdFdndDSldKVmtNal9wSEY1cEJSWllLbVpncm9sdDdnREVmV0NHY3JZc0hEOTNDaWtuUXMzZVRFSXI5N1A0OEQ1OUx3Ym8zYW1ERktsVU5NU1lTbWQxYVVWMXZ3OTVkbzhRa3o0elFfQ2NlUW1TQ2FRR0c2ejdxcEh0ZG9mS3UtTklLY2l6WU1ZUWxLdHUxX043SFpOdk9xMThjYjI3Y0stTQ?oc=5",
-      "pubDate": "Mon, 14 Sep 2026 18:47:02 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "attorney general"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
       "weekKey": "2026-W37"
     }
   ],
