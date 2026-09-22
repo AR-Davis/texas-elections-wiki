@@ -1,9 +1,89 @@
 {
-  "analyzedAt": "2026-09-22T09:26:07.153Z",
-  "newsFetchedAt": "2026-09-22T01:45:10.276Z",
+  "analyzedAt": "2026-09-22T14:07:38.884Z",
+  "newsFetchedAt": "2026-09-22T13:16:56.848Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 5,
   "stories": [
+    {
+      "title": "Abortion Activist James Talarico Essentially Tied With Pro-Life Ken Paxton - lifenews.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVEdwQnJhZm5Famdaa05WTEFLZDJZOHVac2pBQnZza0hHR1ZfWDY0VGpuakx3SVVDejNxOURqQVp6ZnRWczNNZVRjcFNTVjFMMmhfd1BweG1TeVBySzJ1dGRHNE0yMUJtZ2VYT3lOUGZUbEZ6NjNHb3l6VVdsSnEtVE5mYmVEa093OXBYNzZWWkgtamoxTnVIbDNTWGNEdkRpUFFKd2s0SmI5UXFNbm1obQ?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 13:15:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W38"
+    },
+    {
+      "title": "Does Joe Rogan Care Who Wins the Texas Senate Race? - The Texas Observer",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1UTHlHMGVGaVZrMU9FWUp4dEFVYlRTemt4M1lwZWJBY0RNdXVEX0M3UTViczctcFVVbFRXbkVOOTA0cktSSkFyOGRoWFpmNmhCMXcweWZTZnhTT19uYm1sM0w5OF94RWMyUVJuR043eHhtN2wx?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 11:00:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "general",
+      "weekKey": "2026-W38"
+    },
+    {
+      "title": "Texas Senate race focuses on high prices — but what can candidates actually do about it? - KERA News",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQV1A1NUhELTdaT0tiY3ZhTG1ZS2V4a1RXbWRHRERkYXQtbF8xUFk4bF9JSGM1bXB6U0NvOWZSVDdPWFlpTkxLbG9pNG1UZGFiMlBxbEdNWjdMeElUWV9GcWdNLTluUE90eWlNbE9rQXNDbk5TT1M0aXVFZlZQT3RrNkJjN1QtQ291QldpMUh5VFRJTDZ4YV9mSm5NZlB2djJTM2ZpMjZlaG9kT2JSR3d0Y3AyU1NNOFFHODFzaHJ2NzExbG5lTG5YejNieTdZVHJuODA2dERSQUFZMGxEX3c?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 09:57:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "general",
+      "weekKey": "2026-W38"
+    },
+    {
+      "title": "James Talarico is moderating on gender, climate issues in his competitive Senate election - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbjNUR0NhbjJGN000MVlrb1JZQ2llVjMyeTBMQXNGMEVRVjEtOTA0dWpvcUVOdzV6VUlOUURBMlh5ZS0wNU8tWVRqSWtjdlNGVjlJMXk2NkVodXlQRmtlMlZsUFVESk1zOEN2M1ExZWdYcnEtR0xNUERoSTZRRDhzaS0yNmlfX1ljUDNYZV8tN25qLVI0WUhieEhBWFNrS28?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 10:04:22 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "senate election"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W38"
+    },
+    {
+      "title": "Ken Paxton calling Texas city of Cypress ‘Cyprus’ draws online ridicule - San Antonio Current",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNG94bXZPM2NmRk1ETlZfY3NESFJGQ2t3cmY0dEdWQmRGZklqTVNoVnM5djE1d2Z0U3VsSWdVd0ZIcmUtamtFMnM0Q1YxOUxqOFgzWEpmMXAtdGE1NHJLQWN6VzlHai1BaEgtbEQxblhpa2Z3d2Jsei1jeERscTI1cWhSdUVUMlFaMGh5cDFBTzlMN0FDeERGbXlweVBEVm1NRlJBLTdQZHUtb0I0MlVYNkx3?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 20:06:20 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W38"
+    },
     {
       "title": "Ken Paxton rallies supporters in Cypress as tight Texas Senate race enters final stretch - KHOU",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRU5Dc24tQm1YRWxablc5eXFVZXJiSG9oQnRMRVJLVUFqRzF2YlA4dC1tZk1rTmN2aWdKVzd6S0dWU09aOGhVa3Q4SVVVQk1VRlE0SlZaS0hqZTBjc19oS1JtaXBYNnM0XzRqaXhlOTR4N2xKZUU1NFEzUDJxdlU5QXNfR1k5RlNjQ2pmT1UwZDdDV2Eydm55aS1OTXlmWDhQdUowUFpad0lqWmdwUEQ3djlIOWt1SjZuSzRLVg?oc=5",
@@ -1560,89 +1640,6 @@
       "pubDate": "Sun, 13 Sep 2026 04:30:00 GMT",
       "feedSource": "google-news-race",
       "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "James Talarico Leads Ken Paxton in Texas Senate Race Polls - Readers.id",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSjM0OG9hRE5DbUVDYTB0NU04ZHVtLVhjZ012cnR2akpiTmNnQkhyZUFINjhzeF9ueWxWdUpqUWNJZ3ZEQlNBaE93N29SLUxmcEkwNDBQZTZ0cUtaTXo4cmtOSF9VSngtTzdpbDRXUFlYN3AyNkZnV0gtT1NRYk1UeQ?oc=5",
-      "pubDate": "Mon, 14 Sep 2026 17:32:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 38,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "Talarico Leads Paxton in Texas Senate Race AARP Poll Finds - SuaraGarut.ID",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtZkotVV9RM2U4b0p4QmhQOEJrY0JYVkJiQzlUN3VNQXljMnE2UXI3eTIyTE9ocExqZW5WRnUwNXZweDlwSmt5TnJscm53RWFHWTJhZUF3c1ZSWXpGQlhFNU1rRmg1T2VqekVsdDJRRjVEZw?oc=5",
-      "pubDate": "Tue, 15 Sep 2026 03:02:19 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "Senate Republicans finally mobilize with big money for Ken Paxton in Texas - KERA News",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbU02bDAwZzFrV0Nua2s2TnFmd0laSHdOLU5zX2wtWTVxYmx5TlpVbmNYRWc1YXJWdXlBTHh6Rm43UDJFSHg1VUFNcEdWcXBkNUxoSnp5bUhSNGtyTDg4R0VsSEhyelpsMG5RZ2d5a09adUJ5TWUxQXhWODFmXy03YTNzRS1NYVkzQi1OVFNOVnJzbng5YWNZQlFlZEdYTkpiUHM2X29pYXR4czl2cnM3X3lTd1FCcldUT0E2QTNFaWtMbUVQeUdUSQ?oc=5",
-      "pubDate": "Mon, 14 Sep 2026 11:40:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "Why Trump Just Poured Millions Into Saving Ken Paxton - ИФЗ РАН",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CMVh1WDBCU0dpd2VseEtXcGVxcHlDQUlKekhHZWNBVUNkcmJvbFNZYjJ1aWJBZWdDSTZQbDM1RFd1VDdNRS1LYWEwU0xPTGdpdnRVOWhKUy1mODcwaC1EdkNZYjcwVVN4MWNIOXdzVldhUQ?oc=5",
-      "pubDate": "Mon, 14 Sep 2026 22:22:55 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "Republicans pour $50 million+ into Ken Paxton's campaign - knewz.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNnlBYWY1UVRncmxpd2ItU2FRdDRpVDZTTzNqUjBYS3pfZE10eGdGVHZPUlBiUW5NaWhxb1ZLTUN0a0lEaWtyVFRiaVpadGZvaGtNQnZqLXhnNEhUWmUxVVgwQlNrRDBXNkRRR1FrcmZZaGxBS3hJb3ZNR2VxalpwWFF5aWtoYW5Q?oc=5",
-      "pubDate": "Mon, 14 Sep 2026 19:53:37 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 11,
       "matchedKeywords": [
         "paxton",
         "ken paxton"
