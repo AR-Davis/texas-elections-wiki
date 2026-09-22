@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-22T13:16:56.848Z",
+  "fetchedAt": "2026-09-22T17:42:56.982Z",
   "count": 22,
   "feedsChecked": 8,
-  "itemsScanned": 108,
+  "itemsScanned": 100,
   "items": [
     {
       "title": "Elon Musk Privately Floods Texas Senate Race With Cash to Bolster Ken Paxton Against James Talarico - streamlinefeed.co.ke",
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "title": "Ken Paxton rallies supporters in Cypress as tight Texas Senate race enters final stretch - khou.com",
+      "title": "Ken Paxton rallies supporters in Cypress as tight Texas Senate race enters final stretch - KHOU",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRU5Dc24tQm1YRWxablc5eXFVZXJiSG9oQnRMRVJLVUFqRzF2YlA4dC1tZk1rTmN2aWdKVzd6S0dWU09aOGhVa3Q4SVVVQk1VRlE0SlZaS0hqZTBjc19oS1JtaXBYNnM0XzRqaXhlOTR4N2xKZUU1NFEzUDJxdlU5QXNfR1k5RlNjQ2pmT1UwZDdDV2Eydm55aS1OTXlmWDhQdUowUFpad0lqWmdwUEQ3djlIOWt1SjZuSzRLVg?oc=5",
       "pubDate": "Tue, 22 Sep 2026 00:38:00 GMT",
       "feedSource": "google-news-race",
@@ -73,20 +73,6 @@
       "matchedKeywords": [
         "paxton",
         "ken paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ]
-    },
-    {
-      "title": "New poll signals movement in Talarico vs Paxton Texas Senate race - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbWJqR3dlVS11QlZPb29Vb29HVmlGdjFXal9DbUUyXzhDUnVNZEVNejktUUlvdmZsRGVmMlo5VzVhdXBfQms2dDJValllUHFDOW1sYlFvdWxRUHNYaVltUkVxVG9OeDZrVmRBWTBqTkpTQzB0VDB3OFcyV0ZXUk1PbnMxNENmOXAtTEM4dlJBa2VDMl9IZ3NSRXZTYmRKU1NBOGg0VDBWdlFjUXlmbHJz?oc=5",
-      "pubDate": "Sat, 19 Sep 2026 14:00:08 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
         "texas senate",
         "senate race",
         "texas senate race"
@@ -171,11 +157,23 @@
       ]
     },
     {
-      "title": "Does Joe Rogan Care Who Wins the Texas Senate Race? - The Texas Observer",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1UTHlHMGVGaVZrMU9FWUp4dEFVYlRTemt4M1lwZWJBY0RNdXVEX0M3UTViczctcFVVbFRXbkVOOTA0cktSSkFyOGRoWFpmNmhCMXcweWZTZnhTT19uYm1sM0w5OF94RWMyUVJuR043eHhtN2wx?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 11:00:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 16,
+      "title": "Talarico holds narrow lead over Paxton in latest Texas Senate poll - FOX 7 Austin",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSklnbG5yWDZ6LW1nSkZicUJNeHh2WEQ4ZndHZm5oMFg1TW55SUxxS3NpWjNER1BsOExBV25HRU4xcnFuZy11dW5oc0doeS1XOFJfSFRuM0Y5b1JnSDRmamdfaDRORTk5QW1ZOTRPRzZIT3VyaE5sWTc0Ni1LalRXVzVkVUZsazAtREktLTF4WQ?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 16:59:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate"
+      ]
+    },
+    {
+      "title": "Texas Senate race focuses on high prices — but what can candidates actually do about it? - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQUmlKOUY4Y2FFemdYeUFCaFFDaC05djRoSDNrR3MxS2RlanRtN21CQXo2SlJrZnhzYVlWbk5tX2Uxelg5MUtlRmk0cVBCWFBVdWl4SGlQeEZZRzEwZmFLMC0td2VCcEZsYkRneU0yRkxMYk5qR1ZVNDBVekJ4VDRWeWFnRUo3QUlJQUJrenA1bkpaMmVpOTdOVmlhblJzQXN0VjR0MUNOV1lYQXdWQ2NBVVRVZEd3QWNRbmtBYmJtU0lKZVJNT0dIT2lkWWJXNndxcHo0TzhVUEtkVURXaEtKMW5KM1QtRkhwWUQ4ZGhHbWRZYWhHdDBGR2N3bGJRLU1tVGJDZm94bVpYeXUyd2RZ0gGPAkFVX3lxTFBSaUo5RjhjYUV6Z1h5QUJoUUNoLTl2NGhIM2tHczFLZGVqdG03bUJBejZKUmtmeHNhWVZuTm1fZTF6WDkxS2VGaTRxUEJYUFV1aXhIaVB4RllHMTBmYUswLS13ZUJwRmxiRGd5TTJGTExiTmpHVlU0MFV6QnhUNFZ5YWdFSjdBSUlBQmt6cDVuSloyZWk5N05WaWFuUnNBc3RWNHQxQ05XWVhBd1ZDY0FVVFVkR3dBY1Fua0FiYm1TSUplUk1PR0hPaWRZYlc2d3FwejRPOFVQS2RVRFdoS0oxbkozVC1GSHBZRDhkaEdtZFlhaEd0MEZHY3dsYlEtTW1UYkNmb3htWlh5dTJ3ZFk?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 13:30:09 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
       "matchedKeywords": [
         "texas senate",
         "senate race",
@@ -183,10 +181,22 @@
       ]
     },
     {
-      "title": "Texas Senate race focuses on high prices — but what can candidates actually do about it? - KERA News",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQV1A1NUhELTdaT0tiY3ZhTG1ZS2V4a1RXbWRHRERkYXQtbF8xUFk4bF9JSGM1bXB6U0NvOWZSVDdPWFlpTkxLbG9pNG1UZGFiMlBxbEdNWjdMeElUWV9GcWdNLTluUE90eWlNbE9rQXNDbk5TT1M0aXVFZlZQT3RrNkJjN1QtQ291QldpMUh5VFRJTDZ4YV9mSm5NZlB2djJTM2ZpMjZlaG9kT2JSR3d0Y3AyU1NNOFFHODFzaHJ2NzExbG5lTG5YejNieTdZVHJuODA2dERSQUFZMGxEX3c?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 09:57:00 GMT",
+      "title": "Texas Senate poll shows Talarico, Paxton locked in tight race - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNd3BTbmk0LUlZdXVuSHNhMUdldTdTcHF2TDM4V21XRWxEUlFNcWJwMC1UeFBIUnFZWm1iNDZ6OHVnc3JWM1EzUk01alRmNGRLUW9OcnJjd2RUaFFHNW1SYXFmdzNCb0tCaUxiZENqWmZLQUJHb2k1ZkJwcHNGY3FOLWJWTU9kb1gzWkNmb1kxZ2RBNVl3OC1TbWNzbkFhSlFSR3BIYlNEckFHQ01GYVdndGZYcGM0VG9Db2lFalZ3?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 15:03:00 GMT",
       "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate"
+      ]
+    },
+    {
+      "title": "Does Joe Rogan Care Who Wins the Texas Senate Race? - The Texas Observer",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1UTHlHMGVGaVZrMU9FWUp4dEFVYlRTemt4M1lwZWJBY0RNdXVEX0M3UTViczctcFVVbFRXbkVOOTA0cktSSkFyOGRoWFpmNmhCMXcweWZTZnhTT19uYm1sM0w5OF94RWMyUVJuR043eHhtN2wx?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 11:00:00 GMT",
+      "feedSource": "google-news-texas",
       "raceScore": 16,
       "matchedKeywords": [
         "texas senate",
@@ -219,27 +229,27 @@
       ]
     },
     {
-      "title": "Trump’s MAGA Inc. funnels another $5 million into Texas Senate race - newsnationnow.com",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNjA2Nk9vOEdpZ05tcExscWFXTWJoWEpHQ3BHcTJ5VEJnY255VmVlajBoUzlHRnlPVHl5QU1GaGJmZ2Z4R08tSDdLUjNIWV82OUQ3b3gwdkNleFRwZS03SXFqcGhTN0t1T0pfS3psS29tTTFCR0hucDY5cGZGU2ZCUWx4bkpTQdIBiwFBVV95cUxQTThCbTBHaGZfazR4d09yQnZydGwwaEVzSFBmd0p2ei0tNS1peXVWWDRmTFpKcnhycDZSMGFHTmxRamZFeEF2bTQwWHRQTDM1aHh6TG55WmtRcTI0VHUwTWxCemd0Uk1oR3ZHY09LN05WT21jV1VGVjBBSnYxYmp6N3M1a3VPc3doa2s0?oc=5",
-      "pubDate": "Sun, 20 Sep 2026 17:50:30 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ]
-    },
-    {
       "title": "James Talarico is moderating on gender, climate issues in his competitive Senate election - The Texas Tribune",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbjNUR0NhbjJGN000MVlrb1JZQ2llVjMyeTBMQXNGMEVRVjEtOTA0dWpvcUVOdzV6VUlOUURBMlh5ZS0wNU8tWVRqSWtjdlNGVjlJMXk2NkVodXlQRmtlMlZsUFVESk1zOEN2M1ExZWdYcnEtR0xNUERoSTZRRDhzaS0yNmlfX1ljUDNYZV8tN25qLVI0WUhieEhBWFNrS28?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 10:04:22 GMT",
+      "pubDate": "Tue, 22 Sep 2026 10:08:11 GMT",
       "feedSource": "google-news-race",
       "raceScore": 15,
       "matchedKeywords": [
         "talarico",
         "james talarico",
         "senate election"
+      ]
+    },
+    {
+      "title": "Ken Paxton warns supporters at Cypress rally U.S. Senate race is ‘razor thin’ - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOW1GbGY4ZXhlakdfV1djZFM1NTIxZnJIdUhIZmYtOXhGMnAxVzVzaU43NGdJZlBOTlQzTXpoSW9CYVJibE9qZ2tjb0VVZVJJRGxoRXF1eTUxTkV0T1RkVHpyYVRQZU4xM2dpRzNuLVdhWHNzdVM0Q2tNWGEzcHQ2ZnJQbmI3QTNURndqNW1KZHhCTVI0bHpQYWZPT3paLV9UTVNtek5IQ3VnNkx4bUlMSmVONA?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 23:42:05 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "senate race"
       ]
     },
     {
@@ -255,17 +265,6 @@
       ]
     },
     {
-      "title": "Ken Paxton, Ted Cruz rally GOP voters in Cypress, Texas - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOW1GbGY4ZXhlakdfV1djZFM1NTIxZnJIdUhIZmYtOXhGMnAxVzVzaU43NGdJZlBOTlQzTXpoSW9CYVJibE9qZ2tjb0VVZVJJRGxoRXF1eTUxTkV0T1RkVHpyYVRQZU4xM2dpRzNuLVdhWHNzdVM0Q2tNWGEzcHQ2ZnJQbmI3QTNURndqNW1KZHhCTVI0bHpQYWZPT3paLV9UTVNtek5IQ3VnNkx4bUlMSmVONA?oc=5",
-      "pubDate": "Mon, 21 Sep 2026 23:42:05 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ]
-    },
-    {
       "title": "Ken Paxton calling Texas city of Cypress ‘Cyprus’ draws online ridicule - San Antonio Current",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNG94bXZPM2NmRk1ETlZfY3NESFJGQ2t3cmY0dEdWQmRGZklqTVNoVnM5djE1d2Z0U3VsSWdVd0ZIcmUtamtFMnM0Q1YxOUxqOFgzWEpmMXAtdGE1NHJLQWN6VzlHai1BaEgtbEQxblhpa2Z3d2Jsei1jeERscTI1cWhSdUVUMlFaMGh5cDFBTzlMN0FDeERGbXlweVBEVm1NRlJBLTdQZHUtb0I0MlVYNkx3?oc=5",
       "pubDate": "Mon, 21 Sep 2026 20:06:20 GMT",
@@ -277,14 +276,14 @@
       ]
     },
     {
-      "title": "Exclusive: Ken Paxton donations tied to Chinese real estate investment firm - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeXlVRnJkdk9UeVhBT1NOVU52RE5GTTdndW9SaGtfQmFNc2ZVdnV3N1BqT2R0WFJmakVfd215cGJFUk5xUGVJRVA4X09RTEhodWFva252aDVnaEFwdGNLZ292bW9GZmhwRW85a2tBN0ZCdkRRRVR6Rlhuc1R6MURmVUFMQTRnb3VPS2RfcER1RWJPZzZKblNHZ3dLTQ?oc=5",
-      "pubDate": "Mon, 21 Sep 2026 20:41:58 GMT",
+      "title": "Texas poll: James Talarico holds a narrow advantage for Senate while Greg Abbott leads for governor - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVmVZV0dTYTVwdkdRX2xOTVJKb2NDa2t2VWpvV1FLNFN5U0ZMc1lOb0h1Z0I1TWFwS1RKRFlUcTc4Q195TDFaQVZfdkR2c0hmdGNYQWtnWC1NVzhlV2ZISnFXYzZSMmdnWHhNZFBHcWRGRUpmRnJqUUYzWEhZQW02Rnl4TVFmc1JJZVBzbUF6bkZyeW50Sl9xSVR4WExtOUJ6YnhSa1hXM1VEUW11X2xNTldXZ1dObGlHM2MydkNOb0Y2SXdzOG9F?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 10:00:40 GMT",
       "feedSource": "google-news-race",
       "raceScore": 12,
       "matchedKeywords": [
-        "paxton",
-        "ken paxton"
+        "talarico",
+        "james talarico"
       ]
     }
   ]
