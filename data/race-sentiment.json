@@ -1,9 +1,42 @@
 {
-  "analyzedAt": "2026-09-21T23:57:03.575Z",
-  "newsFetchedAt": "2026-09-21T23:06:18.069Z",
+  "analyzedAt": "2026-09-22T04:11:10.074Z",
+  "newsFetchedAt": "2026-09-22T01:45:10.276Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Ken Paxton rallies supporters in Cypress as tight Texas Senate race enters final stretch - KHOU",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRU5Dc24tQm1YRWxablc5eXFVZXJiSG9oQnRMRVJLVUFqRzF2YlA4dC1tZk1rTmN2aWdKVzd6S0dWU09aOGhVa3Q4SVVVQk1VRlE0SlZaS0hqZTBjc19oS1JtaXBYNnM0XzRqaXhlOTR4N2xKZUU1NFEzUDJxdlU5QXNfR1k5RlNjQ2pmT1UwZDdDV2Eydm55aS1OTXlmWDhQdUowUFpad0lqWmdwUEQ3djlIOWt1SjZuSzRLVg?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 00:38:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W38"
+    },
+    {
+      "title": "Ken Paxton, Ted Cruz rally GOP voters in Cypress, Texas - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOW1GbGY4ZXhlakdfV1djZFM1NTIxZnJIdUhIZmYtOXhGMnAxVzVzaU43NGdJZlBOTlQzTXpoSW9CYVJibE9qZ2tjb0VVZVJJRGxoRXF1eTUxTkV0T1RkVHpyYVRQZU4xM2dpRzNuLVdhWHNzdVM0Q2tNWGEzcHQ2ZnJQbmI3QTNURndqNW1KZHhCTVI0bHpQYWZPT3paLV9UTVNtek5IQ3VnNkx4bUlMSmVONA?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 23:42:05 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W38"
+    },
     {
       "title": "Exclusive: Ken Paxton donations tied to Chinese real estate investment firm - Houston Chronicle",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeXlVRnJkdk9UeVhBT1NOVU52RE5GTTdndW9SaGtfQmFNc2ZVdnV3N1BqT2R0WFJmakVfd215cGJFUk5xUGVJRVA4X09RTEhodWFva252aDVnaEFwdGNLZ292bW9GZmhwRW85a2tBN0ZCdkRRRVR6Rlhuc1R6MURmVUFMQTRnb3VPS2RfcER1RWJPZzZKblNHZ3dLTQ?oc=5",
@@ -1617,39 +1650,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "paxton",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "Jimmy Kimmel takes interview with James Talarico off the air following alleged FCC threats - wonderwall.com",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQ1pVRTd0TFVpZ2RKQ0NQSElZdHBFNUFXcWU2bDg1aUZ2NmlHd1VNLUVwOTh5VkZ4b3RwdG00OTlSLVhLYmdMVENoaWtjeTJwM0drUHRKWXExWXpPM2NHN0s2NkRXUi0tRXJ1YWo3U1JsU205S2lqUy0yQTJ6U1J4ZlFfd2tsUG85akpqdGc3TG9CblpVNFYtcXpqTklZVHdIdlNaTVZTZUxUT2hBUWRITXI1RnZ4OC1UUmVmMk1zMjgtZXNFeGJ1ZGU1M1JFN2M3Tk5waDdBZjhaVTdHOVQ1YWZQSGZsSkpWWVlDeg?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 21:10:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "Talarico ahead of Paxton in Texas Senate race as older voters shift lead - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU1lVUzBVckxaeGpmNjg3WG9CM0RxakV4eVNIdDNHQ3pHcVJZX0tBTThGRkY5VGFtUnVlVUJBUkdOLU1QbVpfMDJNWnZQaVVQVG1nVWs2NUhnYkJ3MUprQ09aZGpNNFVMSGVWMWh1QkVLRDE0bUZQRE1NVkFqa2I0OWJ4dHVxdVI2MkFQU0kzdEdUNlJRMzBqQzB0R3lOQm5BS0NLbUU1TmxVekJTRmh0VVNJZ1ZWSUJ1RmllUFRqRnc?oc=5",
-      "pubDate": "Mon, 14 Sep 2026 21:13:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
       "weekKey": "2026-W37"
     }
   ],
