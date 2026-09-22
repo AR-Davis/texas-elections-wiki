@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-09-22T18:13:27.658Z",
-  "newsFetchedAt": "2026-09-22T17:42:56.982Z",
+  "analyzedAt": "2026-09-22T21:35:12.345Z",
+  "newsFetchedAt": "2026-09-22T21:07:04.133Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Talarico, Paxton remain in tight battle for U.S. Senate seat in Texas, according to new poll - CW39 Houston",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5neV9FeVhzUWc5R3NodkFtNXVXXzJFcWtUM3R4VEszUTcyRG96NXVBSnh4RWpGV0hjb1pjcEM3c19UdU5tblVBYW5JZWRPeTRfaEhCX2xoYWkzWHo2WF9pR0JiRHE0MEZxUjB4QThBdTl2V1lscWJJ0gF8QVVfeXFMUDlaZ1hvVURvYTlSMDZrUm5rT3FfS2FxUlZha1hOdVlaUnNUaEZLUHZZTERjRFVlNTNCSDB6RjY2R1hUbXJYVVZXMGRlYm1uN0ptTW9oWUxFUTdxdjkzV3VBVVhCOERnM2RxQWJyYndQX1M2a3RyU1dDVThOUA?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 17:12:20 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W38"
+    },
     {
       "title": "Talarico holds narrow lead over Paxton in latest Texas Senate poll - FOX 7 Austin",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSklnbG5yWDZ6LW1nSkZicUJNeHh2WEQ4ZndHZm5oMFg1TW55SUxxS3NpWjNER1BsOExBV25HRU4xcnFuZy11dW5oc0doeS1XOFJfSFRuM0Y5b1JnSDRmamdfaDRORTk5QW1ZOTRPRzZIT3VyaE5sWTc0Ni1LalRXVzVkVUZsazAtREktLTF4WQ?oc=5",
@@ -1632,21 +1647,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "general",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "James Talarico Insists His Campaign Donations Come From 'Hardworking Texans' but Here's the Truth - townhall.com",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc1AtNTBRbUVHc291WERaRkNkaVNSVlJ4UWF0Ung5MmFSbUFNNTZEU0RzeXVhdnFPejgzNGpzcXFUWXRCWTVtVHYyMWZYc1pXaWVkRUMwNHBGYUtLaERTQk5PNXczSTBTaDAtMjlQMThlX0xBM2hyZjRMZl9QWjRJSFJJRDh0OHExT21WUEpldUw1d0VMRTJlQU5fdXA1R0xZQXp3?oc=5",
-      "pubDate": "Tue, 15 Sep 2026 16:15:29 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
       "weekKey": "2026-W37"
     }
   ],
