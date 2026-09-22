@@ -1,9 +1,54 @@
 {
-  "analyzedAt": "2026-09-22T21:35:12.345Z",
-  "newsFetchedAt": "2026-09-22T21:07:04.133Z",
+  "analyzedAt": "2026-09-22T23:46:49.341Z",
+  "newsFetchedAt": "2026-09-22T23:44:57.627Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Cruz and Paxton Join Forces, Attack Talarico in Houston-Area Event - thetexan.news",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSDRSZTRqbk5xQ2NvWUU0cFpvRklnNE0zR0MzQnR4b0M0V0N2TWcxSkNJdTBnUnJlVzFoaGpGZlBiSUppbEN2SVBQZkYtLVVFUjVSbkZZRGw5QUNnRnJtOXhDWGxvMUtEdy1Xb2I4WndabWYtcndKZktyV1dPMmFzbmdTZWJISWkzRExZSGpVaUJKZ2c3QWQ1R3VZMk56RHA5T0tzQ3Fma1BoalNiei1sRWk4Zk1QbGJTU2pucmNub1BIUE9nN0ZPdS1IUFdQR1JNNXV4MUpUa0Mzci1jQ3R2SEtobm5LT00?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 21:27:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W38"
+    },
+    {
+      "title": "George W. Bush Appears at GOP Fundraiser That Snubs Trump-Backed Ken Paxton - okmagazine.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd1ZCUTc3c091aUtrdnBJaTdRS3Q4YUhVTVBjaVhKZmN0ZWM0S0o4WF90a1h2eU8yNG1VaXlhQkp3a3YzSmltQ2VtWU9uUmFLWm9nUU5hYTF1bW5SNHVRS3EwVWdTNTZfUjJPWjBrS2xIZGJIME1mUktwejJUSEZ4cHp5SzhWa0M3OV9RZk5mZWRXb0Q1YUxB?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 17:43:19 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W38"
+    },
+    {
+      "title": "James Talarico’s Church Under Scrutiny - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8wY24ydXNYVHpIRFJSTnZ4VXhTWG5uSjkxSEJsX3llVXFMRVZXS1d1SENIdkdUc1JFeFY3QXZyQjN2eXhjWnRmdE96SGI3cFlvZkEzQl9JcUFBQnQweTNLVHlUcVJ3VEFqNS00OVowRmd6ZVZOaE1BQnRpYw?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 14:14:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W38"
+    },
     {
       "title": "Talarico, Paxton remain in tight battle for U.S. Senate seat in Texas, according to new poll - CW39 Houston",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5neV9FeVhzUWc5R3NodkFtNXVXXzJFcWtUM3R4VEszUTcyRG96NXVBSnh4RWpGV0hjb1pjcEM3c19UdU5tblVBYW5JZWRPeTRfaEhCX2xoYWkzWHo2WF9pR0JiRHE0MEZxUjB4QThBdTl2V1lscWJJ0gF8QVVfeXFMUDlaZ1hvVURvYTlSMDZrUm5rT3FfS2FxUlZha1hOdVlaUnNUaEZLUHZZTERjRFVlNTNCSDB6RjY2R1hUbXJYVVZXMGRlYm1uN0ptTW9oWUxFUTdxdjkzV3VBVVhCOERnM2RxQWJyYndQX1M2a3RyU1dDVThOUA?oc=5",
@@ -1598,55 +1643,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "U.S. Senate Candidate Ken Paxton (R-TX) Rallies in Longview, TX - C-SPAN",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZVRMNk5qTEVmYS1CMEhiOFUtQk1WcnlGVlJsME5rX0UwN2QtRWdsc2piYXNqajhEY3FMOC1ZVGtuY0F3ZDNoYVFWTXlRd25scFByUV94UVh2M2FDaXN2ZU80X1ludmEzRnJ2bzFXNFd6Mk5LdkJGOEppSG9lelJWMTRxdW5GeHBLdThDcmZfaVNuamhlUE9pb2hHX0MxdmRZTnlpR3BWTVpYdkl4?oc=5",
-      "pubDate": "Tue, 15 Sep 2026 04:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "VoteHub gives James Talarico 55% chance in Texas Senate race - tippahnews.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdUswNGdIckxyYlFjWXQtRE1vRFBGVDJjU2NzQ2RHUTYybGJEUXRmWU9aOEY4S2RBd1RVMF9LR2I3TTVVV1BwUjA5c2FiSElsLXZyV04taWlKT1FKUUVwSERUdE9JRENxZl9QOHl2aXpGR0FQRGtXMm03UkNPLVNsbDludVB2dEl6ZWNlalpGeXZpenJyaWZfekd0Y2s2dw?oc=5",
-      "pubDate": "Mon, 14 Sep 2026 22:41:12 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "Texas Senate race takes new turn post-GOP convention, poll shows - usatoday.com",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORE9wUVdSblp3OUd1YlU3dXg1Z1lEdU9pdldyeHVqMDRRSGxScjRHcEd1MEViVjc5Nk9DZHRvNHRyakdQRUd6amhlQmNjbzlqeDFCOVdKTk91dzQ0cUlDZnBXcTFOY0VlOGxERTIteWh4aFh1S2s4Nld6WTNEeDJXekdBelo2NHEzTjdZd2hGN0hLWHJwT2d4OTd1X2hGTDFiV2xDTkd4S183a0J0ek9aYUc5cVAxUVotTHpGcFRLdkc5MHdXM0E?oc=5",
-      "pubDate": "Tue, 15 Sep 2026 15:36:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
       "weekKey": "2026-W37"
     }
   ],
