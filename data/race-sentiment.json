@@ -1,9 +1,57 @@
 {
-  "analyzedAt": "2026-09-22T14:07:38.884Z",
-  "newsFetchedAt": "2026-09-22T13:16:56.848Z",
+  "analyzedAt": "2026-09-22T18:13:27.658Z",
+  "newsFetchedAt": "2026-09-22T17:42:56.982Z",
   "totalAnalyzed": 100,
-  "newThisRun": 5,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Talarico holds narrow lead over Paxton in latest Texas Senate poll - FOX 7 Austin",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSklnbG5yWDZ6LW1nSkZicUJNeHh2WEQ4ZndHZm5oMFg1TW55SUxxS3NpWjNER1BsOExBV25HRU4xcnFuZy11dW5oc0doeS1XOFJfSFRuM0Y5b1JnSDRmamdfaDRORTk5QW1ZOTRPRzZIT3VyaE5sWTc0Ni1LalRXVzVkVUZsazAtREktLTF4WQ?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 16:59:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W38"
+    },
+    {
+      "title": "Texas Senate race focuses on high prices — but what can candidates actually do about it? - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQUmlKOUY4Y2FFemdYeUFCaFFDaC05djRoSDNrR3MxS2RlanRtN21CQXo2SlJrZnhzYVlWbk5tX2Uxelg5MUtlRmk0cVBCWFBVdWl4SGlQeEZZRzEwZmFLMC0td2VCcEZsYkRneU0yRkxMYk5qR1ZVNDBVekJ4VDRWeWFnRUo3QUlJQUJrenA1bkpaMmVpOTdOVmlhblJzQXN0VjR0MUNOV1lYQXdWQ2NBVVRVZEd3QWNRbmtBYmJtU0lKZVJNT0dIT2lkWWJXNndxcHo0TzhVUEtkVURXaEtKMW5KM1QtRkhwWUQ4ZGhHbWRZYWhHdDBGR2N3bGJRLU1tVGJDZm94bVpYeXUyd2RZ0gGPAkFVX3lxTFBSaUo5RjhjYUV6Z1h5QUJoUUNoLTl2NGhIM2tHczFLZGVqdG03bUJBejZKUmtmeHNhWVZuTm1fZTF6WDkxS2VGaTRxUEJYUFV1aXhIaVB4RllHMTBmYUswLS13ZUJwRmxiRGd5TTJGTExiTmpHVlU0MFV6QnhUNFZ5YWdFSjdBSUlBQmt6cDVuSloyZWk5N05WaWFuUnNBc3RWNHQxQ05XWVhBd1ZDY0FVVFVkR3dBY1Fua0FiYm1TSUplUk1PR0hPaWRZYlc2d3FwejRPOFVQS2RVRFdoS0oxbkozVC1GSHBZRDhkaEdtZFlhaEd0MEZHY3dsYlEtTW1UYkNmb3htWlh5dTJ3ZFk?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 13:30:09 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "general",
+      "weekKey": "2026-W38"
+    },
+    {
+      "title": "Texas Senate poll shows Talarico, Paxton locked in tight race - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNd3BTbmk0LUlZdXVuSHNhMUdldTdTcHF2TDM4V21XRWxEUlFNcWJwMC1UeFBIUnFZWm1iNDZ6OHVnc3JWM1EzUk01alRmNGRLUW9OcnJjd2RUaFFHNW1SYXFmdzNCb0tCaUxiZENqWmZLQUJHb2k1ZkJwcHNGY3FOLWJWTU9kb1gzWkNmb1kxZ2RBNVl3OC1TbWNzbkFhSlFSR3BIYlNEckFHQ01GYVdndGZYcGM0VG9Db2lFalZ3?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 15:03:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W38"
+    },
     {
       "title": "Abortion Activist James Talarico Essentially Tied With Pro-Life Ken Paxton - lifenews.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVEdwQnJhZm5Famdaa05WTEFLZDJZOHVac2pBQnZza0hHR1ZfWDY0VGpuakx3SVVDejNxOURqQVp6ZnRWczNNZVRjcFNTVjFMMmhfd1BweG1TeVBySzJ1dGRHNE0yMUJtZ2VYT3lOUGZUbEZ6NjNHb3l6VVdsSnEtVE5mYmVEa093OXBYNzZWWkgtamoxTnVIbDNTWGNEdkRpUFFKd2s0SmI5UXFNbm1obQ?oc=5",
@@ -1599,54 +1647,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "talarico",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "Senate Leadership Fund Pours $54 Million Into Ken Paxton’s Texas Senate Race - foreignpolicyjournal.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc04tdXJUdUFMZ1JSVlVBX1ZfMU1ZNll4d3gwWmN5ZC1JeEhKT2xURVZRNnd5UEFyTllFanB3U1JBTG9fVEFvbXFCbk5SdWhCeVh6MjZvZXJ0S1laZzBqVTcxR0lUVmZtMUJXOGZvUnBuSmtfMnpDSFZ6S3R4TEd6TXVHeFVfak5ia0xMM05LYnZXYmhhampPMG5TNzc3a2djbnZZbE1keUNkdEdleEQ3dWtQcERmd1Q0dnRmTnY3eEE?oc=5",
-      "pubDate": "Tue, 15 Sep 2026 11:34:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "Ken Paxton won't condemn Bo French for controversial Texas football tweet - Chron",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbFVvOHpRQm9GWGpUZVJCQmtzdlZSVzJ1UktsYkdHcFpuVkRPMktMNUJDVXl5Z2N0RkFHS055aXhoY2JhVEt6N0tzTDVNaE9rMlRxOHVobkVKd3FhdUtHQnBNeHhQcTNxblo3aGRZcUZrdnk4ODNSRlpYS0IwTDktZWtlZ2pOUVhYQm1z?oc=5",
-      "pubDate": "Mon, 14 Sep 2026 14:30:14 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "Senate Republicans finally mobilize with big money for Ken Paxton in Texas - Bryan College Station Eagle",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMG9WU296TmhRYU9VWkVaeDNRbEZrVDhQTGxSYUxvQnhtTnUxUkdaMldDZ2hXUTdjaFBsZ2Q5MnF1R05SRnIxdWltWFgxR2gxU2c5RmVza0I1N0kzSEFRTUNDTV9tT2JTZVIxdDU2YVAwYnN3U3U3S284NHdCZGtnSWVKX015V05pd1Bzd2RseTNsclpGQ3BtbzBtcFlpWGxqSEE0SGFoRTlFMkdUeEdFRy1hUWNuOFg3OGZfcg?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 04:30:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
       "weekKey": "2026-W37"
     }
   ],
