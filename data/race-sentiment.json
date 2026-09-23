@@ -1,9 +1,41 @@
 {
-  "analyzedAt": "2026-09-23T18:32:05.651Z",
-  "newsFetchedAt": "2026-09-23T14:21:54.696Z",
+  "analyzedAt": "2026-09-23T21:42:44.295Z",
+  "newsFetchedAt": "2026-09-23T18:32:54.261Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Texas Senate race focuses on high prices — but what can candidates actually do about it? - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPTXM3RHVpOVc5bzBQZVJKWWJhY2hJZ0FvQkwyU3QybUVOYkZzb2pXMUhZNHZGVklQT3NaS090ejJhRm1vYkxSc3dENWNtMEQ4Z0lDdGczU2NyMjdDUW9qMldpVmNmOHQ5TnJVSGZ2Z1RoSDhRUm84Z2JoZk9pemFGYWNYbmtMOHphMzhUQl9jQjEzQnhma2d1amJNdmtqZ0M5UEhWR0trdVQxdVNsWl9BdjFOMTR3d3B5RVoyZGtDZUhQUEN2ZnJJZWtBNTU5a2JTaXVZWnN4QnJtTGE3bjZnTDhkU1Y1NUIzMzN2MzZ5V015WnVSMDVyWUp2RXRWc0xYaUlQV3diUdIBjwJBVV95cUxQUmlKOUY4Y2FFemdYeUFCaFFDaC05djRoSDNrR3MxS2RlanRtN21CQXo2SlJrZnhzYVlWbk5tX2Uxelg5MUtlRmk0cVBCWFBVdWl4SGlQeEZZRzEwZmFLMC0td2VCcEZsYkRneU0yRkxMYk5qR1ZVNDBVekJ4VDRWeWFnRUo3QUlJQUJrenA1bkpaMmVpOTdOVmlhblJzQXN0VjR0MUNOV1lYQXdWQ2NBVVRVZEd3QWNRbmtBYmJtU0lKZVJNT0dIT2lkWWJXNndxcHo0TzhVUEtkVURXaEtKMW5KM1QtRkhwWUQ4ZGhHbWRZYWhHdDBGR2N3bGJRLU1tVGJDZm94bVpYeXUyd2RZ?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 13:30:09 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "general",
+      "weekKey": "2026-W38"
+    },
+    {
+      "title": "Angela Paxton breaks silence on U.S. Senate race amid divorce from Ken Paxton - San Antonio Express-News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS0tlS3BHTklsdHFWZlJEWlpkY1JtcnY4T1pYOXdNVEVNX19rUkVfWWd2N0ZkNVBLNHl0N1BjRDRIY0x6bXNOWmpIa1IwT3c3Mm40ZHo2SndaZVhSTFJIN2s2VDdiV1FramwzS3Nxb1prRjQ4YUhLQWxIN2dwQ082Y05aODdWN0NKQThhRmxVRjc?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 16:40:59 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W38"
+    },
     {
       "title": "Republican former state lawmaker vows he’ll ‘never’ support Paxton in new ad as Texas Senate race heats up - CNN",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUWNNVGV1My1sOGVWanFuVVMyZWotT1RwdlRxb2RQV202T25PVjdacHJWR2haMFNOQlh4Y3BEX2I5ZFI5eWp3RXhrMG5SeTFBVXN6N2g0TDZ2dlZnZ1Z4UTR0cEFKbUltZGx5TmtfQnVNSU95eV8zc0xQQ2pJUjdHd25mT3R3c0pycm1XNVlJcTUyT1lQekJaSDlLbkpqQVRX?oc=5",
@@ -1603,40 +1635,6 @@
         "texas senate",
         "senate race",
         "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "'Republicans for Talarico' launches as Texas Senate race tightens - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTlRxcGlDZFlEMzJlOXNudW5wcW1LcmpOOFhDeFZmWTN0MEt4a1pCWmdHUkxicGdVaEJlZlVfWGV1bWxrQnhhVlFfWXlqNVJMOU50XzhLLXFOM05CRUhzX3hWdHB2NDAtakl0eW1kU1BPMi1ZeVFxaUJrWWJYdGROUnlMR0dSU0txQlZGbk93bmhUQU9DaFlzR2VLMU4zejUwYjk0Z0RQM0IwUE9wSENEdktCeE55ZVVaVzhXbGNaWlRSRk1xRF92MmMwblhkUQ?oc=5",
-      "pubDate": "Tue, 15 Sep 2026 17:06:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "Ken Paxton vs James Talarico: August polls showed Talarico with a slim lead - eciks.org",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BVUVhanlBeC0yZ2dENUo0ZGxXY1cyeVBJRXVia0g0ZFl0Nzl3cjlScjQ2UzVIX3E3aUk0U1h4Ykp0MHZjWU4wRHdoQWd6OFJPdjVBQzFhaUNYQXVqaGc?oc=5",
-      "pubDate": "Wed, 16 Sep 2026 00:06:33 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
       ],
       "sentiment": null,
       "error": "HTTP 405",
