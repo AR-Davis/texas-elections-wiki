@@ -1,9 +1,39 @@
 {
-  "analyzedAt": "2026-09-23T09:27:10.591Z",
-  "newsFetchedAt": "2026-09-23T04:17:00.139Z",
+  "analyzedAt": "2026-09-23T14:19:58.797Z",
+  "newsFetchedAt": "2026-09-23T09:27:46.578Z",
   "totalAnalyzed": 100,
-  "newThisRun": 5,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Ken Paxton is talking about his humble childhood. Will it help win rural voters? - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSUl1Y2FYdFQ1cklONllKWVNveXJ3blhOYXpmc05hYmhZenJzX0VWT1I0c01KbXJ2RklHdFdCUS1tQm40emRnYl9mVmFxcGl1SXZCbEZNd3lMRjBPQjBNckgweDNCd1BYUjRTTk41dk05TFRiNnRSSnhMQkM3aWRaSFZKMWQ2eW5YR2g5Xzg1dVYxMEhSdXUtNllxZTF4TXNxYUxBMw?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 09:19:41 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W38"
+    },
+    {
+      "title": "U.S. Senate Candidate Ken Paxton (R-TX) and Sen. Ted Cruz Speak at Rally in Houston - C-SPAN",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVkZldzMyYWhoejFKRGtuYWNpc1ZKQ1pOWUNmd0RXaUw0RzlsTENpNXFSUnFWdjVFemVoSjJIeHd6T2NuM3U4VWYzbEVncTZGWmxBTmRFSHFsNXhRM0M4X0xoc2ZHSWs5ZGlVajJEVlJvVU5IeDdzai16YnhiUWVSQkxBTHlYMks4MUI0ZUF3TDNHUjVpSk9OWkt6MHNDWm4xMmhnb3paeFppX3VHUThLVXM1cHNqZ3pLdWJ2LXRVY3hTeXJrNFlz?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 04:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W38"
+    },
     {
       "title": "Monitoring the Midterms: What's making the Texas Senate race so competitive - PBS",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONjI3Q2ZRNXhzUVVZUjRTazRtYzYxVWtaeHNkXzBWSFpob1JUdGY5S0lZNmxMNDdzUmR0bXl3RWZhZ3FnS0N4Q3pEeFcxdlVNMk4wUmh1eHFpdi1NWGtwVlVUSnVTUFNqQlZrUGx0emNlNERFRHp1NVQyeXJ5dER0RUo5WXg5X19DUGlfaV9QLXZoMW11dGlocGM0QnRibUpVcmNTa1pDcFdqTTB0WXRhSWRNY1R3blRYLW5EVDFnN1pnNVBqVWFSUnktcEtHb0VqdTVoQjhR?oc=5",
@@ -1606,37 +1636,6 @@
         "talarico",
         "paxton",
         "texas senate"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "Texas Senate race takes new turn post-GOP convention, poll shows - Yahoo News Canada",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsTUpTTlFEQXJfVzVPSUVheWpsdTdYa2l1UFBoTHp4VDhtSmxHc3RKbUpNSlg2eG1lZXRTTkdXYWFoTjZGWXJlQTMycGtMMldzZlFfdDZsUjRpQTRrMjJncFNqNDB6emQwQnN4dGM3Z2dZS3RkRk8waw?oc=5",
-      "pubDate": "Tue, 15 Sep 2026 15:36:54 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "O’Reilly predicts Paxton win: ‘Talarico is just too much’ for Texas - KXAN Austin",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUUlLdVdzV0xBaE1icVVrbWhIa3gycEdia3p4ZVRhdHZKNFlNR1ljSDIwUS1jSGVnajJkWW5MMWdPNW5YOC0zbVI3THZfWERKZFotb01SYmh4eUhuYzJwanZpamRZblZzQTBrRTFPTGZvRFh1T3hCOFFwWHdyU09oS25WUmV2d05KMU5sVmlZZHFWcmUzWGdZLURPdi1UNktURWxEUXlkbELSAa4BQVVfeXFMT281VjYtUjVBUjV4UGpISzYya2RnY1VoQU5ESVhRX1JyNDh1TU9IVVk2VHNva29aWDVMdFBGQXhSWWo0eWpWNy1waHF3VXhDa1cwTUtQVUZIeTdtTHNDSTJPRDltRkx0Y21fU0xraEoxSGNtM25oVW1oQkJNcmFhME96S1Bmb09IaG4zYjgzMTRweHVZV2daU24wN1pGb0lPYy1IM21sUUVPak1hMzNB?oc=5",
-      "pubDate": "Wed, 16 Sep 2026 01:24:21 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
       ],
       "sentiment": null,
       "error": "HTTP 405",
