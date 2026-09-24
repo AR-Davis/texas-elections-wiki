@@ -1,9 +1,40 @@
 {
-  "analyzedAt": "2026-09-24T15:25:37.615Z",
-  "newsFetchedAt": "2026-09-24T11:36:12.304Z",
+  "analyzedAt": "2026-09-24T19:26:13.102Z",
+  "newsFetchedAt": "2026-09-24T16:54:39.969Z",
   "totalAnalyzed": 100,
   "newThisRun": 2,
   "stories": [
+    {
+      "title": "The money behind Talarico and Paxton’s Senate race, mapped by ZIP code - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWDZPQ0lDcEpuYWtsOXRMLW5TTE5iYjJRZHJiVHpwNEpiMXdNSWxCYVc0M1BDNHREeWNRM1ZjdDB1dGxwY3BMa1o1Vk5JSE1SeG1BVEdlVGU0eEJtSWp1UGp1OEtWYVQwWmxuVWxDeUZqSE5rU1ZfWl9VNFIyd2NSalI5MEdkeFlk?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 15:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W39"
+    },
+    {
+      "title": "Alyssa Edwards Responds to Ken Paxton’s Anti-Drag Attack Ad: “Texas Is Big Enough for All of Us” - them.us",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80S2lYTXVyREZYR3plZGM2ZWpyYTRPS21qTGc1ZWpSUEdOa2YtX3d6T2YtZkI0aWVkaEZzTGx6M3h1aGE5aWRRM3M4ZHpYRmE1Z2ExT3ZhRE1WYjhkN3F5cmh5MGVrblpSLURqOUln?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 14:11:04 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W39"
+    },
     {
       "title": "Republicans flood Texas Senate race with cash for Paxton ads - Longview News-Journal",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPREJXWTJMcnVfNUpXQXljVXl1dDRSY1NPeHBVc0tSdkt4WmloZ1BqLVNhVzM1TzNUeVZNNWV6d2dsYUVINnBJQkRTNGE4cGN5TFJDZGF0cnY5QzNING54OGNaMi1ZeWRGSXZxMDlzWFFNVHNyWHNVRTZ1RGxhUUJVczdMMWh3YWRsWUNITTJwLVVZY1FJWG1OY1dhOXJSQQ?oc=5",
@@ -1608,38 +1639,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "general",
-      "weekKey": "2026-W38"
-    },
-    {
-      "title": "Talarico neck and neck with Paxton in new Texas Senate poll - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYXRFMDl3eENYczVueWNRSEp1NmVXOWxlN296ajUzWHhWS2VMa3pjcHdkVm9ud01YV19EV2xNeHFGaktfbFpwbGRpR1p1UVZfbXMxaVFLeENxRmRPWEdncWM1b3pSM25VN2g1enFyb0xFZ0pJYm1COUdCWUI2VlA2V0tyRUM4a0RvUEd1VEF4N2FrQnh4SC130gGcAUFVX3lxTFBPZlVMZUJKN214aE81QUtfakJZZ0VGanJVYmYyZXUzQXRzT25FQlVtVGxNbkRYRGk5bl9ucGNhYkVxRUpFSkJ3SkVJd2V0dm85SXlCM0dpa0VpMldOYmtSVVVDZUNXMUZhWFNWZ21LOTlNZ3pPMW9vSGdnazRlTkl2czlIaURjdGN0WXhhUFppM3pnVUVmV2hIYVhhQg?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 10:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W38"
-    },
-    {
-      "title": "Talarico blasts Paxton AI ad in Texas US Senate race fight - El Paso Times",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOX042NE1VMnlqS0llaFdiX0dsV0tMU0gxZ1ljNkd4LUVac2JrWk10c052eG5GakZadzcxYzBCekpJMkxuYmR1ZTRHdlhTTEpiNkk1eG9zTTZxMVNRQXlkcFo5MUJ2R3FibDJQM0VGNmpNYUZoTTBHR2ZEX2VsM1lHR0VReDhhWWYtM2tHRE9EanNDekc1RWhEYlRMcDc1aVdKcXBrSEQ2WFdtVUtDV1RXc1k2ZEpTRkN3QW5RU3VtMXBESmZRSmp5QjdwV2pFZVQ3UmV2aUY0Y0R2WGZEYzNwY3BFVG8?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 17:27:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
       "weekKey": "2026-W38"
     }
   ],
