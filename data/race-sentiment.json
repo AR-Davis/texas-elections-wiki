@@ -1,9 +1,75 @@
 {
-  "analyzedAt": "2026-09-24T00:19:05.680Z",
-  "newsFetchedAt": "2026-09-23T22:09:09.510Z",
+  "analyzedAt": "2026-09-24T05:13:10.104Z",
+  "newsFetchedAt": "2026-09-24T00:46:36.336Z",
   "totalAnalyzed": 100,
-  "newThisRun": 7,
+  "newThisRun": 4,
   "stories": [
+    {
+      "title": "New poll puts Talarico ahead in Texas Senate race - FOX 7 Austin",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON0U3VjhtTWU0NUFCVUs4V3pnbi0tRVJ3YkZNWFdkQndjZkJCdU5BX2tYNWtJS192dFBtbWtOODNEOUZ2OTI5MnR2eE1xbkRpZHZJb1pfRi00aHF0Z3ZvdjRieUg0d0hPV05PSVczZ1ZTMTl5WUZLTDJHVTRZRHk2Yy1kNTlRWU5BZ0E?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 23:10:43 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W38"
+    },
+    {
+      "title": "Paxton’s estranged wife breaks silence on Texas Senate race after ‘biblical grounds’ divorce - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNGxpZm5mYzdFZVRNalRUSW1ReHgtR09rTjBPLU45TllLUld5UkJWaW9Rbmh2OGFSSWZFYnpWWVZnQjJ4X0FyVlUxN2dqcFhuRXFBNDQ3RkxDb0thdEtocGtzMDdDcUVzUWMxR3cxdDU5TzdpeVZTSnRUYUxpejdESGttTGIxS1lMcGZJNDRUMGROTHRtcEwwNXEzVUN2MUh6VldLMV9KR3RBcWlYRkJvYTJFWWxlQUNqLVFKelgzU1FKdlhhemo4?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 00:31:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W39"
+    },
+    {
+      "title": "Texas Senate poll shows Talarico, Paxton locked in tight race - Bradenton Herald",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lRWV2UldOX1lyNjliZzY0b2hDa05ZR1Zsc191VFoxNWttRUZZblBZbXVvQUptZ1E5cE1yckxDZU54a3pvVGhXQS1rNW1kZ2tuZVphbXFtMkh4RlVFeERWWGtMSGhXWVBOU0VSTng5LTZJYnIwMHV5Y0VfZ3c5czA?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 15:24:10 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W38"
+    },
+    {
+      "title": "Texas Senate poll shows Talarico, Paxton locked in tight race - Lexington Herald Leader",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1BckMwVWhNTTdYaWxvXzRzNDFLQVdRQnV6SmdMcVhxbWdxQndiSFgwS2VvcmdPNlh6LTNvU0tMREhMdU82M002d3FGREJEYnN6dUdRcl9JbDhxV0FJalJKMnFnMDBlYWZIeEtmT0VrdDRGeWsxckRhZnRwckhxUQ?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 15:24:10 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W38"
+    },
     {
       "title": "Poll: James Talarico Leading Ken Paxton in Texas Senate Race - breitbart.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR3NyZTNEOTUyZ1JkTVJ5REpOSWRFM2JVQW51akNzMGpTeXNkVFJNb0hMTWV6cXcwZzJXTnFsd1BvZnJtSnktZDFmRzZvMUV0MUthUXV5VzFKbzZYRHBZY1BuaFZsWEQ5LWgxV2VDUkFXQmVYT0tROVNsSnQ1Q01qWU9EckgwQ3JtMTE3R3FiSjlHRHlnSU5sclZJM18ycWVyRTdualFhUGlzQdIBrwFBVV95cUxQMDdxZEhEV2wyMVJCT2ZsOS10TzBCMmxTSlJac0FDUWlHQXVJUEUwRFRlU3dEV3l4ZnNRaWJCN2EydHVscGlHWFYtYlBNMTh6R0RLNC1qRnBELXNxb2xaOHkzdXhIU01QM1VvNkJxdGh2eWVJM2laZmFHZ2JRMXFPeDZKR2YwdnZpaWRJOUpxY3I2VllIUWVPSEEwSThhN2RxX2U2ZzFEX21FMmRrTm5v?oc=5",
@@ -1573,70 +1639,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "paxton",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "Ken Paxton's 'Weird' Smear Against James Talarico Goes Viral - PinkNews",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IOVZpZ3lFV1FlNkRjN1NvUEpmYjdha3JENkZadkhzWVFfenNnQ1F1TEI3QnVfX3FxTnVZY3poQm42OU45MWhRbXpPU0JQVGx0enNoal9SVUw0VDdQWEh3LU9SMTNNMXR4NS1kNFhOdDBuelJl?oc=5",
-      "pubDate": "Wed, 16 Sep 2026 16:24:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "Talarico dragged down by drag queen in toss-up Texas Senate race - Washington Times",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVjdqa0UwRnRfSjRmaWo5Y2ktdkNLb282aC13ZTh4WFBMeEgteTduR2NwTmRJWnRHLUJxcVA3SEI5dDA1d2hSS1J6Yms4MnliMDFuU0g1cXd6eEN4TnhKZTlyVTZwSzRFNU9Semd5UUxTN2daWU5GSkJsMnhSblBfRFM1SmxwSXc0czZkR042ZkpJWnVFa1h0dTJOWkN4MmhtUklveXFQY1JWUQ?oc=5",
-      "pubDate": "Wed, 16 Sep 2026 21:31:15 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "Family sues Ken Paxton, alleging Texas woman died due to denied abortion care - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUTg0VkxNcVlyTHhyUVhEcXBOOTdKUC0yT05mYk5UQ3V6MkR4LVVOME1BSGxob1lYdm5XMGZLYkNkZFBNbXQtb3dvLVltR1hTUHQ3X3ByZUhaRnJ5dUJuUVNkMG16XzQ4RHlkamd3ckJLMEdMaFVyUkpNUTdyb3djcUtjeS1qaWRXdGd1MWY0TmVWR191bGxDWTQ5TEdXazdzZUpIX08zX2Z1ZUREem93Sm5oU2ljY3pTbUVLeTZmTTlzbGs?oc=5",
-      "pubDate": "Wed, 16 Sep 2026 20:08:21 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W37"
-    },
-    {
-      "title": "GOP slams James Talarico over viral Alyssa Edwards clip - wonderwall.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa0Y2Y2NSdGo1YWdGTUM1YXRQeXFUT2FyQ2Q1ZVAtd19NcG8wQWZ2X05RN2JOOXhQNHhkTEtfblI1NzFISzFIWWh1N3dtOXhPOVlUdDhWZ2Z0M1lOc2xzaHlGNjd5TkNpSEFadXRKbmNXaUNlUkNNWVJJN2ZwVU85U1B0aTFCRHBxRGNZZ3ZYSm8tSkw2dl9haV96eERVc0pHTjZrVVNxZmN5TmNueHZHQjJCX3g2eU1mdUE?oc=5",
-      "pubDate": "Wed, 16 Sep 2026 14:21:46 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
       "weekKey": "2026-W37"
     }
   ],
