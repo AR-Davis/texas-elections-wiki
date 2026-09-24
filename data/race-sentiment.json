@@ -1,9 +1,41 @@
 {
-  "analyzedAt": "2026-09-24T10:24:06.817Z",
-  "newsFetchedAt": "2026-09-24T05:58:39.700Z",
+  "analyzedAt": "2026-09-24T15:25:37.615Z",
+  "newsFetchedAt": "2026-09-24T11:36:12.304Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Republicans flood Texas Senate race with cash for Paxton ads - Longview News-Journal",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPREJXWTJMcnVfNUpXQXljVXl1dDRSY1NPeHBVc0tSdkt4WmloZ1BqLVNhVzM1TzNUeVZNNWV6d2dsYUVINnBJQkRTNGE4cGN5TFJDZGF0cnY5QzNING54OGNaMi1ZeWRGSXZxMDlzWFFNVHNyWHNVRTZ1RGxhUUJVczdMMWh3YWRsWUNITTJwLVVZY1FJWG1OY1dhOXJSQQ?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 10:32:50 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W39"
+    },
+    {
+      "title": "Dallas-Fort Worth suburbs may be key to Paxton vs. Talarico - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMHF6NTJXNGQzZ3YxSXMxcEFKU3UzSUVhWUhWVi1ZYWRqVkNPTkZCZGh5OWhWclJpcUljaEJsT0pHZEJvTTRlQmFqYm9OQlRYb1pQd2JoM1NJWjFEYjhBcWNPWTBOQ2VyR0ZKeExjUHJyWEFyMGlua1h3WUdQeW15bmQ4Y0hNemJLQVh6NXBORTVCR1k?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 10:09:22 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W39"
+    },
     {
       "title": "Texas A&amp;M student group invites Ken Paxton, James Talarico to debate - KBTX News 3",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORnZIeURjdklrdWtlSzNzclZXQkstV3ZYLXF5alFtMWNrN2djNnVseWE2b1dBTHFXSXpDZkVJM0lPUXFxeERVODZzel9VNEJ4ZllEd2ZWS3plbERfMjhSOS1WbWJvZ2dUR2IwaWpfLUt6eG03V1B2WTQwR3Q2TjhCdU5WeUxCa2ZXUnROMkRyNk9CX0J1b0o2TGlYbnY?oc=5",
@@ -1609,39 +1641,6 @@
       "error": "HTTP 405",
       "candidate": "both",
       "weekKey": "2026-W38"
-    },
-    {
-      "title": "Ken Paxton is within striking distance of James Talarico - knewz.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaHpRa0d4ODl5VmhVbm9DUG5zOXoycVM3UUdmVVJ4Z2RGN2VYUXJSUThXcEJ0SWctclpmT1FqVnV3c0FORjlGQzhULUoxb1N1bndvVThvdzFaVTF6RzF6NDdXZFRkV01xYlp4aVV0QkMtQmxaSzdZd0kwMUhrMmlMSHI0cl9BZEc0Uk1xdHFlRWU0TG9aeGxQU1FZcHVpZ2pCTVhLWldJc19kQk9TVmd4TXJn?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 13:53:08 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W38"
-    },
-    {
-      "title": "National Right to Life Endorses Ken Paxton for U.S. Senate, Texas attorney general has consistently defended life and the most vulnerable - National Right to Life Committee",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQY2RCV29KTm1ESGxtaGNwSDk5UmI5RFNOWWdqWXFweDV3TnFRQWFEdS1weGctM0xLUVNkYUQwT3VNUy1sRXhQeDdEbTZtSVU5YTI4azZQNVBKYXZSZXJOcF96b2M2Z1c5cl9DaHJRdmZDcTVtWFdhak9ONGdoa1otd3duMUlrNEJiQnZpOWZRTkN4VmNIWEJfUTc5YndJVm55UUJFZDdTZWN4OWRQUVNWOU5hcld6Z1FhNnBqaVYxUkJCWmFOREp6STg4VmRJZ3pFdk81QUVRdGZZWVc4OGhPeHMxU2xUUmQ2WXNBWHQ1eG05bEtKd1l5TU1JZjFYcGplR2FxRQ?oc=5",
-      "pubDate": "Wed, 16 Sep 2026 15:49:19 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "attorney general"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W37"
     }
   ],
   "weekly": {}
