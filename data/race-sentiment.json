@@ -1,9 +1,73 @@
 {
-  "analyzedAt": "2026-09-25T17:27:56.338Z",
-  "newsFetchedAt": "2026-09-25T12:56:03.245Z",
+  "analyzedAt": "2026-09-25T20:40:28.019Z",
+  "newsFetchedAt": "2026-09-25T17:53:15.495Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 4,
   "stories": [
+    {
+      "title": "Talarico Still Leads in Texas Senate Race - Political Wire",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWDdHaXNXSERTNXRaVEkzRG9HRmlfQ3hFaGJrS3JuT1R1dkZ0MEJCX1QxYVNqaFdXT1NDd19ueElzd2doSDZaV3hRS2RNTzhSUDJJMmtNVEUyVmhxeXM3TUZueFNiUndJQlBEbWNKUGtoY29jdkd4djRSOGFLTHcxc2FBb3VGeV9B?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 14:40:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W39"
+    },
+    {
+      "title": "Talarico's lead narrows over Paxton in Texas US Senate race - fox7austin.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdk85YlVTNWljNmNRZlYzcHZXZVE4QXR3LUcxQ25PMDdRZ0Q4WnZ0ME1rczd2V2hjcGdsRGRNdm5MelpBa1VMRFd2LVBJVkxHS0dNenRQRV9tcFN2YVNUMWw2VlNZTEtraWQycy1ac3NnejNTMW93Z3Q1cGNOVE9vZXpfOA?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 17:02:02 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W39"
+    },
+    {
+      "title": "Talarico attacks Paxton over China ties as Texas US Senate race heats up - El Paso Times",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZGxEY3pZek4wNmYtV0NORkZWR2g1UXRlY0hDQTBzdE1iZXZqYkJ2MW9KSlBaZ3lkTUNYSmxkckxOckFPYTVBQWpRNEk4ZVkwLXRYUHZZR1JndHROa3N1ejJFaENzSldLWVVwaGc2VFNlTVdxQTdNNjZVb2FUTmM5M3ZQR1VJSlhOVnNnVlpLSnlQMjFsd3ZFMlZRc1ZsTmJYeEN6eG9xOGFUdU56cE9BLTQyUTZnZUdVNkJ4bHFwS25hT0EzLS16RVdVR3pEWVBvRTUwTGUtRG5JcngybUMwU1plWnlzQnZi?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 14:23:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W39"
+    },
+    {
+      "title": "Why is Ken Paxton so obsessed with this famous Texas drag queen - San Antonio Current",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMDhiTVpIRFIwV2NNbExHQ0hQUklpS0ZEV2NRQXJDZWN4MW14SUY4RGZRVmpIVVNiU3lWM2h5S1A0cTJ1bUgtR1NoZEJNdkltMnRaMnN5empiR2p2a3lJQUttdUVLd0ZPam1ZX1VJRDN2bk1pRmlYSEpneWRiWWlCZlltSHZmZE93T0JCenRheDdDS2ZDcXJQaGFIT2lhSlJoc0hEZFJjeS0wdw?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 17:24:57 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W39"
+    },
     {
       "title": "Paxton’s estranged wife breaks silence on Texas Senate race after 'biblical grounds' divorce - Fox News",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWmFSNWtCRmpuajlJRW1sZEEzVG5UcWFDU3VxRTZmR2NpeWRmVUgxZXFCaFdpVE1kUnJKYjhWRGlkaFB6WUtqWklKM2k1VHprMDJGdGZBSHgyWnJiRHpQc3pUQnVrS3FWa1E0SVhTT1hHTGpuTXN4WDJOdEdiakM4bzhrSEVlMTBnX2Nub2RvMVJEcjJHZWJBQndPZWZXbkJ0cDJNM1dxLUlBTF84RG9UeDNB0gG3AUFVX3lxTE1ycDVEb1hOVS04b1Q0N2FrR1pMRG9BSVJyTXRQR3RHQ1JZUDlIdXFKajdqMzFXNFZ6RjR1LTVlTHBsTHloX2NDTkpmR0dxZkVCZHB1TDREanhISFZHMlVOc216MEs5dFdBMkhzSG9jYjBaMkRibUFOMHdiS3ctYmJld3N3NFFuUmg1Y3YwRU9aNDRxSTl6VkhLTGs3aGF6MmtCT0NrUTBNeU9ZUXlZbFlhblJRUUNVaw?oc=5",
@@ -1573,75 +1637,6 @@
       "error": "HTTP 405",
       "candidate": "both",
       "weekKey": "2026-W38"
-    },
-    {
-      "title": "The Talarico Polls Are Missing Key Factors In The Texas Senate Race - News Radio 1200 WOAI",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORE1OaHZYb0pSVjVDY2RMMENleXRSaHRhUkhpVEFIVl9GX0FaeHFaaFdTOWtrWnVKT2RsZ29Bc2dxcUdxNXRuajZidmU1Qm5XOVMzNGwwUFJLSlU0aUZwYkdNek1tdHMzdXJjTzI4WFJ3T3BJZExUdkRtTUQ5WE40d00zWG9nNUVvVGVmNlJDXy1YZTAwNzRkR1hWd3U3dUVIdE4ybXBaakxXN21ybEZ2a0cwU0tzdU9WWEhfX0JpZFdVSkN2ZWFVS1ljbFRhcHhmOTdDUk9lOEMyQnc0?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 15:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W38"
-    },
-    {
-      "title": "Paxton closes in on Talarico as new poll shows GOP within striking distance in Texas Senate race - news.meaww.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOGdYbkRWYTJyN2xrazcyNmVVYnFDNW10WDhCUmR1dTRMTGppMF9TeGYxN1I3VnB5TDUxMWk2Z1o1VEtvSF9Tb3pySVR6Ml9aZkdjS0NWOWdjUC1mSzdvR3pPUHl4bklxeDRZSkVMdllVN1Q4NEJHcmdoX3dBNFhOcGtxMzJURWM4OGJacWpGVFVEWENoUHZpQ3VYYnBfd19UX0E1ZFlxNmNGVUlTQVN4T1hjc1Q0UkszUGFj?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 07:38:40 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W38"
-    },
-    {
-      "title": "Paxton And Talarico Neck-And-Neck In Tight Texas Senate Race: New Poll - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYm5qVGVxWTQ5TFVibjBXNGUzdExVek1td2lGeU1BeEJQUnVGQktOTUpmMzRUSEJJdTQxamNiWW5QNTluOUJXYjZ0akYyN2U4clFjRmlGaEI5QnBhZGlsQ1d4ZmoyS2hxNl9kTl94WmdnTm1Gb1VLZ2N4cFVRWnE5aWZIOXM0MDNCWjBHR0xsSXVVN1dmVDlkRnh3bWl1aXhETk01VV9LSUtmdU9xWHRrRkE2ODkzZEJOVExJ?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 23:00:21 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W38"
-    },
-    {
-      "title": "Ken Paxton Within Striking Distance of Defeating Talarico in New Texas Poll - Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR2s2M0NQM211akVCYzhRTWtyOGc4cS1xS3VCUWFJVGpXNGxyRENNbjBUcHN1amhYR2lxaTEzRlZkczA0aldXdGwxRTRzNVZoVWRDd0c5VEE5TDdFOUNDbzhWUEZJUkg4QUtKVEo3MzhoSDB0aE40UEprZFQ5cWpFNE9GZFY0OF9KcUhzTG1BSmdpZ3RFUmtUcEo1UFdDSGZOSVBYbUl4SEw5UDJzcWc?oc=5",
-      "pubDate": "Wed, 16 Sep 2026 19:33:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W37"
     }
   ],
   "weekly": {}
