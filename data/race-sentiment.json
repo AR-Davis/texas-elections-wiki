@@ -1,9 +1,56 @@
 {
-  "analyzedAt": "2026-09-24T22:39:47.930Z",
-  "newsFetchedAt": "2026-09-24T20:19:53.177Z",
+  "analyzedAt": "2026-09-25T01:17:00.504Z",
+  "newsFetchedAt": "2026-09-24T23:20:18.007Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Texas Tech leaders face questions over their role in Ken Paxton U.S. Senate race fundraiser - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbUZ6Z01HczN0NVFhaV9ISkJNYTFwcm1JeVpDdnh4RmozLVRwYTc5d3R3b3BUN0ozTTN6UGdxU0Z2dk8yd0VwdTFsc3FNUmVkUGdvUWlHZHR5V1B2MFJWNTRsWXZDMEVMb0l1bHg5SkJhNFQ3cEdJaW5Za0FIWktUai1RWlJ3eHpiWlRSYVNMaU1FZ0VoNkZuRnhUZkNsb3NEZ2g5Q0tHeDdaVWdpM2p2Mks3d2hycEV5blJvMThvTUxZNU9jaHlGUi1Gb0J1VlNHNjN6UXJJUHJwb2RHUWhPSzNvRjXSAeQBQVVfeXFMTW1GemdNR3MzdDVRYWlfSEpCTWExcHJtSXlaQ3Z4eEZqMy1UcGE3OXd0d29wVDdKM00zelBncVNGdnZPMndFcHUxbHNxTVJlZFBnb1FpR2R0eVdQdjBSVjU0bFl2QzBFTG9JdWx4OUpCYTRUN3BHSWluWWtBSFpLVGotUVpSd3h6YlpUUmFTTGlNRWdFaDZGbkZ4VGZDbG9zRGdoOUNLR3g3WlVnaTNqdjJLN3docnBFeW5SbzE4b01MWTVPY2h5RlItRm9CdVZTRzYzelFySVBycG9kR1FoT0szb0Y1?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 20:14:25 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W39"
+    },
+    {
+      "title": "Texas GOP Senate Candidate Ken Paxton Took More Than Half A Million Dollars In Alcohol Industry Donations While Opposing Cannabis Reform - Marijuana Moment",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSjVDYUVDYzNSYnBsbHJWa2VqYXV6OVFkaDJhYkNpZDZva1R6NV9GWkY0LXY4V3VfTFJzTWc3TzZ5T0JTTEhhdmhRN1ZEa3BRU0lZZGk5V01EVXlkRXRQV2Z4X05aSHdOWDFMQWl1RUVhUHJXVFV5dFNISWRaTzk1b21HMUp3UmdrRjByMmVwa1VBWGhEM281VE9SaTMtLVEzakhocHRLQzJKZk1mTXlVX2NGbWhNNk1pbXRBX2NqVTI5OXVvRDV5QnB0bDNmMWNsNmZzX05rWElCRXoxaWNQc094clI5RjA4X3VHakJZZGExdkMtQ2JmcXotNXo2UQ?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 12:26:07 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas gop"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W39"
+    },
+    {
+      "title": "Watch: James Talarico speaks at the 2026 Texas Tribune Festival - KSAT",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdzNNQlRWQVdBR0c4bkNkN19DdVNZOVIzbHp4R0ljSkItaS14bldkT3Q2bm9IRWRsbVo1UzFXWFdzWjNObENXd2liTjBqQ1VvcUFLcmxsSUhWc1JINkdURFI5eE5XeGZMMVBjZFZVa19NeUMwdlNmdFFycjlnVzl0RVVlako4YlhzN3ptMnhOQnQ2SFJSTUY3SU5hX3VoV2x2S29JSTd3emgzZw?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 21:05:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W39"
+    },
     {
       "title": "Texas Senate Race Odds 2026 | Talarico vs Paxton Polls &amp; Analysis (Texas Senate Polymarket Predictions) - Action Network",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLVkwYnRoUDQyRGtCOEFyTWVsbDhVRGpOWExnUk1wOEF3Y2ZKUGhoX2FOdE1EQ09JTVNfLUptRWdpc2VodU42WkhwejVIRVQ3VkpPZFVfNXR3QjZOMU9hS1d6M01seHhzSjI4OXBnMWQzcGFnVzI5R0lCeHRpUk0xeVdKajF4dnQxUV9fY1NTWTk2T0VwX2hSbmo1WU1aRWYwYmFpSzBQRDVONTV5V2U3dW5GRktadVpRZ2phQjBXeUY5UDh2RVRfMkx2R0c?oc=5",
@@ -1583,57 +1630,6 @@
       "pubDate": "Thu, 17 Sep 2026 07:24:33 GMT",
       "feedSource": "google-news-texas",
       "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W38"
-    },
-    {
-      "title": "Paxton Losing Ground to Talarico in Texas Senate Race - Action Network",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX3Z4c1hkV3o3b0szSzM3QTR2U1FuaXA1Z183OFZlcUJWdWROeVY2SWlvRWFfQ0tUOVBEVVlldlY4VkFmWEFTcS15aEl1M2d1eWhZTDdfRFA2Tm1mVkstZmpsWDdqbVZYVEZndlQ1UGRDRUhMc1VrV3ZjS2p0SjdLN0h6NnlhUGhrdnBqNlpzUjhyU0I4cnpFMnUzdjA?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 16:29:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W38"
-    },
-    {
-      "title": "James Talarico Leads Ken Paxton With Every Pollster For First Time - Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSy1zenNzb3kyeDVTY1BXTWt0RHNGVjFSV0o3bkJuV19KMTJGMjRNQU1rS042ZFNvRFRpYTFCYVVmTEphWHVwOGsxRUN0VEhBYkZfTHpRQ001NDhtRlk4N01fd2ZQTk5xY2dqTGhSUWMwOFZ6Z2dMM0pldkVPQWpVREs4VUNGaWQ5bkdFYjFPc0xLVHRnX1VZbFdfRjk1SHF0WTlOYkx0cV9PQ0NtV2lWdTZ3QVY0d2dVTUE?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 10:39:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W38"
-    },
-    {
-      "title": "Talarico widens gap over Paxton in new Texas Senate poll - El Paso Times",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUlZqREtVUGttYWEtS0dQaW80eVRwR1NYZjduUzVxNGxJcGhOTXhZZENRY0ZNNWNxNG5vckg4X0xHNk4wWk5WTHFlZFFWTGtCYkJXanJFZks1TlZhcmtMR2RCV0M1c25fTFhxSURhOWQ2eENtUmcyQWRIRGM3aGk5b3hOSzFMMXRONzlISWlCQmhiM2czSHVjOWltVnR0Q1lKNGx0Z0NFdXczLXBSSlctNzNyZUJwc1BndTV5Y1d0Y3VUN18zdXlqYW1wUFNkNEN0cnhUWE9nc2NGTjYzbHZyd3Q3ck5oZUNDMlRjS1QyMXQ?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 17:54:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
       "matchedKeywords": [
         "talarico",
         "paxton",
