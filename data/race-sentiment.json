@@ -1,9 +1,59 @@
 {
-  "analyzedAt": "2026-09-25T01:17:00.504Z",
-  "newsFetchedAt": "2026-09-24T23:20:18.007Z",
+  "analyzedAt": "2026-09-25T06:29:01.445Z",
+  "newsFetchedAt": "2026-09-25T01:47:26.806Z",
   "totalAnalyzed": 100,
   "newThisRun": 3,
   "stories": [
+    {
+      "title": "James Talarico challenges Ken Paxton to Fox News debate - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jSG9XTG5CVkd4eXV5amJjWU5WSDhzUG5IaFptUHV6SmNtRlA4SVh4b25OMVhsOUl6VUM0WkhLaTIydDlldWdEc3JobzNidk1lOHpaR1JxSXdfSWRLZGxEVjJFaVREVmllUlFCbVcyZzVIUnBwczM2ZQ?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 21:05:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W39"
+    },
+    {
+      "title": "John Cornyn raises $1.1 million for GOP Senate candidates, but not Ken Paxton - cbsnews.com",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN19VMjJrNUdlRWxfUV9GZm9fZnh5bmpoZl9YN0tiWUQtMXJUUllOeXlIeE1rWVpmS2hmR3lnWER5dXlhei1jcVR0c21JbnAydXQwb3hORF92Sk00Z1hPczN5NENLVHdWX0F3cFEyV21mQXVqRVVYb3JrcWZxcG50NDB5THJfN2o2NXc?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 18:24:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 20,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "cornyn",
+        "john cornyn"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W39"
+    },
+    {
+      "title": "Texas Senate race puts North Texas suburbs in focus ahead of early voting - nbcdfw.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRVJkU2pRaVpTN285bHhRR1oxTzF2bTJfMTZUeUd1YkNyNmVEaGJLNEltcVVoUkM2UnVYbDRQd2wyeG5IOXVCcXRoeHJZNmNHM0JESTdCS0NVVzRfZXJ4TmcySjBUWnF2dE9KVEtEYlAtWjJLeFJjc0FtcnVuLW5kNmdUSWxMbERMTnpSQ3ZfYVJuTG1xMkplcnRMeG5GUWJYNFlzQ1BTbVJ1bTJaTzdNSEU0Q0ZRSzAyOG91cXdUdmlCN3gyZFQ1cWFDRGVmT3JUN0sxTdIB3AFBVV95cUxQb0NiMjdINmlPdW0tX0xIbTRVajQ2b0x5TjV1ZmhMWFZpTFViaDRQZ3VIRVQ2QkVyVl9pX3FicG5jemFVcHZRX0I0UXlfLTFkaG5yWnNjZ0laN2ZhVlkxcnlEcEhQOU1YeDRqYzdqcjc0WGdZNk5TT1FCZHl5U3hMd1NKX3ptWWRnWG9ubkJ6RTIwdTdnQmdjZmZCRFpVZGZ6RFZrWkZNNXZiRFl0bEI2NXl3a3o0T1JZaGJzM3YwV2k4eVJYdDZrYmZ0Nm0yMG9qdDliZ2FqV3BwOGxU?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 22:01:48 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "general",
+      "weekKey": "2026-W39"
+    },
     {
       "title": "Texas Tech leaders face questions over their role in Ken Paxton U.S. Senate race fundraiser - Houston Public Media",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbUZ6Z01HczN0NVFhaV9ISkJNYTFwcm1JeVpDdnh4RmozLVRwYTc5d3R3b3BUN0ozTTN6UGdxU0Z2dk8yd0VwdTFsc3FNUmVkUGdvUWlHZHR5V1B2MFJWNTRsWXZDMEVMb0l1bHg5SkJhNFQ3cEdJaW5Za0FIWktUai1RWlJ3eHpiWlRSYVNMaU1FZ0VoNkZuRnhUZkNsb3NEZ2g5Q0tHeDdaVWdpM2p2Mks3d2hycEV5blJvMThvTUxZNU9jaHlGUi1Gb0J1VlNHNjN6UXJJUHJwb2RHUWhPSzNvRjXSAeQBQVVfeXFMTW1GemdNR3MzdDVRYWlfSEpCTWExcHJtSXlaQ3Z4eEZqMy1UcGE3OXd0d29wVDdKM00zelBncVNGdnZPMndFcHUxbHNxTVJlZFBnb1FpR2R0eVdQdjBSVjU0bFl2QzBFTG9JdWx4OUpCYTRUN3BHSWluWWtBSFpLVGotUVpSd3h6YlpUUmFTTGlNRWdFaDZGbkZ4VGZDbG9zRGdoOUNLR3g3WlVnaTNqdjJLN3docnBFeW5SbzE4b01MWTVPY2h5RlItRm9CdVZTRzYzelFySVBycG9kR1FoT0szb0Y1?oc=5",
@@ -1591,54 +1641,6 @@
       "error": "HTTP 405",
       "candidate": "both",
       "weekKey": "2026-W37"
-    },
-    {
-      "title": "Talarico Leading Paxton in 2 Texas Senate Polls - Newsmax",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYXl2dW1jQnlhYVo3MnlmUW1hTkNmTi01WG5LSXpnZEp3UVFSaVZXRnRrXzVsd3FqdGpwcm1WN2FJRHdVd0dHcjFkMWZvLW9JWjJzSmJhUk84akFkTVF0TjJHMzQzTjFyVHlnQnhOWUQ5UlBwc2VyMXVab2ZBTU44ekNwWngzNjJLb2VsNUF3WFI?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 18:17:11 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W38"
-    },
-    {
-      "title": "New Texas Senate poll shows dead heat between Talarico, Paxton - The Patriot Ledger",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOXdPbVNDNk5GMWhjanBuWXAtOHdLTVpmck5SWmQ0MWlUSWpYZDhTYTJuUlhmcElfU2tVcXBUVHl1MEM3MjJlOENjd2RmdFY2b3V4aDFKR1M5eW9lUlpPVGV5NmtaNV9rRG5GRmN4emNqT0JEYm1QRld4cUdjUVl3SFM4U2RaUE9JRHZFU3pIQmk5d3dVM3hNZkR0UFhGUzhxYnhRemQtNmRLVUFqVHJlOVNYdWo2NFk1b0dGNThGbGkzRlIyNmlSQlRQa1IyY2ZFS1lOak9Vc1YwMms?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 15:59:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W38"
-    },
-    {
-      "title": "Talarico neck and neck with Paxton in new Texas Senate poll - KTSM 9 News",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRWlfRmxoLXNuZHV1Z2hqcTNvb1hSa2x4RUY3cmVsYkpCcXJpS0N0VE9zdFNoR0lyYlBCVTdYUGNSMW5iRmVDNHhlMGlMZEhLZHFtRmRVZDNsU3ExV2tYRTVnVWVqSWl1MllBUFh6c05EVUlpTmJlTUREQjRWV2w2d2psWVFQTl83Z3B4eDJWMU44clVtcTlR0gGXAUFVX3lxTE1FaV9GbGgtc25kdXVnaGpxM29vWFJrbHhFRjdyZWxiSkJxcmlLQ3RUT3N0U2hHSXJiUEJVN1hQY1IxbmJGZUM0eGUwaUxkSEtkcW1GZFVkM2xTcTFXa1hFNWdVZWpJaXUyWUFQWHpzTkRVSWlOYmVNRERCNFZXbDZ3amxZUVBOXzdncHh4MlYxTjhyVW1xOVE?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 07:24:33 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W38"
     }
   ],
   "weekly": {}
