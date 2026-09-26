@@ -1,9 +1,41 @@
 {
-  "analyzedAt": "2026-09-26T20:51:59.286Z",
-  "newsFetchedAt": "2026-09-26T18:27:25.692Z",
+  "analyzedAt": "2026-09-26T23:26:32.664Z",
+  "newsFetchedAt": "2026-09-26T21:26:28.823Z",
   "totalAnalyzed": 100,
   "newThisRun": 2,
   "stories": [
+    {
+      "title": "Karl Rove says John Cornyn, not Paxton, could beat Talarico - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVE9DNm9LUGVUek9wTG5CbnpGczFsQjBjQVQwM09pcGpVNjdtUjdlMzV6WmsyVHd1bV85ZlNXZUFVYTFVNzRlTi1MdlhuVkgzZ0djY0g2YjB2elRMSGxsbWozODg5YzJpS0N3c1p0S3A0eHd6dTB1bGZKbERCZWN1WHFn?oc=5",
+      "pubDate": "Sat, 26 Sep 2026 16:08:07 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 20,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "cornyn",
+        "john cornyn"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W39"
+    },
+    {
+      "title": "James Talarico says he hopes to learn from Ted Cruz if he wins in November - houstonchronicle.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbW80VnpHNGt6OHZ0Y2xsX0ZHcVNNeGRBT082M2xLVjg1UEV3SlNUOVNxOF9VaWtoYzYwT2hKU1F4ak8wUDRTbGdjMmk5MjNOb0JpTmMzckNkU01PbkJXdGdsQWQwQkV5UmMzR2N5X21SY3BwNElWbU1nSFd6UGRmbzBDVm1zODNYXzhuMFpaT25Bek9KeGJRWHJpWkJqQnpx?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 11:03:40 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W39"
+    },
     {
       "title": "Talarico attacks Paxton over China ties as Texas US Senate race heats up - AOL.ca",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb0N1Um1lS2FGUWVHeklOTDdfajF3T1M1c1FDX19tZGZnZjJablEzbFJGak4tUkZsTjVBX0tmMGdfVzNEVzU2c3VBVmpKTU1oWEk5Z1BXZDNhNVp2TVlkQ0tEaC12XzcxQl8xTnFBQ0FpT0lSSGt4bkJ6MDNLZzB0NENzaw?oc=5",
@@ -1599,39 +1631,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "paxton",
-      "weekKey": "2026-W38"
-    },
-    {
-      "title": "New poll signals movement in Talarico vs Paxton Texas Senate race - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbWJqR3dlVS11QlZPb29Vb29HVmlGdjFXal9DbUUyXzhDUnVNZEVNejktUUlvdmZsRGVmMlo5VzVhdXBfQms2dDJValllUHFDOW1sYlFvdWxRUHNYaVltUkVxVG9OeDZrVmRBWTBqTkpTQzB0VDB3OFcyV0ZXUk1PbnMxNENmOXAtTEM4dlJBa2VDMl9IZ3NSRXZTYmRKU1NBOGg0VDBWdlFjUXlmbHJz?oc=5",
-      "pubDate": "Sat, 19 Sep 2026 13:51:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W38"
-    },
-    {
-      "title": "Paxton, Talarico Texas US Senate contest tightens in race's final weeks - El Paso Times",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORVhrMDg3Zms2dGVIRnZDS1p1NlRHX215Qm1kNkNjdHotZ1BjQW82VjN3anAwdWZzbU1GcFpvNEU2WmxJX010QVNYWWIxYnRRbXB0T3lHU0xMLVFBMllBX1JyM3llc2VkSTcwRXRrX2JablEtZDVQWG0wa2dxbjFkMmNkVEVId3hLajZaUnVmMmdRZXRsT0NPWTBULVFIdndSY3VrSGJjN2hGdWRnZi1JRTdRbl9nZFJUQXpxNzJNdXl5ZUxENnRjWVd5OXF4UnhjaFU3LXI1MDBMVVhNbUhRZmFYYUc?oc=5",
-      "pubDate": "Sat, 19 Sep 2026 13:57:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
       "weekKey": "2026-W38"
     }
   ],
