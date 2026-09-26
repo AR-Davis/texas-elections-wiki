@@ -1,9 +1,61 @@
 {
-  "analyzedAt": "2026-09-26T04:21:49.169Z",
-  "newsFetchedAt": "2026-09-26T00:04:34.677Z",
+  "analyzedAt": "2026-09-26T09:28:51.933Z",
+  "newsFetchedAt": "2026-09-26T05:20:28.671Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "John Cornyn won't help Ken Paxton win Texas Senate seat - El Paso Times",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdHI1dGFyU1FkY3QyTkhwLUNiWWhnR0VUUmpFc2R3MHVhV2FENXAxWnJSaTYxMFVydkYyZHVjNkktX1FNbUhmV21JTnYxejB3czJGdDhmNzJBa3hSYTNfNTJOVlkxWXlIdl9xTkdFZXVieEctZlB1Znd4cG4xN2tkZm5QUlgtbWpETzc2UU5xWXlOUzBhS2NpNlNncjdtYUVHRlVuY0Y5WU91bGtFNzdUa2swYzZ0LTliMjNNS1lPT2IyMFBiWEE5cVJPSnRqRFZmaUdvek42ZExoVEhXeDlrSFk4VWV6TDVaTjNMRGd1RE5FQQ?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 19:43:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "cornyn",
+        "john cornyn"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W39"
+    },
+    {
+      "title": "Talarico leads Paxton in Texas Senate race, Marist poll shows - cbsnews.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONzROMmRTVC1lbE1ybWFWbk4yRHRlMUR5RlZMbG1rRTlJMFlEVFR5LUZ0TnlJbThWZFM2cFkxV3I0RkM4Smd2NDhKbkowRnRuUXdRY3pZbkZ2RTI3Q2RxVkIyT3VUYmF0OGd3U1R5TDhhM25EN2dibE1tWU9TbDctbnFFdDJIOGMxQk92V1psT2RacVBsRmc?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 15:23:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W38"
+    },
+    {
+      "title": "Cornyn calls Paxton 'flawed,' won't fundraise for Texas Senate - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTGxiM2pld0Itc2ZaRTJwZFNRMnpVYUcyS24yS1VnQUZXMmlzZXhfVG14a1Y4blVXQ0lWRHBjS3hBWnhkRlczZ0JGS01wTHpwOEhDNHNrLXdzMkFCdzBmeGFGM2U5eldrb3NOSWZBdXRXWEVCNU9YWGdHSGg2NUtUV0ZkZ1dvREJrQXdaV1IzYmJGVkxscGpPZjBUdUVjcFJOaDVPaVlpMEM1WHVWWHRnVVI3M0JkMTJnOHNiYkJaWDVIRndqdm03V0lUYzl0VUxF?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 19:30:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "paxton",
+        "texas senate",
+        "cornyn"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W39"
+    },
     {
       "title": "James Talarico’s Favorite Drag Queen Tears Into Ken Paxton - Newsweek",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX1JkT0h4T0VVR0dTTC1yTVhic2xSUW5EdmJiUHg0MTJZOVRVQUxwMkRvUHIzY2Vscl95M0s4a0VyNGZZX3I4UlFZcW9nVGFUY3c1QU5nVWtuaTI4UHRxd0NkZmdsVjNvRzJPQVVWU053VWhuSnBMNXVGeWtNVVBUU0dZZk9wVXZKYnU3blZ0OTFXYi1Ncmc?oc=5",
@@ -1582,58 +1634,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "paxton",
-      "weekKey": "2026-W38"
-    },
-    {
-      "title": "Black congressional leaders endorse James Talarico in Texas Senate race - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYmV5TkN2MEdRTzNsUC0wU2JGdUhzSE16TGlScVlLR1c5OWZ6cGMwVUQtNWdIcW1NM2VYelJRRHk4QlJrYkptWEZINHZWU0tJZ3l5OWQwRE1OSi1ZS1pwb3pjWXZzZjlfRWtJQ1NWdzRDSjRjVkdPcGJDVDBRYmtCUmlEai1kVTNLeWxudzRkZ0gxRkRpWU1ZazF4R0R6T1BDYS1CRHNjVlQtS05MV1V2b3FfMGFuR2dpWWtMdQ?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 23:02:04 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W38"
-    },
-    {
-      "title": "'He says God is non-binary...': Vance torches Talarico in fiery speech as Texas Senate race heats up - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOT2JyM1dUZGJPLWMzbUdIOUctY3dWR1JiWFNnVHQ2RnJGTHBBdlJUUnA2V0Y2RXgyNHJHSUVOLTlkQU1PaFdDMWNQbTZsUEZVSFF1SkdiazF3LWY1V0R1TFdYQTZ0amNoeEpJVDc1Ml9lc21xSXBiTF9yaEs5UnZfQUF3ZFE3V213R0RCNU5OWDFnSi1LR0FScW9yMHBiMFdFN3hEUnM0SHBEdjdNUjR0YlVtcVhrY2RsYllnbEw5TEQwZFFIbHZ5UW1LU20xN1BRcjJYQlR2R0NxVmNhT0lVdzNJVlRKTW9ONHVWbkF5SmlYQkdTUFJmNmRhTC1GQ2FULWt0ekhmY9IBjAJBVV95cUxOZzVQWnJfci1BTU5UYy14T3d2VWkzdnYxMkZVdmVWeE9hNGpTUEQxUmxxOEQ3ZWtqNWhsSWpoNFl0dXo5eTBfMmZ1RjRjQnVueWt2UlhKOXFDd1podVg4dS11NHdlRklfSzVndFZHWlpxaEN1RkU0ZU1FV25SZmpxZ1ZFcFZGZ2pWUndzaFlZc3pudnVZRXhYcXllMnhoenYzbEtKRjNnSVFoUDR1ekg0RXV2cHFUNk9ZaTZ4SmRkaFZSTVdwSzVXQV9STHAtcEtzSGdENVlFSWNSZjItU3NyMWhwUHI0SkpqMFFTdjRVQ202WW9nSG5jeEZ2TzU1Q1ZlQzJaTVZRaDhneHBZ?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 20:55:39 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W38"
-    },
-    {
-      "title": "The Talarico Polls Are Missing Key Factors In The Texas Senate Race - NewsRadio 740 KTRH",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdU5IVVhjUUFxQXBmUEJrV0R2emdYREZIeTV6am90bXJibHEwS044Nm1NU3FGTjFQMEh6VHMxanFlamtHcVVuU09vR2lkTTNROWxwMGpLVll2SlRORy12clc3NEZMb3NRVGVPeVRFM01RMGVST3YyZUdFQ0M2alFVdE5veWJJR1dmU012dUFycFlTWEhwQjlsNy1IZnhGazAwYlpaN1RSb1hiMGtaaEZncFpZYVhRVTQzU2k5TlFEbzNPSUZRMVVfRWZVYUw0ekl1UFloRHlB0gG4AUFVX3lxTE1fTVktN2U4c21leC1qLWdpbUhNZ25SdzhmZE5Ia1JNZV9iZ0ZzRHlMeVdnV0pCQUxMelJpNHN0cG8wWGtZYXhST21QRG52WmJXXzJtdkd2aFZ3NWNMYk03UVJZV200b2tFZFc5R2o4bGlpUmpFWVRCMEtRcjZKaVZ5WjEzbXhwYjBQTWxPNHQ5clZFcVhTenVKb3VYU2dvOUF0UkFULXZYeVZJeDlfWnc5bHdzeGpyXy0?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 15:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
       "weekKey": "2026-W38"
     }
   ],
