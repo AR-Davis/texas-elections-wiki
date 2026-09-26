@@ -1,9 +1,26 @@
 {
-  "analyzedAt": "2026-09-25T23:53:45.297Z",
-  "newsFetchedAt": "2026-09-25T21:22:24.126Z",
+  "analyzedAt": "2026-09-26T04:21:49.169Z",
+  "newsFetchedAt": "2026-09-26T00:04:34.677Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "James Talarico’s Favorite Drag Queen Tears Into Ken Paxton - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX1JkT0h4T0VVR0dTTC1yTVhic2xSUW5EdmJiUHg0MTJZOVRVQUxwMkRvUHIzY2Vscl95M0s4a0VyNGZZX3I4UlFZcW9nVGFUY3c1QU5nVWtuaTI4UHRxd0NkZmdsVjNvRzJPQVVWU053VWhuSnBMNXVGeWtNVVBUU0dZZk9wVXZKYnU3blZ0OTFXYi1Ncmc?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 10:31:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W39"
+    },
     {
       "title": "Angela Paxton breaks silence on Texas Senate race — sort of - Bergen Record",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYm5TZVR5V0JrNi1xbUNQbjIzZ2xYV0lBekNHMEZ1SEk3Rk5iM3VSQmtDa01DSWwyNVZOTHpNcHFtUFdHRmF5MjBHMjFHQW5hZjVhcm51QWZOZ2l0VmFXRzlvRE5SeEwxTFpEejQ2NEtvYm5XSWtHRFNvRnc1aW9rY0FrOUZ1UkRMUjhDa0MxLVluVGczSzhNeG5HN2hpNlkxNGdCbTh2N3BzMzNHZ0ZUaTdfVllfNEJpSTBwRHhYcEVNNnhGb1BGelZ3?oc=5",
@@ -1613,22 +1630,6 @@
         "texas senate",
         "senate race",
         "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W38"
-    },
-    {
-      "title": "James Talarico, Seeking Black Votes in Texas Senate Rate, Wins Crucial Endorsement - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbnFvSDE3dVFqb192aEdvNFp0T0h6SWpHT3dSTjVYMGE3YTdCb3puY3hoeWc0VW9wMEl5MHRSaks5clNZZmNlUHNxSlMxX1F3amVfZEFEU3E2Z3U2a1ZESmhJVXE1T1hQZmJyeW5PdzZOYmdwaXBVckhyU0dkdm5LQ0dhYkdxemRLT294c1hiT2NFZVVGNnpTQnFfM1lCdU9vYUVPVmwyWnFsdw?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 17:18:59 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate"
       ],
       "sentiment": null,
       "error": "HTTP 405",
