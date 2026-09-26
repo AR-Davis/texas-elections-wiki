@@ -1,9 +1,40 @@
 {
-  "analyzedAt": "2026-09-26T17:40:35.373Z",
-  "newsFetchedAt": "2026-09-26T14:40:27.780Z",
+  "analyzedAt": "2026-09-26T20:51:59.286Z",
+  "newsFetchedAt": "2026-09-26T18:27:25.692Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Talarico attacks Paxton over China ties as Texas US Senate race heats up - AOL.ca",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb0N1Um1lS2FGUWVHeklOTDdfajF3T1M1c1FDX19tZGZnZjJablEzbFJGak4tUkZsTjVBX0tmMGdfVzNEVzU2c3VBVmpKTU1oWEk5Z1BXZDNhNVp2TVlkQ0tEaC12XzcxQl8xTnFBQ0FpT0lSSGt4bkJ6MDNLZzB0NENzaw?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 14:23:10 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W39"
+    },
+    {
+      "title": "U.S. Senate Candidate James Talarico (D-TX) Speaks to Reporters at a Texas Gas Station - C-SPAN",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVk1yUmQ0c0tIWjgzY24xQ1E3VDVEMnhFN3M0N3JPQjYtVUxzVWZPVXVYZnp3Y2JWdjJveHlXZG1HMC1zazVMM2EzamlwWUloMk9YTVd4ZVcySTdSaGxHMkozVF9DNnoxTnNPakxabl9EUEtPRTRxcVNxdGF3VVlENWRoeHNaaEF1Mk1sdTBjR2lEVmdPcXhBZWtfUDdkT3BUb3dSUlFtSmVBbE9sR0syZWNRLXlOM0poOEpOVVd3d3plNURuenVocmdJNUI?oc=5",
+      "pubDate": "Sat, 26 Sep 2026 04:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W39"
+    },
     {
       "title": "Schumer launches new PAC to boost James Talarico’s chances in Texas - Washington Examiner",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZWgzSFFVYmwwVXE5VjB5bGRwSkxwc0REY0hONGgzLTBIVEZvd1RZUjdXODF6NkxEcVo2c0lINUk0cTRlQ011WHNBSXVEN0lqVGVJeEVlUWtNcFAtYS15aGk3TXRqaU9TYTF0X2w4bFBvVmp2bWJKS0tpdHVlRG5nZ3NpVlQ3R2cwUE5YVFE0WXdPbk5ud0xxNG5yZkNIeXZ6S0NyVWc0bU9tQ3hjOVRsbGEwZHhjUW1WRmpQZVNEZDRYLUE4NlU0bThWR2w3S1dhZkE?oc=5",
@@ -1601,36 +1632,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W38"
-    },
-    {
-      "title": "Trump Goes All In For Paxton In New Texas Senate Video - Dallas Express",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZFJHTWxWUEo1SlljVDFGWHpZd2x6MTdCall3T1I2eWtYNDk1b3Y4UWwyYnZvX2E1ZnBvTzJXUm9hUklrWlJqcTMwM182UFY0SDZtaGJ3YmF6WXdHcWZCaVF1LW5fN0Qyd05iaEhhendsbVoxcEZZaVdHd3R2Sm5oQkZ4VEFJNURQX25HYWZuR21aZ19fQmhmLXBpcw?oc=5",
-      "pubDate": "Sat, 19 Sep 2026 13:47:39 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "texas senate"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W38"
-    },
-    {
-      "title": "Ken Paxton Scores Major Victory Against Birth Tourism in Texas - townhall.com",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR1hpMFNuUXh3VXdQS2x6N0hIZkRIUzRPQ19LVUxXczlpeVZKRzZJSkRJZTlvWWJYTE9BdlBET2RRRVhVbDdBWUhKVVhJT1NfZU1BZ2xZa2dPVkFubTlMRWRURlNHVjRLN09lVVQ4T1dDc3g5RUlrQURwNVlQMldNWmNFYnV1Q295TWQ2X2syem01akJ1a2R2a0ExWkRsUEl5c2xVNnhQZE1UQTZMNFpuaXhvMFhvc0V1NVdGeVZZck40NXB6aTlfclBPNA?oc=5",
-      "pubDate": "Sat, 19 Sep 2026 13:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
       "weekKey": "2026-W38"
     }
   ],
