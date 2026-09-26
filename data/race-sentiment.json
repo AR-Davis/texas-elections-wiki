@@ -1,9 +1,41 @@
 {
-  "analyzedAt": "2026-09-26T09:28:51.933Z",
-  "newsFetchedAt": "2026-09-26T05:20:28.671Z",
+  "analyzedAt": "2026-09-26T13:48:58.184Z",
+  "newsFetchedAt": "2026-09-26T10:07:30.227Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Talarico holds edge over Paxton as Texas US Senate race tightens - El Paso Times",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVmwtN0JPVERoM25jeXQ4emRYNVpZS2NGNzVLaVc2Mm93czRxaUpEaElJN0RJbmZrMFpxdmVkNEdKaWRqaVpTTllXakhNZkphZE1EclQxV3Iwa2ZzemVUNDZ0OF9Ec3ZsaENQYTFXSXpmRU5oQUJMTG1uajY4Wm1kUDFmZ19kQWh6OGtONWthVnpKWUstOUtobjVGcExBcGtSTHp4dDE4el9LRUFwSk01alpodERjS2NubFdWQVE5Z2Z1dTBtaEsxSTZKUkpBQU1mSlZTbHFLcHIyQzlnM3gtcHp6RDc0Vy1lOW44?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 15:39:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W39"
+    },
+    {
+      "title": "Ken Paxton's estranged wife tells Texas Republican women to vote GOP 'even if we're mad' - WTOV",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNb25iUk1PMzc3VGFYRkRHb1lydHczd2xUVTVSTm4wbk5uNWtPcDZRYmNhWGJYd1RQcUtRbnBQeDF4d1RURUlwOEg5dFo3YlMzVnhDdzAtMUNBbHUza0hCNjhtYUc0WnltOU40WTZWc2V6S1FCbWFDcU5FRjVzalBabGxlS1M3Mm9jVUs1eG5uVU9sS0JDaEQ4dU5kMThWYTdnZjZJTVVoVVVnN3BWLWUwczVVQ0FfV3ozMUcwWXlfSy1MZEdMaXY4dG5yM0x5RmtncEtObEpqNjJHdjJoNDltTkxPa3BzNEs5bXVIdUJZNFFzbzZJVDFySlF1RzJQUQ?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 19:30:51 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas republican"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W38"
+    },
     {
       "title": "John Cornyn won't help Ken Paxton win Texas Senate seat - El Paso Times",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdHI1dGFyU1FkY3QyTkhwLUNiWWhnR0VUUmpFc2R3MHVhV2FENXAxWnJSaTYxMFVydkYyZHVjNkktX1FNbUhmV21JTnYxejB3czJGdDhmNzJBa3hSYTNfNTJOVlkxWXlIdl9xTkdFZXVieEctZlB1Znd4cG4xN2tkZm5QUlgtbWpETzc2UU5xWXlOUzBhS2NpNlNncjdtYUVHRlVuY0Y5WU91bGtFNzdUa2swYzZ0LTliMjNNS1lPT2IyMFBiWEE5cVJPSnRqRFZmaUdvek42ZExoVEhXeDlrSFk4VWV6TDVaTjNMRGd1RE5FQQ?oc=5",
@@ -1602,38 +1634,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W38"
-    },
-    {
-      "title": "The Talarico Polls Are Missing Key Factors In The Texas Senate Race - News Radio 1200 WOAI",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNM29QbFNvcndFWklzQ3pWNVV3MzBVUk5pTHM5UU1ocVYyMExrMXR2ZlpFaUFtOEVOd0NocUZxMUJTNGpYN0RNQW05aVV2ajlLTlJnY2RrLVhaeHZ4UW41NWxXeUd5SGtEUWhlbXFCRDA1RWlHaVV2WTdzTFdIMVNrMEk1RE1saXZHNXloOGdLbTBPM3J4V202MXlCcnBJdXA0UF9tdjJheW1LOVo0eDZfUXM3NWViWFlsbEtSalFrbnRKSkVZVDVNR1NpU1lFN2s2VXFtNnJn?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 15:04:29 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W38"
-    },
-    {
-      "title": "Texas AG Ken Paxton owes overdue property taxes in Hawaii - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTXJTRngyTGhwYnplOWVESDFGRVJNZThydy1abTExbVRIWldwODdzdFhqeGhVeEljSEdNYUkwZzdzT2NCSXlJTE55OUl6a3lZTF81NjhPU0V1OExhczkyWjVGcDhrWmdENGVybWY4dEFQaHhlNERDSTFNeGFJR1gzVHZQMWdCeDVtaVZqeUJDMmxFNlFmTExsQXp3TFBsM19sYmhLWFpMYkZOZnFBYVN2RzJKalBBdExVck1acUNOUHAycWU0aHZ1YWFsSjVVZDNOY0hDbTVHZ2p2cVlSMU5TcExR0gHqAUFVX3lxTE5ZWHg3NTFYeTRfQWRYam1KN1hDOGMxZURya2Zpd0tabV9NVEFVLVA3M0RWUkR2enNleG05S3lnSkdseElkdF9MRGhqVGxpRXNab2pQLWdXdFBYeEpIMUxZWlppeUNqdktyV1JDdklxMkhsb2xUS2dBQndwQ0JuS3djbWs2VFJrUHp4QTd6dk1raEV0MUY2UkVmSWFnRHRFLV9vVV9GUm53UEMtZl85QVpNZkc0eVV2Tjk2RDJLQm1yZWJRTTJYS1NzdUtqaGszeTVURW1SVDhhWWZqR1FTcHFCSTVQei1XQ1JHdw?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 19:14:30 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
       "weekKey": "2026-W38"
     }
   ],
