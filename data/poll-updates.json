@@ -1,7 +1,7 @@
 {
   "updates": [
     {
-      "detectedAt": "2026-07-04T15:54:16.684Z",
+      "detectedAt": "2026-09-26T15:51:08.301Z",
       "pollster": "Ragnar Research Partners (R)",
       "date": "November 12-17, 2025",
       "paxton": 44,
@@ -9,7 +9,7 @@
       "undecided": 12
     },
     {
-      "detectedAt": "2026-07-04T15:54:16.684Z",
+      "detectedAt": "2026-09-26T15:51:08.301Z",
       "pollster": "Emerson College",
       "date": "January 10-12, 2026",
       "paxton": 46,
@@ -17,7 +17,7 @@
       "undecided": 9
     },
     {
-      "detectedAt": "2026-07-04T15:54:16.684Z",
+      "detectedAt": "2026-09-26T15:51:08.301Z",
       "pollster": "Texas Southern University",
       "date": "April 22 - May 6, 2026",
       "paxton": 45,
@@ -25,7 +25,7 @@
       "undecided": 8
     },
     {
-      "detectedAt": "2026-07-04T15:36:46.020Z",
+      "detectedAt": "2026-09-26T11:58:09.546Z",
       "pollster": "Ragnar Research Partners (R)",
       "date": "November 12-17, 2025",
       "paxton": 44,
@@ -33,7 +33,7 @@
       "undecided": 12
     },
     {
-      "detectedAt": "2026-07-04T15:36:46.020Z",
+      "detectedAt": "2026-09-26T11:58:09.546Z",
       "pollster": "Emerson College",
       "date": "January 10-12, 2026",
       "paxton": 46,
@@ -41,7 +41,7 @@
       "undecided": 9
     },
     {
-      "detectedAt": "2026-07-04T15:36:46.018Z",
+      "detectedAt": "2026-09-26T11:58:09.546Z",
       "pollster": "Texas Southern University",
       "date": "April 22 - May 6, 2026",
       "paxton": 45,
@@ -49,7 +49,7 @@
       "undecided": 8
     },
     {
-      "detectedAt": "2026-07-04T15:35:53.395Z",
+      "detectedAt": "2026-09-26T06:52:39.897Z",
       "pollster": "Ragnar Research Partners (R)",
       "date": "November 12-17, 2025",
       "paxton": 44,
@@ -57,7 +57,7 @@
       "undecided": 12
     },
     {
-      "detectedAt": "2026-07-04T15:35:53.395Z",
+      "detectedAt": "2026-09-26T06:52:39.897Z",
       "pollster": "Emerson College",
       "date": "January 10-12, 2026",
       "paxton": 46,
@@ -65,7 +65,7 @@
       "undecided": 9
     },
     {
-      "detectedAt": "2026-07-04T15:35:53.395Z",
+      "detectedAt": "2026-09-26T06:52:39.896Z",
       "pollster": "Texas Southern University",
       "date": "April 22 - May 6, 2026",
       "paxton": 45,
@@ -73,60 +73,332 @@
       "undecided": 8
     },
     {
-      "detectedAt": "2026-07-04T15:35:53.395Z",
-      "pollster": "Texas A&M University /ReconMR/ Siena University",
-      "date": "June 1-4, 2026",
-      "paxton": 46,
-      "talarico": 46,
-      "undecided": 6
-    },
-    {
-      "detectedAt": "2026-07-04T15:35:53.394Z",
-      "pollster": "New York Times / Siena University",
-      "date": "June 19-27, 2026",
-      "paxton": 47,
-      "talarico": 47,
-      "undecided": 6
-    },
-    {
-      "detectedAt": "2026-07-04T15:35:10.807Z",
-      "pollster": "Ragnar Research Partners (R) [ 366 ]",
+      "detectedAt": "2026-09-26T01:12:08.025Z",
+      "pollster": "Ragnar Research Partners (R)",
       "date": "November 12-17, 2025",
       "paxton": 44,
       "talarico": 44,
       "undecided": 12
     },
     {
-      "detectedAt": "2026-07-04T15:35:10.807Z",
-      "pollster": "Emerson College [ 130 ]",
+      "detectedAt": "2026-09-26T01:12:08.025Z",
+      "pollster": "Emerson College",
       "date": "January 10-12, 2026",
       "paxton": 46,
       "talarico": 46,
       "undecided": 9
     },
     {
-      "detectedAt": "2026-07-04T15:35:10.807Z",
-      "pollster": "Texas Southern University [ 362 ]",
+      "detectedAt": "2026-09-26T01:12:08.025Z",
+      "pollster": "Texas Southern University",
       "date": "April 22 - May 6, 2026",
       "paxton": 45,
       "talarico": 45,
       "undecided": 8
     },
     {
-      "detectedAt": "2026-07-04T15:35:10.807Z",
-      "pollster": "Texas A&M University /ReconMR/ Siena University [ 358 ]",
-      "date": "June 1-4, 2026",
-      "paxton": 46,
-      "talarico": 46,
-      "undecided": 6
+      "detectedAt": "2026-09-25T22:58:07.487Z",
+      "pollster": "Ragnar Research Partners (R)",
+      "date": "November 12-17, 2025",
+      "paxton": 44,
+      "talarico": 44,
+      "undecided": 12
     },
     {
-      "detectedAt": "2026-07-04T15:35:10.806Z",
-      "pollster": "New York Times / Siena University [ 354 ]",
-      "date": "June 19-27, 2026",
-      "paxton": 47,
-      "talarico": 47,
-      "undecided": 6
+      "detectedAt": "2026-09-25T22:58:07.487Z",
+      "pollster": "Emerson College",
+      "date": "January 10-12, 2026",
+      "paxton": 46,
+      "talarico": 46,
+      "undecided": 9
+    },
+    {
+      "detectedAt": "2026-09-25T22:58:07.487Z",
+      "pollster": "Texas Southern University",
+      "date": "April 22 - May 6, 2026",
+      "paxton": 45,
+      "talarico": 45,
+      "undecided": 8
+    },
+    {
+      "detectedAt": "2026-09-25T19:43:12.025Z",
+      "pollster": "Ragnar Research Partners (R)",
+      "date": "November 12-17, 2025",
+      "paxton": 44,
+      "talarico": 44,
+      "undecided": 12
+    },
+    {
+      "detectedAt": "2026-09-25T19:43:12.025Z",
+      "pollster": "Emerson College",
+      "date": "January 10-12, 2026",
+      "paxton": 46,
+      "talarico": 46,
+      "undecided": 9
+    },
+    {
+      "detectedAt": "2026-09-25T19:43:12.025Z",
+      "pollster": "Texas Southern University",
+      "date": "April 22 - May 6, 2026",
+      "paxton": 45,
+      "talarico": 45,
+      "undecided": 8
+    },
+    {
+      "detectedAt": "2026-09-25T15:40:57.358Z",
+      "pollster": "Ragnar Research Partners (R)",
+      "date": "November 12-17, 2025",
+      "paxton": 44,
+      "talarico": 44,
+      "undecided": 12
+    },
+    {
+      "detectedAt": "2026-09-25T15:40:57.358Z",
+      "pollster": "Emerson College",
+      "date": "January 10-12, 2026",
+      "paxton": 46,
+      "talarico": 46,
+      "undecided": 9
+    },
+    {
+      "detectedAt": "2026-09-25T15:40:57.358Z",
+      "pollster": "Texas Southern University",
+      "date": "April 22 - May 6, 2026",
+      "paxton": 45,
+      "talarico": 45,
+      "undecided": 8
+    },
+    {
+      "detectedAt": "2026-09-25T10:50:57.590Z",
+      "pollster": "Ragnar Research Partners (R)",
+      "date": "November 12-17, 2025",
+      "paxton": 44,
+      "talarico": 44,
+      "undecided": 12
+    },
+    {
+      "detectedAt": "2026-09-25T10:50:57.590Z",
+      "pollster": "Emerson College",
+      "date": "January 10-12, 2026",
+      "paxton": 46,
+      "talarico": 46,
+      "undecided": 9
+    },
+    {
+      "detectedAt": "2026-09-25T10:50:57.589Z",
+      "pollster": "Texas Southern University",
+      "date": "April 22 - May 6, 2026",
+      "paxton": 45,
+      "talarico": 45,
+      "undecided": 8
+    },
+    {
+      "detectedAt": "2026-09-25T05:37:37.966Z",
+      "pollster": "Ragnar Research Partners (R)",
+      "date": "November 12-17, 2025",
+      "paxton": 44,
+      "talarico": 44,
+      "undecided": 12
+    },
+    {
+      "detectedAt": "2026-09-25T05:37:37.966Z",
+      "pollster": "Emerson College",
+      "date": "January 10-12, 2026",
+      "paxton": 46,
+      "talarico": 46,
+      "undecided": 9
+    },
+    {
+      "detectedAt": "2026-09-25T05:37:37.966Z",
+      "pollster": "Texas Southern University",
+      "date": "April 22 - May 6, 2026",
+      "paxton": 45,
+      "talarico": 45,
+      "undecided": 8
+    },
+    {
+      "detectedAt": "2026-09-25T00:10:08.931Z",
+      "pollster": "Ragnar Research Partners (R)",
+      "date": "November 12-17, 2025",
+      "paxton": 44,
+      "talarico": 44,
+      "undecided": 12
+    },
+    {
+      "detectedAt": "2026-09-25T00:10:08.931Z",
+      "pollster": "Emerson College",
+      "date": "January 10-12, 2026",
+      "paxton": 46,
+      "talarico": 46,
+      "undecided": 9
+    },
+    {
+      "detectedAt": "2026-09-25T00:10:08.931Z",
+      "pollster": "Texas Southern University",
+      "date": "April 22 - May 6, 2026",
+      "paxton": 45,
+      "talarico": 45,
+      "undecided": 8
+    },
+    {
+      "detectedAt": "2026-09-24T21:54:17.776Z",
+      "pollster": "Ragnar Research Partners (R)",
+      "date": "November 12-17, 2025",
+      "paxton": 44,
+      "talarico": 44,
+      "undecided": 12
+    },
+    {
+      "detectedAt": "2026-09-24T21:54:17.776Z",
+      "pollster": "Emerson College",
+      "date": "January 10-12, 2026",
+      "paxton": 46,
+      "talarico": 46,
+      "undecided": 9
+    },
+    {
+      "detectedAt": "2026-09-24T21:54:17.776Z",
+      "pollster": "Texas Southern University",
+      "date": "April 22 - May 6, 2026",
+      "paxton": 45,
+      "talarico": 45,
+      "undecided": 8
+    },
+    {
+      "detectedAt": "2026-09-24T18:04:50.397Z",
+      "pollster": "Ragnar Research Partners (R)",
+      "date": "November 12-17, 2025",
+      "paxton": 44,
+      "talarico": 44,
+      "undecided": 12
+    },
+    {
+      "detectedAt": "2026-09-24T18:04:50.397Z",
+      "pollster": "Emerson College",
+      "date": "January 10-12, 2026",
+      "paxton": 46,
+      "talarico": 46,
+      "undecided": 9
+    },
+    {
+      "detectedAt": "2026-09-24T18:04:50.397Z",
+      "pollster": "Texas Southern University",
+      "date": "April 22 - May 6, 2026",
+      "paxton": 45,
+      "talarico": 45,
+      "undecided": 8
+    },
+    {
+      "detectedAt": "2026-09-24T13:16:12.122Z",
+      "pollster": "Ragnar Research Partners (R)",
+      "date": "November 12-17, 2025",
+      "paxton": 44,
+      "talarico": 44,
+      "undecided": 12
+    },
+    {
+      "detectedAt": "2026-09-24T13:16:12.122Z",
+      "pollster": "Emerson College",
+      "date": "January 10-12, 2026",
+      "paxton": 46,
+      "talarico": 46,
+      "undecided": 9
+    },
+    {
+      "detectedAt": "2026-09-24T13:16:12.122Z",
+      "pollster": "Texas Southern University",
+      "date": "April 22 - May 6, 2026",
+      "paxton": 45,
+      "talarico": 45,
+      "undecided": 8
+    },
+    {
+      "detectedAt": "2026-09-24T07:58:27.287Z",
+      "pollster": "Ragnar Research Partners (R)",
+      "date": "November 12-17, 2025",
+      "paxton": 44,
+      "talarico": 44,
+      "undecided": 12
+    },
+    {
+      "detectedAt": "2026-09-24T07:58:27.287Z",
+      "pollster": "Emerson College",
+      "date": "January 10-12, 2026",
+      "paxton": 46,
+      "talarico": 46,
+      "undecided": 9
+    },
+    {
+      "detectedAt": "2026-09-24T07:58:27.287Z",
+      "pollster": "Texas Southern University",
+      "date": "April 22 - May 6, 2026",
+      "paxton": 45,
+      "talarico": 45,
+      "undecided": 8
+    },
+    {
+      "detectedAt": "2026-09-24T02:19:11.561Z",
+      "pollster": "Ragnar Research Partners (R)",
+      "date": "November 12-17, 2025",
+      "paxton": 44,
+      "talarico": 44,
+      "undecided": 12
+    },
+    {
+      "detectedAt": "2026-09-24T02:19:11.561Z",
+      "pollster": "Emerson College",
+      "date": "January 10-12, 2026",
+      "paxton": 46,
+      "talarico": 46,
+      "undecided": 9
+    },
+    {
+      "detectedAt": "2026-09-24T02:19:11.561Z",
+      "pollster": "Texas Southern University",
+      "date": "April 22 - May 6, 2026",
+      "paxton": 45,
+      "talarico": 45,
+      "undecided": 8
+    },
+    {
+      "detectedAt": "2026-09-23T23:20:58.543Z",
+      "pollster": "Ragnar Research Partners (R)",
+      "date": "November 12-17, 2025",
+      "paxton": 44,
+      "talarico": 44,
+      "undecided": 12
+    },
+    {
+      "detectedAt": "2026-09-23T23:20:58.543Z",
+      "pollster": "Emerson College",
+      "date": "January 10-12, 2026",
+      "paxton": 46,
+      "talarico": 46,
+      "undecided": 9
+    },
+    {
+      "detectedAt": "2026-09-23T23:20:58.543Z",
+      "pollster": "Texas Southern University",
+      "date": "April 22 - May 6, 2026",
+      "paxton": 45,
+      "talarico": 45,
+      "undecided": 8
+    },
+    {
+      "detectedAt": "2026-09-23T20:52:13.827Z",
+      "pollster": "Ragnar Research Partners (R)",
+      "date": "November 12-17, 2025",
+      "paxton": 44,
+      "talarico": 44,
+      "undecided": 12
+    },
+    {
+      "detectedAt": "2026-09-23T20:52:13.827Z",
+      "pollster": "Emerson College",
+      "date": "January 10-12, 2026",
+      "paxton": 46,
+      "talarico": 46,
+      "undecided": 9
     }
   ]
 }
