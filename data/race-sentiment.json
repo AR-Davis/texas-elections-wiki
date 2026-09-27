@@ -1,9 +1,41 @@
 {
-  "analyzedAt": "2026-09-27T01:40:20.901Z",
-  "newsFetchedAt": "2026-09-26T23:47:56.879Z",
+  "analyzedAt": "2026-09-27T07:51:36.561Z",
+  "newsFetchedAt": "2026-09-27T04:48:15.581Z",
   "totalAnalyzed": 100,
   "newThisRun": 2,
   "stories": [
+    {
+      "title": "Maps show where Ken Paxton and James Talarico's donations come from - yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT21EQ2dkSVZlS3VVSXF5UnpkZ1A3MnY3MmNheGIyWU1yYXZsYUt1UjhLbVhGRVN5dnBpcjh2UzBLeFhGY1lPUVk0QWVvRXBYd0JWX3dwWHppMVpBOWM0QmExRndGZi1idC1NOGNNcDBXeFZFVFNKTE9qYnpCZVdndzBtRW96Wi10clpUX0drYw?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 15:59:52 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W39"
+    },
+    {
+      "title": "Senate Republicans increase ad buy, pour millions more into Texas to help Paxton against Talarico - KVUE",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbTVIaGJFVklzSm5hTUJWcmZ5UDRZQWVORktoMkhqcEplZmdJTmxiSTdQcmd6ZVM1N1VhY3NSUjcwVGZpM1FoVkd0Yk1aU1J6aFVIc2piMVhINmZHY3pTSV9rVGVTblNOUjBzRTQ0dXZmaFBTbFMxYkgzM1ZYeDVPTmdiUk1feTFYaElhMGRDZjVrSVIxWDl6MGtZekFZSDdYdDJBNDV2cHVsSERwTFF1aUZteTR4cVRIbVlCTUlwdG83TmpnbUVfSGZCaWpQYU90SW5kTm9mazNUb1JSNmJWNlFJVUJtUEZhVjd0WTQtZjV5c05nZlVhUVBVZzVfQQ?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 22:38:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W39"
+    },
     {
       "title": "U.S. Senate Candidate James Talarico (D-TX) Speaks to Reporters at a Texas Gas Station - C-SPAN",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMTJvLUt3Q2V3SHJnMzlGLXJqVmlEaHdOT0t1Y04xbDRFdzQwSFVfbjdVdHFWUXE4bEE0YVBHWVY4dFdQV3l1eUxpekhIYXlGam56VXdsUUI4UklSb19IZGdHakdjN2R3Z05UeVNjZ29rSU00NEFkaGJhaEVLRFlFMWg4WjRRREFEWDE3Qm4tenozTGFPWGNQaXhBT3BvNzRXbFRVdDQ0ZktfSHZQRHVCdzkzdGNlMWh6U0dtcmItODFUWDd1VUV0Y1EwMGJOVlk?oc=5",
@@ -1597,39 +1629,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "paxton",
-      "weekKey": "2026-W38"
-    },
-    {
-      "title": "State of Texas: Paxton Talarico Polling - KXAN Austin",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRDhQWmZMOEJaMDZLOUVSc3pIOTdBQkVQZHFLSFhFZWhWby01SlVMVVRtRFdWcFo0NmhTc3hXOGhQNzFxVGlsQjFzZUc4ZEhxOVhid1ZEY0IyM3Z5Q25LQ2Z5Q3BicEZkOVBrRkk4NWFQak9HaVdEV2hXMXRJOHp4VQ?oc=5",
-      "pubDate": "Sat, 19 Sep 2026 20:17:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W38"
-    },
-    {
-      "title": "Paxton Agrees to Debate Talarico in Texas Senate Race - Springfield News-Sun",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZ3EyZk85alVRRVUxdlRScU5UYjUwcFBYUnhtdUl5blBvaHctS2c2c3BVVG5Udmd6ZTdKUktuOEcwMWpWaHlYUUxILVQ1UnBvYm9EMzdjSE9EUVlaRXpGUGVWTVNadGUtcEVYckFsNkVfT003TTJKS2dxUDUySXNhbHo1ZFZYQXdWYkYwMFFNNXhxSzUwck5GRFh1YXFRZDBiZThXY1Y5VHhyRGhXOWJSc1hJY1JpY19KWVZFbldSRnBoY3lDYVlCMllVOE1lVl9mUUpKU3pOanhkSmNwdFVPcFhwcw?oc=5",
-      "pubDate": "Sat, 19 Sep 2026 13:09:32 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
       "weekKey": "2026-W38"
     }
   ],
