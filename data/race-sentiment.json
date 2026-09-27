@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-09-27T07:51:36.561Z",
-  "newsFetchedAt": "2026-09-27T04:48:15.581Z",
+  "analyzedAt": "2026-09-27T13:43:03.521Z",
+  "newsFetchedAt": "2026-09-27T10:26:46.786Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "The GOP’s Ken Paxton rescue mission tops $100 million in Texas - Washington Examiner",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU29ublpnczVWUWs1LW84a1BDcDZUWWNNNUp1UmNMeGpsZXFiRmNJYnRLYTBTQlBXQ052blFpUmVjYkVQVDB4Y1lId0VxNTU0ZVloZVkzYnRHTjFMY2pabGkwNUdWeENkRHlPWkZuUkhyMENhTUJPcHlaNDZYQXhQQWplYkpxZU4wdEc0U1VOMFE1OFlIOTNha3lBWDFqaWoyazFsOWZQd3NZNko5dUsweFZVWU1aUFcwYXhBMg?oc=5",
+      "pubDate": "Sun, 27 Sep 2026 09:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W39"
+    },
     {
       "title": "Maps show where Ken Paxton and James Talarico's donations come from - yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT21EQ2dkSVZlS3VVSXF5UnpkZ1A3MnY3MmNheGIyWU1yYXZsYUt1UjhLbVhGRVN5dnBpcjh2UzBLeFhGY1lPUVk0QWVvRXBYd0JWX3dwWHppMVpBOWM0QmExRndGZi1idC1NOGNNcDBXeFZFVFNKTE9qYnpCZVdndzBtRW96Wi10clpUX0drYw?oc=5",
@@ -1612,23 +1627,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W38"
-    },
-    {
-      "title": "Trump’s MAGA Inc. injects $5M into Texas Senate race for Paxton ads - Crypto Briefing",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT3RSZjdLQzFydmxfa3R3aTJVdlY3MzV2VmZxZjRhMTdIUFFvQ0lVd0l1b3dsakVGUk1QOThRcnd2SWh2dUo5ZUZjZk1fVXoxWTVvdEdYTDl1dW5tTGlxN2J5YlliUVU0NDJLWW93Z3ljX2k0bXJyOEZCcm53X040ZnFuaFZndUZnd09teWFkVXhIdTdYUGo4?oc=5",
-      "pubDate": "Sun, 20 Sep 2026 00:15:38 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
       "weekKey": "2026-W38"
     }
   ],
