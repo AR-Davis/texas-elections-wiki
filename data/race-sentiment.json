@@ -1,9 +1,39 @@
 {
-  "analyzedAt": "2026-09-26T23:26:32.664Z",
-  "newsFetchedAt": "2026-09-26T21:26:28.823Z",
+  "analyzedAt": "2026-09-27T01:40:20.901Z",
+  "newsFetchedAt": "2026-09-26T23:47:56.879Z",
   "totalAnalyzed": 100,
   "newThisRun": 2,
   "stories": [
+    {
+      "title": "U.S. Senate Candidate James Talarico (D-TX) Speaks to Reporters at a Texas Gas Station - C-SPAN",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMTJvLUt3Q2V3SHJnMzlGLXJqVmlEaHdOT0t1Y04xbDRFdzQwSFVfbjdVdHFWUXE4bEE0YVBHWVY4dFdQV3l1eUxpekhIYXlGam56VXdsUUI4UklSb19IZGdHakdjN2R3Z05UeVNjZ29rSU00NEFkaGJhaEVLRFlFMWg4WjRRREFEWDE3Qm4tenozTGFPWGNQaXhBT3BvNzRXbFRVdDQ0ZktfSHZQRHVCdzkzdGNlMWh6U0dtcmItODFUWDd1VUV0Y1EwMGJOVlk?oc=5",
+      "pubDate": "Sat, 26 Sep 2026 15:44:59 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W39"
+    },
+    {
+      "title": "U.S. Senate Candidate James Talarico (D-TX) Holds Press Conference on Gas Prices - C-SPAN",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPanh6VTRKQVJVaWpzLW5qZjNSWmVpS0tpM1J4Q25WVlFGdU1xYXl3cGhaOHo1Qy1ZcmdLM2xnbXlFRXpURWktYnZzMlN0emdrNjFBeWcydHhMcXJ1eVZUUmF3cV8zWTdKcjdMWE5CbmF0bmF5NG1EUFVacUJvMjhDOVA5Rkk0YzZBT1IxaVJLdXdoWV9pRzEwR0FGTkxQZkp5QmFtdml4Yjc0V1ppQ2FIN2Z3YjUtRUd0VGs5MmZlRERBN1lpbzFr?oc=5",
+      "pubDate": "Sat, 26 Sep 2026 15:44:59 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W39"
+    },
     {
       "title": "Karl Rove says John Cornyn, not Paxton, could beat Talarico - The Texas Tribune",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVE9DNm9LUGVUek9wTG5CbnpGczFsQjBjQVQwM09pcGpVNjdtUjdlMzV6WmsyVHd1bV85ZlNXZUFVYTFVNzRlTi1MdlhuVkgzZ0djY0g2YjB2elRMSGxsbWozODg5YzJpS0N3c1p0S3A0eHd6dTB1bGZKbERCZWN1WHFn?oc=5",
@@ -1600,37 +1630,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W38"
-    },
-    {
-      "title": "Ken Paxton | Texas Attorney General, Republican Senate Candidate, Impeachment, Divorce, &amp; Biography - Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mbk0zSnlhSEFWLVY1Sng0d0hNQTJmZGt2eEJFZUo3cVpKWE9RNlVSWHplU09Zb1FWNHRldThhZUNVUXRWN1J4MzNjeEpmc1VFRVNlRTJra2ppc0U?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 05:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "attorney general"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W38"
-    },
-    {
-      "title": "Texas AG Ken Paxton owes overdue property taxes in Hawaii - KERA News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRnc2S0Q5QVNXOHYyTno2S19hVGthR0tzM3hPWFM1blgzWDJ5MjY0bFJkVFVUSWVzNXIybzF4Q2RJNXl3RWozZDAxMmEwR2VzdVdFN3JCeEEycW5fUEYtQU85SXdfUThHMlV3S1Z6R29LQkE5UFl0LWxGdXQzcFJJTlAwMXA2NU5rNGNZS2lwenQzYWRGbUFIemw4SHVYWXM?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 18:34:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
       "weekKey": "2026-W38"
     }
   ],
