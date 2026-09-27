@@ -1,9 +1,57 @@
 {
-  "analyzedAt": "2026-09-27T18:10:24.668Z",
-  "newsFetchedAt": "2026-09-27T15:15:19.365Z",
+  "analyzedAt": "2026-09-27T21:31:18.547Z",
+  "newsFetchedAt": "2026-09-27T19:12:11.320Z",
   "totalAnalyzed": 100,
-  "newThisRun": 5,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Talarico leads Paxton by 5 points in Texas Senate race poll - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdkx3alZaTlRwWEM4ZE0zNWU3T1MtVXFYVUlBNFZXYmp6RXNyNkVsZzZzX2llUjNRdHBqZWtjb2RvUjdack8wS2lWZXVBSmxVbXQ3dmdxODNvRU1uNEFjWEU3alRQY3Fmc3ljQjlWaTh6MGtqZVlWdHFuamZuTENVWDAxalBpeEN60gGOAUFVX3lxTE5hQnJWamZXd0VPNG5CX2JpamswVEdBQjhfVFdRMmpzUUtnY2pxeGQwZ2piZkVqWFB2LUVRdnoteVhyX01ncUJJZXdJVDZPS1lpTXFjV1g2dU5pTlcxYzhHZXpxQ3RKSjdBM0p2bUlVUXJsUF9pSTZjWW1GblY1dTlTX0pndnhZU0NwOEJTRmc?oc=5",
+      "pubDate": "Sun, 27 Sep 2026 12:34:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W39"
+    },
+    {
+      "title": "Thom Tillis Criticizes Donald Trump Support for Ken Paxton in Texas - SuaraGarut.ID",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BN25aVld1a1c0VTBfd3BBYTVvaFQzZlBKZXVhZXlOU0l2YWwzTmxTbFFtSkpLcmdvSnlBTzNwOFRkZlpXY1hOOXo4V21iY0NMUEh5NDJHdGtrQUxZMldjMWZIeWxYYUJQVDlOWXgtdnRoc0lk?oc=5",
+      "pubDate": "Sun, 27 Sep 2026 18:31:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W39"
+    },
+    {
+      "title": "Republican says Trump’s support of Ken Paxton in Texas primary was ‘colossal mistake’ - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaklnMnhXRFhpMTgwZkhMZm5nRkVWU3RFOTI0OVVkYWx3MGtwcUJJV2d6RVhwcU9aelplM0ViRXkweEpoc0xvR3oyNVBGdmtNRk14akYyX2ptcklPelAtTUFPaElKNEpCc3RWc21JQmFCX0EtUUdPeXRyazJHNUJjRGJkd2g?oc=5",
+      "pubDate": "Sun, 27 Sep 2026 18:20:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W39"
+    },
     {
       "title": "Texas Senate Race Heats Up Over Ken Paxton Probe Into Data Center Water Use - Newsweek",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZk1vY0czNm5xeTFENHRnanlKWVN4bWNVLUpISlY3aFFBUEh1VmVBWDIzNWpTZjJEUlBtTEFTWmdndkdDa1U4V0swV2ZkTnJjWlRiUl9reTZ4VTcwTXlQSWZLRjZTRnB3Sm5CSmJqWURQamJPNjE5OHpKdWtPZ2Vwa29DeFZOb2ZCQlNMenh3?oc=5",
@@ -1578,56 +1626,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W38"
-    },
-    {
-      "title": "'Talarico votes like AOC': Rep. Gill drops savage ad targeting Dem nominee | Texas Senate race - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQVk90Nk43VVZvRk1oR0w5LUF3SzVGc2ZTOEx0VzZXcVR6MHNzb0U5Q2FaSEN0eUFuVVRpOVJDSW1RMi1GS09WaUFBZkVyakttUllSSWRkTzZWaU8zWkl4MW9fbjZWZ3RtR1YzbzlISUM3RGFWZUpHUUI3aFd2dUpwWFBOeXRHbl9YOXBZRFNsNTZqc3psZTBhemRwSTNTa3Zwb2pVZk5YYTk0MERBS3k4LVJ0aGhNNlFDQkdrNFhEbnNMcHFjeU1xN09NbGNaOFR0Y1M0c1l6d2tfR0JXdWNVWkYxZG13OXRYREZScEt6aTg1bk9hNmVScnAtUzhsZDjSAYQCQVVfeXFMUHRsbE9rUng0SEtHQko0TEp6Y3paMXd3WFZtWkhWd1RxRGJlcVFKYTRRcUZJLS10U0JqWWFrOVEwS2ZpQWZzVVo5aS1XYVdZQ052VGV6cExWcl9XZllVb3JFNlpoLVJmS181cUNYQUxYS0wzWlhicU1rZFNRa1djLTBkYzU4Y2dlRXZIQzB5aXhWNUlLSXMtMmUzdFRURGh0R2JoR3FSaFQ1czJmYkxDZm9ZRlFrazhhcFJjRGRZTTFWbEtJQjgyQ1B5TDRFVVRkcHUtSGRvU0xDQjZiVFpYUGpSWlptclJIZXViaXkzRnAtUWdjcFRJZ2lVU1hlZUtmc0RZUkg?oc=5",
-      "pubDate": "Sun, 20 Sep 2026 13:20:06 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W38"
-    },
-    {
-      "title": "'He says God is non-binary...': Vance torches Talarico in fiery speech as Texas Senate race heats up - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZkxnTnpPbFF5VW1DR0JHelVkMDV1QS1ST1E4ZmVZaUJackhOOWY2bzVnbG5VUWltNWVrc3VCbzcwMFc2VUxRdVRBNVNsY2ZlRGo5UFhpOXlucjhrOXQ0anQ1enpuRG5QbnY2el9WTFN6WkpQaHU4Y3FMVHJLa3RnQnBjc0RFbmpzZ1JhaE56TDNxWENBVkRDUkxfTFlOcXd2UDZMWHpKbktPaGgzbVlpamEwSGl2MEFLeEo0TTJBR3ZyTjFJTmxYLTZaa1FpVHlKSXZsbEJoS19aSzZ3bWlIQ1lZSGlXUWtGaHFlctIB8gFBVV95cUxOZ1lYSnBYeEdjcGFleHQ2Z3lneGVaWktRaU55eDdNWE9CVE5saGF4M0VsZHFudFRWdkZpX19GUi1fYTA2ODNXVnJWOFItMnFFSmExaUVLNHMtQnZFckcwMk1oN3hSdWZxeHBFTDExeHVHa1VWVTZzeEwxVHVrWDkxSDFBLTBDZ0d6RnU3bkZnVFFKTThienctbTExV3lXT3hnS3dVdUw4R3ZnRHJXM0o5TThWc0ZUeDZmUndQX09TcmJiaGczc0xjRUU3Qktjd0U3WEdGX1ZPNVBvV1dFZG9seW1PTWtlcUN5NUR5M252ZmRjdw?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 08:19:49 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W38"
-    },
-    {
-      "title": "What's making the Texas Senate race so competitive - PBS",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByeEcxSlF3aWp4bnFmMDJraUlFN05QYTVrWkZnUGVJME1pX2Nsb3A0WVNGRnNLTFllU1Y1SEIxRGpZaWtjY0RCNWtzVGlVc1psbXdxQnB5TGxKRGc?oc=5",
-      "pubDate": "Sat, 19 Sep 2026 01:22:02 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
       "weekKey": "2026-W38"
     }
   ],
