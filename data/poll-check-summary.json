@@ -1,8 +1,15 @@
 {
-  "lastChecked": "2026-09-28T09:08:28.492Z",
-  "wikiPollCount": 5,
-  "newPollsDetected": 3,
+  "lastChecked": "2026-09-28T17:53:00.542Z",
+  "wikiPollCount": 6,
+  "newPollsDetected": 4,
   "latestPolls": [
+    {
+      "pollster": "Stratus Intelligence (R)",
+      "date": "September 22-24, 2026",
+      "paxton": 48,
+      "talarico": 48,
+      "undecided": 4
+    },
     {
       "pollster": "New York Times / Siena University",
       "date": "June 19-27, 2026",
