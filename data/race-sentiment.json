@@ -1,9 +1,24 @@
 {
-  "analyzedAt": "2026-09-27T23:54:14.865Z",
-  "newsFetchedAt": "2026-09-27T22:29:54.268Z",
+  "analyzedAt": "2026-09-28T04:40:39.644Z",
+  "newsFetchedAt": "2026-09-28T01:07:58.655Z",
   "totalAnalyzed": 100,
-  "newThisRun": 6,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Did Ken Paxton really give an ‘Epstein-style sweetheart deal’ to a child predator? - Dallas Observer",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRV9fS2RWUWFGM2FmWlFnRHZJazNkME5XWHRJTEVhS1ZZMlBaTERzOFFBeFRjeGlZYW1hUVE2OHpPTHJoeGZTdUJmdDhZcDVDUFJudjlGZEVVa0RiNDN6d0kybFhieEdudVJJeGtPcVI4UGhRVU5fdmR1a1Z6YjlfNGl2VzhnQ2tMZndlTXJsNjB5VXhZLTlaMXFvOHlyS1NjMTNWQlRRbzYyUVVWbjZFeFpLbkZPdC1LbW5rMC0yNmhsem8?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 13:58:59 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W39"
+    },
     {
       "title": "Maps Shows Where Ken Paxton and James Talarico's Donations Coming From - Newsweek",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY0RZU1dwVlVHR3lwYXNkQl9hamEwTGs1WElQaFhlTVYyMVF4TlRVTVJicWQzamFuRGU1b2d5Z3NHU3ZuUjlpaTI5ODE5RmgyaFFtRU1ONXlkRXpRYXJYa2xLNlBZWVlrZERqQTFYZ25ubGN2c3JBeEFtaGtFUnhxazRPRjE3a0dCT1dyZlFVdXVJSUhZNTVQMGVOT19sRllnbkE?oc=5",
@@ -1604,21 +1619,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "general",
-      "weekKey": "2026-W38"
-    },
-    {
-      "title": "Texas poll: James Talarico holds a narrow advantage for Senate while Greg Abbott leads for governor - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVmVZV0dTYTVwdkdRX2xOTVJKb2NDa2t2VWpvV1FLNFN5U0ZMc1lOb0h1Z0I1TWFwS1RKRFlUcTc4Q195TDFaQVZfdkR2c0hmdGNYQWtnWC1NVzhlV2ZISnFXYzZSMmdnWHhNZFBHcWRGRUpmRnJqUUYzWEhZQW02Rnl4TVFmc1JJZVBzbUF6bkZyeW50Sl9xSVR4WExtOUJ6YnhSa1hXM1VEUW11X2xNTldXZ1dObGlHM2MydkNOb0Y2SXdzOG9F?oc=5",
-      "pubDate": "Mon, 21 Sep 2026 10:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
       "weekKey": "2026-W38"
     }
   ],
