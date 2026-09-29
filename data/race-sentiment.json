@@ -1,9 +1,25 @@
 {
-  "analyzedAt": "2026-09-29T05:07:31.085Z",
-  "newsFetchedAt": "2026-09-29T01:41:27.197Z",
+  "analyzedAt": "2026-09-29T11:29:58.698Z",
+  "newsFetchedAt": "2026-09-29T08:13:37.901Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Libertarian Ted Brown launches 2026 Texas Senate bid against Paxton, Talarico - KTRE",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOekZ1TFhDOG56eTF2NEk2TTgzcEpCdEsweXVWNm1oemRKVFQ0UkZEUkF5MUxvQlJuVU5kVGgzZmt5SVlkQ2FmYXJfUm5qajVudVN3aEFWXzNSM2VUSW5PYXY5R2xmcTQ0Y3c1NXIzRGQwV3Utc1YzQzcySGhZQi1ZN212czRNY3QzSVdFN3B3aFEtbU1WbDJIR00wcGxEQXNZelpWNnc5c3FLWUloOUhkckk3aTZVdw?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 20:44:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W39"
+    },
     {
       "title": "Talarico, Paxton want to cut federal gas taxes as they court Hispanic voters in Texas Senate race - CBS News",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVmpGcmRxaWVlSDJBS1dmTWxIY1BOSURvcG9NXzJJUnM1WDhzZ2hDSUQ2UHdaUDRkR0tyUmJyWEJ2cDFkamFtUHdxbXR5WkhmTjUzVGRfZ3pOQ2J1Vlplc3JXLUQwR3VnelRCY1JSSFh1NWFLZ0pjSndxRHNDQkYxYVZUNVNmTzgzOW10QlVHeVV5MzVQaVBHNnliQ3BPWExTYnFuQ2JVREdUVkdZQklkYVRYazhIQUtJODQ2TWpGdw?oc=5",
@@ -1610,21 +1626,6 @@
         "paxton",
         "ken paxton",
         "senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W38"
-    },
-    {
-      "title": "Senate Republicans increase ad buy for Ken Paxton to $100 million - The Texas Tribune",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLVJ0WFE1dVdGT0hzdmM3Y1dGSzRDWDk5OTlGY3hWOHFxanBleVdXSXdTWkQ1cWdhN0dxYmpNb1BvNkVGNkVIcWFORTRCSUh3dnhGRkltZnJXUnJoaWRXX0JRSnB1NFREUm5DR1pZUms0RU01OVNQWklBUzJjUm5IYmJpTjhlVEhTVWlXTll4RTFjU1h2?oc=5",
-      "pubDate": "Wed, 23 Sep 2026 00:12:53 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
       ],
       "sentiment": null,
       "error": "HTTP 405",
