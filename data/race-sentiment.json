@@ -1,9 +1,42 @@
 {
-  "analyzedAt": "2026-09-30T00:41:46.307Z",
-  "newsFetchedAt": "2026-09-29T23:55:05.110Z",
+  "analyzedAt": "2026-09-30T06:27:54.159Z",
+  "newsFetchedAt": "2026-09-30T05:03:08.986Z",
   "totalAnalyzed": 100,
-  "newThisRun": 5,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "New Poll Shows Ken Paxton Leading James Talarico 48-45 - lifenews.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM2JtRGR6X3plTnNKbmZ2WjNIeVdJTHZhazh5MnRQSEFLMVkwamE4cjFsM1k3M2FzWjBZT2xxRDQ4M1ZqUWcyUk1qNWNPQXZMeW5LNmFaQXJSbTIySGd4aC1VaGhCY1NiTkJURW0zVndzWlo4SXBVT21faFZHRnQ4RThaZ2d6THBIaDZVVzRSSTVHQmFFbGc?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 22:49:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W39"
+    },
+    {
+      "title": "Paxton and Talarico Tied at 48 Percent in Latest Poll for Texas Senate Seat - breitbart.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTWJuUDVNU01MR0ZGeE9pLWtzWjViR1ZrVHY2WDZLSGxscEloTEN6Y1NEeWQ0bXBISjd2ampmU1JrcVFObGJMYVdkOGlFT0hYVGU3VlEyX2EzbVhiX0dMbmkxbldDVDA4eVNfYXhLamQwN3VOSmNOaGZPMl9LOUZySWdURzFYalhULU51aTdJQkl6TkFLUzlWVWFILVVOOXhYUDRYTlFyV0JzSzRyUWxrcEotZjBGSFQ4YThQZVBaRdIBxAFBVV95cUxPZVNwNm1TYUFYSzlQOWQyRFh4RzhMUGRwR0ZPRkJYd3ZzZm0waGJtZWxtbG02SEtGZ3FwZEptbFp5WmFDQ244dkdpWVBHZzBZT2t3U2d4VXJyZmJXTlEtajJGdFpwd0xNWWtCT3NJNVowTW9mLXlPT3R6OFlaTmdzSDcxamFBaFU1ZTRGdEZCY2I0Z0p0dEdUQ3JTZXZJN0pQdzNDOF9ZOTBVaXhKdGZvYzJLTk1vZ2VxT1Blc3pSNEpUbkoz?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 19:41:20 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W39"
+    },
     {
       "title": "Fox News will host Texas Senate debate if Ken Paxton agrees to face off - Houston Chronicle",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV3BjOWROazBIVmdVZ0c1NzJtdEN3dWduY0IyaEVLS1FJNTliSGVYdVdjMUcwclhtSDF1Y2NjZFduMk9Da3VBX2tpbW5na3FnZUxxcU1jbUFYLXhlQ05WRU5UOVo0dUs2MGtrMVktUW4zSGxUdU1fZ2M3MkVXMGZLS0dOVUZmcWFqZ2F6M1Y2M3NfTkVPZ1E?oc=5",
@@ -1597,41 +1630,6 @@
         "texas senate",
         "senate race",
         "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W38"
-    },
-    {
-      "title": "Texas Attorney General Ken Paxton speaks to West Texas Republicans and voters at his U.S. Senate campaign stop in Lubbock, Texas on September 19, 2026. Paxton is set to face Democratic state Rep. James Talarico in the November 2026 elections. - The Lufkin Daily News",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPdGZldGJyNGhGcEpHRDFRSV9Mc0lxQTZMdGZXYUpoMjZnTkJmZ0E3dE9lakdjZkgtdXVfYjhaUXBMNXhJeXMxTGtfUHZMTFFaaVp5cnlwY2JDRW5qYUtXU09JaGQtaWxHaTV1Q3ZWTmJNSzNlS3ZMQV9XcFNqa29EdHhTTW1WVGw4STZYSG4tU2VtREwyYVFtOE9KdWVLaVNrS0h4Sng4eUlkbThzUW45MnZfTlF3d3lWUXFqdlROWjN4LV9Zc0tuNTgtdGpwam1VTXJnS2ZGaHBkeFNXdTR5NjB0NnI5TjNJUWFoXzFrdTJNWU9FeFdUMURGeTFIZ2MtbFc5ZzhNUnVwbkxiMVNTSkFR?oc=5",
-      "pubDate": "Wed, 23 Sep 2026 17:24:16 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 28,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "attorney general",
-        "texas republican"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W38"
-    },
-    {
-      "title": "Texas Senate poll shows Talarico, Paxton locked in tight race - South Bend Tribune",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU0ZOTXhVd0RFQmpTYXJTeVMxbTFQeEQyMXNIWml0X1VkZEk1SXZlRlV6X0RrX1V4ZElyRFFxLVAxVnUxUWVRV19yczlkZmFNZFpTWERoa29mZGF1VlJ3SF9iNm1KMHV5MnI1TEZOUFVBdUZJel9wMGlEbTVYSHRESTk1cDUyd2VObGFPLXB3N19ibmoya3N4LW52V1V5dlpZRG9QdHNadllEOVJuWlduQ1pvcUdNcko3eHo0bVU0eXpiUU9LTFBBZg?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 15:03:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate"
       ],
       "sentiment": null,
       "error": "HTTP 405",
