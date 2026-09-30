@@ -1,9 +1,89 @@
 {
-  "analyzedAt": "2026-09-29T21:18:37.626Z",
-  "newsFetchedAt": "2026-09-29T20:10:10.896Z",
+  "analyzedAt": "2026-09-30T00:41:46.307Z",
+  "newsFetchedAt": "2026-09-29T23:55:05.110Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 5,
   "stories": [
+    {
+      "title": "Fox News will host Texas Senate debate if Ken Paxton agrees to face off - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV3BjOWROazBIVmdVZ0c1NzJtdEN3dWduY0IyaEVLS1FJNTliSGVYdVdjMUcwclhtSDF1Y2NjZFduMk9Da3VBX2tpbW5na3FnZUxxcU1jbUFYLXhlQ05WRU5UOVo0dUs2MGtrMVktUW4zSGxUdU1fZ2M3MkVXMGZLS0dOVUZmcWFqZ2F6M1Y2M3NfTkVPZ1E?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 21:46:54 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 18,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas senate"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W39"
+    },
+    {
+      "title": "More Republicans warn nominating Ken Paxton was a ‘mistake’ and expect Texas Senate seat to be lost - EL PAÍS English",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdUZULVJSdkZwVDctTDgxNXktTzlRVE1MNTZ3bXloWW9FU3FkaEx4bGROWU5fMWRqVGhVYkt5clhGUDdFS0VvdnlweEZOR2w1czhzQk5aTjBJcDhqNzF0THF2MGZJNWdmajlua3ZBZllVcjRJX1RHN2Mwc2pEMVdzQlF1WnBDWjk4Y2xQQnJSTnJBMk14SEt1SXo5bmgzYXAtNUQ3MFo0VWhKbTRDNzJfUV93aWxzWDdoNnZKWjJvX3FpTVA4bXg1TE81X0NVN25GLThCd0d1Zk5sLXJu0gHwAUFVX3lxTE5oLXJnR1VZY2swRWRrWFVhUGVsZWp3UkpMYmtwcDVDTXBzeVZGbWhnSUVFU2EyZ3lQQS1pNFJueTg2Smt6aGRKRkF0Z0d4cHg4Y1lSVzY3a2EtaExnZzkwZjZpWEZ0NW5PajZTVm45SnNNbDB1bWRXampsVkVINVdXNTUwWENpYVJOaHdSM19sS2lEd2dtbmdSYzRPalU0dzJBNmw5YjYyUkphLS0weFM2X0lHdTQ5c2ZpLW5UWUtrR25LT3NTcUxGS3NfMnhBMTN1VzdHWWVwZ19hZkwxYlNTRFJGTHlRTFB4TUJHaE1HSA?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 10:43:32 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas senate"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W39"
+    },
+    {
+      "title": "‘Just Waiting on Paxton to Agree’: Talarico Touts Report Fox News Is Willing to Host Texas Senate Debate - Mediaite",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZk1NeUJ2bFdYaG1RNFhBdkdxUkZVdVpYOTlVU2JKN2YyMHhqSVo5aEdnQ2VyTnVsYkhPV3ZCenR0OE5zbDFuaHZ4b0Y4Z0M4ZVFyLUVZeW9NSFRzSVF5cl9DODBWRFFVRnUwT0dnaWNCdTJScjJ0cXNWbm0wcmYyZG1IVVZRWHVzRXduOEQ4RnNJQjRTQmV3QzVqT3VEdXpYazYxMXVLaUJoZXB4dUdWc29wVWowWTNxc2dEMDVLbmJ5TE1RNkliS205TjQ1Wjd0RXc?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 20:27:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W39"
+    },
+    {
+      "title": "Paxton and Talarico Tied at 48 Percent in Latest Poll for Texas Senate Seat - breitbart.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZVNwNm1TYUFYSzlQOWQyRFh4RzhMUGRwR0ZPRkJYd3ZzZm0waGJtZWxtbG02SEtGZ3FwZEptbFp5WmFDQ244dkdpWVBHZzBZT2t3U2d4VXJyZmJXTlEtajJGdFpwd0xNWWtCT3NJNVowTW9mLXlPT3R6OFlaTmdzSDcxamFBaFU1ZTRGdEZCY2I0Z0p0dEdUQ3JTZXZJN0pQdzNDOF9ZOTBVaXhKdGZvYzJLTk1vZ2VxT1Blc3pSNEpUbkoz0gHEAUFVX3lxTE9lU3A2bVNhQVhLOVA5ZDJEWHhHOExQZHBHRk9GQlh3dnNmbTBoYm1lbG1sbTZIS0ZncXBkSm1sWnlaYUNDbjh2R2lZUEdnMFlPa3dTZ3hVcnJmYldOUS1qMkZ0WnB3TE1Za0JPc0k1WjBNb2YteU9PdHo4WVpOZ3NINzFqYUFoVTVlNEZ0RkJjYjRnSnR0R1RDclNldkk3SlB3M0M4X1k5MFVpeEp0Zm9jMktOTW9nZXFPUGVzelI0SlRuSjM?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 19:41:20 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W39"
+    },
+    {
+      "title": "Texas GOP Senate Candidate Ken Paxton Calls for “America First” Immigration Policies - redriverradio.org",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNWxkZ0N2SGh2bmVhOHA5aG44TzNVMzFMa08wb0I4M2U2b1dMUGtGMlFYYW8wQmVURC1wdDM5TDljN3ZyNTJkbkxFWWFTWlJRVUgyaG5wdlpoZFVSejE4M2toNXh6c2lYNWZTM1lHSU9Id28wYWkwa2ozbnBFQ1RkZkZtNTRWMnptNUlkZFkxUml4VkkxMGVzdmU3ZUk0UHlhS1p1N1lDeWV2eVdPUjJPVWg4R0VPN1pVVFJDeGJiZjNGYzdFSG1NYmZhS1NCTnNwU2Zjag?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 18:49:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas gop"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W39"
+    },
     {
       "title": "2026 Texas Senate race odds: Kalshi prediction markets show 60% probability for one side of James Talarico vs. Ken Paxton - SportsLine",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQX1hUcERaWEoyX0RIejFTaWNDZDZTbFZFOFpXSVgxeDhOTXMxT1lyRkxLbU9rSkpoZ3prTmRBcTk2ZGp5N1NQazExWHlhSWs3OER6aFMteldZSEJWVzRNNEZ3NjNyMWViT1kwSTg3ZmtKUEgyWXFFdkx1SDNJaGwzTGRSNDJJNl81UVcwazZiTkpGRURVcEp6N0tCTWIzQUo2QTQ2Yk1UbTV3NU1TMEpxUHphdkhZazFSNDNtMDFNd1lPdTVtQ1hxdGpYRzRCajEwV25qMzd0VGpwSG5ncGx0NG8xbTBWYlhGeWstXzZR?oc=5",
@@ -1556,85 +1636,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W38"
-    },
-    {
-      "title": "Texas Senate poll shows Talarico, Paxton locked in tight race - Milwaukee Journal Sentinel",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbG5yR2hXYkpRWmczVk8zR09KSk1oMEc1RHlLWTBrbTIwS1FZQ3huQ29GclJvT2lLU004WTdZOXpmSFZzaWJRWDV0UmU3S3dNTWFIUWl2c2hoRHJabUJheEhpSDNxSVl1amtTS1FVV0JyU2dCTnZXaEZTbEtXZkFmZnVveTc2UzdjY1MyektFMkRsZU9oR2lGd18zckszNm1tbkh6TWhhVFpzS29VcXFjRVN0TkpnSy1yR0xvNjVn?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 15:03:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W38"
-    },
-    {
-      "title": "Texas Senate poll shows Talarico, Paxton locked in tight race - Treasure Coast News",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd0xPN21vaHBzSVJPb2dtUGxMNUdtLXN4d2ZURllkUEdLWWtWQ0RwaU9sN2RqeTM4NEkyaFh2MjVObDZ4UW5seDNPVHlldTB3Zlc0cmFHSFg3UDZGbEFTRUdyUXNwMWUyN2N1ZUVteVdYajZWa1hXdjN5eVhLXzZxNXZBb2lPX01mM0M5YWs5azBNUHFjS00xcGFOeGdtVll1dVloMG96U0I0TWZTa0dlWWtDUUJzRGVKWGxz?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 15:03:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W38"
-    },
-    {
-      "title": "Ken Paxton's estranged wife tells Texas Republican women to vote GOP 'even if we're mad' - fox23.com",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQVG1jSU1rNVlDLU9lSG44NDhtc3h2bC1sdU8wS2Vld05MbUdFTTF0R2FvRUN1elB0b1BnZ1hSdmRnbTFPb19Cd1g1QmsyX25pb3JnV3NHVTdYdDNqWTNpbFUzalYyV2ZOcTVnWW1tWlBZblJNY2NYOFlqUm1UZ2V4OUkyaDBzSEVvdzNyZUlfSVlHdDJ2MDM5a3VOdU5BMWw5dTlkd0dWX1pFcm1kM1ltODk3TmJzVjJmdUhCNzRPdFpRODVIeUJyWW5jSXpVS2ExbVdzOE1CbE1lZVUwM3JFYVdYN3loMEFZdHQxeVA2T0Y3RkdnUG5feGswM3paUQ?oc=5",
-      "pubDate": "Wed, 23 Sep 2026 19:28:40 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "texas republican"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W38"
-    },
-    {
-      "title": "Ken Paxton’s estranged wife tells GOP women: Vote Republican ‘even if we’re mad’ - KXAN Austin",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON0lRc0FVWlJwbkROeU5QdHdvd2owYjE5dEp1UC1LOWZXYmdBWTdLaWdpQy1Xb1ZTWjNzajBzR0l5N0Zpcno2dTVmMUd0UXU0eHBZTmtXYUlqdmoyb00xYW1QQ0phUTA5SW11ZV9RUU1GNW1OTEkwNEI5S0tzd2M4c0pMbDhYMDRVY0RjUmh3b2wzUmRlc0YtV2xyUGl0N1AzbGZpVUlhLTM3a0dCUVd2RkZLTHF1V2xX0gG-AUFVX3lxTE9UZFhLeXpZa29teUltXzByUW9ZdlNfMEJrVTZUZ2FMYlRja1ZtWTNMWXNPRnhPR1hyVWJBc3ZURmhHdW8xMjdCd0gxUVRwOVZlT1lSSXc3Wnp3SnNINFV1TXRwX09sc3RTOFg5dkJPLUVmWHhqS0NTT0N2LVJGWnBLTzV1S2cySFh4VGh0cGNIM1ZCVmJtdlNkcWdEanVUeUVoeW9mX2Nsa0NwbDVsYXBqeUV1LUQ5TkpvYVFJSFE?oc=5",
-      "pubDate": "Wed, 23 Sep 2026 16:38:59 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W38"
-    },
-    {
-      "title": "Texas Senate race focuses on high prices — but what can candidates actually do about it? - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPTXM3RHVpOVc5bzBQZVJKWWJhY2hJZ0FvQkwyU3QybUVOYkZzb2pXMUhZNHZGVklQT3NaS090ejJhRm1vYkxSc3dENWNtMEQ4Z0lDdGczU2NyMjdDUW9qMldpVmNmOHQ5TnJVSGZ2Z1RoSDhRUm84Z2JoZk9pemFGYWNYbmtMOHphMzhUQl9jQjEzQnhma2d1amJNdmtqZ0M5UEhWR0trdVQxdVNsWl9BdjFOMTR3d3B5RVoyZGtDZUhQUEN2ZnJJZWtBNTU5a2JTaXVZWnN4QnJtTGE3bjZnTDhkU1Y1NUIzMzN2MzZ5V015WnVSMDVyWUp2RXRWc0xYaUlQV3diUdIBjwJBVV95cUxQUmlKOUY4Y2FFemdYeUFCaFFDaC05djRoSDNrR3MxS2RlanRtN21CQXo2SlJrZnhzYVlWbk5tX2Uxelg5MUtlRmk0cVBCWFBVdWl4SGlQeEZZRzEwZmFLMC0td2VCcEZsYkRneU0yRkxMYk5qR1ZVNDBVekJ4VDRWeWFnRUo3QUlJQUJrenA1bkpaMmVpOTdOVmlhblJzQXN0VjR0MUNOV1lYQXdWQ2NBVVRVZEd3QWNRbmtBYmJtU0lKZVJNT0dIT2lkWWJXNndxcHo0TzhVUEtkVURXaEtKMW5KM1QtRkhwWUQ4ZGhHbWRZYWhHdDBGR2N3bGJRLU1tVGJDZm94bVpYeXUyd2RZ?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 13:30:09 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
       "weekKey": "2026-W38"
     }
   ],
