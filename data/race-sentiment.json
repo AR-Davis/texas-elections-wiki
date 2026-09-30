@@ -1,9 +1,43 @@
 {
-  "analyzedAt": "2026-09-30T18:19:51.125Z",
-  "newsFetchedAt": "2026-09-30T16:57:41.534Z",
+  "analyzedAt": "2026-09-30T22:30:00.782Z",
+  "newsFetchedAt": "2026-09-30T21:22:56.625Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Talarico vs. Paxton Texas Senate race tightens as new poll drops - Miami Herald",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR3RvcjRraXNlZUI3eW1jVHdpTXRLTGFyLUxKOEhCR0VzZllIdXlLYk5VOUZzM1hmNmttaG80a0VzOWRMcEFPYUNuRGdTS2FIMy1JR0lDM0owNVhaRFN5ampRVVdhYXhsTmVNc0pTTkFaWUdBbmo0cTJTRmx5a0RjcDJn?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 15:09:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W39"
+    },
+    {
+      "title": "Ken Paxton blames Trump convention for hurting Texas Senate campaign - The Spokesman-Review",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVUN4R05PNzRfaFRJT1d4dmRZOWJDQS1lb2ZVX2J6aGhnS0JFTE5XZjFWdEdReVo2QmJaV2lGRDNhbnFIX00wTHM4Zm1DT08zMU05dmtxZ0ZEYkwtcFpPRkszTGZKazR6ZG0wVXVjcnM5QmhqbWJ4ajRjZmQxeVZESU5fR2lfRGZGSGtBZHY4M0FnY01Jdk1fMWlvTVlzUQ?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 20:03:56 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas senate"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W39"
+    },
     {
       "title": "Talarico vs. Paxton Texas Senate race tightens as new poll drops - Wichita Eagle",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNQ1JlclFVdnlMQ2RCSndTYmRhNjZxQTdQVFdyTVY0djJhTW5GMTYwZTh6bU45VGlmRkd0em5ZN0N6T0RYNzhVeDFZbl9meV8ycDd1NmhLbExKNWV0M2k5cWhUMndUb240ZmE3cTJianRfcElha0t0aUF2Yw?oc=5",
@@ -1600,39 +1634,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W38"
-    },
-    {
-      "title": "Texas Senate race focuses on high prices — but what can candidates actually do about it? - KERA News",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWGh4dHlveGNnbEp2LTh3NHRsRmhBUEtBSF9IY2FoaC1Vb3ZkNzFITkJ2ZlFJWUJUY3FNcmNSbWNhNUJNTFRTVFlrYXB0aXgyeXNaUW5DLVZBWEYtZ2xhWG9RS2swRHVlZG40TmtQM1NtUXM1YkhoRXNoZVkzTW1WYkVYbjUteGkyTmVuQ0FjRFVKOUVZQzRFcEplS2NYUDk4Vy1uYmZ3S1JXZkJLUi1wbi1UZDFPckdPVUJLeUFWMzh6aHZudjcxbjh5akpWSzdJS3VZSUVpTkVFaEpWX18yN29tWjF3dDdmMlhz?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 09:57:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
-      "weekKey": "2026-W38"
-    },
-    {
-      "title": "New poll puts Talarico ahead in Texas Senate race - FOX 7 Austin",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON0U3VjhtTWU0NUFCVUs4V3pnbi0tRVJ3YkZNWFdkQndjZkJCdU5BX2tYNWtJS192dFBtbWtOODNEOUZ2OTI5MnR2eE1xbkRpZHZJb1pfRi00aHF0Z3ZvdjRieUg0d0hPV05PSVczZ1ZTMTl5WUZLTDJHVTRZRHk2Yy1kNTlRWU5BZ0E?oc=5",
-      "pubDate": "Wed, 23 Sep 2026 23:10:43 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
       "weekKey": "2026-W38"
     }
   ],
