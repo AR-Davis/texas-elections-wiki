@@ -1,9 +1,42 @@
 {
-  "analyzedAt": "2026-09-30T22:30:00.782Z",
-  "newsFetchedAt": "2026-09-30T21:22:56.625Z",
+  "analyzedAt": "2026-10-01T01:26:04.585Z",
+  "newsFetchedAt": "2026-10-01T00:46:27.122Z",
   "totalAnalyzed": 100,
   "newThisRun": 2,
   "stories": [
+    {
+      "title": "James Talarico is Outraising Ken Paxton in Texas’ Republican Strongholds - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXV2UWNsc2Jma1RfVGlKS2FqWTJ6cHJWRU1GZ011alYtVXA2M3RnOHNGTENtY08xeUlyWGpoaHhEeXFPV29WNm5FNkVrVXNZVkMxYWJvQnJMMGRJLWVjR25MZExNYmxQcTJ6OWQwQXIzS0VLMl9jWlQwOVczMjlxS0R3cElGNHNkVkhYZjVQXzNyZngwVlJRbldXR2RDdk1lRHV1aTllZmg?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 20:25:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W39"
+    },
+    {
+      "title": "GOP Texas Senate Nominee Ken Paxton Says Trump’s Republican Convention Hurt His Campaign - uPolitics",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTXYyYkxXMHdFV2NfTVpaU1VrYjFqc1dYZ0t6amwyTGhTTm9CVm5vWExaRTNRVFRRSkR6MXVyRWFpSmI2LWxFdlZLUXJmV0g2NnVyVW1NcExqdmhkbzJJOGV1SFBGM3BzaGF0cjljbjhGbi1JS2FNWWlVd0VCV3dPVEE4M0JXV1ZxRkw2cVlPM0NFQWFhZENER096d2NuY3FqNFc0cXpKUkdJdndXWGJ3VmQ2Z1ZHUTB2cG5V0gG7AUFVX3lxTE1NdjJiTFcwd0VXY19NWlpTVWtiMWpzV1hnS3pqbDJMaFNOb0JWbm9YTFpFM1FUVFFKRHoxdXJFYWlKYjYtbEV2VktRcmZXSDY2dXJVbU1wTGp2aGRvMkk4ZXVIUEYzcHNoYXRyOWNuOEZuLUlLYU1ZaVV3RUJXd09UQTgzQldXVnFGTDZxWU8zQ0VBYWFkQ0RHT3p3Y25jcWo0VzRxekpSR0l2d1dYYndWZDZnVkdRMHZwblU?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 21:21:12 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas senate"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W39"
+    },
     {
       "title": "Talarico vs. Paxton Texas Senate race tightens as new poll drops - Miami Herald",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR3RvcjRraXNlZUI3eW1jVHdpTXRLTGFyLUxKOEhCR0VzZllIdXlLYk5VOUZzM1hmNmttaG80a0VzOWRMcEFPYUNuRGdTS2FIMy1JR0lDM0owNVhaRFN5ampRVVdhYXhsTmVNc0pTTkFaWUdBbmo0cTJTRmx5a0RjcDJn?oc=5",
@@ -1602,39 +1635,6 @@
       "error": "HTTP 405",
       "candidate": "both",
       "weekKey": "2026-W39"
-    },
-    {
-      "title": "Texas A&amp;M student group invites Ken Paxton, James Talarico to debate - KBTX News 3",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORnZIeURjdklrdWtlSzNzclZXQkstV3ZYLXF5alFtMWNrN2djNnVseWE2b1dBTHFXSXpDZkVJM0lPUXFxeERVODZzel9VNEJ4ZllEd2ZWS3plbERfMjhSOS1WbWJvZ2dUR2IwaWpfLUt6eG03V1B2WTQwR3Q2TjhCdU5WeUxCa2ZXUnROMkRyNk9CX0J1b0o2TGlYbnY?oc=5",
-      "pubDate": "Thu, 24 Sep 2026 00:34:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 23,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W39"
-    },
-    {
-      "title": "James Talarico's church houses illegal immigrant, minister says; Paxton responds - Christian Post",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNnBvaU90b0VFU0h3NDBuRWQwOGp6TzdzMzk1dXRPVmxxUzNQdFlKQkJaN1VINzQ5V2NGaWwtVHpCZXMyQnNrN0JybjQ4TXduM2cxX25ocmpjYVl1NXF5bEJuV2tudHA5ekRrdTVnaGdhLU55S3RBTjZxNWhGdm9TRXVRMGkxXzBzWV9rS2xQdmYyQ3dhSjZqcQ?oc=5",
-      "pubDate": "Wed, 23 Sep 2026 19:48:39 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W38"
     }
   ],
   "weekly": {}
