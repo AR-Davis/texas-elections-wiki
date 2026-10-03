@@ -1,9 +1,27 @@
 {
-  "analyzedAt": "2026-10-03T11:55:43.813Z",
-  "newsFetchedAt": "2026-10-03T07:51:56.517Z",
+  "analyzedAt": "2026-10-03T15:59:49.602Z",
+  "newsFetchedAt": "2026-10-03T13:13:05.628Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "James Talarico Leads in Texas Senate Race - Political Wire",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORlQ2QV8xbEY0U0dGTFVtd1l4S2RHR2VuOW1sTUtkcS1Fa3RuSkNGQXlYZk9qVnIzNEIwa0pyUjdldGZyQXZlWTR5R1k1aXNFbjEzWmFSUlBrRUo4R3Fmal9aMTc1eXV0VFB2d1hiTnZXWXl4aDdXMDF5Ny1tRGhSTjFXd1Z0UQ?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 10:51:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W40"
+    },
     {
       "title": "Republicans pour over $7M a day into Ken Paxton's Texas Senate bid as stakes rise: Report - news.meaww.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbUdFQWhLbDI1LXg0ZU10cmYwZ2RRVU8wSUZjdXM5TTlIUjdVMTlsdUpnY0F3YnoyQV80bmhYUzJuM0xYR3VxTTFvV3RlUWZPcEZsX1hiRzcyenYzdUQwQjZrOEloZFBhaEx4WVVLNVQzd1ZxcFhVZUhjRm5kRnRWWTl1R0JQZzNwaFNCVUJ2SUV0bWU4NU94TzV5WHBZWWd6NHNjbmphcEJ5ZjZPMS1F?oc=5",
@@ -1624,21 +1642,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W39"
-    },
-    {
-      "title": "James Talarico says he hopes to learn from Ted Cruz if he wins in November - houstonchronicle.com",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbW80VnpHNGt6OHZ0Y2xsX0ZHcVNNeGRBT082M2xLVjg1UEV3SlNUOVNxOF9VaWtoYzYwT2hKU1F4ak8wUDRTbGdjMmk5MjNOb0JpTmMzckNkU01PbkJXdGdsQWQwQkV5UmMzR2N5X21SY3BwNElWbU1nSFd6UGRmbzBDVm1zODNYXzhuMFpaT25Bek9KeGJRWHJpWkJqQnpx?oc=5",
-      "pubDate": "Fri, 25 Sep 2026 11:03:40 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
       "weekKey": "2026-W39"
     }
   ],
