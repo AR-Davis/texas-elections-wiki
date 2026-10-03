@@ -1,9 +1,25 @@
 {
-  "analyzedAt": "2026-10-03T06:14:23.275Z",
-  "newsFetchedAt": "2026-10-03T01:49:30.063Z",
+  "analyzedAt": "2026-10-03T11:55:43.813Z",
+  "newsFetchedAt": "2026-10-03T07:51:56.517Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Republicans pour over $7M a day into Ken Paxton's Texas Senate bid as stakes rise: Report - news.meaww.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbUdFQWhLbDI1LXg0ZU10cmYwZ2RRVU8wSUZjdXM5TTlIUjdVMTlsdUpnY0F3YnoyQV80bmhYUzJuM0xYR3VxTTFvV3RlUWZPcEZsX1hiRzcyenYzdUQwQjZrOEloZFBhaEx4WVVLNVQzd1ZxcFhVZUhjRm5kRnRWWTl1R0JQZzNwaFNCVUJ2SUV0bWU4NU94TzV5WHBZWWd6NHNjbmphcEJ5ZjZPMS1F?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 05:46:54 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas senate"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W40"
+    },
     {
       "title": "What President Trump told WFAA about Ken Paxton | Inside Texas Politics: Oct. 4, 2026 - cbs19.tv",
       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNZGwzZy1QUVZmaGtPYUZfOXJEOHBid1ZYbDVLMnRySFU1dG1NcV8tOUxfeWhNNXlFZUpYRjB5SEd1MzVJWmZzR1M5Y1pOTU5jaFNDNDhZNHhqVXRsaWFPWmQ0Q1JBc2NrMFd6Y00yUUJ5bzRUWlcyZFlYTFQ1dnVWZFY0cm00Mk9nUEJ1WjVJYUlUaHlUQmRFaDlrbE9QSUZCTzQ2V2FuZUgyYkQ4UlozUExFdUd4SUtHSkMzR0JqTUhZVWtpeU1XbVBBYmdLV00yYVM4TmcwRkx6dzdPWGIwYVhkNmVZTWFnajltZGE0Q2EzSFYydmhRTE54SkpUNVdwUXZTSE90NHZXR3F5Q2Y4RmhpNFI2Zw?oc=5",
@@ -1623,22 +1639,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "talarico",
-      "weekKey": "2026-W39"
-    },
-    {
-      "title": "Talarico attacks Paxton over China ties as Texas US Senate race heats up - AOL.ca",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb0N1Um1lS2FGUWVHeklOTDdfajF3T1M1c1FDX19tZGZnZjJablEzbFJGak4tUkZsTjVBX0tmMGdfVzNEVzU2c3VBVmpKTU1oWEk5Z1BXZDNhNVp2TVlkQ0tEaC12XzcxQl8xTnFBQ0FpT0lSSGt4bkJ6MDNLZzB0NENzaw?oc=5",
-      "pubDate": "Fri, 25 Sep 2026 14:23:10 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
       "weekKey": "2026-W39"
     }
   ],
