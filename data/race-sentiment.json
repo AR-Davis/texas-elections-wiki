@@ -1,9 +1,25 @@
 {
-  "analyzedAt": "2026-10-03T00:39:28.960Z",
-  "newsFetchedAt": "2026-10-02T22:52:42.710Z",
+  "analyzedAt": "2026-10-03T06:14:23.275Z",
+  "newsFetchedAt": "2026-10-03T01:49:30.063Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "What President Trump told WFAA about Ken Paxton | Inside Texas Politics: Oct. 4, 2026 - cbs19.tv",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNZGwzZy1QUVZmaGtPYUZfOXJEOHBid1ZYbDVLMnRySFU1dG1NcV8tOUxfeWhNNXlFZUpYRjB5SEd1MzVJWmZzR1M5Y1pOTU5jaFNDNDhZNHhqVXRsaWFPWmQ0Q1JBc2NrMFd6Y00yUUJ5bzRUWlcyZFlYTFQ1dnVWZFY0cm00Mk9nUEJ1WjVJYUlUaHlUQmRFaDlrbE9QSUZCTzQ2V2FuZUgyYkQ4UlozUExFdUd4SUtHSkMzR0JqTUhZVWtpeU1XbVBBYmdLV00yYVM4TmcwRkx6dzdPWGIwYVhkNmVZTWFnajltZGE0Q2EzSFYydmhRTE54SkpUNVdwUXZTSE90NHZXR3F5Q2Y4RmhpNFI2Zw?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 22:50:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas politics"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W40"
+    },
     {
       "title": "'He pretends to eat meat at BBQ, excuse me!': Trump mocks James Talarico in fiery Texas Senate race - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNWEpneW13eUtkeTNrZTcwcGxlUjRIVWhfOGpQX3lITlJMdVRQZlZuMGVzX192U0NTYjgycjNKdkhyTFUxdTFPXzJDODF5dUtBNGVLd0piQ2xueHN2a24tMEdmdzhwTExUZHFRXzJmZUZId2ZXS0laTU5yT2Y2TnZpUjB5QWZoNFVVNldfNTJxdTZtWmNaZDlfS1VfZnJlWnFPOHZpTTF5OHlIWUNWZkNYbkRhWXZKVzQtZlQtZU1DZnp2TUI2NS0xV3lFZ2RVV3pLLTVxSmJ6Tm40TURyMUprMlZyeHpvZC1Id19EOUc1V3BETmR6aExoQWl3UVlWc1pod2R2NkVGUHBSakpfS085UlBBY9IBjAJBVV95cUxNazgzRnhWYUZ1ZWhqdjhaTk9pZ3p4SEdXdmRrZUhJcGtnVFVzMmRuLVlpbmRYSzFCX0dkMGhmYlBwWnZWZU5sSGVxTEdaclI2VW9yeEVmcTVNWVdRUFpOdXRYMHFyZEJpRm13QkpibnhaT0Z3R0lmNV9ubUxnT1VOalM3OVh1T0dUeEU0M3lSYUY1QnJGRlJpamdXUHJqbUtUenRKMGdmWWJoVFB6YkY3TkllX0taTmFhRHgtNlJOUzVJbURGdG5TWFRXTG1CbUlGNkk0SlRQaS1OazJsWndndklxZFdQVHNyR3p1dk4xWXZYc0RfejdINlpSRHctZTlCSk1wejk1akhKaExD?oc=5",
@@ -1623,21 +1639,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W39"
-    },
-    {
-      "title": "U.S. Senate Candidate James Talarico (D-TX) Speaks to Reporters at a Texas Gas Station - C-SPAN",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVk1yUmQ0c0tIWjgzY24xQ1E3VDVEMnhFN3M0N3JPQjYtVUxzVWZPVXVYZnp3Y2JWdjJveHlXZG1HMC1zazVMM2EzamlwWUloMk9YTVd4ZVcySTdSaGxHMkozVF9DNnoxTnNPakxabl9EUEtPRTRxcVNxdGF3VVlENWRoeHNaaEF1Mk1sdTBjR2lEVmdPcXhBZWtfUDdkT3BUb3dSUlFtSmVBbE9sR0syZWNRLXlOM0poOEpOVVd3d3plNURuenVocmdJNUI?oc=5",
-      "pubDate": "Sat, 26 Sep 2026 04:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
       "weekKey": "2026-W39"
     }
   ],
