@@ -1,9 +1,72 @@
 {
-  "analyzedAt": "2026-10-04T01:54:40.755Z",
-  "newsFetchedAt": "2026-10-03T23:41:10.587Z",
+  "analyzedAt": "2026-10-04T08:07:05.583Z",
+  "newsFetchedAt": "2026-10-04T05:21:13.138Z",
   "totalAnalyzed": 100,
-  "newThisRun": 5,
+  "newThisRun": 4,
   "stories": [
+    {
+      "title": "Angela Paxton Urges GOP Straight-Ticket Support in Texas Senate Race - suaragarut.id",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBIZ3dJTkNKdThfajFESXRKM0ZQZTFrUDZuQTk3SDBWMTEtV09aTVJ1OUlxSFRfV21UcWlrOTZhQnFQVk1fdXBTcEQ4YXJSZXoyeGdzeUFvTS1GdWFNR0M3RUNxVFR4RGdWdmowaThHbS0zbnJsc3lGYkpDZW4?oc=5",
+      "pubDate": "Sun, 04 Oct 2026 02:08:46 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W40"
+    },
+    {
+      "title": "What President Trump told WFAA about Ken Paxton | Inside Texas Politics: Oct. 4, 2026 - kiiitv.com",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOVDZuVmJlVk5qYW1CQ29sdFVaUG1wU0haYnlsRmFyaXZQYnI3SkxCN2dlUFV4VXAxRkNYamlianl6QnA4TDFHR1BCeVFVR2FvUmlRR25pRGVzeWhuZkxtR2NCQkRJWTNPbkV1dGI3T3llU2pkRkhfdjRseHpvaldQWGlVRjhORnVram16T25nN1ZFWThWbUhBNmtYWDVOQVRaWUY4MTc2cEtDd3hnZklDUlpPV2FVQW1sczhDdlFUQzhfZFhpMHQxdHl2OHFLTHo4QVB1NFlERW8yZV9ELXgzaVRYeGQxMjN4b2gzc0xmb09PWG5wR3RRME5SRTdwa0hqNWNoV0N6bUY1QnFzdGlNRW5xM1pWQ19Z?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 22:50:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas politics"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W40"
+    },
+    {
+      "title": "Ski resorts and California wineries: Inside Ken Paxton's jet-setting lifestyle - dallasnews.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTWJrZG5ZdVZuQkkzSTY2MnhybXR0dmZqN2hVbkc0N0FxXzAwdDF5angtUzRQZDFwQ1J3ck5ibF8wR3lpekN5RExGSWNKX0NwR2JMaDZDMmhoV1NPUUQ2UDdtV25rdFQ5bHF5RHhWNGtpbEN2b29rd25tcmoyWmxkUGVJMWNRUjQ3WnpzcDg4d3Rjdw?oc=5",
+      "pubDate": "Sun, 04 Oct 2026 02:44:53 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W40"
+    },
+    {
+      "title": "Texas Dem James Talarico takes LGBTQ group’s cash — after vowing to ban trans surgeries for kids - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOczd2S0N5OUp4M2IzZlBmVHhHN1d6V01heWJZVWktREY3blVpMV9OaVhGSlQ1OHBVQTlJamI1dWlreGR4YlptZ0lSTXlaX1VtcF9za2FPVjZsb2ZGLW9qTlQ5NlMwTkRTVVFGUXZhSFpRNHJNc2xDZkJyelNlQ3lYc3VxZUJ0THdaYklHOGRKNGNkRUttVTBBUV9QX18xQ2hCUVhXM0U1ZXFZZ1dhVnc?oc=5",
+      "pubDate": "Sun, 04 Oct 2026 00:11:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W40"
+    },
     {
       "title": "State of Texas: Same questions, different stages: Paxton vs. Talarico - KXAN Austin",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdEZyYVliRlJfSjdLVVVnTVNiTmM4b2tDSnRvWjlZUlNIaGN2OXNoanRyaF90Si1vWENDM09jbXAtRngxV2hQcGJoWE92TzFSWnFKWDNfa3lRaHNydm85SmVZZWpxa2tKNTJObXlPdUI1QjVPQ2xza3QxZ1gwdUhYTDR2UjBVeTlRbUJDLS1xR1dYZU40c05aYkNreHRuMmZRZlFXNg?oc=5",
@@ -1575,69 +1638,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W39"
-    },
-    {
-      "title": "With super PAC spending increasing for both Paxton and Talarico in tight Texas Senate race, which is benefiting more? - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaXZyMnl3WXIwLXQ4RjBoQXFyelZXcEc0Q25kMGxJUDR3MEVyZV9PSlNDQkRRd0E5c2NUWFhtdVVYRjkzNXFiV1QxT0cyQXVzTlM0SkV6UDU1QXpFbXBQM0ZNTnVrcFN5US1kNUlHTlVld3NiU0p5cWZXRno2VE5QeHlHekp6UkdfN2JvVkYxVEZMNnZDWU9fZU95TmVBcW5VemFYeGtaN0JRSjhXb0NMWVFaVmZ4ZUhVNlhaSmhNMThnYWhpem1GcFhmVUpoLVZaMXNtMGQ4SFFrR0dYVTE0?oc=5",
-      "pubDate": "Sun, 27 Sep 2026 11:00:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W39"
-    },
-    {
-      "title": "Ken Paxton’s Texas Promise tour stop set for Sept. 30 in El Paso - KDBC",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbjBVWHVqRU5nTlZOY0FHSmVJSDkwOUx5aXV3Z1cwRjNiN2F1TWdhdV9RWENsMWZDRmNnRlhlemx3ZlMzWDlwOTRSMlFua1lwRUZHT2FVc083cXg2aW05SHdrZ3R3eW5uRTd4TjZFZ2gzbnpjSlF5YUtPeWFyNE1JTjN5d3pwNFN0ek5WYU10SmwyT0ljRUpPY0t2SQ?oc=5",
-      "pubDate": "Sat, 26 Sep 2026 20:56:25 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W39"
-    },
-    {
-      "title": "Talarico surges in polls while key Republicans distance themselves from Paxton - San Antonio Current",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONTBUa3YwN2NtcTkwYi1LZ3k5UmtET3pyWWdCOVZqaWh1SGk1elF5d0hvRFBpM2hHaTlaYzFvbUlCa2RoRjJadk5MNXZLQ1BqekFrdEpNX1psRzcxX2pPWnpVcERRSVEzZzZSWkhyUzRNc0kxZGFDZGE4UmEzZExVRG1EV1VBbWsydnBfNTYxMnBkcjZBM3VFeHQwUGJKWXJwY0JNTlRTanVFZVZaOUxQOTVENWs1cnRTT2dyTk9R?oc=5",
-      "pubDate": "Fri, 25 Sep 2026 21:08:14 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W39"
-    },
-    {
-      "title": "The GOP’s Ken Paxton rescue mission tops $100 million in Texas - Washington Examiner",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU29ublpnczVWUWs1LW84a1BDcDZUWWNNNUp1UmNMeGpsZXFiRmNJYnRLYTBTQlBXQ052blFpUmVjYkVQVDB4Y1lId0VxNTU0ZVloZVkzYnRHTjFMY2pabGkwNUdWeENkRHlPWkZuUkhyMENhTUJPcHlaNDZYQXhQQWplYkpxZU4wdEc0U1VOMFE1OFlIOTNha3lBWDFqaWoyazFsOWZQd3NZNko5dUsweFZVWU1aUFcwYXhBMg?oc=5",
-      "pubDate": "Sun, 27 Sep 2026 09:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
       "weekKey": "2026-W39"
     }
   ],
