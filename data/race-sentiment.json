@@ -1,9 +1,43 @@
 {
-  "analyzedAt": "2026-10-04T08:07:05.583Z",
-  "newsFetchedAt": "2026-10-04T05:21:13.138Z",
+  "analyzedAt": "2026-10-04T14:17:25.919Z",
+  "newsFetchedAt": "2026-10-04T11:14:33.918Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Why Ken Paxton could lose a Texas GOP Senate seat to James Talarico - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMXczRHZwOGdTUXljSUx5ekswRlE2SGtoUlNfQUpJRTh4T29TYzRka3lRSjI1VnRRbGs4MzFPeHZkUnJYOTE3YV84UlNTclNxQnl3ek9rLXdLeXdONVVVNEtjTUw0U19CanNhcHhOaXlRWWRLbDdsdE5MN2s2SlhxTFRFZ2tWb3p5d3pBTlhiVzN0alJFTHpQUndHMTZLWWtUSzFlZ2pMOUZ6aUZGbEFBV0dXVQ?oc=5",
+      "pubDate": "Sun, 04 Oct 2026 07:01:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "texas gop"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W40"
+    },
+    {
+      "title": "Trump expresses concern about midterms in Texas, pushes for Paxton in tight Senate race against Talarico - cbsnews.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORXpiVG9PWHVZd3RGN2xwU29Cdm5GTlNQSVE3UXBWTWhSaDNjbGlMb3lSR05KQzRjNDBTOC1RaDdQV3JuNUJZVl9ER01PeF9SWVlLcjNITHAyOVZ3d25RUkNwV1BDWWh5N2Q4R2l6NmxZN3RlR3pfYVNpWlowYmFTMm9GNTlFNjlxMlJnbHhoRURTVTQ2UXRZcm5uZGtsRkVsa25IRXVPQ3o3VVNSRUVmUkQ3SQ?oc=5",
+      "pubDate": "Sun, 04 Oct 2026 11:00:17 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W40"
+    },
     {
       "title": "Angela Paxton Urges GOP Straight-Ticket Support in Texas Senate Race - suaragarut.id",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBIZ3dJTkNKdThfajFESXRKM0ZQZTFrUDZuQTk3SDBWMTEtV09aTVJ1OUlxSFRfV21UcWlrOTZhQnFQVk1fdXBTcEQ4YXJSZXoyeGdzeUFvTS1GdWFNR0M3RUNxVFR4RGdWdmowaThHbS0zbnJsc3lGYkpDZW4?oc=5",
@@ -1602,42 +1636,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "paxton",
-      "weekKey": "2026-W39"
-    },
-    {
-      "title": "Texas Senate Race Heats Up Over Ken Paxton Probe Into Data Center Water Use - Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZk1vY0czNm5xeTFENHRnanlKWVN4bWNVLUpISlY3aFFBUEh1VmVBWDIzNWpTZjJEUlBtTEFTWmdndkdDa1U4V0swV2ZkTnJjWlRiUl9reTZ4VTcwTXlQSWZLRjZTRnB3Sm5CSmJqWURQamJPNjE5OHpKdWtPZ2Vwa29DeFZOb2ZCQlNMenh3?oc=5",
-      "pubDate": "Thu, 24 Sep 2026 22:18:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W39"
-    },
-    {
-      "title": "Talarico holds 5-point lead over Paxton in Texas Senate race, poll shows - washingtonexaminer.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbXNLYU56c0JBaE03NVdlT2k0Y0pkR0ZvN3lBUzNieTlkbGwyMEpNQW9Fa1A1bWlWdmw0SGhhcTdKZk92cWcxSXN5ekpIellEaGVfbGR2ZjJJYWhoQmo5NTVFZ3h0d2I1X3Noc3p1S1ZaTkpNRUpndEUzajFFSDdMd2xfWDBHVDVJN1BvTVpXS0lESmgwamFMVzZkaHZGRXZtZ2xRdzRxWEJlVndkYl9Bbw?oc=5",
-      "pubDate": "Sun, 27 Sep 2026 14:29:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
       "weekKey": "2026-W39"
     }
   ],
