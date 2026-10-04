@@ -1,9 +1,84 @@
 {
-  "analyzedAt": "2026-10-03T22:21:06.884Z",
-  "newsFetchedAt": "2026-10-03T13:13:05.628Z",
+  "analyzedAt": "2026-10-04T01:54:40.755Z",
+  "newsFetchedAt": "2026-10-03T23:41:10.587Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 5,
   "stories": [
+    {
+      "title": "State of Texas: Same questions, different stages: Paxton vs. Talarico - KXAN Austin",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdEZyYVliRlJfSjdLVVVnTVNiTmM4b2tDSnRvWjlZUlNIaGN2OXNoanRyaF90Si1vWENDM09jbXAtRngxV2hQcGJoWE92TzFSWnFKWDNfa3lRaHNydm85SmVZZWpxa2tKNTJObXlPdUI1QjVPQ2xza3QxZ1gwdUhYTDR2UjBVeTlRbUJDLS1xR1dYZU40c05aYkNreHRuMmZRZlFXNg?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 21:29:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W40"
+    },
+    {
+      "title": "State of Texas: Paxton vs. Talarico – balancing border security with workforce needs - KXAN Austin",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVXhRWTRIZjhqSXVVY1Jpei1TcGtMcGgtMHdmRUNaV185T2VVc1ZPdDAtRmVIckpqMkMzbzc5R2hxcnhlNjM2X3VrV2NoTTh2Mm82UFpfdEpiS3ZhaUtHUGZOdFhfZEFld2RFeXUtREl4dmFGc3lqTnAzdUJwVE8tUU9BSTNCQ1Fpb3pGT1d3cWRISjM0ZFZPQXBxd2E0cFhJN2dYZV83b092SU4wMTBqMnFwUlZFRV9J?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 21:28:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W40"
+    },
+    {
+      "title": "State of Texas: Paxton vs. Talarico – personal experiences shape health care policy - KXAN Austin",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ3Ewa1RleWZZak9Bd3dGdE1ncXpvdmxOY3ppMWF0Rml0aTRLVjJLcW03eHVEX2t6WURpWVQxVDEtRnhGdFY2VnBCQ0FJQlFBRExaZUt4V040NW90OEx1dVE0TEU1VmpfZHlLbjNVNUFET20wRDVsb2Y3ajcyQzJZc3lvNTh1LXJxMzJILUY4XzVqaGxwcnZENk00S085VWVvMW5KQ1p3ZHJ5VU1KdlgyMGc4aEQyQmc?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 21:27:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W40"
+    },
+    {
+      "title": "State of Texas: Paxton and Talarico make their case to undecided voters - KXAN Austin",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOS1MNDUxVE9JdldEbUswejJqY3pObUpqbS1WUDlhd2tBeS1nbnJ3VkVidEdaTmNmTVh6VzltNjJCbFBuQWZZUWtfNHpRaHVVY2o4bzgtczVnR25BZFp3MVJkcUtwYUh1bHRFZWRzM1FfOUl4V3FTY1F2WmcyeDdDaVBQYUNxdGdpOWczQV9UMGRkSFNVbFdCTmpORTBIcjYzM0s5aTdJUF9RUzg?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 21:26:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W40"
+    },
+    {
+      "title": "Texas State Sen Angela Paxton Voting for Estranged Husband Ken Paxton: Backing ‘Whole Team’ - breitbart.com",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdWpGRnhBYjNSSjFLZDRSSFpZRjItVlBLMDZNOVJlUVF6VXVCNEFsWmk5S0xuUWN4aEJXUDhHcUJLNFNnOHBuYlU3SnRJemxjdWJxSG43UVdhd0FpVXNpX002RXBtU1Y4R3VtX1V2b2JuWXRKT2xJQ0VmbW55RmU3M0ZZZVhIdVg0SzE0N09IRDJDY1gtRnJBX0o2M1FZUVpzUllteXpFZ2wwSGJhQktxeXJYdTJteGktOHdtLXRHRVRWemRsdFYta1Q3Z1plaGpFelV4dzlR0gHWAUFVX3lxTE91akZGeEFiM1JKMUtkNFJIWllGMi1WUEswNk05UmVRUXpVdUI0QWxaaTlLTG5RY3hoQldQOEdxQks0U2c4cG5iVTdKdEl6bGN1YnFIbjdRV2F3QWlVc2lfTTZFcG1TVjhHdW1fVXZvYm5ZdEpPbElDRWZtbnlGZTczRlllWEh1WDRLMTQ3T0hEMkNjWC1GckFfSjYzUVlRWnNSWW15ekVnbDBIYmFCS3F5clh1Mm14aS04d20tdEdFVFZ6ZGx0Vi1rVDdnWmVoakV6VXh3OVE?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 21:02:44 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W40"
+    },
     {
       "title": "James Talarico Leads in Texas Senate Race - Political Wire",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORlQ2QV8xbEY0U0dGTFVtd1l4S2RHR2VuOW1sTUtkcS1Fa3RuSkNGQXlYZk9qVnIzNEIwa0pyUjdldGZyQXZlWTR5R1k1aXNFbjEzWmFSUlBrRUo4R3Fmal9aMTc1eXV0VFB2d1hiTnZXWXl4aDdXMDF5Ny1tRGhSTjFXd1Z0UQ?oc=5",
@@ -1563,85 +1638,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "paxton",
-      "weekKey": "2026-W39"
-    },
-    {
-      "title": "Maps show where Ken Paxton and James Talarico's donations come from - yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT21EQ2dkSVZlS3VVSXF5UnpkZ1A3MnY3MmNheGIyWU1yYXZsYUt1UjhLbVhGRVN5dnBpcjh2UzBLeFhGY1lPUVk0QWVvRXBYd0JWX3dwWHppMVpBOWM0QmExRndGZi1idC1NOGNNcDBXeFZFVFNKTE9qYnpCZVdndzBtRW96Wi10clpUX0drYw?oc=5",
-      "pubDate": "Fri, 25 Sep 2026 15:59:52 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W39"
-    },
-    {
-      "title": "Senate Republicans increase ad buy, pour millions more into Texas to help Paxton against Talarico - KVUE",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbTVIaGJFVklzSm5hTUJWcmZ5UDRZQWVORktoMkhqcEplZmdJTmxiSTdQcmd6ZVM1N1VhY3NSUjcwVGZpM1FoVkd0Yk1aU1J6aFVIc2piMVhINmZHY3pTSV9rVGVTblNOUjBzRTQ0dXZmaFBTbFMxYkgzM1ZYeDVPTmdiUk1feTFYaElhMGRDZjVrSVIxWDl6MGtZekFZSDdYdDJBNDV2cHVsSERwTFF1aUZteTR4cVRIbVlCTUlwdG83TmpnbUVfSGZCaWpQYU90SW5kTm9mazNUb1JSNmJWNlFJVUJtUEZhVjd0WTQtZjV5c05nZlVhUVBVZzVfQQ?oc=5",
-      "pubDate": "Fri, 25 Sep 2026 22:38:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W39"
-    },
-    {
-      "title": "U.S. Senate Candidate James Talarico (D-TX) Speaks to Reporters at a Texas Gas Station - C-SPAN",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMTJvLUt3Q2V3SHJnMzlGLXJqVmlEaHdOT0t1Y04xbDRFdzQwSFVfbjdVdHFWUXE4bEE0YVBHWVY4dFdQV3l1eUxpekhIYXlGam56VXdsUUI4UklSb19IZGdHakdjN2R3Z05UeVNjZ29rSU00NEFkaGJhaEVLRFlFMWg4WjRRREFEWDE3Qm4tenozTGFPWGNQaXhBT3BvNzRXbFRVdDQ0ZktfSHZQRHVCdzkzdGNlMWh6U0dtcmItODFUWDd1VUV0Y1EwMGJOVlk?oc=5",
-      "pubDate": "Sat, 26 Sep 2026 15:44:59 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W39"
-    },
-    {
-      "title": "U.S. Senate Candidate James Talarico (D-TX) Holds Press Conference on Gas Prices - C-SPAN",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPanh6VTRKQVJVaWpzLW5qZjNSWmVpS0tpM1J4Q25WVlFGdU1xYXl3cGhaOHo1Qy1ZcmdLM2xnbXlFRXpURWktYnZzMlN0emdrNjFBeWcydHhMcXJ1eVZUUmF3cV8zWTdKcjdMWE5CbmF0bmF5NG1EUFVacUJvMjhDOVA5Rkk0YzZBT1IxaVJLdXdoWV9pRzEwR0FGTkxQZkp5QmFtdml4Yjc0V1ppQ2FIN2Z3YjUtRUd0VGs5MmZlRERBN1lpbzFr?oc=5",
-      "pubDate": "Sat, 26 Sep 2026 15:44:59 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W39"
-    },
-    {
-      "title": "Karl Rove says John Cornyn, not Paxton, could beat Talarico - The Texas Tribune",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVE9DNm9LUGVUek9wTG5CbnpGczFsQjBjQVQwM09pcGpVNjdtUjdlMzV6WmsyVHd1bV85ZlNXZUFVYTFVNzRlTi1MdlhuVkgzZ0djY0g2YjB2elRMSGxsbWozODg5YzJpS0N3c1p0S3A0eHd6dTB1bGZKbERCZWN1WHFn?oc=5",
-      "pubDate": "Sat, 26 Sep 2026 16:08:07 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 20,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "cornyn",
-        "john cornyn"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
       "weekKey": "2026-W39"
     }
   ],
