@@ -1,9 +1,29 @@
 {
-  "analyzedAt": "2026-10-04T21:50:35.581Z",
-  "newsFetchedAt": "2026-10-04T19:30:08.461Z",
+  "analyzedAt": "2026-10-05T00:35:36.789Z",
+  "newsFetchedAt": "2026-10-04T22:29:41.825Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Ken Paxton: Wife, children, net worth, allegations and controversies as he faces James Talarico in Texas Senate race | Hindustan Times - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQd0NOZjIxNkJxallMZE94RG1GV3FJN3RWenc3b1hyV2hHakd3M1FxYjZhTTJvaDhDNVZLYmxPdWNMWncweGZ5WlpFNDdfSnUzQXdpZkVpNm5RQzJTVGpTc0lZcFJQUUJfbjlNYWlndEptV3R1NTBXQVBiWXRFX0VadGlJSm5IbHBENDkyVE5mcGkyMks3V0dDNzg5U01lR3BqQ1M1M1d5NVlPT3VxNjBnNFpVUTNkSUdNNVgwZEJlVkFIOHRnM2VoakU2SnUySEgzSlo0MXROc2JTdDFnS3BQYlQ2WGJKX0VGX1liQmRXclV4OW9NUFZqSkU3VVM4NjVDTEVsMzVZd2c2VWhraTVfU9IBlgJBVV95cUxPckw2OVdJazJubkR1MjdBNTFsN1BiU2hTRUF6S29Oc1RTRy02NDg1eWFzdEJrbllQdFZsWm11QWRjTzQwWDNnRWE2NFpNaU1FVTQzeDBkcmVVMl9Yd1RJeDBPRWVURE1lTXBpM1VQcGxEd3Y1YkxYVUFIRnBHRE0zUkxyUVhDY19LWTBETWpCX1dIckVOQnJBemIxbUZ2MDdyck0zcTVRbEpjZVk3anJHeVV2c1p1RXA0aGkxQ1E5MDBSRTNuLVl4Ql8yeWp3TkRWOXAyMHc0SWFyNTJNa0FPM0pETlVpVEl0Rm10X0d2MTR0TUI2UXpxZUZDb3NRdG96ZEZ1dkw5b194S1QzTko3SmtITm1BZw?oc=5",
+      "pubDate": "Sun, 04 Oct 2026 20:10:06 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 38,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W40"
+    },
     {
       "title": "Texas State Sen Angela Paxton Voting for Estranged Husband Ken Paxton: Backing ‘Whole Team’ - breitbart.com",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY2kwbE9NZEJLVDJ6VGJqLVp4YWtaZU4xeG1jY0QzTjZIajJSa1E4VXJRM2Rac3JYUWlvV3VvaHhzS1hDOHpQcWlZWlpnTU5ENUJ2azlOaHJSM1A0UkVJVXphYnRtLTZsLTZOZzZUNzFmYTVqTWlTdXhPeTVJMWpITmdOdDdtdmpSd3NPV2FoUjRzNE1MZDhhc3B6anozbkhrM0E2cU1VNGNDRm1NZ3p6cWlJODlnMWVhSUR2LXFvSzBIbTJPUVdlUGZSbkpvMWRE0gHWAUFVX3lxTE91akZGeEFiM1JKMUtkNFJIWllGMi1WUEswNk05UmVRUXpVdUI0QWxaaTlLTG5RY3hoQldQOEdxQks0U2c4cG5iVTdKdEl6bGN1YnFIbjdRV2F3QWlVc2lfTTZFcG1TVjhHdW1fVXZvYm5ZdEpPbElDRWZtbnlGZTczRlllWEh1WDRLMTQ3T0hEMkNjWC1GckFfSjYzUVlRWnNSWW15ekVnbDBIYmFCS3F5clh1Mm14aS04d20tdEdFVFZ6ZGx0Vi1rVDdnWmVoakV6VXh3OVE?oc=5",
@@ -1621,21 +1641,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W39"
-    },
-    {
-      "title": "Thom Tillis Criticizes Donald Trump Support for Ken Paxton in Texas - SuaraGarut.ID",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BN25aVld1a1c0VTBfd3BBYTVvaFQzZlBKZXVhZXlOU0l2YWwzTmxTbFFtSkpLcmdvSnlBTzNwOFRkZlpXY1hOOXo4V21iY0NMUEh5NDJHdGtrQUxZMldjMWZIeWxYYUJQVDlOWXgtdnRoc0lk?oc=5",
-      "pubDate": "Sun, 27 Sep 2026 18:31:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
       "weekKey": "2026-W39"
     }
   ],
