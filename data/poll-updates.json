@@ -1,6 +1,38 @@
 {
   "updates": [
     {
+      "detectedAt": "2026-10-06T17:01:53.051Z",
+      "pollster": "Ragnar Research Partners (R)",
+      "date": "November 12-17, 2025",
+      "paxton": 44,
+      "talarico": 44,
+      "undecided": 12
+    },
+    {
+      "detectedAt": "2026-10-06T17:01:53.051Z",
+      "pollster": "Emerson College",
+      "date": "January 10-12, 2026",
+      "paxton": 46,
+      "talarico": 46,
+      "undecided": 9
+    },
+    {
+      "detectedAt": "2026-10-06T17:01:53.051Z",
+      "pollster": "Texas Southern University",
+      "date": "April 22 - May 6, 2026",
+      "paxton": 45,
+      "talarico": 45,
+      "undecided": 8
+    },
+    {
+      "detectedAt": "2026-10-06T17:01:53.050Z",
+      "pollster": "Stratus Intelligence (R)",
+      "date": "September 22-24, 2026",
+      "paxton": 48,
+      "talarico": 48,
+      "undecided": 4
+    },
+    {
       "detectedAt": "2026-10-06T10:57:25.236Z",
       "pollster": "Ragnar Research Partners (R)",
       "date": "November 12-17, 2025",
@@ -362,38 +394,6 @@
     },
     {
       "detectedAt": "2026-10-03T22:33:16.093Z",
-      "pollster": "Emerson College",
-      "date": "January 10-12, 2026",
-      "paxton": 46,
-      "talarico": 46,
-      "undecided": 9
-    },
-    {
-      "detectedAt": "2026-10-03T22:33:16.093Z",
-      "pollster": "Texas Southern University",
-      "date": "April 22 - May 6, 2026",
-      "paxton": 45,
-      "talarico": 45,
-      "undecided": 8
-    },
-    {
-      "detectedAt": "2026-10-03T22:33:16.092Z",
-      "pollster": "Stratus Intelligence (R)",
-      "date": "September 22-24, 2026",
-      "paxton": 48,
-      "talarico": 48,
-      "undecided": 4
-    },
-    {
-      "detectedAt": "2026-10-03T19:36:44.670Z",
-      "pollster": "Ragnar Research Partners (R)",
-      "date": "November 12-17, 2025",
-      "paxton": 44,
-      "talarico": 44,
-      "undecided": 12
-    },
-    {
-      "detectedAt": "2026-10-03T19:36:44.670Z",
       "pollster": "Emerson College",
       "date": "January 10-12, 2026",
       "paxton": 46,
