@@ -1,9 +1,44 @@
 {
-  "analyzedAt": "2026-10-06T02:26:10.513Z",
-  "newsFetchedAt": "2026-10-05T23:18:23.946Z",
+  "analyzedAt": "2026-10-06T09:17:03.339Z",
+  "newsFetchedAt": "2026-10-06T03:16:08.714Z",
   "totalAnalyzed": 100,
-  "newThisRun": 8,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Paxton raised $18M in 3rd quarter in tight Texas Senate race but Talarico still ahead in fundraising - Just The News",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd0FuWk1WMFRvQjRlNFNYR1RhR0tCYWpsd014ZzhCc2xxMUVBYmE1YUVnV3lSS0ZoTHppcHBYTGJnOXdMMUVZWDdVMnJFbkgweXNDYzBRdzZqTnBmWkxVMlp3TER4cnFkcGpBTjlLcThfWEI3R2dhUkxQdzJjSUp3TWZJQQ?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 19:19:41 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W40"
+    },
+    {
+      "title": "Ad by state Sen. Angela Paxton in the Texas Senate race splitting some Republicans - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd2h3dGFsWEdxdTNLLVVXUnVEekhKbnhRdVJ5TVlZWkpEc1NiVDNjZ0F3Y3ZVMUJvem5DNWY0MDA0MVZXVVVEdS1rdk9sSTlJei0xS3dWVlpBSXZiVVZoRjlhT0xuZjRfWExBTkZsN3dGSWdmZUpNNUE3dFFBZ21FQ2FOa0xDeVU3ZjBTc3Q3S0x6bXhBRVZQVTdSbGV0dkY3S0oyNw?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 00:46:02 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W40"
+    },
     {
       "title": "Cowboys legend Randy White backs Ken Paxton as Texas Senate race tightens - Yahoo",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObTYxdV93Z2h2QVZOM1hpQnk3ZjdzeGhlZFJBRUNSOWZmOWlncDJ6SzlIcVJTUDNnRWdwVmRPMkRkV0U0NkRXcE1PRzR2U2ZjVXhnQ2pMWVFfRmdHVVZpdTRIeTRjQWFzZ00tU2VYbmp2M19Ca3VIZEFpRXpTdHhRck44d3NWRjRJZ3hqN2FBZFJfSUlqcmRn?oc=5",
@@ -1614,44 +1649,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "paxton",
-      "weekKey": "2026-W39"
-    },
-    {
-      "title": "James Talarico Gains Momentum in Texas Senate Race Against Ken Paxton - SuaraGarut.ID",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTd0UzNHZXS1BOMzZCTTl4eUZCRWZ2bW40VUp4MHVfNEd6MTFHNE8wZUlESlRsUk5HYU1jcjF0OFY1d01TQVVrdTVOVHdSTlRPZWlFRUJNWmZGRHh3MjdpV0E4MFdJNFRFWGc?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 19:39:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 38,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W39"
-    },
-    {
-      "title": "New Kalshi 2K Sign Up Bonus for Texas Senate Race Predictions | Updated Talarico vs Paxton Polls &amp; Texas Senate Race Odds 2026 - Action Network",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVm42WEpBajNiU25OX0wyMklUOFpyaWdtVHFXV1NvNzhueDcwbHBtRWdkWjNwRzZ3cWJ3Ym01SlV6UTNyQkhsUmRpWU9Zd2RtUGxJWjN5RmJVeE1hM3Fjd3BPU3BFSXVzTEdVZTV6ZmNwaUkySmJGMVFNNWlIMklrdEdsUmtQMDZZVFhqaXlJQWlodXBYSDhldTJ6c1NsQi02WG1XaGQ4MjNlZXVTcXYzVHU0VDNXTDBFSVpvYzUyZmhuQzgxaXV5NDdaNjg5TmR6Y0ZQQ3JuelEwbjFFd2ZxYzc0aGRRdG5sYUdhOW5R?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 15:47:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
       "weekKey": "2026-W39"
     }
   ],
