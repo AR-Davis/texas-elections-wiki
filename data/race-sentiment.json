@@ -1,9 +1,59 @@
 {
-  "analyzedAt": "2026-10-06T16:10:35.081Z",
-  "newsFetchedAt": "2026-10-06T10:41:51.518Z",
+  "analyzedAt": "2026-10-06T21:08:50.478Z",
+  "newsFetchedAt": "2026-10-06T17:06:22.499Z",
   "totalAnalyzed": 100,
   "newThisRun": 3,
   "stories": [
+    {
+      "title": "Cowboys legend Randy White backs Ken Paxton as Texas Senate race tightens - Cleveland.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLU95dGFuZ1ZGY1I3WjZKaWp2bWphS1RPOXhFam14SS1wdld3VzEtb1dPTm42NVFKUldweVFpQTFhaWhKYWJrMHcyZEJfMEZpVlFnbTlaSWRJRmdNX2VYTDlOamRwMHVGX1dBN0FPN3VRa0FJMS1VZDJfbG9veFFGaHQtNDkzZWVubjdhV3RVeFVlTTNiRV9FTkdnRWY2ei1GWGNCLXZZcUMySDdORVc2MFpINjM?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 15:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W40"
+    },
+    {
+      "title": "Why Texas Republicans beamed Ken Paxton into living rooms across America - Chron",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN0lIUGhkWmduZk1DS3RwM2xsdFBtM2xoT0FyajJzc25WYmdLMUE0c3ZkLTJtY1c1SDROeE9faWhuVDdYUG1XN0dHR3NpSFRSay00MS1YTVNHZkg2OEdTNzJxRUNnek1ZQThiMWMzM1N4Q3VFRFd5T1phX1lpYXVFUzlLU3NpWjNWY0dZ?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 14:18:49 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas republican"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W40"
+    },
+    {
+      "title": "President Trump to rally Republicans in San Antonio amid tight senate race between Paxton and Talarico - kens5.com",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOU3F2dWdEUmZLcEpwT3gydWwwd0l2NGlCaFBBWnlkX1ZsSmRHU1d5TVFtZDY4Z0NlX1k3QVJ6bTJJZDNmSC1BSWcxTTBtemJvaWpBQlJpTE14ZGVLRm9iVVNWdF9oem5pNmNfVEtGWExGbFlhdkRob2RsLV9YRWV1c0RNektBUTZ3WWJlcV9VU01FWGFNNTBVOEllbUNlNkcyZ1FkWmwtblJsbk5XUWsxV3NUeUNlcjNBMXh3eEozMV96Y3ZlU2hKWmxIamVGQW9WV0hMNE1tMmc0YzdEQXNibmg0SF9IQ1FuWTcwTmVpS2ZRSWc?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 04:17:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W40"
+    },
     {
       "title": "Cowboys legend Randy White backs Ken Paxton as Texas Senate race tightens - Yahoo",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVGg1Q1hpRmtob0tscTVPODB2RjdiZTgtT1lEUjUxZk9OVzVubFlpX3daSU5ySzktR2VMSGlUTUZ3am1veHNVS2p3bUtQeTlrb3Nuc2N1NGgwS3BRY3RJZ29Xc3FkbmpLdjRBclE0SDc1cUdDVXFRQUQ5a0pkcUQwVVQxd3JxdU9aU3pIUFZnQm1sNHRDNmFr?oc=5",
@@ -1602,55 +1652,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "paxton",
-      "weekKey": "2026-W39"
-    },
-    {
-      "title": "Top Democrats Start to Fund James Talarico in Texas - Political Wire",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQME9mbVZQNlFwRllZT2IwVXJNaWZmUThKRzNoaEF5X09kZ3dNd1JEWlBtNFpiNU1Rc3dNdEM0aTdjMTN0QXR6N1FzNWNBUHRQOUtVNzF5NVNaNW52YV84eWJoejJUa3hxRDB4NnBZdjZHVldFQThDN0h5UVJueGM5RmxpeVVLLVFBeVZXWWV2OTZCWlU?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 10:39:40 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W39"
-    },
-    {
-      "title": "Libertarian Ted Brown launches 2026 Texas Senate bid against Paxton, Talarico - KTRE",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOekZ1TFhDOG56eTF2NEk2TTgzcEpCdEsweXVWNm1oemRKVFQ0UkZEUkF5MUxvQlJuVU5kVGgzZmt5SVlkQ2FmYXJfUm5qajVudVN3aEFWXzNSM2VUSW5PYXY5R2xmcTQ0Y3c1NXIzRGQwV3Utc1YzQzcySGhZQi1ZN212czRNY3QzSVdFN3B3aFEtbU1WbDJIR00wcGxEQXNZelpWNnc5c3FLWUloOUhkckk3aTZVdw?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 20:44:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W39"
-    },
-    {
-      "title": "Talarico, Paxton want to cut federal gas taxes as they court Hispanic voters in Texas Senate race - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVmpGcmRxaWVlSDJBS1dmTWxIY1BOSURvcG9NXzJJUnM1WDhzZ2hDSUQ2UHdaUDRkR0tyUmJyWEJ2cDFkamFtUHdxbXR5WkhmTjUzVGRfZ3pOQ2J1Vlplc3JXLUQwR3VnelRCY1JSSFh1NWFLZ0pjSndxRHNDQkYxYVZUNVNmTzgzOW10QlVHeVV5MzVQaVBHNnliQ3BPWExTYnFuQ2JVREdUVkdZQklkYVRYazhIQUtJODQ2TWpGdw?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 00:18:56 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
       "weekKey": "2026-W39"
     }
   ],
