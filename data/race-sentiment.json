@@ -1,9 +1,43 @@
 {
-  "analyzedAt": "2026-10-07T14:22:59.290Z",
-  "newsFetchedAt": "2026-10-07T07:38:52.234Z",
+  "analyzedAt": "2026-10-07T20:05:35.893Z",
+  "newsFetchedAt": "2026-10-07T15:24:28.695Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Chris Stirewalt says Texas Senate race is about Paxton, not a blue shift - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV0N1ZGx6TkZiUVc3X05OOVE2VEdpQVBlcVctOFEzSUlhWXJGbmtuMzJaZWt6VGlJY0RzQjl5LUtxTE5nT2dKWlI4YjNTWUZFaEVCeWVUcE91T21KNFJFZy1DZl9FSVFhYjF0cUpLbm9qdUp2SHpjZmJaVlpxdk4yTTBDU0N6ZzdEcV93TEdiN29lWHZhSHFDWW9lVVVNT3FGT1NQUEIxdV9QZkF2UFRKcDNZNVdHbTFTNWdVTlZRWTlRaEpRM1lfYzFXbWxjdV9aRDUtZUU1SFlFbXM?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 14:12:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W40"
+    },
+    {
+      "title": "Texas Attorney General Ken Paxton speaks to West Texas Republicans and voters at his Senate campaign stop in Lubbock, Texas on Sept. 19, 2026. - The Lufkin Daily News",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQWWQzTkFQSXJIOUNlaG5mazJEUkhxbG5qOFN6ckpLTVVfRXlwa28yWkdVaDNEd25BLXl6UHhfbElGS0lTN18yS0p3T091eUN2WUJMb3RfMWtvYkJBSUFucXBMMUFKMHRxaUlFQUlnRWNXbVRzN0pfYUtLTzVkU0FSekYyM200eWdBUUhuRHlMQUVObnJaYnN5R1poaUk3cmo3NzFQbUVNdW1Mdml3N2FfNkFJMzJ6bXZwZkZmTDhmN3B0TmdCQ3NDdWRqVWJUT1lYMHBZZkl4X0dYOXVlLURMek55bW9mY3pRR0duTHptREs4eGdJa0oxdU1QbWpBX2FJYUdTbWU1d2hPRk5aaWVWVnozdmRpZlZR?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 12:16:24 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "attorney general",
+        "texas republican"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W40"
+    },
     {
       "title": "James Talarico Texas Senate Race: List of Celebrity Donors and Endorsements - Newsweek",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMFdBWUkyM2xHM1U0TVR6eUU2bzlkS0lhOERfeE9MSlhicXNkWDREbWQyVGpPMTlDeUZnR1haSFQ3SGlPSjVXbnNRQUlRd2xZMGRCdFgwS0RKeVp4Q1IwT01uSEVyYUx3UVhoQjh3dXp3M2lZV19NaE5ZZm1sak9wbjJfNHdWWkM3a1VRQzNISldGR1ByaTdoeDJWM3otZ0lGR0NXS29ZUENqcURu?oc=5",
@@ -1621,38 +1655,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W39"
-    },
-    {
-      "title": "Fox News will host Texas Senate debate if Ken Paxton agrees to face off - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV3BjOWROazBIVmdVZ0c1NzJtdEN3dWduY0IyaEVLS1FJNTliSGVYdVdjMUcwclhtSDF1Y2NjZFduMk9Da3VBX2tpbW5na3FnZUxxcU1jbUFYLXhlQ05WRU5UOVo0dUs2MGtrMVktUW4zSGxUdU1fZ2M3MkVXMGZLS0dOVUZmcWFqZ2F6M1Y2M3NfTkVPZ1E?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 21:46:54 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 18,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "texas senate"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W39"
-    },
-    {
-      "title": "More Republicans warn nominating Ken Paxton was a ‘mistake’ and expect Texas Senate seat to be lost - EL PAÍS English",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdUZULVJSdkZwVDctTDgxNXktTzlRVE1MNTZ3bXloWW9FU3FkaEx4bGROWU5fMWRqVGhVYkt5clhGUDdFS0VvdnlweEZOR2w1czhzQk5aTjBJcDhqNzF0THF2MGZJNWdmajlua3ZBZllVcjRJX1RHN2Mwc2pEMVdzQlF1WnBDWjk4Y2xQQnJSTnJBMk14SEt1SXo5bmgzYXAtNUQ3MFo0VWhKbTRDNzJfUV93aWxzWDdoNnZKWjJvX3FpTVA4bXg1TE81X0NVN25GLThCd0d1Zk5sLXJu0gHwAUFVX3lxTE5oLXJnR1VZY2swRWRrWFVhUGVsZWp3UkpMYmtwcDVDTXBzeVZGbWhnSUVFU2EyZ3lQQS1pNFJueTg2Smt6aGRKRkF0Z0d4cHg4Y1lSVzY3a2EtaExnZzkwZjZpWEZ0NW5PajZTVm45SnNNbDB1bWRXampsVkVINVdXNTUwWENpYVJOaHdSM19sS2lEd2dtbmdSYzRPalU0dzJBNmw5YjYyUkphLS0weFM2X0lHdTQ5c2ZpLW5UWUtrR25LT3NTcUxGS3NfMnhBMTN1VzdHWWVwZ19hZkwxYlNTRFJGTHlRTFB4TUJHaE1HSA?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 10:43:32 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "texas senate"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
       "weekKey": "2026-W39"
     }
   ],
