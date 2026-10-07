@@ -1,9 +1,43 @@
 {
-  "analyzedAt": "2026-10-07T00:57:08.932Z",
-  "newsFetchedAt": "2026-10-06T21:50:38.253Z",
+  "analyzedAt": "2026-10-07T07:01:13.477Z",
+  "newsFetchedAt": "2026-10-07T01:20:28.753Z",
   "totalAnalyzed": 100,
-  "newThisRun": 7,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "James Talarico Leads in Texas Senate Race - Political Wire",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZVg0WmtLZmpha2s3cTJ6azdOdWNUdE1UYjRCT244SExTVGNzcmRVQllpQ003MTROQWtjR3RIb0xGSnNWdWVFUVBZejdRTlBCc0huVU9fQVF0OElMLXRJRDJ6a1RURFFTOF9UcFB0Z1pQMEtGR3J5cHBubTNsb3NCM1JlZlMxY3BL?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 20:58:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W40"
+    },
+    {
+      "title": "MAGA Inc. calls James Talarico 'weird' in Texas Senate ad - Knewz",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcXcwSG9ZVkVEU0VyV2lNRGFEejVaUlBhbWpKNXU1YlFQZFFydTdBMGV2dnNURDdyakJYTnI5Q3hMTUZqU0doSG13QnNpZlhZSEdkMkh6eTVxWG5GU1NwdWRQU091WHRUQmhHdThYQldENDJYN3RmNEpEVHBqYWlZcWJFZUMySENLMHZaT0ZraGZyN3dwLU1jc0tfT2YyUDY2amZJQUY0eG0zTEI1SXNhd2NR?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 18:12:48 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "talarico",
+      "weekKey": "2026-W40"
+    },
     {
       "title": "Cowboys legend Randy White backs Ken Paxton as Texas Senate race tightens - SILive.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeWVtVnNoMTV3Nlk5S1VreURlU1U0alI3X1EyejlEb3AxSWhvMUtrb19YRnRqNDV3b1Ntc01lYXUtQXJuZDNDMHZ1bEdPaDhOc2VzNXh0NThJQmpwQlI2NVllVnVYR2c3T3NaclRtMVlfNjhrMDNjcXUwT3ZXenJWYXh0X2p1MFRQMVRnT1pOclJON0c2dXVFVEotNTBGSGRZVGJtc0hKemxSUThSeHNGVDVjUQ?oc=5",
@@ -1617,38 +1651,6 @@
       "sentiment": null,
       "error": "HTTP 405",
       "candidate": "both",
-      "weekKey": "2026-W39"
-    },
-    {
-      "title": "Paxton and Talarico Tied at 48 Percent in Latest Poll for Texas Senate Seat - breitbart.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZVNwNm1TYUFYSzlQOWQyRFh4RzhMUGRwR0ZPRkJYd3ZzZm0waGJtZWxtbG02SEtGZ3FwZEptbFp5WmFDQ244dkdpWVBHZzBZT2t3U2d4VXJyZmJXTlEtajJGdFpwd0xNWWtCT3NJNVowTW9mLXlPT3R6OFlaTmdzSDcxamFBaFU1ZTRGdEZCY2I0Z0p0dEdUQ3JTZXZJN0pQdzNDOF9ZOTBVaXhKdGZvYzJLTk1vZ2VxT1Blc3pSNEpUbkoz0gHEAUFVX3lxTE9lU3A2bVNhQVhLOVA5ZDJEWHhHOExQZHBHRk9GQlh3dnNmbTBoYm1lbG1sbTZIS0ZncXBkSm1sWnlaYUNDbjh2R2lZUEdnMFlPa3dTZ3hVcnJmYldOUS1qMkZ0WnB3TE1Za0JPc0k1WjBNb2YteU9PdHo4WVpOZ3NINzFqYUFoVTVlNEZ0RkJjYjRnSnR0R1RDclNldkk3SlB3M0M4X1k5MFVpeEp0Zm9jMktOTW9nZXFPUGVzelI0SlRuSjM?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 19:41:20 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W39"
-    },
-    {
-      "title": "Texas GOP Senate Candidate Ken Paxton Calls for “America First” Immigration Policies - redriverradio.org",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNWxkZ0N2SGh2bmVhOHA5aG44TzNVMzFMa08wb0I4M2U2b1dMUGtGMlFYYW8wQmVURC1wdDM5TDljN3ZyNTJkbkxFWWFTWlJRVUgyaG5wdlpoZFVSejE4M2toNXh6c2lYNWZTM1lHSU9Id28wYWkwa2ozbnBFQ1RkZkZtNTRWMnptNUlkZFkxUml4VkkxMGVzdmU3ZUk0UHlhS1p1N1lDeWV2eVdPUjJPVWg4R0VPN1pVVFJDeGJiZjNGYzdFSG1NYmZhS1NCTnNwU2Zjag?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 18:49:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "texas gop"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
       "weekKey": "2026-W39"
     }
   ],
