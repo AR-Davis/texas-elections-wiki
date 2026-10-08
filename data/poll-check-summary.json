@@ -1,8 +1,15 @@
 {
-  "lastChecked": "2026-10-08T06:50:36.785Z",
-  "wikiPollCount": 6,
-  "newPollsDetected": 4,
+  "lastChecked": "2026-10-08T14:13:40.737Z",
+  "wikiPollCount": 7,
+  "newPollsDetected": 5,
   "latestPolls": [
+    {
+      "pollster": "UMass Lowell / YouGov",
+      "date": "September 18-28, 2026",
+      "paxton": 45,
+      "talarico": 45,
+      "undecided": 7
+    },
     {
       "pollster": "Stratus Intelligence (R)",
       "date": "September 22-24, 2026",
