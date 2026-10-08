@@ -1,6 +1,46 @@
 {
   "updates": [
     {
+      "detectedAt": "2026-10-08T20:22:13.606Z",
+      "pollster": "Ragnar Research Partners (R)",
+      "date": "November 12-17, 2025",
+      "paxton": 44,
+      "talarico": 44,
+      "undecided": 12
+    },
+    {
+      "detectedAt": "2026-10-08T20:22:13.606Z",
+      "pollster": "Emerson College",
+      "date": "January 10-12, 2026",
+      "paxton": 46,
+      "talarico": 46,
+      "undecided": 9
+    },
+    {
+      "detectedAt": "2026-10-08T20:22:13.606Z",
+      "pollster": "Texas Southern University",
+      "date": "April 22 - May 6, 2026",
+      "paxton": 45,
+      "talarico": 45,
+      "undecided": 8
+    },
+    {
+      "detectedAt": "2026-10-08T20:22:13.606Z",
+      "pollster": "Stratus Intelligence (R)",
+      "date": "September 22-24, 2026",
+      "paxton": 48,
+      "talarico": 48,
+      "undecided": 4
+    },
+    {
+      "detectedAt": "2026-10-08T20:22:13.606Z",
+      "pollster": "UMass Lowell / YouGov",
+      "date": "September 18-28, 2026",
+      "paxton": 45,
+      "talarico": 45,
+      "undecided": 7
+    },
+    {
       "detectedAt": "2026-10-08T14:13:40.737Z",
       "pollster": "Ragnar Research Partners (R)",
       "date": "November 12-17, 2025",
@@ -359,46 +399,6 @@
       "paxton": 48,
       "talarico": 48,
       "undecided": 4
-    },
-    {
-      "detectedAt": "2026-10-05T23:00:46.216Z",
-      "pollster": "Ragnar Research Partners (R)",
-      "date": "November 12-17, 2025",
-      "paxton": 44,
-      "talarico": 44,
-      "undecided": 12
-    },
-    {
-      "detectedAt": "2026-10-05T23:00:46.216Z",
-      "pollster": "Emerson College",
-      "date": "January 10-12, 2026",
-      "paxton": 46,
-      "talarico": 46,
-      "undecided": 9
-    },
-    {
-      "detectedAt": "2026-10-05T23:00:46.216Z",
-      "pollster": "Texas Southern University",
-      "date": "April 22 - May 6, 2026",
-      "paxton": 45,
-      "talarico": 45,
-      "undecided": 8
-    },
-    {
-      "detectedAt": "2026-10-05T23:00:46.216Z",
-      "pollster": "Stratus Intelligence (R)",
-      "date": "September 22-24, 2026",
-      "paxton": 48,
-      "talarico": 48,
-      "undecided": 4
-    },
-    {
-      "detectedAt": "2026-10-05T16:46:28.533Z",
-      "pollster": "Ragnar Research Partners (R)",
-      "date": "November 12-17, 2025",
-      "paxton": 44,
-      "talarico": 44,
-      "undecided": 12
     }
   ]
 }
