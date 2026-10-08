@@ -1,9 +1,91 @@
 {
-  "analyzedAt": "2026-10-08T13:54:49.236Z",
-  "newsFetchedAt": "2026-10-08T07:11:15.320Z",
+  "analyzedAt": "2026-10-08T19:44:25.628Z",
+  "newsFetchedAt": "2026-10-08T14:49:32.217Z",
   "totalAnalyzed": 100,
   "newThisRun": 5,
   "stories": [
+    {
+      "title": "Video Trump tries to boost Paxton in Texas Senate race - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1ckgwZDFCZmpLZVI4LWVuTC1nVDNNNk5URTBrQzgtMExXUzk0V2dpZ3E0UjVTNEJRN0xrOGJnNmpyMmlkSXRDeURVODQ?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 10:11:59 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W41"
+    },
+    {
+      "title": "Trump Backs Paxton In Texas Senate Race - NewsRadio 600 WMT",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSFNyQXNhaXBuNVJnbkZ0UVU1TFFYUTR5OThST3NHWXFsRnpNZ2VLSU40dmVObjNXd2RZcjd1NVN2bzBqTVRkRUFtUmVKazRFSWxvVUJJc3A5Mk0xVG1GQ3RHeGZBLTA5dTkzOVNfcHdXTlhhemIzUXhfdVRjeHBYTEtlaVI5UG5KeFNBSC1XNmNZeWpl?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 02:24:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W41"
+    },
+    {
+      "title": "Protesters Repeatedly Interrupt Trump at Rally for Texas GOP Senate Candidate Ken Paxton - Democracy Now!",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSlBSWmwzOUpmdUg0ckF1bHVQOXV6SHlBQzZCU2VkYmVzVC1DNVJiUldNSkYyYWo4MUM5b1JJakZpbDJFTDM3bVBhUEptSWgyVkRYUTBidTNlQ0RvTmkwZmhhNGVrUzdoRmtsYWhMSi00WXRPUnlWUzJ4bkMwQVpILWwzTzB5QTU1OXpRNVAwZDJNWnpIbGU4UHRJcU9pYVdHRXBsaXhMbGFxSDMzVzN0VUltWWlhOGc5NVpVR3hMNGtrZVdRbzRxVEwtcmcyRUktYm5B?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 13:51:57 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas gop"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "paxton",
+      "weekKey": "2026-W41"
+    },
+    {
+      "title": "Talarico earns major Texas newspaper backing over Paxton in US Senate race - El Paso Times",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUDFBeU9Zb1ZWZHppYTVZbndqOVlMbmhCbEJ2TW9sWGlEZVNWVU9NM0NmTllUcE1Oa0poTmFpSnFvVlBhbVJpX1R6emJ3S1lPNkVCNWlCWHpoeVFTc2s1aVBuekhXWk1FamFITVBjSWpLaXgzSUxjLXVkNVBHMHY1T1dPYnlZWW9KekFEdTZ4T2FrZlBrVkQ5NkZPTC1meDdjVUNRSzhwT1MybW1VSnllX1FwemlhalhVX2g3MUtydzhydDBZMEJaQnVXZW9nYXNLLURpTktKblRBcG54dXFaTUhXSVNlTnpMTTBfNG9mdnRmaE1XbjdBOVBn?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 13:15:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W41"
+    },
+    {
+      "title": "Texas poll: Paxton, Talarico tied in U.S. Senate race - UMass Lowell",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84a0dmWEZoMTJaMGVHdTkzd0VWTmxJRjVOUHNiaW45eVZiVXFackhWX3RheDl4QVF1b3VSMVF5Z3pKMUMzY3dMUlNqTmFoV3A4dzZVMC1MVGt3MkxuZ053VERjTGFBQnNCaS1HYlZHYm54dk9vNGpBbQ?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 13:15:05 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W41"
+    },
     {
       "title": "James Talarico Leads in Texas Senate Race - Political Wire",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNGQ5WlBpNnkyNDh2MVFkcEtqUXhUSjVjN013MndzZVpPdFNYVWdxcnFicU5UWWRIZEw1Q2gzVmdlQ05ldHNTSTZpUFhPVnlqdmxZYlMzbW0xWHpleWVqMU04R3YxNnFNcWZQWnVQOHJiX1BqM19wbFNpQXBHT19RaE9UaEtsWGg4?oc=5",
@@ -1550,95 +1632,6 @@
         "paxton",
         "ken paxton",
         "texas senate"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W40"
-    },
-    {
-      "title": "New Fox News poll shows Texas Senate race closer than expected - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVmY0OVF2WnBZOHg5LTFPQm1OWF9MY2MwT3FXajZaS1hYaFg4MFV3OVE3c1gzQUItYkdMaVJ2amtHZmp4NGJULTdLZFkyUUpZazdrcE5MVWhCNEJhRXFhZVNkT240bEM2SjJfLTliZlBoYnBsdHlYR1JyRm4yQUliRGkyR2xyUGZXZmxQN196MVlpTUlNN0pyM0w4ZHVHdDBaS29TZkp5eHowT2xHVUNXUTBZdlliWG5TMWhndG1SWnpvSjRtdy1XQ3RIU2xBbzR0bUs4?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 23:47:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "general",
-      "weekKey": "2026-W40"
-    },
-    {
-      "title": "Republicans pour money into tight Texas Senate race as Ken Paxton faces James Talarico - Heartlander News",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaE9HamJvWXVSOU9ITzY2UUdTOWdQa3pxWWNZck1JblluYlg5Tms5emwwQkNTMXN2ME9hQ0hON2Ixb0oxazdaVENSMzNNY3U5OUl2MnhLb1hQa0c4UDdXaTg3Ni1WSC1iNFN1dkU4QXZSdzQ4a0dwRUE3VzhpVU11MHNkcFRPaTNFYWgxMVFidkJTZW1DWmo1OXBlWGphMF9Rd1lKbEtmNlQ0OGhWZGlBcFlIRGhsQQ?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 20:22:22 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 38,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W39"
-    },
-    {
-      "title": "Use New Kalshi 2K Sign Up Bonus on Texas Senate Race Predictions | Talarico vs Paxton Polls &amp; Texas Senate Race Odds (October 2026 Update) - Action Network",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQWHFsdmFpdndZTXZZQlE0dHhlM3VfWUgwQnVWTUZYSmxqdFpVS2d5S3Jib3NFd2hxSDZYRzNpWjRNLWhLNng1cE9PemNpMUZpYWNFOWJQLVFtZ3E5WDVRMURUSjNlWVE3dE1TVEVqZ0VKQTFvaHBiNzVHd1IzTW1wME1pREZ3YUpJUFVteDRkVG4wN2VWTEF0OVBZbG51RGt6Uy1rR2dlNlhPV1ZLOFl4XzNDcmRJclYwdEtzTWFPWlVjelJCbkNJNUYxSG5UOUdja2ZLUXlmWGNwNHpmQXh4QWlXeDdiSGFrRXVQT2JWUlczRjY0dUpxNmlUaw?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 15:58:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W40"
-    },
-    {
-      "title": "Texas Senate Race Tightens as Talarico Holds Narrow Lead Over Paxton in Fresh Polling - ksstradio.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb29KOFkwczQweEdabEp5SHY5YWlvWVB6ZWtmNTNOazhfUlBtb19qVllfM2JneGo0QzN0MUdVS2NQWkU3ZmN0di1Bdy1aTEhVeGFwTkx5Qlc0N01RYUtfVnhwZXRvNHJDNzBFa3pOYlZZZW5rZ1BHTHpZSzA3ZV96WUx4WTVoM3J5TGwtNnFRSzhTQWVkLXh1MlV5MU1lNGJfT0dnZGhITGV1MWZmZ2VITjNDdlBfNnpWVE80bQ?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 13:28:50 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "both",
-      "weekKey": "2026-W40"
-    },
-    {
-      "title": "PAC spent $131 million in 17 days to rescue Paxton in Texas Senate race - Axios",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yNk9iSnRfRUN0TWtrUWZGR2k3SUExOXpubktwRzgxSzlxS1diQnJfOHp2eExmNHBxbXR4YzBfdzBTX1BqT0NTenRkWGZkdmkyVDRfRHc4bW5oWF8ybVNpbkdSM21vLVdmRU1sc0N0Z0t0U0daWVBOVg?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 16:02:57 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
       ],
       "sentiment": null,
       "error": "HTTP 405",
