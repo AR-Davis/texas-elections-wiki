@@ -1,56 +1,77 @@
 {
-  "lastChecked": "2026-10-09T14:12:05.751Z",
-  "wikiPollCount": 7,
-  "newPollsDetected": 5,
+  "lastChecked": "2026-10-09T17:25:46.628Z",
+  "wikiPollCount": 48,
+  "newPollsDetected": 0,
   "latestPolls": [
     {
-      "pollster": "UMass Lowell / YouGov",
-      "date": "September 18-28, 2026",
+      "pollster": "YouGov",
+      "date": "2026-10-05",
+      "paxton": 44,
+      "talarico": 50,
+      "undecided": 3
+    },
+    {
+      "pollster": "Rasmussen Reports",
+      "date": "2026-09-28",
       "paxton": 45,
+      "talarico": 46,
+      "undecided": 5
+    },
+    {
+      "pollster": "Beacon Research (D)/ Shaw & Co. Research (R)",
+      "date": "2026-09-24",
+      "paxton": 49,
+      "talarico": 51,
+      "undecided": 1
+    },
+    {
+      "pollster": "Pulse Decision Science (R)",
+      "date": "2026-09-24",
+      "paxton": 48,
       "talarico": 45,
-      "undecided": 7
+      "undecided": 4
+    },
+    {
+      "pollster": "Big Data Poll",
+      "date": "2026-09-24",
+      "paxton": 45,
+      "talarico": 47,
+      "undecided": 8
     },
     {
       "pollster": "Stratus Intelligence (R)",
-      "date": "September 22-24, 2026",
+      "date": "2026-09-22",
       "paxton": 48,
       "talarico": 48,
       "undecided": 4
     },
     {
-      "pollster": "New York Times / Siena University",
-      "date": "June 19-27, 2026",
-      "paxton": 47,
-      "talarico": 47,
-      "undecided": 6
+      "pollster": "New York Times/Siena University",
+      "date": "2026-09-21",
+      "paxton": 45,
+      "talarico": 51,
+      "undecided": 4
     },
     {
-      "pollster": "Texas A&M University /ReconMR/ Siena University",
-      "date": "June 1-4, 2026",
-      "paxton": 46,
-      "talarico": 46,
+      "pollster": "Guidant Polling & Strategy",
+      "date": "2026-09-20",
+      "paxton": 44,
+      "talarico": 47,
       "undecided": 5
     },
     {
-      "pollster": "Texas Southern University",
-      "date": "April 22 - May 6, 2026",
+      "pollster": "Texas Public Opinion Research (D)",
+      "date": "2026-09-19",
+      "paxton": 44,
+      "talarico": 49,
+      "undecided": 3
+    },
+    {
+      "pollster": "UMass Lowell/YouGov",
+      "date": "2026-09-18",
       "paxton": 45,
       "talarico": 45,
-      "undecided": 8
-    },
-    {
-      "pollster": "Emerson College",
-      "date": "January 10-12, 2026",
-      "paxton": 46,
-      "talarico": 46,
-      "undecided": 9
-    },
-    {
-      "pollster": "Ragnar Research Partners (R)",
-      "date": "November 12-17, 2025",
-      "paxton": 44,
-      "talarico": 44,
-      "undecided": 12
+      "undecided": 7
     }
   ]
 }

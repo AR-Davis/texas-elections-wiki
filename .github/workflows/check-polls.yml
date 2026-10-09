@@ -2,8 +2,10 @@ name: Check for New Polls
 
 on:
   schedule:
-    # Run every hour
-    - cron: '0 * * * *'
+    # Run every 30 minutes during the day (0600-2359 UTC) for faster updates during high traffic,
+    # hourly overnight (0000-0559 UTC).
+    - cron: '0,30 6-23 * * *'
+    - cron: '0 0-5 * * *'
   workflow_dispatch:
 
 jobs:
@@ -21,6 +23,9 @@ jobs:
         with:
           node-version: '20'
 
+      - name: Install dependencies
+        run: npm install node-html-parser
+
       - name: Check for new polls
         run: node scripts/check-polls.js
 
@@ -31,5 +36,5 @@ jobs:
           git stash
           git pull --rebase
           git stash pop || true
-          git add data/poll-updates.json data/poll-check-summary.json
-          git diff --cached --quiet || (git commit -m "chore(polls): check at $(date -u +%Y-%m-%dT%H:%M:%SZ)" && git push)
+          git add data/poll-updates.json data/poll-check-summary.json data/polls-2026.json
+          git diff --cached --quiet || (git commit -m "chore(polls): refresh polls-2026.json + check at $(date -u +%Y-%m-%dT%H:%M:%SZ)" && git push)

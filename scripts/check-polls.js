@@ -1,19 +1,21 @@
 #!/usr/bin/env node
 /**
- * Poll Detector
+ * Poll Detector + Rebuilder
  * Scrapes Wikipedia's 2026 Texas Senate election page for the general election
- * polling table (Talarico vs Paxton), extracts polls, and compares against
- * our existing data/polls-2026.json. Writes updated data + a changelog.
+ * polling table (Talarico vs Paxton), writes a changelog, a summary, and
+ * rebuilds data/polls-2026.json from the full table on every run.
  *
  * Run via cron: node scripts/check-polls.js
  */
 
 const fs = require('fs');
 const path = require('path');
+const { parse } = require('node-html-parser');
 
 const WIKI_URL = 'https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas';
 const POLLS_FILE = path.join(__dirname, '..', 'data', 'polls-2026.json');
 const CHANGES_FILE = path.join(__dirname, '..', 'data', 'poll-updates.json');
+const SUMMARY_FILE = path.join(__dirname, '..', 'data', 'poll-check-summary.json');
 
 async function fetchWikipedia() {
   try {
@@ -29,123 +31,153 @@ async function fetchWikipedia() {
   }
 }
 
-function extractPolls(html) {
-  // Find all wikitables that contain both Talarico and Paxton
-  const tableRegex = /<table[^>]*class="[^"]*wikitable[^"]*"[^>]*>([\s\S]*?)<\/table>/g;
-  const polls = [];
-  let tableMatch;
+function normalizeWs(s) {
+  return s.replace(/\s+/g, ' ').trim();
+}
 
-  while ((tableMatch = tableRegex.exec(html)) !== null) {
-    const tableHtml = tableMatch[1];
+function findGeneralElectionTable(html) {
+  const root = parse(html);
+  const tables = root.querySelectorAll('table');
+  for (const t of tables) {
+    const text = normalizeWs(t.textContent);
+    if (
+      text.includes('Poll source') &&
+      text.includes('Paxton (R)') &&
+      text.includes('Talarico (D)') &&
+      text.includes('Margin of error')
+    ) {
+      return t;
+    }
+  }
+  return null;
+}
 
-    // Must contain both candidate names to be a general election table
-    if (!tableHtml.includes('Talarico') || !tableHtml.includes('Paxton')) continue;
+function cleanPollster(s) {
+  return s.replace(/\[[^\]]*\]/g, '').replace(/\s+/g, ' ').trim();
+}
 
-    // Parse rows
-    const rowRegex = /<tr[^>]*>([\s\S]*?)<\/tr>/g;
-    let rowMatch;
-    let isHeaderRow = true;
+function parseDate(s) {
+  const months = {
+    January: 1, February: 2, March: 3, April: 4, May: 5, June: 6,
+    July: 7, August: 8, September: 9, October: 10, November: 11, December: 12
+  };
+  const yearMatch = s.match(/(20\d{2})/);
+  if (!yearMatch) return null;
+  const year = parseInt(yearMatch[1], 10);
+  const pairs = s.match(/([A-Za-z]+)\s+(\d{1,2})(?:-\d{1,2})?/g);
+  if (pairs && pairs.length) {
+    const last = pairs[pairs.length - 1];
+    const m = last.match(/([A-Za-z]+)\s+(\d{1,2})/);
+    if (m && months[m[1]]) {
+      return `${year}-${String(months[m[1]]).padStart(2, '0')}-${String(parseInt(m[2], 10)).padStart(2, '0')}`;
+    }
+  }
+  return `${year}-01-01`;
+}
 
-    while ((rowMatch = rowRegex.exec(tableHtml)) !== null) {
-      const rowHtml = rowMatch[1];
+function parseSample(s) {
+  const m = s.match(/([0-9,]+)\s*\((LV|RV|V|A)\)/);
+  if (m) return { size: parseInt(m[1].replace(/,/g, ''), 10), method: m[2] };
+  const m2 = s.match(/([0-9,]+)/);
+  if (m2) return { size: parseInt(m2[1].replace(/,/g, ''), 10), method: 'LV' };
+  return { size: null, method: 'LV' };
+}
 
-      // Skip header rows
-      if (rowHtml.includes('<th') && !rowHtml.includes('<td')) continue;
+function parseMoE(s) {
+  const m = s.match(/±\s*([0-9.]+)%/);
+  return m ? parseFloat(m[1]) : null;
+}
 
-      // Extract cells
-      const cellRegex = /<td[^>]*>([\s\S]*?)<\/td>/g;
-      const cells = [];
-      let cellMatch;
-      while ((cellMatch = cellRegex.exec(rowHtml)) !== null) {
-        let cellText = cellMatch[1]
-          .replace(/<[^>]+>/g, ' ')  // strip tags
-          .replace(/&amp;/g, '&')
-          .replace(/&#91;\s*\d+\s*&#93;/g, '') // strip reference numbers
-          .replace(/&#160;/g, ' ')
-          .replace(/\s+/g, ' ')
-          .trim();
-        cells.push(cellText);
-      }
+function parsePct(s) {
+  const t = s.replace(/</g, '').replace(/%/g, '').replace(/—/g, '').trim();
+  if (!t) return null;
+  const n = parseFloat(t);
+  return isNaN(n) ? null : n;
+}
 
-      if (cells.length < 5) continue;
+function inferSponsor(pollsterRaw) {
+  if (/YouGov Blue|Blue \(D\)|Public Opinion Research \(D\)|Beacon Research \(D\)|Impact Research \(D\)|Hart Research \(D\)|Blueprint Polling \(D\)|Public Policy Polling \(D\)/.test(pollsterRaw)) return 'Democratic';
+  if (/\(R\)|Stratus Intelligence|Trafalgar Group|SoCal Strategies|Quantus Insights|Ragnar Research Partners|Overton Insights|Guidant Polling|Pulse Decision Science/.test(pollsterRaw)) return 'Republican';
+  return 'Independent';
+}
 
-      // The general election table has columns:
-      // Poll source | Date(s) administered | Sample size | MoE | Paxton (R) | Talarico (D) | Other | Undecided
-      // We need to find which column is which by looking for the header
-
-      // Try to extract pollster name, date, paxton %, talarico %, undecided %
-      const pollster = cells[0] || '';
-      const dateStr = cells[1] || '';
-
-      // Look for percentage values in cells
-      const pcts = cells.map(c => {
-        const m = c.match(/^(\d{1,2}(?:\.\d)?)%$/);
-        return m ? parseFloat(m[1]) : null;
-      });
-
-      // Find the two largest percentage values that aren't undecided
-      // In a Talarico vs Paxton table, both candidates should be > 30%
-      const candidatePcts = pcts.filter(p => p !== null && p >= 30);
-
-      if (candidatePcts.length < 2) continue;
-
-      // Determine which is Talarico and which is Paxton by column position
-      // Paxton (R) typically comes before Talarico (D) in Wikipedia tables
-      // Find the first two cells with % >= 30
-      let paxtonIdx = -1, talaricoIdx = -1;
-      for (let i = 0; i < pcts.length; i++) {
-        if (pcts[i] !== null && pcts[i] >= 30) {
-          if (paxtonIdx === -1) {
-            paxtonIdx = i;
-          } else if (talaricoIdx === -1) {
-            talaricoIdx = i;
-            break;
-          }
-        }
-      }
-
-      if (paxtonIdx === -1 || talaricoIdx === -1) continue;
-
-      const paxton = pcts[paxtonIdx];
-      const talarico = pcts[talaricoIdx];
-
-      // Find undecided (usually the last % cell or one near 10)
-      const undecided = pcts.find(p => p !== null && p < 30) || 0;
-
-      // Skip if pollster is empty or it's a "May 26" event row
-      if (!pollster || pollster.match(/^(May|March|June|July|April|Primary|Runoff)/i)) continue;
-
-      // Normalize date — Wikipedia uses "June 23–28, 2026" format
-      const date = dateStr.replace(/–/g, '-').replace(/\s+/g, ' ').trim();
-
-      // Clean pollster name — strip Wikipedia reference numbers like [ 354 ]
-      const cleanPollster = pollster.replace(/\[\s*\d+\s*\]/g, '').replace(/\[\s*[A-Z]\s*\]/g, '').trim();
-
-      // Skip if pollster is empty or it's an event row
-      if (!cleanPollster || cleanPollster.match(/^(May|March|June|July|April|Primary|Runoff|November|December|October|September|January|February)/i)) continue;
-
-      // Create a unique ID from pollster + date
-      const pollId = `${cleanPollster.substring(0, 30)}|${date}`.toLowerCase().replace(/\s+/g, '_');
-
-      polls.push({
-        pollId,
-        pollster: cleanPollster.substring(0, 80),
-        date,
-        paxton,
-        talarico,
-        undecided,
-        source: 'wikipedia',
-      });
+function parseGeneralElectionTable(table) {
+  const rows = table.querySelectorAll('tr');
+  // Merge continuation rows (empty first cell)
+  const merged = [];
+  for (const tr of rows) {
+    const cells = tr.querySelectorAll('td, th').map(c => normalizeWs(c.textContent));
+    if (cells.length < 8) continue;
+    const first = cells[0].trim();
+    if (!first && cells[1] && (cells[1].toLowerCase().includes('primary') || cells[1].toLowerCase().includes('election'))) continue;
+    if (!first) {
+      if (merged.length) merged[merged.length - 1].push(cells);
+    } else {
+      merged.push([cells]);
     }
   }
 
+  const polls = [];
+  for (const group of merged) {
+    // Prefer LV over RV
+    let selected = group[0];
+    for (const r of group) {
+      if (r[2].includes('LV')) {
+        selected = r;
+        break;
+      }
+    }
+    const pollsterRaw = selected[0];
+    const pollster = cleanPollster(pollsterRaw);
+    const date = parseDate(selected[1]);
+    const sample = parseSample(selected[2]);
+    const moe = parseMoE(selected[3]);
+    const paxton = parsePct(selected[4]);
+    const talarico = parsePct(selected[5]);
+    const other = parsePct(selected[6]);
+    let undecided = parsePct(selected[7]);
+    if (undecided === null && other !== null) undecided = other;
+    if (talarico === null || paxton === null || date === null) continue;
+
+    polls.push({
+      pollster,
+      sponsor: inferSponsor(pollsterRaw),
+      date,
+      sampleSize: sample.size,
+      marginError: moe,
+      talarico,
+      paxton,
+      undecided: undecided !== null ? undecided : 0,
+      method: sample.method
+    });
+  }
+
+  polls.sort((a, b) => (a.date > b.date ? -1 : 1));
   return polls;
+}
+
+function buildPollsJson(polls) {
+  const n = polls.length;
+  const avgT = n ? Math.round((polls.reduce((s, p) => s + p.talarico, 0) / n) * 10) / 10 : 0;
+  const avgP = n ? Math.round((polls.reduce((s, p) => s + p.paxton, 0) / n) * 10) / 10 : 0;
+  const avgU = n ? Math.round((polls.reduce((s, p) => s + p.undecided, 0) / n) * 10) / 10 : 0;
+
+  return {
+    race: '2026 Texas U.S. Senate (Paxton vs Talarico)',
+    lastUpdated: new Date().toISOString().slice(0, 10),
+    source: 'Wikipedia: 2026 United States Senate election in Texas (General election polling)',
+    polls,
+    averages: {
+      talarico: avgT,
+      paxton: avgP,
+      undecided: avgU
+    }
+  };
 }
 
 function loadExistingPolls() {
   try {
-    const data = fs.readFileSync(POLLS_FILE, 'utf-8');
-    return JSON.parse(data);
+    return JSON.parse(fs.readFileSync(POLLS_FILE, 'utf-8'));
   } catch {
     return { polls: [], averages: {}, lastUpdated: '' };
   }
@@ -167,49 +199,25 @@ async function main() {
     process.exit(0);
   }
 
-  console.log('[polls] Extracting polls...');
-  const wikiPolls = extractPolls(html);
-  console.log(`[polls] Found ${wikiPolls.length} polls on Wikipedia`);
-
-  // Load our existing data
-  const existing = loadExistingPolls();
-
-  // Normalize dates to "YYYY-MM" + start day for fuzzy matching
-  // Our JSON uses "2026-06-23", Wikipedia uses "June 23-28, 2026"
-  function normalizeDate(dateStr) {
-    // Try ISO format first (our JSON)
-    let isoMatch = dateStr.match(/(\d{4})-(\d{2})-(\d{2})/);
-    if (isoMatch) return `${isoMatch[1]}-${isoMatch[2]}-${isoMatch[3]}`;
-
-    // Try "June 23-28, 2026" format (Wikipedia)
-    const months = {january:'01',february:'02',march:'03',april:'04',may:'05',june:'06',
-                    july:'07',august:'08',september:'09',october:'10',november:'11',december:'12'};
-    let wikiMatch = dateStr.toLowerCase().match(/(\w+)\s+(\d{1,2})(?:\s*[-–]\s*\d{1,2})?,?\s*(\d{4})/);
-    if (wikiMatch) {
-      const month = months[wikiMatch[1]] || '??';
-      const day = wikiMatch[2].padStart(2, '0');
-      const year = wikiMatch[3];
-      return `${year}-${month}-${day}`;
-    }
-    // Fallback: just use the raw string
-    return dateStr.toLowerCase().trim();
+  const table = findGeneralElectionTable(html);
+  if (!table) {
+    console.error('[polls] Could not find general election polling table');
+    process.exit(1);
   }
 
-  const existingDates = new Set(existing.polls.map(p => normalizeDate(p.date)));
+  console.log('[polls] Extracting polls...');
+  const wikiPolls = parseGeneralElectionTable(table);
+  console.log(`[polls] Found ${wikiPolls.length} polls on Wikipedia`);
 
-  // Find new polls (by date match)
-  const newPolls = wikiPolls.filter(p => {
-    const normDate = normalizeDate(p.date);
-    return !existingDates.has(normDate);
-  });
+  const existing = loadExistingPolls();
+  const existingDates = new Set(existing.polls.map(p => p.date));
+  const newPolls = wikiPolls.filter(p => !existingDates.has(p.date));
   console.log(`[polls] New polls detected: ${newPolls.length}`);
 
   if (newPolls.length > 0) {
     for (const poll of newPolls) {
       console.log(`[polls] NEW: ${poll.pollster} (${poll.date}) — Paxton ${poll.paxton}% Talarico ${poll.talarico}%`);
     }
-
-    // Update changelog
     const changes = loadExistingChanges();
     for (const poll of newPolls) {
       changes.updates.unshift({
@@ -221,17 +229,19 @@ async function main() {
         undecided: poll.undecided,
       });
     }
-    // Keep last 50 changes
     changes.updates = changes.updates.slice(0, 50);
-
-    // Write changelog
     fs.writeFileSync(CHANGES_FILE, JSON.stringify(changes, null, 2));
     console.log(`[polls] Wrote changelog to ${CHANGES_FILE}`);
   } else {
     console.log('[polls] No new polls since last check.');
   }
 
-  // Always update the fetchedAt timestamp
+  // Always rebuild the full polls JSON from the latest table
+  console.log('[polls] Rebuilding data/polls-2026.json...');
+  const data = buildPollsJson(wikiPolls);
+  fs.writeFileSync(POLLS_FILE, JSON.stringify(data, null, 2));
+  console.log(`[polls] Wrote ${data.polls.length} polls to ${POLLS_FILE}`);
+
   const output = {
     lastChecked: new Date().toISOString(),
     wikiPollCount: wikiPolls.length,
@@ -244,11 +254,8 @@ async function main() {
       undecided: p.undecided,
     })),
   };
-
-  // Write a summary file
-  const summaryFile = path.join(__dirname, '..', 'data', 'poll-check-summary.json');
-  fs.writeFileSync(summaryFile, JSON.stringify(output, null, 2));
-  console.log(`[polls] Summary written to ${summaryFile}`);
+  fs.writeFileSync(SUMMARY_FILE, JSON.stringify(output, null, 2));
+  console.log(`[polls] Summary written to ${SUMMARY_FILE}`);
 }
 
 main().catch(err => {
