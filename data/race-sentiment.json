@@ -1,9 +1,58 @@
 {
-  "analyzedAt": "2026-10-09T06:32:48.275Z",
-  "newsFetchedAt": "2026-10-09T01:06:00.057Z",
+  "analyzedAt": "2026-10-09T13:39:32.209Z",
+  "newsFetchedAt": "2026-10-09T07:54:15.972Z",
   "totalAnalyzed": 100,
-  "newThisRun": 5,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Ken Paxton Chides James Talarico Over 11-Day Absence From Campaign Trail Because of Flu - C-SPAN",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOajB2TDQ1VnltazNYOXJCbFhURDE1UEtSV2hEY3dobFAwcmtNV2o4cnhYNV81aDVScThDYURhLWJTN2ExTFBuSzV4VFV6cHVZbEVEeE5QNExraXN0UVRyUWdQdDBLUTQtQk84c2oyTlRCMGNNd25rNVBzVzVsNVBDVm0zczFvOE5vUUZqODZxT0lUM1pJWVNaUTVXN2ZzNVc4amxrVGdLVkQ5eDNmU0tYN1JKMGlVUVFRYi1kcmRHcFlMcFQwYzhPdTZUZ3BYQkNlMU9R?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 07:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W40"
+    },
+    {
+      "title": "As Paxton asks ‘Where’s James Talarico?’ Trump urges Senate debate - KXAN Austin",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQjMwcXlENUphWHdrei0tNUxoUzdGTm9lZ29rN1dKajliT29KSFFWNWpSM201S1paNGNDcWhUX1pCd0FLZUNBWDk1Y3pJOWxnRGZBY2ZJcEpsa3U5MERqS1Q4bnpQZTRmUVpZeUJSR3VialJSSEVtX0wwSXc4Wlh0bC1tdEF6cVc2WGxnemJ5dlU4dUhEbFZlZmpCUGhnUXVBNVh0d0xPUdIBrAFBVV95cUxNaTA3WlpDNndsTU9EeEhpSkJVamhFQWVCVTZvUTAtUVRCejRaTUN4Qzhtc2FlYkpfMEJlR242eHRBaHBpMzd4MHFYc21QdzhhWUQzaWpwTGMzZUNNQnNrSkdJQW0yd3k2Vlh2SWlodWM5dWVFSThRS1NiUTY5N244YllFUS1QMmdFTVMtVEYtaGRXRXBFT2JFY283RDZpdjZmQ2tqSkFqTmUxRTlk?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 22:41:12 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W41"
+    },
+    {
+      "title": "Ken Paxton touts ‘missing Talarico’ flyers across Texas - Washington Examiner",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ0JobVdBNjhoWTg1WmRITXRrdnZUSGtoUlpvc2tjOHk4TGUtUmhjcXROWWN4eFd4cVdPZU1ESWJsM2tlYlNEUmxnYTZhOXNRbzgxb1JJOUs5QXpOSFp6d1JWankzNHo3ZnlIZ2FuaHFSTm5RU09lRXRrTWFmb2E1SWtKNERCR1l1bFBwRWxUU09OOWxPTUlBd01Id21KTVdaajNNZkRobGFOcVN6VGRmdDNyejVJV1l1RGgwSjdyYkpqVVow?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 18:14:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "sentiment": null,
+      "error": "HTTP 405",
+      "candidate": "both",
+      "weekKey": "2026-W41"
+    },
     {
       "title": "President Trump calls for debate in tight Senate race between Ken Paxton, James Talarico - 12newsnow.com",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVnNnV2ZVa2tOcFNnemtNOTFNRjhoS001LXdTOVN0MlJHcU5ubG5UR0VFaXQzMk11d3B6em90ak1BS0twdWt4NG5mVGFGSnpVaE41ck1kM01vZTFSUUZQVTZDNC0wTU9YRFBHNHAtV2Q1ZlZBdnNYd3lqUVVZbElxc3pFdlF1V2QxRTRzckpLTGlPYTltVkhOS3dzWjY1amJHSzZpekl3NWhKYkFKM2kwd0RacXBhVTBPSVZyQWtVR0xzRnNCQ05RSFlmUnhwc00?oc=5",
@@ -1581,56 +1630,6 @@
       "title": "James Talarico Leads in Texas Senate Race - Political Wire",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORlQ2QV8xbEY0U0dGTFVtd1l4S2RHR2VuOW1sTUtkcS1Fa3RuSkNGQXlYZk9qVnIzNEIwa0pyUjdldGZyQXZlWTR5R1k1aXNFbjEzWmFSUlBrRUo4R3Fmal9aMTc1eXV0VFB2d1hiTnZXWXl4aDdXMDF5Ny1tRGhSTjFXd1Z0UQ?oc=5",
       "pubDate": "Sat, 03 Oct 2026 10:51:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "talarico",
-      "weekKey": "2026-W40"
-    },
-    {
-      "title": "Republicans pour over $7M a day into Ken Paxton's Texas Senate bid as stakes rise: Report - news.meaww.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbUdFQWhLbDI1LXg0ZU10cmYwZ2RRVU8wSUZjdXM5TTlIUjdVMTlsdUpnY0F3YnoyQV80bmhYUzJuM0xYR3VxTTFvV3RlUWZPcEZsX1hiRzcyenYzdUQwQjZrOEloZFBhaEx4WVVLNVQzd1ZxcFhVZUhjRm5kRnRWWTl1R0JQZzNwaFNCVUJ2SUV0bWU4NU94TzV5WHBZWWd6NHNjbmphcEJ5ZjZPMS1F?oc=5",
-      "pubDate": "Sat, 03 Oct 2026 05:46:54 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "texas senate"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W40"
-    },
-    {
-      "title": "What President Trump told WFAA about Ken Paxton | Inside Texas Politics: Oct. 4, 2026 - cbs19.tv",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNZGwzZy1QUVZmaGtPYUZfOXJEOHBid1ZYbDVLMnRySFU1dG1NcV8tOUxfeWhNNXlFZUpYRjB5SEd1MzVJWmZzR1M5Y1pOTU5jaFNDNDhZNHhqVXRsaWFPWmQ0Q1JBc2NrMFd6Y00yUUJ5bzRUWlcyZFlYTFQ1dnVWZFY0cm00Mk9nUEJ1WjVJYUlUaHlUQmRFaDlrbE9QSUZCTzQ2V2FuZUgyYkQ4UlozUExFdUd4SUtHSkMzR0JqTUhZVWtpeU1XbVBBYmdLV00yYVM4TmcwRkx6dzdPWGIwYVhkNmVZTWFnajltZGE0Q2EzSFYydmhRTE54SkpUNVdwUXZTSE90NHZXR3F5Q2Y4RmhpNFI2Zw?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 22:50:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "texas politics"
-      ],
-      "sentiment": null,
-      "error": "HTTP 405",
-      "candidate": "paxton",
-      "weekKey": "2026-W40"
-    },
-    {
-      "title": "'He pretends to eat meat at BBQ, excuse me!': Trump mocks James Talarico in fiery Texas Senate race - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNWEpneW13eUtkeTNrZTcwcGxlUjRIVWhfOGpQX3lITlJMdVRQZlZuMGVzX192U0NTYjgycjNKdkhyTFUxdTFPXzJDODF5dUtBNGVLd0piQ2xueHN2a24tMEdmdzhwTExUZHFRXzJmZUZId2ZXS0laTU5yT2Y2TnZpUjB5QWZoNFVVNldfNTJxdTZtWmNaZDlfS1VfZnJlWnFPOHZpTTF5OHlIWUNWZkNYbkRhWXZKVzQtZlQtZU1DZnp2TUI2NS0xV3lFZ2RVV3pLLTVxSmJ6Tm40TURyMUprMlZyeHpvZC1Id19EOUc1V3BETmR6aExoQWl3UVlWc1pod2R2NkVGUHBSakpfS085UlBBY9IBjAJBVV95cUxNazgzRnhWYUZ1ZWhqdjhaTk9pZ3p4SEdXdmRrZUhJcGtnVFVzMmRuLVlpbmRYSzFCX0dkMGhmYlBwWnZWZU5sSGVxTEdaclI2VW9yeEVmcTVNWVdRUFpOdXRYMHFyZEJpRm13QkpibnhaT0Z3R0lmNV9ubUxnT1VOalM3OVh1T0dUeEU0M3lSYUY1QnJGRlJpamdXUHJqbUtUenRKMGdmWWJoVFB6YkY3TkllX0taTmFhRHgtNlJOUzVJbURGdG5TWFRXTG1CbUlGNkk0SlRQaS1OazJsWndndklxZFdQVHNyR3p1dk4xWXZYc0RfejdINlpSRHctZTlCSk1wejk1akhKaExD?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 18:03:00 GMT",
       "feedSource": "google-news-race",
       "raceScore": 27,
       "matchedKeywords": [
