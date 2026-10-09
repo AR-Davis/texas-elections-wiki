@@ -15,6 +15,34 @@ const NEWS_FILE = path.join(__dirname, '..', 'data', 'race-news.json');
 const SENTIMENT_FILE = path.join(__dirname, '..', 'data', 'race-sentiment.json');
 const SENTIMENT_ENDPOINT = 'https://aaronrdavis.news/api/sentiment';
 
+// Simple lexicon-based fallback sentiment classifier (runs offline, no API key needed)
+const POSITIVE_WORDS = new Set([
+  'lead','leads','leading','wins','win','surge','gains','gaining','boost','boosts','advantage','edge','momentum','strong','strength','rally','rallies','support','supporters','endorse','endorses','endorsed','backs','popular','favor','favorable','optimistic','hope','confident','positive','upbeat','dominant','dominates','leads poll','poll lead','tied','even','competitive'
+]);
+const NEGATIVE_WORDS = new Set([
+  'lag','lags','losing','lose','loss','decline','drops','drop','fall','falls','falling','plunge','crisis','scandal','investigation','indicted','charges','charged','accused','allegations','controversy','controversial','ethics','lawsuit','lawsuits','attack','attacks','criticism','criticizes','slams','blasts','mock','mocks','mocked','jeered','booed','protest','protests','disrupt','interrupt','absence','missing','scandal','problem','problems','uphill','struggle','struggles','trouble','troubled','damage','damaging','hurt','hurting','weak','weakness','risk','risks','risky','concern','concerns','worry','worries','negative','unpopular','falter','falters'
+]);
+
+function localSentiment(text) {
+  const lower = text.toLowerCase();
+  // Split on non-word characters
+  const words = lower.split(/[^a-z0-9']+/).filter(Boolean);
+  let pos = 0;
+  let neg = 0;
+  for (const w of words) {
+    if (POSITIVE_WORDS.has(w)) pos++;
+    if (NEGATIVE_WORDS.has(w)) neg++;
+  }
+  const total = pos + neg;
+  if (total === 0) {
+    return { positive: 0.5, negative: 0.5, label: 'neutral', source: 'local-fallback' };
+  }
+  const p = pos / total;
+  const n = neg / total;
+  const label = p > n ? 'positive' : (n > p ? 'negative' : 'neutral');
+  return { positive: Math.round(p * 1000) / 1000, negative: Math.round(n * 1000) / 1000, label, source: 'local-fallback' };
+}
+
 function loadNews() {
   try {
     return JSON.parse(fs.readFileSync(NEWS_FILE, 'utf-8'));
@@ -31,7 +59,24 @@ function loadExistingSentiment() {
   }
 }
 
-async function analyzeStory(story) {
+async function analyzeStory(story, existingMap) {
+  // If we already have a valid sentiment record for this link, preserve it
+  const existing = existingMap.get(story.link);
+  if (existing && existing.sentiment) {
+    return {
+      title: story.title,
+      link: story.link,
+      pubDate: story.pubDate,
+      feedSource: story.feedSource,
+      raceScore: story.raceScore,
+      matchedKeywords: story.matchedKeywords,
+      candidate: determineCandidate(story),
+      weekKey: getWeekKey(story.pubDate),
+      sentiment: existing.sentiment,
+      preserved: true,
+    };
+  }
+
   try {
     // Use the headline + description for sentiment (not the full article)
     const text = `${story.title}. ${story.description || ''}`.trim();
@@ -53,14 +98,19 @@ async function analyzeStory(story) {
       feedSource: story.feedSource,
       raceScore: story.raceScore,
       matchedKeywords: story.matchedKeywords,
+      candidate: determineCandidate(story),
+      weekKey: getWeekKey(story.pubDate),
       sentiment: {
         positive: result.positive,
         negative: result.negative,
         label: result.label,
+        source: 'cloudflare-ai',
       },
     };
   } catch (err) {
-    console.error(`[sentiment] Failed: ${story.title.substring(0, 50)}... — ${err.message}`);
+    console.error(`[sentiment] API failed for: ${story.title.substring(0, 50)}... — ${err.message}; using local fallback.`);
+    const text = `${story.title}. ${story.description || ''}`.trim();
+    const fallback = localSentiment(text);
     return {
       title: story.title,
       link: story.link,
@@ -68,7 +118,9 @@ async function analyzeStory(story) {
       feedSource: story.feedSource,
       raceScore: story.raceScore,
       matchedKeywords: story.matchedKeywords,
-      sentiment: null,
+      candidate: determineCandidate(story),
+      weekKey: getWeekKey(story.pubDate),
+      sentiment: fallback,
       error: err.message,
     };
   }
@@ -124,13 +176,12 @@ async function main() {
   }
 
   // Analyze each story (with a small delay to avoid rate limits)
+  const existingMap = new Map(existing.stories.map(s => [s.link, s]));
   const analyzed = [];
   for (let i = 0; i < newStories.length; i++) {
     const story = newStories[i];
     console.log(`[sentiment] Analyzing ${i + 1}/${newStories.length}: ${story.title.substring(0, 60)}...`);
-    const result = await analyzeStory(story);
-    result.candidate = determineCandidate(story);
-    result.weekKey = getWeekKey(story.pubDate);
+    const result = await analyzeStory(story, existingMap);
     analyzed.push(result);
     
     // Small delay between requests

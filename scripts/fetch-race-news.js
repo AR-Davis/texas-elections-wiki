@@ -18,13 +18,13 @@ const FEEDS = [
   { name: 'usnews',    feed: 'apf-usnews' },
   { name: 'politics',  feed: 'apf-politics' },
   { name: 'business',  feed: 'apf-business' },
-  { name: 'health',    feed: 'apf-Health' },
+  { name: 'health',    feed: 'apf-health' },
 ];
 
 // Additional sources via direct RSS (not through our proxy)
 const EXTRA_FEEDS = [
   // Texas Tribune — Texas-focused political coverage
-  { name: 'texastribune', url: 'https://www.texastribune.org/feeds/news.xml' },
+  { name: 'texastribune', url: 'https://feeds.texastribune.org/feeds/main/' },
   // Google News search for "Talarico Paxton Texas Senate 2026"
   { name: 'google-news-race', url: 'https://news.google.com/rss/search?q=Talarico+OR+Paxton+Texas+Senate+2026+when:3d&hl=en-US&gl=US&ceid=US:en' },
   // Google News search for "Texas politics" (broader)
@@ -92,12 +92,17 @@ async function fetchFeed(feed) {
 
     // Our RSS endpoint returns JSON; external feeds return XML
     const contentType = res.headers.get('content-type') || '';
+    const bodyText = await res.text();
+    if (feed.feed && !contentType.includes('json') && bodyText.trim().startsWith('<')) {
+      console.error(`[race-news]   ${feed.name} endpoint returned HTML (likely Cloudflare/page error); skipping.`);
+      return [];
+    }
     if (contentType.includes('json') || feed.feed) {
-      const data = await res.json();
+      const data = JSON.parse(bodyText);
       return data.items || [];
     } else {
       // Parse XML RSS feed
-      const text = await res.text();
+      const text = bodyText;
       const items = [];
       // Simple regex RSS parser — no dependencies
       const itemRegex = /<item>([\s\S]*?)<\/item>/g;
