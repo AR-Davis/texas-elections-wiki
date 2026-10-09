@@ -1,9 +1,53 @@
 {
-  "analyzedAt": "2026-10-09T17:41:07.776Z",
-  "newsFetchedAt": "2026-10-09T17:36:49.789Z",
-  "totalAnalyzed": 24,
-  "newThisRun": 1,
+  "analyzedAt": "2026-10-09T19:21:23.005Z",
+  "newsFetchedAt": "2026-10-09T17:41:05.082Z",
+  "totalAnalyzed": 26,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Texas Senate Race: Republicans Attack James Talarico Over 12-Day Campaign Absence - Times Now",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVUlBVS1DZU0yU25NVm9jS3VlZ18xYXJCMG1TTVNjLUE2ekZ6WFZ4SC10WHV6a3NzdC1hYy1pcWpxVm53blg2bVotemhBUjRWcXMtT05NeWhuR0lJSTJrNkI3MVRtMTFWak16WUpxSVlnclhjTHc0eGlibXRLNHlDek5lZHdReWgwVnpvUUsxNHhsakprWGlQY0dHSVQ0SFVDMzRzUXVxcmRYX0FKTEhuRHlfU2pVckk0NVNtdHZVaVk1QzFJMUo1MjZaRW9CZzU5S1lBdExWb0JQeVQ10gHiAUFVX3lxTE9pNFUwMDN5Qm9uRk1laXhiRi1EM24tZDgyQUtYNEhKc180RkNhajB3cGhxZXdqMkVjOHpFbmcxNlp0QUVyaDJtVFc0QjRVZ0F3dS16LU1HeFVDMk05eWY5MVYwM1FWUUtxYllnZlJtb193Z2ZjSzRxR0xEdjhWVDRXN3ZTQVlKTDlVdDM4V2hsOF92YXZaYWt3Yzk0RExvb3h2ZUZRMTAydmxTZ3IzeGpUWks0TVVZNWZsZkY1ZFhiS3lPc2pBZURZNnY2VHlFR3NhN1ZRZC1DUDZZblBSUmVra1E?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 20:45:33 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "James Talarico’s 12-Day Absence From Texas Senate Campaign Trail Sparks GOP Attacks As Democrat Recovers From Flu - The Sunday Guardian",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOYXBBRW9oeDdlbWxqM0p4Z0RINUVVUFA4UWFFUFpOLUNNdDNSRXRwRVk0UV9FejhQNkp6SmxmSmM0MmU1bjYyUFVLeWpvQ2lOZFhRLW5QdFF5aXNMQXgtOEZpdWhIalU4LWh0OFhkUVZkUWoyMDRTaVBXcDVuMkNzSEhZWi1mRGhZT3FTWTVrTU9GWjRMNUx4VjdSN3FPQ2dDcFdoTEg0RW1OblJKSWRlRWhQS3J0Y3JEeC1qa1BxUzlJUjFjZTR0OFo4ZWl0MV9oMWVQd29UTXdzTDVUZ05UcHNCaHVjbXpwSVhKTWJoQmd2UzJ4LVBPTEUzZ295ekx6MjB1REhn?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 23:09:50 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
     {
       "title": "James Talarico’s Time Off the Campaign Trail Rattles Texas Senate Race - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTjZZZ0JzdzM5RmRXUnRoNDNBaG9GRk9aRzRZUE02X2NnNW5DWHJidXNuQURVcld3V29JWThtZ2tRNHdGUER5TUdOanpUZ0ZyM21uS1lsQ2NXU1BzWFFZdFdrME9SUFlFR1luaW1uanJRUlhDRl9FcU05M1lZR1A4ckMxLVE?oc=5",
@@ -536,8 +580,8 @@
     "2026-W41": {
       "talarico": {
         "positive": 0,
-        "negative": 1,
-        "total": 4
+        "negative": 3,
+        "total": 6
       },
       "both": {
         "positive": 1,
