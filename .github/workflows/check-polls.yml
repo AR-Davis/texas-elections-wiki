@@ -33,8 +33,14 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git stash
-          git pull --rebase
-          git stash pop || true
           git add data/poll-updates.json data/poll-check-summary.json data/polls-2026.json
-          git diff --cached --quiet || (git commit -m "chore(polls): refresh polls-2026.json + check at $(date -u +%Y-%m-%dT%H:%M:%SZ)" && git push)
+          git diff --cached --quiet && exit 0
+          git commit -m "chore(polls): refresh polls-2026.json + check at $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          # Robust push with rebase retry in case another workflow committed concurrently
+          for i in 1 2 3; do
+            git pull --rebase
+            git push && exit 0
+            sleep 3
+          done
+          echo "Failed to push after retries" >&2
+          exit 1
