@@ -1,9 +1,118 @@
 {
-  "analyzedAt": "2026-10-10T15:47:24.416Z",
-  "newsFetchedAt": "2026-10-10T12:56:48.186Z",
-  "totalAnalyzed": 42,
-  "newThisRun": 4,
+  "analyzedAt": "2026-10-10T19:54:03.319Z",
+  "newsFetchedAt": "2026-10-10T17:46:00.922Z",
+  "totalAnalyzed": 47,
+  "newThisRun": 5,
   "stories": [
+    {
+      "title": "How James Talarico promotes liberal Christianity in Texas Senate race - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT21zWjhlc2I1dmtXdWdwQmJRQkE4TWdiaGp1OWNzajZha0R1SHN6MUdUODVkYnJTMkRFOWY3NUpJc2hNSG9Jam9sSGZnZmEwc0xXMTlVejBhVXVKblF5OEpBZTVLZ0xTcjltYndxLWpQTHpNaGI0ZzdqX0FNR084emEtc3BRZVlWYmJpOXNfbGdKcHdkVlhtUkJUeWhVN01OMjA1R2ZvS0hpYmFUcldiVU05VlU1bUJUVmZfdWhn?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 11:01:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Talarico’s 12-day absence from trail becomes fodder for GOP in Texas Senate race - Houston Style Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOajliNjFXNUt3UGZvRzQ4RDBuYlRMLW9ES0s0LTNYd3I1WEpXb0tLbURmT0hkZW85OVI0di11cW1nbDRtTVVlT05ZLUJFRUlkY21OOW9NRnNRVmtYQmRCemNkOWZUWUtBYTFRUFB4cGlvSEZDNE5FcnoyeUZMdC1wM1J4LUFxbXJLb3ROaUhmRHB0bi1aT3dhOGctdnFtd2lCZHZKcnVJd2VPYlN0bUtTUmowQURvWTk4X3gtN25wZ18?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 18:00:08 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Ken Paxton rallies Texas voters as Senate race with Talarico tightens - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ1F4dGY5eGpsMTVqTHpWZDBQQnp3RnV1ampoVjg5dlhSZTRTalZ5NUxLY095Y3hjV0RxcV9TQTlVSHQ0cDVNWEhTNWFIWnl6b2pxZ0dQZDQ0NXFTSTRxMUpoRHRNTTRrVzFPV3ZhX2h2UWwwMWxTS2V6NjRCUV80TGN5ME5waDFSeFNNUE5KNWZRdHZ5emk4LWZ3S01SRXB2NVhLamVIX0wzdUxoLUpVVw?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 13:46:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 20,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "James Talarico returns to Texas Senate campaign trail after absence - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVlo1M1dGbmFyLVRTa2pQenR3V3N5VUdybHlSclpHdFpkWFpxbnEzSlliaFUzWVFZQ1lJRXNCMXk5V09XbmU0NUxvOVBNQ2RSdGhiODVDVlBaWXF5ZnNmeXlaa2JzUS1xRmk1ZmNPSnZFX21SRUw3Y3hDUkg4U3NHZnlMV0drUzhZZDJncTRiZng5NTVoRi1NRlNyS25ZYm1SbWhCOThZZmpVeXVraDd2RV9UUDRUZmdZY005LTJ0cXp6WlFRM2F1WlVScmpUeEprZ3dqRktDbmE?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 13:46:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Texas Senate Candidate James Talarico Is No Longer Missing - NewsRadio 740 KTRH",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU3JYaTY5OXZmRmVLM3NZeEl5eWU2RUMtY3F2TkNScHV0S1JNTjN5RVRrcFRpbmVVaDltd3pIaHVpYUs3LXZRNFY0WWVPSWtrQmRxUVR0aG1RczQtVXZkSHBOQS02Y290eWhNMW5tTTlEcl9BVWJnN29IYlR6VndzSmkta1h1dlJJdld5T1BjYy11aGx6LTEwUm9pWW5Kdjh4SFQwYV9sT3d2aENxakZaUWdyTXhXVk5GNnI5TkR4eVZqZDBBYlhJbE9R0gGsAUFVX3lxTE5aZ1BOcmdnTGtMTnA5cnhxa1AwWlhqOEV5NmszNTI3ak92ZVlVbXBmRDYzYURrSnV1dUJ6Z3lMcTVRZTRUelRqY1lLblUzTHdlZllXTVVJek9HTTh6SjVpdUJCVU5iRmJETzRITXlDb3hLUUluVzk3d3AtQXBJLW5CSXJIYmU0ek5qSnhiTFAyWVB0N2h1cVFhTGFXTTUwQU1vR2xpRWxSZkRWbGs?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 11:45:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
     {
       "title": "How James Talarico promotes liberal Christianity in Texas Senate race - Detroit Free Press",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZXdPYnBvRDVqS0VrWlNuSXpZUzc5R051QW4weWpBSmZMTE9GQnhRU09pbUJjWTR0bEJscU1qeHFIdUZESEdCMTI1eFB5X01aSkRvNnBfYW5qVTVzT1Q5aXBKSFZ6ZG44bW9KcVdsT1dyTVN3QmVhRVlqR0hOcU9ibE9ZVkhZNVRiNHNlTTJxUFJjZnVZczN3WU9fWnBGM1ZrdlFtQy03bTVmOGZqRDd5dXc1MVBLV3BvTFE?oc=5",
@@ -930,13 +1039,13 @@
     "2026-W41": {
       "talarico": {
         "positive": 1,
-        "negative": 5,
-        "total": 11
+        "negative": 8,
+        "total": 15
       },
       "both": {
-        "positive": 2,
+        "positive": 3,
         "negative": 3,
-        "total": 15
+        "total": 16
       },
       "paxton": {
         "positive": 1,
