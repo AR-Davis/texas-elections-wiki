@@ -1,9 +1,98 @@
 {
-  "analyzedAt": "2026-10-10T09:36:36.381Z",
-  "newsFetchedAt": "2026-10-10T06:16:30.173Z",
-  "totalAnalyzed": 38,
-  "newThisRun": 2,
+  "analyzedAt": "2026-10-10T15:47:24.416Z",
+  "newsFetchedAt": "2026-10-10T12:56:48.186Z",
+  "totalAnalyzed": 42,
+  "newThisRun": 4,
   "stories": [
+    {
+      "title": "How James Talarico promotes liberal Christianity in Texas Senate race - Detroit Free Press",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZXdPYnBvRDVqS0VrWlNuSXpZUzc5R051QW4weWpBSmZMTE9GQnhRU09pbUJjWTR0bEJscU1qeHFIdUZESEdCMTI1eFB5X01aSkRvNnBfYW5qVTVzT1Q5aXBKSFZ6ZG44bW9KcVdsT1dyTVN3QmVhRVlqR0hOcU9ibE9ZVkhZNVRiNHNlTTJxUFJjZnVZczN3WU9fWnBGM1ZrdlFtQy03bTVmOGZqRDd5dXc1MVBLV3BvTFE?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 11:01:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Ken Paxton James Talarico Texas Poll: New Survey Shows Dead Heat In Highly Contested US Senate Race - The Sunday Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPa0lMSDVQeV96R25hYlFkaFRJd053V0Q5c1A3dURuenVlQW5wNk9KX2tyczlQRmdWSzNxei1veEQxdnR6RHN0cGZzMElDaEFfblk1ZnRmTWpRd3IxQnJ4ZG1Zbi1GVk5lNVNuWHdOMzdNcTRTWE5fdDluZEhJemdQLUhWS2loXzg2eDlLVl9FaWVoNkNNZVNtcktHeWQtYTIwSWpzc3cxNFFYMHA2em51YnlpYUpEUXFhb1lDR0hhNmZYVmlzRTE4UTBfTGtyeGR0dkNSSjFLaVZiTUXSAeABQVVfeXFMUEJlOWJ3Wk83emZmSXBFWXNCRlRHd0VLXy03WnI4b3hYTUdGdU1uRS0wNURFVFJCdkstc3h1ZWx4b2k2aFV3aEljUDlEUTlKbWVlWmIxNktVT3hvRWZVOGc2Q1Y1ak9yU0xFbE5EZjNFVmM3N29BNlJzTExNR0dsdUdjS2kzdmJocDNqTkNoLVRyM2ZpenBKZzZjTmI2Tm1KMmpYRFppalFoTDFhR3F5eUVpSWthaEFZX0I0aUg0RjFteWo2a3NLTjhTRHM4ZThmSTZqOWplMHN6STJoNm5hQmE?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 00:36:51 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "What Ken Paxton Alleges About John Cornyn in Leaked Audio - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVi1nTU5NYTJCZklBVDlEWmZ6UXJudDFEOHp4cUxfU1kxVDY3dzRGa1FCSHQ3bVAwUUNqNVBWOU5JZGpMQjNWUmxHZ0Y3S2V4YllWbTZRZWNhejAybER3YjZpMnh5WlZBMlk2WE1Db0drUUh2TFZ2emEyRjVNWGw2UjVFSllOSlBJQ3ZR?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 10:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 20,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "cornyn",
+        "john cornyn"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "'We'll never forgive you': Trump acknowledges Democratic gains in Texas Senate race - WTOV",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxORm5oUmFxRDc1NVVSUzhsZDZnSDNETkptbG9pNzJGN2hKa29WQkZOQko3dVkyWTlSRWlzZDB2b0ltdDJ4UXlHOFBjaTdlbEFLamlkcEFYZ2JjOEtqUTl6MFRvYTduZmM5UjlpWFV5T1JqLVZpbWFneWVzNWxISmttSzJmQ0hfVDlmTVpnLTg5S2xJSG05SUFIc1o3QWVCSnRvRnFqNmplRW5PU3ZGWEN4bWZYYXpIVGZUeVJ6M2lKTWM3cWtZalh6cHpodFRydWl4ZmgzU2tkYTR2bWZsWHNCU3FRTklfbm9VN0tYVlFXMV9sZ3pwN2l2RV8tN1BBVGllTzIzNEJIZGpVMkZHdWNwX0pKRkpubzk4?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 18:20:18 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
     {
       "title": "Where is James Talarico? Ken Paxton says Democrat is MIA - Washington Times",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUFZzZE1oOGkzUVBHMWs1akdaa2taSEdGa0xIVjF0NzFpVTlWN292bk5sMjV2NmxXZE1OeGtVemowaUJUVGItbnNCeTdjaXhWTVgyVzlPUXN0MGV6MlB6YW1seG1ZZ2tGRUp2WTBvRC1aOG5NWEpGYk9HV253dUV3aFZ2SnhLWlEzSVVLcWFUS1RHVnk5S1JB?oc=5",
@@ -839,25 +928,25 @@
   ],
   "weekly": {
     "2026-W41": {
-      "both": {
-        "positive": 2,
-        "negative": 3,
-        "total": 14
-      },
-      "general": {
-        "positive": 3,
-        "negative": 0,
-        "total": 5
-      },
       "talarico": {
         "positive": 1,
         "negative": 5,
-        "total": 10
+        "total": 11
+      },
+      "both": {
+        "positive": 2,
+        "negative": 3,
+        "total": 15
       },
       "paxton": {
         "positive": 1,
         "negative": 0,
-        "total": 4
+        "total": 5
+      },
+      "general": {
+        "positive": 4,
+        "negative": 0,
+        "total": 6
       }
     },
     "2026-W40": {
