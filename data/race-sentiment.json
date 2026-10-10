@@ -1,9 +1,117 @@
 {
-  "analyzedAt": "2026-10-09T23:25:28.533Z",
-  "newsFetchedAt": "2026-10-09T20:16:39.156Z",
-  "totalAnalyzed": 31,
+  "analyzedAt": "2026-10-10T02:36:16.544Z",
+  "newsFetchedAt": "2026-10-10T00:15:41.754Z",
+  "totalAnalyzed": 36,
   "newThisRun": 5,
   "stories": [
+    {
+      "title": "Willie Nelson endorses Democrat James Talarico in Texas Senate race - Washington Times",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYXFUdEhvYi1PUnRvNFQ4cTVjTEtRVlo3WkZDVTlOLURPMXJoTzZtWHlCYXRPWEVqVDRnZnVKdXJ0UFBPQS03Q3lTZkF3SzMwZ0lFVEdRei1lWEdMdC1wMDlPRlBacldHQ2hkYUFlaWJ0Z0Z5dnM2M21xN0RIWWtONVRVMFZ5NGV4VjBPZS1hQWpoWTVNSEktRHlSUHB3OXNKbzgyTGRLek0zVWItWXFlMzZSUQ?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 15:14:19 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "James Talarico returns to campaign trail at ACL festival after illness spurred GOP calls for “proof of life”",
+      "link": "https://feeds.texastribune.org/link/16799/17493121/james-talarico-returns-to-campaign-trail-flu-austin-city-limits-senate",
+      "pubDate": "Fri, 09 Oct 2026 21:46:54 +0000",
+      "feedSource": "texastribune",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Texas Senate nominee James Talarico reappears after multi-day absence - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUXotNHRNM09hY3N1ZEJ6TWZYSmhURzVaa0R4eDRBMzluTGt0X08xbmxtMDFKek0zTUFVMWdHbkZDZmpMa3pBbThucHRWbjhCV3ZsMGRHeUNpVHpJZ05GZWVKM2dxOGM4Smd1dTh4QUdUZEc1ZWZsSS14UThNcXg3TEdsbHFaVDg4OHRMNkJPb1RrWkxtMXVLTC1keDFkMHNrZWVjWlRROURFc1Y1ZFNoYlg5bHFOeWFGWkdMT1JBRkUySUZpekE?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 00:08:01 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "What happened to James Talarico? Texas Senate hopeful returns to campaign trail after lengthy absence | Hindustan Times - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOV3BJUlJDSjNWdlhSdTZzekNWME9GWkdRSnRkVzZuMTgzaUNzS3RBZm9DNHFxVWFGcnBtZ1BaSUI2b3NhcDRtQUZCSzh4M3JyLUlDOWFzX1ZIWXJ4RVdDRXhwTWV2OEE0WTJia1lKRy1oc3RSdnQ0RzkzVkZjMXZuRkRSTTE3VXJvSjYwdlVJZHQ0VDBFekdpa2dFRHBtZFVkcDNvcmhFd2pPQzhrNDNkN3JvR0F2anV6TW5ORmJYNTEzcloydExHcnRkSEsxTGV6WUlrVUlPYzVkYy1ZVGJ0a3lSYmg2dk51MXJFLVdwUVdvbVFQVGZhWFlyRHo3cHp40gGGAkFVX3lxTE03bzEyQklocW5JSHkxa0NoTzFKbEo5MjdQTG4tcEJrNUY5NGhzUklpWk9jZ2RyTlRjZW9Lb3pjaWtCd0FVRE0yMDFWRHg3MFpiTENGZGh0a1Q2UDlYTW96aWdRSFMwUlhDU2RkRGtnTDU1NXBmSnk5WTVHQ0xnRzA0MUxINXFtblZ1MGZnUUF1WVNXRVBSVXdrR1NwVXVGd1Rhb2t1WFV3VzdzaVRhc1R6LWdQa1o0dWNteGttb3dMcWdTR29fMUY2QjZKMjJWYTkwNld4cnpVYmgyc21vRGhGYlk2dE5oM1VDNXpSMFYwOTU4bFQtSXdraUZJRTFfRFRJSFZvM1E?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 23:46:33 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "As Paxton asks ‘Where’s James Talarico?’ Trump urges Senate debate - KTSM 9 News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWXNGNzRiaF93VGhnUEVFSWRxRVdyOWhBczZqOUJIeVBXRWZxODNzU282STJJeWt0RXY5YmpOR052MkU3LVFTMFdid2tXV3RLNk1FakRBT2tXZ1pXSC1lZmMycDVNT1paMWdLTUNRUU5uUURjS3RYb1dyOVFVOHduVXduV25kaVh2T25fNU5MSFpjUU54OWJqRlR6YzhfZE5OOHRjRDdUSi1WXzlWMVRWOXpwRkNCQdIBrAFBVV95cUxNbkVmcDYxZkY5V0pwNUJQam5qNnhVUUlqWmNySVB5R05USGZ2RkJmc3VfbGVHbGFSMTNUTno1NXp2R0dwUGNQWElNVlZTWGQ5SjVmSGdTWTFvM1Iyc3VnVDJWZFl4NDdNQlY0TlljY1NMX21MZ0F6NHQwV094WnV5eGJmOTlHemN2MGN6aGViRk81eDZJYlhjaUtiVjJ1OFBiZ2ljYWt1d1RxQm5v?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 00:42:23 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
     {
       "title": "Talarico and Paxton Tied in Texas Senate Race - Political Wire",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNclhmaGRjZkVOMkRGRnBmZXBEOWtKa2NyMWJSTHBETU1nbmVQdC0wdkRZSjI4eFlUSG9HVlBxXzJLZTdpTm9EQ293Q29hdkpxcjlXajdBUkJYWnlfWm5HbmtiazdOYTdhcEZ0Wkczcmc4LUJ1WGtmLUFnSEVWbXRMSm8xT00zWkV0VnpB?oc=5",
@@ -688,10 +796,15 @@
   ],
   "weekly": {
     "2026-W41": {
+      "talarico": {
+        "positive": 1,
+        "negative": 5,
+        "total": 10
+      },
       "both": {
         "positive": 2,
         "negative": 3,
-        "total": 12
+        "total": 13
       },
       "paxton": {
         "positive": 1,
@@ -702,11 +815,6 @@
         "positive": 2,
         "negative": 0,
         "total": 4
-      },
-      "talarico": {
-        "positive": 0,
-        "negative": 3,
-        "total": 6
       }
     },
     "2026-W40": {
