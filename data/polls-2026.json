@@ -4,6 +4,17 @@
   "source": "Wikipedia: 2026 United States Senate election in Texas (General election polling)",
   "polls": [
     {
+      "pollster": "Trafalgar Group (R)",
+      "sponsor": "Republican",
+      "date": "2026-10-06",
+      "sampleSize": 1086,
+      "marginError": 2.9,
+      "talarico": 47,
+      "paxton": 44,
+      "undecided": 8,
+      "method": "LV"
+    },
+    {
       "pollster": "YouGov",
       "sponsor": "Independent",
       "date": "2026-10-05",
@@ -535,6 +546,6 @@
   "averages": {
     "talarico": 46.6,
     "paxton": 44.5,
-    "undecided": 6.7
+    "undecided": 6.8
   }
 }

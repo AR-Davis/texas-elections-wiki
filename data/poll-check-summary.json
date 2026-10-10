@@ -1,8 +1,15 @@
 {
-  "lastChecked": "2026-10-10T11:26:43.800Z",
-  "wikiPollCount": 48,
-  "newPollsDetected": 0,
+  "lastChecked": "2026-10-10T16:18:08.110Z",
+  "wikiPollCount": 49,
+  "newPollsDetected": 1,
   "latestPolls": [
+    {
+      "pollster": "Trafalgar Group (R)",
+      "date": "2026-10-06",
+      "paxton": 44,
+      "talarico": 47,
+      "undecided": 8
+    },
     {
       "pollster": "YouGov",
       "date": "2026-10-05",
@@ -65,13 +72,6 @@
       "paxton": 44,
       "talarico": 49,
       "undecided": 3
-    },
-    {
-      "pollster": "UMass Lowell/YouGov",
-      "date": "2026-09-18",
-      "paxton": 45,
-      "talarico": 45,
-      "undecided": 7
     }
   ]
 }
