@@ -1,9 +1,52 @@
 {
-  "analyzedAt": "2026-10-10T02:36:16.544Z",
-  "newsFetchedAt": "2026-10-10T00:15:41.754Z",
-  "totalAnalyzed": 36,
-  "newThisRun": 5,
+  "analyzedAt": "2026-10-10T09:36:36.381Z",
+  "newsFetchedAt": "2026-10-10T06:16:30.173Z",
+  "totalAnalyzed": 38,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Where is James Talarico? Ken Paxton says Democrat is MIA - Washington Times",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUFZzZE1oOGkzUVBHMWs1akdaa2taSEdGa0xIVjF0NzFpVTlWN292bk5sMjV2NmxXZE1OeGtVemowaUJUVGItbnNCeTdjaXhWTVgyVzlPUXN0MGV6MlB6YW1seG1ZZ2tGRUp2WTBvRC1aOG5NWEpGYk9HV253dUV3aFZ2SnhLWlEzSVVLcWFUS1RHVnk5S1JB?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 14:31:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "'We'll never forgive you': Trump acknowledges Democratic gains in Texas Senate race - WOAI",
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPU2ZaRFE2RlFIYURUaFlKU1dJQVUtUW9uTEc2SWQwMzBXTjZfSUNRZDdpZHJ1VVdkV0xnaTgyZnZvX2N5NEtUb1RQUDY3MHpjcVF6UEk3M1V4OUlsRjFoRGFKdXQta1ZLNjFsaVZ2YjF6aldBVDd2dEZFclktTVA2dFBRdVVoV1dTMlRXNVpMclg5bERNR3I0UWlocUpPVkNDdFRQQjNyaHhEZndDZnNZRnZEZDBkTUwxMkVVS19DbXpuREI2ZWstcE5ZQlFFYkFXdlRJS2JzZXJ2UTJQNzA3cUlVZ3BaQXpscGh0bzVwVzgtR2piZ01tTGE1ZjdJZ3BjVWdlSUZ3TFNTNGZTQ0tmNGlmdEM5d0dZdXVvYkotblRPZEg1LWc?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 18:19:04 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
     {
       "title": "Willie Nelson endorses Democrat James Talarico in Texas Senate race - Washington Times",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYXFUdEhvYi1PUnRvNFQ4cTVjTEtRVlo3WkZDVTlOLURPMXJoTzZtWHlCYXRPWEVqVDRnZnVKdXJ0UFBPQS03Q3lTZkF3SzMwZ0lFVEdRei1lWEdMdC1wMDlPRlBacldHQ2hkYUFlaWJ0Z0Z5dnM2M21xN0RIWWtONVRVMFZ5NGV4VjBPZS1hQWpoWTVNSEktRHlSUHB3OXNKbzgyTGRLek0zVWItWXFlMzZSUQ?oc=5",
@@ -796,23 +839,23 @@
   ],
   "weekly": {
     "2026-W41": {
+      "both": {
+        "positive": 2,
+        "negative": 3,
+        "total": 14
+      },
+      "general": {
+        "positive": 3,
+        "negative": 0,
+        "total": 5
+      },
       "talarico": {
         "positive": 1,
         "negative": 5,
         "total": 10
       },
-      "both": {
-        "positive": 2,
-        "negative": 3,
-        "total": 13
-      },
       "paxton": {
         "positive": 1,
-        "negative": 0,
-        "total": 4
-      },
-      "general": {
-        "positive": 2,
         "negative": 0,
         "total": 4
       }
