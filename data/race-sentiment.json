@@ -1,9 +1,72 @@
 {
-  "analyzedAt": "2026-10-11T15:53:42.985Z",
-  "newsFetchedAt": "2026-10-11T13:20:54.970Z",
-  "totalAnalyzed": 58,
-  "newThisRun": 1,
+  "analyzedAt": "2026-10-11T20:04:16.871Z",
+  "newsFetchedAt": "2026-10-11T18:22:19.505Z",
+  "totalAnalyzed": 61,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Texas senate candidate James Talarico resurfaces at famous music festival after mysterious 13-day absence - Daily Mail",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS0FacjFSamx0MFB0c3RhdmliSzBaS0dKX2hZdzlvamprcElFamJzQkFVM3MxTHQ1YUR3SGhKeHJyV0J0ZVFzRU5Qc3U1Zk9LMHlyUk9SMFMxOVpyMTF1MUl1QWRydGw2UDJydl9UMVVWS0lEVUswT0RORW1VaWtoNGxHeXdQOTZHaTV2blZoa29sR0RWS3AyR0VR0gGfAUFVX3lxTFBERUx3aDFtczU5clhjRDIyZ3NYb2Nha2VrVl9iSHRtVzVKcnNwcVZrUVo4NFZMRDg4Tk5jbFFnU2EwdjlUYWF1MjN6RkI5d0hxQ1ZtR2xQR09ib0drV1VEWmg3SHFpRmVpYlZ2ckJmQkpCQlZwOG85ZWNCcjZYWmRLeVZOVWl1RU90VFNlbU1kd08wNWFxSnU1R0U5SEpnSQ?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 18:05:23 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Video: Willie Nelson Endorses Democrat James Talarico for Texas Senate - Breitbart News",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY2pvWTd0VU5jTGQxYmJWdjg5NEZHZzhidlBEOWQ5aDRlS2ZXTEtOamV2Q01KS21kdTNMTmF4S1B0WWx4bHZMRFRWWjNPQkpQYUpfUjBrUDAxdEhpV0lQdzkxSV82dUFWeEVPSXRjWkhWa3BPR0VwaEVOa3dCLXZlbFhsVDRRblJaWGxBQUNjRDdQTjhaRkgwbDYxQWpTUzcwYnF0WEw1ZmlTQWR6enVKRUZ1T1M4Wm1hbUtpbUNn0gHDAUFVX3lxTE9QbWg5QUdkaUNfbXJfaXg5b0VfQ0Nqd190aTdXc0FFZTdCbTEzenFFaFkyYzd1OUpYalZGeXlVNENnT3Z6ZGJSQWhONFV1OXlGU0poSEpMY2JqOGxrQ05TSEw3UGU4WFNKeUFmSEVjeGlDNm9OUzQwWHk3QUprSzBHaHJTYmtXMEx0QVZMdFJXRXEzc3lwSG1LTXFRU2hWQ2VLbGMxQnk4ZkpieVVtSzg5ZjBCLUpaTXFZbWJwa0ZiX2twZw?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 03:19:26 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Trump Notes Talarico's Absence from Texas US Senate Race, Praises Paxton - NewsRadio 740 KTRH",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOellyeDIzN21BWFRURmxicE4zMDVsV25JcUtZeE1IbmRablFFQkhXc3RQQ1BheW12NXdoM1Q5dGprZ1B6LXFURk1VZUVXYVR0U0tuNTdkN1ZPbEdxTkxVMXlvbDBuU0pkZVVpZlpxYU04Yld6MzBDVzZvbEd4Q1p6dmpqcmE3TktUc2RlQmNpN0pvejJQTnNCU2ZYa05LVWVmcDNhRGNOckxLcmswdjhXVnVmalVRVlpWNTBjYmRtWEdjd0ZyczhMc3JPX3UxbmtqOWxkUXJOREhSd9IBvAFBVV95cUxON3RyN002SUFqcDdGdzB2N0FMeUlYeVduODBUYzUxLWZDSzBEX3ZQb2NSQlM1UXBEaWt6dnU0SC1DdGcwUzR4UEhVVUZaVUJKTDFnQ0V3U3o2SXN3RC1kREhucktGWmJreV94UHhYVWR6d2pmUjJab2xZQjFJTjB2YlpCS25wOXd3MTZuRHduOHZ5b2V1NTh5RVRaNHVMZlJ2OHZOTlZ4N3pUR0FrMVkzMDRqMlRFVjJ4Z3E3aA?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 23:18:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
     {
       "title": "As Ken Paxton attacks James Talarico on faith, his church remains a mystery - Houston Chronicle",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZTJUTmZLY2NyRUpUSG1DdHpGTXllUHF6TEdPUmp3am1VM0YtMGpxNHdZaVQ3Y25Oa3IyNUZMVXVMZ094ZDd2QzFwYmZxLTAxS1FpYW1xWDhFOGdnaGhsdzdPbGoxU2tpTFRLVk1KVmV2d1dWVVEzYUFhWkozaEZTWmNiZnNHS0dmanYtM2g4M2JTekdJZWVrZnd3?oc=5",
@@ -1280,15 +1343,15 @@
   ],
   "weekly": {
     "2026-W41": {
+      "talarico": {
+        "positive": 4,
+        "negative": 10,
+        "total": 24
+      },
       "both": {
         "positive": 4,
-        "negative": 5,
-        "total": 20
-      },
-      "talarico": {
-        "positive": 3,
-        "negative": 9,
-        "total": 22
+        "negative": 6,
+        "total": 21
       },
       "paxton": {
         "positive": 1,
