@@ -1,9 +1,76 @@
 {
-  "analyzedAt": "2026-10-11T02:05:19.863Z",
-  "newsFetchedAt": "2026-10-11T00:23:35.950Z",
-  "totalAnalyzed": 54,
-  "newThisRun": 4,
+  "analyzedAt": "2026-10-11T09:12:01.034Z",
+  "newsFetchedAt": "2026-10-11T06:16:18.496Z",
+  "totalAnalyzed": 57,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "\"He’s a good man\": Willie Nelson endorses Democrat James Talarico in highly competitive Texas Senate race - primetimer.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOd0U2Q2xIalhuNmJfMVE2X0lrNjBrNktNc0NMQ0R1VFc3SERiUURKcTlmS1lIRXVCaWNRZHVEYW9ZWDJtOXpqamdxWko0RVdhMW9CZVJvbW52TnExYWhiVThUWFRVR1diWUxhM0R1SFlYZkZFSXB4UFIwOGFEYWhpVzJRNlJxVkxHeVZQUlFfNlZ1dTlMcHVuRWNxVzlzVHZTcXc2Z1FtVWw4MXNQVmp0cUEzYVlFNDhDUklmSUxkLXB5ampkb185S3IxRmhtMU0?oc=5",
+      "pubDate": "Sun, 11 Oct 2026 01:45:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Talarico ‘Really Sick’ As 12-Day Disappearance Shakes Up Texas Senate Race - The Daily Wire",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZHNIdXBIa3J1YzZVUGJlOXJKVzh1VXdmbTNQeVJYLW45Q0hEM3FuVGZ5bVdGampLbVVSMWhNNGNxMHg4WE5MbFEwem00UGlUVU1XdG00S1NRcndwZmJHZDNNS1lWU01iLXRiY3FkY3phOXktOHdQMjdIcmFka0VneXJLTGZHOHVRNzhEUUc2MGd0ZGNTSlA3MXVsYUV4WmJIMERfekJ3?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 15:16:11 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Ken Paxton rallies Texas voters as Senate race with Talarico tightens - Detroit Free Press",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZmJ0WXJsZ3ZEaGdRWThaUVZPMU9wTmRqNlFoRzRvanRyYWpMSXN5MnRRel94M2hUeWZrUkdzckRwdDItdzdjaTF0YWw1Y05LaUlzX1VGbUY5ZGxQZFIxYUM2dGkwOWF2YXNabV9iVENMUWM4QUdQUC1GVG56eVhpOGFNa19HeUdldTh0UEE0WkNTWFhxY2FWWG1pejhSTGZMV0pNX083cWJtSEJI?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 13:46:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 20,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
     {
       "title": "Where Is James Talarico? What His Disappearing Act Means for Pivotal Texas Senate Race - The Daily Wire",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uMUZaWVlXbThoUkY3NkpzcWI0UVdFcnZMTENNS0l4NlFMdnBqVEc1U1N3RnBOLXBGWGxpM2JSN1g5NzhXYlU0VUpDUFAxb0VUX2k2RFFnSTY?oc=5",
@@ -1192,14 +1259,14 @@
   "weekly": {
     "2026-W41": {
       "talarico": {
-        "positive": 2,
+        "positive": 3,
         "negative": 9,
-        "total": 20
+        "total": 22
       },
       "both": {
-        "positive": 3,
+        "positive": 4,
         "negative": 4,
-        "total": 18
+        "total": 19
       },
       "paxton": {
         "positive": 1,
