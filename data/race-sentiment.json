@@ -1,9 +1,31 @@
 {
-  "analyzedAt": "2026-10-11T09:12:01.034Z",
-  "newsFetchedAt": "2026-10-11T06:16:18.496Z",
-  "totalAnalyzed": 57,
-  "newThisRun": 3,
+  "analyzedAt": "2026-10-11T15:53:42.985Z",
+  "newsFetchedAt": "2026-10-11T13:20:54.970Z",
+  "totalAnalyzed": 58,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "As Ken Paxton attacks James Talarico on faith, his church remains a mystery - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZTJUTmZLY2NyRUpUSG1DdHpGTXllUHF6TEdPUmp3am1VM0YtMGpxNHdZaVQ3Y25Oa3IyNUZMVXVMZ094ZDd2QzFwYmZxLTAxS1FpYW1xWDhFOGdnaGhsdzdPbGoxU2tpTFRLVk1KVmV2d1dWVVEzYUFhWkozaEZTWmNiZnNHS0dmanYtM2g4M2JTekdJZWVrZnd3?oc=5",
+      "pubDate": "Sun, 11 Oct 2026 09:06:56 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
     {
       "title": "\"He’s a good man\": Willie Nelson endorses Democrat James Talarico in highly competitive Texas Senate race - primetimer.com",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOd0U2Q2xIalhuNmJfMVE2X0lrNjBrNktNc0NMQ0R1VFc3SERiUURKcTlmS1lIRXVCaWNRZHVEYW9ZWDJtOXpqamdxWko0RVdhMW9CZVJvbW52TnExYWhiVThUWFRVR1diWUxhM0R1SFlYZkZFSXB4UFIwOGFEYWhpVzJRNlJxVkxHeVZQUlFfNlZ1dTlMcHVuRWNxVzlzVHZTcXc2Z1FtVWw4MXNQVmp0cUEzYVlFNDhDUklmSUxkLXB5ampkb185S3IxRmhtMU0?oc=5",
@@ -1258,15 +1280,15 @@
   ],
   "weekly": {
     "2026-W41": {
+      "both": {
+        "positive": 4,
+        "negative": 5,
+        "total": 20
+      },
       "talarico": {
         "positive": 3,
         "negative": 9,
         "total": 22
-      },
-      "both": {
-        "positive": 4,
-        "negative": 4,
-        "total": 19
       },
       "paxton": {
         "positive": 1,
