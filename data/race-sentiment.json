@@ -1,9 +1,98 @@
 {
-  "analyzedAt": "2026-10-10T23:21:20.322Z",
-  "newsFetchedAt": "2026-10-10T21:26:00.924Z",
-  "totalAnalyzed": 50,
-  "newThisRun": 3,
+  "analyzedAt": "2026-10-11T02:05:19.863Z",
+  "newsFetchedAt": "2026-10-11T00:23:35.950Z",
+  "totalAnalyzed": 54,
+  "newThisRun": 4,
   "stories": [
+    {
+      "title": "Where Is James Talarico? What His Disappearing Act Means for Pivotal Texas Senate Race - The Daily Wire",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uMUZaWVlXbThoUkY3NkpzcWI0UVdFcnZMTENNS0l4NlFMdnBqVEc1U1N3RnBOLXBGWGxpM2JSN1g5NzhXYlU0VUpDUFAxb0VUX2k2RFFnSTY?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 16:00:25 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Willie Nelson Endorses James Talarico in Texas Senate Race - Rolling Stone",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSFEwdXVMbEdtNExaang5QmpDdmNfdDZqZkNWSXotZkJ1VlU4d3BoM3VmbE1xNDJSNmx0aDVpMnVoRFVYTnJodTUxVkFFTHdfLVJzNlpkdEFYc2U1MjI1a2JLWHdaZlVQcnd5YXZQTzVIUFdEWndsYjlFa2ZoRkR5QThVeWJ5aTg5MG1jWm5KSThwSlo0RzFlMWlmVWNUWjQ?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 18:50:37 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "James Talarico Edges Out Ken Paxton in Poll as He Returns to Campaign Trail - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQT1dLZE5Sc0huTTFoUXRaUmphdmhxaWZ1eEIta1FHcXNocU1kdlU1OTJhemRpU1Zla1N2WjBFR25QdHVzcHVYWjUyWlF1aV93emRvV0RPN1lUVTdNYlVaNUlnaTF6eXNudWJyYVlNUmIwZWtja0xCTTdtbzhMU1lTRThSRFpWY0tZQVRxdVA3T0c0akpJaWJwSnNpc2gwb0xBZTFEOE1uZkRBdlczOEE?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 22:28:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Democrats Panic as Star James Talarico Vanishes from Texas Senate Campaign Trail - The Daily Beast",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb2ZYcHIteGdFWkFJdWl5dkliRzlxQ0dGQXdKR2ZXZGFxWi1KMll5QWpWejFpQy0zbUdCZ0o4d2ltY1hzX0dnQVkzQThQRTlpeEVibzVsQXl6b3MxaEQ2VDhnQzlmWHZzTllDMjNrUXEweTk3QmM0MXJCQ2w2THl2UGpZOVlmM092SUpjY0tQTVFpTUI4SFZjMVVhVE0wSDkwWVozUWlNN1VTV3VLQUhV?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 01:12:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
     {
       "title": "Ken Paxton’s Campaign Demands James Talarico Show ‘Proof of Life’ After 12-Day Absence - Breitbart",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeHFyRHpON2d4eXl5WU5KS3hpLUVxcS1qTkZQazNIUy05VkV3ckEtb201T1VlcHFOV0J5dE1DZ1JGZHBEa2xWcjladGpfYmpWX0RWYkxYbWU5a0ZhbGFiOEstQmd2RERJc1Y1VmxyUEJ2aDlBY21iX1pUay05OTlzemh4ZUZ4YVhOTzRxWFF3X1N3NGNTZXlEQVRvQ0NFNTJkQnFvMlZFWFZtY3ZqQkNEVFVpdFUxSE9GVnVodzRR0gHDAUFVX3lxTFBzS1ZtVUhQRFd5aEt4YVlkczBBVU1CQld3UTQ2bVZSWjB5emFXRVMxX2tPQkxLN2QyUjZaQVJwS0F3Nkh1SnJLdDM3Q1lGdHR6UnloS3JlcnRReHctMExhZExuVFZwelZCQjlMdXFUbzBCQm4tUWx3dUZIUUlyMVRIZlEwYTRPSmNWM29XNzhwVVA0bmRnNFlEaGE1VkdsbGRwSlo5WFNGaVp6ZGc1TDdJYmhfcUhuV3lZYlR1bExFWjNuVQ?oc=5",
@@ -1102,15 +1191,15 @@
   ],
   "weekly": {
     "2026-W41": {
+      "talarico": {
+        "positive": 2,
+        "negative": 9,
+        "total": 20
+      },
       "both": {
         "positive": 3,
         "negative": 4,
-        "total": 17
-      },
-      "talarico": {
-        "positive": 1,
-        "negative": 9,
-        "total": 17
+        "total": 18
       },
       "paxton": {
         "positive": 1,
