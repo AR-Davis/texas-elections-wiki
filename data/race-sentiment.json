@@ -1,9 +1,92 @@
 {
-  "analyzedAt": "2026-10-12T05:16:39.183Z",
-  "newsFetchedAt": "2026-10-12T01:37:50.223Z",
-  "totalAnalyzed": 69,
-  "newThisRun": 5,
+  "analyzedAt": "2026-10-12T13:25:54.234Z",
+  "newsFetchedAt": "2026-10-12T08:55:58.433Z",
+  "totalAnalyzed": 73,
+  "newThisRun": 4,
   "stories": [
+    {
+      "title": "Texas Senate Candidate James Talarico Debunks Mental Health Conspiracy Theory Following Flu Absence - streamlinefeed.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWGZ6Q0Vpam9Dc3BuOXhfWlZSX0pmZEV4Qnc2NEVoYkoydFZCT1ZSQ2NsYXJsT2ZPV2h2SVZ3X2VycG1rLVZSQ3FVdlA4eWtMT3JFb0FBaU4wRUZtb3VFc2tZWW41Q0VzQVNBQW0ycWJCSXFUU1UwTnJRLXRvWGVTQm5fcmk3ODlPOE5CUWFQTkd1V2p2a2YySXZlSlZCeUtCUXZBa08wWjFzSjBJ?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 05:27:57 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "What We Know About A Claim That A Recording Proves Texas Senate Candidate James Talarico Was Treated At Ohio Mental Health Facility - Lead Stories",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaVc3al9tLXVNUmZXNEFYanBYN0NEam5SNEF2ZW8zWS1OeVVteWxXNUtUV0JVU0czMmV6OWlSRW5EN2x6c2NoWDB6c1RhbEhFU2pHTDJ3T3QtQW00ZEdKZEhySnBhNVN2TlNLQS0zYW5NUzlXVVptUkNVMlVnYUo5REpLYzMwalFIejZyZ0lmUzhTY0N2ZFZSZE1mVF81TWVURVpVNUVUUHBYcGVBenpBbEdDOE9jcV84UVc1bFAxUUtyS1c2eHdfdmJMU09ZZG9HamhBaDNYZjhtU25OMFZ3cGpMSU5ad1E0RVI4Qlc5RDRhT1R3MHc?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 03:12:11 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Willie Nelson Endorses James Talarico for Texas Senate in Close Race - AOL.ca",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb1FicFlHX2xFRWNBeHVGdng2b0h6LUJYUEFKd01DamJKYXJVbm5RMENIMGFsWjJVdzQ4cl9wSWdSdDRmVkdPQm1qNXoxQkZMYTFka2FhUEQ5QnRTTjNOZlp6ODkwUUlobE1hb0U3U0ppRjJIeUt1OEV0c3dMQVEzanRzMUgxXzg?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 20:08:25 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Election Dispatches: James Talarico Returns to Campaign Trail in Texas After Absence Raised Questions - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPc2NOTmVTTjdyM092d2VoNnRrWlNnQjlMQUVlYXJqUE9FWWg0TmNhaFZPZ3o4NVZMSmI0Mk0wRnVHYWc4VVNqcGlPcWhaU2w0TFJGNmdZeXhfamNnN3RvLTllNXYwekUzc1ROVGVR?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 08:09:32 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
     {
       "title": "Bad blood spills over in the Texas Senate race — and it’s tearing Republicans apart - NBC News",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZmFmbUdOZ3lTQXlFSE9md0hOdFlNaHdPRXlVTDJmWXlTN19zX1FCNlVFSzB2QTJ1V2hPMS1kWGl3SjlaWTFqMi1tTlExNi13T0tibGhPWS1Fc09HVjFQMzBKeUo1UXZ5d01uc1JHSi11VV9pREpMNFNTdWlyREI0VkFyVTkyc1JIY2w5X01yUjFnRUNQblpUZzdvSllsZGdPYTZUSmtGdmRsNk5zSFljUw?oc=5",
@@ -1511,6 +1594,11 @@
   ],
   "weekly": {
     "2026-W41": {
+      "talarico": {
+        "positive": 6,
+        "negative": 13,
+        "total": 30
+      },
       "general": {
         "positive": 4,
         "negative": 0,
@@ -1525,11 +1613,6 @@
         "positive": 1,
         "negative": 0,
         "total": 6
-      },
-      "talarico": {
-        "positive": 4,
-        "negative": 11,
-        "total": 26
       }
     },
     "2026-W40": {
