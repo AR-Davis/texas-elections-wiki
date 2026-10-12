@@ -1,9 +1,155 @@
 {
-  "analyzedAt": "2026-10-12T13:25:54.234Z",
-  "newsFetchedAt": "2026-10-12T08:55:58.433Z",
-  "totalAnalyzed": 73,
-  "newThisRun": 4,
+  "analyzedAt": "2026-10-12T21:49:29.005Z",
+  "newsFetchedAt": "2026-10-12T18:52:57.964Z",
+  "totalAnalyzed": 80,
+  "newThisRun": 7,
   "stories": [
+    {
+      "title": "Ken Paxton-James Talarico for Texas Senate in US midterm elections: Mental health, flu treatment to leaked - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNN0JjYmtLTDFkZkdUNkYyc0lydWU4M01RaEFWXzNnR2E4UExhR0JjT1A3QkhhbzJiLUMzQ1UtbzNSeVcyd252SEt4QUpSVUUtb0t0WmFoaUJvUzc2ZVkzREFTQnotTmZyM0xUTE9KV1M3TlBfclNZcHFqQ2hUdklVdE15VHZibldZVmtNa0JuRmFOMEw4ZkdRNEt5UWpPb0k1ekl6MkZpS0x6UUVXRFVUaDFoT0pYWG9aSFdVUThmbUFfam5NRGUxZDR2MDVOenN5ZmFPNE90YzlReDhGVmRxWVFJbVVYckg1Vk1jemNZS1lzTmRtU3huLUJNWWRHak5HaExBQlJtN1BOY0ZjUHZ5TnVqd3NzbXVOX3R5YmFTckFzdUpCSDFsaGVKc3FPWkY2b1hNdEE2N1BqZjVuOFJnVkJZekNQN0JyQ1NxSU4zeExiU21tRXg0QnhWeFd6UEF2X09uLW5mMGE5R1NzM25XS1FyRkh6UzlkdHfSAf8CQVVfeXFMUHFIWGtMc3FhZTRkQVhPVVpTNzRzck5KQXAtd2sxTFdyLVR0NjlqMnlSa3d4cFBFcUNSSXFwR1hwUW9GTWVwSWNlYWtQemhTbElwMjVOVkJsVFNoQ3VQYjllb1ZxVGpmaDNyNEdzV2otcC0tNGlfaDM5R3hGTUY3NDhMQ1htLXFIa0daOFdkRld4RlRSU0VPV2ZtajdsZmlxQ0lzc0xfRWFnT2Q1WmkzcExMNEctZENFaWdFODZ3TVhWRmdTbjRWSkJxb2VXZ3ZMMHdpNFFsSEZ6R2lQbXAwNmpqWEVVeURMRzdqVG5hQ2FUbWVOZG1VOEpIUUJtSzFORmJKVjBFcWw5ZmNRZlc3ak1WUEVjR3owS3puczJ2eGYyUzZmZkt3cEZ5ejBVRVktMDdOZ2c4RTE3YVg4eHZnZ25ubDdwZi1pUkVWWmFmMkp2V2NXdk1oSzRXR2poTVk2ZDlpZ2g5Q1FNU2FudFNaNnA1WkNHZTVnWV9iMkl3VVU?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 13:05:28 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 28,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "texas senate"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Texas Senate 2026: Paxton and Talarico, What You Need to Know Before Voting - MundoNOW",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMWtUQTZyVzdOLUdUVDFjNF9zWGktQTU5LVFzVUtkUkthUGZ6SXRiT0diOXBPSnVIeEsyWFppOGlmd0k0S3dKOURxaktZZ3dxbFdmUXlSa1BsNkVnaXBTNWpiTEE0LW55QVBNbHpKTllrdVFZQXJQV1Y2T1BhWjNFV2kydmJnY2hqN2FpLUtkVXRzTktKZjZYTmJuTmJqN3l6?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 17:58:02 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Bad Blood in Texas Senate Race Tears Republicans Apart - Political Wire",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNllvdF80V0N3Q1ROU2RPb0NLUzNNTkh4MHpINnlXQllBa0VfUTBlNmF2bVEzV1pUeFliTnItS0dSRjFDUEY5STRYVEdHeWYtM2xVc3NDa1VVODRaYll0RmcyQnh5WmdRTTN6bTZTUWRXakFPcGtLcGtmUnNoVFU1a2hoVWxhVUhZQXhWcjJOVHNCNHhGY0Y4?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 11:43:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Must-Win MAGA Candidate Texas Attorney General Ken Paxton Cornered on Flood of Embarrassing Leaks - The Daily Beast",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV3VrWVQ1dGwwU3ViZXNwNkRfdW4wR1RmWmVuRGxtcDBrbk9pX1Y3MTlPcVJ2NFhfRmxQM0dsbjJKTVFUWXNPUXQ3T05TZlNFcTFLVms5RGpvZ2VQYWhHMURXNHNLQTBaOGhCY3ZIbURLSG5YUEYzcGFwX3l3UmtzRWVZelBHOTJVN3VzaFdvaTVxd0dCNF85cWdOeUtGZF9BU3N0SXU3UkdfY0RubUpUTDVLWVZ6bnNSSVZjWHRsWVlVamlOdFE?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 13:48:34 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "attorney general"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Leaked deposition offers insight into Ken Paxton’s personal wealth - Texas Standard",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYWhmQTE4czR0LXVDUkJtOFpmMkpQb2lPaU9jXzRKQUNERXd5OTZmUXZhOUhHOHdqNDY5akJUVG5CZlBncW5MOFFRTDZXc1ZBdEpFanhlS0hsUHFYYU5oWHFVLVpYTHpZQVRhenZ5NElSSk9hRWtQYV9FNWQ5WkRUUGNmaw?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 17:41:07 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "James Talarico Introduced by Country Singer Kacey Musgraves at Texas Festival After 12-Day Absence from Campaign Trail - Breitbart News",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaEdoQnFDNHV3bFUtTGpPWXZnaUM2NUkzM1h4TjY5MWhpdERzRmM5ZU1Bam5pTlNTYkxucjBIeGd2MFlWVzlIRklkNTZHN0Q5MExIaXhyeU1wZlltOG4yUjhtbVp0N3JraUJ4T0tldDlvQUdfbTB6dTA0bk9Tc29TRGZMUzJvLVJVbldYYVA5TWdFc0J0cmhvU1BRVHB4WnVJX1lTV0M4c3dVSU1sRmk3U2NzT0lFeVJMNGMzNUZPSzBld2F6RDBPOWoyRHdJYXJPRnRyQl9YMUxGZmlFcjhoNUlTZGxVYkc3dDZaUTFDcDBMQlpLVlhHWlUtUWJLeUXSAYQCQVVfeXFMTkR3QlBCcWVWTkk2QXdBMWlCU29NN0lFdkE3LThzbzNab2ZBVkZPcTNFTlV0c0hKNXdqR25LVFNSZ0NtYktZLWZ4T1J5YkJZelRUa3k1OGwzT3ZCb2h2QjhwOWVDOEdOMVMxWTR2VWhPNFZBM0xQV3ltbnptVHM2U0ZNSUxLUHd0NkYzSDNlMmxkTXpRQnE2aEc0dGxxSTkxU1F6T3VZSFIzT0tOSWJmbm5HMDZma2g0YU5JamF2QWFJMGc3eFVTNUVfaHZLazFIRTBQWUgzTmNSX2RkUC04YmdlREJqMURBZTl2blFnOUNucU9NWEFPcmZEaXFydEFEOEtNd0E?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 13:45:06 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "James Talarico returns to campaign trail at ACL festival after illness spurred GOP calls for “proof of life” - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQVUNlZHZtSUJPcml0eGd0ZlBiRUhPRHBRcHhMdFhzcW5EN3dfTDhxanlERzczN0ZTYVB3TWNXM3l5NktrUmtDNmZMblpzN3BlYktFUEh6V1NWZkVOSnFmems5aXQ0Szl3eW1DWnJSMmRHdTdaakZHTDVqMGZYUkR3TVBpOEhfNXJENnJBQ3BVSVFSeFdFYlV6M3IxeHlORFJYcW9DbnZzbl83YWdhRWh3eEZKbXd0Y2pld0RaMU1GQm02VDNVdjRNMHhZM3J4Q2k2X25SaWxnSlFORTUza2lhVy1HWEp3dEVXb2xqUFEydUNXMmQ4VEtLWnVpSTBJeDJFNlZSdzk3WXNLWTRENVByQ1YtWmhrUTdxQ29mbVZBWmdHRlYxRERhbHpad9IBqwJBVV95cUxQVUNlZHZtSUJPcml0eGd0ZlBiRUhPRHBRcHhMdFhzcW5EN3dfTDhxanlERzczN0ZTYVB3TWNXM3l5NktrUmtDNmZMblpzN3BlYktFUEh6V1NWZkVOSnFmems5aXQ0Szl3eW1DWnJSMmRHdTdaakZHTDVqMGZYUkR3TVBpOEhfNXJENnJBQ3BVSVFSeFdFYlV6M3IxeHlORFJYcW9DbnZzbl83YWdhRWh3eEZKbXd0Y2pld0RaMU1GQm02VDNVdjRNMHhZM3J4Q2k2X25SaWxnSlFORTUza2lhVy1HWEp3dEVXb2xqUFEydUNXMmQ4VEtLWnVpSTBJeDJFNlZSdzk3WXNLWTRENVByQ1YtWmhrUTdxQ29mbVZBWmdHRlYxRERhbHpadw?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 13:11:41 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
     {
       "title": "Texas Senate Candidate James Talarico Debunks Mental Health Conspiracy Theory Following Flu Absence - streamlinefeed.co.ke",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWGZ6Q0Vpam9Dc3BuOXhfWlZSX0pmZEV4Qnc2NEVoYkoydFZCT1ZSQ2NsYXJsT2ZPV2h2SVZ3X2VycG1rLVZSQ3FVdlA4eWtMT3JFb0FBaU4wRUZtb3VFc2tZWW41Q0VzQVNBQW0ycWJCSXFUU1UwTnJRLXRvWGVTQm5fcmk3ODlPOE5CUWFQTkd1V2p2a2YySXZlSlZCeUtCUXZBa08wWjFzSjBJ?oc=5",
@@ -1594,25 +1740,25 @@
   ],
   "weekly": {
     "2026-W41": {
-      "talarico": {
-        "positive": 6,
-        "negative": 13,
-        "total": 30
+      "both": {
+        "positive": 4,
+        "negative": 8,
+        "total": 27
       },
       "general": {
         "positive": 4,
         "negative": 0,
-        "total": 7
-      },
-      "both": {
-        "positive": 4,
-        "negative": 8,
-        "total": 25
+        "total": 8
       },
       "paxton": {
-        "positive": 1,
+        "positive": 2,
         "negative": 0,
-        "total": 6
+        "total": 8
+      },
+      "talarico": {
+        "positive": 6,
+        "negative": 14,
+        "total": 32
       }
     },
     "2026-W40": {
