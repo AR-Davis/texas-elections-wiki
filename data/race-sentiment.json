@@ -1,9 +1,112 @@
 {
-  "analyzedAt": "2026-10-11T23:36:26.403Z",
-  "newsFetchedAt": "2026-10-11T22:20:52.230Z",
-  "totalAnalyzed": 64,
-  "newThisRun": 3,
+  "analyzedAt": "2026-10-12T05:16:39.183Z",
+  "newsFetchedAt": "2026-10-12T01:37:50.223Z",
+  "totalAnalyzed": 69,
+  "newThisRun": 5,
   "stories": [
+    {
+      "title": "Bad blood spills over in the Texas Senate race — and it’s tearing Republicans apart - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZmFmbUdOZ3lTQXlFSE9md0hOdFlNaHdPRXlVTDJmWXlTN19zX1FCNlVFSzB2QTJ1V2hPMS1kWGl3SjlaWTFqMi1tTlExNi13T0tibGhPWS1Fc09HVjFQMzBKeUo1UXZ5d01uc1JHSi11VV9pREpMNFNTdWlyREI0VkFyVTkyc1JIY2w5X01yUjFnRUNQblpUZzdvSllsZGdPYTZUSmtGdmRsNk5zSFljUw?oc=5",
+      "pubDate": "Sun, 11 Oct 2026 23:39:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Trump Notes Talarico's Absence from Texas US Senate Race, Praises Paxton - NewsRadio 740 KTRH",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON3RyN002SUFqcDdGdzB2N0FMeUlYeVduODBUYzUxLWZDSzBEX3ZQb2NSQlM1UXBEaWt6dnU0SC1DdGcwUzR4UEhVVUZaVUJKTDFnQ0V3U3o2SXN3RC1kREhucktGWmJreV94UHhYVWR6d2pmUjJab2xZQjFJTjB2YlpCS25wOXd3MTZuRHduOHZ5b2V1NTh5RVRaNHVMZlJ2OHZOTlZ4N3pUR0FrMVkzMDRqMlRFVjJ4Z3E3aNIBvAFBVV95cUxON3RyN002SUFqcDdGdzB2N0FMeUlYeVduODBUYzUxLWZDSzBEX3ZQb2NSQlM1UXBEaWt6dnU0SC1DdGcwUzR4UEhVVUZaVUJKTDFnQ0V3U3o2SXN3RC1kREhucktGWmJreV94UHhYVWR6d2pmUjJab2xZQjFJTjB2YlpCS25wOXd3MTZuRHduOHZ5b2V1NTh5RVRaNHVMZlJ2OHZOTlZ4N3pUR0FrMVkzMDRqMlRFVjJ4Z3E3aA?oc=5",
+      "pubDate": "Sun, 11 Oct 2026 00:53:42 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Ken Paxton took nearly 1,000 trips with state-funded security detail costing millions of dollars",
+      "link": "https://feeds.texastribune.org/link/16799/17492715/ken-paxton-travel-costs",
+      "pubDate": "Fri, 09 Oct 2026 10:00:00 +0000",
+      "feedSource": "texastribune",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "attorney general"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Talarico returns to campaign trail after flu, challenges Paxton to debate - NBC 5 Dallas-Fort Worth",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbmkxTDRyRHJtLXUtRGhqTkhvMjA0Snp0U3FYaThqekNWTzBrVmw0MEpzZ2d6bWwzVjJuQ2Y3V0VuTFQ5WDZfZDdhUy1GTGhaUzNLQjJXcTJOY2dZNFRrWW50ZEw3dFRwTFZEeXl6bnFuLWdsZG42dEdNWjR4QThOTjhoOVMtUW9FZmdVcURXdmQzeEdaSU9WdkFRZDB3MzRLb1poNFdSRVZKTHV1eVhySjZLR0NWLXdKcHRQSHN4b3RtZjkwWkpvNU0xS01rZ9IB1gFBVV95cUxQdHp5MXE5YkxLX2pTY0p2dlBhWGZVX0tqdGhRcXdzOFpQYmFfazhhdmZNNW1taWpQbFdINHA5M1VyanAwaHNfOVhsQm5URTBKX3pYOERUdzk1b2p6czZuZmxsaWl1S0Z6VlYzd2dwcldoYmxtaWUxdW5nR0FEeUlhVWd5RzdlMWhVbHhjQ0NDQWlqdkp3TDlKX0MwMGJyd3lGNE1ES0doZU5ic3NqT1RNRW9YbURFZWM3NkRxQ3FLcUxDQVBqTXJPV3NqU2ZBakc0dWNvekhn?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 00:48:24 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "James Talarico: \"I'm Not Interested In Turning Texas Blue... The Best Color For Texas Is Purple\" - Real Clear Politics",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JOWNwd09FNTF5X1NqUWdtVUxBSjhQV0NKdGVyTUlhU3JKSGRsN2VVWUNicmVBZTdlQUEza3B1WmNDMHZGZ0JrcnRROXZlbDVtMTRiMUJkXzU3a0JySjYzT2dTV3hlWVZub21OaTlvYnhTc25YdlBoWHRMYw?oc=5",
+      "pubDate": "Sun, 11 Oct 2026 18:01:34 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
     {
       "title": "James Talarico’s Chances in Texas Senate Race After Absence - Newsweek",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0NpNVZlTE1FYnA3M0xuMUV6eEh4UUhBZXFSVnQ2cGt0ZW9lTURSWVJXV2FvSXprNXNrdlBXdWZ3U20yTG5HQXFqNFh0aEdvS0x1MkFGUUROckRNWHNsaHJFeEd2clFuaTk4UnFETWllM09ENzlmZVlld1ZfRXRSblY0bW96QnBhczlXMTZ3dzZESmtBUEhv?oc=5",
@@ -1408,25 +1511,25 @@
   ],
   "weekly": {
     "2026-W41": {
-      "talarico": {
+      "general": {
         "positive": 4,
-        "negative": 11,
-        "total": 25
+        "negative": 0,
+        "total": 7
       },
       "both": {
         "positive": 4,
-        "negative": 7,
-        "total": 23
+        "negative": 8,
+        "total": 25
       },
       "paxton": {
         "positive": 1,
         "negative": 0,
-        "total": 5
-      },
-      "general": {
-        "positive": 4,
-        "negative": 0,
         "total": 6
+      },
+      "talarico": {
+        "positive": 4,
+        "negative": 11,
+        "total": 26
       }
     },
     "2026-W40": {
