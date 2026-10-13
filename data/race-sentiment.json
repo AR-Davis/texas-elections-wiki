@@ -1,9 +1,270 @@
 {
-  "analyzedAt": "2026-10-13T10:19:08.433Z",
-  "newsFetchedAt": "2026-10-13T08:18:07.581Z",
-  "totalAnalyzed": 87,
-  "newThisRun": 1,
+  "analyzedAt": "2026-10-13T17:44:25.365Z",
+  "newsFetchedAt": "2026-10-13T16:19:25.469Z",
+  "totalAnalyzed": 99,
+  "newThisRun": 12,
   "stories": [
+    {
+      "title": "Texas Senate Odds: James Talarico Extends Lead Over Ken Paxton Despite Public Absence - Oddschecker",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYUZpSkVwU0NudWk3clZyM20yLTcyak9GcDg3YUZRZWpfSzJMU19JMEhlMXg1Wkc3M3JpeDBGTWcxUllfQTM2Q29DcnNDRDc2R0hfUDRZaVlVV1ZBNTlpTC13YXp5NFlaODFVQmV2dmhPdHJieU5jQ0FPUmZlXzdxYnMtVDJPLTB5S3RwVWJ2cjRjbUZqUWlCcTB0cjljT3VjMjZnc0FoWHpZcFdVbV9aVEpaQnozTlRURDNrN21QNUg0YzJUV1dZdG1fTmMzZlMzNEwybElMeUNiV3lWcWVNenpkTTM?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 13:46:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 28,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "texas senate"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Ken Paxton Partied in Dubai With Fugitives Ahead of Texas Senate Race - MishTalk",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdDFPb05JYVdaRERBOW4wTjliV0o2MERvRlU2aVY0Q3F2OGhiZ2NHWmd1U20wWldDcmsyUVJLTWlrakU2bkJ2cDZwMVhNUVNXYmthWlRFVE42LXAzaFZWazNRYjFqTHVCeW5WQVBMY21BaUtYVDJoQzZoRzdkTVBBNnlJS1QxckVBNnNWbmduTzBMTkYtN2pSejI1a1pwYTR6czZN?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 09:41:45 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Another poll suggests James Talarico could beat Ken Paxton in Texas - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdE04dEIxUTFVUzVrR25sUnBiSnlXUHFja0tDbDdrdTYwU0pzbWs5LXJ2WTdHMmVSa1JXQWYwU0J0WHQ1aXJwN3Y1bFpfQ1VUdHQ3RFp5SXd3emJjT1Q4NEZrVzVWTEExYkJraktDUEMtUndPWWdLaE1PNUFrYndOT2xfNExnN0FtWHBHWVItajFma3lJbXRTWGNvVUstdU10TmhmM0lTUGVJT3Bmd1E?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 14:06:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "On the issues: A Q&amp;A with U.S. Senate candidates James Talarico, Ken Paxton and Ted Brown - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQl95VGhGNG8wdXJ3YVBhTng2MENRakJKcVlmaXFvM2EtbmhxZTl5QlYyZlFwdDBMMjY5bE9mOThJbVFfTGhJZkd3b2MtS0p5VFFWY3ZMWkFrNlZ2d0xtbGZURzdEZFNCQmwwRmtKdkR4M2tBdHZxdW0zbkpzejBOd3R6dFdFalBhVndlWjRNX2RlSnBZWERjWTlR?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 10:06:11 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "On the issues: A Q&amp;A with U.S. Senate candidates James Talarico, Ken Paxton and Ted Brown",
+      "link": "https://feeds.texastribune.org/link/16799/17495837/talarico-paxton-texas-us-senate-2026-election-q-and-a",
+      "pubDate": "Tue, 13 Oct 2026 10:00:00 +0000",
+      "feedSource": "texastribune",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "On the issues: A Q&amp;A with U.S. Senate candidates James Talarico, Ken Paxton and Ted Brown - KSAT",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYUx0ZG1wTW13aGpOZE1XU3pVb2RhYVNBekljMXdLNjdhX05mdjhZMm40bmMyMGstWWpQR21lQUNqOXlNRGgyYWVLa2ZUbUlLUU0tQ21ZQ3FwT01HX0wzamtLODhnQmt1TXg0U0RqWGx0SS1tUktHZ0lKaG14clpuN1Y3NEM2NE5rM3ZLSGgzdnA0ODhicndnLWw3dk1HS21YWGQ3M3NobVJBcG1PbU1qWTBGOXR1MmJFOHBQYmNtTExRa3RHRHNV?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 10:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Talarico Maintains Lead in Texas Senate Race - Political Wire",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ3VUbVNuOGdwUXFLN1N4a1prT3FsaW50QzJ3MEhXMG16a3VrTlVKNG1tTFpoV1RNMk1maEpJTTk3b3ltQzdsQzhCczVETFFZNGRPZ0d3eW5oeFdKYzhRclVJOWtnVzZYQ3BIMnUzRzBObEdRTDFyRmo3QWVxZEpJajY0ZnNlUnZ0RXlN?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 12:50:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Conspiracies mount after Texas Senate Democratic candidate James Talarico’s absence for nine days due to ‘nasty case of the flu’ - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVXZJTV9YNWc5RkVJRE9vYk8ydWlpMnRjamNMOXZSazFYb1NNYlI2OVBpOUhpRnozTTdoUERwcmZPOU1LQm9OdjVqY1JDakJDV0RudGdPYldkQ2ZzV0IzUTRval92dE45TDF1MnFwanVKbk1sanhmOHRUSDNmd1ZWakZDYUY5R1lDeERYNEVTcw?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 22:27:31 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Data centers fuel Talarico attack on Paxton in Texas US Senate race - El Paso Times",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNR1RqQWFxZWRfVC1Xd3NjWmg4dWx3em5WQ0hLNzdYWTZrSUMxb3VuUmdUREtfREFmb2lFVXRPbHhmd1llMnR2SUp0NmREV2ZiR2JkT1J4aTd0ZWh0dVNVZ0sxQ3lNTEJFX1c0QkwxQ2Fnc2dlX09UREpsc3hiRGhoQnB2MmRxYmRVa2V2TlBzR3RXbmtOSmtWQ0ZnU3pHcEx5YUM4d3FfNmlmZG15elloUnNLSFRDamlGUTNaTm1oblRPNkl1NFY0cUpxZmZ4QU9vemZQdGZxTWVPaWNTMno1WFRPYmRsbFVHUld0LS1LTU83LWFp?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 14:24:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Texas Republicans at odds over GOP Senate nominee Ken Paxton - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNek02bnRuMUVzU3BVeWJjVzRqV2JqdGdGbGdDRUxHU2paNFRZSmVIYk1vRjM2ZDlCOVR0d0JQa3N0WU56OTBNVm9VeHBrVEJxQkNtZmlwMmtoLTJZZkxMSUlfdnZ3eTA2bHY5WVNhOW1DU1ZUTXlXZDNSUWlfcTg4SWhJUDRmLUJOdW96OWlicjN3RW1Lc2dCZmxwNTJBc3ZZaHlEVkRIZWxCM0U?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 19:04:17 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas republican"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Republican Ken Paxton Caught on Video Partying in Dubai With Two US Fugitives Ahead of Senate Race - International Business Times UK",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVkFnemVhekJNT1ZiRHVBQVBlTHhrTXk4ZEJSQXAyYWFCTUJUUkRuMGNwUlE4LVRObDJ5STQ3cHhpMVFuSlRpenhYR0N4WUhaS2RWTHEzd1BiQVhaamhEbFZQOWNoOE1DY3o5WWpIRzVCand6bExKNzhjejdsbS15N3lGY1d2R2o2b3BsdnpB?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 09:46:21 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "UH Poll: Talarico Leads Paxton by 22 Points in Harris County - The Texan",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObFlZa2d1TVJaazJWdW0yeG5HR0g0RXh6b2dvQURJb1VYZ1RLMWlPR2ZTX0p3dFB4N3JWSVJVWEVRMk5vSU91bDVXYmlzMUJRSmItRy1lWDlRNWRNWDNNeHE5QTlhYTRxa2pjeWpNd0FrWnlKQ2JlanFfNHNYeUdLREx1UVg0dk5FY3BTbHU3WDkxdkduYVduV3dBbXVXanpZRnVvT3NDemtYY1FmU1dFS1RBTFNHckkwaTdDRFRRZnhJV1RhaW5CNEJLQVlZcW9MUEhBUG9ZRHByVHdNUjUw?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 11:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "harris county"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
     {
       "title": "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUlF0X01acEs3QmRTUU5sVXlNekhlekx6U0ZpNEJscEphMHVfQUVCRXlyLU5iVnZtZ1hUQU5ENksxc1hoMnRPcW1xRy00RTFRcE96S3VlNGtsZEJKRHZrVl9YLXpRV09xeG9MaUg4T0RaNDRXMFIxT0w2LVBwTDhRdXhJZkZ2ejJ3eEQ0ZENoa3o5TnlXRVNnSXZpXzg3UHZjRXZlV1FMSmhhMzJ1MTZmWQ?oc=5",
@@ -1888,20 +2149,20 @@
   ],
   "weekly": {
     "2026-W41": {
-      "talarico": {
-        "positive": 6,
-        "negative": 15,
-        "total": 35
-      },
       "both": {
-        "positive": 6,
-        "negative": 8,
-        "total": 30
+        "positive": 7,
+        "negative": 9,
+        "total": 37
       },
       "paxton": {
         "positive": 2,
         "negative": 0,
-        "total": 9
+        "total": 12
+      },
+      "talarico": {
+        "positive": 7,
+        "negative": 16,
+        "total": 37
       },
       "general": {
         "positive": 4,
