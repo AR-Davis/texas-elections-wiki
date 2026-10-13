@@ -4,6 +4,17 @@
   "source": "Wikipedia: 2026 United States Senate election in Texas (General election polling)",
   "polls": [
     {
+      "pollster": "Quantus Insights",
+      "sponsor": "Republican",
+      "date": "2026-10-09",
+      "sampleSize": 854,
+      "marginError": 3.6,
+      "talarico": 47,
+      "paxton": 47,
+      "undecided": 4,
+      "method": "LV"
+    },
+    {
       "pollster": "Trafalgar Group (R)",
       "sponsor": "Republican",
       "date": "2026-10-06",
@@ -103,7 +114,7 @@
       "method": "LV"
     },
     {
-      "pollster": "Guidant Polling & Strategy",
+      "pollster": "Guidant Polling & Strategy (R)",
       "sponsor": "Republican",
       "date": "2026-09-20",
       "sampleSize": 800,

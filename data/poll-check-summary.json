@@ -1,8 +1,15 @@
 {
-  "lastChecked": "2026-10-13T13:00:36.966Z",
-  "wikiPollCount": 50,
-  "newPollsDetected": 0,
+  "lastChecked": "2026-10-13T19:54:21.144Z",
+  "wikiPollCount": 51,
+  "newPollsDetected": 1,
   "latestPolls": [
+    {
+      "pollster": "Quantus Insights",
+      "date": "2026-10-09",
+      "paxton": 47,
+      "talarico": 47,
+      "undecided": 4
+    },
     {
       "pollster": "Trafalgar Group (R)",
       "date": "2026-10-06",
@@ -65,13 +72,6 @@
       "paxton": 45,
       "talarico": 51,
       "undecided": 4
-    },
-    {
-      "pollster": "Guidant Polling & Strategy",
-      "date": "2026-09-20",
-      "paxton": 44,
-      "talarico": 47,
-      "undecided": 5
     }
   ]
 }
