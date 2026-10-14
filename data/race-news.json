@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-14T00:33:47.765Z",
-  "count": 25,
+  "fetchedAt": "2026-10-14T05:57:48.763Z",
+  "count": 24,
   "feedsChecked": 8,
-  "itemsScanned": 162,
+  "itemsScanned": 166,
   "items": [
     {
       "title": "Ken Paxton Leads James Talarico in Texas Senate Poll - Breitbart News",
@@ -47,10 +47,10 @@
       ]
     },
     {
-      "title": "Ken Paxton Partied in Dubai With Fugitives Ahead of Texas Senate Race - MishTalk",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdDFPb05JYVdaRERBOW4wTjliV0o2MERvRlU2aVY0Q3F2OGhiZ2NHWmd1U20wWldDcmsyUVJLTWlrakU2bkJ2cDZwMVhNUVNXYmthWlRFVE42LXAzaFZWazNRYjFqTHVCeW5WQVBMY21BaUtYVDJoQzZoRzdkTVBBNnlJS1QxckVBNnNWbmduTzBMTkYtN2pSejI1a1pwYTR6czZN?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 09:41:45 GMT",
-      "feedSource": "google-news-race",
+      "title": "Exclusive | Ken Paxton Partied in Dubai With Fugitives Ahead of High-Stakes Texas Senate Race - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcnp4SzJLZDczcjFGUXVmemxyQS1abFdTbEh1T3NWY3pXVEdHcDdGUG1CRDMyQy1Tcm4xNzNSZTFpaEs4NEhyeUFwc21ubzNiUWdyLVpuUmhWTmFIYWhoLVVuMnM1LXFkamZXMGtXbjRZRW1qSkJ0RTZOTVRBbzdKSlhwcy1JQQ?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 01:00:29 GMT",
+      "feedSource": "google-news-texas",
       "raceScore": 27,
       "matchedKeywords": [
         "paxton",
@@ -72,6 +72,33 @@
         "texas senate",
         "senate race",
         "texas senate race"
+      ]
+    },
+    {
+      "title": "Talarico leads Paxton in Texas Senate race; Abbott faces tight governor contest - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY0MteTM1RkVRQ0NaUTBiWnNmV0d1N0lBMmRLcHowTTB3NlNqUHkyc0ZESHhfS1RtWWR2QkU3RjBWWUkzczZ3ZFVfaGtQUWxfaWNUT1UtWF9NWGVDWTBIanJraVFneThBVENENkRXLWUzVGJhM01mZS11dHBHT3VraUYwMDRpanhERXdFS2hnWlNtb19VVGc4RFBxLUJLVktSQ1E0bUFZaTMwQQ?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 04:13:15 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ]
+    },
+    {
+      "title": "How Ken Paxton and allies fanned a false conspiracy to convince voters James Talarico was mentally unfit - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc0FWOTRpcVlxYTlhYU1JclU0ekhSZkhFck5uTmJBLVlCZmZxVnVYNXJKVHhyb1drMnAtQkpYZV9kSjhjWll6X2dQaGNPTGhKa0xBc0hGemxNamV5Z0hrUTNuZ3FEMFJLYnRaNXAxd3VJUXdQbWluYWxGTzA5Y3FsZ0xoUnpZVHJabDVEQ2s5ZXF4WVZ5ZnE5b2RHSQ?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 01:18:48 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
       ]
     },
     {
@@ -101,10 +128,10 @@
       ]
     },
     {
-      "title": "On the issues: A Q&amp;A with U.S. Senate candidates James Talarico, Ken Paxton and Ted Brown - The Texas Tribune",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQl95VGhGNG8wdXJ3YVBhTng2MENRakJKcVlmaXFvM2EtbmhxZTl5QlYyZlFwdDBMMjY5bE9mOThJbVFfTGhJZkd3b2MtS0p5VFFWY3ZMWkFrNlZ2d0xtbGZURzdEZFNCQmwwRmtKdkR4M2tBdHZxdW0zbkpzejBOd3R6dFdFalBhVndlWjRNX2RlSnBZWERjWTlR?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 10:06:11 GMT",
-      "feedSource": "google-news-race",
+      "title": "On the issues: A Q&amp;A with U.S. Senate candidates James Talarico, Ken Paxton and Ted Brown",
+      "link": "https://feeds.texastribune.org/link/16799/17495837/talarico-paxton-texas-us-senate-2026-election-q-and-a",
+      "pubDate": "Tue, 13 Oct 2026 10:00:00 +0000",
+      "feedSource": "texastribune",
       "raceScore": 23,
       "matchedKeywords": [
         "talarico",
@@ -114,10 +141,10 @@
       ]
     },
     {
-      "title": "On the issues: A Q&amp;A with U.S. Senate candidates James Talarico, Ken Paxton and Ted Brown",
-      "link": "https://feeds.texastribune.org/link/16799/17495837/talarico-paxton-texas-us-senate-2026-election-q-and-a",
-      "pubDate": "Tue, 13 Oct 2026 10:00:00 +0000",
-      "feedSource": "texastribune",
+      "title": "On the issues: A Q&amp;A with U.S. Senate candidates James Talarico, Ken Paxton and Ted Brown - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQl95VGhGNG8wdXJ3YVBhTng2MENRakJKcVlmaXFvM2EtbmhxZTl5QlYyZlFwdDBMMjY5bE9mOThJbVFfTGhJZkd3b2MtS0p5VFFWY3ZMWkFrNlZ2d0xtbGZURzdEZFNCQmwwRmtKdkR4M2tBdHZxdW0zbkpzejBOd3R6dFdFalBhVndlWjRNX2RlSnBZWERjWTlR?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 10:00:00 GMT",
+      "feedSource": "google-news-race",
       "raceScore": 23,
       "matchedKeywords": [
         "talarico",
@@ -140,8 +167,34 @@
       ]
     },
     {
+      "title": "How Ken Paxton and allies fanned a false conspiracy to convince voters James Talarico was mentally unfit",
+      "link": "https://feeds.texastribune.org/link/16799/17496873/james-talarico-ken-paxton-senate-texas-mental-hospital",
+      "pubDate": "Wed, 14 Oct 2026 01:18:48 +0000",
+      "feedSource": "texastribune",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ]
+    },
+    {
       "title": "On the issues: A Q&amp;A with U.S. Senate candidates James Talarico, Ken Paxton and Ted Brown - KSAT",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYUx0ZG1wTW13aGpOZE1XU3pVb2RhYVNBekljMXdLNjdhX05mdjhZMm40bmMyMGstWWpQR21lQUNqOXlNRGgyYWVLa2ZUbUlLUU0tQ21ZQ3FwT01HX0wzamtLODhnQmt1TXg0U0RqWGx0SS1tUktHZ0lKaG14clpuN1Y3NEM2NE5rM3ZLSGgzdnA0ODhicndnLWw3dk1HS21YWGQ3M3NobVJBcG1PbU1qWTBGOXR1MmJFOHBQYmNtTExRa3RHRHNV?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 10:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ]
+    },
+    {
+      "title": "On the issues: A Q&amp;A with U.S. Senate candidates James Talarico, Ken Paxton and Ted Brown - News From The States",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU3RHZllEWTduN2lEaW01Yk9NdjljYTJzVEZtdlRXXzZsazJuMVd0OGFneGRwUHJkb05wQWdiN0w1QmZmSGVlblFIT0JUTndidjlYVkF4QXRzNHJnMjRfVzlsYUllRDdtUlAtc0NqR1J1ZW8tVkFSYUthWTJPUFJEVjJZeEZSNHp2bzNKU0tsZ080MThYY29TQjhKQWxLM2FlVVFqUnBkOTZ6T1BuSGRscjJB?oc=5",
       "pubDate": "Tue, 13 Oct 2026 10:00:00 GMT",
       "feedSource": "google-news-race",
       "raceScore": 22,
@@ -192,6 +245,18 @@
       ]
     },
     {
+      "title": "GOP Texas Senate Nominee Ken Paxton Partied In Dubai On New Year’s Eve With 2 Indicted U.S. Fugitives... - uPolitics",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSnlXdFBtMkV3akNfb3JOM0ZTSVVoVndXdjZuMFhTa2xJWVc2d0lzQmRQREMya3JCME5SUVhQN0VhLU05YWZveGIycEppVUJjQzgzOFF0SHljZGtPcF9Ib01CZmJTUUFfMlpzbHROSkk4ZWY3SkYtY2NLbUh6blZVYVd0OUFoVndBa1k3VTZ0MVdsWjQzNkFncThzaEw3SVROeFladmFtVjJJVUplelpWbDRMSUhZN1BteGJ2M1JDaExldTU0VG9rSGQ2dU55dENrb1JTRFpjNTR6N1E5empKLS05VFZvU3BCbE9ZcdIB7AFBVV95cUxOSnlXdFBtMkV3akNfb3JOM0ZTSVVoVndXdjZuMFhTa2xJWVc2d0lzQmRQREMya3JCME5SUVhQN0VhLU05YWZveGIycEppVUJjQzgzOFF0SHljZGtPcF9Ib01CZmJTUUFfMlpzbHROSkk4ZWY3SkYtY2NLbUh6blZVYVd0OUFoVndBa1k3VTZ0MVdsWjQzNkFncThzaEw3SVROeFladmFtVjJJVUplelpWbDRMSUhZN1BteGJ2M1JDaExldTU0VG9rSGQ2dU55dENrb1JTRFpjNTR6N1E5empKLS05VFZvU3BCbE9ZcQ?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 02:03:49 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas senate"
+      ]
+    },
+    {
       "title": "Democrat's lead shrinks in Texas Senate race ahead of early voting - El Paso Times",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOFVqYXVkcW1UclI0QnBtRGRvMFE0elRON3ZDYXJ2MTRmRnp1NUhrUGlLajVUUnFnc2pVWU1TMmxZNThYZVFZRXYyOW9sWF96emUzRTdCVndoT1dZb0Q4SHB3ZEN4S3RQOS0zR2FNOTBaTXhZeklpODVhZ1JCVDNkeHNSSkw1c09aRF9PM0xtRlRTVHpDOEx3ZTVidElkZE1ESTVGZkVqeUhOcnRCelFSdnhDZVNzd3JqU0xCdUtNVkFhRE8xQkhVMVNMNDNIVHdVQlA0Sk1RVkU4WkJGODhUeEdMNmJsdXNoY2hfM29YODY?oc=5",
       "pubDate": "Tue, 13 Oct 2026 16:33:00 GMT",
@@ -201,18 +266,6 @@
         "texas senate",
         "senate race",
         "texas senate race"
-      ]
-    },
-    {
-      "title": "Must-Win MAGA Texas Senate Candidate Ken Paxton Busted Partying in Dubai With Lover - The Daily Beast",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWGI2b3k2amZpSWpldEQxNmtKaXNPMnAyV2V0bnlkRGo0ajRzdnd1YU14WDEwS1NJUWZnZUJhQ2NRMUtmNGNFRG5nNHZ1bVJ6OW13NnRDWFl6QUdzMWJ2VGdDYS1id2ZyMFRERWc4VzVRV25PM2R6QmdEenhIbHNoazJLZ04wazRkTDFYRlBhWUdtRUxfVjhBYk5mY0hGUUFwaFZQYXhOWFVjZFkwS1B2RkxiWQ?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 10:44:28 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "texas senate"
       ]
     },
     {
@@ -261,66 +314,6 @@
         "talarico",
         "paxton",
         "texas senate"
-      ]
-    },
-    {
-      "title": "Poll Finds Dead Heat in Texas Senate Race - Political Wire",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM3lKTEhRV1hnQk1pcGlPbUxDNnpuOTRmeFJOOWxwZnBxejh1c29PS0F0bWE0WVAzNXJSNVhzVFJ0ZTl3VE1XSnczVTZ6TzdoTTQzeGZnczZOMloyMjMydGZrLWdKVGRiazRrcWJSMV9NWFg3WmtNU0VTTmJFdmZ6Yk9jR2w2QQ?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 18:07:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ]
-    },
-    {
-      "title": "Kacey Musgraves, Ella Langley respond to Kristi Noem jab over Texas Senate race - The Tennessean",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWnZsWlY3c1RVMkF6U2x4RExsdldHM0JHa3FJei0yVnk5cG42S3BYUFp4WGF0UTB1YkRwcVctRUZvQzlmbmVfckVnT3l4LW5PMWxXWWh4b2M1UmlQOGxFQ2NRclRURnUxd3dQWmhfakZlVzNPSkV3dTk0aUNleUpuX3dqWTBDU2pmS3BqV0JqRXBGUldLaTVndC1JNTk2LS01cGdrSWhwcFZLMzdrWFBsMDQxczFGMXBjdHFJRHVNZS1kTk44dzZPRnlRQnQxZXhMLXc?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 16:31:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ]
-    },
-    {
-      "title": "Kacey Musgraves clapped back on Kristi Noem over the Texas Senate race - Celebitchy",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNFdxenQ1Ulp4X3E1LTBnWEpPR0dkS1NXbk1rcTJoRTRsN2xIb2RaTEVpT0VMejZ6dFFHSVl0U2h0SUJSMWU2STZJbUhJNWNrWjNjZDFSR0EzWEh4YWZibktncW11U0ZydXZ5bG5ZTnhiNTlIa2owWFh3Mm14NHczRlhHOGg1dlBpMUJQT2pvX2Q3NDlPczBTWFAzeTBoenVpZmNENVJWRVlMdw?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 11:08:32 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ]
-    },
-    {
-      "title": "Texas Senate 2026: Paxton and Talarico, What You Need to Know Before Voting - MundoNOW",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbmRlRmJ6VVI3LXdYQ21mWDhXa0dkdGtGYm03ZUFRcjhpR2RhTXR6WEhPcS14NkxTWGpyeXNUZWZMaC1BLU52VG85QUg2OHVKMG5xRmF6dFdYM0Y3Q2QzbU15LTJmVnNlWjg3NzVLT3pYNnNsQldXcGNjNzBjM3pjSE1XNkdQTkVWWGhYbVhnNWNjdk0yN2U4X29aODJfbkZmYWtXbg?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 17:57:58 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate"
-      ]
-    },
-    {
-      "title": "Bad Blood in Texas Senate Race Tears Republicans Apart - Political Wire",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNllvdF80V0N3Q1ROU2RPb0NLUzNNTkh4MHpINnlXQllBa0VfUTBlNmF2bVEzV1pUeFliTnItS0dSRjFDUEY5STRYVEdHeWYtM2xVc3NDa1VVODRaYll0RmcyQnh5WmdRTTN6bTZTUWRXakFPcGtLcGtmUnNoVFU1a2hoVWxhVUhZQXhWcjJOVHNCNHhGY0Y4?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 11:43:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
       ]
     }
   ]
