@@ -15,6 +15,17 @@
       "method": "LV"
     },
     {
+      "pollster": "Marist University",
+      "sponsor": "Independent",
+      "date": "2026-10-08",
+      "sampleSize": null,
+      "marginError": 4.9,
+      "talarico": 47,
+      "paxton": 45,
+      "undecided": 4,
+      "method": "LV"
+    },
+    {
       "pollster": "Trafalgar Group (R)",
       "sponsor": "Republican",
       "date": "2026-10-06",
@@ -568,6 +579,6 @@
   "averages": {
     "talarico": 46.6,
     "paxton": 44.5,
-    "undecided": 6.7
+    "undecided": 6.6
   }
 }

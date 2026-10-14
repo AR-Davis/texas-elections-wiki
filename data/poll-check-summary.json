@@ -1,12 +1,19 @@
 {
-  "lastChecked": "2026-10-14T02:24:04.039Z",
-  "wikiPollCount": 51,
-  "newPollsDetected": 0,
+  "lastChecked": "2026-10-14T08:05:26.445Z",
+  "wikiPollCount": 52,
+  "newPollsDetected": 1,
   "latestPolls": [
     {
       "pollster": "Quantus Insights",
       "date": "2026-10-09",
       "paxton": 47,
+      "talarico": 47,
+      "undecided": 4
+    },
+    {
+      "pollster": "Marist University",
+      "date": "2026-10-08",
+      "paxton": 45,
       "talarico": 47,
       "undecided": 4
     },
@@ -64,13 +71,6 @@
       "date": "2026-09-22",
       "paxton": 48,
       "talarico": 48,
-      "undecided": 4
-    },
-    {
-      "pollster": "New York Times/Siena University",
-      "date": "2026-09-21",
-      "paxton": 45,
-      "talarico": 51,
       "undecided": 4
     }
   ]
