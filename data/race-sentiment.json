@@ -1,9 +1,96 @@
 {
-  "analyzedAt": "2026-10-14T17:30:02.218Z",
-  "newsFetchedAt": "2026-10-14T16:56:00.363Z",
+  "analyzedAt": "2026-10-14T20:53:20.839Z",
+  "newsFetchedAt": "2026-10-14T20:32:53.987Z",
   "totalAnalyzed": 100,
   "newThisRun": 4,
   "stories": [
+    {
+      "title": "Ken Paxton to close Senate campaign with ‘Come And Take It’ bus tour ending at the Alamo",
+      "link": "https://feeds.texastribune.org/link/16799/17497673/ken-paxton-bus-tour-texas-senate-come-and-take-it",
+      "pubDate": "Wed, 14 Oct 2026 19:45:22 +0000",
+      "feedSource": "texastribune",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "New poll reveals surprising shift in Texas Senate race after Talarico’s 13-day absence - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQXd0UHBxS2RVRmpKWjQzVDZWcm5vUWZwNkRWWE5BVTVYQXo1VmtuTWVxcEk1blhkbkt6SFJaVS1uWmR4eWdFWFVZSUVIUWtsNV9MZHRxeEpxSXdMZk53X3ZxLW5KbU1Sd0dILUtNdzVhcThRdzBvbDgyWG44a1o4Mk5MWnNfOHpQbTUzbWVJMTNISWlXMlFwR0ZtQ250VkNfblVqQVoxX2dnX2FiOTMxeFRvZHh6eWptVjNYeGhfVm80YVdI?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 19:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Texas Senate race remains a dead heat as early voting approaches - FOX 7 Austin",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMUktNjNkMUlWTHhxMGF2a0FKWkJXNzMyTWFZS3lEajRMSElnM2xxTWtndktJRXZOMFRpS2c3ZDlqbkEtRlFNekwtZS1tUUsteFBMWG52RE9oeWhVc180WWF5VTg0djJtRGVvQ09IYlVjTm5aOHl5Y01XTXVxMktPdWc0bVB3LVhPWUxMTEZSTQ?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 17:08:23 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Polls show Democratic edge in Texas Senate race - WORLD News Group",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbE1sMmduTFV3cWFtT2VwNFBuckh4LUJpUEVVREItU2xoYXhZT09nVnhMRmV4ekV4MVkzVC1DUlNPc29vN2tSaVlxN3pRZ2lkNG1TdFI2d2R2eVpwWmxFcHdEckFibGxyMDdSSlE3V192czVCb3QxaW1ZZmxtMVJITDBTLXREYkN4RWtpdFJ5c1E?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 19:37:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
     {
       "title": "In Texas Senate Race, Talarico and Paxton Both Promise Relief From Rising Energy Costs - Capital &amp; Main",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLV9JX2s3WTVDVnVSRGM2TDhoVHFZRlZxYV9hUXQzRG5aNHl6QUJvak5CMXZ2MDU4eXRGUlRXeXVLSFBoTmZ0aDR6LXJVMUVJUEtXM2xSNTVlRFh4ZHhYSTF0cy1yUlJDTjZ4YVRyLVNKbDU4UENsWUM5ejZNYnVVamF5cWZ0cE1ST2FCWmNpdnN1S01KeEZmRXVFRmw2ZEVHb1lXbXBaaDBjajRKeS1Rd09n?oc=5",
@@ -2076,121 +2163,29 @@
         "source": "local-fallback"
       },
       "error": "HTTP 405"
-    },
-    {
-      "title": "Texas Senate Race: Republicans Attack James Talarico Over 12-Day Campaign Absence - Times Now",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVUlBVS1DZU0yU25NVm9jS3VlZ18xYXJCMG1TTVNjLUE2ekZ6WFZ4SC10WHV6a3NzdC1hYy1pcWpxVm53blg2bVotemhBUjRWcXMtT05NeWhuR0lJSTJrNkI3MVRtMTFWak16WUpxSVlnclhjTHc0eGlibXRLNHlDek5lZHdReWgwVnpvUUsxNHhsakprWGlQY0dHSVQ0SFVDMzRzUXVxcmRYX0FKTEhuRHlfU2pVckk0NVNtdHZVaVk1QzFJMUo1MjZaRW9CZzU5S1lBdExWb0JQeVQ10gHiAUFVX3lxTE9pNFUwMDN5Qm9uRk1laXhiRi1EM24tZDgyQUtYNEhKc180RkNhajB3cGhxZXdqMkVjOHpFbmcxNlp0QUVyaDJtVFc0QjRVZ0F3dS16LU1HeFVDMk05eWY5MVYwM1FWUUtxYllnZlJtb193Z2ZjSzRxR0xEdjhWVDRXN3ZTQVlKTDlVdDM4V2hsOF92YXZaYWt3Yzk0RExvb3h2ZUZRMTAydmxTZ3IzeGpUWks0TVVZNWZsZkY1ZFhiS3lPc2pBZURZNnY2VHlFR3NhN1ZRZC1DUDZZblBSUmVra1E?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 20:45:33 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "James Talarico’s 12-Day Absence From Texas Senate Campaign Trail Sparks GOP Attacks As Democrat Recovers From Flu - The Sunday Guardian",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOYXBBRW9oeDdlbWxqM0p4Z0RINUVVUFA4UWFFUFpOLUNNdDNSRXRwRVk0UV9FejhQNkp6SmxmSmM0MmU1bjYyUFVLeWpvQ2lOZFhRLW5QdFF5aXNMQXgtOEZpdWhIalU4LWh0OFhkUVZkUWoyMDRTaVBXcDVuMkNzSEhZWi1mRGhZT3FTWTVrTU9GWjRMNUx4VjdSN3FPQ2dDcFdoTEg0RW1OblJKSWRlRWhQS3J0Y3JEeC1qa1BxUzlJUjFjZTR0OFo4ZWl0MV9oMWVQd29UTXdzTDVUZ05UcHNCaHVjbXpwSVhKTWJoQmd2UzJ4LVBPTEUzZ295ekx6MjB1REhn?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 23:09:50 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "James Talarico’s Time Off the Campaign Trail Rattles Texas Senate Race - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTjZZZ0JzdzM5RmRXUnRoNDNBaG9GRk9aRzRZUE02X2NnNW5DWHJidXNuQURVcld3V29JWThtZ2tRNHdGUER5TUdOanpUZ0ZyM21uS1lsQ2NXU1BzWFFZdFdrME9SUFlFR1luaW1uanJRUlhDRl9FcU05M1lZR1A4ckMxLVE?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 17:18:36 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "Who is James Talarico? The Democrat leading Ken Paxton in the Texas Senate race - El Cronista",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNHdQMEZsYnE1ckdfeDZkYnkwNndnMHgwald5VURka3U1cUowd1FYMllWbDRxcW1Cbk50Uy1rMC1wVGY5eGlRZ1Y4Wjd4LThsbW96d0VYOUtCV1lBeDk5UHppay1yWlRyR1paQ3kwVUFEMTBhV0pIWTR6OVVqdWEyQUVnUy12YjB5U3d5TGRwTTVpckJ6bTdUN1EyN2pRQjkzTkFKZzkzbnlFSVhRVXhsbGFfMUJPOWRfbUZB?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 17:31:24 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 38,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
     }
   ],
   "weekly": {
     "2026-W41": {
-      "both": {
-        "positive": 10,
-        "negative": 7,
-        "total": 40
-      },
-      "talarico": {
-        "positive": 7,
-        "negative": 15,
-        "total": 37
-      },
       "paxton": {
         "positive": 2,
         "negative": 2,
-        "total": 14
+        "total": 15
+      },
+      "talarico": {
+        "positive": 7,
+        "negative": 14,
+        "total": 35
       },
       "general": {
-        "positive": 4,
+        "positive": 5,
         "negative": 0,
-        "total": 9
+        "total": 11
+      },
+      "both": {
+        "positive": 9,
+        "negative": 7,
+        "total": 39
       }
     }
   }
