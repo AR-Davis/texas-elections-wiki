@@ -1,6 +1,6 @@
 {
-  "lastChecked": "2026-10-14T10:41:43.815Z",
-  "wikiPollCount": 52,
+  "lastChecked": "2026-10-14T15:34:25.368Z",
+  "wikiPollCount": 53,
   "newPollsDetected": 0,
   "latestPolls": [
     {
@@ -39,6 +39,13 @@
       "undecided": 3
     },
     {
+      "pollster": "University of Texas/Texas Politics Project",
+      "date": "2026-10-05",
+      "paxton": 47,
+      "talarico": 50,
+      "undecided": 3
+    },
+    {
       "pollster": "Rasmussen Reports",
       "date": "2026-09-28",
       "paxton": 45,
@@ -65,13 +72,6 @@
       "paxton": 45,
       "talarico": 47,
       "undecided": 8
-    },
-    {
-      "pollster": "Stratus Intelligence (R)",
-      "date": "2026-09-22",
-      "paxton": 48,
-      "talarico": 48,
-      "undecided": 4
     }
   ]
 }

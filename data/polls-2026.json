@@ -59,6 +59,17 @@
       "method": "LV"
     },
     {
+      "pollster": "University of Texas/Texas Politics Project",
+      "sponsor": "Independent",
+      "date": "2026-10-05",
+      "sampleSize": 861,
+      "marginError": 3.3,
+      "talarico": 50,
+      "paxton": 47,
+      "undecided": 3,
+      "method": "LV"
+    },
+    {
       "pollster": "Rasmussen Reports",
       "sponsor": "Independent",
       "date": "2026-09-28",
@@ -577,8 +588,8 @@
     }
   ],
   "averages": {
-    "talarico": 46.6,
-    "paxton": 44.5,
-    "undecided": 6.6
+    "talarico": 46.7,
+    "paxton": 44.6,
+    "undecided": 6.5
   }
 }
