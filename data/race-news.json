@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-10-15T18:32:19.334Z",
-  "count": 24,
+  "fetchedAt": "2026-10-15T22:03:20.160Z",
+  "count": 25,
   "feedsChecked": 8,
-  "itemsScanned": 162,
+  "itemsScanned": 169,
   "items": [
     {
       "title": "James Talarico Raises Quarterly Record of $64 Million in Texas Senate Race Against Ken Paxton - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ3Ixc1VuQUQ3ckhiRHBmOWtqZ1BWTm9LSkhHajZocktSeEtLdmlocUtqaU5MNkprNnBzRTNtczh4ZURkc2Z1eGlXRFl1OEdVSGlMR3pMZ1BfWEhWSHFyYzJzTDVkMWlabF9PUUVIaUZkRUM5dEtIeW9mQlVDRGhtR1B1Rlo1OW5nUkYzeHNCZDF3TGpuZWc?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 15:42:09 GMT",
+      "pubDate": "Thu, 15 Oct 2026 15:07:27 GMT",
       "feedSource": "google-news-race",
       "raceScore": 38,
       "matchedKeywords": [
@@ -18,6 +18,21 @@
         "texas senate",
         "senate race",
         "texas senate race"
+      ]
+    },
+    {
+      "title": "Trump says 'if Ken Paxton loses' Texas Senate race, blame Cornyn and Karl Rove - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WNFBRV1VOV0dya2xCZzg0Z2tpLTlpWFhuQURSUTFjV1VEWWR5Y1R2MTZnZEhJY1NzMEphaHNNZkJTNURUQ3B6Ymh6ZFRBOGhnOEFYSlZKOV9oNDJsT09qYVhDLUU5ckhtRmV0Nmd6WEtOUdIBd0FVX3lxTFBhaDNGVTh4ZzhleVNmbURoRnJZLW54bzd0UXJXRVl2SDhRRVBrbzY1dkp2RU5GSFNFcFBHN2JndGFqS3Fub0tUbGpWOWxuVVo5MUpIa3NFc3A4Uno4ZVJha2xwT2RZYTNKc3pnMnBzWGF0dW5mNy1v?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 20:41:18 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 31,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race",
+        "cornyn"
       ]
     },
     {
@@ -65,8 +80,8 @@
     {
       "title": "Exclusive | Ken Paxton Partied in Dubai With Fugitives Ahead of High-Stakes Texas Senate Race - WSJ",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcnp4SzJLZDczcjFGUXVmemxyQS1abFdTbEh1T3NWY3pXVEdHcDdGUG1CRDMyQy1Tcm4xNzNSZTFpaEs4NEhyeUFwc21ubzNiUWdyLVpuUmhWTmFIYWhoLVVuMnM1LXFkamZXMGtXbjRZRW1qSkJ0RTZOTVRBbzdKSlhwcy1JQQ?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 07:00:00 GMT",
-      "feedSource": "google-news-texas",
+      "pubDate": "Tue, 13 Oct 2026 01:00:00 GMT",
+      "feedSource": "google-news-race",
       "raceScore": 27,
       "matchedKeywords": [
         "paxton",
@@ -161,6 +176,20 @@
       ]
     },
     {
+      "title": "Trump preemptively blames Cornyn and Rove should Paxton lose Texas Senate race - Washington Examiner",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ3d2aXZfT3VUbG5lSEtjLWc5QVRlTjRJOXBORUZyVTJ5c0FYUDc2RGZ1N0V0NXowQVI0cjNUZUxzVnFXd205dXQxcUxfTVAxaUpHbndZblo5OFBqdlJwT3N4Zk1lN0UyNFo0YkVfZW1hMElBWUNTM1dmbW8taTJWSmdYclpqWlg4cXJNZGE1dExkZjZmaEU2aUNyOFoxXzVWVWh5ekpTY3ZTUWRNOElF?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 21:49:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 25,
+      "matchedKeywords": [
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race",
+        "cornyn"
+      ]
+    },
+    {
       "title": "At CNN town hall, Senate candidate James Talarico woos moderate and undecided voters",
       "link": "https://feeds.texastribune.org/link/16799/17497875/texas-senate-james-talarico-ken-paxton-cnn-town-hall",
       "pubDate": "Thu, 15 Oct 2026 03:07:38 +0000",
@@ -215,7 +244,20 @@
     {
       "title": "Election Dispatches: Talarico Remains Ahead in Texas Senate Race, Polls Show, but His Lead Has Narrowed - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wNmdtWGQxTVkyNlVEWmd2Yldza3pvd0NpYkp3bHFsWlcxbkNUeTdIQi1qWGlnNlkyQ1k4ZlFuUDdEX3FSRnVUNHBGWUt5el8tT0FGbHVaVjNOVU9STHlrZEV6c3M0TmVCakNCVGo2QlFXYWNxZWc?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 16:01:00 GMT",
+      "pubDate": "Thu, 15 Oct 2026 20:51:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ]
+    },
+    {
+      "title": "Democrat Talarico says he raised record $64 million over summer in Texas Senate race - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQUJlTzNZQnlwTnlBa2FXT0xpaTFyV2lwZFdZd0VCVzl3REZsNDE3ZWw3d3loSVNRZWtGam8zRXhuOU16Z0QxSEp2N1pLRk9CeG5GMnNsSm1vMWk2d0lOelRBcDFfMVZ4MVd3U0FvbFp6RDRGODlrRWpjM25NcDlpUWNIcXczRGdkakxZX0ozLTjSAZYBQVVfeXFMUEpqVGJzQk5KRFZMaHRnT0ZqSjZla211TWxsVkd5NXBoWC1qeVJqNTF0aktTTUhhT2NPOWlvSDlsWU5PWk5IeTlVLVNXTGR0aTBOSVdyYXRmTkZVUXF1a0pneVpFRVhRRkU3R1lzOXZ2YklUcTlWZXlyX1ZGWm5IblVJSEo0WGZ1eVFmZ0lWcFR2UlVnbUdR?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 18:35:25 GMT",
       "feedSource": "google-news-race",
       "raceScore": 21,
       "matchedKeywords": [
@@ -291,39 +333,15 @@
       ]
     },
     {
-      "title": "Texas Senate race remains a dead heat as early voting approaches - FOX 7 Austin",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSXdJYkNQQk0tWElGVnUxNXVtZGl6VWdMY2hIc0JaaENxbnEwTkVnWWVDNWZaVGp0WVBmeG9TeVhmWTRrQ1BiVWpMd29Ba3BUTW5lM01ZMkFDd1plck8xNUNiWUZjYnBvSVQxZFdrSk13NGFjaHRNc05FSkdpYS1Vc2pIRVlDZTIwelE?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 17:08:23 GMT",
+      "title": "Senate candidate James Talarico appears in CNN Town Hall as Paxton launches tour - Click2Houston",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcGVya2VUVkpqdFhkRE5JVEhWLTZFdEV5SkgxRGtKSGtCRmlWZ3pTYVRIZk5laFRjbmxlVTNoT3VFSVExNTQxcTREWGI2RWJLUHhzZDFhbFk1NTd2bW1sTlctX3pEcUtGSkk1MmdyZzZta0h6TWRDeHJzaGNkbks5OGV3QnhaVzRvTUljWHYzLThOVWFyY3piUTBTMGo2UHpFVmF0dUJqSXpQNzd5RHNIMFMzbHVMMnZ6NENDWVE2emEzWllNanBlNHFhVG1nZkk1S3dXbUN0bw?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 02:08:17 GMT",
       "feedSource": "google-news-race",
       "raceScore": 17,
       "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ]
-    },
-    {
-      "title": "GOP Texas Senate Nominee Ken Paxton Partied In Dubai On New Year’s Eve With 2 Indicted U.S. Fugitives... - uPolitics",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQURoSGFwdzlMRXJ5bUxxWlZTVWpYR2Q4UVNZeERfeUJ1bnRkZUNtWTVBYnpsRkZEYmNoWlh4dm1ZZndwUnkwWmtJaU1HRF9ZV0N0eF9PNzhzQm80ZWk5c2FneUQyMUF1Zm5xNFY0ZTA1Tl9lV1dab3JNV2x1UzhUYmdnbXAxRzJ3WmMxeTBGRmZRd0wtdnc4M1BGLUhlUTZ3bzdnLWdsZlpIMGtOaXNTS3B2VnFRRl84Um0xNXJYZFBFUGUtNXo5VWtIa2FYb1BsZUdzdG9TWHFBYXFPU1hVcjZnYmpBRXfSAewBQVVfeXFMTkp5V3RQbTJFd2pDX29yTjNGU0lVaFZ3V3Y2bjBYU2tsSVlXNndJc0JkUERDMmtyQjBOUlFYUDdFYS1NOWFmb3hiMnBKaVVCY0M4MzhRdEh5Y2RrT3BfSG9NQmZiU1FBXzJac2x0TkpJOGVmN0pGLWNjS21Iem5WVWFXdDlBaFZ3QWtZN1U2dDFXbFo0MzZBZ3E4c2hMN0lUTnhZWnZhbVYySVVKZXpaVmw0TElIWTdQbXhidjNSQ2hMZXU1NFRva0hkNnVOeXRDa29SU0RaYzU0ejdROXpqSi0tOVRWb1NwQmxPWXE?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 02:06:15 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "texas senate"
-      ]
-    },
-    {
-      "title": "Democrat's lead shrinks in Texas Senate race ahead of early voting - El Paso Times",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOFVqYXVkcW1UclI0QnBtRGRvMFE0elRON3ZDYXJ2MTRmRnp1NUhrUGlLajVUUnFnc2pVWU1TMmxZNThYZVFZRXYyOW9sWF96emUzRTdCVndoT1dZb0Q4SHB3ZEN4S3RQOS0zR2FNOTBaTXhZeklpODVhZ1JCVDNkeHNSSkw1c09aRF9PM0xtRlRTVHpDOEx3ZTVidElkZE1ESTVGZkVqeUhOcnRCelFSdnhDZVNzd3JqU0xCdUtNVkFhRE8xQkhVMVNMNDNIVHdVQlA0Sk1RVkU4WkJGODhUeEdMNmJsdXNoY2hfM29YODY?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 16:33:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
+        "talarico",
+        "james talarico",
+        "paxton"
       ]
     }
   ]
