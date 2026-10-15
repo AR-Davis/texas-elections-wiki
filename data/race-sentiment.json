@@ -1,9 +1,119 @@
 {
-  "analyzedAt": "2026-10-15T03:59:40.181Z",
-  "newsFetchedAt": "2026-10-14T23:48:05.181Z",
+  "analyzedAt": "2026-10-15T09:01:26.176Z",
+  "newsFetchedAt": "2026-10-15T04:07:11.472Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 5,
   "stories": [
+    {
+      "title": "James Talarico challenges both parties at CNN town hall in Texas Senate race - Dallas News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdndFQVlPeWdoSGdVZlF2clZnbWNLMW5JdkJ1Z3Z2ZEdXRGpQajN4VGVwenRCQlpRWmZ2eV9maDBYWFFualV2MVVneExCMm94NGVXdEwwQnUwSXlCTTRmZThQaGw5ZVhoV0QtS0V4NW9NS0FPdkhVZDFGTW1VT0xsRGVlT19Vem5JaXpCd0NKU0VTVFlndTdneERKTjNtNGpXQ0liZk5wU0t2NTZOTUhv?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 02:26:28 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 28,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "At CNN town hall, Senate candidate James Talarico woos moderate and undecided voters",
+      "link": "https://feeds.texastribune.org/link/16799/17497875/texas-senate-james-talarico-ken-paxton-cnn-town-hall",
+      "pubDate": "Thu, 15 Oct 2026 03:07:38 +0000",
+      "feedSource": "texastribune",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Election Dispatches: Talarico Remains Ahead in Texas Senate Race, Polls Show, but His Lead Has Narrowed - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wNmdtWGQxTVkyNlVEWmd2Yldza3pvd0NpYkp3bHFsWlcxbkNUeTdIQi1qWGlnNlkyQ1k4ZlFuUDdEX3FSRnVUNHBGWUt5el8tT0FGbHVaVjNOVU9STHlrZEV6c3M0TmVCakNCVGo2QlFXYWNxZWc?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 04:03:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Texas Democrat James Talarico faces grilling from voters at town hall in tight Senate race - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbjc4am43TXVKcldaUFFDY3VCRktoaWpSQ0NQS1JDYkhTMHM1UGJhMjg4SVpsUEh1Q040aGJVSDZOVmoyZVh5d1dpMzI4dlNBTjBTTDRlZW9YYXVaMkRhU1FxZzZHYUhxUGEtSFlwcjB4ZDVmNERqQjQ1eFZ1QnNGTEJXYmxKNG5PdFFlSjUwbkM1Rld2V0RqMDk1UnVaR2RxYVowUFJKUU8tM290OXc?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 03:08:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 18,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "senate race",
+        "texas democrat"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Texas Senate race remains a dead heat as early voting approaches - FOX 7 Austin",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSXdJYkNQQk0tWElGVnUxNXVtZGl6VWdMY2hIc0JaaENxbnEwTkVnWWVDNWZaVGp0WVBmeG9TeVhmWTRrQ1BiVWpMd29Ba3BUTW5lM01ZMkFDd1plck8xNUNiWUZjYnBvSVQxZFdrSk13NGFjaHRNc05FSkdpYS1Vc2pIRVlDZTIwelE?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 17:08:23 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
     {
       "title": "Talarico to appear in CNN Town Hall amid tight Texas Senate race - KVUE",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVVY0a09KYXVyWVk1LUNaTFJ1YmhrdjhOTlp0aFRiUzgzdUtHMHh4SGNZLXROZl9SVGJkd3FlUjJWUURWQ1dwQ0hKVlBrWlNxbk1zNDJhTDhvNU9fTlFMeVBSVDZoajVyTWRHdHlPZGdib2ljd0NMQXM2OUtFUWJrWTgtZVQ0a2VJRFJQWDZaUm5fenR1SjllaXM0andNcUxqRVdxOUdlVXFhVUNSU3VrWnAxY29rdkpJMnN5ZzNQUXlUREt5Mjl4TUJsSGZvOENBVzJadER4cw?oc=5",
@@ -2055,138 +2165,36 @@
         "source": "local-fallback"
       },
       "error": "HTTP 405"
-    },
-    {
-      "title": "Texas Senate nominee James Talarico reappears after multi-day absence - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUXotNHRNM09hY3N1ZEJ6TWZYSmhURzVaa0R4eDRBMzluTGt0X08xbmxtMDFKek0zTUFVMWdHbkZDZmpMa3pBbThucHRWbjhCV3ZsMGRHeUNpVHpJZ05GZWVKM2dxOGM4Smd1dTh4QUdUZEc1ZWZsSS14UThNcXg3TEdsbHFaVDg4OHRMNkJPb1RrWkxtMXVLTC1keDFkMHNrZWVjWlRROURFc1Y1ZFNoYlg5bHFOeWFGWkdMT1JBRkUySUZpekE?oc=5",
-      "pubDate": "Sat, 10 Oct 2026 00:08:01 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "What happened to James Talarico? Texas Senate hopeful returns to campaign trail after lengthy absence | Hindustan Times - Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOV3BJUlJDSjNWdlhSdTZzekNWME9GWkdRSnRkVzZuMTgzaUNzS3RBZm9DNHFxVWFGcnBtZ1BaSUI2b3NhcDRtQUZCSzh4M3JyLUlDOWFzX1ZIWXJ4RVdDRXhwTWV2OEE0WTJia1lKRy1oc3RSdnQ0RzkzVkZjMXZuRkRSTTE3VXJvSjYwdlVJZHQ0VDBFekdpa2dFRHBtZFVkcDNvcmhFd2pPQzhrNDNkN3JvR0F2anV6TW5ORmJYNTEzcloydExHcnRkSEsxTGV6WUlrVUlPYzVkYy1ZVGJ0a3lSYmg2dk51MXJFLVdwUVdvbVFQVGZhWFlyRHo3cHp40gGGAkFVX3lxTE03bzEyQklocW5JSHkxa0NoTzFKbEo5MjdQTG4tcEJrNUY5NGhzUklpWk9jZ2RyTlRjZW9Lb3pjaWtCd0FVRE0yMDFWRHg3MFpiTENGZGh0a1Q2UDlYTW96aWdRSFMwUlhDU2RkRGtnTDU1NXBmSnk5WTVHQ0xnRzA0MUxINXFtblZ1MGZnUUF1WVNXRVBSVXdrR1NwVXVGd1Rhb2t1WFV3VzdzaVRhc1R6LWdQa1o0dWNteGttb3dMcWdTR29fMUY2QjZKMjJWYTkwNld4cnpVYmgyc21vRGhGYlk2dE5oM1VDNXpSMFYwOTU4bFQtSXdraUZJRTFfRFRJSFZvM1E?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 23:46:33 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "As Paxton asks ‘Where’s James Talarico?’ Trump urges Senate debate - KTSM 9 News",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWXNGNzRiaF93VGhnUEVFSWRxRVdyOWhBczZqOUJIeVBXRWZxODNzU282STJJeWt0RXY5YmpOR052MkU3LVFTMFdid2tXV3RLNk1FakRBT2tXZ1pXSC1lZmMycDVNT1paMWdLTUNRUU5uUURjS3RYb1dyOVFVOHduVXduV25kaVh2T25fNU5MSFpjUU54OWJqRlR6YzhfZE5OOHRjRDdUSi1WXzlWMVRWOXpwRkNCQdIBrAFBVV95cUxNbkVmcDYxZkY5V0pwNUJQam5qNnhVUUlqWmNySVB5R05USGZ2RkJmc3VfbGVHbGFSMTNUTno1NXp2R0dwUGNQWElNVlZTWGQ5SjVmSGdTWTFvM1Iyc3VnVDJWZFl4NDdNQlY0TlljY1NMX21MZ0F6NHQwV094WnV5eGJmOTlHemN2MGN6aGViRk81eDZJYlhjaUtiVjJ1OFBiZ2ljYWt1d1RxQm5v?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 00:42:23 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "Talarico and Paxton Tied in Texas Senate Race - Political Wire",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNclhmaGRjZkVOMkRGRnBmZXBEOWtKa2NyMWJSTHBETU1nbmVQdC0wdkRZSjI4eFlUSG9HVlBxXzJLZTdpTm9EQ293Q29hdkpxcjlXajdBUkJYWnlfWm5HbmtiazdOYTdhcEZ0Wkczcmc4LUJ1WGtmLUFnSEVWbXRMSm8xT00zWkV0VnpB?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 15:28:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "President Trump calls for debate in tight Senate race between Ken Paxton, James Talarico - 12newsnow.com",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVnNnV2ZVa2tOcFNnemtNOTFNRjhoS001LXdTOVN0MlJHcU5ubG5UR0VFaXQzMk11d3B6em90ak1BS0twdWt4NG5mVGFGSnpVaE41ck1kM01vZTFSUUZQVTZDNC0wTU9YRFBHNHAtV2Q1ZlZBdnNYd3lqUVVZbElxc3pFdlF1V2QxRTRzckpLTGlPYTltVkhOS3dzWjY1amJHSzZpekl3NWhKYkFKM2kwd0RacXBhVTBPSVZyQWtVR0xzRnNCQ05RSFlmUnhwc00?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 22:26:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 25,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "senate race"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
     }
   ],
   "weekly": {
+    "2026-W42": {
+      "talarico": {
+        "positive": 1,
+        "negative": 0,
+        "total": 4
+      }
+    },
     "2026-W41": {
+      "general": {
+        "positive": 4,
+        "negative": 0,
+        "total": 11
+      },
       "talarico": {
         "positive": 8,
-        "negative": 14,
-        "total": 37
+        "negative": 12,
+        "total": 35
       },
       "both": {
-        "positive": 10,
+        "positive": 9,
         "negative": 6,
-        "total": 39
+        "total": 36
       },
       "paxton": {
         "positive": 2,
         "negative": 2,
         "total": 14
-      },
-      "general": {
-        "positive": 4,
-        "negative": 0,
-        "total": 10
       }
     }
   }
