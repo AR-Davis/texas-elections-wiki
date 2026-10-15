@@ -1,9 +1,78 @@
 {
-  "analyzedAt": "2026-10-15T14:05:40.134Z",
-  "newsFetchedAt": "2026-10-15T09:18:58.384Z",
+  "analyzedAt": "2026-10-15T18:31:39.664Z",
+  "newsFetchedAt": "2026-10-15T14:20:46.094Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "James Talarico touts record fundraising haul in Texas Senate race - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaUdLZFpWemVaOWJPSlBHR1hIQzNUeUs1YmtYTFotTm5tQS1NT1J6SGhCZkhsUWQ1R1ljdU1tSlVLVG53WXVqdmpOLWJJUmNSUTBuX0xDYmVUTEUzd2xkWnIzbW44X1g2MG42cjFHQ3JFU3J1QTYzanRjS3Jpd1BGa0hiaGFMcmFPazg0WWZDVi1kenRrRzJ6LVBXb2ZMRDlkM09TXzFFU2R6aGlkQ1Z1dUkwLXZ2VlM3b3NOVQ?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 13:24:02 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Texas Senate Race: Who Is James Talarico, the Democrat Threatening Republicans' Hold on the State? - International Business Times, Singapore Edition",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMUx5YkdkMXBPNEd1YmJObFp5SkZzRG9vRXRBak5sZldqYkhrQjZrMzJqUW44Y3lyV0ZzSWJfdFlTb21EOWFMbGFKVzVERzFWdnZmdVR2ckhsSkt3aGdzWlhrT3d6Q2xvR01Zd2oyckZWTjltVFNLVDEyRnY3b2FtcjloSEhJQU9rUEtPVndjelN5MVBuZk12V1p1NWdtREVGSzVtWk5lVDBWLWNlU0E?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 11:06:12 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Talarico Leads Paxton in Texas Senate Race · Oct 14, 2026 - ActiVote",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04dy1EY0FLZVMwLVdoYVpOQVhYck1GTTdaNXdMNjZrRWNSMEZmMU9iUEczQkk5b1lBQ1BOZEpHNFVkNzV3STNQenhEM1kteHUwVkw5LVFsRWhVTjhSQ0FBZ1JWa2tvdzdPOWs1U2pB?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 07:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W41",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
     {
       "title": "Who Is Katy Voting For? James Talarico vs. Ken Paxton in the 2026 Texas U.S. Senate Race - The Katy News",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTFBFUnNuY2d0WlFZTEFkVmRXRWZZbHZ4YVZJWVJxbkZBM0hvc2ZNX1N6N2ZZSXpwZF9WTWJnOFc3QW1GZkJFN3JhMUk0RWx4TElOb3l6RS1CQWlmQUZlS2Z2ZnAtcmhEd1NIdnZwNXVzRWZhbmtLZHMxQWY2dFN5ODd1TFU3N0VhLUxOVQ?oc=5",
@@ -2100,102 +2169,36 @@
         "source": "local-fallback"
       },
       "error": "HTTP 405"
-    },
-    {
-      "title": "Where is James Talarico? Ken Paxton says Democrat is MIA - Washington Times",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUFZzZE1oOGkzUVBHMWs1akdaa2taSEdGa0xIVjF0NzFpVTlWN292bk5sMjV2NmxXZE1OeGtVemowaUJUVGItbnNCeTdjaXhWTVgyVzlPUXN0MGV6MlB6YW1seG1ZZ2tGRUp2WTBvRC1aOG5NWEpGYk9HV253dUV3aFZ2SnhLWlEzSVVLcWFUS1RHVnk5S1JB?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 14:31:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "'We'll never forgive you': Trump acknowledges Democratic gains in Texas Senate race - WOAI",
-      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPU2ZaRFE2RlFIYURUaFlKU1dJQVUtUW9uTEc2SWQwMzBXTjZfSUNRZDdpZHJ1VVdkV0xnaTgyZnZvX2N5NEtUb1RQUDY3MHpjcVF6UEk3M1V4OUlsRjFoRGFKdXQta1ZLNjFsaVZ2YjF6aldBVDd2dEZFclktTVA2dFBRdVVoV1dTMlRXNVpMclg5bERNR3I0UWlocUpPVkNDdFRQQjNyaHhEZndDZnNZRnZEZDBkTUwxMkVVS19DbXpuREI2ZWstcE5ZQlFFYkFXdlRJS2JzZXJ2UTJQNzA3cUlVZ3BaQXpscGh0bzVwVzgtR2piZ01tTGE1ZjdJZ3BjVWdlSUZ3TFNTNGZTQ0tmNGlmdEM5d0dZdXVvYkotblRPZEg1LWc?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 18:19:04 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "Willie Nelson endorses Democrat James Talarico in Texas Senate race - Washington Times",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYXFUdEhvYi1PUnRvNFQ4cTVjTEtRVlo3WkZDVTlOLURPMXJoTzZtWHlCYXRPWEVqVDRnZnVKdXJ0UFBPQS03Q3lTZkF3SzMwZ0lFVEdRei1lWEdMdC1wMDlPRlBacldHQ2hkYUFlaWJ0Z0Z5dnM2M21xN0RIWWtONVRVMFZ5NGV4VjBPZS1hQWpoWTVNSEktRHlSUHB3OXNKbzgyTGRLek0zVWItWXFlMzZSUQ?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 15:14:19 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
     }
   ],
   "weekly": {
     "2026-W42": {
+      "talarico": {
+        "positive": 1,
+        "negative": 0,
+        "total": 6
+      },
       "both": {
         "positive": 0,
         "negative": 0,
         "total": 1
-      },
-      "talarico": {
-        "positive": 1,
-        "negative": 0,
-        "total": 4
       }
     },
     "2026-W41": {
-      "general": {
-        "positive": 4,
-        "negative": 0,
-        "total": 11
-      },
-      "talarico": {
-        "positive": 8,
-        "negative": 12,
-        "total": 34
-      },
       "both": {
-        "positive": 9,
+        "positive": 10,
         "negative": 6,
         "total": 36
+      },
+      "general": {
+        "positive": 3,
+        "negative": 0,
+        "total": 10
+      },
+      "talarico": {
+        "positive": 7,
+        "negative": 12,
+        "total": 33
       },
       "paxton": {
         "positive": 2,
