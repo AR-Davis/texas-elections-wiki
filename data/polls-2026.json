@@ -4,6 +4,17 @@
   "source": "Wikipedia: 2026 United States Senate election in Texas (General election polling)",
   "polls": [
     {
+      "pollster": "ActiVote",
+      "sponsor": "Independent",
+      "date": "2026-10-14",
+      "sampleSize": 400,
+      "marginError": 4.9,
+      "talarico": 52,
+      "paxton": 48,
+      "undecided": 0,
+      "method": "LV"
+    },
+    {
       "pollster": "Quantus Insights",
       "sponsor": "Republican",
       "date": "2026-10-09",
@@ -588,8 +599,8 @@
     }
   ],
   "averages": {
-    "talarico": 46.7,
+    "talarico": 46.8,
     "paxton": 44.6,
-    "undecided": 6.5
+    "undecided": 6.4
   }
 }
