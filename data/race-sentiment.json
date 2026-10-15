@@ -1,9 +1,32 @@
 {
-  "analyzedAt": "2026-10-15T09:01:26.176Z",
-  "newsFetchedAt": "2026-10-15T04:07:11.472Z",
+  "analyzedAt": "2026-10-15T14:05:40.134Z",
+  "newsFetchedAt": "2026-10-15T09:18:58.384Z",
   "totalAnalyzed": 100,
-  "newThisRun": 5,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Who Is Katy Voting For? James Talarico vs. Ken Paxton in the 2026 Texas U.S. Senate Race - The Katy News",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTFBFUnNuY2d0WlFZTEFkVmRXRWZZbHZ4YVZJWVJxbkZBM0hvc2ZNX1N6N2ZZSXpwZF9WTWJnOFc3QW1GZkJFN3JhMUk0RWx4TElOb3l6RS1CQWlmQUZlS2Z2ZnAtcmhEd1NIdnZwNXVzRWZhbmtLZHMxQWY2dFN5ODd1TFU3N0VhLUxOVQ?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 05:18:27 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
     {
       "title": "James Talarico challenges both parties at CNN town hall in Texas Senate race - Dallas News",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdndFQVlPeWdoSGdVZlF2clZnbWNLMW5JdkJ1Z3Z2ZEdXRGpQajN4VGVwenRCQlpRWmZ2eV9maDBYWFFualV2MVVneExCMm94NGVXdEwwQnUwSXlCTTRmZThQaGw5ZVhoV0QtS0V4NW9NS0FPdkhVZDFGTW1VT0xsRGVlT19Vem5JaXpCd0NKU0VTVFlndTdneERKTjNtNGpXQ0liZk5wU0t2NTZOTUhv?oc=5",
@@ -2143,32 +2166,15 @@
         "source": "local-fallback"
       },
       "error": "HTTP 405"
-    },
-    {
-      "title": "James Talarico returns to campaign trail at ACL festival after illness spurred GOP calls for “proof of life”",
-      "link": "https://feeds.texastribune.org/link/16799/17493121/james-talarico-returns-to-campaign-trail-flu-austin-city-limits-senate",
-      "pubDate": "Fri, 09 Oct 2026 21:46:54 +0000",
-      "feedSource": "texastribune",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
     }
   ],
   "weekly": {
     "2026-W42": {
+      "both": {
+        "positive": 0,
+        "negative": 0,
+        "total": 1
+      },
       "talarico": {
         "positive": 1,
         "negative": 0,
@@ -2184,7 +2190,7 @@
       "talarico": {
         "positive": 8,
         "negative": 12,
-        "total": 35
+        "total": 34
       },
       "both": {
         "positive": 9,
