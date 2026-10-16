@@ -15,6 +15,17 @@
       "method": "LV"
     },
     {
+      "pollster": "InsiderAdvantage (R)",
+      "sponsor": "Republican",
+      "date": "2026-10-13",
+      "sampleSize": 1200,
+      "marginError": 2.8,
+      "talarico": 48,
+      "paxton": 49,
+      "undecided": 0,
+      "method": "LV"
+    },
+    {
       "pollster": "Quantus Insights",
       "sponsor": "Republican",
       "date": "2026-10-09",
@@ -600,7 +611,7 @@
   ],
   "averages": {
     "talarico": 46.8,
-    "paxton": 44.6,
-    "undecided": 6.4
+    "paxton": 44.7,
+    "undecided": 6.3
   }
 }

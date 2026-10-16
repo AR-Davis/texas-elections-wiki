@@ -1,13 +1,20 @@
 {
-  "lastChecked": "2026-10-16T00:35:04.607Z",
-  "wikiPollCount": 54,
-  "newPollsDetected": 0,
+  "lastChecked": "2026-10-16T01:55:13.301Z",
+  "wikiPollCount": 55,
+  "newPollsDetected": 1,
   "latestPolls": [
     {
       "pollster": "ActiVote",
       "date": "2026-10-14",
       "paxton": 48,
       "talarico": 52,
+      "undecided": 0
+    },
+    {
+      "pollster": "InsiderAdvantage (R)",
+      "date": "2026-10-13",
+      "paxton": 49,
+      "talarico": 48,
       "undecided": 0
     },
     {
@@ -65,13 +72,6 @@
       "paxton": 49,
       "talarico": 51,
       "undecided": 1
-    },
-    {
-      "pollster": "Pulse Decision Science (R)",
-      "date": "2026-09-24",
-      "paxton": 48,
-      "talarico": 45,
-      "undecided": 4
     }
   ]
 }
