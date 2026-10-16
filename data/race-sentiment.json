@@ -1,9 +1,77 @@
 {
-  "analyzedAt": "2026-10-16T18:16:55.535Z",
-  "newsFetchedAt": "2026-10-16T15:28:22.299Z",
+  "analyzedAt": "2026-10-16T21:35:11.890Z",
+  "newsFetchedAt": "2026-10-16T18:58:13.431Z",
   "totalAnalyzed": 100,
   "newThisRun": 3,
   "stories": [
+    {
+      "title": "Talarico raises record $64M in Texas Senate race against Paxton - El Paso Times",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQnZLTWltVWlRcXJ5T1d3MVN0ekMzNVpWR3RtM1Vna0RkSWxYbjFtZUQ3b3lZNGtVVmlxbDdaV3Fab3FKWk9zRzZDdmkzTFQ0NHhjTWc5MnZrMml2R0Y3T0dnemVvR0VVZTNIeWJ3UmJqWUFzWXlZMTZfQUtVQjI3OWNzNnhKVGpQMlRCbnE1SEwxejJLLXpmS3E5Xy1ocS0ydmltaVNMMmNVbjhYMEliRUhhOGdkOHA4dTZiMzVpeXdLTUdmaWpHVS16aEU5LVdBd2pSc2ZGSXgwYUVqWk00?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 18:11:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Trump: This is why Ken Paxton might lose Texas Senate race to ‘radical left lunatic’ - NJ.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMnB0Tk1LanNTSHNSQTBQdVByZ0htcG1ueDV3d09JRlItOHFYemNHMFJHVmlVWDg0Q0Robml4clVhVTFyUnZmSXVVaVN6d2stckVZS2g1Y2NfMW5sQVpsMXJWZkhCdUpSdVRJU2RkS0ROdEhnRllCcU4wX2Q2MldVZ0lCYzBINzFHZVJMTUhpMldFRHBhOThCT0xxZ0MzMlBXT1FGckVISWItZEMxOEVlRGZ0NHJ1aWMtSkNERThwUzlOSFlIWVZUaWxvcndqZ28?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 14:44:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Texas Senate Race: Talarico Casts Himself as David as GOP-Aligned Money Pours In - Around Prague",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcWFBRGxDdW5NN2ZiMjNMaElvbndoZmtoUXBGUVNSR0VfVmQ0ZHJUcEdvemoySXVPVF81UDVHaDdLOEl0aElwSGZIeHZtZDh4eFBuOHVHb1E5bTZVczhnNWI0RXp0REV6MFN3VjdGaDRhc3dpQ2ZSU0V3d251OTJvbXI1cUZJMHhaN2dNc0FxM3F4V3ZZNW9qWElTelcwQXljbGhrLVNZQ0NJOGRjdEp1bHpoUVg?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 16:07:53 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
     {
       "title": "Elon Musk gave $158M to support Ken Paxton in close Texas Senate race - USA Today",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSEw2ZDhUanBrcFYxZzZTQ0RuX2JWYTl0c0t2MnpvR3ZnRC04SWdjbHEwbkp3WldKQVB1Rk1xajREOFpxdUNiZnl2ZVlGUUpnaHk1MkpMTnFnMllRT2E4SnhRVEUwRmpURG1Nb2E5cUtCR3ZnX2VscDlpbXE3aTA2anAtaWpKU1p3VFA0NzEtd3NMNmtOdkMwSEx5VVBWYTFOMFVtSXB2eGxiRUJPNWlUMUN6V0lFdTMy?oc=5",
@@ -2113,103 +2181,36 @@
         "source": "local-fallback"
       },
       "error": "HTTP 405"
-    },
-    {
-      "title": "Talarico ‘Really Sick’ As 12-Day Disappearance Shakes Up Texas Senate Race - The Daily Wire",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZHNIdXBIa3J1YzZVUGJlOXJKVzh1VXdmbTNQeVJYLW45Q0hEM3FuVGZ5bVdGampLbVVSMWhNNGNxMHg4WE5MbFEwem00UGlUVU1XdG00S1NRcndwZmJHZDNNS1lWU01iLXRiY3FkY3phOXktOHdQMjdIcmFka0VneXJLTGZHOHVRNzhEUUc2MGd0ZGNTSlA3MXVsYUV4WmJIMERfekJ3?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 15:16:11 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "Ken Paxton rallies Texas voters as Senate race with Talarico tightens - Detroit Free Press",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZmJ0WXJsZ3ZEaGdRWThaUVZPMU9wTmRqNlFoRzRvanRyYWpMSXN5MnRRel94M2hUeWZrUkdzckRwdDItdzdjaTF0YWw1Y05LaUlzX1VGbUY5ZGxQZFIxYUM2dGkwOWF2YXNabV9iVENMUWM4QUdQUC1GVG56eVhpOGFNa19HeUdldTh0UEE0WkNTWFhxY2FWWG1pejhSTGZMV0pNX083cWJtSEJI?oc=5",
-      "pubDate": "Sat, 10 Oct 2026 13:46:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 20,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "ken paxton",
-        "senate race"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "Where Is James Talarico? What His Disappearing Act Means for Pivotal Texas Senate Race - The Daily Wire",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uMUZaWVlXbThoUkY3NkpzcWI0UVdFcnZMTENNS0l4NlFMdnBqVEc1U1N3RnBOLXBGWGxpM2JSN1g5NzhXYlU0VUpDUFAxb0VUX2k2RFFnSTY?oc=5",
-      "pubDate": "Sat, 10 Oct 2026 16:00:25 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
     }
   ],
   "weekly": {
     "2026-W42": {
-      "paxton": {
-        "positive": 1,
-        "negative": 1,
-        "total": 5
-      },
       "both": {
         "positive": 0,
         "negative": 0,
-        "total": 5
+        "total": 6
+      },
+      "paxton": {
+        "positive": 1,
+        "negative": 2,
+        "total": 6
+      },
+      "talarico": {
+        "positive": 3,
+        "negative": 0,
+        "total": 11
       },
       "general": {
         "positive": 0,
         "negative": 0,
         "total": 1
-      },
-      "talarico": {
-        "positive": 3,
-        "negative": 0,
-        "total": 10
       }
     },
     "2026-W41": {
       "both": {
-        "positive": 10,
+        "positive": 9,
         "negative": 5,
-        "total": 33
+        "total": 32
       },
       "general": {
         "positive": 2,
@@ -2219,7 +2220,7 @@
       "talarico": {
         "positive": 6,
         "negative": 8,
-        "total": 24
+        "total": 22
       },
       "paxton": {
         "positive": 2,
