@@ -1,9 +1,54 @@
 {
-  "analyzedAt": "2026-10-16T00:09:16.573Z",
-  "newsFetchedAt": "2026-10-15T22:03:20.160Z",
+  "analyzedAt": "2026-10-16T04:51:17.442Z",
+  "newsFetchedAt": "2026-10-16T00:38:32.285Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Trump blasts “political hacks” John Cornyn and Karl Rove for failing to support Paxton",
+      "link": "https://feeds.texastribune.org/link/16799/17498531/texas-trump-cornyn-rove-truth-social-paxton",
+      "pubDate": "Thu, 15 Oct 2026 22:03:21 +0000",
+      "feedSource": "texastribune",
+      "raceScore": 31,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "cornyn",
+        "john cornyn"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Texas Senate nominee James Talarico blames Benjamin Netanyahu for Gaza devastation - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wcHJxRnFxbVczaWExS2RxcFlYUGJUUm5zQXVqN3FhSEtGc2F5Rmx4VTk4SmMtSTBNb1JzNzFDbWRhSmtoLTQzQ1pKRlZtYmVqOVVFNkRneVktX1U4TFJuNU9LR2Y?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 00:12:24 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
     {
       "title": "Trump says 'if Ken Paxton loses' Texas Senate race, blame Cornyn and Karl Rove - CNBC",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WNFBRV1VOV0dya2xCZzg0Z2tpLTlpWFhuQURSUTFjV1VEWWR5Y1R2MTZnZEhJY1NzMEphaHNNZkJTNURUQ3B6Ymh6ZFRBOGhnOEFYSlZKOV9oNDJsT09qYVhDLUU5ckhtRmV0Nmd6WEtOUdIBd0FVX3lxTFBhaDNGVTh4ZzhleVNmbURoRnJZLW54bzd0UXJXRVl2SDhRRVBrbzY1dkp2RU5GSFNFcFBHN2JndGFqS3Fub0tUbGpWOWxuVVo5MUpIa3NFc3A4Uno4ZVJha2xwT2RZYTNKc3pnMnBzWGF0dW5mNy1v?oc=5",
@@ -2133,50 +2178,6 @@
         "source": "local-fallback"
       },
       "error": "HTTP 405"
-    },
-    {
-      "title": "Texas Senate Candidate James Talarico Is No Longer Missing - News Radio 1200 WOAI",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTV9PTlN4bGpkQXRwOW1kSEJOdHpRUXdXYm9vb29rUFduQmUwemxDNDkxV3YyTWE1VC13RnRPbnlBa2R2SWhxVmlZeUhrN1ItQi1NMENkZVl1d3dLNUJDQi1zQ0pPTWQteXhWb0JheWtOVXgxQUR1RzlVeWlYY3RlcXBRZ0tuZWVKUmVJMVJLRV9WUHdYaFZiNWNFQnpseW5ZamxnN002bVdZbENjVWhOR2ZYT2N2Vm9rc29JZlBjV19RQXBUOGNkSHlZakpEaEJf?oc=5",
-      "pubDate": "Sat, 10 Oct 2026 11:45:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "How James Talarico promotes liberal Christianity in Texas Senate race - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT21zWjhlc2I1dmtXdWdwQmJRQkE4TWdiaGp1OWNzajZha0R1SHN6MUdUODVkYnJTMkRFOWY3NUpJc2hNSG9Jam9sSGZnZmEwc0xXMTlVejBhVXVKblF5OEpBZTVLZ0xTcjltYndxLWpQTHpNaGI0ZzdqX0FNR084emEtc3BRZVlWYmJpOXNfbGdKcHdkVlhtUkJUeWhVN01OMjA1R2ZvS0hpYmFUcldiVU05VlU1bUJUVmZfdWhn?oc=5",
-      "pubDate": "Sat, 10 Oct 2026 11:01:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
     }
   ],
   "weekly": {
@@ -2184,12 +2185,12 @@
       "paxton": {
         "positive": 0,
         "negative": 1,
-        "total": 2
+        "total": 3
       },
       "talarico": {
         "positive": 2,
         "negative": 0,
-        "total": 8
+        "total": 9
       },
       "both": {
         "positive": 0,
@@ -2210,8 +2211,8 @@
       },
       "talarico": {
         "positive": 7,
-        "negative": 9,
-        "total": 29
+        "negative": 8,
+        "total": 27
       },
       "paxton": {
         "positive": 2,
