@@ -1,9 +1,99 @@
 {
-  "analyzedAt": "2026-10-15T21:40:54.823Z",
-  "newsFetchedAt": "2026-10-15T18:32:19.334Z",
+  "analyzedAt": "2026-10-16T00:09:16.573Z",
+  "newsFetchedAt": "2026-10-15T22:03:20.160Z",
   "totalAnalyzed": 100,
   "newThisRun": 4,
   "stories": [
+    {
+      "title": "Trump says 'if Ken Paxton loses' Texas Senate race, blame Cornyn and Karl Rove - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WNFBRV1VOV0dya2xCZzg0Z2tpLTlpWFhuQURSUTFjV1VEWWR5Y1R2MTZnZEhJY1NzMEphaHNNZkJTNURUQ3B6Ymh6ZFRBOGhnOEFYSlZKOV9oNDJsT09qYVhDLUU5ckhtRmV0Nmd6WEtOUdIBd0FVX3lxTFBhaDNGVTh4ZzhleVNmbURoRnJZLW54bzd0UXJXRVl2SDhRRVBrbzY1dkp2RU5GSFNFcFBHN2JndGFqS3Fub0tUbGpWOWxuVVo5MUpIa3NFc3A4Uno4ZVJha2xwT2RZYTNKc3pnMnBzWGF0dW5mNy1v?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 20:41:18 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 31,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race",
+        "cornyn"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Trump preemptively blames Cornyn and Rove should Paxton lose Texas Senate race - Washington Examiner",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ3d2aXZfT3VUbG5lSEtjLWc5QVRlTjRJOXBORUZyVTJ5c0FYUDc2RGZ1N0V0NXowQVI0cjNUZUxzVnFXd205dXQxcUxfTVAxaUpHbndZblo5OFBqdlJwT3N4Zk1lN0UyNFo0YkVfZW1hMElBWUNTM1dmbW8taTJWSmdYclpqWlg4cXJNZGE1dExkZjZmaEU2aUNyOFoxXzVWVWh5ekpTY3ZTUWRNOElF?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 21:49:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 25,
+      "matchedKeywords": [
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race",
+        "cornyn"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Democrat Talarico says he raised record $64 million over summer in Texas Senate race - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQUJlTzNZQnlwTnlBa2FXT0xpaTFyV2lwZFdZd0VCVzl3REZsNDE3ZWw3d3loSVNRZWtGam8zRXhuOU16Z0QxSEp2N1pLRk9CeG5GMnNsSm1vMWk2d0lOelRBcDFfMVZ4MVd3U0FvbFp6RDRGODlrRWpjM25NcDlpUWNIcXczRGdkakxZX0ozLTjSAZYBQVVfeXFMUEpqVGJzQk5KRFZMaHRnT0ZqSjZla211TWxsVkd5NXBoWC1qeVJqNTF0aktTTUhhT2NPOWlvSDlsWU5PWk5IeTlVLVNXTGR0aTBOSVdyYXRmTkZVUXF1a0pneVpFRVhRRkU3R1lzOXZ2YklUcTlWZXlyX1ZGWm5IblVJSEo0WGZ1eVFmZ0lWcFR2UlVnbUdR?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 18:35:25 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Senate candidate James Talarico appears in CNN Town Hall as Paxton launches tour - Click2Houston",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcGVya2VUVkpqdFhkRE5JVEhWLTZFdEV5SkgxRGtKSGtCRmlWZ3pTYVRIZk5laFRjbmxlVTNoT3VFSVExNTQxcTREWGI2RWJLUHhzZDFhbFk1NTd2bW1sTlctX3pEcUtGSkk1MmdyZzZta0h6TWRDeHJzaGNkbks5OGV3QnhaVzRvTUljWHYzLThOVWFyY3piUTBTMGo2UHpFVmF0dUJqSXpQNzd5RHNIMFMzbHVMMnZ6NENDWVE2emEzWllNanBlNHFhVG1nZkk1S3dXbUN0bw?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 02:08:17 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
     {
       "title": "James Talarico Raises Quarterly Record of $64 Million in Texas Senate Race Against Ken Paxton - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ3Ixc1VuQUQ3ckhiRHBmOWtqZ1BWTm9LSkhHajZocktSeEtLdmlocUtqaU5MNkprNnBzRTNtczh4ZURkc2Z1eGlXRFl1OEdVSGlMR3pMZ1BfWEhWSHFyYzJzTDVkMWlabF9PUUVIaUZkRUM5dEtIeW9mQlVDRGhtR1B1Rlo1OW5nUkYzeHNCZDF3TGpuZWc?oc=5",
@@ -2087,112 +2177,31 @@
         "source": "local-fallback"
       },
       "error": "HTTP 405"
-    },
-    {
-      "title": "Talarico’s 12-day absence from trail becomes fodder for GOP in Texas Senate race - Houston Style Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOajliNjFXNUt3UGZvRzQ4RDBuYlRMLW9ES0s0LTNYd3I1WEpXb0tLbURmT0hkZW85OVI0di11cW1nbDRtTVVlT05ZLUJFRUlkY21OOW9NRnNRVmtYQmRCemNkOWZUWUtBYTFRUFB4cGlvSEZDNE5FcnoyeUZMdC1wM1J4LUFxbXJLb3ROaUhmRHB0bi1aT3dhOGctdnFtd2lCZHZKcnVJd2VPYlN0bUtTUmowQURvWTk4X3gtN25wZ18?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 18:00:08 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "Ken Paxton rallies Texas voters as Senate race with Talarico tightens - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ1F4dGY5eGpsMTVqTHpWZDBQQnp3RnV1ampoVjg5dlhSZTRTalZ5NUxLY095Y3hjV0RxcV9TQTlVSHQ0cDVNWEhTNWFIWnl6b2pxZ0dQZDQ0NXFTSTRxMUpoRHRNTTRrVzFPV3ZhX2h2UWwwMWxTS2V6NjRCUV80TGN5ME5waDFSeFNNUE5KNWZRdHZ5emk4LWZ3S01SRXB2NVhLamVIX0wzdUxoLUpVVw?oc=5",
-      "pubDate": "Sat, 10 Oct 2026 13:46:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 20,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "ken paxton",
-        "senate race"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "James Talarico returns to Texas Senate campaign trail after absence - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVlo1M1dGbmFyLVRTa2pQenR3V3N5VUdybHlSclpHdFpkWFpxbnEzSlliaFUzWVFZQ1lJRXNCMXk5V09XbmU0NUxvOVBNQ2RSdGhiODVDVlBaWXF5ZnNmeXlaa2JzUS1xRmk1ZmNPSnZFX21SRUw3Y3hDUkg4U3NHZnlMV0drUzhZZDJncTRiZng5NTVoRi1NRlNyS25ZYm1SbWhCOThZZmpVeXVraDd2RV9UUDRUZmdZY005LTJ0cXp6WlFRM2F1WlVScmpUeEprZ3dqRktDbmE?oc=5",
-      "pubDate": "Sat, 10 Oct 2026 13:46:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "Texas Senate Candidate James Talarico Is No Longer Missing - NewsRadio 740 KTRH",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU3JYaTY5OXZmRmVLM3NZeEl5eWU2RUMtY3F2TkNScHV0S1JNTjN5RVRrcFRpbmVVaDltd3pIaHVpYUs3LXZRNFY0WWVPSWtrQmRxUVR0aG1RczQtVXZkSHBOQS02Y290eWhNMW5tTTlEcl9BVWJnN29IYlR6VndzSmkta1h1dlJJdld5T1BjYy11aGx6LTEwUm9pWW5Kdjh4SFQwYV9sT3d2aENxakZaUWdyTXhXVk5GNnI5TkR4eVZqZDBBYlhJbE9R0gGsAUFVX3lxTE5aZ1BOcmdnTGtMTnA5cnhxa1AwWlhqOEV5NmszNTI3ak92ZVlVbXBmRDYzYURrSnV1dUJ6Z3lMcTVRZTRUelRqY1lLblUzTHdlZllXTVVJek9HTTh6SjVpdUJCVU5iRmJETzRITXlDb3hLUUluVzk3d3AtQXBJLW5CSXJIYmU0ek5qSnhiTFAyWVB0N2h1cVFhTGFXTTUwQU1vR2xpRWxSZkRWbGs?oc=5",
-      "pubDate": "Sat, 10 Oct 2026 11:45:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
     }
   ],
   "weekly": {
     "2026-W42": {
-      "both": {
+      "paxton": {
         "positive": 0,
-        "negative": 0,
-        "total": 3
+        "negative": 1,
+        "total": 2
       },
       "talarico": {
         "positive": 2,
         "negative": 0,
-        "total": 7
+        "total": 8
+      },
+      "both": {
+        "positive": 0,
+        "negative": 0,
+        "total": 4
       }
     },
     "2026-W41": {
       "both": {
-        "positive": 11,
+        "positive": 10,
         "negative": 6,
-        "total": 36
+        "total": 35
       },
       "general": {
         "positive": 2,
@@ -2201,8 +2210,8 @@
       },
       "talarico": {
         "positive": 7,
-        "negative": 12,
-        "total": 32
+        "negative": 9,
+        "total": 29
       },
       "paxton": {
         "positive": 2,
