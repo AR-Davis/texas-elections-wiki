@@ -1,9 +1,54 @@
 {
-  "analyzedAt": "2026-10-16T04:51:17.442Z",
-  "newsFetchedAt": "2026-10-16T00:38:32.285Z",
+  "analyzedAt": "2026-10-16T09:35:01.928Z",
+  "newsFetchedAt": "2026-10-16T05:40:30.476Z",
   "totalAnalyzed": 100,
   "newThisRun": 2,
   "stories": [
+    {
+      "title": "Trump says John Cornyn and Karl Rove to blame if Ken Paxton loses Senate race - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMENwbGtydU9OYXY5LTdUZ1owYXhRNldkcDRkbGVSSlQ5OXhXM01fN0RpYXprQ3BJQ2xJLTNQa2JhakNPV1RFdHJRcVZGWTlkSDdJU2d3RjlIM21Ma3JwUjVhZ1BGQUpXTHdSckxPS2k5eWM2UG91Y0RFWVhfdndQZDFGd19vV1JGeGpWYQ?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 22:03:21 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 24,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "senate race",
+        "cornyn",
+        "john cornyn"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Talarico rallies in San Marcos as high-stakes Texas Senate race enters final stretch - KVUE",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQVlNZNHVBZ1ZDdVIzNWdwbU5OcFBvekVKQTRMNG1fUE9VZlpXcGhubWI4OTVWVXFaSEtHbzBrWERzYTNCWDFxN3djMC1Qbkl3VFgxNVQtaWRLNlI0Z2Zja2hOdGJRMnh4WWRfVzZYMHRjRTZBX2t4TjFtNVNSeUlIanVpeGpVcWUyblNfbVdSWjdZM2NLVGtDa0l4ZkgyWlVoemdNQ0JFTXY3bDNsa0czRko0YW9PSURqZU9wMnU3MHJ1dzJFT2Q4bmxTWDl2ZUNqOWR0a0tPNE1OYXRKaDFmTXJqYWpsRW5VR1RkYWx1emQ4UFZGMVFITnhyTlFKTnVKRVNhcQ?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 05:19:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
     {
       "title": "Trump blasts “political hacks” John Cornyn and Karl Rove for failing to support Paxton",
       "link": "https://feeds.texastribune.org/link/16799/17498531/texas-trump-cornyn-rove-truth-social-paxton",
@@ -2134,50 +2179,6 @@
         "source": "local-fallback"
       },
       "error": "HTTP 405"
-    },
-    {
-      "title": "Ken Paxton’s Campaign Demands James Talarico Show ‘Proof of Life’ After 12-Day Absence - Breitbart",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeHFyRHpON2d4eXl5WU5KS3hpLUVxcS1qTkZQazNIUy05VkV3ckEtb201T1VlcHFOV0J5dE1DZ1JGZHBEa2xWcjladGpfYmpWX0RWYkxYbWU5a0ZhbGFiOEstQmd2RERJc1Y1VmxyUEJ2aDlBY21iX1pUay05OTlzemh4ZUZ4YVhOTzRxWFF3X1N3NGNTZXlEQVRvQ0NFNTJkQnFvMlZFWFZtY3ZqQkNEVFVpdFUxSE9GVnVodzRR0gHDAUFVX3lxTFBzS1ZtVUhQRFd5aEt4YVlkczBBVU1CQld3UTQ2bVZSWjB5emFXRVMxX2tPQkxLN2QyUjZaQVJwS0F3Nkh1SnJLdDM3Q1lGdHR6UnloS3JlcnRReHctMExhZExuVFZwelZCQjlMdXFUbzBCQm4tUWx3dUZIUUlyMVRIZlEwYTRPSmNWM29XNzhwVVA0bmRnNFlEaGE1VkdsbGRwSlo5WFNGaVp6ZGc1TDdJYmhfcUhuV3lZYlR1bExFWjNuVQ?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 01:03:34 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "Talarico ‘Really Sick’ As 12-Day Disappearance Shakes Up Texas Senate Race - The Daily Wire",
-      "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxOV3ZfWTl6SWIzYzg5YzBrMllWaDhqOVl2enFNajB6WUJKdVZlbzFLOHVvaUtoWFRaZFh2bEl3TjY1TmNJbTlEMHlMRHU3VjZFcjFzT3didi02MEc1X0twRVBhTXowNTEzMDEtUDNoUmJtdFpVSXVFeWFMZmd1LUVmc1NveW1SejlpSnAzMDc4VE11RFRrRWpGNXZwLVM4bUViYUJyaWZranZ0d1pkMGlVbzJiRnVtRFZrZ0tsQlMxN2FhS1VmVEk5WllqVXhrXzJ1NWlNZDZRTWhKVWZLREw4bklReUlvUE84NktOWVd5VkVHM0k4SHNSd0g4al9aaVpITjZ0a1F5MUgtV2hHZXUxS0NvVURFY3RYbTE5R0k1VVBzYzk5bnlHTjN1aWdXZ1ZSaWZIT0lPMEJ4bzd5dk1YMkFzbl9vVGgtdlN6WThvTXlTYTl0S1JCd0pjWkt5dVEteWxIcEdkWnRCV2VkV1kzTjU3QVJfNUFneVllR284RTBrT2NRYnVKQWFVb0hVWFFLa1VN?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 21:39:47 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
     }
   ],
   "weekly": {
@@ -2185,12 +2186,12 @@
       "paxton": {
         "positive": 0,
         "negative": 1,
-        "total": 3
+        "total": 4
       },
       "talarico": {
-        "positive": 2,
+        "positive": 3,
         "negative": 0,
-        "total": 9
+        "total": 10
       },
       "both": {
         "positive": 0,
@@ -2201,8 +2202,8 @@
     "2026-W41": {
       "both": {
         "positive": 10,
-        "negative": 6,
-        "total": 35
+        "negative": 5,
+        "total": 34
       },
       "general": {
         "positive": 2,
@@ -2212,7 +2213,7 @@
       "talarico": {
         "positive": 7,
         "negative": 8,
-        "total": 27
+        "total": 26
       },
       "paxton": {
         "positive": 2,
