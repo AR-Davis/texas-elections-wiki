@@ -1,9 +1,32 @@
 {
-  "analyzedAt": "2026-10-17T00:13:03.136Z",
-  "newsFetchedAt": "2026-10-16T22:00:47.412Z",
+  "analyzedAt": "2026-10-17T04:52:30.642Z",
+  "newsFetchedAt": "2026-10-17T00:42:47.867Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "US midterms 2026: Ken Paxton may have Elon Musk to thank if he wins the Texas Senate race. Here's why - WION",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRnV2U0xldkxYRzVIall4czRHeC1MQUtyWUVkM1U3UW1mMm00ZlIwSUljUG9iOW15RURwSGtUOWpsRnVLaHlJeUpxamh1Z3VURURlMTRzRURyNGxDZnB1d2ZBbkl3S2FUN0hnR0wxd1Fad2hMZHZQVGZiZFdXN1hBY1c3ekxBc3hadXdnbjhlR0tQeTF2cEFzRlZGekw5QldDXzhUaW96S3VVZThhcXREcXM3bjNPdWVsWmpNNl93Umo5ZDh2bkpRa1plT3lGX0tpTmNCdE1YY2JsWWvSAeABQVVfeXFMTml0cjJWWUc5dkNzeDJyc2x1M2s1WTdCaGtub1p6SVl1X3R1bk9rRDJCdTZ6elpLN0RBdEQ2cVkwcl83VXBvWVc2TjNNUnhIUFVDeHpmSnhKS3kxcEpmWDhXZjJtR1lQRjN5ZTRTZmE1NkQtTDVnWVhQNjlDTHpDT1JmSzk0R3lVS1NrdF9TOWhzUXRfU04tZkpydTU4VlphNVdSRHhNVGIxaW8yYWZVZ0VFT3ZuOXM2OC13TW12ajl2MzFibXh4UHZ2ajRfY3RsQ0JpeEVjNW1tR1lGV0Vwdlc?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 21:53:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
     {
       "title": "Tracking the money raised and spent in the U.S. Senate race between James Talarico and Ken Paxton",
       "link": "https://feeds.texastribune.org/link/16799/17383612/texas-senate-talarico-paxton-fundraising-spending-money-donors",
@@ -2159,47 +2182,18 @@
         "source": "local-fallback"
       },
       "error": "HTTP 405"
-    },
-    {
-      "title": "As Ken Paxton attacks James Talarico on faith, his church remains a mystery - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZTJUTmZLY2NyRUpUSG1DdHpGTXllUHF6TEdPUmp3am1VM0YtMGpxNHdZaVQ3Y25Oa3IyNUZMVXVMZ094ZDd2QzFwYmZxLTAxS1FpYW1xWDhFOGdnaGhsdzdPbGoxU2tpTFRLVk1KVmV2d1dWVVEzYUFhWkozaEZTWmNiZnNHS0dmanYtM2g4M2JTekdJZWVrZnd3?oc=5",
-      "pubDate": "Sun, 11 Oct 2026 09:06:56 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 23,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
     }
   ],
   "weekly": {
-    "2026-W29": {
-      "both": {
-        "positive": 0,
-        "negative": 0,
-        "total": 1
-      }
-    },
     "2026-W42": {
+      "paxton": {
+        "positive": 2,
+        "negative": 2,
+        "total": 7
+      },
       "both": {
         "positive": 0,
         "negative": 0,
-        "total": 6
-      },
-      "paxton": {
-        "positive": 1,
-        "negative": 2,
         "total": 6
       },
       "talarico": {
@@ -2213,11 +2207,18 @@
         "total": 1
       }
     },
+    "2026-W29": {
+      "both": {
+        "positive": 0,
+        "negative": 0,
+        "total": 1
+      }
+    },
     "2026-W41": {
       "both": {
         "positive": 9,
-        "negative": 5,
-        "total": 32
+        "negative": 4,
+        "total": 31
       },
       "general": {
         "positive": 2,
