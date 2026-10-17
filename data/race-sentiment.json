@@ -1,9 +1,32 @@
 {
-  "analyzedAt": "2026-10-16T21:35:11.890Z",
-  "newsFetchedAt": "2026-10-16T18:58:13.431Z",
+  "analyzedAt": "2026-10-17T00:13:03.136Z",
+  "newsFetchedAt": "2026-10-16T22:00:47.412Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Tracking the money raised and spent in the U.S. Senate race between James Talarico and Ken Paxton",
+      "link": "https://feeds.texastribune.org/link/16799/17383612/texas-senate-talarico-paxton-fundraising-spending-money-donors",
+      "pubDate": "Mon, 20 Jul 2026 20:00:00 +0000",
+      "feedSource": "texastribune",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W29",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
     {
       "title": "Talarico raises record $64M in Texas Senate race against Paxton - El Paso Times",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQnZLTWltVWlRcXJ5T1d3MVN0ekMzNVpWR3RtM1Vna0RkSWxYbjFtZUQ3b3lZNGtVVmlxbDdaV3Fab3FKWk9zRzZDdmkzTFQ0NHhjTWc5MnZrMml2R0Y3T0dnemVvR0VVZTNIeWJ3UmJqWUFzWXlZMTZfQUtVQjI3OWNzNnhKVGpQMlRCbnE1SEwxejJLLXpmS3E5Xy1ocS0ydmltaVNMMmNVbjhYMEliRUhhOGdkOHA4dTZiMzVpeXdLTUdmaWpHVS16aEU5LVdBd2pSc2ZGSXgwYUVqWk00?oc=5",
@@ -2158,32 +2181,16 @@
         "source": "local-fallback"
       },
       "error": "HTTP 405"
-    },
-    {
-      "title": "\"He’s a good man\": Willie Nelson endorses Democrat James Talarico in highly competitive Texas Senate race - primetimer.com",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOd0U2Q2xIalhuNmJfMVE2X0lrNjBrNktNc0NMQ0R1VFc3SERiUURKcTlmS1lIRXVCaWNRZHVEYW9ZWDJtOXpqamdxWko0RVdhMW9CZVJvbW52TnExYWhiVThUWFRVR1diWUxhM0R1SFlYZkZFSXB4UFIwOGFEYWhpVzJRNlJxVkxHeVZQUlFfNlZ1dTlMcHVuRWNxVzlzVHZTcXc2Z1FtVWw4MXNQVmp0cUEzYVlFNDhDUklmSUxkLXB5ampkb185S3IxRmhtMU0?oc=5",
-      "pubDate": "Sun, 11 Oct 2026 01:45:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
     }
   ],
   "weekly": {
+    "2026-W29": {
+      "both": {
+        "positive": 0,
+        "negative": 0,
+        "total": 1
+      }
+    },
     "2026-W42": {
       "both": {
         "positive": 0,
@@ -2218,9 +2225,9 @@
         "total": 9
       },
       "talarico": {
-        "positive": 6,
+        "positive": 5,
         "negative": 8,
-        "total": 22
+        "total": 21
       },
       "paxton": {
         "positive": 2,
