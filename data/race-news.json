@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-10-17T09:36:57.028Z",
+  "fetchedAt": "2026-10-17T13:32:58.370Z",
   "count": 24,
   "feedsChecked": 8,
-  "itemsScanned": 163,
+  "itemsScanned": 164,
   "items": [
     {
       "title": "James Talarico Raises Quarterly Record of $64 Million in Texas Senate Race Against Ken Paxton - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ3Ixc1VuQUQ3ckhiRHBmOWtqZ1BWTm9LSkhHajZocktSeEtLdmlocUtqaU5MNkprNnBzRTNtczh4ZURkc2Z1eGlXRFl1OEdVSGlMR3pMZ1BfWEhWSHFyYzJzTDVkMWlabF9PUUVIaUZkRUM5dEtIeW9mQlVDRGhtR1B1Rlo1OW5nUkYzeHNCZDF3TGpuZWc?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 15:21:15 GMT",
+      "pubDate": "Fri, 16 Oct 2026 21:00:00 GMT",
       "feedSource": "google-news-race",
       "raceScore": 38,
       "matchedKeywords": [
@@ -130,20 +130,6 @@
       "matchedKeywords": [
         "paxton",
         "ken paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ]
-    },
-    {
-      "title": "Texas Senate Race: Who Is James Talarico, the Democrat Threatening Republicans' Hold on the State? - International Business Times, Singapore Edition",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMUx5YkdkMXBPNEd1YmJObFp5SkZzRG9vRXRBak5sZldqYkhrQjZrMzJqUW44Y3lyV0ZzSWJfdFlTb21EOWFMbGFKVzVERzFWdnZmdVR2ckhsSkt3aGdzWlhrT3d6Q2xvR01Zd2oyckZWTjltVFNLVDEyRnY3b2FtcjloSEhJQU9rUEtPVndjelN5MVBuZk12V1p1NWdtREVGSzVtWk5lVDBWLWNlU0E?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 11:06:12 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
         "texas senate",
         "senate race",
         "texas senate race"
@@ -335,6 +321,18 @@
         "james talarico",
         "senate race",
         "texas democrat"
+      ]
+    },
+    {
+      "title": "Texas Senate nominee James Talarico blames Benjamin Netanyahu for Gaza devastation - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wcHJxRnFxbVczaWExS2RxcFlYUGJUUm5zQXVqN3FhSEtGc2F5Rmx4VTk4SmMtSTBNb1JzNzFDbWRhSmtoLTQzQ1pKRlZtYmVqOVVFNkRneVktX1U4TFJuNU9LR2Y?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 00:14:08 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate"
       ]
     }
   ]
