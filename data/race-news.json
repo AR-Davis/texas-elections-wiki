@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-17T05:25:57.195Z",
+  "fetchedAt": "2026-10-17T09:36:57.028Z",
   "count": 24,
   "feedsChecked": 8,
-  "itemsScanned": 160,
+  "itemsScanned": 163,
   "items": [
     {
       "title": "James Talarico Raises Quarterly Record of $64 Million in Texas Senate Race Against Ken Paxton - The New York Times",
@@ -192,20 +192,6 @@
       ]
     },
     {
-      "title": "Talarico Leads Paxton in Texas Senate Race · Oct 14, 2026 - ActiVote",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04dy1EY0FLZVMwLVdoYVpOQVhYck1GTTdaNXdMNjZrRWNSMEZmMU9iUEczQkk5b1lBQ1BOZEpHNFVkNzV3STNQenhEM1kteHUwVkw5LVFsRWhVTjhSQ0FBZ1JWa2tvdzdPOWs1U2pB?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 07:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ]
-    },
-    {
       "title": "Tracking the money raised and spent in the U.S. Senate race between James Talarico and Ken Paxton",
       "link": "https://feeds.texastribune.org/link/16799/17383612/texas-senate-talarico-paxton-fundraising-spending-money-donors",
       "pubDate": "Mon, 20 Jul 2026 20:00:00 +0000",
@@ -336,6 +322,19 @@
         "texas senate",
         "senate race",
         "texas senate race"
+      ]
+    },
+    {
+      "title": "Texas Democrat James Talarico faces grilling from voters at town hall in tight Senate race - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbjc4am43TXVKcldaUFFDY3VCRktoaWpSQ0NQS1JDYkhTMHM1UGJhMjg4SVpsUEh1Q040aGJVSDZOVmoyZVh5d1dpMzI4dlNBTjBTTDRlZW9YYXVaMkRhU1FxZzZHYUhxUGEtSFlwcjB4ZDVmNERqQjQ1eFZ1QnNGTEJXYmxKNG5PdFFlSjUwbkM1Rld2V0RqMDk1UnVaR2RxYVowUFJKUU8tM290OXc?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 03:08:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 18,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "senate race",
+        "texas democrat"
       ]
     }
   ]
