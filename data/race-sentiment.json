@@ -1,9 +1,30 @@
 {
-  "analyzedAt": "2026-10-17T19:07:30.691Z",
-  "newsFetchedAt": "2026-10-17T16:56:12.879Z",
+  "analyzedAt": "2026-10-17T21:38:28.172Z",
+  "newsFetchedAt": "2026-10-17T19:11:20.303Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Democrats feel bullish about Texas Senate race as Trump campaigns in states he won - WBUR",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VLUlIOEt1bUJRTUJiaFpMLVotZkowQ0U0YjBSX1dxOWV4N3V4Yi1mdnVhQVpqUW9TQXlVVnMzZ1I2Z1QxNnVnMzdhVDdqaXNuanVqRW5uSDAzLVNDZWFmNGpENTg0a0c1MzVrRTRPTnVSaDZFaElCa3F3TQ?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 16:15:51 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
     {
       "title": "Texas Senate Race Tightens as Election Day Nears - The Daily Signal",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOc0o1dzNvXzBWbnVMaTAyWEdQQTV4WGhxb0s4N1RyVExGQ2xVR19KZExQLUtKY1lWa196TndHd3p2UlplZ3lDN3VaRG8yR2E4UC02WXJzNmRzaGdoS2pMLWhody1DcXVxLTZadFR4WDQ0RXNCR0plSUNlc3pyc1pLT09SaGtaaURfX0E?oc=5",
@@ -2161,27 +2182,6 @@
         "source": "local-fallback"
       },
       "error": "HTTP 405"
-    },
-    {
-      "title": "Video: Willie Nelson Endorses Democrat James Talarico for Texas Senate - Breitbart News",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY2pvWTd0VU5jTGQxYmJWdjg5NEZHZzhidlBEOWQ5aDRlS2ZXTEtOamV2Q01KS21kdTNMTmF4S1B0WWx4bHZMRFRWWjNPQkpQYUpfUjBrUDAxdEhpV0lQdzkxSV82dUFWeEVPSXRjWkhWa3BPR0VwaEVOa3dCLXZlbFhsVDRRblJaWGxBQUNjRDdQTjhaRkgwbDYxQWpTUzcwYnF0WEw1ZmlTQWR6enVKRUZ1T1M4Wm1hbUtpbUNn0gHDAUFVX3lxTE9QbWg5QUdkaUNfbXJfaXg5b0VfQ0Nqd190aTdXc0FFZTdCbTEzenFFaFkyYzd1OUpYalZGeXlVNENnT3Z6ZGJSQWhONFV1OXlGU0poSEpMY2JqOGxrQ05TSEw3UGU4WFNKeUFmSEVjeGlDNm9OUzQwWHk3QUprSzBHaHJTYmtXMEx0QVZMdFJXRXEzc3lwSG1LTXFRU2hWQ2VLbGMxQnk4ZkpieVVtSzg5ZjBCLUpaTXFZbWJwa0ZiX2twZw?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 03:19:26 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
     }
   ],
   "weekly": {
@@ -2189,7 +2189,7 @@
       "general": {
         "positive": 0,
         "negative": 0,
-        "total": 2
+        "total": 3
       },
       "paxton": {
         "positive": 2,
@@ -2226,9 +2226,9 @@
         "total": 9
       },
       "talarico": {
-        "positive": 5,
+        "positive": 4,
         "negative": 8,
-        "total": 21
+        "total": 20
       },
       "paxton": {
         "positive": 2,
