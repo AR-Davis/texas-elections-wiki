@@ -1,9 +1,30 @@
 {
-  "analyzedAt": "2026-10-17T16:36:05.904Z",
-  "newsFetchedAt": "2026-10-17T00:42:47.867Z",
+  "analyzedAt": "2026-10-17T19:07:30.691Z",
+  "newsFetchedAt": "2026-10-17T16:56:12.879Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Texas Senate Race Tightens as Election Day Nears - The Daily Signal",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOc0o1dzNvXzBWbnVMaTAyWEdQQTV4WGhxb0s4N1RyVExGQ2xVR19KZExQLUtKY1lWa196TndHd3p2UlplZ3lDN3VaRG8yR2E4UC02WXJzNmRzaGdoS2pMLWhody1DcXVxLTZadFR4WDQ0RXNCR0plSUNlc3pyc1pLT09SaGtaaURfX0E?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 21:30:47 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
     {
       "title": "US midterms 2026: Ken Paxton may have Elon Musk to thank if he wins the Texas Senate race. Here's why - WION",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRnV2U0xldkxYRzVIall4czRHeC1MQUtyWUVkM1U3UW1mMm00ZlIwSUljUG9iOW15RURwSGtUOWpsRnVLaHlJeUpxamh1Z3VURURlMTRzRURyNGxDZnB1d2ZBbkl3S2FUN0hnR0wxd1Fad2hMZHZQVGZiZFdXN1hBY1c3ekxBc3hadXdnbjhlR0tQeTF2cEFzRlZGekw5QldDXzhUaW96S3VVZThhcXREcXM3bjNPdWVsWmpNNl93Umo5ZDh2bkpRa1plT3lGX0tpTmNCdE1YY2JsWWvSAeABQVVfeXFMTml0cjJWWUc5dkNzeDJyc2x1M2s1WTdCaGtub1p6SVl1X3R1bk9rRDJCdTZ6elpLN0RBdEQ2cVkwcl83VXBvWVc2TjNNUnhIUFVDeHpmSnhKS3kxcEpmWDhXZjJtR1lQRjN5ZTRTZmE1NkQtTDVnWVhQNjlDTHpDT1JmSzk0R3lVS1NrdF9TOWhzUXRfU04tZkpydTU4VlphNVdSRHhNVGIxaW8yYWZVZ0VFT3ZuOXM2OC13TW12ajl2MzFibXh4UHZ2ajRfY3RsQ0JpeEVjNW1tR1lGV0Vwdlc?oc=5",
@@ -2161,31 +2182,15 @@
         "source": "local-fallback"
       },
       "error": "HTTP 405"
-    },
-    {
-      "title": "Trump Notes Talarico's Absence from Texas US Senate Race, Praises Paxton - NewsRadio 740 KTRH",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOellyeDIzN21BWFRURmxicE4zMDVsV25JcUtZeE1IbmRablFFQkhXc3RQQ1BheW12NXdoM1Q5dGprZ1B6LXFURk1VZUVXYVR0U0tuNTdkN1ZPbEdxTkxVMXlvbDBuU0pkZVVpZlpxYU04Yld6MzBDVzZvbEd4Q1p6dmpqcmE3TktUc2RlQmNpN0pvejJQTnNCU2ZYa05LVWVmcDNhRGNOckxLcmswdjhXVnVmalVRVlpWNTBjYmRtWEdjd0ZyczhMc3JPX3UxbmtqOWxkUXJOREhSd9IBvAFBVV95cUxON3RyN002SUFqcDdGdzB2N0FMeUlYeVduODBUYzUxLWZDSzBEX3ZQb2NSQlM1UXBEaWt6dnU0SC1DdGcwUzR4UEhVVUZaVUJKTDFnQ0V3U3o2SXN3RC1kREhucktGWmJreV94UHhYVWR6d2pmUjJab2xZQjFJTjB2YlpCS25wOXd3MTZuRHduOHZ5b2V1NTh5RVRaNHVMZlJ2OHZOTlZ4N3pUR0FrMVkzMDRqMlRFVjJ4Z3E3aA?oc=5",
-      "pubDate": "Sat, 10 Oct 2026 23:18:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
     }
   ],
   "weekly": {
     "2026-W42": {
+      "general": {
+        "positive": 0,
+        "negative": 0,
+        "total": 2
+      },
       "paxton": {
         "positive": 2,
         "negative": 2,
@@ -2200,11 +2205,6 @@
         "positive": 3,
         "negative": 0,
         "total": 11
-      },
-      "general": {
-        "positive": 0,
-        "negative": 0,
-        "total": 1
       }
     },
     "2026-W29": {
@@ -2217,8 +2217,8 @@
     "2026-W41": {
       "both": {
         "positive": 9,
-        "negative": 4,
-        "total": 31
+        "negative": 3,
+        "total": 30
       },
       "general": {
         "positive": 2,
