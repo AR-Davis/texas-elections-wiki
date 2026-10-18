@@ -1,9 +1,75 @@
 {
-  "analyzedAt": "2026-10-18T03:52:45.722Z",
-  "newsFetchedAt": "2026-10-17T23:53:40.339Z",
+  "analyzedAt": "2026-10-18T08:43:32.916Z",
+  "newsFetchedAt": "2026-10-18T03:59:50.327Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Poll Shows Ken Paxton Narrowly Leading James Talarico in Texas U.S. Senate Race - Breitbart News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY2JOWTZkUzNLNjY0X1JCeHlTblAtY1JJclRtSnJjR0ZaMy15WGtPSXAxenBxWHRjQ3RMdktCTTBGRnNvSnMxV3RBWnFrRTJzbC1jNkpsLV9xUkxZdTlPUmppa29kMnpURzd0Z0MwNXMtd09aSFVLX0JlSFV2RVowWkZfR1p5cjkwLXhvT2lzT1NyZEhQUTktNVZmQmpvN1VVLXpjRXhQSVZQbTZWR1VaQkxQdE5tQVJlNVHSAb8BQVVfeXFMTjFGUTJ3aG83WDE1QkZ6R0V5UE1YVkxTaDBHb1ZCRXBvNXZhUWpOcmpSckdjZU9FWmpQVzZGOXNGNEo4cjJ6YUVJM0NlTXFpWXlDMncwcW9jQ3lvWS1oWVdXMFFFbDQ0NS1sc1EzakdDQ2REcUo0SVZqeHVYNThualFWYmlSYUtUZ0xvRmZIb1lyOUhaZTVHRVkyTE1GMFJqRmticEVTc0RybVBKQ0dsT0xaN3VMV0pCemNLZDhmRFk?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 00:50:01 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Ken Paxton Accuses John Cornyn of Wanting Him to Lose in Leaked Audio - RadarOnline",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vWno5bGxiTElfQVJzOWM3NERwbkNLT3FnOTZnUXFZbktwUF81elVYTUtvM0tlSHhubEFkeVc2Mm41a1Y2cXBRMEpCRkM1WXhyZWZ5TXdvbw?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 17:14:41 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 20,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "cornyn",
+        "john cornyn"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Musk contributed more than $150 million to bolster GOP in Texas Senate race, filings show - CNN",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSWJDZ3RoNHplblVfUlFyMEtZVEMySUoyZFE5QlR3eUV0VnMwcU12LTJENFRrNW9DYnBtMG5XaWNFa2lQbVBuUjFqQUdEajQ2bWh6LTJUZVhlRG1RUUxCdEY5S18tYXV0UjQzSWRMbVFRYUo1VFc2ZG56UHhrUWVCa21Pclk?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 08:49:20 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
     {
       "title": "Trump and Paxton attack Texas Senate candidate Talarico for absence from the campaign trail - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVGlUZlFrbnBNSGVINWRvajE4UkFhbDBWbi1JTnZyWUdGSzNYV214TFF0RVZNSnNhdkVEQ3ZRbjNOWmZ4b19Rc1dUbjJOV2x5U2NVYkZpVjJsY3ZGODF4N2gtZEkwblNvZFBqcHhYWDdtZUNzd1V3OHlNUTJHeHZ2VW1pcnRBSmRTdTZtOWZsLWE5VUdPVl9JeENPZERWOGpIUUZRR1hRM0ZaNEHSAbABQVVfeXFMTTVsclpzdmJJenRIUm80WmQ1VXZQWEY0ZEpHeGxUVXVjREVrejR1Y1J1X2RCY1FpbnRzZjVEa29sWGF2UWY5amhhOTh2SGt5VTlHX3cwV2laNkZ4N1duZENxcEF1U1RpajMyNzZ4WWd4Z3M1Y3NFajloNVp4X2VXZE81SldKX3hPcjBCbDBMZFlnTUlWNWhtdnRFNEwwLWg4WHhFSktIM01mUmJmencwa3U?oc=5",
@@ -2117,89 +2183,24 @@
         "source": "local-fallback"
       },
       "error": "HTTP 405"
-    },
-    {
-      "title": "James Talarico’s Chances in Texas Senate Race After Absence - Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0NpNVZlTE1FYnA3M0xuMUV6eEh4UUhBZXFSVnQ2cGt0ZW9lTURSWVJXV2FvSXprNXNrdlBXdWZ3U20yTG5HQXFqNFh0aEdvS0x1MkFGUUROckRNWHNsaHJFeEd2clFuaTk4UnFETWllM09ENzlmZVlld1ZfRXRSblY0bW96QnBhczlXMTZ3dzZESmtBUEhv?oc=5",
-      "pubDate": "Sun, 11 Oct 2026 16:30:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "Trump and Paxton attack Texas Senate candidate Talarico for campaign trail absence - Good Morning America",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRFVlM3dXYy1qc2xKbzFRYmdyWE1jdTlXSzgwSFZyZVRER2lYS08wemlwY0F2M0MzcTVfcXdzYXVlakJuQnNRQ3Z0b0lPc01rYkNKRE9kcWRJai1KS2FoZ014MlpyOXI1a1liSmVfc1lHLWZMWlRnT2Y3Y1M2Tkx3QmpRUENxNXFxVWc3Mk02N0s1TXA2R256UFJ3UkpJUmYzdEp1X2NRWkJwM1VXYy1xekNFNUt6YzU2RzJr0gG7AUFVX3lxTFBEVWUzd1djLWpzbEpvMVFiZ3JYTWN1OVdLODBIVnJlVERHaVhLTzB6aXBjQXYzQzNxNV9xd3NhdWVqQm5Cc1FDdnRvSU9zTWtiQ0pET2RxZElqLUpLYWhnTXgyWnI5cjVrWWJKZV9zWUctZkxaVGdPZjdjUzZOTHdCalFQQ3E1cXFVZzcyTTY3SzVNcDZHbnpQUndSSklSZjN0SnVfY1FaQnAzVVdjLXF6Q0U1S3pjNTZHMms?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 23:59:44 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "Texas Poll Shows Dead Heat Between Paxton and Talarico in Senate Race - MundoNOW",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa2EzNFh5bkNDcjd0UUxVeE52ZjZDSDNUcUl6R1hVWFZZam5ULW1lRXpmUzRxOXluenJQMlNaMWRXWnl5cGNaRUlNU3VRRkl4cDItYnpjQ1JRUlp4NFlMTWtkVXhfLWFhRUR2aHkyTXBPd0dTUFZvZVRhOGE3RXQ4dHE0U1BwMUFYQ1QyN3ZkNnp4ZE1kVzItdy1iVHQtZlk?oc=5",
-      "pubDate": "Sat, 10 Oct 2026 07:34:39 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
     }
   ],
   "weekly": {
     "2026-W42": {
       "both": {
-        "positive": 0,
+        "positive": 1,
         "negative": 1,
-        "total": 7
+        "total": 8
+      },
+      "paxton": {
+        "positive": 2,
+        "negative": 3,
+        "total": 8
       },
       "general": {
         "positive": 0,
         "negative": 0,
-        "total": 3
-      },
-      "paxton": {
-        "positive": 2,
-        "negative": 2,
-        "total": 7
+        "total": 4
       },
       "talarico": {
         "positive": 3,
@@ -2217,8 +2218,8 @@
     "2026-W41": {
       "both": {
         "positive": 9,
-        "negative": 3,
-        "total": 30
+        "negative": 2,
+        "total": 28
       },
       "general": {
         "positive": 2,
@@ -2227,8 +2228,8 @@
       },
       "talarico": {
         "positive": 4,
-        "negative": 7,
-        "total": 19
+        "negative": 6,
+        "total": 18
       },
       "paxton": {
         "positive": 2,
