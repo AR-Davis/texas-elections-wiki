@@ -1,9 +1,32 @@
 {
-  "analyzedAt": "2026-10-18T16:44:51.005Z",
-  "newsFetchedAt": "2026-10-18T13:07:08.897Z",
+  "analyzedAt": "2026-10-18T19:19:43.876Z",
+  "newsFetchedAt": "2026-10-18T16:45:26.343Z",
   "totalAnalyzed": 100,
-  "newThisRun": 6,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Sizing up the Paxton-Talarico Texas Senate race as early voting gets started - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcnBMbWFKWkpKNWwzZjFBVjl4WGNSeTVrSjZOT3NENmdReXpoVnJpRXpXSHh1dGxqYU40NDd5NW8zRjFWTHVuOXpyblBHX29jVXcxRmJDTzE5cF9MdVJrZDFEXzZ3ZlE4MVdtSTZ0N0tDRzZ6WmZNOThqRkxOSG9iUG85RjNmOTNsZi1qMU9Xc0RIbWMzekQtTXl2NHJWaERibzRHS0dxR0NWR0Q1cHpPd09ISQ?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 11:42:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
     {
       "title": "Sizing up the Texas Senate race between James Talarico and Ken Paxton as early voting begins - CBS News",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YSlByN3o2c091MElFY3VfUW10LW1oaU5aUWE3NkZDRnNsbTFGOUZkZ2ZzOVdlNDZXWkZMbUUzRV9HRkw0UDctRFd1el91MHBwejBMRjAwcTA3STBtTlNZbXVqSmFVUVg4NnNNX2R6RWVtSDg4UDJfbjlicHB1Zw?oc=5",
@@ -2176,26 +2199,6 @@
         "source": "local-fallback"
       },
       "error": "HTTP 405"
-    },
-    {
-      "title": "James Talarico Introduced by Country Singer Kacey Musgraves at Texas Festival After 12-Day Absence from Campaign Trail - Breitbart News",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaEdoQnFDNHV3bFUtTGpPWXZnaUM2NUkzM1h4TjY5MWhpdERzRmM5ZU1Bam5pTlNTYkxucjBIeGd2MFlWVzlIRklkNTZHN0Q5MExIaXhyeU1wZlltOG4yUjhtbVp0N3JraUJ4T0tldDlvQUdfbTB6dTA0bk9Tc29TRGZMUzJvLVJVbldYYVA5TWdFc0J0cmhvU1BRVHB4WnVJX1lTV0M4c3dVSU1sRmk3U2NzT0lFeVJMNGMzNUZPSzBld2F6RDBPOWoyRHdJYXJPRnRyQl9YMUxGZmlFcjhoNUlTZGxVYkc3dDZaUTFDcDBMQlpLVlhHWlUtUWJLeUXSAYQCQVVfeXFMTkR3QlBCcWVWTkk2QXdBMWlCU29NN0lFdkE3LThzbzNab2ZBVkZPcTNFTlV0c0hKNXdqR25LVFNSZ0NtYktZLWZ4T1J5YkJZelRUa3k1OGwzT3ZCb2h2QjhwOWVDOEdOMVMxWTR2VWhPNFZBM0xQV3ltbnptVHM2U0ZNSUxLUHd0NkYzSDNlMmxkTXpRQnE2aEc0dGxxSTkxU1F6T3VZSFIzT0tOSWJmbm5HMDZma2g0YU5JamF2QWFJMGc3eFVTNUVfaHZLazFIRTBQWUgzTmNSX2RkUC04YmdlREJqMURBZTl2blFnOUNucU9NWEFPcmZEaXFydEFEOEtNd0E?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 13:45:06 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
     }
   ],
   "weekly": {
@@ -2203,7 +2206,7 @@
       "both": {
         "positive": 1,
         "negative": 1,
-        "total": 12
+        "total": 13
       },
       "paxton": {
         "positive": 2,
@@ -2241,8 +2244,8 @@
       },
       "talarico": {
         "positive": 2,
-        "negative": 4,
-        "total": 12
+        "negative": 3,
+        "total": 11
       },
       "paxton": {
         "positive": 2,
