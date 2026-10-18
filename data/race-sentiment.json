@@ -1,9 +1,30 @@
 {
-  "analyzedAt": "2026-10-18T19:19:43.876Z",
-  "newsFetchedAt": "2026-10-18T16:45:26.343Z",
+  "analyzedAt": "2026-10-18T21:43:27.626Z",
+  "newsFetchedAt": "2026-10-18T19:20:49.364Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "How Elon Musk is bankrolling GOP’s hopes in Texas Senate race - 1430wcmy.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNWtMQk9pbGxiTVphODdBR2JoVDBYbDR0TzVWakJrS3REVjZpeHZES2V5QS1DaXNwMWRXOGhSdFVyZXRvTkNmQ244VzNCUndRa0hzb0U0Qno5cFltN3NUc21KMDZIV1FMbUlKemx4a3hNQjdKT1lHTWhiTmV2VWY2TlZWeEtBSmRTcWplSFJ0a1k3WmRzaFJsNQ?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 19:57:49 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
     {
       "title": "Sizing up the Paxton-Talarico Texas Senate race as early voting gets started - CBS News",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcnBMbWFKWkpKNWwzZjFBVjl4WGNSeTVrSjZOT3NENmdReXpoVnJpRXpXSHh1dGxqYU40NDd5NW8zRjFWTHVuOXpyblBHX29jVXcxRmJDTzE5cF9MdVJrZDFEXzZ3ZlE4MVdtSTZ0N0tDRzZ6WmZNOThqRkxOSG9iUG85RjNmOTNsZi1qMU9Xc0RIbWMzekQtTXl2NHJWaERibzRHS0dxR0NWR0Q1cHpPd09ISQ?oc=5",
@@ -2179,30 +2200,15 @@
         "source": "local-fallback"
       },
       "error": "HTTP 405"
-    },
-    {
-      "title": "Leaked deposition offers insight into Ken Paxton’s personal wealth - Texas Standard",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYWhmQTE4czR0LXVDUkJtOFpmMkpQb2lPaU9jXzRKQUNERXd5OTZmUXZhOUhHOHdqNDY5akJUVG5CZlBncW5MOFFRTDZXc1ZBdEpFanhlS0hsUHFYYU5oWHFVLVpYTHpZQVRhenZ5NElSSk9hRWtQYV9FNWQ5WkRUUGNmaw?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 17:41:07 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
     }
   ],
   "weekly": {
     "2026-W42": {
+      "general": {
+        "positive": 0,
+        "negative": 0,
+        "total": 6
+      },
       "both": {
         "positive": 1,
         "negative": 1,
@@ -2217,11 +2223,6 @@
         "positive": 3,
         "negative": 1,
         "total": 13
-      },
-      "general": {
-        "positive": 0,
-        "negative": 0,
-        "total": 5
       }
     },
     "2026-W29": {
@@ -2250,7 +2251,7 @@
       "paxton": {
         "positive": 2,
         "negative": 2,
-        "total": 12
+        "total": 11
       }
     }
   }
