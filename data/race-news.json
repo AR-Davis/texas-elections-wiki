@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-18T19:20:49.364Z",
-  "count": 23,
+  "fetchedAt": "2026-10-18T21:44:15.830Z",
+  "count": 24,
   "feedsChecked": 8,
-  "itemsScanned": 158,
+  "itemsScanned": 156,
   "items": [
     {
       "title": "Sizing up the Texas Senate race between James Talarico and Ken Paxton as early voting begins - CBS News",
@@ -34,21 +34,6 @@
         "senate race",
         "cornyn",
         "john cornyn"
-      ]
-    },
-    {
-      "title": "Trump says 'if Ken Paxton loses' Texas Senate race, blame Cornyn and Karl Rove - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WNFBRV1VOV0dya2xCZzg0Z2tpLTlpWFhuQURSUTFjV1VEWWR5Y1R2MTZnZEhJY1NzMEphaHNNZkJTNURUQ3B6Ymh6ZFRBOGhnOEFYSlZKOV9oNDJsT09qYVhDLUU5ckhtRmV0Nmd6WEtOUdIBd0FVX3lxTFBhaDNGVTh4ZzhleVNmbURoRnJZLW54bzd0UXJXRVl2SDhRRVBrbzY1dkp2RU5GSFNFcFBHN2JndGFqS3Fub0tUbGpWOWxuVVo5MUpIa3NFc3A4Uno4ZVJha2xwT2RZYTNKc3pnMnBzWGF0dW5mNy1v?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 20:41:18 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 31,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race",
-        "cornyn"
       ]
     },
     {
@@ -246,6 +231,19 @@
       ]
     },
     {
+      "title": "US Chamber of Commerce Endorses Paxton in Texas Senate Race - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMGVaRkJWcUowOGl1YUtINmR3X2dDb01iUlB6bWdUTGo3ZVhLLU1PZ1RoYkhFN1pTVE1jb0k1Q2QxT183RGRFeTc2OWVKR2RONjdBb2hiNDU4c3B5ZVVFNWlxU3VTaXRFUk1NdS1US19TU3NsR1NKWlV1NGduUm1UeUxUY3BnSWFlMEZ4OEZkZ2hFSV9zWk54V1J3MHR6TFA2TWJ4SjN0clBfeGFZaWln?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 16:28:28 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ]
+    },
+    {
       "title": "'David vs. Goliath': Talarico’s Bible-battle cry in Texas Senate race after being mocked by Trump - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNMmRfbW1QXzVxcDU4QWQtUkhSVE1iOGUtSDE4aTdybk9WOTVmMUVpb0YyaVNMdDhDSFZBTGNlSEZlTWpsTXBjbkNlalBYS1plbF9QRTZtUW5DM2F4X2JMcExZWmJ5MkVvVVJDVkRJOFZkaEtLVW5zbUZ3bnNvbS16OHdtNmlXQ3doN0ZYdUtYUXV0RUViVmZnWlhwMGdYa090Tkp2bkZUN3ZXR296cjltZG0tOTBiMWlSV0dXdEtGbE1aaFJHNDR2Z294VzJFYWFuYzFadnQyU2NiSFU2QmlYV0FBLVFQYjJ1MVdfMUE4SzJ1ZXhNMExidzI3MGxlRWtjWDNLNdIBigJBVV95cUxQSEZ3cktyNXFLVzE0WEE1YVlaWXliaWdubGRTMkJLazZRVHJZdlVUM3BEeWN1ZDhramhtTFkzTHk1a184TThSajBVaVp1MVlraldPNmxkWlFtX2xqbF94VDFtZEt4UldTSGZ6NEZuVjI0UkY5dmpaRU1fRlh0cmwzeEw2ckNYYmFJNmJpX3JCN3RlMElpWUlic1VSMHV4YlVabldDRnhPa3ZxMzVoXzlMTTdvdjR4V21tOVF6ZWRBWXg5WWM0UVVmdG5XajFtUkNtZEVNd2JKS21rb3o3YWxqbXQ2THV3UGc3bFJGcTlwQm1ZSU5mVkhNdFluZF92Ri01bWRoN1pWYWsyZw?oc=5",
       "pubDate": "Fri, 16 Oct 2026 16:21:04 GMT",
@@ -309,9 +307,21 @@
       ]
     },
     {
-      "title": "How Elon Musk is bankrolling GOP’s hopes in Texas Senate race - 1430wcmy.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNWtMQk9pbGxiTVphODdBR2JoVDBYbDR0TzVWakJrS3REVjZpeHZES2V5QS1DaXNwMWRXOGhSdFVyZXRvTkNmQ244VzNCUndRa0hzb0U0Qno5cFltN3NUc21KMDZIV1FMbUlKemx4a3hNQjdKT1lHTWhiTmV2VWY2TlZWeEtBSmRTcWplSFJ0a1k3WmRzaFJsNQ?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 19:57:49 GMT",
+      "title": "Democrats feel bullish about Texas Senate race as Trump campaigns in states he won - WBUR",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VLUlIOEt1bUJRTUJiaFpMLVotZkowQ0U0YjBSX1dxOWV4N3V4Yi1mdnVhQVpqUW9TQXlVVnMzZ1I2Z1QxNnVnMzdhVDdqaXNuanVqRW5uSDAzLVNDZWFmNGpENTg0a0c1MzVrRTRPTnVSaDZFaElCa3F3TQ?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 16:15:51 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ]
+    },
+    {
+      "title": "Elon Musk contributed over $150 million to bolster the Republican Party in Texas Senate race - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaS11aHc3RUdlck9VUDFLS0c5MmliTmJpa2FrZkJJM0pLb09lSjhpMktRQnFiR3hibVhnWHdrVG5TTXZ6UW9PdFJrYThTclZoVEI1N2ZSTUNzNE5Vc2Y2QWlCeVhoVEdMV3VsLXl5azN3RmNiSzBtWXhpS1I4bEdCMFBDTEpxVW9jb21DU1E3eGNaMjNvbDllaUt1T2ZLUWZmbTVPNUFVRUF0dEE?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 12:16:47 GMT",
       "feedSource": "google-news-race",
       "raceScore": 16,
       "matchedKeywords": [
