@@ -1,9 +1,25 @@
 {
-  "fetchedAt": "2026-10-18T08:47:45.105Z",
-  "count": 24,
+  "fetchedAt": "2026-10-18T13:07:08.897Z",
+  "count": 23,
   "feedsChecked": 8,
-  "itemsScanned": 160,
+  "itemsScanned": 165,
   "items": [
+    {
+      "title": "Sizing up the Texas Senate race between James Talarico and Ken Paxton as early voting begins - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YSlByN3o2c091MElFY3VfUW10LW1oaU5aUWE3NkZDRnNsbTFGOUZkZ2ZzOVdlNDZXWkZMbUUzRV9HRkw0UDctRFd1el91MHBwejBMRjAwcTA3STBtTlNZbXVqSmFVUVg4NnNNX2R6RWVtSDg4UDJfbjlicHB1Zw?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 11:00:13 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 38,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ]
+    },
     {
       "title": "James Talarico Raises Quarterly Record of $64 Million in Texas Senate Race Against Ken Paxton - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ3Ixc1VuQUQ3ckhiRHBmOWtqZ1BWTm9LSkhHajZocktSeEtLdmlocUtqaU5MNkprNnBzRTNtczh4ZURkc2Z1eGlXRFl1OEdVSGlMR3pMZ1BfWEhWSHFyYzJzTDVkMWlabF9PUUVIaUZkRUM5dEtIeW9mQlVDRGhtR1B1Rlo1OW5nUkYzeHNCZDF3TGpuZWc?oc=5",
@@ -49,6 +65,20 @@
         "senate race",
         "texas senate race",
         "cornyn"
+      ]
+    },
+    {
+      "title": "In Texas Senate race, Ted Cruz tries to push Ken Paxton across the finish line - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaDlZVGxKdW1mQzVPTzhTRzhNcmJlU3JaekkzeWJnRFdpNFIzT1AyOG13c3NtMlczUHZFUHllcG1SVUt4UjlJWlQwMEVxbTdPS1puX2pDelBUeUx3ZGFndTJ2eG41NWhWSExfX3lRNzZJYVIwbVM0R1ZwWmtDd25KM3BBMHZwVEc4bUpyRW5VdWRGNHRDall4X196RGJMbmxSQWloNjdyOWM5Z2VuMnN0ZlhDbUlRWUhBUmI0?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 12:36:47 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
       ]
     },
     {
@@ -192,10 +222,23 @@
       ]
     },
     {
-      "title": "At CNN town hall, Senate candidate James Talarico woos moderate and undecided voters",
-      "link": "https://feeds.texastribune.org/link/16799/17497875/texas-senate-james-talarico-ken-paxton-cnn-town-hall",
-      "pubDate": "Thu, 15 Oct 2026 03:07:38 +0000",
-      "feedSource": "texastribune",
+      "title": "If Ken Paxton loses to James Talarico, Trump already knows who to blame - Austin American-Statesman",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbEhPalRoR2hMdWtDNWs5REdRd3Zpc3V4ZXNpMzh6V3FEWnc2dXdUeE53LVhmbEZGcm9qOFpETjVEZkl0N0x5blVkdExEcGdKSE4wUHJFMWtJQ0dCYVdDNjFUeEI0ZG9UTzVxczdoTTY0SlN3Mkxta2UybXZFMklQeDJUQko2OTF6LTNjR014SHNBMlMyWFVnelR2Z1ppSy0yM0lZRG53?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 10:08:45 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ]
+    },
+    {
+      "title": "Ken Paxton, James Talarico hit campaign trail ahead of early voting in Texas - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNDdRUmFDbHQ5OGdReGhPS0IzYm5iVk9RcFlxaEJiQmkzRzI5RG84dWZrbHFkVWlsZ3IxbWVXWnZpVFd2NDVSaE1mNC1kc2RGVWdLU0dEdHFmQ2lWNWF4RHd1S2ljZFUtbWhSWmlRYTVyT20yV19yaGZkQzNxeG9nM0ZwM3NYOWhtQmYxZWI1VlFDWE8zSUFRVmRQSXB4QQ?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 01:20:00 GMT",
+      "feedSource": "google-news-race",
       "raceScore": 23,
       "matchedKeywords": [
         "talarico",
@@ -244,16 +287,27 @@
       ]
     },
     {
-      "title": "Texas Democrat James Talarico faces grilling from voters at town hall in tight Senate race - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbjc4am43TXVKcldaUFFDY3VCRktoaWpSQ0NQS1JDYkhTMHM1UGJhMjg4SVpsUEh1Q040aGJVSDZOVmoyZVh5d1dpMzI4dlNBTjBTTDRlZW9YYXVaMkRhU1FxZzZHYUhxUGEtSFlwcjB4ZDVmNERqQjQ1eFZ1QnNGTEJXYmxKNG5PdFFlSjUwbkM1Rld2V0RqMDk1UnVaR2RxYVowUFJKUU8tM290OXc?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 12:47:00 GMT",
-      "feedSource": "google-news-race",
+      "title": "Texas Senate candidate James Talarico visits San Antonio's La Fonda On Main - kens5.com",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNlQ4SGdEN2JORk43clRlUHZpcXpDT0MzSlVSRUxIbXpLY2Roa3Q3NmV1OV91RXZrUS1XMHlQYVVnVDFtXzNFaDNSTmhpYjI4dXBibWZGRWpaM0hZTTEzZDVDeF82alNDdUNKUWlfajRUS1ItQVdkQzJySS14V3ltN2U0VnNIbHR4UzhpTlZtdUJhSVFXcDl0ejREaXN1Z2tzbkJhT242Z09iZTVGcjI1Y0ZQSWdlS0xzc2IxYWgyckU5SkVNaGRreVVsRGNQQV9NN1lLd0tlXzF2bGx1M1VMN1B2ZkVabE5VeXdWNFZR?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 04:05:00 GMT",
+      "feedSource": "google-news-texas",
       "raceScore": 18,
       "matchedKeywords": [
         "talarico",
         "james talarico",
+        "texas senate"
+      ]
+    },
+    {
+      "title": "In tight Texas Senate race, Trump's immigration crackdown tests Republicans' hold on voters - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObi1MNGpVN2pPcmNsOXdrdFo4UmhLZFZsX05CWVY0YmNkTUFuVU9HUlZ4MVJVQ1JUcWhwUlV4cnhlTTZPNGF3WlFNN2hHOGFvOHUxWkNkLWNUVWEyNjhjVjQwWUEzSlRpWkgxV2cwa2drZHA5cUw5Ylg0MTVWWnY3UXZ6eFlZWm5DMWdsNUdXM1BCS3JkRmpqOGxfZUd1ZVBjbTBYZFFrNWlQa3hUU1Y3MW9HdGRwRjM1?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 10:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
         "senate race",
-        "texas democrat"
+        "texas senate race"
       ]
     },
     {
@@ -266,66 +320,6 @@
         "texas senate",
         "senate race",
         "texas senate race"
-      ]
-    },
-    {
-      "title": "Democrats feel bullish about Texas Senate race as Trump campaigns in states he won - WBUR",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VLUlIOEt1bUJRTUJiaFpMLVotZkowQ0U0YjBSX1dxOWV4N3V4Yi1mdnVhQVpqUW9TQXlVVnMzZ1I2Z1QxNnVnMzdhVDdqaXNuanVqRW5uSDAzLVNDZWFmNGpENTg0a0c1MzVrRTRPTnVSaDZFaElCa3F3TQ?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 16:15:51 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ]
-    },
-    {
-      "title": "Musk contributed more than $150 million to bolster GOP in Texas Senate race, filings show - CNN",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSWJDZ3RoNHplblVfUlFyMEtZVEMySUoyZFE5QlR3eUV0VnMwcU12LTJENFRrNW9DYnBtMG5XaWNFa2lQbVBuUjFqQUdEajQ2bWh6LTJUZVhlRG1RUUxCdEY5S18tYXV0UjQzSWRMbVFRYUo1VFc2ZG56UHhrUWVCa21Pclk?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 08:49:20 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ]
-    },
-    {
-      "title": "Trump accuses Sen. Cornyn, Karl Rove of sabotaging Ken Paxton in Texas - Washington Times",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbVE1LS1wLWo1V0tiYmtxYkVhSXNVMjcxem9kWDNoTTZMS2doMkVBZXNBQmhEdS13cXgtb1NncXFjbmFQXzZaS2NEeWw3STZmUzM0dF9ORXdYS3RJdjJXR2FBQ3RJelMwS0V4XzhIVEhlSl9WSFBoU2xfWjZ6YlpFUjVYd2hXZG5VRkw2bkJHeWJ6WUtCZFB6anVkZUVvT1lFdzRBUU9GT2F6ZjJmU2VuSC1zSzhUNmNI?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 21:12:10 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "cornyn"
-      ]
-    },
-    {
-      "title": "Paxton vs. Talarico: Moments in the Texas U.S. Senate race you may have missed - Fort Worth Star-Telegram",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWm1JeEFTTzAtS0xXTXN1ZnJTQ2VhaFhGc2VCejdwLTVWdE9VeXRCWkJaQVVUZkczZHp3SUtsdU9IQ0FUcHFfWGZBLXVfVFZ6RmJLTktoMnRxdV9KX255bURZdW5tT2RRdlhteTNQRnRsb3paSUF1UVo3Y2xfZzlVN0ZKeE1rT1BoNXlzV3lramI1bXhYeXfSAZYBQVVfeXFMUGlBc1hzSkQ0RVdhVXkwNnBXQjhYMC1qTzBySUJPZVk5OTVwbHlRZXR0a1RaTVdhUGpQeTlSanNseHk0Nlp1ZkxVTXhSUGd4RWlHNjNYQ09fUlNIS2xYQU5yOXgzUGxNQ2V0amFwZmt0dEtnemVodDUyWDNWMkMtSndERUZ1a1paS1NnOFVQZUlENVl4LTln?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 19:43:05 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ]
-    },
-    {
-      "title": "Blame is on Cornyn, Karl Rove 'if Ken Paxton loses,' Trump says - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Mcm95T1M0SnhoOWJtZmZzekk3OU5HSU1LVkhjY3pIYmtabVVvYWp2eHMxakhfcUp2ekFFMU5CRnN6OWlMcnFCUXk1U2hBZGlxaFBWNXhVTEZEbktOWEJ1MS0xYm80dXNnb3hvd0E1QnhHUmUyazJkdFFn?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 16:57:52 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "cornyn"
       ]
     }
   ]
