@@ -1,9 +1,94 @@
 {
-  "analyzedAt": "2026-10-18T08:43:32.916Z",
-  "newsFetchedAt": "2026-10-18T03:59:50.327Z",
+  "analyzedAt": "2026-10-18T13:05:52.690Z",
+  "newsFetchedAt": "2026-10-18T08:47:45.105Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 4,
   "stories": [
+    {
+      "title": "'David vs. Goliath': Talarico’s Bible-battle cry in Texas Senate race after being mocked by Trump - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNMmRfbW1QXzVxcDU4QWQtUkhSVE1iOGUtSDE4aTdybk9WOTVmMUVpb0YyaVNMdDhDSFZBTGNlSEZlTWpsTXBjbkNlalBYS1plbF9QRTZtUW5DM2F4X2JMcExZWmJ5MkVvVVJDVkRJOFZkaEtLVW5zbUZ3bnNvbS16OHdtNmlXQ3doN0ZYdUtYUXV0RUViVmZnWlhwMGdYa090Tkp2bkZUN3ZXR296cjltZG0tOTBiMWlSV0dXdEtGbE1aaFJHNDR2Z294VzJFYWFuYzFadnQyU2NiSFU2QmlYV0FBLVFQYjJ1MVdfMUE4SzJ1ZXhNMExidzI3MGxlRWtjWDNLNdIBigJBVV95cUxQSEZ3cktyNXFLVzE0WEE1YVlaWXliaWdubGRTMkJLazZRVHJZdlVUM3BEeWN1ZDhramhtTFkzTHk1a184TThSajBVaVp1MVlraldPNmxkWlFtX2xqbF94VDFtZEt4UldTSGZ6NEZuVjI0UkY5dmpaRU1fRlh0cmwzeEw2ckNYYmFJNmJpX3JCN3RlMElpWUlic1VSMHV4YlVabldDRnhPa3ZxMzVoXzlMTTdvdjR4V21tOVF6ZWRBWXg5WWM0UVVmdG5XajFtUkNtZEVNd2JKS21rb3o3YWxqbXQ2THV3UGc3bFJGcTlwQm1ZSU5mVkhNdFluZF92Ri01bWRoN1pWYWsyZw?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 16:21:04 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Trump accuses Sen. Cornyn, Karl Rove of sabotaging Ken Paxton in Texas - Washington Times",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbVE1LS1wLWo1V0tiYmtxYkVhSXNVMjcxem9kWDNoTTZMS2doMkVBZXNBQmhEdS13cXgtb1NncXFjbmFQXzZaS2NEeWw3STZmUzM0dF9ORXdYS3RJdjJXR2FBQ3RJelMwS0V4XzhIVEhlSl9WSFBoU2xfWjZ6YlpFUjVYd2hXZG5VRkw2bkJHeWJ6WUtCZFB6anVkZUVvT1lFdzRBUU9GT2F6ZjJmU2VuSC1zSzhUNmNI?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 21:12:10 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "cornyn"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Paxton vs. Talarico: Moments in the Texas U.S. Senate race you may have missed - Fort Worth Star-Telegram",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWm1JeEFTTzAtS0xXTXN1ZnJTQ2VhaFhGc2VCejdwLTVWdE9VeXRCWkJaQVVUZkczZHp3SUtsdU9IQ0FUcHFfWGZBLXVfVFZ6RmJLTktoMnRxdV9KX255bURZdW5tT2RRdlhteTNQRnRsb3paSUF1UVo3Y2xfZzlVN0ZKeE1rT1BoNXlzV3lramI1bXhYeXfSAZYBQVVfeXFMUGlBc1hzSkQ0RVdhVXkwNnBXQjhYMC1qTzBySUJPZVk5OTVwbHlRZXR0a1RaTVdhUGpQeTlSanNseHk0Nlp1ZkxVTXhSUGd4RWlHNjNYQ09fUlNIS2xYQU5yOXgzUGxNQ2V0amFwZmt0dEtnemVodDUyWDNWMkMtSndERUZ1a1paS1NnOFVQZUlENVl4LTln?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 19:43:05 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Blame is on Cornyn, Karl Rove 'if Ken Paxton loses,' Trump says - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Mcm95T1M0SnhoOWJtZmZzekk3OU5HSU1LVkhjY3pIYmtabVVvYWp2eHMxakhfcUp2ekFFMU5CRnN6OWlMcnFCUXk1U2hBZGlxaFBWNXhVTEZEbktOWEJ1MS0xYm80dXNnb3hvd0E1QnhHUmUyazJkdFFn?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 16:57:52 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "cornyn"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
     {
       "title": "Poll Shows Ken Paxton Narrowly Leading James Talarico in Texas U.S. Senate Race - Breitbart News",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY2JOWTZkUzNLNjY0X1JCeHlTblAtY1JJclRtSnJjR0ZaMy15WGtPSXAxenBxWHRjQ3RMdktCTTBGRnNvSnMxV3RBWnFrRTJzbC1jNkpsLV9xUkxZdTlPUmppa29kMnpURzd0Z0MwNXMtd09aSFVLX0JlSFV2RVowWkZfR1p5cjkwLXhvT2lzT1NyZEhQUTktNVZmQmpvN1VVLXpjRXhQSVZQbTZWR1VaQkxQdE5tQVJlNVHSAb8BQVVfeXFMTjFGUTJ3aG83WDE1QkZ6R0V5UE1YVkxTaDBHb1ZCRXBvNXZhUWpOcmpSckdjZU9FWmpQVzZGOXNGNEo4cjJ6YUVJM0NlTXFpWXlDMncwcW9jQ3lvWS1oWVdXMFFFbDQ0NS1sc1EzakdDQ2REcUo0SVZqeHVYNThualFWYmlSYUtUZ0xvRmZIb1lyOUhaZTVHRVkyTE1GMFJqRmticEVTc0RybVBKQ0dsT0xaN3VMV0pCemNLZDhmRFk?oc=5",
@@ -2101,111 +2186,29 @@
         "source": "local-fallback"
       },
       "error": "HTTP 405"
-    },
-    {
-      "title": "Trump Notes Talarico's Absence from Texas US Senate Race, Praises Paxton - NewsRadio 740 KTRH",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON3RyN002SUFqcDdGdzB2N0FMeUlYeVduODBUYzUxLWZDSzBEX3ZQb2NSQlM1UXBEaWt6dnU0SC1DdGcwUzR4UEhVVUZaVUJKTDFnQ0V3U3o2SXN3RC1kREhucktGWmJreV94UHhYVWR6d2pmUjJab2xZQjFJTjB2YlpCS25wOXd3MTZuRHduOHZ5b2V1NTh5RVRaNHVMZlJ2OHZOTlZ4N3pUR0FrMVkzMDRqMlRFVjJ4Z3E3aNIBvAFBVV95cUxON3RyN002SUFqcDdGdzB2N0FMeUlYeVduODBUYzUxLWZDSzBEX3ZQb2NSQlM1UXBEaWt6dnU0SC1DdGcwUzR4UEhVVUZaVUJKTDFnQ0V3U3o2SXN3RC1kREhucktGWmJreV94UHhYVWR6d2pmUjJab2xZQjFJTjB2YlpCS25wOXd3MTZuRHduOHZ5b2V1NTh5RVRaNHVMZlJ2OHZOTlZ4N3pUR0FrMVkzMDRqMlRFVjJ4Z3E3aA?oc=5",
-      "pubDate": "Sun, 11 Oct 2026 00:53:42 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "Ken Paxton took nearly 1,000 trips with state-funded security detail costing millions of dollars",
-      "link": "https://feeds.texastribune.org/link/16799/17492715/ken-paxton-travel-costs",
-      "pubDate": "Fri, 09 Oct 2026 10:00:00 +0000",
-      "feedSource": "texastribune",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "attorney general"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "Talarico returns to campaign trail after flu, challenges Paxton to debate - NBC 5 Dallas-Fort Worth",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbmkxTDRyRHJtLXUtRGhqTkhvMjA0Snp0U3FYaThqekNWTzBrVmw0MEpzZ2d6bWwzVjJuQ2Y3V0VuTFQ5WDZfZDdhUy1GTGhaUzNLQjJXcTJOY2dZNFRrWW50ZEw3dFRwTFZEeXl6bnFuLWdsZG42dEdNWjR4QThOTjhoOVMtUW9FZmdVcURXdmQzeEdaSU9WdkFRZDB3MzRLb1poNFdSRVZKTHV1eVhySjZLR0NWLXdKcHRQSHN4b3RtZjkwWkpvNU0xS01rZ9IB1gFBVV95cUxQdHp5MXE5YkxLX2pTY0p2dlBhWGZVX0tqdGhRcXdzOFpQYmFfazhhdmZNNW1taWpQbFdINHA5M1VyanAwaHNfOVhsQm5URTBKX3pYOERUdzk1b2p6czZuZmxsaWl1S0Z6VlYzd2dwcldoYmxtaWUxdW5nR0FEeUlhVWd5RzdlMWhVbHhjQ0NDQWlqdkp3TDlKX0MwMGJyd3lGNE1ES0doZU5ic3NqT1RNRW9YbURFZWM3NkRxQ3FLcUxDQVBqTXJPV3NqU2ZBakc0dWNvekhn?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 00:48:24 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "James Talarico: \"I'm Not Interested In Turning Texas Blue... The Best Color For Texas Is Purple\" - Real Clear Politics",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JOWNwd09FNTF5X1NqUWdtVUxBSjhQV0NKdGVyTUlhU3JKSGRsN2VVWUNicmVBZTdlQUEza3B1WmNDMHZGZ0JrcnRROXZlbDVtMTRiMUJkXzU3a0JySjYzT2dTV3hlWVZub21OaTlvYnhTc25YdlBoWHRMYw?oc=5",
-      "pubDate": "Sun, 11 Oct 2026 18:01:34 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
     }
   ],
   "weekly": {
     "2026-W42": {
-      "both": {
-        "positive": 1,
+      "talarico": {
+        "positive": 3,
         "negative": 1,
-        "total": 8
+        "total": 12
       },
       "paxton": {
         "positive": 2,
         "negative": 3,
-        "total": 8
+        "total": 10
+      },
+      "both": {
+        "positive": 1,
+        "negative": 1,
+        "total": 9
       },
       "general": {
         "positive": 0,
         "negative": 0,
         "total": 4
-      },
-      "talarico": {
-        "positive": 3,
-        "negative": 0,
-        "total": 11
       }
     },
     "2026-W29": {
@@ -2218,8 +2221,8 @@
     "2026-W41": {
       "both": {
         "positive": 9,
-        "negative": 2,
-        "total": 28
+        "negative": 1,
+        "total": 26
       },
       "general": {
         "positive": 2,
@@ -2229,12 +2232,12 @@
       "talarico": {
         "positive": 4,
         "negative": 6,
-        "total": 18
+        "total": 17
       },
       "paxton": {
         "positive": 2,
         "negative": 2,
-        "total": 13
+        "total": 12
       }
     }
   }
