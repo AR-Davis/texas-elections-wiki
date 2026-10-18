@@ -1,30 +1,14 @@
 {
-  "fetchedAt": "2026-10-18T13:07:08.897Z",
-  "count": 23,
+  "fetchedAt": "2026-10-18T16:45:26.343Z",
+  "count": 24,
   "feedsChecked": 8,
-  "itemsScanned": 165,
+  "itemsScanned": 162,
   "items": [
     {
       "title": "Sizing up the Texas Senate race between James Talarico and Ken Paxton as early voting begins - CBS News",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YSlByN3o2c091MElFY3VfUW10LW1oaU5aUWE3NkZDRnNsbTFGOUZkZ2ZzOVdlNDZXWkZMbUUzRV9HRkw0UDctRFd1el91MHBwejBMRjAwcTA3STBtTlNZbXVqSmFVUVg4NnNNX2R6RWVtSDg4UDJfbjlicHB1Zw?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 11:00:13 GMT",
+      "pubDate": "Sun, 18 Oct 2026 11:00:00 GMT",
       "feedSource": "google-news-texas",
-      "raceScore": 38,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ]
-    },
-    {
-      "title": "James Talarico Raises Quarterly Record of $64 Million in Texas Senate Race Against Ken Paxton - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ3Ixc1VuQUQ3ckhiRHBmOWtqZ1BWTm9LSkhHajZocktSeEtLdmlocUtqaU5MNkprNnBzRTNtczh4ZURkc2Z1eGlXRFl1OEdVSGlMR3pMZ1BfWEhWSHFyYzJzTDVkMWlabF9PUUVIaUZkRUM5dEtIeW9mQlVDRGhtR1B1Rlo1OW5nUkYzeHNCZDF3TGpuZWc?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 15:21:15 GMT",
-      "feedSource": "google-news-race",
       "raceScore": 38,
       "matchedKeywords": [
         "talarico",
@@ -70,7 +54,7 @@
     {
       "title": "In Texas Senate race, Ted Cruz tries to push Ken Paxton across the finish line - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaDlZVGxKdW1mQzVPTzhTRzhNcmJlU3JaekkzeWJnRFdpNFIzT1AyOG13c3NtMlczUHZFUHllcG1SVUt4UjlJWlQwMEVxbTdPS1puX2pDelBUeUx3ZGFndTJ2eG41NWhWSExfX3lRNzZJYVIwbVM0R1ZwWmtDd25KM3BBMHZwVEc4bUpyRW5VdWRGNHRDall4X196RGJMbmxSQWloNjdyOWM5Z2VuMnN0ZlhDbUlRWUhBUmI0?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 12:36:47 GMT",
+      "pubDate": "Sun, 18 Oct 2026 16:00:00 GMT",
       "feedSource": "google-news-race",
       "raceScore": 27,
       "matchedKeywords": [
@@ -132,6 +116,20 @@
       "matchedKeywords": [
         "paxton",
         "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ]
+    },
+    {
+      "title": "Sizing up the Paxton-Talarico Texas Senate race as early voting gets started - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcnBMbWFKWkpKNWwzZjFBVjl4WGNSeTVrSjZOT3NENmdReXpoVnJpRXpXSHh1dGxqYU40NDd5NW8zRjFWTHVuOXpyblBHX29jVXcxRmJDTzE5cF9MdVJrZDFEXzZ3ZlE4MVdtSTZ0N0tDRzZ6WmZNOThqRkxOSG9iUG85RjNmOTNsZi1qMU9Xc0RIbWMzekQtTXl2NHJWaERibzRHS0dxR0NWR0Q1cHpPd09ISQ?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 11:42:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
         "texas senate",
         "senate race",
         "texas senate race"
@@ -284,6 +282,19 @@
         "texas senate",
         "senate race",
         "texas senate race"
+      ]
+    },
+    {
+      "title": "Ken Paxton Accuses John Cornyn of Wanting Him to Lose in Leaked Audio - RadarOnline",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vWno5bGxiTElfQVJzOWM3NERwbkNLT3FnOTZnUXFZbktwUF81elVYTUtvM0tlSHhubEFkeVc2Mm41a1Y2cXBRMEpCRkM1WXhyZWZ5TXdvbw?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 17:14:41 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 20,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "cornyn",
+        "john cornyn"
       ]
     },
     {
