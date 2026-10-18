@@ -1,9 +1,30 @@
 {
-  "analyzedAt": "2026-10-17T23:52:31.072Z",
-  "newsFetchedAt": "2026-10-17T19:11:20.303Z",
+  "analyzedAt": "2026-10-18T03:52:45.722Z",
+  "newsFetchedAt": "2026-10-17T23:53:40.339Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Trump and Paxton attack Texas Senate candidate Talarico for absence from the campaign trail - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVGlUZlFrbnBNSGVINWRvajE4UkFhbDBWbi1JTnZyWUdGSzNYV214TFF0RVZNSnNhdkVEQ3ZRbjNOWmZ4b19Rc1dUbjJOV2x5U2NVYkZpVjJsY3ZGODF4N2gtZEkwblNvZFBqcHhYWDdtZUNzd1V3OHlNUTJHeHZ2VW1pcnRBSmRTdTZtOWZsLWE5VUdPVl9JeENPZERWOGpIUUZRR1hRM0ZaNEHSAbABQVVfeXFMTTVsclpzdmJJenRIUm80WmQ1VXZQWEY0ZEpHeGxUVXVjREVrejR1Y1J1X2RCY1FpbnRzZjVEa29sWGF2UWY5amhhOTh2SGt5VTlHX3cwV2laNkZ4N1duZENxcEF1U1RpajMyNzZ4WWd4Z3M1Y3NFajloNVp4X2VXZE81SldKX3hPcjBCbDBMZFlnTUlWNWhtdnRFNEwwLWg4WHhFSktIM01mUmJmencwa3U?oc=5",
+      "pubDate": "Sat, 17 Oct 2026 18:16:37 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
     {
       "title": "Democrats feel bullish about Texas Senate race as Trump campaigns in states he won - WBUR",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VLUlIOEt1bUJRTUJiaFpMLVotZkowQ0U0YjBSX1dxOWV4N3V4Yi1mdnVhQVpqUW9TQXlVVnMzZ1I2Z1QxNnVnMzdhVDdqaXNuanVqRW5uSDAzLVNDZWFmNGpENTg0a0c1MzVrRTRPTnVSaDZFaElCa3F3TQ?oc=5",
@@ -2161,31 +2182,15 @@
         "source": "local-fallback"
       },
       "error": "HTTP 405"
-    },
-    {
-      "title": "Texas senate candidate James Talarico resurfaces at famous music festival after mysterious 13-day absence - Daily Mail",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS0FacjFSamx0MFB0c3RhdmliSzBaS0dKX2hZdzlvamprcElFamJzQkFVM3MxTHQ1YUR3SGhKeHJyV0J0ZVFzRU5Qc3U1Zk9LMHlyUk9SMFMxOVpyMTF1MUl1QWRydGw2UDJydl9UMVVWS0lEVUswT0RORW1VaWtoNGxHeXdQOTZHaTV2blZoa29sR0RWS3AyR0VR0gGfAUFVX3lxTFBERUx3aDFtczU5clhjRDIyZ3NYb2Nha2VrVl9iSHRtVzVKcnNwcVZrUVo4NFZMRDg4Tk5jbFFnU2EwdjlUYWF1MjN6RkI5d0hxQ1ZtR2xQR09ib0drV1VEWmg3SHFpRmVpYlZ2ckJmQkpCQlZwOG85ZWNCcjZYWmRLeVZOVWl1RU90VFNlbU1kd08wNWFxSnU1R0U5SEpnSQ?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 18:05:23 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
     }
   ],
   "weekly": {
     "2026-W42": {
+      "both": {
+        "positive": 0,
+        "negative": 1,
+        "total": 7
+      },
       "general": {
         "positive": 0,
         "negative": 0,
@@ -2195,11 +2200,6 @@
         "positive": 2,
         "negative": 2,
         "total": 7
-      },
-      "both": {
-        "positive": 0,
-        "negative": 0,
-        "total": 6
       },
       "talarico": {
         "positive": 3,
@@ -2227,8 +2227,8 @@
       },
       "talarico": {
         "positive": 4,
-        "negative": 8,
-        "total": 20
+        "negative": 7,
+        "total": 19
       },
       "paxton": {
         "positive": 2,
