@@ -1,6 +1,6 @@
 {
-  "lastChecked": "2026-10-18T13:45:15.863Z",
-  "wikiPollCount": 55,
+  "lastChecked": "2026-10-18T16:58:50.276Z",
+  "wikiPollCount": 56,
   "newPollsDetected": 0,
   "latestPolls": [
     {
@@ -18,11 +18,18 @@
       "undecided": 1
     },
     {
-      "pollster": "Quantus Insights",
+      "pollster": "Quantus Insights (R)",
       "date": "2026-10-09",
       "paxton": 47,
       "talarico": 47,
       "undecided": 4
+    },
+    {
+      "pollster": "CBS News/YouGov",
+      "date": "2026-10-08",
+      "paxton": 49,
+      "talarico": 51,
+      "undecided": 0
     },
     {
       "pollster": "Marist University",
@@ -65,13 +72,6 @@
       "paxton": 45,
       "talarico": 46,
       "undecided": 5
-    },
-    {
-      "pollster": "Beacon Research (D)/ Shaw & Co. Research (R)",
-      "date": "2026-09-24",
-      "paxton": 49,
-      "talarico": 51,
-      "undecided": 1
     }
   ]
 }

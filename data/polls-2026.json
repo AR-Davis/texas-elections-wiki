@@ -26,7 +26,7 @@
       "method": "LV"
     },
     {
-      "pollster": "Quantus Insights",
+      "pollster": "Quantus Insights (R)",
       "sponsor": "Republican",
       "date": "2026-10-09",
       "sampleSize": 854,
@@ -34,6 +34,17 @@
       "talarico": 47,
       "paxton": 47,
       "undecided": 4,
+      "method": "LV"
+    },
+    {
+      "pollster": "CBS News/YouGov",
+      "sponsor": "Independent",
+      "date": "2026-10-08",
+      "sampleSize": 1492,
+      "marginError": 3.5,
+      "talarico": 51,
+      "paxton": 49,
+      "undecided": 0,
       "method": "LV"
     },
     {
@@ -455,7 +466,7 @@
       "method": "RV"
     },
     {
-      "pollster": "Quantus Insights",
+      "pollster": "Quantus Insights (R)",
       "sponsor": "Republican",
       "date": "2026-06-03",
       "sampleSize": 800,
@@ -610,8 +621,8 @@
     }
   ],
   "averages": {
-    "talarico": 46.8,
-    "paxton": 44.7,
-    "undecided": 6.3
+    "talarico": 46.9,
+    "paxton": 44.8,
+    "undecided": 6.2
   }
 }
