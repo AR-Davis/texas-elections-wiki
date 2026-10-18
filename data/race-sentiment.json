@@ -1,9 +1,143 @@
 {
-  "analyzedAt": "2026-10-18T13:05:52.690Z",
-  "newsFetchedAt": "2026-10-18T08:47:45.105Z",
+  "analyzedAt": "2026-10-18T16:44:51.005Z",
+  "newsFetchedAt": "2026-10-18T13:07:08.897Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 6,
   "stories": [
+    {
+      "title": "Sizing up the Texas Senate race between James Talarico and Ken Paxton as early voting begins - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YSlByN3o2c091MElFY3VfUW10LW1oaU5aUWE3NkZDRnNsbTFGOUZkZ2ZzOVdlNDZXWkZMbUUzRV9HRkw0UDctRFd1el91MHBwejBMRjAwcTA3STBtTlNZbXVqSmFVUVg4NnNNX2R6RWVtSDg4UDJfbjlicHB1Zw?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 11:00:13 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 38,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "In Texas Senate race, Ted Cruz tries to push Ken Paxton across the finish line - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaDlZVGxKdW1mQzVPTzhTRzhNcmJlU3JaekkzeWJnRFdpNFIzT1AyOG13c3NtMlczUHZFUHllcG1SVUt4UjlJWlQwMEVxbTdPS1puX2pDelBUeUx3ZGFndTJ2eG41NWhWSExfX3lRNzZJYVIwbVM0R1ZwWmtDd25KM3BBMHZwVEc4bUpyRW5VdWRGNHRDall4X196RGJMbmxSQWloNjdyOWM5Z2VuMnN0ZlhDbUlRWUhBUmI0?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 12:36:47 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "If Ken Paxton loses to James Talarico, Trump already knows who to blame - Austin American-Statesman",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbEhPalRoR2hMdWtDNWs5REdRd3Zpc3V4ZXNpMzh6V3FEWnc2dXdUeE53LVhmbEZGcm9qOFpETjVEZkl0N0x5blVkdExEcGdKSE4wUHJFMWtJQ0dCYVdDNjFUeEI0ZG9UTzVxczdoTTY0SlN3Mkxta2UybXZFMklQeDJUQko2OTF6LTNjR014SHNBMlMyWFVnelR2Z1ppSy0yM0lZRG53?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 10:08:45 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Ken Paxton, James Talarico hit campaign trail ahead of early voting in Texas - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNDdRUmFDbHQ5OGdReGhPS0IzYm5iVk9RcFlxaEJiQmkzRzI5RG84dWZrbHFkVWlsZ3IxbWVXWnZpVFd2NDVSaE1mNC1kc2RGVWdLU0dEdHFmQ2lWNWF4RHd1S2ljZFUtbWhSWmlRYTVyT20yV19yaGZkQzNxeG9nM0ZwM3NYOWhtQmYxZWI1VlFDWE8zSUFRVmRQSXB4QQ?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 01:20:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Texas Senate candidate James Talarico visits San Antonio's La Fonda On Main - kens5.com",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNlQ4SGdEN2JORk43clRlUHZpcXpDT0MzSlVSRUxIbXpLY2Roa3Q3NmV1OV91RXZrUS1XMHlQYVVnVDFtXzNFaDNSTmhpYjI4dXBibWZGRWpaM0hZTTEzZDVDeF82alNDdUNKUWlfajRUS1ItQVdkQzJySS14V3ltN2U0VnNIbHR4UzhpTlZtdUJhSVFXcDl0ejREaXN1Z2tzbkJhT242Z09iZTVGcjI1Y0ZQSWdlS0xzc2IxYWgyckU5SkVNaGRreVVsRGNQQV9NN1lLd0tlXzF2bGx1M1VMN1B2ZkVabE5VeXdWNFZR?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 04:05:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 18,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "In tight Texas Senate race, Trump's immigration crackdown tests Republicans' hold on voters - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObi1MNGpVN2pPcmNsOXdrdFo4UmhLZFZsX05CWVY0YmNkTUFuVU9HUlZ4MVJVQ1JUcWhwUlV4cnhlTTZPNGF3WlFNN2hHOGFvOHUxWkNkLWNUVWEyNjhjVjQwWUEzSlRpWkgxV2cwa2drZHA5cUw5Ylg0MTVWWnY3UXZ6eFlZWm5DMWdsNUdXM1BCS3JkRmpqOGxfZUd1ZVBjbTBYZFFrNWlQa3hUU1Y3MW9HdGRwRjM1?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 10:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
     {
       "title": "'David vs. Goliath': Talarico’s Bible-battle cry in Texas Senate race after being mocked by Trump - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNMmRfbW1QXzVxcDU4QWQtUkhSVE1iOGUtSDE4aTdybk9WOTVmMUVpb0YyaVNMdDhDSFZBTGNlSEZlTWpsTXBjbkNlalBYS1plbF9QRTZtUW5DM2F4X2JMcExZWmJ5MkVvVVJDVkRJOFZkaEtLVW5zbUZ3bnNvbS16OHdtNmlXQ3doN0ZYdUtYUXV0RUViVmZnWlhwMGdYa090Tkp2bkZUN3ZXR296cjltZG0tOTBiMWlSV0dXdEtGbE1aaFJHNDR2Z294VzJFYWFuYzFadnQyU2NiSFU2QmlYV0FBLVFQYjJ1MVdfMUE4SzJ1ZXhNMExidzI3MGxlRWtjWDNLNdIBigJBVV95cUxQSEZ3cktyNXFLVzE0WEE1YVlaWXliaWdubGRTMkJLazZRVHJZdlVUM3BEeWN1ZDhramhtTFkzTHk1a184TThSajBVaVp1MVlraldPNmxkWlFtX2xqbF94VDFtZEt4UldTSGZ6NEZuVjI0UkY5dmpaRU1fRlh0cmwzeEw2ckNYYmFJNmJpX3JCN3RlMElpWUlic1VSMHV4YlVabldDRnhPa3ZxMzVoXzlMTTdvdjR4V21tOVF6ZWRBWXg5WWM0UVVmdG5XajFtUkNtZEVNd2JKS21rb3o3YWxqbXQ2THV3UGc3bFJGcTlwQm1ZSU5mVkhNdFluZF92Ri01bWRoN1pWYWsyZw?oc=5",
@@ -2062,153 +2196,29 @@
         "source": "local-fallback"
       },
       "error": "HTTP 405"
-    },
-    {
-      "title": "James Talarico returns to campaign trail at ACL festival after illness spurred GOP calls for “proof of life” - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQVUNlZHZtSUJPcml0eGd0ZlBiRUhPRHBRcHhMdFhzcW5EN3dfTDhxanlERzczN0ZTYVB3TWNXM3l5NktrUmtDNmZMblpzN3BlYktFUEh6V1NWZkVOSnFmems5aXQ0Szl3eW1DWnJSMmRHdTdaakZHTDVqMGZYUkR3TVBpOEhfNXJENnJBQ3BVSVFSeFdFYlV6M3IxeHlORFJYcW9DbnZzbl83YWdhRWh3eEZKbXd0Y2pld0RaMU1GQm02VDNVdjRNMHhZM3J4Q2k2X25SaWxnSlFORTUza2lhVy1HWEp3dEVXb2xqUFEydUNXMmQ4VEtLWnVpSTBJeDJFNlZSdzk3WXNLWTRENVByQ1YtWmhrUTdxQ29mbVZBWmdHRlYxRERhbHpad9IBqwJBVV95cUxQVUNlZHZtSUJPcml0eGd0ZlBiRUhPRHBRcHhMdFhzcW5EN3dfTDhxanlERzczN0ZTYVB3TWNXM3l5NktrUmtDNmZMblpzN3BlYktFUEh6V1NWZkVOSnFmems5aXQ0Szl3eW1DWnJSMmRHdTdaakZHTDVqMGZYUkR3TVBpOEhfNXJENnJBQ3BVSVFSeFdFYlV6M3IxeHlORFJYcW9DbnZzbl83YWdhRWh3eEZKbXd0Y2pld0RaMU1GQm02VDNVdjRNMHhZM3J4Q2k2X25SaWxnSlFORTUza2lhVy1HWEp3dEVXb2xqUFEydUNXMmQ4VEtLWnVpSTBJeDJFNlZSdzk3WXNLWTRENVByQ1YtWmhrUTdxQ29mbVZBWmdHRlYxRERhbHpadw?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 13:11:41 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "Texas Senate Candidate James Talarico Debunks Mental Health Conspiracy Theory Following Flu Absence - streamlinefeed.co.ke",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWGZ6Q0Vpam9Dc3BuOXhfWlZSX0pmZEV4Qnc2NEVoYkoydFZCT1ZSQ2NsYXJsT2ZPV2h2SVZ3X2VycG1rLVZSQ3FVdlA4eWtMT3JFb0FBaU4wRUZtb3VFc2tZWW41Q0VzQVNBQW0ycWJCSXFUU1UwTnJRLXRvWGVTQm5fcmk3ODlPOE5CUWFQTkd1V2p2a2YySXZlSlZCeUtCUXZBa08wWjFzSjBJ?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 05:27:57 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "What We Know About A Claim That A Recording Proves Texas Senate Candidate James Talarico Was Treated At Ohio Mental Health Facility - Lead Stories",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaVc3al9tLXVNUmZXNEFYanBYN0NEam5SNEF2ZW8zWS1OeVVteWxXNUtUV0JVU0czMmV6OWlSRW5EN2x6c2NoWDB6c1RhbEhFU2pHTDJ3T3QtQW00ZEdKZEhySnBhNVN2TlNLQS0zYW5NUzlXVVptUkNVMlVnYUo5REpLYzMwalFIejZyZ0lmUzhTY0N2ZFZSZE1mVF81TWVURVpVNUVUUHBYcGVBenpBbEdDOE9jcV84UVc1bFAxUUtyS1c2eHdfdmJMU09ZZG9HamhBaDNYZjhtU25OMFZ3cGpMSU5ad1E0RVI4Qlc5RDRhT1R3MHc?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 03:12:11 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "Willie Nelson Endorses James Talarico for Texas Senate in Close Race - AOL.ca",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb1FicFlHX2xFRWNBeHVGdng2b0h6LUJYUEFKd01DamJKYXJVbm5RMENIMGFsWjJVdzQ4cl9wSWdSdDRmVkdPQm1qNXoxQkZMYTFka2FhUEQ5QnRTTjNOZlp6ODkwUUlobE1hb0U3U0ppRjJIeUt1OEV0c3dMQVEzanRzMUgxXzg?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 20:08:25 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "Election Dispatches: James Talarico Returns to Campaign Trail in Texas After Absence Raised Questions - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPc2NOTmVTTjdyM092d2VoNnRrWlNnQjlMQUVlYXJqUE9FWWg0TmNhaFZPZ3o4NVZMSmI0Mk0wRnVHYWc4VVNqcGlPcWhaU2w0TFJGNmdZeXhfamNnN3RvLTllNXYwekUzc1ROVGVR?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 08:09:32 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "Bad blood spills over in the Texas Senate race — and it’s tearing Republicans apart - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZmFmbUdOZ3lTQXlFSE9md0hOdFlNaHdPRXlVTDJmWXlTN19zX1FCNlVFSzB2QTJ1V2hPMS1kWGl3SjlaWTFqMi1tTlExNi13T0tibGhPWS1Fc09HVjFQMzBKeUo1UXZ5d01uc1JHSi11VV9pREpMNFNTdWlyREI0VkFyVTkyc1JIY2w5X01yUjFnRUNQblpUZzdvSllsZGdPYTZUSmtGdmRsNk5zSFljUw?oc=5",
-      "pubDate": "Sun, 11 Oct 2026 23:39:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
     }
   ],
   "weekly": {
     "2026-W42": {
-      "talarico": {
-        "positive": 3,
+      "both": {
+        "positive": 1,
         "negative": 1,
         "total": 12
       },
       "paxton": {
         "positive": 2,
         "negative": 3,
-        "total": 10
+        "total": 11
       },
-      "both": {
-        "positive": 1,
+      "talarico": {
+        "positive": 3,
         "negative": 1,
-        "total": 9
+        "total": 13
       },
       "general": {
         "positive": 0,
         "negative": 0,
-        "total": 4
+        "total": 5
       }
     },
     "2026-W29": {
@@ -2227,12 +2237,12 @@
       "general": {
         "positive": 2,
         "negative": 0,
-        "total": 9
+        "total": 8
       },
       "talarico": {
-        "positive": 4,
-        "negative": 6,
-        "total": 17
+        "positive": 2,
+        "negative": 4,
+        "total": 12
       },
       "paxton": {
         "positive": 2,
