@@ -22,7 +22,18 @@
       "marginError": 2.8,
       "talarico": 48,
       "paxton": 49,
-      "undecided": 1,
+      "undecided": 2,
+      "method": "LV"
+    },
+    {
+      "pollster": "University of Houston",
+      "sponsor": "Independent",
+      "date": "2026-10-10",
+      "sampleSize": 2000,
+      "marginError": 2.2,
+      "talarico": 48,
+      "paxton": 46,
+      "undecided": 3,
       "method": "LV"
     },
     {
@@ -33,7 +44,7 @@
       "marginError": 3.6,
       "talarico": 47,
       "paxton": 47,
-      "undecided": 4,
+      "undecided": 2,
       "method": "LV"
     },
     {
@@ -66,7 +77,7 @@
       "marginError": 2.9,
       "talarico": 47,
       "paxton": 44,
-      "undecided": 8,
+      "undecided": 2,
       "method": "LV"
     },
     {
@@ -77,7 +88,7 @@
       "marginError": 4.4,
       "talarico": 48,
       "paxton": 44,
-      "undecided": 5,
+      "undecided": 3,
       "method": "LV"
     },
     {
@@ -88,7 +99,7 @@
       "marginError": 3,
       "talarico": 50,
       "paxton": 44,
-      "undecided": 3,
+      "undecided": 2,
       "method": "LV"
     },
     {
@@ -99,7 +110,7 @@
       "marginError": 3.3,
       "talarico": 50,
       "paxton": 47,
-      "undecided": 3,
+      "undecided": 2,
       "method": "LV"
     },
     {
@@ -110,7 +121,7 @@
       "marginError": 3,
       "talarico": 46,
       "paxton": 45,
-      "undecided": 5,
+      "undecided": 4,
       "method": "LV"
     },
     {
@@ -121,7 +132,7 @@
       "marginError": 3,
       "talarico": 51,
       "paxton": 49,
-      "undecided": 1,
+      "undecided": 0,
       "method": "LV"
     },
     {
@@ -132,7 +143,7 @@
       "marginError": 3.5,
       "talarico": 45,
       "paxton": 48,
-      "undecided": 4,
+      "undecided": 0,
       "method": "LV"
     },
     {
@@ -154,7 +165,7 @@
       "marginError": 3.5,
       "talarico": 48,
       "paxton": 48,
-      "undecided": 4,
+      "undecided": 0,
       "method": "LV"
     },
     {
@@ -165,7 +176,7 @@
       "marginError": 4.5,
       "talarico": 51,
       "paxton": 45,
-      "undecided": 4,
+      "undecided": 0,
       "method": "LV"
     },
     {
@@ -176,7 +187,7 @@
       "marginError": 3.5,
       "talarico": 47,
       "paxton": 44,
-      "undecided": 5,
+      "undecided": 4,
       "method": "LV"
     },
     {
@@ -187,7 +198,7 @@
       "marginError": 3.6,
       "talarico": 49,
       "paxton": 44,
-      "undecided": 3,
+      "undecided": 1,
       "method": "LV"
     },
     {
@@ -198,7 +209,7 @@
       "marginError": 4.5,
       "talarico": 45,
       "paxton": 45,
-      "undecided": 7,
+      "undecided": 2,
       "method": "LV"
     },
     {
@@ -209,7 +220,7 @@
       "marginError": 4.4,
       "talarico": 50,
       "paxton": 44,
-      "undecided": 4,
+      "undecided": 2,
       "method": "RV"
     },
     {
@@ -220,7 +231,7 @@
       "marginError": 2.3,
       "talarico": 47,
       "paxton": 46,
-      "undecided": 4,
+      "undecided": 3,
       "method": "LV"
     },
     {
@@ -231,7 +242,7 @@
       "marginError": 2.9,
       "talarico": 46,
       "paxton": 45,
-      "undecided": 6,
+      "undecided": 3,
       "method": "LV"
     },
     {
@@ -242,7 +253,7 @@
       "marginError": 3,
       "talarico": 47,
       "paxton": 46,
-      "undecided": 4,
+      "undecided": 2,
       "method": "LV"
     },
     {
@@ -253,7 +264,7 @@
       "marginError": null,
       "talarico": 50,
       "paxton": 45,
-      "undecided": 5,
+      "undecided": 0,
       "method": "LV"
     },
     {
@@ -275,7 +286,7 @@
       "marginError": 4,
       "talarico": 46,
       "paxton": 43,
-      "undecided": 8,
+      "undecided": 3,
       "method": "LV"
     },
     {
@@ -286,7 +297,7 @@
       "marginError": 2.8,
       "talarico": 47,
       "paxton": 46,
-      "undecided": 5,
+      "undecided": 2,
       "method": "LV"
     },
     {
@@ -297,7 +308,7 @@
       "marginError": 3.6,
       "talarico": 48,
       "paxton": 43,
-      "undecided": 7,
+      "undecided": 1,
       "method": "RV"
     },
     {
@@ -308,7 +319,7 @@
       "marginError": 3.3,
       "talarico": 48,
       "paxton": 44,
-      "undecided": 8,
+      "undecided": 0,
       "method": "LV"
     },
     {
@@ -330,7 +341,7 @@
       "marginError": 3.3,
       "talarico": 48,
       "paxton": 42,
-      "undecided": 7,
+      "undecided": 1,
       "method": "LV"
     },
     {
@@ -341,7 +352,7 @@
       "marginError": 3,
       "talarico": 46,
       "paxton": 47,
-      "undecided": 5,
+      "undecided": 2,
       "method": "LV"
     },
     {
@@ -352,7 +363,7 @@
       "marginError": 2.8,
       "talarico": 42,
       "paxton": 39,
-      "undecided": 14,
+      "undecided": 1,
       "method": "RV"
     },
     {
@@ -363,7 +374,7 @@
       "marginError": 4,
       "talarico": 48,
       "paxton": 46,
-      "undecided": 6,
+      "undecided": 0,
       "method": "LV"
     },
     {
@@ -374,7 +385,7 @@
       "marginError": 4.7,
       "talarico": 47,
       "paxton": 43,
-      "undecided": 6,
+      "undecided": 4,
       "method": "LV"
     },
     {
@@ -385,7 +396,7 @@
       "marginError": 2.8,
       "talarico": 47,
       "paxton": 45,
-      "undecided": 6,
+      "undecided": 2,
       "method": "LV"
     },
     {
@@ -396,7 +407,7 @@
       "marginError": 3,
       "talarico": 51,
       "paxton": 48,
-      "undecided": 3,
+      "undecided": 0,
       "method": "RV"
     },
     {
@@ -407,7 +418,7 @@
       "marginError": 3.6,
       "talarico": 48,
       "paxton": 45,
-      "undecided": 6,
+      "undecided": 0,
       "method": "RV"
     },
     {
@@ -418,7 +429,7 @@
       "marginError": 3.4,
       "talarico": 45,
       "paxton": 40,
-      "undecided": 14,
+      "undecided": 1,
       "method": "LV"
     },
     {
@@ -440,7 +451,7 @@
       "marginError": null,
       "talarico": 47,
       "paxton": 49,
-      "undecided": 4,
+      "undecided": 0,
       "method": "LV"
     },
     {
@@ -451,7 +462,7 @@
       "marginError": 4.5,
       "talarico": 47,
       "paxton": 47,
-      "undecided": 6,
+      "undecided": 1,
       "method": "LV"
     },
     {
@@ -462,7 +473,7 @@
       "marginError": 2.8,
       "talarico": 42,
       "paxton": 43,
-      "undecided": 10,
+      "undecided": 3,
       "method": "RV"
     },
     {
@@ -473,7 +484,7 @@
       "marginError": 3.5,
       "talarico": 43,
       "paxton": 45,
-      "undecided": 7,
+      "undecided": 4,
       "method": "LV"
     },
     {
@@ -484,7 +495,7 @@
       "marginError": 4,
       "talarico": 46,
       "paxton": 46,
-      "undecided": 5,
+      "undecided": 4,
       "method": "LV"
     },
     {
@@ -495,7 +506,7 @@
       "marginError": 2.8,
       "talarico": 47,
       "paxton": 44,
-      "undecided": 7,
+      "undecided": 3,
       "method": "LV"
     },
     {
@@ -506,7 +517,7 @@
       "marginError": null,
       "talarico": 45,
       "paxton": 38,
-      "undecided": 14,
+      "undecided": 3,
       "method": "RV"
     },
     {
@@ -517,7 +528,7 @@
       "marginError": 2.8,
       "talarico": 45,
       "paxton": 45,
-      "undecided": 8,
+      "undecided": 2,
       "method": "LV"
     },
     {
@@ -528,7 +539,7 @@
       "marginError": 3.3,
       "talarico": 46,
       "paxton": 41,
-      "undecided": 9,
+      "undecided": 0,
       "method": "LV"
     },
     {
@@ -539,7 +550,7 @@
       "marginError": 2.8,
       "talarico": 42,
       "paxton": 34,
-      "undecided": 19,
+      "undecided": 5,
       "method": "RV"
     },
     {
@@ -550,7 +561,7 @@
       "marginError": 3.3,
       "talarico": 44,
       "paxton": 43,
-      "undecided": 7,
+      "undecided": 5,
       "method": "LV"
     },
     {
@@ -561,7 +572,7 @@
       "marginError": 4.1,
       "talarico": 47,
       "paxton": 45,
-      "undecided": 8,
+      "undecided": 0,
       "method": "V"
     },
     {
@@ -572,7 +583,7 @@
       "marginError": 2.5,
       "talarico": 44,
       "paxton": 46,
-      "undecided": 7,
+      "undecided": 3,
       "method": "LV"
     },
     {
@@ -583,7 +594,7 @@
       "marginError": 2.8,
       "talarico": 46,
       "paxton": 46,
-      "undecided": 9,
+      "undecided": 0,
       "method": "RV"
     },
     {
@@ -594,7 +605,7 @@
       "marginError": 3,
       "talarico": 44,
       "paxton": 44,
-      "undecided": 12,
+      "undecided": 0,
       "method": "LV"
     },
     {
@@ -605,7 +616,7 @@
       "marginError": 2.4,
       "talarico": 46,
       "paxton": 49,
-      "undecided": 5,
+      "undecided": 0,
       "method": "RV"
     },
     {
@@ -616,13 +627,13 @@
       "marginError": 3.1,
       "talarico": 37,
       "paxton": 38,
-      "undecided": 17,
+      "undecided": 8,
       "method": "RV"
     }
   ],
   "averages": {
     "talarico": 46.9,
     "paxton": 44.8,
-    "undecided": 6.2
+    "undecided": 2
   }
 }

@@ -1,7 +1,7 @@
 {
-  "lastChecked": "2026-10-19T11:21:20.102Z",
-  "wikiPollCount": 56,
-  "newPollsDetected": 0,
+  "lastChecked": "2026-10-19T17:36:02.379Z",
+  "wikiPollCount": 57,
+  "newPollsDetected": 1,
   "latestPolls": [
     {
       "pollster": "ActiVote",
@@ -15,14 +15,21 @@
       "date": "2026-10-13",
       "paxton": 49,
       "talarico": 48,
-      "undecided": 1
+      "undecided": 2
+    },
+    {
+      "pollster": "University of Houston",
+      "date": "2026-10-10",
+      "paxton": 46,
+      "talarico": 48,
+      "undecided": 3
     },
     {
       "pollster": "Quantus Insights",
       "date": "2026-10-09",
       "paxton": 47,
       "talarico": 47,
-      "undecided": 4
+      "undecided": 2
     },
     {
       "pollster": "CBS News/YouGov",
@@ -43,35 +50,28 @@
       "date": "2026-10-06",
       "paxton": 44,
       "talarico": 47,
-      "undecided": 8
+      "undecided": 2
     },
     {
       "pollster": "ReconMR/Siena University",
       "date": "2026-10-05",
       "paxton": 44,
       "talarico": 48,
-      "undecided": 5
+      "undecided": 3
     },
     {
       "pollster": "YouGov",
       "date": "2026-10-05",
       "paxton": 44,
       "talarico": 50,
-      "undecided": 3
+      "undecided": 2
     },
     {
       "pollster": "University of Texas/Texas Politics Project",
       "date": "2026-10-05",
       "paxton": 47,
       "talarico": 50,
-      "undecided": 3
-    },
-    {
-      "pollster": "Rasmussen Reports",
-      "date": "2026-09-28",
-      "paxton": 45,
-      "talarico": 46,
-      "undecided": 5
+      "undecided": 2
     }
   ]
 }
