@@ -1,9 +1,52 @@
 {
-  "analyzedAt": "2026-10-18T21:43:27.626Z",
-  "newsFetchedAt": "2026-10-18T19:20:49.364Z",
+  "analyzedAt": "2026-10-19T00:01:06.063Z",
+  "newsFetchedAt": "2026-10-18T21:44:15.830Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "US Chamber of Commerce Endorses Paxton in Texas Senate Race - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMGVaRkJWcUowOGl1YUtINmR3X2dDb01iUlB6bWdUTGo3ZVhLLU1PZ1RoYkhFN1pTVE1jb0k1Q2QxT183RGRFeTc2OWVKR2RONjdBb2hiNDU4c3B5ZVVFNWlxU3VTaXRFUk1NdS1US19TU3NsR1NKWlV1NGduUm1UeUxUY3BnSWFlMEZ4OEZkZ2hFSV9zWk54V1J3MHR6TFA2TWJ4SjN0clBfeGFZaWln?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 16:28:28 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Elon Musk contributed over $150 million to bolster the Republican Party in Texas Senate race - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaS11aHc3RUdlck9VUDFLS0c5MmliTmJpa2FrZkJJM0pLb09lSjhpMktRQnFiR3hibVhnWHdrVG5TTXZ6UW9PdFJrYThTclZoVEI1N2ZSTUNzNE5Vc2Y2QWlCeVhoVEdMV3VsLXl5azN3RmNiSzBtWXhpS1I4bEdCMFBDTEpxVW9jb21DU1E3eGNaMjNvbDllaUt1T2ZLUWZmbTVPNUFVRUF0dEE?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 12:16:47 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
     {
       "title": "How Elon Musk is bankrolling GOP’s hopes in Texas Senate race - 1430wcmy.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNWtMQk9pbGxiTVphODdBR2JoVDBYbDR0TzVWakJrS3REVjZpeHZES2V5QS1DaXNwMWRXOGhSdFVyZXRvTkNmQ244VzNCUndRa0hzb0U0Qno5cFltN3NUc21KMDZIV1FMbUlKemx4a3hNQjdKT1lHTWhiTmV2VWY2TlZWeEtBSmRTcWplSFJ0a1k3WmRzaFJsNQ?oc=5",
@@ -2158,66 +2201,24 @@
         "source": "local-fallback"
       },
       "error": "HTTP 405"
-    },
-    {
-      "title": "Bad Blood in Texas Senate Race Tears Republicans Apart - Political Wire",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNllvdF80V0N3Q1ROU2RPb0NLUzNNTkh4MHpINnlXQllBa0VfUTBlNmF2bVEzV1pUeFliTnItS0dSRjFDUEY5STRYVEdHeWYtM2xVc3NDa1VVODRaYll0RmcyQnh5WmdRTTN6bTZTUWRXakFPcGtLcGtmUnNoVFU1a2hoVWxhVUhZQXhWcjJOVHNCNHhGY0Y4?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 11:43:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "Must-Win MAGA Candidate Texas Attorney General Ken Paxton Cornered on Flood of Embarrassing Leaks - The Daily Beast",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV3VrWVQ1dGwwU3ViZXNwNkRfdW4wR1RmWmVuRGxtcDBrbk9pX1Y3MTlPcVJ2NFhfRmxQM0dsbjJKTVFUWXNPUXQ3T05TZlNFcTFLVms5RGpvZ2VQYWhHMURXNHNLQTBaOGhCY3ZIbURLSG5YUEYzcGFwX3l3UmtzRWVZelBHOTJVN3VzaFdvaTVxd0dCNF85cWdOeUtGZF9BU3N0SXU3UkdfY0RubUpUTDVLWVZ6bnNSSVZjWHRsWVlVamlOdFE?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 13:48:34 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "attorney general"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
     }
   ],
   "weekly": {
     "2026-W42": {
+      "paxton": {
+        "positive": 3,
+        "negative": 3,
+        "total": 12
+      },
       "general": {
         "positive": 0,
         "negative": 0,
-        "total": 6
+        "total": 7
       },
       "both": {
         "positive": 1,
         "negative": 1,
         "total": 13
-      },
-      "paxton": {
-        "positive": 2,
-        "negative": 3,
-        "total": 11
       },
       "talarico": {
         "positive": 3,
@@ -2241,7 +2242,7 @@
       "general": {
         "positive": 2,
         "negative": 0,
-        "total": 8
+        "total": 7
       },
       "talarico": {
         "positive": 2,
@@ -2249,9 +2250,9 @@
         "total": 11
       },
       "paxton": {
-        "positive": 2,
+        "positive": 1,
         "negative": 2,
-        "total": 11
+        "total": 10
       }
     }
   }
