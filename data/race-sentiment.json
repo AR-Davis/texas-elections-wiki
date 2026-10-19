@@ -1,9 +1,30 @@
 {
-  "analyzedAt": "2026-10-19T00:01:06.063Z",
-  "newsFetchedAt": "2026-10-18T21:44:15.830Z",
+  "analyzedAt": "2026-10-19T04:18:19.624Z",
+  "newsFetchedAt": "2026-10-19T00:03:00.192Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Getaway cars, affairs, Dubai fugitives: Trump’s pick Ken Paxton brings baggage to Senate race in Texas - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOckdmYTQ2YWgyN0ZmeWRibHJ5eGM0SjlSX0gxTmdVWDY0NVJQTlpKOF95c2Z3MVJhNXhtYWhYZEk0RGNFLTJpUFptUEJEajRuZ0ptbXZ4TDZaWGlpOV9mcGFTd20ydFZMdUNjWU5yVVktOXo2U0JmYjMzd1p1WWFYRjlzNWY4eTVCNi1Oa1p5VExvQQ?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 14:17:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
     {
       "title": "US Chamber of Commerce Endorses Paxton in Texas Senate Race - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMGVaRkJWcUowOGl1YUtINmR3X2dDb01iUlB6bWdUTGo3ZVhLLU1PZ1RoYkhFN1pTVE1jb0k1Q2QxT183RGRFeTc2OWVKR2RONjdBb2hiNDU4c3B5ZVVFNWlxU3VTaXRFUk1NdS1US19TU3NsR1NKWlV1NGduUm1UeUxUY3BnSWFlMEZ4OEZkZ2hFSV9zWk54V1J3MHR6TFA2TWJ4SjN0clBfeGFZaWln?oc=5",
@@ -2180,27 +2201,6 @@
         "source": "local-fallback"
       },
       "error": "HTTP 405"
-    },
-    {
-      "title": "Texas Senate 2026: Paxton and Talarico, What You Need to Know Before Voting - MundoNOW",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMWtUQTZyVzdOLUdUVDFjNF9zWGktQTU5LVFzVUtkUkthUGZ6SXRiT0diOXBPSnVIeEsyWFppOGlmd0k0S3dKOURxaktZZ3dxbFdmUXlSa1BsNkVnaXBTNWpiTEE0LW55QVBNbHpKTllrdVFZQXJQV1Y2T1BhWjNFV2kydmJnY2hqN2FpLUtkVXRzTktKZjZYTmJuTmJqN3l6?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 17:58:02 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
     }
   ],
   "weekly": {
@@ -2208,7 +2208,7 @@
       "paxton": {
         "positive": 3,
         "negative": 3,
-        "total": 12
+        "total": 13
       },
       "general": {
         "positive": 0,
@@ -2237,7 +2237,7 @@
       "both": {
         "positive": 9,
         "negative": 1,
-        "total": 26
+        "total": 25
       },
       "general": {
         "positive": 2,
