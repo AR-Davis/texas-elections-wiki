@@ -1,9 +1,55 @@
 {
-  "analyzedAt": "2026-10-19T10:10:03.913Z",
-  "newsFetchedAt": "2026-10-19T05:08:38.253Z",
+  "analyzedAt": "2026-10-19T17:06:33.034Z",
+  "newsFetchedAt": "2026-10-19T11:07:13.130Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "New CBS poll shows James Talarico narrowly leading Ken Paxton in Texas Senate race - KHOU",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORUdqWndJX1MzeDdjd1Myc1pRTl9XZWxIdUlsRGR1QzJibWdackNHdUFpOVNfZ0xVU0p3Z1RrdGtyM0IyQ3J0MENza0dUTUJCbUpPVHA3Zkt3NWExVEx1Q0dCRWR3QTJTUjBGcEZ0S25tSVFVSTkwZkdfcl96NmdvdjRaR3Jpd29STHhqM1BVc3labndEV0FoaE5vYnB0QlozMGFSQ2xjYlBaYVJZUTkybnRXWTE0NzkxNE9DWWJ1MEdYSmV3b3pBc0xHWHV1aXBEWC11X1ItUURuUUdQcUtv?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 03:36:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 38,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
+    {
+      "title": "Latino excitement for James Talarico could power Texas Senate upset - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNb01qUURwNlFqQ2hTTEVENTlqNVNrU2pENzJKTDEwbXRPMHFkV1Y2SldlNHcwRVU1am5YNmF0OEtZN20zVmhOQmY4RG85UC11MElZekdzQ3lJZGlfeVplQ2swZ2ZPdjdXOHlHUEpqX0REai16VWNYUUZtREktX3hmM1VpTEhOMVFwOU44cDR2VVAtcElLcGZkNEUxd2Y1MWd4b2diRVF1YjBJaHJMaDViSlgtN0gwNEhhZmFjY2hSVnhLY0hXelY1Q2xoYUQtTmpBc19B?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 09:00:27 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 405"
+    },
     {
       "title": "Texans to decide between Ken Paxton James Talarico for U.S. Senate in midterm election - NBC 5 Dallas-Fort Worth",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQY19NLTh5eTZLazRjaU42RE5OODdkV2ZSVDRQWHFBXzRZSjFxd3BRR1k2cjNta19fZkZDZFRTZ3hoUVVZZFFIOC1XUDNIQkNmT01hM1dTbGhNSzk1Z210LXBHYk9QWkFia281aDZnQ254VWI1OFBoOGdRTDhjZlNGQm11OWc2cHZhOTlna2ExemsxVHgwMEhFOTdDblZSXzBWYjB4VThDSEMxS051UmhMUl9UdTc4bk5aQkxqdWxmQldmSDJ0d1dFSFZsMlNtSUxPS2NkVXk5V0l5VVg3TW14VnRiVUdDQUtNYlVaUWVRYTlmNFhnY3hMeFN6ZjDSAYQCQVVfeXFMTnJsWndnUF9hTlFBVFJtZkZpcW92WXZYR0hfTjFSVWhycXo4dXEyMjdQeG44aUlmdGVCTkV2RDJhSGtGUWdlOG80N2FVR0VMYmtpUnN3QmF6TGhBOVJBcnNLTFpNUHNNaUtDSXpLMVlyeEZZX3NPTmNSTVN3X1cxT2VFR1dKSGV4eTlUUlczZjhMdXQ2eDNnY1JOalBKRmZqUmhsbXlhcjNJLTR1TlR6N3pCYWw2a0NvMUtTWVRGejlCS2dpcTdMRWpjOV9JSjl1YW0wUUlkdFhUejBoQi1scF9Hb1dsT29kdlN2WUM5UnAwQjF4dkp4bjc1WVU0T3lxOFdLR1k?oc=5",
@@ -2160,66 +2206,23 @@
         "source": "local-fallback"
       },
       "error": "HTTP 405"
-    },
-    {
-      "title": "Ken Paxton rallies Texas voters as Senate race with Talarico tightens - azcentral.com and The Arizona Republic",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTFMtdGNpQlVKQ2g5SGdvb0pTSkZ2ckYzeEpSVk4zWjZvQTZCRnJYa3pycnhnY29VSHVqbWtIaUxMSzFqeUtFd1dRY2JBM1JSSHJsZnFkYWtyMWN2WEl3N2t6Unhfc1NwUUI1b3hpakVXTVY4ZF9RVjFUQlQzU01MTkdvNzJPNXBNenMtWXRrUnVxX0dmcVB2QlVHNjQxcGFMZzJLaEhhVF9ZWDVTRHZkaA?oc=5",
-      "pubDate": "Sat, 10 Oct 2026 12:46:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 20,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "ken paxton",
-        "senate race"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "Conspiracies mount after Texas Senate Democratic candidate James Talarico's absence for nine days due to 'nasty case of the flu' - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZzBjY2ZWX3NYUDZwRWRWM2RYYzNYdHVLSTNOUmZiUEt2OUJGNmtMYXdxYUNSQV9OSF8yd3o4dlU0eXFNRFUwWmg3S281U1lqRXlDOVc2NU1wRERjRXo2dGhBQjlRSlk0NS1YWVVvdU1EeHJKaVRpUmlpY252WjNpYlVDVGF1Nnd1cG10Ml9jbnlsZTBMUk0xSEwxTDQ4bmgtMjZoNENEUXNodzNocHZDMnlaN2ZrNkh1SjNhNkh4TlJ6S0ZndkJrUE9vc0hPRVI5Q0p4c1NlYW1pU2JCLWw1cDAwWGxrQ3pOc1MxcXJfRFpwVFdpV2Jz?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 21:26:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
     }
   ],
   "weekly": {
     "2026-W42": {
       "both": {
-        "positive": 1,
+        "positive": 2,
+        "negative": 1,
+        "total": 16
+      },
+      "talarico": {
+        "positive": 4,
         "negative": 1,
         "total": 15
       },
       "paxton": {
         "positive": 3,
         "negative": 3,
-        "total": 14
-      },
-      "talarico": {
-        "positive": 4,
-        "negative": 1,
         "total": 14
       },
       "general": {
@@ -2237,9 +2240,9 @@
     },
     "2026-W41": {
       "both": {
-        "positive": 9,
+        "positive": 8,
         "negative": 1,
-        "total": 23
+        "total": 22
       },
       "general": {
         "positive": 2,
@@ -2248,8 +2251,8 @@
       },
       "talarico": {
         "positive": 2,
-        "negative": 3,
-        "total": 10
+        "negative": 2,
+        "total": 9
       },
       "paxton": {
         "positive": 1,
