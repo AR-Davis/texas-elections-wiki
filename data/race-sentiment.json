@@ -1,9 +1,56 @@
 {
-  "analyzedAt": "2026-10-19T21:41:23.592Z",
-  "newsFetchedAt": "2026-10-19T17:40:35.515Z",
+  "analyzedAt": "2026-10-20T00:58:30.953Z",
+  "newsFetchedAt": "2026-10-19T22:12:00.194Z",
   "totalAnalyzed": 100,
-  "newThisRun": 10,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Attorney General Ken Paxton, Rep. James Talarico face off in contentious U.S. Senate race - KSAT",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcExjZ0UzcUZHNVRGbDR5T28xblhTUG1JSGtZT0tBdE9mVVRlTXB0U3JBM1RtSkRNdHJETWpFSEpFYll6Wlk2VUtLcTZKQzg5d3NtdS1mNzlReGFTOTFLdmdGbmpxNnhWdEROb2Rsdi1kLVFDeV91cTV1ZUJGc3RoTWRWb0E5QkQzbS02RjZzUXdyUHNCbVk1Vm9mVlM4dEVFLUxwTWU4THNNQnFSd1hsZ3BDTVZIczd5S3RYX1o3X1pQWGs1MHpFag?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 17:49:34 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "senate race",
+        "attorney general"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Talarico Leads Paxton in Texas Senate Race, Poll Finds - SuaraGarut.ID",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOenI3NDdsYTRXYnpYR3VjMVBBWTFzZ05qNWVENFo4R0RIQXdtWmNoZWY0TjRuQ2xwVnpHTndjZjFYRThaS2hSd3I4SFBTazdCRjJ6R2FhendMU0MtOFZOTlRMREk4b0c3b3VhSWE4NFVHVEU3TlhoelNkQ3QzYVRHaElyQ0c?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 16:40:36 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Texas Senate Race Odds | Kalshi &amp; Polymarket Texas Senate Predictions, Talarico vs Paxton Polls &amp; Analysis (October 2026) - Action Network",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObnBkNWV0b3NDQm53QnRvX2ZSVUhlT0JNb2V5aXZfcGFRNW43d0pJdENQOHRSMVJwSnFLbTYzYnpOcXNTcFkyV3VYc29TQl9hdWdYZ1lfOWc5NGZKa3VQMEpydUpsNzJXVjVQajlxNEtINEZrNWlWQl96Tnkybnp4MzBBOEFKYUZYUjNoYVRadVZ0SVd1c0dVZnpEOW9iU2Y0Nk1LdnlHOElKOWp4NG9pU1NYX2pna2F2UnVpWmpMaWhTeHpaaXJCaENYSGNQYk9CM1dkTWY1cm1jaUcwal9jUQ?oc=5",
@@ -2165,58 +2212,14 @@
         "source": "local-fallback"
       },
       "error": "HTTP 405"
-    },
-    {
-      "title": "Another poll suggests James Talarico could beat Ken Paxton in Texas - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdE04dEIxUTFVUzVrR25sUnBiSnlXUHFja0tDbDdrdTYwU0pzbWs5LXJ2WTdHMmVSa1JXQWYwU0J0WHQ1aXJwN3Y1bFpfQ1VUdHQ3RFp5SXd3emJjT1Q4NEZrVzVWTEExYkJraktDUEMtUndPWWdLaE1PNUFrYndOT2xfNExnN0FtWHBHWVItajFma3lJbXRTWGNvVUstdU10TmhmM0lTUGVJT3Bmd1E?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 14:06:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 23,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "On the issues: A Q&amp;A with U.S. Senate candidates James Talarico, Ken Paxton and Ted Brown - The Texas Tribune",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQl95VGhGNG8wdXJ3YVBhTng2MENRakJKcVlmaXFvM2EtbmhxZTl5QlYyZlFwdDBMMjY5bE9mOThJbVFfTGhJZkd3b2MtS0p5VFFWY3ZMWkFrNlZ2d0xtbGZURzdEZFNCQmwwRmtKdkR4M2tBdHZxdW0zbkpzejBOd3R6dFdFalBhVndlWjRNX2RlSnBZWERjWTlR?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 10:06:11 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 23,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
     }
   ],
   "weekly": {
     "2026-W42": {
       "both": {
-        "positive": 2,
+        "positive": 3,
         "negative": 1,
-        "total": 18
+        "total": 20
       },
       "talarico": {
         "positive": 6,
@@ -2245,7 +2248,7 @@
       "both": {
         "positive": 6,
         "negative": 0,
-        "total": 17
+        "total": 15
       },
       "general": {
         "positive": 2,
