@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-20T01:10:29.509Z",
-  "count": 22,
+  "fetchedAt": "2026-10-20T06:26:34.031Z",
+  "count": 23,
   "feedsChecked": 8,
-  "itemsScanned": 146,
+  "itemsScanned": 154,
   "items": [
     {
       "title": "New CBS poll shows James Talarico narrowly leading Ken Paxton in Texas Senate race - KHOU",
@@ -37,9 +37,9 @@
       ]
     },
     {
-      "title": "‘Friday Night Lights’ Stars Hit The Field For James Talarico’s Smashmouth Attempt To Score Texas Senate Race Win - Deadline",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRThTZXFoQ2pwQ3RYQTNkcmFlZDVfX2Vmb3BDalhCeThVR001ZXJKX0VTRXp4Si1BdDBYWTBsRV84Rk5LSTUwRzZZNFJYWEI4eTVrUFFKdHg2MjFxdjM4cTduMXZFTTdQSUNkdUR1TElpSEI2Uy13ODFhVlQ3Qkc4V1YwSU5NS3ROVGZfRWZkRlRPUQ?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 23:37:00 GMT",
+      "title": "‘Friday Night Lights’ Stars Hit The Field To Aid James Talarico’s Smashmouth Attempt To Score A Texas Senate Race Win - IMDb",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Zck9uazZsX0xwSXN5RjFPM1Z0Rkw2dzN1ckxwQ1Y2N0piZTFobHlsM3NvVFZMaVBVMU43dHUyMFVlTDlfUTJvWDRobUFyeVZBcndiNnBWbkpJc09UbURQN2drX0Q?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 03:09:32 GMT",
       "feedSource": "google-news-race",
       "raceScore": 27,
       "matchedKeywords": [
@@ -147,6 +147,19 @@
         "paxton",
         "ken paxton",
         "senate race"
+      ]
+    },
+    {
+      "title": "James Talarico and Ken Paxton hold a day of dueling rallies as Texas begins early voting - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTmppT3ZXS1NWSHI0R0tLY0o0SllDd3kwMGthM2F6TVFFY1NQMWhkSTFMQ3RRZUlWM00wUjhGQzVKRnRERVliQjhpV2IzWEpTRnFlbkxENFJoV3MtZ19uM2Q2N3lXRWJadFpYdXBEVWFFR2JMQzB4U0hzcWp0TkduYTBHVlJiYTcxVDNVOU5FN3FCOXNEdFJUeVQtdllsbXRwdzRXa0ZYbWRpcjY3ZVhz?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 04:05:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
       ]
     },
     {
@@ -267,6 +280,19 @@
       ]
     },
     {
+      "title": "Ken Paxton rallies North Texas Republicans as early voting begins in Senate race - NBC 5 Dallas-Fort Worth",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNN0kzSzFrWnFxaVZGSlFGV1otakZRQTR5eThocTgyaG8zUFRTNDZ3OG5xMHBYNHpfRXA5VmNfSVlvN3VMRlFjVjhzbXZ3SXpraFYwRDlDRG8yNmRlcmwwTEF3NVVheC1kQ3BNeWdmb3lUajBhckxYRi1jLWY2dF8yLThxZmh2UkotaFF3MnlhTUZ3ckFOSXN0T1UtdzQ1SXBocnQwNTlBaUVRdVVSS0lSSXJqdFRZbEFfbWJncWFTVWhFMkc5MkhQUWhVbGRqekpUcXBOeklOb3Z0QmpGMC1kWXdXc1ZMUQ?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 22:25:15 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 20,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "senate race",
+        "texas republican"
+      ]
+    },
+    {
       "title": "Latino excitement for James Talarico could power Texas Senate upset - USA Today",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU0VnT1ltREFET0lKalVpeXlxbHpUdWhLLVhXbG5xSWVCM1JWeU9kRWFBZmxwWmVHRlQyRHVFSkF3TDF3RlhBRFN3Q1o4WmJBVmd4T0oyQ3p0VklfT2l4LUcwN3BBRmFNSURoSEM5ZEZZR2NaalhIaS1EUHlfTTNHRGJIRUJ5a3pUSWdYMnozRUlMYk04Q3ZwLUNrNzdybllMeURuLWx0UHdHN19HVEUxUjJZcGlVUmhmR2I3cnVBc0w?oc=5",
       "pubDate": "Mon, 19 Oct 2026 16:59:00 GMT",
@@ -279,27 +305,15 @@
       ]
     },
     {
-      "title": "The Texas Senate race. - Tangle News",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQSDY1MlcyOXVMeW5nczBLUDdla1ZFMGZjZXBOVm5lSmZJSUtJRHZQT0t3NWl2cHZHRDM1dmV3VGFjLUprVWF5c2t6dUU5SGFVLTRPRllrSUVRSFNKUENiN19yc1RJb21wN3NWMExOajEwMktoTmY3UQ?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 15:54:18 GMT",
-      "feedSource": "google-news-race",
+      "title": "Texas Senate Race a Dead Heat as Early Voting Begins - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcEl4NG83Uk91M0pzdks5R2Z0MEFSZ094dVNRMHVWOExOWTFpTU83M0szMTU4MFdwZVRuRk9QdlNDemtyWFFTVEE4bXVyR1I5c3RXb2NHU0dudUNLNFM2ZHpKX05wQ0FNTjh2MlI5Yzc4c1JsWExVX1VIamV4elBEQ2xPU2JTNmx0TUhOeUw4UHg?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 21:21:10 GMT",
+      "feedSource": "google-news-texas",
       "raceScore": 16,
       "matchedKeywords": [
         "texas senate",
         "senate race",
         "texas senate race"
-      ]
-    },
-    {
-      "title": "Paxton and Talarico Intensify Texas Senate Fight Ahead of Voting - SuaraGarut.ID",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02S3htT1ZGUDNkR0swYlRwVjVfcml0OUpURzVjbUUtZHNBN01BMzc0UUQyM2J2QjlwRVhOOXgxZm9UVFhrNEdMbHp3QzBkM1dlTzlDenZhbjBTQ1BzQ19DcDV2aXotTXYtNlE?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 03:01:38 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate"
       ]
     }
   ]
