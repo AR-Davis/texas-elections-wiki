@@ -1,9 +1,97 @@
 {
-  "analyzedAt": "2026-10-20T05:45:47.911Z",
-  "newsFetchedAt": "2026-10-20T01:10:29.509Z",
+  "analyzedAt": "2026-10-20T11:12:15.263Z",
+  "newsFetchedAt": "2026-10-20T06:26:34.031Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 4,
   "stories": [
+    {
+      "title": "‘Friday Night Lights’ Stars Hit The Field To Aid James Talarico’s Smashmouth Attempt To Score A Texas Senate Race Win - IMDb",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Zck9uazZsX0xwSXN5RjFPM1Z0Rkw2dzN1ckxwQ1Y2N0piZTFobHlsM3NvVFZMaVBVMU43dHUyMFVlTDlfUTJvWDRobUFyeVZBcndiNnBWbkpJc09UbURQN2drX0Q?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 03:09:32 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "James Talarico and Ken Paxton hold a day of dueling rallies as Texas begins early voting - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTmppT3ZXS1NWSHI0R0tLY0o0SllDd3kwMGthM2F6TVFFY1NQMWhkSTFMQ3RRZUlWM00wUjhGQzVKRnRERVliQjhpV2IzWEpTRnFlbkxENFJoV3MtZ19uM2Q2N3lXRWJadFpYdXBEVWFFR2JMQzB4U0hzcWp0TkduYTBHVlJiYTcxVDNVOU5FN3FCOXNEdFJUeVQtdllsbXRwdzRXa0ZYbWRpcjY3ZVhz?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 04:05:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Ken Paxton rallies North Texas Republicans as early voting begins in Senate race - NBC 5 Dallas-Fort Worth",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNN0kzSzFrWnFxaVZGSlFGV1otakZRQTR5eThocTgyaG8zUFRTNDZ3OG5xMHBYNHpfRXA5VmNfSVlvN3VMRlFjVjhzbXZ3SXpraFYwRDlDRG8yNmRlcmwwTEF3NVVheC1kQ3BNeWdmb3lUajBhckxYRi1jLWY2dF8yLThxZmh2UkotaFF3MnlhTUZ3ckFOSXN0T1UtdzQ1SXBocnQwNTlBaUVRdVVSS0lSSXJqdFRZbEFfbWJncWFTVWhFMkc5MkhQUWhVbGRqekpUcXBOeklOb3Z0QmpGMC1kWXdXc1ZMUQ?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 22:25:15 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 20,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "senate race",
+        "texas republican"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas Senate Race a Dead Heat as Early Voting Begins - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcEl4NG83Uk91M0pzdks5R2Z0MEFSZ094dVNRMHVWOExOWTFpTU83M0szMTU4MFdwZVRuRk9QdlNDemtyWFFTVEE4bXVyR1I5c3RXb2NHU0dudUNLNFM2ZHpKX05wQ0FNTjh2MlI5Yzc4c1JsWExVX1VIamV4elBEQ2xPU2JTNmx0TUhOeUw4UHg?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 21:21:10 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "‘Friday Night Lights’ Stars Hit The Field For James Talarico’s Smashmouth Attempt To Score Texas Senate Race Win - Deadline",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRThTZXFoQ2pwQ3RYQTNkcmFlZDVfX2Vmb3BDalhCeThVR001ZXJKX0VTRXp4Si1BdDBYWTBsRV84Rk5LSTUwRzZZNFJYWEI4eTVrUFFKdHg2MjFxdjM4cTduMXZFTTdQSUNkdUR1TElpSEI2Uy13ODFhVlQ3Qkc4V1YwSU5NS3ROVGZfRWZkRlRPUQ?oc=5",
@@ -2127,113 +2215,29 @@
         "source": "local-fallback"
       },
       "error": "HTTP 405"
-    },
-    {
-      "title": "Texas Senate: Paxton and Talarico in a Near Tie - Quantus Insights",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMkdMOG5hUF9Ob2llVWhDZTl2STF6bnNzX2V2b0FlbUotc2VTLTFMZVNoS0pCeUJBa2VjbTVpb3NDYWFiYXl1OUxqMUxDaGdxNHpxM2xfX1FKUXB5VFE0ekhHY2haaF9UckxVRW9oR2dwTHBRa25LMnZzLW5LaVJXNWFIYVpqQ1V0aWJEeg?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 18:16:05 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "Poll Finds Dead Heat in Texas Senate Race - Political Wire",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM3lKTEhRV1hnQk1pcGlPbUxDNnpuOTRmeFJOOWxwZnBxejh1c29PS0F0bWE0WVAzNXJSNVhzVFJ0ZTl3VE1XSnczVTZ6TzdoTTQzeGZnczZOMloyMjMydGZrLWdKVGRiazRrcWJSMV9NWFg3WmtNU0VTTmJFdmZ6Yk9jR2w2QQ?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 18:07:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "Kacey Musgraves, Ella Langley respond to Kristi Noem jab over Texas Senate race - The Tennessean",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWnZsWlY3c1RVMkF6U2x4RExsdldHM0JHa3FJei0yVnk5cG42S3BYUFp4WGF0UTB1YkRwcVctRUZvQzlmbmVfckVnT3l4LW5PMWxXWWh4b2M1UmlQOGxFQ2NRclRURnUxd3dQWmhfakZlVzNPSkV3dTk0aUNleUpuX3dqWTBDU2pmS3BqV0JqRXBGUldLaTVndC1JNTk2LS01cGdrSWhwcFZLMzdrWFBsMDQxczFGMXBjdHFJRHVNZS1kTk44dzZPRnlRQnQxZXhMLXc?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 16:31:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "Kacey Musgraves clapped back on Kristi Noem over the Texas Senate race - Celebitchy",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNFdxenQ1Ulp4X3E1LTBnWEpPR0dkS1NXbk1rcTJoRTRsN2xIb2RaTEVpT0VMejZ6dFFHSVl0U2h0SUJSMWU2STZJbUhJNWNrWjNjZDFSR0EzWEh4YWZibktncW11U0ZydXZ5bG5ZTnhiNTlIa2owWFh3Mm14NHczRlhHOGg1dlBpMUJQT2pvX2Q3NDlPczBTWFAzeTBoenVpZmNENVJWRVlMdw?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 11:08:32 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
     }
   ],
   "weekly": {
     "2026-W42": {
       "talarico": {
-        "positive": 7,
+        "positive": 8,
         "negative": 1,
-        "total": 21
+        "total": 22
       },
       "both": {
-        "positive": 3,
+        "positive": 4,
         "negative": 1,
-        "total": 21
+        "total": 22
       },
       "paxton": {
-        "positive": 4,
+        "positive": 5,
         "negative": 3,
-        "total": 16
+        "total": 17
       },
       "general": {
         "positive": 0,
         "negative": 0,
-        "total": 8
+        "total": 9
       }
     },
     "2026-W29": {
@@ -2247,12 +2251,12 @@
       "both": {
         "positive": 6,
         "negative": 0,
-        "total": 14
+        "total": 13
       },
       "general": {
         "positive": 2,
         "negative": 0,
-        "total": 7
+        "total": 4
       },
       "talarico": {
         "positive": 1,
