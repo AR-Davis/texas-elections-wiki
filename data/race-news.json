@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-20T11:59:33.231Z",
+  "fetchedAt": "2026-10-20T16:51:05.140Z",
   "count": 23,
   "feedsChecked": 8,
-  "itemsScanned": 163,
+  "itemsScanned": 166,
   "items": [
     {
       "title": "New CBS poll shows James Talarico narrowly leading Ken Paxton in Texas Senate race - KHOU",
@@ -58,6 +58,20 @@
       "matchedKeywords": [
         "paxton",
         "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ]
+    },
+    {
+      "title": "Prediction markets show Talarico leading Paxton in Texas Senate race - KEYE",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWXZaVWZnWU9MN3ZibmQyblNvb29SZU9vNHFvNGFPcTBYb0NSckUxeFZSd0tFaDRidFZWRjdTMFJpNnlGUVRjNlJRZU5wcS1VNVJ6MWxadlhuQmphTVdCOHIzX0gxNjV6dV9YYXdKS182RjF5UWFhNjk3VW1qZmE1RVlldjZkU01ZNENCa21EXzJsS0I0cW5TdW5yV29OYjFWcGNN?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 18:22:41 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
         "texas senate",
         "senate race",
         "texas senate race"
@@ -120,6 +134,19 @@
       ]
     },
     {
+      "title": "Ken Paxton, James Talarico make campaign stops in the Houston area as battle for Texas U.S. Senate seat intensifies - Click2Houston",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQX1FtWTFwdnNaN3hPQ05qSmUwX21HQUZROFZfQ3ZoZ2l2U3lCa01XYkZkRDBzMmpSZDRtTFdKZWdjbFA3bE9oWmFCUVV2UmFGdnpad3V0NUtpNU9GRGVCSkdmWXF5ZlVRQ3pjZEZsWDN5MjVPd01iZWJWZlBRclVSS1JUOTQ5MUo2ZHJ1YmtyVHVrRkpzZTJjN1JsNHhFVURBNWM1NmdvUkdoNktHU1hHb3ZrTUtMWFhLMm54bmtUNjBEbElReWlRWHJVcENSMnEyTWdnQW9jRWV5SXRwR0VoMDhlUTB4bElDdS1ZQk5Vam95SUE?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 13:45:38 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 24,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ]
+    },
+    {
       "title": "James Talarico and Ken Paxton hold a day of dueling rallies as Texas begins early voting - NBC News",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTmppT3ZXS1NWSHI0R0tLY0o0SllDd3kwMGthM2F6TVFFY1NQMWhkSTFMQ3RRZUlWM00wUjhGQzVKRnRERVliQjhpV2IzWEpTRnFlbkxENFJoV3MtZ19uM2Q2N3lXRWJadFpYdXBEVWFFR2JMQzB4U0hzcWp0TkduYTBHVlJiYTcxVDNVOU5FN3FCOXNEdFJUeVQtdllsbXRwdzRXa0ZYbWRpcjY3ZVhz?oc=5",
       "pubDate": "Tue, 20 Oct 2026 04:05:00 GMT",
@@ -172,19 +199,6 @@
       ]
     },
     {
-      "title": "Ken Paxton, James Talarico hit campaign trail ahead of early voting in Texas - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNDdRUmFDbHQ5OGdReGhPS0IzYm5iVk9RcFlxaEJiQmkzRzI5RG84dWZrbHFkVWlsZ3IxbWVXWnZpVFd2NDVSaE1mNC1kc2RGVWdLU0dEdHFmQ2lWNWF4RHd1S2ljZFUtbWhSWmlRYTVyT20yV19yaGZkQzNxeG9nM0ZwM3NYOWhtQmYxZWI1VlFDWE8zSUFRVmRQSXB4QQ?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 01:20:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 23,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ]
-    },
-    {
       "title": "‘Friday Night Lights’ Stars &amp; The Chicks Back James Talarico As RFK Jr. Joins Ken Paxton I... - uInterview",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcnJCWmZYZ3FBRFhINXhpNmQ1eE5Zcm1QejBWdTh6RUNTUF9zTXAwRFV2cjB1WHo0M3V5WllvTkt5emNsUkI4RkdqYzVBWDBsMHJEdDB6RFJqd1ZkdlViSDdTekRlRzRkU2lETnotQjNsUGpKZ012elR5MUU2SjlDaFVCUzhGZ0x6XzJRcFRoa3ZUNjFWLU5zcldZQjVwXzAyTm9JemFzVG5WVW96Z2xNbzhlRHB4VDNid0o0UFhOVXA0em8ya0c1MFN6bmVWNTYxQTVn0gHTAUFVX3lxTE5yckJaZlhncUFEWEg1eGk2ZDV4TllybVB6MFZ1OHpFQ1NQX3NNcDBEVXZyMHVYejQzdXlaWW9OS3l6Y2xSQjhGR2pjNUFYMGwwckR0MHpEUmp3VmR2VWJIN1N6RGVHNGRTaUROei1CM2xQakpnTXZ6VHkxRTZKOUNoVUJTOEZnTHpfMlFwVGhrdlQ2MVYtTnNyV1lCNXBfMDJOb0l6YXNUblZVb3pnbE1vOGVEcHhUM2J3SjRQWE5VcDR6bzJrRzUwU3puZVY1NjFBNWc?oc=5",
       "pubDate": "Mon, 19 Oct 2026 22:57:51 GMT",
@@ -201,19 +215,6 @@
       "title": "Talarico Narrowly Leads in Texas Senate Race - Political Wire",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSVE1Q0s0akVyb2hIelhtMkRNdjlZMWlaM1lVSXdLTHYxM1hMZG9ON0JaQkVxTW5UODZTc2xpOXVUSTRqa1o2UEJpR09iVlktenhicTFyTDMyald4MFYyNV9YZ29pX1FTSUFOcEI3b0hkZEx5WVFZVVYwOVQtTkFubUZlUE0wT1FQWlE?oc=5",
       "pubDate": "Mon, 19 Oct 2026 14:11:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ]
-    },
-    {
-      "title": "Hottest 2026 Midterm Races—Talarico Up 2 Points In Texas Senate Race In Latest Poll (Updated Daily) - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVGRyQk5SMGtBNTFUcDJpVTk4UDlENWUyTzR5d1g5bjJMT2hZa1lOcUFmNkVFVDA2cHZ0Z2JqNVd0Q3k5c3NJcFRrMmNWMmpmUW5pRGhUaEJGUzhoOW9ka2VBNm5VXzh6T1JWd0ZQaTlGS2llWHF0bV82eWd6QUFVNFdCRWYyM1MtZW1UTHJxTFJHOHVaSnFrMk5QWVB2NUZHNkZoQkl5STJuNEV0dGplaFBuYkhWeGloTm1NRFRYSlRRMkdha04tem1Gd0ZvSE05LV9fRmJIQzlSZEw4VFRmaA?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 13:20:00 GMT",
       "feedSource": "google-news-race",
       "raceScore": 21,
       "matchedKeywords": [
@@ -278,7 +279,7 @@
     {
       "title": "Latino excitement for James Talarico could power Texas Senate upset - USA Today",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNb01qUURwNlFqQ2hTTEVENTlqNVNrU2pENzJKTDEwbXRPMHFkV1Y2SldlNHcwRVU1am5YNmF0OEtZN20zVmhOQmY4RG85UC11MElZekdzQ3lJZGlfeVplQ2swZ2ZPdjdXOHlHUEpqX0REai16VWNYUUZtREktX3hmM1VpTEhOMVFwOU44cDR2VVAtcElLcGZkNEUxd2Y1MWd4b2diRVF1YjBJaHJMaDViSlgtN0gwNEhhZmFjY2hSVnhLY0hXelY1Q2xoYUQtTmpBc19B?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 10:16:29 GMT",
+      "pubDate": "Tue, 20 Oct 2026 11:00:46 GMT",
       "feedSource": "google-news-race",
       "raceScore": 17,
       "matchedKeywords": [
