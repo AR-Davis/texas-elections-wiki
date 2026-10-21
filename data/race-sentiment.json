@@ -1,9 +1,100 @@
 {
-  "analyzedAt": "2026-10-21T20:51:19.362Z",
-  "newsFetchedAt": "2026-10-21T18:12:05.765Z",
+  "analyzedAt": "2026-10-21T23:56:14.218Z",
+  "newsFetchedAt": "2026-10-21T21:55:15.253Z",
   "totalAnalyzed": 100,
-  "newThisRun": 5,
+  "newThisRun": 4,
   "stories": [
+    {
+      "title": "Musk’s millions boost Ken Paxton in Texas senate race - The American Bazaar",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTE00QlVsb3VraXIwTTVETDZsV2FPd3F2RFA4dG1HaGx1NE01QkwyTVdNakN0NzhPZVRBbS1CLWRBV19xX2FuanhtRjIyWVc0X1lmSENBQVpULUl3bmMxYjBHY3RGUmdIUlhxQWY4UVB3VWxqYW4xMEltbTl2SmROYmFhZTV4N3Y1M0JXRzVyVUlnN3BW?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 19:36:46 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Bush family members back Democrat James Talarico in Texas Senate race - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUmNQV0thXzM0N2dYeFpwY0dPcnA2YThJN3NMS1I5X2JMMHRLaWwzT3U4YnBfUGhrTHVaU0xEcVVuVFRSZEtjcHctbkRjbHY3Rmw3emVQelVRdUs2UzdNaW5jRzc3WjFZNUFRWGd3Y3E0WlhyNlh2czZiUEpHVTV4eDZBUVMyQUFNTHg4YTFUdHJFTmFIbHE1dHc2UWVJMVh3Z1Axd29jT2hBcUt2dUtHUkR6Q194YTc2Wmc?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 18:54:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas’ 2026 Senate race: What to know about Ken Paxton vs James Talarico - LiveNOW from FOX",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbmRUc3p5b082dXhEYU5HQVR1Q3liUnY4bzJveUFMM3dmc2o1YzRjaTlEWjhSbkpwUjBaZUlmdm9lczhRSmhBc2x4NHhTTEZOZHNvbmgtdmNmMktLSWZnbzhXWjl2bnh0X2dKdnZocHhiSGJYS1UxeTU2Vi1HVkV5WVMydkgtaHlvM3Y5eTdZcE83Tl9BcWdfR0trRWsyWl9L?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 21:02:31 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "George W. Bush’s brother says he voted for Talarico in Texas Senate race - NewsNation",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVmQ5TDVvUzNyQzhZemo2dDRXcnFEUDJiYUszMWZGUFRuZHI1TUl6NDdDM0ZYQ0xXWmx2S1RjR1BvcUdPcXVZQUdpa3FBQ2ZJRlYwNGtFUWk2T1o5OHMxM0ZYWlpoVThhLVBnaWY1MnhTOW5tMmtOUC1BOFVQVDlmcmd1Q0p0b0xNTHU5SThkMEt3V3RmVzh6eG1wVkg2ZGViQVk0dzVuUnpZMkIwSW1V0gG0AUFVX3lxTE13Rms2N29LeFBYbFJLeEhQZEVkWkVieEw2UFB4NGtabjg0SkVRUDNORExKQVVaZGg4VlN2cHhVRVkwQWFtLTZRajBnMkpSYmt3ajdmN25GdkpNN1hfSTVGNWQzZ3JiaFF2RGJpZzhaSHFrNlZKNnd1NmEtUjZCMm5iUjdYWjZDZG1hU1ZiVjVETzFJamZ3RGR4RzVXZmJJZHo3ODVGQ3V3aDhfNGpmUkptNVFYcA?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 19:11:46 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "George W. Bush's brother Neil Bush says he voted for James Talarico in Texas Senate race - CBS News",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNHk0LWd0TG9fRUthOXNZS0RyN3JIbjJURTBwQXF5QWI1T09XdXFkSTBhemVTRXg0N3FDNU92c09Oc1I0RE9ncnFFdzI0eTBSbjlvTGJ3WnRXdFB1WE9tUU1XSjZVWUtUUFctcFVMT1FJQ2tkNUJQX0lHWHhzajZPb2FvU0dQOVJDRExVbTV1VQ?oc=5",
@@ -2134,111 +2225,24 @@
         "source": "local-fallback"
       },
       "error": "HTTP 405"
-    },
-    {
-      "title": "Election Dispatches: Talarico Remains Ahead in Texas Senate Race, Polls Show, but His Lead Has Narrowed - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wNmdtWGQxTVkyNlVEWmd2Yldza3pvd0NpYkp3bHFsWlcxbkNUeTdIQi1qWGlnNlkyQ1k4ZlFuUDdEX3FSRnVUNHBGWUt5el8tT0FGbHVaVjNOVU9STHlrZEV6c3M0TmVCakNCVGo2QlFXYWNxZWc?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 04:03:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W42",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "Texas Democrat James Talarico faces grilling from voters at town hall in tight Senate race - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbjc4am43TXVKcldaUFFDY3VCRktoaWpSQ0NQS1JDYkhTMHM1UGJhMjg4SVpsUEh1Q040aGJVSDZOVmoyZVh5d1dpMzI4dlNBTjBTTDRlZW9YYXVaMkRhU1FxZzZHYUhxUGEtSFlwcjB4ZDVmNERqQjQ1eFZ1QnNGTEJXYmxKNG5PdFFlSjUwbkM1Rld2V0RqMDk1UnVaR2RxYVowUFJKUU8tM290OXc?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 03:08:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 18,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "senate race",
-        "texas democrat"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W42",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "Texas Senate race remains a dead heat as early voting approaches - FOX 7 Austin",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSXdJYkNQQk0tWElGVnUxNXVtZGl6VWdMY2hIc0JaaENxbnEwTkVnWWVDNWZaVGp0WVBmeG9TeVhmWTRrQ1BiVWpMd29Ba3BUTW5lM01ZMkFDd1plck8xNUNiWUZjYnBvSVQxZFdrSk13NGFjaHRNc05FSkdpYS1Vc2pIRVlDZTIwelE?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 17:08:23 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "Talarico to appear in CNN Town Hall amid tight Texas Senate race - KVUE",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVVY0a09KYXVyWVk1LUNaTFJ1YmhrdjhOTlp0aFRiUzgzdUtHMHh4SGNZLXROZl9SVGJkd3FlUjJWUURWQ1dwQ0hKVlBrWlNxbk1zNDJhTDhvNU9fTlFMeVBSVDZoajVyTWRHdHlPZGdib2ljd0NMQXM2OUtFUWJrWTgtZVQ0a2VJRFJQWDZaUm5fenR1SjllaXM0andNcUxqRVdxOUdlVXFhVUNSU3VrWnAxY29rdkpJMnN5ZzNQUXlUREt5Mjl4TUJsSGZvOENBVzJadER4cw?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 22:54:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
     }
   ],
   "weekly": {
     "2026-W42": {
+      "paxton": {
+        "positive": 12,
+        "negative": 3,
+        "total": 25
+      },
       "talarico": {
-        "positive": 10,
+        "positive": 9,
         "negative": 1,
         "total": 28
-      },
-      "paxton": {
-        "positive": 11,
-        "negative": 3,
-        "total": 24
       },
       "both": {
         "positive": 6,
         "negative": 1,
-        "total": 32
+        "total": 33
       },
       "general": {
         "positive": 0,
@@ -2258,16 +2262,6 @@
         "positive": 2,
         "negative": 0,
         "total": 2
-      },
-      "general": {
-        "positive": 0,
-        "negative": 0,
-        "total": 1
-      },
-      "talarico": {
-        "positive": 0,
-        "negative": 0,
-        "total": 1
       }
     }
   }
