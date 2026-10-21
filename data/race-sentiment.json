@@ -1,9 +1,56 @@
 {
-  "analyzedAt": "2026-10-21T12:13:18.675Z",
-  "newsFetchedAt": "2026-10-21T07:21:50.541Z",
+  "analyzedAt": "2026-10-21T17:34:21.752Z",
+  "newsFetchedAt": "2026-10-21T13:07:06.756Z",
   "totalAnalyzed": 100,
   "newThisRun": 2,
   "stories": [
+    {
+      "title": "2026 Texas Senate race odds: Kalshi prediction markets show 63% probability for one side of James Talarico vs. Ken Paxton - SportsLine",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORFJ4Xzh0SzBLbkh2VXp3ZlFDQ1huTHhUWXFBd2t5TTd1T3dhRjhNLVFtVW9TeHNRZnhpb3I3OVhzaXBkWTRfYm9DaHltWHA3dEdQTFFocjdoQ1E5YWVpWGlJVl9OeGZuVW8tRmlxdWlOMzU5QklOdzVJMzFkV1FlQXNhOGh3eE5KWVFvNnN3VFMwNFJLa3RMWm50dVFULVJlcjVtaG5TdkNDcWFEWFFFZVRObkdscmFwUEJ2ejFpdEJCSTdRSVI5QnpnUXFWd0RjdGlvY043b0ZCVzdHWnJ6Zg?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 09:16:57 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 38,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Musk Endorses Paxton In Texas Senate Race - Newsradio 95 WXTK",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZFhKRmhrcUpvNndwaXNpd0NiREZ3cUdVV0pFZkdyRDFMc21ERnpJZWU1TkJrYmVDWWE2LTNZa08wS05rcFUtalVDVVlsamdNRGMzVWVVTHhJNUVjbE0xaVBIZU9xRHBWM2dXYjdvNjlsak9Vc1podUlzcWpKd0NFVWNHM1lUa3EwdlltM1pfS20?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 03:53:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Musk Endorses Paxton In Texas Senate Race - KFBK",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU0Y2WkVramZFclQ3cWkxTFY1bkZRZ2ZGZ05YRHNIRTR1WTlVYzlCU0lLODFQcklJS2FCaXlOdHg4eHJkSUg2TVFrMU9mN1p3cEpiWFJoc2RMZ2F0bUN5MU1kMVY2LVBXcGc3Q3Q3Zjc4cWxTOFRrbzc0UktRem9TaHRlQl9WQWF6VHVxUzRn?oc=5",
@@ -2170,68 +2217,24 @@
         "source": "local-fallback"
       },
       "error": "HTTP 405"
-    },
-    {
-      "title": "Polls show Democratic edge in Texas Senate race - WORLD News Group",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbE1sMmduTFV3cWFtT2VwNFBuckh4LUJpUEVVREItU2xoYXhZT09nVnhMRmV4ekV4MVkzVC1DUlNPc29vN2tSaVlxN3pRZ2lkNG1TdFI2d2R2eVpwWmxFcHdEckFibGxyMDdSSlE3V192czVCb3QxaW1ZZmxtMVJITDBTLXREYkN4RWtpdFJ5c1E?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 19:37:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "In Texas Senate Race, Talarico and Paxton Both Promise Relief From Rising Energy Costs - Capital &amp; Main",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLV9JX2s3WTVDVnVSRGM2TDhoVHFZRlZxYV9hUXQzRG5aNHl6QUJvak5CMXZ2MDU4eXRGUlRXeXVLSFBoTmZ0aDR6LXJVMUVJUEtXM2xSNTVlRFh4ZHhYSTF0cy1yUlJDTjZ4YVRyLVNKbDU4UENsWUM5ejZNYnVVamF5cWZ0cE1ST2FCWmNpdnN1S01KeEZmRXVFRmw2ZEVHb1lXbXBaaDBjajRKeS1Rd09n?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 16:01:17 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W41",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
     }
   ],
   "weekly": {
     "2026-W42": {
+      "both": {
+        "positive": 6,
+        "negative": 1,
+        "total": 30
+      },
       "paxton": {
-        "positive": 9,
+        "positive": 10,
         "negative": 3,
-        "total": 22
+        "total": 23
       },
       "talarico": {
         "positive": 10,
         "negative": 1,
         "total": 27
-      },
-      "both": {
-        "positive": 6,
-        "negative": 1,
-        "total": 29
       },
       "general": {
         "positive": 0,
@@ -2250,12 +2253,12 @@
       "both": {
         "positive": 3,
         "negative": 0,
-        "total": 4
+        "total": 3
       },
       "general": {
-        "positive": 1,
+        "positive": 0,
         "negative": 0,
-        "total": 3
+        "total": 2
       },
       "talarico": {
         "positive": 1,
