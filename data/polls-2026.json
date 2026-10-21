@@ -4,6 +4,17 @@
   "source": "Wikipedia: 2026 United States Senate election in Texas (General election polling)",
   "polls": [
     {
+      "pollster": "Beacon Research (D)/ Shaw & Co. Research (R)",
+      "sponsor": "Democratic",
+      "date": "2026-10-15",
+      "sampleSize": 1398,
+      "marginError": 2.5,
+      "talarico": 49,
+      "paxton": 49,
+      "undecided": 0,
+      "method": "LV"
+    },
+    {
       "pollster": "ActiVote",
       "sponsor": "Independent",
       "date": "2026-10-14",
@@ -633,7 +644,7 @@
   ],
   "averages": {
     "talarico": 46.9,
-    "paxton": 44.8,
-    "undecided": 2.1
+    "paxton": 44.9,
+    "undecided": 2
   }
 }

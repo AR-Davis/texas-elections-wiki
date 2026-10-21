@@ -1,8 +1,15 @@
 {
-  "lastChecked": "2026-10-21T19:42:33.098Z",
-  "wikiPollCount": 57,
-  "newPollsDetected": 0,
+  "lastChecked": "2026-10-21T22:50:08.599Z",
+  "wikiPollCount": 58,
+  "newPollsDetected": 1,
   "latestPolls": [
+    {
+      "pollster": "Beacon Research (D)/ Shaw & Co. Research (R)",
+      "date": "2026-10-15",
+      "paxton": 49,
+      "talarico": 49,
+      "undecided": 0
+    },
     {
       "pollster": "ActiVote",
       "date": "2026-10-14",
@@ -65,13 +72,6 @@
       "paxton": 44,
       "talarico": 48,
       "undecided": 3
-    },
-    {
-      "pollster": "YouGov",
-      "date": "2026-10-05",
-      "paxton": 44,
-      "talarico": 50,
-      "undecided": 2
     }
   ]
 }
