@@ -1,6 +1,6 @@
 {
   "race": "2026 Texas U.S. Senate (Paxton vs Talarico)",
-  "lastUpdated": "2026-10-20",
+  "lastUpdated": "2026-10-21",
   "source": "Wikipedia: 2026 United States Senate election in Texas (General election polling)",
   "polls": [
     {
@@ -365,17 +365,6 @@
       "paxton": 39,
       "undecided": 1,
       "method": "RV"
-    },
-    {
-      "pollster": "Wedgewood Polls",
-      "sponsor": "Independent",
-      "date": "2026-07-30",
-      "sampleSize": 800,
-      "marginError": 4,
-      "talarico": 48,
-      "paxton": 46,
-      "undecided": 0,
-      "method": "LV"
     },
     {
       "pollster": "Texas A&M University/ReconMR/Siena University",
