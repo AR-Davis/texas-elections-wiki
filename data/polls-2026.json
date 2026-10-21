@@ -37,6 +37,17 @@
       "method": "LV"
     },
     {
+      "pollster": "GS Strategy Group (R)/ New River Strategies (D)",
+      "sponsor": "Republican",
+      "date": "2026-10-09",
+      "sampleSize": 934,
+      "marginError": null,
+      "talarico": 49,
+      "paxton": 44,
+      "undecided": 3,
+      "method": "LV"
+    },
+    {
       "pollster": "Quantus Insights",
       "sponsor": "Republican",
       "date": "2026-10-09",
@@ -623,6 +634,6 @@
   "averages": {
     "talarico": 46.9,
     "paxton": 44.8,
-    "undecided": 2
+    "undecided": 2.1
   }
 }

@@ -1,6 +1,6 @@
 {
-  "lastChecked": "2026-10-21T15:41:04.868Z",
-  "wikiPollCount": 56,
+  "lastChecked": "2026-10-21T19:42:33.098Z",
+  "wikiPollCount": 57,
   "newPollsDetected": 0,
   "latestPolls": [
     {
@@ -22,6 +22,13 @@
       "date": "2026-10-10",
       "paxton": 46,
       "talarico": 48,
+      "undecided": 3
+    },
+    {
+      "pollster": "GS Strategy Group (R)/ New River Strategies (D)",
+      "date": "2026-10-09",
+      "paxton": 44,
+      "talarico": 49,
       "undecided": 3
     },
     {
@@ -63,13 +70,6 @@
       "pollster": "YouGov",
       "date": "2026-10-05",
       "paxton": 44,
-      "talarico": 50,
-      "undecided": 2
-    },
-    {
-      "pollster": "University of Texas/Texas Politics Project",
-      "date": "2026-10-05",
-      "paxton": 47,
       "talarico": 50,
       "undecided": 2
     }
