@@ -1,9 +1,53 @@
 {
-  "analyzedAt": "2026-10-21T23:56:14.218Z",
-  "newsFetchedAt": "2026-10-21T21:55:15.253Z",
+  "analyzedAt": "2026-10-22T04:03:56.390Z",
+  "newsFetchedAt": "2026-10-22T00:32:14.804Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "James Talarico Challenges Ken Paxton to TMZ-Hosted Senate Debate - TMZ",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbktnWWpQMURfSUYwRDJiRXl4RmRtbnhfam84ZG0xM19wUDVXLXpKLU92ZVlEeFdsZXNFWmlnMlJZZHFSNEIxRjdDNUFmZy1paFRGT3R1Zjh0LWtjUGs1Wmcxd0FrNENfdW8wdnRNSlY4bHg0SWZtOXNyeWZSVXNMNlpSSU5TS2M0bmJ6RGQwMGtIVFlJb0RQUDEzTVZZMGVBOEpUTTRhVE5UdEoxc284SUdINHpMZFBHNS1oWkJWSXA0Z3M?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 08:00:54 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 22,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Musk’s Move to Flood Texas Senate Race With Cash Plays Into Talarico’s Hand - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcFpmajlKbTAzZlNieVFGTWpyTkFFR0syZEJJSUFmVzIyeE8wSUVZbXYtTlllZzgwcm11cll5TVRQMWZLVFN2ODlfSVhDWmx3ejdEODFOZElkSlpaQXRoeWgxcXhIcEpZZ1BBbEpGU1RxQ29TV245a1M1OHl0Tko5RVBQWk9MNENiV0VsVlFHWlh6N0FaaWRiQUlCRVNVQmFiV3RmMi1ndWZOXzhqM2Y2NkkxM2Vzc3lsYkFOVFFXcw?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 19:59:56 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Musk’s millions boost Ken Paxton in Texas senate race - The American Bazaar",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTE00QlVsb3VraXIwTTVETDZsV2FPd3F2RFA4dG1HaGx1NE01QkwyTVdNakN0NzhPZVRBbS1CLWRBV19xX2FuanhtRjIyWVc0X1lmSENBQVpULUl3bmMxYjBHY3RGUmdIUlhxQWY4UVB3VWxqYW4xMEltbTl2SmROYmFhZTV4N3Y1M0JXRzVyVUlnN3BW?oc=5",
@@ -2180,69 +2224,24 @@
         "source": "local-fallback"
       },
       "error": "HTTP 405"
-    },
-    {
-      "title": "James Talarico challenges both parties at CNN town hall in Texas Senate race - Dallas News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdndFQVlPeWdoSGdVZlF2clZnbWNLMW5JdkJ1Z3Z2ZEdXRGpQajN4VGVwenRCQlpRWmZ2eV9maDBYWFFualV2MVVneExCMm94NGVXdEwwQnUwSXlCTTRmZThQaGw5ZVhoV0QtS0V4NW9NS0FPdkhVZDFGTW1VT0xsRGVlT19Vem5JaXpCd0NKU0VTVFlndTdneERKTjNtNGpXQ0liZk5wU0t2NTZOTUhv?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 02:26:28 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 28,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W42",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "At CNN town hall, Senate candidate James Talarico woos moderate and undecided voters",
-      "link": "https://feeds.texastribune.org/link/16799/17497875/texas-senate-james-talarico-ken-paxton-cnn-town-hall",
-      "pubDate": "Thu, 15 Oct 2026 03:07:38 +0000",
-      "feedSource": "texastribune",
-      "raceScore": 23,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W42",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
     }
   ],
   "weekly": {
     "2026-W42": {
-      "paxton": {
-        "positive": 12,
-        "negative": 3,
-        "total": 25
+      "both": {
+        "positive": 6,
+        "negative": 1,
+        "total": 34
       },
       "talarico": {
         "positive": 9,
         "negative": 1,
-        "total": 28
+        "total": 27
       },
-      "both": {
-        "positive": 6,
-        "negative": 1,
-        "total": 33
+      "paxton": {
+        "positive": 12,
+        "negative": 3,
+        "total": 25
       },
       "general": {
         "positive": 0,
