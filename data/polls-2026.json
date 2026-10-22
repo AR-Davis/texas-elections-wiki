@@ -4,6 +4,17 @@
   "source": "Wikipedia: 2026 United States Senate election in Texas (General election polling)",
   "polls": [
     {
+      "pollster": "Emerson College",
+      "sponsor": "Independent",
+      "date": "2026-10-17",
+      "sampleSize": 1000,
+      "marginError": 3,
+      "talarico": 48,
+      "paxton": 46,
+      "undecided": 1,
+      "method": "LV"
+    },
+    {
       "pollster": "ActiVote",
       "sponsor": "Independent",
       "date": "2026-10-17",
@@ -655,7 +666,7 @@
   ],
   "averages": {
     "talarico": 47,
-    "paxton": 44.9,
+    "paxton": 45,
     "undecided": 2
   }
 }

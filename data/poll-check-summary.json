@@ -1,8 +1,15 @@
 {
-  "lastChecked": "2026-10-22T08:02:04.175Z",
-  "wikiPollCount": 59,
-  "newPollsDetected": 1,
+  "lastChecked": "2026-10-22T10:43:21.561Z",
+  "wikiPollCount": 60,
+  "newPollsDetected": 0,
   "latestPolls": [
+    {
+      "pollster": "Emerson College",
+      "date": "2026-10-17",
+      "paxton": 46,
+      "talarico": 48,
+      "undecided": 1
+    },
     {
       "pollster": "ActiVote",
       "date": "2026-10-17",
@@ -65,13 +72,6 @@
       "paxton": 45,
       "talarico": 47,
       "undecided": 4
-    },
-    {
-      "pollster": "Trafalgar Group (R)",
-      "date": "2026-10-06",
-      "paxton": 44,
-      "talarico": 47,
-      "undecided": 2
     }
   ]
 }
