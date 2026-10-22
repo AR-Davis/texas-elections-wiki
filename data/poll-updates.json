@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "detectedAt": "2026-10-22T08:02:04.174Z",
+      "pollster": "ActiVote",
+      "date": "2026-10-17",
+      "paxton": 49,
+      "talarico": 51,
+      "undecided": 0
+    },
+    {
       "detectedAt": "2026-10-21T22:50:08.598Z",
       "pollster": "Beacon Research (D)/ Shaw & Co. Research (R)",
       "date": "2026-10-15",

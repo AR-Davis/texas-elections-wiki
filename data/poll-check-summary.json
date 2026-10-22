@@ -1,8 +1,15 @@
 {
-  "lastChecked": "2026-10-22T02:09:17.232Z",
-  "wikiPollCount": 58,
-  "newPollsDetected": 0,
+  "lastChecked": "2026-10-22T08:02:04.175Z",
+  "wikiPollCount": 59,
+  "newPollsDetected": 1,
   "latestPolls": [
+    {
+      "pollster": "ActiVote",
+      "date": "2026-10-17",
+      "paxton": 49,
+      "talarico": 51,
+      "undecided": 0
+    },
     {
       "pollster": "Beacon Research (D)/ Shaw & Co. Research (R)",
       "date": "2026-10-15",
@@ -65,13 +72,6 @@
       "paxton": 44,
       "talarico": 47,
       "undecided": 2
-    },
-    {
-      "pollster": "ReconMR/Siena University",
-      "date": "2026-10-05",
-      "paxton": 44,
-      "talarico": 48,
-      "undecided": 3
     }
   ]
 }
