@@ -1,9 +1,32 @@
 {
-  "analyzedAt": "2026-10-22T19:05:38.048Z",
-  "newsFetchedAt": "2026-10-22T16:57:30.694Z",
+  "analyzedAt": "2026-10-22T22:38:22.312Z",
+  "newsFetchedAt": "2026-10-22T20:28:56.116Z",
   "totalAnalyzed": 100,
-  "newThisRun": 7,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Talarico Holds Narrow Lead Over Paxton in Texas Senate Race - ActiVote",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QV3RYXzFXeGNsQjl2Vjc0a3RNcmtVNUd1aEVVNG1RX1c3UHp4MUpRcWl3d0xrOVZJQUl6WlJSQnZBd2p1ejV0SzAzTXRpV2thcFh1X1d0Z3d5WnhlTmNv?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 22:50:17 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W42",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Ken Paxton says he would debate James Talarico in Texas Senate race ‘if the terms were right’ - Washington Times",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSi1QVy1CeHUxbXJDb2FWanpFTE8wU0NzV0NWbU55ZGVTLTI2d2pyQUduRmtaZUgteXAwT0FwaU5fX1ptM2VmekdGSTdrbXVmOFluSHJmZVozTVo2ZThUMHZMclU4eGpkbTNRUUx1eXlfSFhka28xam0xQnNkRkxUT1BzQVFrYjNmaE14VDdQekozckpHTmpIQ0xsa1dqYUVoODg2cUwzSVk1Q04zR3M0UUEwY05PQU5z?oc=5",
@@ -2206,31 +2229,31 @@
         "source": "local-fallback"
       },
       "error": "HTTP 405"
-    },
-    {
-      "title": "Talarico rallies in San Marcos as high-stakes Texas Senate race enters final stretch - KVUE",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQVlNZNHVBZ1ZDdVIzNWdwbU5OcFBvekVKQTRMNG1fUE9VZlpXcGhubWI4OTVWVXFaSEtHbzBrWERzYTNCWDFxN3djMC1Qbkl3VFgxNVQtaWRLNlI0Z2Zja2hOdGJRMnh4WWRfVzZYMHRjRTZBX2t4TjFtNVNSeUlIanVpeGpVcWUyblNfbVdSWjdZM2NLVGtDa0l4ZkgyWlVoemdNQ0JFTXY3bDNsa0czRko0YW9PSURqZU9wMnU3MHJ1dzJFT2Q4bmxTWDl2ZUNqOWR0a0tPNE1OYXRKaDFmTXJqYWpsRW5VR1RkYWx1emQ4UFZGMVFITnhyTlFKTnVKRVNhcQ?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 05:19:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W42",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
     }
   ],
   "weekly": {
+    "2026-W42": {
+      "both": {
+        "positive": 7,
+        "negative": 1,
+        "total": 32
+      },
+      "talarico": {
+        "positive": 8,
+        "negative": 1,
+        "total": 23
+      },
+      "paxton": {
+        "positive": 12,
+        "negative": 2,
+        "total": 22
+      },
+      "general": {
+        "positive": 0,
+        "negative": 0,
+        "total": 11
+      }
+    },
     "2026-W43": {
       "both": {
         "positive": 1,
@@ -2246,28 +2269,6 @@
         "positive": 1,
         "negative": 0,
         "total": 1
-      }
-    },
-    "2026-W42": {
-      "talarico": {
-        "positive": 9,
-        "negative": 1,
-        "total": 24
-      },
-      "both": {
-        "positive": 6,
-        "negative": 1,
-        "total": 31
-      },
-      "paxton": {
-        "positive": 12,
-        "negative": 2,
-        "total": 22
-      },
-      "general": {
-        "positive": 0,
-        "negative": 0,
-        "total": 11
       }
     },
     "2026-W29": {
