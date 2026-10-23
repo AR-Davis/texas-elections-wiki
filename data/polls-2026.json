@@ -158,6 +158,17 @@
       "method": "LV"
     },
     {
+      "pollster": "Verasight/VoteHub",
+      "sponsor": "Independent",
+      "date": "2026-10-01",
+      "sampleSize": 509,
+      "marginError": 4.3,
+      "talarico": 48,
+      "paxton": 45,
+      "undecided": 1,
+      "method": "LV"
+    },
+    {
       "pollster": "Rasmussen Reports",
       "sponsor": "Independent",
       "date": "2026-09-28",
