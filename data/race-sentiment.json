@@ -1,9 +1,79 @@
 {
-  "analyzedAt": "2026-10-22T22:38:22.312Z",
-  "newsFetchedAt": "2026-10-22T20:28:56.116Z",
+  "analyzedAt": "2026-10-23T01:20:46.683Z",
+  "newsFetchedAt": "2026-10-22T23:32:08.160Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Bush family members back James Talarico in Texas Senate race against Ken Paxton - San Antonio Express-News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFVieEEtUk9xQ1RTOFZJcEVBaEhEVy15Q1BrTGhqLW9pUDJsOTNBNVhheC1aelg4T2FLQXZZNGs4WThWVzYtTzRHNWJLeWtDOTByV2hKcEIwenhXbFpEeHBxX25ibW1tcXdoYmZPMUdxSFlOS1A4NDFKbFhkUnZMejNyNTBwbkVSdXVtMkl1OHk4cUJMRDhRTl94WkNFc3pTZWFjc1VxMEhPRFA0?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 15:50:11 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 39,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W43",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "🗳️Races to Watch: Texas Everything’s bigger in Texas, including the stakes in this year’s Senate race. Republican Ken Paxton is facing off against Democrat James Talarico in a state that hasn’t elected a Democrat to the Senate since 1988. So, could this final - Instagram",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDSkd4YkRCN0s4U0Jna3pjenFvNVBONGRRRzg1eDlVeUg0WVZJQnF5cXg4S2tQS0hTYU45RExFelBQWlpvZTA4aUVkYVJ4U0lyRWc?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 16:04:24 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W43",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas Senate race tightens as Talarico support climbs, new poll reveals - MassLive.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORFVwRHJNNHFJa3lPUGRNOFF4NVJIVm94WFZrQ3JIb2R1Sm5fYXQ0NWp1VkRtN3FzUUxuTUVBT2JoNzVDOEJyU0xTc1I2b212dmZjbFBVTnctNVdEa0NvTENyUGpFUlBGZlRIMXJZRnhJMEdNLXpXYnRCd092d2t3Mzc1RDVfbmtIY3hlWXVCakZSVmstbUE5V0JQMEYzVU01bVA3eUxMY0VFZFpXU1JYNHdNR2kwNzBZ?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 14:44:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W43",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Talarico Holds Narrow Lead Over Paxton in Texas Senate Race - ActiVote",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QV3RYXzFXeGNsQjl2Vjc0a3RNcmtVNUd1aEVVNG1RX1c3UHp4MUpRcWl3d0xrOVZJQUl6WlJSQnZBd2p1ejV0SzAzTXRpV2thcFh1X1d0Z3d5WnhlTmNv?oc=5",
@@ -2162,81 +2232,31 @@
         "source": "local-fallback"
       },
       "error": "HTTP 405"
-    },
-    {
-      "title": "Texas Governor Race &amp; Texas Senate Race 2026 | Talarico vs Paxton Polls + Hinojosa vs Abbott Polls (Prediction Markets) - Action Network",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZHhzNWlpV1d3c2NPQ1BYdVEzQ3BQYkhlVjltM3oxVmU0STlPMmt6dTdFNHVZQ09Id1J3Y01oSUhMektqekZNSDVMSFUtWmpSbUdZTU5LQ2ZWRXpJZU5MYlVUa201Qk9XaEd6T1FIcDBkcDhReDN2ZU53M19tVzNvM1dlYjlYWExMNVk4OWpoNmQ0YjlHRFU0eTZvdWxPZndRMUR2enVKNVE4Wm1hX0p6bWpHS0hZS3FUcHhYb0VwelozRTBRVjZIdnJoLTlnSGM4ZTZaTU1iazlTM2hvRGRZ?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 15:08:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W42",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "Capitol Context: ‘Key groups likely to influence’ Texas Senate race outcome - KXAN Austin",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSlBCbENRNTJaeEZtQmduRzhSY3EyNkY0dUgzeHBmN01iLWlSRXVLVkRob2c1TkxUalF3akxFSDlsLW9CWjJxcVZ3QXo2V2RFclU3elpqb1JxbmZpRlBjcFE4MzhxUlNPcURKTndiMG13alNYM0I0M1V1NFJGUlNwekxnREwwTlZYZ2U1T0tUa3FXX2dNSURiYTVwNXFua19OajhLeDlDNmJ6MG5OMzZzelFoMUdKVjZwNjJxZl9NUdIBvwFBVV95cUxPSlBCbENRNTJaeEZtQmduRzhSY3EyNkY0dUgzeHBmN01iLWlSRXVLVkRob2c1TkxUalF3akxFSDlsLW9CWjJxcVZ3QXo2V2RFclU3elpqb1JxbmZpRlBjcFE4MzhxUlNPcURKTndiMG13alNYM0I0M1V1NFJGUlNwekxnREwwTlZYZ2U1T0tUa3FXX2dNSURiYTVwNXFua19OajhLeDlDNmJ6MG5OMzZzelFoMUdKVjZwNjJxZl9NUQ?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 15:04:41 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W42",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "Trump says John Cornyn and Karl Rove to blame if Ken Paxton loses Senate race - The Texas Tribune",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMENwbGtydU9OYXY5LTdUZ1owYXhRNldkcDRkbGVSSlQ5OXhXM01fN0RpYXprQ3BJQ2xJLTNQa2JhakNPV1RFdHJRcVZGWTlkSDdJU2d3RjlIM21Ma3JwUjVhZ1BGQUpXTHdSckxPS2k5eWM2UG91Y0RFWVhfdndQZDFGd19vV1JGeGpWYQ?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 22:03:21 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 24,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "senate race",
-        "cornyn",
-        "john cornyn"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W42",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
     }
   ],
   "weekly": {
+    "2026-W43": {
+      "both": {
+        "positive": 1,
+        "negative": 0,
+        "total": 9
+      },
+      "talarico": {
+        "positive": 2,
+        "negative": 0,
+        "total": 4
+      },
+      "paxton": {
+        "positive": 1,
+        "negative": 0,
+        "total": 1
+      }
+    },
     "2026-W42": {
       "both": {
         "positive": 7,
         "negative": 1,
-        "total": 32
+        "total": 31
       },
       "talarico": {
         "positive": 8,
@@ -2246,29 +2266,12 @@
       "paxton": {
         "positive": 12,
         "negative": 2,
-        "total": 22
+        "total": 21
       },
       "general": {
         "positive": 0,
         "negative": 0,
-        "total": 11
-      }
-    },
-    "2026-W43": {
-      "both": {
-        "positive": 1,
-        "negative": 0,
-        "total": 7
-      },
-      "talarico": {
-        "positive": 1,
-        "negative": 0,
-        "total": 3
-      },
-      "paxton": {
-        "positive": 1,
-        "negative": 0,
-        "total": 1
+        "total": 10
       }
     },
     "2026-W29": {
