@@ -1,9 +1,54 @@
 {
-  "analyzedAt": "2026-10-23T11:57:03.608Z",
-  "newsFetchedAt": "2026-10-23T09:29:40.642Z",
+  "analyzedAt": "2026-10-23T16:46:35.644Z",
+  "newsFetchedAt": "2026-10-23T14:22:52.799Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Texas Senate Race Odds 2026 | Kalshi &amp; Polymarket Texas Senate Predictions, Talarico vs Paxton Polls &amp; Analysis (Oct 23 Update) - Action Network",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeHlRQktxdXZucXJiTmJyTkRrbzV6SXRyZ3NuVWZYYXl4VURMdlp3akNHWHZiaGFFYk1QT3hEMVp2cjFwYWVQQUxlXzhIX0FHMGpvaXdFcU9mRkNucUJmRzR1Nk8yN2pZZzFpLW1tQnlMR1RidUI2Y0NkZ2hKRHIyaTVCS1RvYmJhTm5VY2JPTEhWQXUySjNmSWRfeVZvOGNJa2tZTEstcGpqbmlpRFlnUEdSVnhPOWFsbUx0MlRrb013VDlITVZYQnZpR21ETlVUaTktNVFFcGVJN1BFNDJjc2wtQlludm4w?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 13:43:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W43",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas Senate race: Talarico campaign turns its fire on Elon Musk - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX2drUVZtaklobnU5NVRGUkl5NTZ4emNTQTc1LW5pc3VFaUNEb1FmX1B6WUg2VnpnY2YzbUU0eXp1bnBYWVo5X3VsOHNoTkFjSTI1bUhkX05IcFdFS0ZhN1kyUUprbko4bTlwdENVaGpoeVpqVnpVVFVDSV9aZVFIdjhzX3dMeXBiT3plUllrMUNxbzNpWUpuM21Nb9IBoAFBVV95cUxQMkRxMEFvc191WWVqWjlHNEdHLWxSaHZzRUl1SjRUMmtja2VqVTJubGNmMlljeVNGck0xeFI4Yk9takM4dFF4bnQ0cXZILURlOVFDM1RoaW5nWkdsd2pCV04tYlBieC1oRGxFUkRhWEJ0S3RfMkZXV21Ea2hHYkdjdXNwV1B6REVTRGtKblpnWG80WXhiZnY1ZnZ2RWU4ZmRU?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 14:00:27 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W43",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Texas Senate race heats up as James Talarico faces voter scrutiny - Fox News",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oRjhyTkJPZnM5MHVxa1g2QV9VUXNkWVhwT1puMlNfc3g5ZGR5dkxMY0tzZnVRd2luLWZHSHY2VklUYTVHamo3M0o4UDZXTkF1UmZZb0J3?oc=5",
@@ -2187,65 +2232,19 @@
         "source": "local-fallback"
       },
       "error": "HTTP 405"
-    },
-    {
-      "title": "US midterms 2026: Ken Paxton may have Elon Musk to thank if he wins the Texas Senate race. Here's why - WION",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRnV2U0xldkxYRzVIall4czRHeC1MQUtyWUVkM1U3UW1mMm00ZlIwSUljUG9iOW15RURwSGtUOWpsRnVLaHlJeUpxamh1Z3VURURlMTRzRURyNGxDZnB1d2ZBbkl3S2FUN0hnR0wxd1Fad2hMZHZQVGZiZFdXN1hBY1c3ekxBc3hadXdnbjhlR0tQeTF2cEFzRlZGekw5QldDXzhUaW96S3VVZThhcXREcXM3bjNPdWVsWmpNNl93Umo5ZDh2bkpRa1plT3lGX0tpTmNCdE1YY2JsWWvSAeABQVVfeXFMTml0cjJWWUc5dkNzeDJyc2x1M2s1WTdCaGtub1p6SVl1X3R1bk9rRDJCdTZ6elpLN0RBdEQ2cVkwcl83VXBvWVc2TjNNUnhIUFVDeHpmSnhKS3kxcEpmWDhXZjJtR1lQRjN5ZTRTZmE1NkQtTDVnWVhQNjlDTHpDT1JmSzk0R3lVS1NrdF9TOWhzUXRfU04tZkpydTU4VlphNVdSRHhNVGIxaW8yYWZVZ0VFT3ZuOXM2OC13TW12ajl2MzFibXh4UHZ2ajRfY3RsQ0JpeEVjNW1tR1lGV0Vwdlc?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 21:53:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W42",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "Tracking the money raised and spent in the U.S. Senate race between James Talarico and Ken Paxton",
-      "link": "https://feeds.texastribune.org/link/16799/17383612/texas-senate-talarico-paxton-fundraising-spending-money-donors",
-      "pubDate": "Mon, 20 Jul 2026 20:00:00 +0000",
-      "feedSource": "texastribune",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "senate race"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W29",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
     }
   ],
   "weekly": {
     "2026-W43": {
-      "talarico": {
-        "positive": 2,
-        "negative": 0,
-        "total": 6
-      },
       "both": {
         "positive": 2,
         "negative": 0,
-        "total": 11
+        "total": 12
+      },
+      "talarico": {
+        "positive": 2,
+        "negative": 0,
+        "total": 7
       },
       "paxton": {
         "positive": 1,
@@ -2265,21 +2264,14 @@
         "total": 22
       },
       "paxton": {
-        "positive": 11,
+        "positive": 10,
         "negative": 1,
-        "total": 19
+        "total": 18
       },
       "general": {
         "positive": 0,
         "negative": 0,
         "total": 10
-      }
-    },
-    "2026-W29": {
-      "both": {
-        "positive": 0,
-        "negative": 0,
-        "total": 1
       }
     }
   }
