@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "detectedAt": "2026-10-23T22:28:00.469Z",
+      "pollster": "Rasmussen Reports",
+      "date": "2026-10-20",
+      "paxton": 45,
+      "talarico": 45,
+      "undecided": 5
+    },
+    {
       "detectedAt": "2026-10-23T15:30:06.968Z",
       "pollster": "Verasight/VoteHub",
       "date": "2026-10-01",

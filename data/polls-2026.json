@@ -4,6 +4,17 @@
   "source": "Wikipedia: 2026 United States Senate election in Texas (General election polling)",
   "polls": [
     {
+      "pollster": "Rasmussen Reports",
+      "sponsor": "Independent",
+      "date": "2026-10-20",
+      "sampleSize": 965,
+      "marginError": 3,
+      "talarico": 45,
+      "paxton": 45,
+      "undecided": 5,
+      "method": "LV"
+    },
+    {
       "pollster": "ActiVote",
       "sponsor": "Independent",
       "date": "2026-10-17",
@@ -35,6 +46,28 @@
       "paxton": 49,
       "undecided": 0,
       "method": "LV"
+    },
+    {
+      "pollster": "Texas Public Opinion Research (D)",
+      "sponsor": "Democratic",
+      "date": "2026-10-15",
+      "sampleSize": 969,
+      "marginError": 3.9,
+      "talarico": 51,
+      "paxton": 47,
+      "undecided": 2,
+      "method": "LV"
+    },
+    {
+      "pollster": "Pollfinity Research",
+      "sponsor": "Independent",
+      "date": "2026-10-15",
+      "sampleSize": 278,
+      "marginError": 6.5,
+      "talarico": 48,
+      "paxton": 43,
+      "undecided": 2,
+      "method": "RV"
     },
     {
       "pollster": "ActiVote",
