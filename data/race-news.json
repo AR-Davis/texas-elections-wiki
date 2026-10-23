@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-23T09:29:40.642Z",
+  "fetchedAt": "2026-10-23T14:22:52.799Z",
   "count": 22,
   "feedsChecked": 8,
-  "itemsScanned": 169,
+  "itemsScanned": 173,
   "items": [
     {
       "title": "Bush family members back James Talarico in Texas Senate race against Ken Paxton - San Antonio Express-News",
@@ -73,20 +73,6 @@
       "matchedKeywords": [
         "talarico",
         "james talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ]
-    },
-    {
-      "title": "Texas Senate Race Tightens as Neil Bush Endorses Democrat Over Ken Paxton - https://streamlinefeed.co.ke/",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdW1ycDYxWHVwakQ1cnM3Q2FYOVBtUXFYUXVFOXZtc2ZMc1RDZHhla3dZZmJCNmJ2R3JhTUFvalp2d2pTN0pIU3NKMGxGbmdNdFk1aFN5Yy1HNXhMc09Bclk4dWcyRDVjUGROQzkwek9OaW1NQXY3bGYtU2s5VGQ2eUk2V09oN2I4MG9XVjlSZS1ySTJxODRvTWtlNlJlZzRiNWFPdnZ2c2lqWmc?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 08:31:36 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
         "texas senate",
         "senate race",
         "texas senate race"
@@ -205,6 +191,20 @@
       ]
     },
     {
+      "title": "Texas Senate Race Odds 2026 | Kalshi &amp; Polymarket Texas Senate Predictions, Talarico vs Paxton Polls &amp; Analysis (Oct 23 Update) - Action Network",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeHlRQktxdXZucXJiTmJyTkRrbzV6SXRyZ3NuVWZYYXl4VURMdlp3akNHWHZiaGFFYk1QT3hEMVp2cjFwYWVQQUxlXzhIX0FHMGpvaXdFcU9mRkNucUJmRzR1Nk8yN2pZZzFpLW1tQnlMR1RidUI2Y0NkZ2hKRHIyaTVCS1RvYmJhTm5VY2JPTEhWQXUySjNmSWRfeVZvOGNJa2tZTEstcGpqbmlpRFlnUEdSVnhPOWFsbUx0MlRrb013VDlITVZYQnZpR21ETlVUaTktNVFFcGVJN1BFNDJjc2wtQlludm4w?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 13:43:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ]
+    },
+    {
       "title": "🗳️Races to Watch: Texas Everything’s bigger in Texas, including the stakes in this year’s Senate race. Republican Ken Paxton is facing off against Democrat James Talarico in a state that hasn’t elected a Democrat to the Senate since 1988. So, could this final - Instagram",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDSkd4YkRCN0s4U0Jna3pjenFvNVBONGRRRzg1eDlVeUg0WVZJQnF5cXg4S2tQS0hTYU45RExFelBQWlpvZTA4aUVkYVJ4U0lyRWc?oc=5",
       "pubDate": "Thu, 22 Oct 2026 16:04:24 GMT",
@@ -286,9 +286,9 @@
       ]
     },
     {
-      "title": "Texas Senate race tightens as Talarico support climbs, new poll reveals - MassLive.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORFVwRHJNNHFJa3lPUGRNOFF4NVJIVm94WFZrQ3JIb2R1Sm5fYXQ0NWp1VkRtN3FzUUxuTUVBT2JoNzVDOEJyU0xTc1I2b212dmZjbFBVTnctNVdEa0NvTENyUGpFUlBGZlRIMXJZRnhJMEdNLXpXYnRCd092d2t3Mzc1RDVfbmtIY3hlWXVCakZSVmstbUE5V0JQMEYzVU01bVA3eUxMY0VFZFpXU1JYNHdNR2kwNzBZ?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 14:44:00 GMT",
+      "title": "Texas Senate race: Talarico campaign turns its fire on Elon Musk - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX2drUVZtaklobnU5NVRGUkl5NTZ4emNTQTc1LW5pc3VFaUNEb1FmX1B6WUg2VnpnY2YzbUU0eXp1bnBYWVo5X3VsOHNoTkFjSTI1bUhkX05IcFdFS0ZhN1kyUUprbko4bTlwdENVaGpoeVpqVnpVVFVDSV9aZVFIdjhzX3dMeXBiT3plUllrMUNxbzNpWUpuM21Nb9IBoAFBVV95cUxQMkRxMEFvc191WWVqWjlHNEdHLWxSaHZzRUl1SjRUMmtja2VqVTJubGNmMlljeVNGck0xeFI4Yk9takM4dFF4bnQ0cXZILURlOVFDM1RoaW5nWkdsd2pCV04tYlBieC1oRGxFUkRhWEJ0S3RfMkZXV21Ea2hHYkdjdXNwV1B6REVTRGtKblpnWG80WXhiZnY1ZnZ2RWU4ZmRU?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 14:00:27 GMT",
       "feedSource": "google-news-race",
       "raceScore": 21,
       "matchedKeywords": [
@@ -299,9 +299,9 @@
       ]
     },
     {
-      "title": "George W. Bush’s brother says he voted for Talarico in Texas Senate race - NewsNation",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVmQ5TDVvUzNyQzhZemo2dDRXcnFEUDJiYUszMWZGUFRuZHI1TUl6NDdDM0ZYQ0xXWmx2S1RjR1BvcUdPcXVZQUdpa3FBQ2ZJRlYwNGtFUWk2T1o5OHMxM0ZYWlpoVThhLVBnaWY1MnhTOW5tMmtOUC1BOFVQVDlmcmd1Q0p0b0xNTHU5SThkMEt3V3RmVzh6eG1wVkg2ZGViQVk0dzVuUnpZMkIwSW1V0gG0AUFVX3lxTE13Rms2N29LeFBYbFJLeEhQZEVkWkVieEw2UFB4NGtabjg0SkVRUDNORExKQVVaZGg4VlN2cHhVRVkwQWFtLTZRajBnMkpSYmt3ajdmN25GdkpNN1hfSTVGNWQzZ3JiaFF2RGJpZzhaSHFrNlZKNnd1NmEtUjZCMm5iUjdYWjZDZG1hU1ZiVjVETzFJamZ3RGR4RzVXZmJJZHo3ODVGQ3V3aDhfNGpmUkptNVFYcA?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 22:50:23 GMT",
+      "title": "Texas Senate race tightens as Talarico support climbs, new poll reveals - MassLive.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORFVwRHJNNHFJa3lPUGRNOFF4NVJIVm94WFZrQ3JIb2R1Sm5fYXQ0NWp1VkRtN3FzUUxuTUVBT2JoNzVDOEJyU0xTc1I2b212dmZjbFBVTnctNVdEa0NvTENyUGpFUlBGZlRIMXJZRnhJMEdNLXpXYnRCd092d2t3Mzc1RDVfbmtIY3hlWXVCakZSVmstbUE5V0JQMEYzVU01bVA3eUxMY0VFZFpXU1JYNHdNR2kwNzBZ?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 14:44:00 GMT",
       "feedSource": "google-news-race",
       "raceScore": 21,
       "matchedKeywords": [
