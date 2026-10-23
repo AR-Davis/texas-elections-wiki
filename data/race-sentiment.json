@@ -1,9 +1,32 @@
 {
-  "analyzedAt": "2026-10-23T06:23:06.413Z",
-  "newsFetchedAt": "2026-10-23T04:15:38.337Z",
+  "analyzedAt": "2026-10-23T11:57:03.608Z",
+  "newsFetchedAt": "2026-10-23T09:29:40.642Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Texas Senate race heats up as James Talarico faces voter scrutiny - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oRjhyTkJPZnM5MHVxa1g2QV9VUXNkWVhwT1puMlNfc3g5ZGR5dkxMY0tzZnVRd2luLWZHSHY2VklUYTVHamo3M0o4UDZXTkF1UmZZb0J3?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 09:59:24 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W43",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Neil Bush Breaks Republican Ranks, Proudly Casts Vote for James Talarico in Texas Senate Race - Houston Style Magazine",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc0xtQnRXM2dUdXhuSXhEMThPUWUzeUpsSFdmdjhFNEtWMFNDS2llU1A1b3hvTGVxZnY0cHNKUDlfTmh3V2dvLWcycG01V3FNX1dhWV9DTS11cktZY1ZEZGNBUnFwVHhlXzR6TGJ5cEhYZ19nemdyMVVqTWk3emJHVWotUzJrNlVBNVdwUlFfMDU2ZDAtZkEwVmQwNmZUcHNrVlJqWjY4TU5xREpyRGp2R1VtVnQwOU5LcU9ucHRHdEt6VGRfbFNQNXVJWkJ4U1hMUFE?oc=5",
@@ -2210,29 +2233,6 @@
         "source": "local-fallback"
       },
       "error": "HTTP 405"
-    },
-    {
-      "title": "Talarico raises record $64M in Texas Senate race against Paxton - El Paso Times",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQnZLTWltVWlRcXJ5T1d3MVN0ekMzNVpWR3RtM1Vna0RkSWxYbjFtZUQ3b3lZNGtVVmlxbDdaV3Fab3FKWk9zRzZDdmkzTFQ0NHhjTWc5MnZrMml2R0Y3T0dnemVvR0VVZTNIeWJ3UmJqWUFzWXlZMTZfQUtVQjI3OWNzNnhKVGpQMlRCbnE1SEwxejJLLXpmS3E5Xy1ocS0ydmltaVNMMmNVbjhYMEliRUhhOGdkOHA4dTZiMzVpeXdLTUdmaWpHVS16aEU5LVdBd2pSc2ZGSXgwYUVqWk00?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 18:11:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W42",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
     }
   ],
   "weekly": {
@@ -2240,7 +2240,7 @@
       "talarico": {
         "positive": 2,
         "negative": 0,
-        "total": 5
+        "total": 6
       },
       "both": {
         "positive": 2,
@@ -2257,7 +2257,7 @@
       "both": {
         "positive": 7,
         "negative": 1,
-        "total": 31
+        "total": 30
       },
       "talarico": {
         "positive": 8,
