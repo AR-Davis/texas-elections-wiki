@@ -1,9 +1,51 @@
 {
-  "analyzedAt": "2026-10-23T20:15:02.005Z",
-  "newsFetchedAt": "2026-10-23T18:38:08.726Z",
+  "analyzedAt": "2026-10-23T23:22:11.981Z",
+  "newsFetchedAt": "2026-10-23T21:56:39.104Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "New Poll Shows James Talarico Could Flip Texas Senate Seat Blue - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVlNtR09RaFBSc011YUxxTzBVSUp2ZXdnNHp6VWJvYjBtM1NlREZpV3RvSnhxNlpfa1RZb20tUEhzb2w0TjZGNnpBcW41blBvcUxrRHQwbWotNEVJTUlLREhwYjBadVV3VngtYlRYbXVTdXFXbmVSaTEwYXRTcWoxNDRGTzhiT3FtbzR4cHB5bDhUNHd4VU16LTNWbHRvOEN2Vk1jTkYwMjhSMHZycWF3dnNLbw?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 19:24:28 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W43",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Thomas J. Henry explains why he's backing Democrat James Talarico over Paxton - San Antonio Express-News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOanBlYVAyVDJHSGh6RnVVUE5uNm5FSDJNRXhGd3VzNWc1c1hOdTBNOHRaM2NpNVB1UWVqSURCbk53TE9XTWFpSTFUZ1ZodDRBYXBFQjU1X3RpOTRsRklUcmQ5WmFGaUVjWjdDS2NzUWFpN2k3SmtHbnItRHRJQ1V6bkJab0RfVnJkcFpTYVlGY2plZl96aEV2dHVrRk43V1V0T1FITg?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 00:57:07 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W43",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Texas Senate Race: Talarico, Paxton Tied - Action Network",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ25WZjVCRnlNY01yVllPMDdVSzBkYW01UllSZFJrMVN0cy02M2hpQi02Q3pMbWVMUWZiRFdBT29IVE5Fc0ZxbnVsaGN2LTVIN0hPcXBkWjRiNzMzMk82amJwM2JLQmVNMTVCcGJ3YUFIV2JZd21ZcjhwV0lGSlZQLWNiTFdQUG1makxDb2FQTGdNSEFnQ1Z5UldpVEYyMzUxUEJJTlZ3UGNaQ1JsM3NCblFjc2JpRWZ5?oc=5",
@@ -2193,62 +2235,19 @@
         "source": "local-fallback"
       },
       "error": "HTTP 405"
-    },
-    {
-      "title": "Ken Paxton Accuses John Cornyn of Wanting Him to Lose in Leaked Audio - RadarOnline",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vWno5bGxiTElfQVJzOWM3NERwbkNLT3FnOTZnUXFZbktwUF81elVYTUtvM0tlSHhubEFkeVc2Mm41a1Y2cXBRMEpCRkM1WXhyZWZ5TXdvbw?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 17:14:41 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 20,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "cornyn",
-        "john cornyn"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W42",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "Musk contributed more than $150 million to bolster GOP in Texas Senate race, filings show - CNN",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSWJDZ3RoNHplblVfUlFyMEtZVEMySUoyZFE5QlR3eUV0VnMwcU12LTJENFRrNW9DYnBtMG5XaWNFa2lQbVBuUjFqQUdEajQ2bWh6LTJUZVhlRG1RUUxCdEY5S18tYXV0UjQzSWRMbVFRYUo1VFc2ZG56UHhrUWVCa21Pclk?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 08:49:20 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W42",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
     }
   ],
   "weekly": {
     "2026-W43": {
-      "both": {
-        "positive": 3,
-        "negative": 0,
-        "total": 13
-      },
       "talarico": {
         "positive": 3,
         "negative": 0,
-        "total": 9
+        "total": 10
+      },
+      "both": {
+        "positive": 3,
+        "negative": 0,
+        "total": 14
       },
       "paxton": {
         "positive": 1,
@@ -2269,13 +2268,13 @@
       },
       "paxton": {
         "positive": 10,
-        "negative": 1,
-        "total": 18
+        "negative": 0,
+        "total": 17
       },
       "general": {
         "positive": 0,
         "negative": 0,
-        "total": 8
+        "total": 7
       }
     }
   }
