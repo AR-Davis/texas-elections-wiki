@@ -1,9 +1,31 @@
 {
-  "analyzedAt": "2026-10-24T07:02:18.327Z",
-  "newsFetchedAt": "2026-10-24T00:27:37.650Z",
+  "analyzedAt": "2026-10-24T11:56:36.277Z",
+  "newsFetchedAt": "2026-10-24T09:24:42.514Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Talarico Wants To Partner With Trump On Legalizing Marijuana If He Wins Texas Senate Race - Marijuana Moment",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWEU1aEtuMW92djJIVElaYXRLVFpoYUJnX3FqYzIxeHY3YXZvWndlTFpPdVFIbnkzWlZQNml1ZUxZdnpSc09NM0I4ZEpseWpzdmFYanlPVC1TWjhEZnN4RVo3ZlRLaUdCRGQtc3JFMnRrQ2tUWWlSWUs0cE1PZnNST0pYdFFFRml1YW9GOVdsUWx5SVlfbzdMQWx0SzZiOEUzbmZoMERlMVkxU0lPQzl1SzNPTzIyczFVd1Zyd1l4RQ?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 14:04:14 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W43",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Texas Senate race tight as Election Day nears - FOX 7 Austin",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbEsyUElLa2NDbnBPYjRURWozeXhDMU9nUUtRbGk4cEo5WUFMX2lkYjZOVHJaT25JQU1iZlVyOXVQTXJqcm00OXRFTFhCUmlCLVFUc3dUY3JJZjRGeHFTSzhuR2VuTllCeXVnSjRQVXpORklwbTB0QUwyVmpaWGNUclN6eWN2UWI1ajF3ctIBkgFBVV95cUxOVnpxWEo3ZTExSnBGRG9VZWJPb29pMkI5eFM1MENRSnp1aGpmUWdibHpUZklzaFFHdVlNOXU5cXpBZ0huVzFaU2REaGNyWnRxZ1dmTzBwZWRmNC0wb29GV0tOcFh0QWJHUmg0WXlfS3JkN0Q4dUFidTVuUy1FV0lDWjhaNmx2YkxORGNOeDhWa2NrZw?oc=5",
@@ -2212,40 +2234,19 @@
         "source": "local-fallback"
       },
       "error": "HTTP 405"
-    },
-    {
-      "title": "Paxton vs. Talarico: Moments in the Texas U.S. Senate race you may have missed - Fort Worth Star-Telegram",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWm1JeEFTTzAtS0xXTXN1ZnJTQ2VhaFhGc2VCejdwLTVWdE9VeXRCWkJaQVVUZkczZHp3SUtsdU9IQ0FUcHFfWGZBLXVfVFZ6RmJLTktoMnRxdV9KX255bURZdW5tT2RRdlhteTNQRnRsb3paSUF1UVo3Y2xfZzlVN0ZKeE1rT1BoNXlzV3lramI1bXhYeXfSAZYBQVVfeXFMUGlBc1hzSkQ0RVdhVXkwNnBXQjhYMC1qTzBySUJPZVk5OTVwbHlRZXR0a1RaTVdhUGpQeTlSanNseHk0Nlp1ZkxVTXhSUGd4RWlHNjNYQ09fUlNIS2xYQU5yOXgzUGxNQ2V0amFwZmt0dEtnemVodDUyWDNWMkMtSndERUZ1a1paS1NnOFVQZUlENVl4LTln?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 19:43:05 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W42",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
     }
   ],
   "weekly": {
     "2026-W43": {
+      "talarico": {
+        "positive": 4,
+        "negative": 0,
+        "total": 11
+      },
       "general": {
         "positive": 0,
         "negative": 0,
         "total": 2
-      },
-      "talarico": {
-        "positive": 3,
-        "negative": 0,
-        "total": 10
       },
       "both": {
         "positive": 3,
@@ -2262,7 +2263,7 @@
       "both": {
         "positive": 6,
         "negative": 0,
-        "total": 28
+        "total": 27
       },
       "talarico": {
         "positive": 8,
