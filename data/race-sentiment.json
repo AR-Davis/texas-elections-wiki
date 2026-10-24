@@ -1,9 +1,32 @@
 {
-  "analyzedAt": "2026-10-24T15:40:10.519Z",
-  "newsFetchedAt": "2026-10-24T13:31:15.855Z",
+  "analyzedAt": "2026-10-24T18:39:47.976Z",
+  "newsFetchedAt": "2026-10-24T17:17:33.662Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "George W Bush’s younger brother breaks with Trump, snubs Ken Paxton in Texas Senate race - MEAWW News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbkdaZGxQTTQxUUpSRFVRU1FtRWRrOFF1VjExR3hQSXQ0NGIyZldianJvOTNOZ3NSLTM1RW90SW1xZzE1aS0yMGNzTHVIOG5NblNXVGp6Zzk5NE1rcXJwN0FyOWlTamhlM2ZmUTZNeGFZMXVhTzhBbFJ2UWdvY25lWUFsMXZpYlhCV083TEFJNHV4TXJHTjRxRzZkU29LeFFVR05HYnA2eC1xbWh6TlE?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 08:30:37 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W43",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "What we need to know about the high-stakes Texas senate race - KALW",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONEJjd3N6NExLODE1a1Jkd01YYzBhREJ3aldIeWxpXzdSaXMxdUNuV1JZMFJ0UGh3MGNzVE9zaEY5VHJkMVVVdXlJVDFYWXNBNGlHcXk0aVpXMnQwaEpXSTZDRDNvcVI3R2FrRVFGV3kxRW95aTlZYU9lOW1jam5iODExaDV6S0ozZ1RwUVhVNmZNMl9OLVFXVy1rMjVpRjJkLXkyc2g5aHhTMVk?oc=5",
@@ -2212,31 +2235,15 @@
         "source": "local-fallback"
       },
       "error": "HTTP 405"
-    },
-    {
-      "title": "In tight Texas Senate race, Trump's immigration crackdown tests Republicans' hold on voters - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObi1MNGpVN2pPcmNsOXdrdFo4UmhLZFZsX05CWVY0YmNkTUFuVU9HUlZ4MVJVQ1JUcWhwUlV4cnhlTTZPNGF3WlFNN2hHOGFvOHUxWkNkLWNUVWEyNjhjVjQwWUEzSlRpWkgxV2cwa2drZHA5cUw5Ylg0MTVWWnY3UXZ6eFlZWm5DMWdsNUdXM1BCS3JkRmpqOGxfZUd1ZVBjbTBYZFFrNWlQa3hUU1Y3MW9HdGRwRjM1?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 10:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W42",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
     }
   ],
   "weekly": {
     "2026-W43": {
+      "paxton": {
+        "positive": 1,
+        "negative": 0,
+        "total": 2
+      },
       "general": {
         "positive": 0,
         "negative": 0,
@@ -2251,11 +2258,6 @@
         "positive": 3,
         "negative": 0,
         "total": 14
-      },
-      "paxton": {
-        "positive": 1,
-        "negative": 0,
-        "total": 1
       }
     },
     "2026-W42": {
@@ -2277,7 +2279,7 @@
       "general": {
         "positive": 0,
         "negative": 0,
-        "total": 7
+        "total": 6
       }
     }
   }
