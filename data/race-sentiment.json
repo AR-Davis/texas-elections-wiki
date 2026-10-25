@@ -1,9 +1,32 @@
 {
-  "analyzedAt": "2026-10-24T23:33:34.519Z",
-  "newsFetchedAt": "2026-10-24T22:20:51.289Z",
+  "analyzedAt": "2026-10-25T01:31:28.129Z",
+  "newsFetchedAt": "2026-10-25T00:28:24.151Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Texas Senate race heats up as Talarico, Paxton court voters with 10 days to go - KABB",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSjI0V2I0cTIzNHpIUHRYZVZWaVdoWHFKY1RFUGhObVJjMmtHWGF2SUdjOGFKUnlNOERvWUgyUEE4SmU4YmNrSi1QbkVaZjdNd0FCZVhvcGpiSGlaM1E5SUR0aE5Pc2NmNU10SnhlY0o2aEVlNjMtZjRESUM2R2RwbVh0eW9UZktnTjRDRXMwS0Vkd3p0S1djWUgtOTlKMnhRTU1VLUI5NjlHaFJ1Skh5T1BaM0tyZDV0bVZnMg?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 22:48:11 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W43",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Russian operatives likely spread fake videos targeting the Texas Senate race, researchers say - NBC News",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYmNJQTlfTkZwX2Zyc0VkMTUyVFpNbDNmRURmOG1adkNkMWdmQUNJWnFNMjR5T1BiZXNubjlHdGVJbDg5Y1VwY005MlFKRDlFMzVVTkROSFh6S2N0ZzFFSmNmOTN1aDlKWF9jRXVpcDZfOVc1YTEyZTc5VjFzbU1WTmd6TU9mVkc2aGpUZjRlSThOTVdtbkVzSmpaZmJrM0Z5QTNLR3RZR29HazlrOXNqRE9nZFhqSDBhUEduSVZYNk9FeXM?oc=5",
@@ -2207,35 +2230,15 @@
         "source": "local-fallback"
       },
       "error": "HTTP 405"
-    },
-    {
-      "title": "Sizing up the Texas Senate race between James Talarico and Ken Paxton as early voting begins - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YSlByN3o2c091MElFY3VfUW10LW1oaU5aUWE3NkZDRnNsbTFGOUZkZ2ZzOVdlNDZXWkZMbUUzRV9HRkw0UDctRFd1el91MHBwejBMRjAwcTA3STBtTlNZbXVqSmFVUVg4NnNNX2R6RWVtSDg4UDJfbjlicHB1Zw?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 11:00:13 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 38,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W42",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
     }
   ],
   "weekly": {
     "2026-W43": {
+      "both": {
+        "positive": 4,
+        "negative": 0,
+        "total": 16
+      },
       "general": {
         "positive": 0,
         "negative": 0,
@@ -2245,11 +2248,6 @@
         "positive": 4,
         "negative": 0,
         "total": 13
-      },
-      "both": {
-        "positive": 4,
-        "negative": 0,
-        "total": 15
       },
       "paxton": {
         "positive": 1,
@@ -2261,7 +2259,7 @@
       "both": {
         "positive": 6,
         "negative": 0,
-        "total": 25
+        "total": 24
       },
       "talarico": {
         "positive": 8,
