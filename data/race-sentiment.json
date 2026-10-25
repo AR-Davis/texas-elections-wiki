@@ -1,9 +1,73 @@
 {
-  "analyzedAt": "2026-10-25T12:25:26.754Z",
-  "newsFetchedAt": "2026-10-25T10:03:33.495Z",
+  "analyzedAt": "2026-10-25T16:42:09.431Z",
+  "newsFetchedAt": "2026-10-25T14:31:25.832Z",
   "totalAnalyzed": 100,
-  "newThisRun": 5,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Cornyn voters become key prize in Texas Senate race - Dallas News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQUpnWmNvb0Z1X1VycGFueXFLeEg0V203dXJiQXMzczlQc0dKT0EydWFSNU9yXzBjMzFzNk5sNS1oUlZYUGF4ZnJteXlxaVh5SEJPR0xtczJLV1VjTzZ6M0VBLUZFTF9tSU9FNFloanJGMUdPUEM1eS1HN04wb3g4SzVyWlNQRFVKMWgzNjN2OHhPY1FnNGpzcGRuUXZCZi1VVDVhSUFB?oc=5",
+      "pubDate": "Sun, 25 Oct 2026 11:04:49 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race",
+        "cornyn"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W43",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "James Talarico casts ballot in tight Senate race - ConchoValleyHomepage.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeFBIc1dXY0hxWFpzcnNzdE9PdFNTYXhoTHQzV0o5dnZNNGliZjBJSldsLUdjY0pLbzZNOXFOQ1MyZTZTODBib1U0dFVqLWNVdF9semFDa2lINENxVnNuQjUzWGxGMHZEZ18zVFhsSDNmcEdObEQySGdQQXM4Z014eHUtVFFHbGtDS2RVZTBSVmxSMWNWdEV0R2lXNTNfVUxjWmxORFAzU0hGQdIBrwFBVV95cUxNOGx2VUJRSkNGNXVGMTNjYjVaaV9vOGRsQXFqdzV2Z1VxUnFtNU1iS3JkS0xNSEo3TFMtV2FJMGFwa1ZoTUI0bUczTlIxT2NNVXFXX1dRQjg2R1dpS2twWTJxSFJHX1VFbnNTV28wVnM2TnVaTE8tY2xma2YtY054bWZ2WWFnWW1IZTgyc3hRTW1scUVQMS1nVnZaLXhjMVVYZzRYaW80N294UmlMbDlF?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 16:51:04 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "senate race"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W43",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Talarico v. Paxton U.S. Senate race draws dueling religious endorsements - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcEdEY1BJM1pLZ2hMNFJLTzFNNkIweFZKeGg5ajduLXdmZFdTc3FzaDE0bW9aUnhaaVNSaDlhTWdLTGUzd2dGME1PLXNiME1qeHFNaTJpRWhaaVZrWlE0VmpXWTBjR0RkRndIUC0tQnlmTGdjYWFEcHBMOXJfaERLejZBMk9DUnZzaXdrMmF3RzRGYjdRelBpU3d4MGVoS2tqVWgyMXJ0TE0yWUJka1ZKZnZLZHJNTHZ6XzBMQTZNc01MRGJHejlfNFNB?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 01:54:05 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W43",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Texas Senate race heats up as Talarico, Paxton court voters with 10 days to go - WOAI",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNXzZRZmhsV3dzXzlYdEx1ZjBlcjdTSm9zRW1uMGpKeGRPRlB6VlJfSm5OTTYwRlhjOUxDN0F1MlllbEdLUDZtMEFQbVIwbDQ4OEFvVE96cHNENVdhUEd2bDhEODNJWGtZWDk0bjdsNkUtMWwtZlcyNDQzSUtyOGU4M0szb1Zkd2p5aE0yRHBCbGhLY0xDWllleUZIS3J6OFQtSExQYTRJTlJTMlp0LXpTeHFGbzFGSXM?oc=5",
@@ -2162,92 +2226,24 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "New CBS poll shows James Talarico narrowly leading Ken Paxton in Texas Senate race - KHOU",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORUdqWndJX1MzeDdjd1Myc1pRTl9XZWxIdUlsRGR1QzJibWdackNHdUFpOVNfZ0xVU0p3Z1RrdGtyM0IyQ3J0MENza0dUTUJCbUpPVHA3Zkt3NWExVEx1Q0dCRWR3QTJTUjBGcEZ0S25tSVFVSTkwZkdfcl96NmdvdjRaR3Jpd29STHhqM1BVc3labndEV0FoaE5vYnB0QlozMGFSQ2xjYlBaYVJZUTkybnRXWTE0NzkxNE9DWWJ1MEdYSmV3b3pBc0xHWHV1aXBEWC11X1ItUURuUUdQcUtv?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 03:36:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 38,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W42",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "Latino excitement for James Talarico could power Texas Senate upset - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNb01qUURwNlFqQ2hTTEVENTlqNVNrU2pENzJKTDEwbXRPMHFkV1Y2SldlNHcwRVU1am5YNmF0OEtZN20zVmhOQmY4RG85UC11MElZekdzQ3lJZGlfeVplQ2swZ2ZPdjdXOHlHUEpqX0REai16VWNYUUZtREktX3hmM1VpTEhOMVFwOU44cDR2VVAtcElLcGZkNEUxd2Y1MWd4b2diRVF1YjBJaHJMaDViSlgtN0gwNEhhZmFjY2hSVnhLY0hXelY1Q2xoYUQtTmpBc19B?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 09:00:27 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W42",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "Texans to decide between Ken Paxton James Talarico for U.S. Senate in midterm election - NBC 5 Dallas-Fort Worth",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQY19NLTh5eTZLazRjaU42RE5OODdkV2ZSVDRQWHFBXzRZSjFxd3BRR1k2cjNta19fZkZDZFRTZ3hoUVVZZFFIOC1XUDNIQkNmT01hM1dTbGhNSzk1Z210LXBHYk9QWkFia281aDZnQ254VWI1OFBoOGdRTDhjZlNGQm11OWc2cHZhOTlna2ExemsxVHgwMEhFOTdDblZSXzBWYjB4VThDSEMxS051UmhMUl9UdTc4bk5aQkxqdWxmQldmSDJ0d1dFSFZsMlNtSUxPS2NkVXk5V0l5VVg3TW14VnRiVUdDQUtNYlVaUWVRYTlmNFhnY3hMeFN6ZjDSAYQCQVVfeXFMTnJsWndnUF9hTlFBVFJtZkZpcW92WXZYR0hfTjFSVWhycXo4dXEyMjdQeG44aUlmdGVCTkV2RDJhSGtGUWdlOG80N2FVR0VMYmtpUnN3QmF6TGhBOVJBcnNLTFpNUHNNaUtDSXpLMVlyeEZZX3NPTmNSTVN3X1cxT2VFR1dKSGV4eTlUUlczZjhMdXQ2eDNnY1JOalBKRmZqUmhsbXlhcjNJLTR1TlR6N3pCYWw2a0NvMUtTWVRGejlCS2dpcTdMRWpjOV9JSjl1YW0wUUlkdFhUejBoQi1scF9Hb1dsT29kdlN2WUM5UnAwQjF4dkp4bjc1WVU0T3lxOFdLR1k?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 19:48:36 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 24,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W42",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
     }
   ],
   "weekly": {
     "2026-W43": {
-      "both": {
-        "positive": 5,
+      "general": {
+        "positive": 0,
         "negative": 0,
-        "total": 20
+        "total": 7
       },
       "talarico": {
         "positive": 5,
         "negative": 0,
-        "total": 14
+        "total": 15
       },
-      "general": {
-        "positive": 0,
+      "both": {
+        "positive": 5,
         "negative": 0,
-        "total": 6
+        "total": 21
       },
       "paxton": {
         "positive": 1,
@@ -2257,14 +2253,14 @@
     },
     "2026-W42": {
       "both": {
-        "positive": 6,
+        "positive": 5,
         "negative": 0,
-        "total": 22
+        "total": 20
       },
       "talarico": {
         "positive": 7,
         "negative": 0,
-        "total": 19
+        "total": 18
       },
       "paxton": {
         "positive": 9,
