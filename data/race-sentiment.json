@@ -1,9 +1,117 @@
 {
-  "analyzedAt": "2026-10-25T06:40:53.064Z",
-  "newsFetchedAt": "2026-10-25T05:11:11.747Z",
+  "analyzedAt": "2026-10-25T12:25:26.754Z",
+  "newsFetchedAt": "2026-10-25T10:03:33.495Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 5,
   "stories": [
+    {
+      "title": "Texas Senate race heats up as Talarico, Paxton court voters with 10 days to go - WOAI",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNXzZRZmhsV3dzXzlYdEx1ZjBlcjdTSm9zRW1uMGpKeGRPRlB6VlJfSm5OTTYwRlhjOUxDN0F1MlllbEdLUDZtMEFQbVIwbDQ4OEFvVE96cHNENVdhUEd2bDhEODNJWGtZWDk0bjdsNkUtMWwtZlcyNDQzSUtyOGU4M0szb1Zkd2p5aE0yRHBCbGhLY0xDWllleUZIS3J6OFQtSExQYTRJTlJTMlp0LXpTeHFGbzFGSXM?oc=5",
+      "pubDate": "Sun, 25 Oct 2026 03:22:25 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W43",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Talarico rallies Corpus Christi voters as Texas Senate race nears Election Day - kiiitv.com",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNGxfSER4NXhOSURxN0k2ZWFKTDFmbkFZcHZaTzcxdFNSTE94U2lMMXJHS1M5cWRwNlEwaVdLa1EwaGJsbkg3dkVGWVRMc3FMZVhfdVZubGRGOUJmN3pTMFEtMUY3UWxJT192X2w3NG1OX2Q0T0FkWDlxSzB4RDB0SEpxUHdyazllT1BablIzX2pCTkI2RWVYbUNmOFFXY0FzU1VsSmJXZi02Y0dKRlByTmg4clBtTjZwQk5CZVllaU1fNmhqSDFIamN3TEZRdHZpaU9OOUxqMWNyMjZoZmlXRjZGOUNha1VpdEdHWjFoTHlNMEE?oc=5",
+      "pubDate": "Sun, 25 Oct 2026 05:43:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W43",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas Senate race on track to become the most expensive race in history | Morning in America - KXAN Austin",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOUEwU0tFNFVGcnJsT3NMUmIzd2t6TjFSWnBySnNDSXFydGlQcnJFWjAyNWlWM2p2U0pIdFl2VTloUjRUZkF2Q2VPWXR2LXN3Ulp4cjU5Z2VVWXVjdGNRcHpCOVNVNFJNOFhhbkx2Z29CU2RjVmJnWHJmZVV6Xzk3NTF2UEFrOWVhWkRnY2pYNDFMOWZIRi12RkZjT2JZN1JJQzBHVXk5SG9uNnRaQUpqcDJxOEppMlM0aGgtV1RxWEFCenlTcGc?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 11:48:47 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W43",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Talarico, Paxton in dead heat for Texas Senate, Abbott leads governor’s race: Poll - WAVY.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOXZfSXpFSk1COC1jVUFqZjRES3JkT1kzdDdrY0wzN3dSQ1VTRldyVFpkWlFkclVmOVZEb3M5Vkt2MnZUa1k4Y3RSN2tLSkdENEZ2NVZvVjU3bFBvX29xWXFva2dJZHRIQ2puNW9rV2EwUkVnSF8tVm9oSmZFTlNGM0RlSllJOUpmMkVRVjRMRXpkWnN4ZkQyaW92OC1Ta0h5ZmItVVpzLXJnWEM0Qm9lcVJFQmbSAboBQVVfeXFMTURscGw3aGtJVEFORVN1WGlJZS1xOGE3clBxVzBHNUVoY29wWGR0clVUeFlGLVlWZ0UwN0pDaVB0U09QT09OZ1Z1YzJ6dnJyZGFhQ3dXUzg5c045R2lOMmU2NzIwVEVrUzVjS0oyd0dlSlE1OFM1U051Zlh0bVl1VTVHU1FDTXd3M0lzcjdGMHVKWDJiNU1sbEk1MU5lZEYzQVNBaHJGdlhSZ2RuNUFZbHVvbGI4dDRIOXl3?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 16:36:57 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W43",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas Attorney General Ken Paxton sues ChatGPT-maker OpenAI - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcEs5ME1zUXpNMy1lcW9Td1FrVlZxT0xjRFNXSDBEU1Z5UWFLeG82bGVJT0J4bzR5ZVBZV2ptcHQ4OV9LZWlRSS10TkV6Y01KSVJRNkZIelU3MlpLNkdzX2FTamc4bDJTWEs2NGpYMnNyY0gtY1IxYm85Nmg4NFFzVlZzS0l5ck1qU2pES1RUaEd5TEhzaVA4VC1tY2lmZw?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 19:44:30 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "attorney general"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W43",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Texas Senate race heats up as Talarico, Paxton court voters with 10 days to go - KVII",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaXo3Q3NTZHV1clpMR1AwRm5Xa19sdEdBNVBnWGVVY0RvVFVMaXNNZ2NIUUQtMVhrem9LMmZ6OWMyVHlPek1VZzVhWWo3RWxzeEN5VWZ5a2gydlR1QU44WHp3S3RzYi1mYVdoMjYtX3Y5aElKOXhRWnJKdGJuUDhWNEtjaHdKZU5lVWVqOEZQQXZuV3V4N09NdTFoMEE4RDBWTU1BZm11alhacUNnSmJReDZfaEh1dG5OdjFuSy1jMUdUY29UbjBKbUNPUkcxc0xX?oc=5",
@@ -2122,154 +2230,46 @@
         "source": "local-fallback"
       },
       "error": "HTTP 405"
-    },
-    {
-      "title": "Fearing Ken Paxton’s defeat in Texas, Trump tries pre-blaming John Cornyn - MS NOW",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTDBzRnhKWnFXbUxkbU9vMVNDNW95dnFLVEt2RFkteUZFVjUzQVlhSVB2WHdsWFhVdVN2UnkyWFBnbDIyX3BISUpCRU5aSTkxQlNwdGZLNVFyMWF3Q1lTNHFkbXRBUm5ZUFNfR011cVRadk9pWW1yWm9Ccmo1REdDUkNxOW04b0dWYWZKcVo0ajJ2bmFPRVpuSnQxYlB6Yi0ybjJNbVI5ZjVRMTBaelE?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 13:59:17 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "cornyn",
-        "john cornyn"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W42",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "James Talarico holds Plano rally ahead of Texas senate election - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaEloQWw1VlluamdaU09KaGxmUmtSNEJpY1dtUUJxelEzLXZneGZXOVB5UUVHam8ydEY4bFJNUEpoVFUxUHJoTzQ3MVQ5NWV0LTVVMlVUVDYtUE9LazljRjh3RmcybVp0SGdsUlh3UGxNOEJQMjBHcFRKTzduMUpBN0JDbHI1dWE1RGFuTTV1YzRQcDc1dGJjX2RqdUd1NnR0NEE?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 03:46:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 20,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate",
-        "senate election"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W42",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "Paxton and Talarico Intensify Texas Senate Fight Ahead of Voting - SuaraGarut.ID",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02S3htT1ZGUDNkR0swYlRwVjVfcml0OUpURzVjbUUtZHNBN01BMzc0UUQyM2J2QjlwRVhOOXgxZm9UVFhrNEdMbHp3QzBkM1dlTzlDenZhbjBTQ1BzQ19DcDV2aXotTXYtNlE?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 03:01:38 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W42",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "Getaway cars, affairs, Dubai fugitives: Trump’s pick Ken Paxton brings baggage to Senate race in Texas - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOckdmYTQ2YWgyN0ZmeWRibHJ5eGM0SjlSX0gxTmdVWDY0NVJQTlpKOF95c2Z3MVJhNXhtYWhYZEk0RGNFLTJpUFptUEJEajRuZ0ptbXZ4TDZaWGlpOV9mcGFTd20ydFZMdUNjWU5yVVktOXo2U0JmYjMzd1p1WWFYRjlzNWY4eTVCNi1Oa1p5VExvQQ?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 14:17:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "senate race"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W42",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
-    },
-    {
-      "title": "US Chamber of Commerce Endorses Paxton in Texas Senate Race - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMGVaRkJWcUowOGl1YUtINmR3X2dDb01iUlB6bWdUTGo3ZVhLLU1PZ1RoYkhFN1pTVE1jb0k1Q2QxT183RGRFeTc2OWVKR2RONjdBb2hiNDU4c3B5ZVVFNWlxU3VTaXRFUk1NdS1US19TU3NsR1NKWlV1NGduUm1UeUxUY3BnSWFlMEZ4OEZkZ2hFSV9zWk54V1J3MHR6TFA2TWJ4SjN0clBfeGFZaWln?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 16:28:28 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W42",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 405"
     }
   ],
   "weekly": {
     "2026-W43": {
       "both": {
-        "positive": 4,
+        "positive": 5,
         "negative": 0,
-        "total": 18
+        "total": 20
       },
-      "paxton": {
-        "positive": 1,
+      "talarico": {
+        "positive": 5,
         "negative": 0,
-        "total": 3
+        "total": 14
       },
       "general": {
         "positive": 0,
         "negative": 0,
-        "total": 5
+        "total": 6
       },
-      "talarico": {
-        "positive": 4,
+      "paxton": {
+        "positive": 1,
         "negative": 0,
-        "total": 13
+        "total": 4
       }
     },
     "2026-W42": {
       "both": {
         "positive": 6,
         "negative": 0,
-        "total": 23
+        "total": 22
       },
       "talarico": {
-        "positive": 8,
+        "positive": 7,
         "negative": 0,
-        "total": 20
+        "total": 19
       },
       "paxton": {
-        "positive": 10,
+        "positive": 9,
         "negative": 0,
-        "total": 14
+        "total": 11
       },
       "general": {
         "positive": 0,
