@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-25T10:03:33.495Z",
+  "fetchedAt": "2026-10-25T14:31:25.832Z",
   "count": 24,
   "feedsChecked": 8,
-  "itemsScanned": 156,
+  "itemsScanned": 155,
   "items": [
     {
       "title": "Bush family members back James Talarico in Texas Senate race against Ken Paxton - San Antonio Express-News",
@@ -21,16 +21,14 @@
       ]
     },
     {
-      "title": "Ken Paxton says he would debate James Talarico in Texas Senate race ‘if the terms were right’ - Washington Times",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSi1QVy1CeHUxbXJDb2FWanpFTE8wU0NzV0NWbU55ZGVTLTI2d2pyQUduRmtaZUgteXAwT0FwaU5fX1ptM2VmekdGSTdrbXVmOFluSHJmZVozTVo2ZThUMHZMclU4eGpkbTNRUUx1eXlfSFhka28xam0xQnNkRkxUT1BzQVFrYjNmaE14VDdQekozckpHTmpIQ0xsa1dqYUVoODg2cUwzSVk1Q04zR3M0UUEwY05PQU5z?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 12:29:00 GMT",
+      "title": "Neil Bush Breaks Republican Ranks, Proudly Casts Vote for James Talarico in Texas Senate Race - Houston Style Magazine",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc0xtQnRXM2dUdXhuSXhEMThPUWUzeUpsSFdmdjhFNEtWMFNDS2llU1A1b3hvTGVxZnY0cHNKUDlfTmh3V2dvLWcycG01V3FNX1dhWV9DTS11cktZY1ZEZGNBUnFwVHhlXzR6TGJ5cEhYZ19nemdyMVVqTWk3emJHVWotUzJrNlVBNVdwUlFfMDU2ZDAtZkEwVmQwNmZUcHNrVlJqWjY4TU5xREpyRGp2R1VtVnQwOU5LcU9ucHRHdEt6VGRfbFNQNXVJWkJ4U1hMUFE?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 01:02:11 GMT",
       "feedSource": "google-news-race",
-      "raceScore": 38,
+      "raceScore": 28,
       "matchedKeywords": [
         "talarico",
         "james talarico",
-        "paxton",
-        "ken paxton",
         "texas senate",
         "senate race",
         "texas senate race"
@@ -90,6 +88,19 @@
         "paxton",
         "ken paxton",
         "senate race"
+      ]
+    },
+    {
+      "title": "Cornyn voters become key prize in Texas Senate race - Dallas News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQUpnWmNvb0Z1X1VycGFueXFLeEg0V203dXJiQXMzczlQc0dKT0EydWFSNU9yXzBjMzFzNk5sNS1oUlZYUGF4ZnJteXlxaVh5SEJPR0xtczJLV1VjTzZ6M0VBLUZFTF9tSU9FNFloanJGMUdPUEM1eS1HN04wb3g4SzVyWlNQRFVKMWgzNjN2OHhPY1FnNGpzcGRuUXZCZi1VVDVhSUFB?oc=5",
+      "pubDate": "Sun, 25 Oct 2026 11:04:49 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race",
+        "cornyn"
       ]
     },
     {
@@ -183,30 +194,6 @@
       ]
     },
     {
-      "title": "Texas Senate race on track to become the most expensive race in history | Morning in America - KXAN Austin",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOUEwU0tFNFVGcnJsT3NMUmIzd2t6TjFSWnBySnNDSXFydGlQcnJFWjAyNWlWM2p2U0pIdFl2VTloUjRUZkF2Q2VPWXR2LXN3Ulp4cjU5Z2VVWXVjdGNRcHpCOVNVNFJNOFhhbkx2Z29CU2RjVmJnWHJmZVV6Xzk3NTF2UEFrOWVhWkRnY2pYNDFMOWZIRi12RkZjT2JZN1JJQzBHVXk5SG9uNnRaQUpqcDJxOEppMlM0aGgtV1RxWEFCenlTcGc?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 11:48:47 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ]
-    },
-    {
-      "title": "Texas Senate race tight as Election Day nears - FOX 7 Austin",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbEsyUElLa2NDbnBPYjRURWozeXhDMU9nUUtRbGk4cEo5WUFMX2lkYjZOVHJaT25JQU1iZlVyOXVQTXJqcm00OXRFTFhCUmlCLVFUc3dUY3JJZjRGeHFTSzhuR2VuTllCeXVnSjRQVXpORklwbTB0QUwyVmpaWGNUclN6eWN2UWI1ajF3ctIBkgFBVV95cUxOVnpxWEo3ZTExSnBGRG9VZWJPb29pMkI5eFM1MENRSnp1aGpmUWdibHpUZklzaFFHdVlNOXU5cXpBZ0huVzFaU2REaGNyWnRxZ1dmTzBwZWRmNC0wb29GV0tOcFh0QWJHUmg0WXlfS3JkN0Q4dUFidTVuUy1FV0lDWjhaNmx2YkxORGNOeDhWa2NrZw?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 16:01:47 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ]
-    },
-    {
       "title": "Could a Libertarian Swing the Texas Senate Race? - Reason Magazine",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQlhxLUthSEk4Y0JiQlo0TkZGU0t2a2RDRC1qMzFIcGptRFFtQ1N2bUdibWhwMkFyU0ZpYUZoQ2tvblFEa3pibmN1X1R4bzR6QnRGNkNJZF9IWHQ2Yks1UEh0T0RrYlh1M2V3bTV5Y3U0NmZoMTdsang4eF9lZm1SNEloS3VIWkdjWWNkQnZuRQ?oc=5",
       "pubDate": "Fri, 23 Oct 2026 15:00:49 GMT",
@@ -267,18 +254,6 @@
       ]
     },
     {
-      "title": "Covert Russian Group Injects Baseless Claim Into the Texas Senate Race - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN0swbU5uR3BuNE9NeVR0SV9fUWJreDZsZnFhUEx4WjBjR0otbmhXb2ZvZFE0UTRwWV9HUzItb0lvak12NmpkQ28zb1ZKWEw3WGUzNXAyMXhENnkwYldULXg3T0tTcHR1bTZ1TkwwdENpWmdpcFVRbjllQWZicmFENzc2RQ?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 13:02:59 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ]
-    },
-    {
       "title": "Talarico vs. Paxton: What the Senate race means for women’s health and maternal mortality in Texas - American Journal News",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUHRwT0ZyLV9zM3QxRXBtMnJBbG1aVFAwOXd5Xy1uSUUzUUZJNW9ITXk4WjNsYUVfYjkwWEN1eldMdjhnclRWYTZVUFhHV1ZUWmNDYkhxanFCV0tvdm1mbjZneVliRG1TTlNoa1BaV2FUb0ZJT2E0eWE1RllncnduN043Sm5QS3VvU2xjX3dMcHRiWWJ6TnRYWjJsWE1NUmxwX3lNWkpKSEwydkZSbEJaSHJTem1hYUpDZk9FVGQ1a2ZQbnJkMXJv?oc=5",
       "pubDate": "Fri, 23 Oct 2026 21:03:55 GMT",
@@ -312,6 +287,30 @@
         "paxton",
         "ken paxton",
         "attorney general"
+      ]
+    },
+    {
+      "title": "James Talarico casts ballot in tight Senate race - ConchoValleyHomepage.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeFBIc1dXY0hxWFpzcnNzdE9PdFNTYXhoTHQzV0o5dnZNNGliZjBJSldsLUdjY0pLbzZNOXFOQ1MyZTZTODBib1U0dFVqLWNVdF9semFDa2lINENxVnNuQjUzWGxGMHZEZ18zVFhsSDNmcEdObEQySGdQQXM4Z014eHUtVFFHbGtDS2RVZTBSVmxSMWNWdEV0R2lXNTNfVUxjWmxORFAzU0hGQdIBrwFBVV95cUxNOGx2VUJRSkNGNXVGMTNjYjVaaV9vOGRsQXFqdzV2Z1VxUnFtNU1iS3JkS0xNSEo3TFMtV2FJMGFwa1ZoTUI0bUczTlIxT2NNVXFXX1dRQjg2R1dpS2twWTJxSFJHX1VFbnNTV28wVnM2TnVaTE8tY2xma2YtY054bWZ2WWFnWW1IZTgyc3hRTW1scUVQMS1nVnZaLXhjMVVYZzRYaW80N294UmlMbDlF?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 16:51:04 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "senate race"
+      ]
+    },
+    {
+      "title": "Talarico v. Paxton U.S. Senate race draws dueling religious endorsements - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcEdEY1BJM1pLZ2hMNFJLTzFNNkIweFZKeGg5ajduLXdmZFdTc3FzaDE0bW9aUnhaaVNSaDlhTWdLTGUzd2dGME1PLXNiME1qeHFNaTJpRWhaaVZrWlE0VmpXWTBjR0RkRndIUC0tQnlmTGdjYWFEcHBMOXJfaERLejZBMk9DUnZzaXdrMmF3RzRGYjdRelBpU3d4MGVoS2tqVWgyMXJ0TE0yWUJka1ZKZnZLZHJNTHZ6XzBMQTZNc01MRGJHejlfNFNB?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 01:54:05 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
       ]
     }
   ]
