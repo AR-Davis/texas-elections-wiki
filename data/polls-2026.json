@@ -4,8 +4,8 @@
   "source": "Wikipedia: 2026 United States Senate election in Texas (General election polling)",
   "polls": [
     {
-      "pollster": "Rasmussen Reports (R)",
-      "sponsor": "Republican",
+      "pollster": "Rasmussen Reports",
+      "sponsor": "Independent",
       "date": "2026-10-20",
       "sampleSize": 965,
       "marginError": 3,
@@ -202,8 +202,8 @@
       "method": "LV"
     },
     {
-      "pollster": "Rasmussen Reports (R)",
-      "sponsor": "Republican",
+      "pollster": "Rasmussen Reports",
+      "sponsor": "Independent",
       "date": "2026-09-28",
       "sampleSize": 1128,
       "marginError": 3,
