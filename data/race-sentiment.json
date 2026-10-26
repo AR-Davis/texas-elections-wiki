@@ -1,9 +1,30 @@
 {
-  "analyzedAt": "2026-10-25T23:58:19.578Z",
-  "newsFetchedAt": "2026-10-25T23:28:54.534Z",
+  "analyzedAt": "2026-10-26T04:06:55.269Z",
+  "newsFetchedAt": "2026-10-26T01:36:04.519Z",
   "totalAnalyzed": 100,
   "newThisRun": 1,
   "stories": [
+    {
+      "title": "Trump to campaign in Lubbock and Corpus Christi as Texas Senate race tightens - FOX 4 News Dallas-Fort Worth",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWllzRlpxSjUzOEV6ZWZTMEtkTVdJS3JXejM3RnRVVFJUUGpGYnZRa2daaHdPT2F4MEhaVUZtVHUxOVJ3bEhmU3pnTnJvZElYUGh4aGdNTDc2UjV1QUVrRXZLSTFZUjMxXzFaeU9Ma0FmaWNQclJ1ajZJRVdZUGZoTG1YTGdGWTRIamZ2Tks4THpPRnh4SnpGcnJB?oc=5",
+      "pubDate": "Sun, 25 Oct 2026 15:49:21 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 18,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W43",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Ted Cruz Hits the Campaign Trail Alongside Ken Paxton as High-Stakes Texas Senate Battle Explodes Over Soaring Living Costs and Radical Agendas With Days to Go - Istituto Impariamo",
       "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPOU1RZWc0aU16b21pajVSVmRtTzR4cVI0NGVBQU9KZXN6Q2EtdFRJcFdxamlCcTJVQjUzb0NpUnd2eGJLWmxvcC15S2dlcTR6aHJEbTU5WGpmbVFMNGRKT3dKbnFtSGx1NEY4NGdldkZGUllVRHVXMVlrNllURzhTTkFDbUNFMnpjRTFsSWF0YnllMTUtWkV3SVhhdEpSTEFNR2NoR0xlNzVVZHdyYm82eXdqNGhiOU04UmhEY0NhaWFzLW5MWGdNRjYxQldlZDJrazhCR3AzSXYxN3U1anI0YTlTN1dNbWZEOE1ObFpyc2VBX2hRaExQRUNTYjR2Z2RwQldWVTdWZThpRjhSa2dLMWtIM3NDbzRSRjJZd2dR?oc=5",
@@ -2193,31 +2214,15 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "Texas Senate Race a Dead Heat as Early Voting Begins - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcEl4NG83Uk91M0pzdks5R2Z0MEFSZ094dVNRMHVWOExOWTFpTU83M0szMTU4MFdwZVRuRk9QdlNDemtyWFFTVEE4bXVyR1I5c3RXb2NHU0dudUNLNFM2ZHpKX05wQ0FNTjh2MlI5Yzc4c1JsWExVX1VIamV4elBEQ2xPU2JTNmx0TUhOeUw4UHg?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 21:21:10 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W42",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
     "2026-W43": {
+      "general": {
+        "positive": 0,
+        "negative": 0,
+        "total": 8
+      },
       "paxton": {
         "positive": 1,
         "negative": 0,
@@ -2232,11 +2237,6 @@
         "positive": 6,
         "negative": 1,
         "total": 21
-      },
-      "general": {
-        "positive": 0,
-        "negative": 0,
-        "total": 7
       }
     },
     "2026-W32": {
@@ -2265,7 +2265,7 @@
       "general": {
         "positive": 0,
         "negative": 0,
-        "total": 3
+        "total": 2
       }
     }
   }
