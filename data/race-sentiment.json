@@ -1,9 +1,73 @@
 {
-  "analyzedAt": "2026-10-26T21:30:17.886Z",
-  "newsFetchedAt": "2026-10-26T20:41:09.160Z",
+  "analyzedAt": "2026-10-27T00:41:51.494Z",
+  "newsFetchedAt": "2026-10-27T00:18:09.879Z",
   "totalAnalyzed": 100,
-  "newThisRun": 5,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Paxton vs. Talarico: Political science expert explains what's at stake in 2026 Texas Senate race - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbndxOF9FOUVBZ0g3YVpzcGMxWUJUZ0ZCS3hUU05wRzhUTm1iZU5MUHNTSkp3S0pxbzNvTjliZUpVbmxvWGhDcXRuODdRVGxTQVRkN1k4WEE4dThtbWdnanFLcGZFWVRVSnZJXzhkOVNmUl9reDR6dGtOd0NUQnNmMWRGc3J3clJqdnEwM0F3SVV0MVp1eVRZcGFWQW5yckdIYzdPZlhHeGY5cDQ4eGZPb3pqTDRPb2ljSml3QjV3Qy1WNmdsQkZjcnFR?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 23:35:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W43",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "The Texas Senate race has a wild card: Libertarian Ted Brown - KXAN Austin",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb29TdDNZUEpXSndnV05SSXY5a2xJaFFaTndXdllzNHFEZVppU2Zsbmd1VlZCU2ZrRXBZYjJ0alJZcnFPbk1xQ1hNLXZUSkM0c3E4M1ZCdVJmSEt1bF82ZGw2TzEyN0czRjBDT1ZhMjV5bHlhb3p4OGFZempJeEJKdDQyVlJqdjJpeGI4RVg2OWhUZHBRRGgxOUZQQzdpaE12TFlz0gGoAUFVX3lxTE01UmZfN19JcTk5cGx2cjExWjRaMFIzYnJpVWM4M3JpZFFFSWVYTkdQck9SUm1BUDR1R1lRYXAxcTBMYmpHbW1ucjNIZXlIaHZQa0xFUDNFUTdNaHF1Vk1qRzg2MklIM01QamRVaHhHQ20zRlVVZDF4MEI5dy1nVHdvREJJQllfQVlqN3ZoZVU1TEtyMHA4SGIzYm9Tb2E2NVNNaUxlLVZrOQ?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 00:02:12 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W43",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas Abortion Estimates: Talarico vs. Paxton - Dallas Express",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZFpaNFdneENiaWcxWVh3bjBQTTU5U1NKWnJlbWxoakx6cXNnRVpPcW9Ubm13TURObDFTOGpTcDd2S1AxMmwxQXdPVEU1YTA4M0hDTDRsYktzcEpCWlh5UzVKY01SbXF6TnI2c2FibTNLR2dXVTJ5VWVhdFRJU05iSUJEcDNkMGFwd0pSLUNPZGxpZVhHRVU2RGptVW1peFlTS2FNaHprc25hUQ?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 15:02:02 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W43",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Texas Senate Race Tops 2026 Midterm Ad Spending - Newsmax",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMEhRY3N1eUpuYTVyNGJjUlRqemU4dWVsM08tNnJSYmFQZjVNSDZtVDJEN2ZvOFFzeHJiVHZpc1ZTLWc2Y0g2a3RpRDRYNjFrcEUxa2diQXVuMHlRMUROUE9tTXpHUm9EYW5sTVRTRW5hanNFS3ItN2U4Xy1UWldQNWN6VWE3d1RseTNpbw?oc=5",
@@ -2140,92 +2204,24 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "Indian American conservative backs Democrat James Talarico in Texas Senate race - The American Bazaar",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWUhhQWMtVVY3MmJ2TXpEY2JJSkQtU3J1ZnEyVUhwSEVUMS02OVoxUnBBWHdIMTgtRUp0N0ZRSUx4VjJCNVdCLVM0dVpVbDRyWVV4d2FCRUxQTm56UnVMaldmZnlDQWhkTE5OaFlocnJuU004NDVzUlVIa2syaENrX1FCdU5PaG5XYmtRdTRjcmszVXhzZmRPUEFwMUZtcWpPaUNHLUhhRTQyVzNiLW1QM0MtMVAwOVN5M0pCNkVSazRVWnZIN2pKcm4wbw?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 21:35:49 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W42",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Who are the biggest donors backing Talarico and Paxton in the Texas Senate race? See the top 20. - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZU3JMQzliMTVWSURSY1FPcGI5WXQtdHljOVI0M2k5UzNKaU9oSHVuUG9velRnRTV1TnhxbnA1TDA5cVQyNVZCZlo5X2NHemRscWJzcmJKaVlBVTdLS2NKLUtQamFQNTk1bEJEV1NkblI0THBUYWVxTkwwYUlUZUk?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 20:51:43 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W42",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "The final sprint: How Ken Paxton and James Talarico are framing their closing arguments - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNXVtakVJeEp0TGVRM1p5Z1B6SnZ3QmJ6dTdpOEJTNXJBcGM0Wmw4TTN5UnJkNDEzQ0diRXduUTJtNUFlTnF4NHhXX1Rub2hvX2tTaDZIcnpxUmRYckUxTUNBQURRS1o3dFpsbVNtdVZvOXNWR0VHMGlPS2xvUzN5Mkg0VUMzNzVGaDRjZnpsY05PZVZRMW9r?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 21:10:27 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 23,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W42",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
     "2026-W43": {
+      "both": {
+        "positive": 10,
+        "negative": 0,
+        "total": 34
+      },
       "general": {
         "positive": 0,
         "negative": 1,
-        "total": 12
+        "total": 13
       },
       "talarico": {
         "positive": 8,
         "negative": 2,
         "total": 25
-      },
-      "both": {
-        "positive": 10,
-        "negative": 0,
-        "total": 32
       },
       "paxton": {
         "positive": 1,
@@ -2244,12 +2240,12 @@
       "both": {
         "positive": 1,
         "negative": 0,
-        "total": 9
+        "total": 7
       },
       "talarico": {
-        "positive": 3,
+        "positive": 2,
         "negative": 0,
-        "total": 9
+        "total": 8
       },
       "paxton": {
         "positive": 6,
