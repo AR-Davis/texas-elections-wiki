@@ -81,6 +81,17 @@
       "method": "LV"
     },
     {
+      "pollster": "Univision/YouGov",
+      "sponsor": "Independent",
+      "date": "2026-10-13",
+      "sampleSize": 1000,
+      "marginError": 3.8,
+      "talarico": 50,
+      "paxton": 45,
+      "undecided": 1,
+      "method": "RV"
+    },
+    {
       "pollster": "InsiderAdvantage",
       "sponsor": "Independent",
       "date": "2026-10-13",
@@ -709,7 +720,7 @@
     }
   ],
   "averages": {
-    "talarico": 47.1,
+    "talarico": 47.2,
     "paxton": 45,
     "undecided": 2
   }

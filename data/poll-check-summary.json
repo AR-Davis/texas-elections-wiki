@@ -1,6 +1,6 @@
 {
-  "lastChecked": "2026-10-27T11:07:37.746Z",
-  "wikiPollCount": 64,
+  "lastChecked": "2026-10-27T16:44:36.158Z",
+  "wikiPollCount": 65,
   "newPollsDetected": 0,
   "latestPolls": [
     {
@@ -53,6 +53,13 @@
       "undecided": 0
     },
     {
+      "pollster": "Univision/YouGov",
+      "date": "2026-10-13",
+      "paxton": 45,
+      "talarico": 50,
+      "undecided": 1
+    },
+    {
       "pollster": "InsiderAdvantage",
       "date": "2026-10-13",
       "paxton": 49,
@@ -64,13 +71,6 @@
       "date": "2026-10-10",
       "paxton": 46,
       "talarico": 48,
-      "undecided": 3
-    },
-    {
-      "pollster": "GS Strategy Group (R)/ New River Strategies (D)",
-      "date": "2026-10-09",
-      "paxton": 44,
-      "talarico": 49,
       "undecided": 3
     }
   ]
