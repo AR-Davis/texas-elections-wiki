@@ -1,9 +1,74 @@
 {
-  "analyzedAt": "2026-10-27T18:12:48.299Z",
-  "newsFetchedAt": "2026-10-27T16:18:41.204Z",
+  "analyzedAt": "2026-10-27T22:30:40.535Z",
+  "newsFetchedAt": "2026-10-27T20:52:36.532Z",
   "totalAnalyzed": 100,
-  "newThisRun": 5,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "James Talarico Courts Black Voters as Texas Senate Race Enters Final Stretch - saobserver.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcUFxYmFocHZEZFN5X1U4TnJReVk1eUFaczFHSE1HSlZUZGk4RC1SRXQ2NnFyMW45NkZlTGpsWVdCeUZqcEcwYmgtX01FR1B5bG93cHh0UGI2dnpkODFVcXg0VWdXWk44Y1U1eklTU2RadDR5ZW5SeFFLSHNIdDk0QTlmNEFYaVlpQlV4OThOTWFLNlpoLVVDcjhJY2pXY2FyUnc?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 15:42:01 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W43",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas Senate hopeful Talarico says Musk trying to buy seat for Paxton - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBuT0JGcXo2WGhOel93SFI2SDN1UFdhT09SQXFiSk5wazBvc1RiYjFiaVdDQy1IVWo0a1ozOVpFVnltdE5jbTdiLUdVY3ctQnpFLS01NDExZV9KY1lSM083Rk1xSXZqdmZwcWFacXFMNjhNdmFNQ25NRDZB?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 09:38:34 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W43",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "CBS News political experts weigh in on Texas Senate race halfway through early voting - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUmNtNll4eHV6RlJxd19wRWZfN3hpd2V5OElVSjRSVERsSmdNYnVDYjFMUVdIZEdHaUU1TDRveFFMSlZpTUNQSkZ0Y0dyZlRHZjFlZVpyaC1jd2hzUTlGcEJIUHo2R1JnMi1WdGZBVEJkYXZjNjZnVHJJVmdSc3RiYzlIeTk?oc=5",
+      "pubDate": "Sun, 25 Oct 2026 11:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W43",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "James Talarico Ahead in Texas Senate Race - Political Wire",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYUVPVi04dzJJUUJYdnEwMlg1ZjcyWElGRTMzcFgxbXNzZlpfVm52YmNxN1lIZnpYa2xxVkNQYmh0LVhYZWVkbjR2TDNYMDl3VnBlYW1MUXdjckZmYmNHU2xaWjdtVkNNbll0S2ZFUE5BS012UlNUNVhQR0ZVTVdxS0VHWkh5dw?oc=5",
@@ -2115,98 +2180,29 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "George W Bush’s brother backs Democrat James Talarico in Texas Senate race - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa2ZvcnJJeHRlaEJyWTdiZV9nTjJ4dWRJcGI2eVdmN3pMSXp5SVBaZTRuN24wbTJlRVQyZkVNSG5OSHBYRFJkanNVSGVObDIwb2pKamw0NGZSNjM0dkh0SV9sMHJjOHhsX3JLY0xZbHVoX1k1b01Ud1lDSVZwSHpFN082c0dlM2ZGVTNjdk9OV2ZCRkcyLVhGUHlvYlloanJfcG5UZ1dDa3ROS2RNeFRZ0gG0AUFVX3lxTE9mWS1MLTJkMTh2aEl6THFYc2VFVEtTcU9iZGFYTlQ1bXFEQ0NQSzJGYXJNWVlIN1ZZTFRuc3RPZ0xzTU1ucENiREptaUYtTnJMcDNVdnR0ZUZxU2YzamhwR2JDSThfcUwzTUQ1ZXJZZi02QzNxSl93b2x1MFNNMFlLWjY4bjNLWlFtaExQbE9NbVJ5ZWJpX3hEM2s4a0lOVy1YTHZXczRmekhWYzN0NklvSlJGWg?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 01:27:04 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W43",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "James Talarico fires back at Elon Musk in Texas Senate race feud - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd0Vua2xjNGdvQVZBMG5keUVzcjFwWnNKcUNXX2NtbktUVXhOQ29YZFB3ejNfMUo3eFNpcGZTMGZNQk5vdy0zTXJmSXFzdjlzNDZJZmpxdkVYdVZ5VkQxR1UyY0NIMkM1VzJYT244T3Z3c0dsMHY1ZzBDV2t3TGxDZmNWaklDZklMTUtjMlN0VkNvS2JD0gGaAUFVX3lxTFBWZHFaU3FzM1ZHVW9LVXQ0SGduYXk0azg2TXN0ZUNBUmh6T2JycGdkeWdBbUVzTnlkclo5d2NzY1QwRy1DOEs1VW1fNmdVVXRBODZQT2pGaU9FNE9CNmJnVjJXRjRWUUVGQ1FQeFhLTHp1eHJiOVJsZjdyZzMxcFFIcGRfaHdQUWJRdThKOE91YXg3bkF1SmFrc3c?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 01:21:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W43",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "US midterms 2026: Warning sign for Republicans? Members of Bush political dynasty back Democrat Talarico over Paxton in Texas Senate race - شبكة تواصل الإخبارية",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QbFFpRUs4VlFEWkpaanZ6NXAyb1RJVEdpTUE4dk8wOWJKZFVITmlrTklvTmJtel9pcHVtcTR5cHZfMTdsOTVneGRwbE1mbXRkQW1j?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 03:07:04 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W43",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
     "2026-W43": {
       "talarico": {
-        "positive": 10,
+        "positive": 9,
         "negative": 2,
-        "total": 28
+        "total": 27
       },
       "both": {
         "positive": 10,
         "negative": 1,
         "total": 42
       },
+      "general": {
+        "positive": 0,
+        "negative": 1,
+        "total": 16
+      },
       "paxton": {
         "positive": 1,
         "negative": 2,
         "total": 11
-      },
-      "general": {
-        "positive": 0,
-        "negative": 1,
-        "total": 15
       }
     },
     "2026-W32": {
