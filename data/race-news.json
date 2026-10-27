@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-26T20:41:09.160Z",
+  "fetchedAt": "2026-10-27T00:18:09.879Z",
   "count": 25,
   "feedsChecked": 8,
-  "itemsScanned": 119,
+  "itemsScanned": 113,
   "items": [
     {
       "title": "Texas Senate Election 2026: James Talarico vs. Ken Paxton - BetUS",
@@ -17,6 +17,20 @@
         "ken paxton",
         "texas senate",
         "senate election"
+      ]
+    },
+    {
+      "title": "Paxton vs. Talarico: Political science expert explains what's at stake in 2026 Texas Senate race - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbndxOF9FOUVBZ0g3YVpzcGMxWUJUZ0ZCS3hUU05wRzhUTm1iZU5MUHNTSkp3S0pxbzNvTjliZUpVbmxvWGhDcXRuODdRVGxTQVRkN1k4WEE4dThtbWdnanFLcGZFWVRVSnZJXzhkOVNmUl9reDR6dGtOd0NUQnNmMWRGc3J3clJqdnEwM0F3SVV0MVp1eVRZcGFWQW5yckdIYzdPZlhHeGY5cDQ4eGZPb3pqTDRPb2ljSml3QjV3Qy1WNmdsQkZjcnFR?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 23:35:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
       ]
     },
     {
@@ -37,20 +51,6 @@
       "title": "Paxton, Talarico make Laredo stops in Texas Senate race - Laredo Morning Times",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTmtfSXNhdTVKa2RCd3V2OGM5eXhGR2JWV2t1X05yVUFzY3Q5WVdJSmt0MUVGTDVVNk5wcVp1dGJzUXBxbXFBdTJla1NXRWMySFhkNmQtM2pEdTJsNy0wREhJdFNiUm8wZVBINmt5RlpDaGxKMl9SMTNldHo0MnhrcXRrMXhBWU1RdTN2eWJYNGs5TnhIR0JkMFlDT1FIeHhI?oc=5",
       "pubDate": "Mon, 26 Oct 2026 13:16:31 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ]
-    },
-    {
-      "title": "Paxton, Talarico Battle in Competitive Texas Senate Race - NTD News",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdE8wc29YRk9MY0Juai1JSHlSLWNjOGRhVVVpc1B1UWFjSGtBclRvUkxhTVdWaTEtQjRJOHlvcDdMODJZX0IyQk1STW42UGhWQlVnT2M0bFJDZXE1WXUwUTdFcF9kNmFrTktCQW4yMzRFVU8weld2VS1iVUc0UWota1laa3F1S3ViTzRVOHVzaWhzdw?oc=5",
-      "pubDate": "Sun, 25 Oct 2026 19:36:26 GMT",
       "feedSource": "google-news-race",
       "raceScore": 26,
       "matchedKeywords": [
@@ -140,6 +140,18 @@
       ]
     },
     {
+      "title": "The Texas Senate race has a wild card: Libertarian Ted Brown - KXAN Austin",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb29TdDNZUEpXSndnV05SSXY5a2xJaFFaTndXdllzNHFEZVppU2Zsbmd1VlZCU2ZrRXBZYjJ0alJZcnFPbk1xQ1hNLXZUSkM0c3E4M1ZCdVJmSEt1bF82ZGw2TzEyN0czRjBDT1ZhMjV5bHlhb3p4OGFZempJeEJKdDQyVlJqdjJpeGI4RVg2OWhUZHBRRGgxOUZQQzdpaE12TFlz0gGoAUFVX3lxTE01UmZfN19JcTk5cGx2cjExWjRaMFIzYnJpVWM4M3JpZFFFSWVYTkdQck9SUm1BUDR1R1lRYXAxcTBMYmpHbW1ucjNIZXlIaHZQa0xFUDNFUTdNaHF1Vk1qRzg2MklIM01QamRVaHhHQ20zRlVVZDF4MEI5dy1nVHdvREJJQllfQVlqN3ZoZVU1TEtyMHA4SGIzYm9Tb2E2NVNNaUxlLVZrOQ?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 00:02:12 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ]
+    },
+    {
       "title": "James Talarico's High-Stakes Texas Senate Battle Takes a Dramatic Turn as AI Attack Ads and Faith Clashes Shake the Lone Star State - Istituto Impariamo",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUzRHaF9mOE5mYjlMQWlSTk9oY3Axc0dDR3B2ZkVMdnNLNGU0RDMtT0hPM3dfQXdneEJqaGQxNnpHSUw2eFV2RW80YUJ2Q0NxSHFoeEdJdGtTN29VNF9JZkYtUFNZenJaMENZYlpMRHNwa25LT0ZQMDZyT0Q4WTlndXN1ZnhaWm9VeXNLOU5fdHFXSXpRaEFUbFZ6VWZQaUo3ZzZialdyWnZSSzZBVW05dWktdFJmX3lxQWFUWTltQWZhbDhnaVhLXzB5THloSHpfWk4tZ1ZUMzNZd1RwVWttM3N4UjRPZDZmVWUtb3dwOHFXV1BITXI4?oc=5",
       "pubDate": "Mon, 26 Oct 2026 14:41:59 GMT",
@@ -164,9 +176,9 @@
       ]
     },
     {
-      "title": "Texas Senate Race Tops 2026 Midterm Ad Spending - Newsmax",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMEhRY3N1eUpuYTVyNGJjUlRqemU4dWVsM08tNnJSYmFQZjVNSDZtVDJEN2ZvOFFzeHJiVHZpc1ZTLWc2Y0g2a3RpRDRYNjFrcEUxa2diQXVuMHlRMUROUE9tTXpHUm9EYW5sTVRTRW5hanNFS3ItN2U4Xy1UWldQNWN6VWE3d1RseTNpbw?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 18:25:46 GMT",
+      "title": "Texas Senate race AI ads: Will high-tech attack ads backfire? - NewsNation",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR3FwcDNVZURPbXBEQTdTUG1xWDk2djdNWGx5TVFyWWZENGpLOHVnZFM4OWo5OThMQU5ieVpPWGFoUS01WDZKZEI4Rkwyb0NKUmJCOGtlNi1STGg1V1BTSkpTY2dMOE02RnN3TG9UbXNVUjhFdmY0Ri1NZURPbTNPSTdoczZTc3ZwaEZzeWlqaEdDdENhMGtFcUZB0gGfAUFVX3lxTE1ya180UjZ1RmhtVzB0Ri05RzdtVmo0YTgzSEN6UUhocTNxcWZEaGVkbHBxWFpUc1RBeTBDWEIyRGFobEs0ZFZTMGRiUjB0X09LOWIyVTVEeXJ4enZNY2t6TlA3Ul9KT28tZUtlN1RYM3pVNm83RF9ibFZfYUNoMENpZk9JOE1kbVl5WDF4Q2xlUnVTTEw1T1Y3eTBjdm1Kcw?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 21:34:30 GMT",
       "feedSource": "google-news-race",
       "raceScore": 16,
       "matchedKeywords": [
@@ -176,9 +188,9 @@
       ]
     },
     {
-      "title": "Texas Senate race AI ads: Will high-tech attack ads backfire? - NewsNation",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR3FwcDNVZURPbXBEQTdTUG1xWDk2djdNWGx5TVFyWWZENGpLOHVnZFM4OWo5OThMQU5ieVpPWGFoUS01WDZKZEI4Rkwyb0NKUmJCOGtlNi1STGg1V1BTSkpTY2dMOE02RnN3TG9UbXNVUjhFdmY0Ri1NZURPbTNPSTdoczZTc3ZwaEZzeWlqaEdDdENhMGtFcUZB0gGfAUFVX3lxTE1ya180UjZ1RmhtVzB0Ri05RzdtVmo0YTgzSEN6UUhocTNxcWZEaGVkbHBxWFpUc1RBeTBDWEIyRGFobEs0ZFZTMGRiUjB0X09LOWIyVTVEeXJ4enZNY2t6TlA3Ul9KT28tZUtlN1RYM3pVNm83RF9ibFZfYUNoMENpZk9JOE1kbVl5WDF4Q2xlUnVTTEw1T1Y3eTBjdm1Kcw?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 16:01:14 GMT",
+      "title": "Texas Senate Race Tops 2026 Midterm Ad Spending - Newsmax",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMEhRY3N1eUpuYTVyNGJjUlRqemU4dWVsM08tNnJSYmFQZjVNSDZtVDJEN2ZvOFFzeHJiVHZpc1ZTLWc2Y0g2a3RpRDRYNjFrcEUxa2diQXVuMHlRMUROUE9tTXpHUm9EYW5sTVRTRW5hanNFS3ItN2U4Xy1UWldQNWN6VWE3d1RseTNpbw?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 18:25:46 GMT",
       "feedSource": "google-news-race",
       "raceScore": 16,
       "matchedKeywords": [
@@ -236,18 +248,6 @@
       ]
     },
     {
-      "title": "Talarico vs. Paxton: What the Senate race means for women’s health and maternal mortality in Texas - American Journal News",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUHRwT0ZyLV9zM3QxRXBtMnJBbG1aVFAwOXd5Xy1uSUUzUUZJNW9ITXk4WjNsYUVfYjkwWEN1eldMdjhnclRWYTZVUFhHV1ZUWmNDYkhxanFCV0tvdm1mbjZneVliRG1TTlNoa1BaV2FUb0ZJT2E0eWE1RllncnduN043Sm5QS3VvU2xjX3dMcHRiWWJ6TnRYWjJsWE1NUmxwX3lNWkpKSEwydkZSbEJaSHJTem1hYUpDZk9FVGQ1a2ZQbnJkMXJv?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 21:03:55 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ]
-    },
-    {
       "title": "Texas Attorney General Ken Paxton sues ChatGPT-maker OpenAI",
       "link": "https://feeds.texastribune.org/link/16799/17505297/ken-paxton-chatgpt-openai-lawsuit-texas-attorney-general",
       "pubDate": "Fri, 23 Oct 2026 19:44:30 +0000",
@@ -271,18 +271,6 @@
       ]
     },
     {
-      "title": "Most polls have Talarico ahead of Paxton in the U.S. Senate race",
-      "link": "https://feeds.texastribune.org/link/16799/17404964/texas-us-senate-james-talarico-ken-paxton-polls",
-      "pubDate": "Fri, 07 Aug 2026 10:00:00 +0000",
-      "feedSource": "texastribune",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ]
-    },
-    {
       "title": "If Talarico loses, Texas Democrats may never win | Opinion - USA Today",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeFdydkJlc3NnN1FrQ3dMMEF6d1dLejZCMHM2RlBidk4tVW5nYjdYX1pBaGdra1JNaTFPR1lQcVZCdUJ5Y1RyRFdDQ05fY0dTWndQOEpER3IyZTc4aGVudnFQdXlTOWxGTXlfa3NGUk1vU1NVS2c5WC11TWVHSUdKckkwdEpCdG11OWtRUVhqczZxV3lubklOT3kxWEh1MzJQZzNOX3Bzd1RZZw?oc=5",
       "pubDate": "Mon, 26 Oct 2026 16:39:00 GMT",
@@ -292,6 +280,17 @@
         "talarico",
         "texas democrat",
         "texas democrats"
+      ]
+    },
+    {
+      "title": "Texas Abortion Estimates: Talarico vs. Paxton - Dallas Express",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZFpaNFdneENiaWcxWVh3bjBQTTU5U1NKWnJlbWxoakx6cXNnRVpPcW9Ubm13TURObDFTOGpTcDd2S1AxMmwxQXdPVEU1YTA4M0hDTDRsYktzcEpCWlh5UzVKY01SbXF6TnI2c2FibTNLR2dXVTJ5VWVhdFRJU05iSUJEcDNkMGFwd0pSLUNPZGxpZVhHRVU2RGptVW1peFlTS2FNaHprc25hUQ?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 15:02:02 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
       ]
     },
     {
