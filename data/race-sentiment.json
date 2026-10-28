@@ -1,9 +1,69 @@
 {
-  "analyzedAt": "2026-10-28T19:46:42.748Z",
-  "newsFetchedAt": "2026-10-28T19:01:13.915Z",
+  "analyzedAt": "2026-10-28T23:56:17.712Z",
+  "newsFetchedAt": "2026-10-28T23:26:21.683Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "How James Talarico’s Viral Voter Clash Could Prove Decisive in Texas - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPei1CZVl0bElNVjl1NDJVV0hZa0xDaTZjRjNCdjFJbi15eFpUNUhWNlA5aGtwYVlSWmxGV29ObFBOUENGYTFUV0tLZ0lrdHhhelpCVGM4Mk01VDd3cG1mb3VlRXotVUhzU05HRnZ5N19kYk1JMEVnZnBsN0g3emJiMWQyT1lVY0VweE5nX0h3?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 17:32:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W43",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "President Donald Trump smiles as Republican Texas U.S. Senate nominee Ken Paxton speaks at Trump's Republican Midterm Ally at the Lubbock Memorial Civic Center Oct. 27, 2026, in Lubbock, Texas. - The Daily News | Texas' Oldest Newspaper",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPbk9haFlQOTVoX0VrbGJuYk4xUTV2dUo4aVNWVl92cm04cURHWG43TTJaclJ0TlhQN1pvRWpDdWs1TVpVdVE3czh3TmNrWWhEel8tRGkycEszVXVTb1gxRndjYVR0eTA1MjJ2RkxVdzFQYUlCVUt1bFdSMHo0NndTWnotZHRmeUtEYnNpWGE2bkhtT3Y2R3AtRFU2N3VQX1lndUczS1FKWlJOZGUyTHNFOV9BZVRDaTQ4TmFoYUloOHZqdkRtaWNjSDlwUmZZb3dMZmhpalBMN1h2NGx1UGpHSm9XdXpGRndEdWhjYlpzUUEwVG0zQi1iLXNhWC1iVkRmY3Y5aGs4eEZia3BhMHc?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 10:09:24 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W43",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "James Talarico and Donald Trump’s Texas Rally Crowd Sizes Compared: Photos - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ3hUSDg4aU9DbEVaU0pzXzFQalRsa0RwUjVGbzBvY3JTeDhjODdrSndoUHRaQkNsbXprcmFvSDVsMjRzMk4wdFlaX1JEdTlocFdJVUFweVo5ekhORTlrakxSVTAyMWNNWDVwYzQwSE1walVrSnVzRERuWDNlWTFmRm9LT01mUGx2VHhfXzJNekxhbXlWUWJlRkpTVmJPWDZGOWZlYnRNRE8?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 09:40:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W43",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Fact-checking Paxton and Talarico political ads for Texas Senate Race - Click2Houston",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQm5KUlVZbXV4M1RKWG0wc1kxbU9aSWdVdkdQQmVvc2x3NEV1OGZLYi1vRHZ4V0h1WEFURjhzTF9KbUV1NERmbUJOYzdwT29EMW53bEpUV1JoR2dHb1JvZkZDRU9JTmNHOE1TYXZIc1VyWTJSX1NMQVN2VHVERkJZNUd4TkFpaF9lUklZNk15Z1NEbDFKR29kdUdEU0VfVHpOSjdHQWZCcDFDY29vRnlSXzRZbTBZeGRXZjI3QUU0UQ?oc=5",
@@ -2089,98 +2149,29 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "Neil Bush Breaks Republican Ranks, Proudly Casts Vote for James Talarico in Texas Senate Race - Houston Style Magazine",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc0xtQnRXM2dUdXhuSXhEMThPUWUzeUpsSFdmdjhFNEtWMFNDS2llU1A1b3hvTGVxZnY0cHNKUDlfTmh3V2dvLWcycG01V3FNX1dhWV9DTS11cktZY1ZEZGNBUnFwVHhlXzR6TGJ5cEhYZ19nemdyMVVqTWk3emJHVWotUzJrNlVBNVdwUlFfMDU2ZDAtZkEwVmQwNmZUcHNrVlJqWjY4TU5xREpyRGp2R1VtVnQwOU5LcU9ucHRHdEt6VGRfbFNQNXVJWkJ4U1hMUFE?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 01:02:11 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 28,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W43",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Texas Senate Race Enters Final Stretch as Paxton and Talarico Battle for Control - azat.tv",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fSzNBY0pXMFFxaFpWQTFyVnFwN1NnOUZTajNRZW5EdW9mRVMzTEtkTFhkRnZOOTVFLWUxaWJwN1MyQWE1SG5tU1VMNUkwT1hXR2lubm9FQy02MnBJWl8xbHQ5cVJkeUNkREE?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 19:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W43",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Thomas J. Henry Endorses Talarico Over Paxton in Texas Senate Race - Hoodline",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOS1pTlR6TVRqZWhxSUtxcTB0cGJSeVFBaWpsRVBUZmxGQnRHRHJET3lzTElaYnMxUTg3dGNTSnh1N2N3czBzeVlTSmhFU1NkNUJ6S3g4UWwzRGVpdlhrVkh2WjFUTWNkdjg2SFRxN1J3RmRNa0ItQU81QTJRRkFDbU41Y2dXN3pDb3EwQXQ0RlFDN1ZPNC0wZk9fcjJlZ1MzMnc?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 18:37:21 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W43",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
     "2026-W43": {
+      "talarico": {
+        "positive": 11,
+        "negative": 2,
+        "total": 30
+      },
+      "paxton": {
+        "positive": 0,
+        "negative": 2,
+        "total": 15
+      },
       "both": {
-        "positive": 9,
+        "positive": 8,
         "negative": 1,
-        "total": 39
+        "total": 37
       },
       "general": {
         "positive": 0,
         "negative": 1,
         "total": 17
-      },
-      "paxton": {
-        "positive": 0,
-        "negative": 2,
-        "total": 14
-      },
-      "talarico": {
-        "positive": 10,
-        "negative": 2,
-        "total": 29
       }
     },
     "2026-W32": {
