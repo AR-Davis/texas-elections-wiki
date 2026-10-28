@@ -4,6 +4,17 @@
   "source": "Wikipedia: 2026 United States Senate election in Texas (General election polling)",
   "polls": [
     {
+      "pollster": "YouGov Blue (D)",
+      "sponsor": "Democratic",
+      "date": "2026-10-21",
+      "sampleSize": 1000,
+      "marginError": 4.6,
+      "talarico": 51,
+      "paxton": 43,
+      "undecided": 2,
+      "method": "RV"
+    },
+    {
       "pollster": "Rasmussen Reports",
       "sponsor": "Independent",
       "date": "2026-10-20",

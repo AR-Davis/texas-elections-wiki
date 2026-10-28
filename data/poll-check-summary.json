@@ -1,8 +1,15 @@
 {
-  "lastChecked": "2026-10-28T17:28:13.331Z",
-  "wikiPollCount": 65,
-  "newPollsDetected": 0,
+  "lastChecked": "2026-10-28T21:48:37.112Z",
+  "wikiPollCount": 66,
+  "newPollsDetected": 1,
   "latestPolls": [
+    {
+      "pollster": "YouGov Blue (D)",
+      "date": "2026-10-21",
+      "paxton": 43,
+      "talarico": 51,
+      "undecided": 2
+    },
     {
       "pollster": "Rasmussen Reports",
       "date": "2026-10-20",
@@ -65,13 +72,6 @@
       "paxton": 49,
       "talarico": 48,
       "undecided": 2
-    },
-    {
-      "pollster": "University of Houston",
-      "date": "2026-10-10",
-      "paxton": 46,
-      "talarico": 48,
-      "undecided": 3
     }
   ]
 }

@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "detectedAt": "2026-10-28T21:48:37.111Z",
+      "pollster": "YouGov Blue (D)",
+      "date": "2026-10-21",
+      "paxton": 43,
+      "talarico": 51,
+      "undecided": 2
+    },
+    {
       "detectedAt": "2026-10-23T22:28:00.469Z",
       "pollster": "Rasmussen Reports",
       "date": "2026-10-20",
