@@ -15,6 +15,17 @@
       "method": "RV"
     },
     {
+      "pollster": "Texas Southern University",
+      "sponsor": "Independent",
+      "date": "2026-10-21",
+      "sampleSize": 2000,
+      "marginError": 2.2,
+      "talarico": 49,
+      "paxton": 47,
+      "undecided": 3,
+      "method": "LV"
+    },
+    {
       "pollster": "SSRS",
       "sponsor": "Independent",
       "date": "2026-10-20",
