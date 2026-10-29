@@ -15,6 +15,17 @@
       "method": "RV"
     },
     {
+      "pollster": "SSRS",
+      "sponsor": "Independent",
+      "date": "2026-10-20",
+      "sampleSize": 923,
+      "marginError": 4.2,
+      "talarico": 49,
+      "paxton": 43,
+      "undecided": 8,
+      "method": "LV"
+    },
+    {
       "pollster": "Rasmussen Reports",
       "sponsor": "Independent",
       "date": "2026-10-20",
@@ -111,6 +122,17 @@
       "talarico": 48,
       "paxton": 49,
       "undecided": 2,
+      "method": "LV"
+    },
+    {
+      "pollster": "Cor Strategies (R)",
+      "sponsor": "Republican",
+      "date": "2026-10-10",
+      "sampleSize": 1409,
+      "marginError": 2.6,
+      "talarico": 44,
+      "paxton": 40,
+      "undecided": 0,
       "method": "LV"
     },
     {
@@ -732,7 +754,7 @@
   ],
   "averages": {
     "talarico": 47.2,
-    "paxton": 45,
-    "undecided": 2
+    "paxton": 44.9,
+    "undecided": 2.1
   }
 }

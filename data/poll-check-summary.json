@@ -1,6 +1,6 @@
 {
-  "lastChecked": "2026-10-29T10:29:45.885Z",
-  "wikiPollCount": 66,
+  "lastChecked": "2026-10-29T11:50:37.730Z",
+  "wikiPollCount": 68,
   "newPollsDetected": 0,
   "latestPolls": [
     {
@@ -9,6 +9,13 @@
       "paxton": 43,
       "talarico": 51,
       "undecided": 2
+    },
+    {
+      "pollster": "SSRS",
+      "date": "2026-10-20",
+      "paxton": 43,
+      "talarico": 49,
+      "undecided": 8
     },
     {
       "pollster": "Rasmussen Reports",
@@ -65,13 +72,6 @@
       "paxton": 45,
       "talarico": 50,
       "undecided": 1
-    },
-    {
-      "pollster": "InsiderAdvantage",
-      "date": "2026-10-13",
-      "paxton": 49,
-      "talarico": 48,
-      "undecided": 2
     }
   ]
 }
