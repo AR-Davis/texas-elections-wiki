@@ -1,6 +1,22 @@
 {
   "updates": [
     {
+      "detectedAt": "2026-10-29T22:03:52.844Z",
+      "pollster": "ActiVote",
+      "date": "2026-10-22",
+      "paxton": 48,
+      "talarico": 52,
+      "undecided": 0
+    },
+    {
+      "detectedAt": "2026-10-29T22:03:52.844Z",
+      "pollster": "A2 Insights",
+      "date": "2026-10-23",
+      "paxton": 47,
+      "talarico": 50,
+      "undecided": 2
+    },
+    {
       "detectedAt": "2026-10-28T21:48:37.111Z",
       "pollster": "YouGov Blue (D)",
       "date": "2026-10-21",

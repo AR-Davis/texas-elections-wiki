@@ -1,8 +1,22 @@
 {
-  "lastChecked": "2026-10-29T17:39:10.325Z",
-  "wikiPollCount": 69,
-  "newPollsDetected": 0,
+  "lastChecked": "2026-10-29T22:03:52.845Z",
+  "wikiPollCount": 71,
+  "newPollsDetected": 2,
   "latestPolls": [
+    {
+      "pollster": "A2 Insights",
+      "date": "2026-10-23",
+      "paxton": 47,
+      "talarico": 50,
+      "undecided": 2
+    },
+    {
+      "pollster": "ActiVote",
+      "date": "2026-10-22",
+      "paxton": 48,
+      "talarico": 52,
+      "undecided": 0
+    },
     {
       "pollster": "YouGov Blue (D)",
       "date": "2026-10-21",
@@ -22,7 +36,7 @@
       "date": "2026-10-20",
       "paxton": 43,
       "talarico": 49,
-      "undecided": 8
+      "undecided": 5
     },
     {
       "pollster": "Rasmussen Reports",
@@ -58,20 +72,6 @@
       "paxton": 47,
       "talarico": 51,
       "undecided": 2
-    },
-    {
-      "pollster": "Pollfinity Research",
-      "date": "2026-10-15",
-      "paxton": 43,
-      "talarico": 48,
-      "undecided": 2
-    },
-    {
-      "pollster": "ActiVote",
-      "date": "2026-10-14",
-      "paxton": 48,
-      "talarico": 52,
-      "undecided": 0
     }
   ]
 }
