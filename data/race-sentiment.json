@@ -1,9 +1,30 @@
 {
-  "analyzedAt": "2026-10-29T05:07:29.227Z",
-  "newsFetchedAt": "2026-10-29T02:43:42.627Z",
+  "analyzedAt": "2026-10-29T11:40:41.280Z",
+  "newsFetchedAt": "2026-10-29T09:42:09.414Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Texas Senate race shatters U.S. spending record with Musk's millions - Texarkana Gazette",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVjExeHZuY0NCc285N2Q4MXRpMG1OV3FTUDdVYXJnMWp4SHQ3NE5lWnFkYmVtazNKY2VTaXhBXzlURG1XelNUYkl4VEJJVzU1NVJKX0F5bDU4YkFqQ2NVSEN5VUF2NjBVWFNtRGhfSjB3T0xlSTZYNUVTSnlVQXhEdkZRYU1wN19MLWgzc1pFd2VXVG9BdVZSTDdzcW8?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 09:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W44",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "The Texas Senate race has a wild card: Libertarian Ted Brown - Texomashomepage.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMnNTTjBfejlsMy1fU2tBd0JCeXg3RkRrblQ5S2dpTkpmcjlaaUtvYjYxcWNKQkppc2l3Zk1IblBlaEpyb1ZMSERDX2doeC05Ymg4S0dycWVBYWFlM2N3R1VyMlY3WVoydDBhWmVfTFl1R3ljR05mRlo5cVJTQUMtQ3p0cklEdDU0bG5nVDJQeDBBYzNJUTYtdE9tNkgyLTlhWWZTUFZ1NnRLczBEV093SnNn0gG3AUFVX3lxTE1TWHV1cE1nUWhtbG9lMDdvWVl6OFl1bEEwMDBXNDZiVnhaS0w0anZvZ2ZZUnNzV3MtZUYyVUlhUW0tVFJWWkozYkJBcHJVSWEzeE1kZjNxcXc1Y19Sb2dlTmpldjJlbFhuVjJPLS1oaUNrNWFsWm03dUw5enBfLTJZWUZKVVI5R0ZRdDVVWHRWdzVMX09ldG9NcU9HVGpJUDA0cVN2Y2Jad0NnaFlIbW5meFgySFFJaw?oc=5",
@@ -2121,31 +2142,21 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "Inside Texas Politics | Full Interview on previous U.S. Senate races with James Talarico - WFAA",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQbkhlZ2w5V1BrVmU1alBzdGYyWkdQRUpyOFJYVTRHNkdlVUw4UVIyTk1vX3ltX21FX0dPVGtNbjRvODFmZUtLZ0VWemNnQzNoRHMzYkNlcU04SWpiTmZMY0hTcFJQOFlKb0Q3QnlMcTBGaExycUlmVFVXeHJnRFA0M3FPbEZRRjA3ZkFyMGtKcE5MRzVqUXd2TXlwSmVVbTZCcjZfNVpwUFVCaWttNjU5UGEwZGVnRE1tOElPb2VRUGxxQlJnQTRrS0E3QnV5dXgwdTA5X2JONFBpcXBoTFFKRUN6ak9qdmtJcDJQWm90S1JOZXJQYkh6SWNfMFZvZDFERjRVVWc3cmVURjV2SDFRT0FkcU9CZWVseDQ1X2hrVk1NNjg?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 17:19:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 19,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "senate race",
-        "texas politics"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W43",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
+    "2026-W44": {
+      "general": {
+        "positive": 0,
+        "negative": 0,
+        "total": 1
+      },
+      "paxton": {
+        "positive": 1,
+        "negative": 0,
+        "total": 1
+      }
+    },
     "2026-W43": {
       "general": {
         "positive": 0,
@@ -2155,7 +2166,7 @@
       "talarico": {
         "positive": 11,
         "negative": 2,
-        "total": 29
+        "total": 28
       },
       "paxton": {
         "positive": 0,
@@ -2166,13 +2177,6 @@
         "positive": 8,
         "negative": 1,
         "total": 36
-      }
-    },
-    "2026-W44": {
-      "paxton": {
-        "positive": 1,
-        "negative": 0,
-        "total": 1
       }
     },
     "2026-W32": {
