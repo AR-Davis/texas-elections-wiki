@@ -1,8 +1,15 @@
 {
-  "lastChecked": "2026-10-30T11:43:33.185Z",
-  "wikiPollCount": 71,
-  "newPollsDetected": 0,
+  "lastChecked": "2026-10-30T17:17:24.823Z",
+  "wikiPollCount": 72,
+  "newPollsDetected": 1,
   "latestPolls": [
+    {
+      "pollster": "Quantus Insights",
+      "date": "2026-10-26",
+      "paxton": 49,
+      "talarico": 48,
+      "undecided": 1
+    },
     {
       "pollster": "A2 Insights",
       "date": "2026-10-23",
@@ -65,13 +72,6 @@
       "paxton": 49,
       "talarico": 49,
       "undecided": 0
-    },
-    {
-      "pollster": "Texas Public Opinion Research (D)",
-      "date": "2026-10-15",
-      "paxton": 47,
-      "talarico": 51,
-      "undecided": 2
     }
   ]
 }
