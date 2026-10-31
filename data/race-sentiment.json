@@ -1,9 +1,50 @@
 {
-  "analyzedAt": "2026-10-31T00:34:15.979Z",
-  "newsFetchedAt": "2026-10-30T23:58:43.858Z",
+  "analyzedAt": "2026-10-31T06:11:59.186Z",
+  "newsFetchedAt": "2026-10-31T05:23:35.310Z",
   "totalAnalyzed": 100,
-  "newThisRun": 5,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Most polls have Talarico ahead of Paxton in the U.S. Senate race",
+      "link": "https://feeds.texastribune.org/link/16799/17404964/texas-us-senate-james-talarico-ken-paxton-polls",
+      "pubDate": "Fri, 07 Aug 2026 10:00:00 +0000",
+      "feedSource": "texastribune",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W32",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Talarico slams Paxton at Dallas rally: 'Most corrupt politician in Texas' - Courthouse News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUkhUOUtUWkZTbUtYSmRfVFBTN3pSTkVOLU1hbWp4TzZTOEZIblh5TThhS29pU0g1ZDJtMUpqWlJDUFYxNU1YdGtRRUo4dTNBT1o4cWFEeHgtcGRPNER6UUMwUWpXbG5PM3RNbDZzSkNYVHJOUm95QWxEYkNkTzNmcFdUQ25uQkJlUEZHSGZNUUk4dlNqQ0UtazA2WnAtUWFESjVN?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 03:58:28 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W44",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Texas U.S. Senate election results: Ken Paxton vs. James Talarico in Nov. 3, 2026, midterms - KSAT",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTlhUaEdvam0xVFNvMlBXNnZoSnBMVUUxQXJoMWtGNE5LT3dNUGx4WmVoOWMzVVlKdVJlaGIxSGl0YkpVamFRVDFmWEhBWkVpVUlGMUxzOE5yajF4ZWRIOFNjbWNoYl91MGVfbjRaZ3h0TnlfU3gydUZUVDc5S0xNMU42alUxUXhMVV9yak5XclFUbzY2MG1zZ0VkRXppV01HaXhNLWF6UzNEV3lyMzRSRUtyZVJZRnpKcm5RcDhtaDJZNFFmdGc?oc=5",
@@ -2103,55 +2144,21 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "Texas Senate: Paxton, Talarico Now Tied - Rasmussen Reports",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaFBhVjdxbVNVTWlsZVU4Y193Nm0xWDVwTEhSbWdoUzRROC1WWHdDb3YzN3ZsUDBTd3I2S0habjJDTTJEX2Q5cmhOSVkxVk93VjhaWWx0MzRTN1FNSFAtbE9iemROamFFY2pYSTM5Y2ozMW1oUmlxUVpUNjVaQlFVcU1IVVZTUnFuSkdORnJSejFzaXV0bUwwdng5ZmoxcXN6WGRrZGRhZWQxU2M?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 07:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W43",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "James Talarico casts ballot in Austin on Friday - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOUdpeE55OHI2b2xVYTBJcjJVNlRBT0YwbDV2cFdCS2tIcUpIRHZyS0thdmM3Zjl0b3g0RDNpemRMXzhNYk1PVl9oWHV2eVJLVFJhY0tpODZ2Q2R6NV9UUGNHNlViU0hJVV9NTWZWaWhwXzJUMmVUVjV6TDBvcWd4UUdCYmR5YWRXRFRHSDdrdXR6bG5fM01FWQ?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 19:43:13 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W43",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
+    "2026-W32": {
+      "both": {
+        "positive": 0,
+        "negative": 0,
+        "total": 1
+      }
+    },
     "2026-W44": {
       "both": {
         "positive": 2,
         "negative": 0,
-        "total": 10
+        "total": 11
       },
       "general": {
         "positive": 1,
@@ -2173,7 +2180,7 @@
       "talarico": {
         "positive": 9,
         "negative": 2,
-        "total": 21
+        "total": 20
       },
       "paxton": {
         "positive": 1,
@@ -2181,9 +2188,9 @@
         "total": 13
       },
       "both": {
-        "positive": 5,
+        "positive": 4,
         "negative": 1,
-        "total": 29
+        "total": 28
       },
       "general": {
         "positive": 0,
