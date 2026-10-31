@@ -26,6 +26,17 @@
       "method": "LV"
     },
     {
+      "pollster": "Data for Progress (D)",
+      "sponsor": "Independent",
+      "date": "2026-10-23",
+      "sampleSize": 712,
+      "marginError": 4,
+      "talarico": 49,
+      "paxton": 45,
+      "undecided": 2,
+      "method": "LV"
+    },
+    {
       "pollster": "ActiVote",
       "sponsor": "Independent",
       "date": "2026-10-22",
@@ -797,7 +808,7 @@
     }
   ],
   "averages": {
-    "talarico": 47.3,
+    "talarico": 47.4,
     "paxton": 45,
     "undecided": 2
   }
