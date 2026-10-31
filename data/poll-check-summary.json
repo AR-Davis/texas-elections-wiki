@@ -1,8 +1,15 @@
 {
-  "lastChecked": "2026-10-31T11:17:53.237Z",
-  "wikiPollCount": 73,
-  "newPollsDetected": 0,
+  "lastChecked": "2026-10-31T16:12:18.573Z",
+  "wikiPollCount": 74,
+  "newPollsDetected": 1,
   "latestPolls": [
+    {
+      "pollster": "KStrat",
+      "date": "2026-10-27",
+      "paxton": 45,
+      "talarico": 48,
+      "undecided": 0
+    },
     {
       "pollster": "Quantus Insights",
       "date": "2026-10-26",
@@ -65,13 +72,6 @@
       "paxton": 49,
       "talarico": 51,
       "undecided": 0
-    },
-    {
-      "pollster": "Emerson College",
-      "date": "2026-10-17",
-      "paxton": 48,
-      "talarico": 49,
-      "undecided": 3
     }
   ]
 }
