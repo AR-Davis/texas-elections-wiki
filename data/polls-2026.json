@@ -15,7 +15,18 @@
       "method": "LV"
     },
     {
-      "pollster": "Quantus Insights",
+      "pollster": "YouGov",
+      "sponsor": "Independent",
+      "date": "2026-10-26",
+      "sampleSize": 2141,
+      "marginError": 2.9,
+      "talarico": 51,
+      "paxton": 47,
+      "undecided": 1,
+      "method": "LV"
+    },
+    {
+      "pollster": "Quantus Insights (R)",
       "sponsor": "Republican",
       "date": "2026-10-26",
       "sampleSize": 1221,
@@ -224,7 +235,7 @@
       "method": "LV"
     },
     {
-      "pollster": "Quantus Insights",
+      "pollster": "Quantus Insights (R)",
       "sponsor": "Republican",
       "date": "2026-10-09",
       "sampleSize": 854,
@@ -664,7 +675,7 @@
       "method": "RV"
     },
     {
-      "pollster": "Quantus Insights",
+      "pollster": "Quantus Insights (R)",
       "sponsor": "Republican",
       "date": "2026-06-03",
       "sampleSize": 800,
