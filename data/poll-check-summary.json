@@ -1,8 +1,22 @@
 {
-  "lastChecked": "2026-11-02T02:58:59.200Z",
-  "wikiPollCount": 76,
-  "newPollsDetected": 1,
+  "lastChecked": "2026-11-02T10:32:29.836Z",
+  "wikiPollCount": 78,
+  "newPollsDetected": 0,
   "latestPolls": [
+    {
+      "pollster": "Trafalgar Group (R)",
+      "date": "2026-11-01",
+      "paxton": 48,
+      "talarico": 48,
+      "undecided": 2
+    },
+    {
+      "pollster": "AtlasIntel",
+      "date": "2026-11-01",
+      "paxton": 45,
+      "talarico": 51,
+      "undecided": 3
+    },
     {
       "pollster": "New York Times/Siena University",
       "date": "2026-11-01",
@@ -58,20 +72,6 @@
       "paxton": 43,
       "talarico": 51,
       "undecided": 2
-    },
-    {
-      "pollster": "Texas Southern University",
-      "date": "2026-10-21",
-      "paxton": 47,
-      "talarico": 49,
-      "undecided": 3
-    },
-    {
-      "pollster": "SSRS",
-      "date": "2026-10-20",
-      "paxton": 43,
-      "talarico": 49,
-      "undecided": 5
     }
   ]
 }

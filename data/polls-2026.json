@@ -4,6 +4,28 @@
   "source": "Wikipedia: 2026 United States Senate election in Texas (General election polling)",
   "polls": [
     {
+      "pollster": "Trafalgar Group (R)",
+      "sponsor": "Republican",
+      "date": "2026-11-01",
+      "sampleSize": 1089,
+      "marginError": 2.9,
+      "talarico": 48,
+      "paxton": 48,
+      "undecided": 2,
+      "method": "LV"
+    },
+    {
+      "pollster": "AtlasIntel",
+      "sponsor": "Independent",
+      "date": "2026-11-01",
+      "sampleSize": 1678,
+      "marginError": 2,
+      "talarico": 51,
+      "paxton": 45,
+      "undecided": 3,
+      "method": "A"
+    },
+    {
       "pollster": "New York Times/Siena University",
       "sponsor": "Independent",
       "date": "2026-11-01",
@@ -841,8 +863,8 @@
     }
   ],
   "averages": {
-    "talarico": 47.4,
-    "paxton": 45,
-    "undecided": 1.9
+    "talarico": 47.5,
+    "paxton": 45.1,
+    "undecided": 2
   }
 }
