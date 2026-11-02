@@ -1,9 +1,31 @@
 {
-  "analyzedAt": "2026-11-01T21:52:02.978Z",
-  "newsFetchedAt": "2026-11-01T17:53:55.541Z",
+  "analyzedAt": "2026-11-02T01:22:52.583Z",
+  "newsFetchedAt": "2026-11-01T21:53:44.989Z",
   "totalAnalyzed": 100,
-  "newThisRun": 7,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Talarico Maintains His Lead in Texas Senate Race - Political Wire",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVl9CQlFOR1Z0MkprM2NyUkFrQ0ItaUU5TWRnemtHS0txLWoyZVNDTlVLd0s2Q0dHcUZyS21FM2QwUWwyWjFsbTJqbmNDMjg1VkhhSGVEVV9CcVlHZS1oeHFrUnhkRDE5M1lGRThyUl9qLWljb3FWUXMzRTV5VFliSmE1ZGk0RVRjM1JWY3ZaUQ?oc=5",
+      "pubDate": "Sun, 01 Nov 2026 18:38:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W44",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "\"Paxton Takes Orders From Texas Billionaires!\" James Talarico Slams Billionaire Influence In Texas - Oneindia",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaExfS0dqRHlGWkVRZy14b05NbTdHakJfWlFqQ05NUUFVU1hUVy1hUnRRb25qOUpBVW5iX3VTeGo3LTBlWEtaejlmak1PVTNkZWJmM0NmbFRUQVNkQktDNGtseGlYeURySS1IZ3NVMi0yZkk1RDlaYi1adllZTHJ1WkpYM3BTNDFmVE1QeC0tbWE5Y1A2VkMxNmp5UHZWa21UWkpuMHo5Qlg3cjM4cTJqREJLMXlUSEpKSHVrRjVxOFZQT0liMUp0YzRpR3pLMG1nNTlPQWZwcw?oc=5",
@@ -2122,30 +2144,15 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "Can Donald Trump turn out the voters Ken Paxton needs in Texas? - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdldCMHVVWnpTTWpsMV9GaVZ3MFRsNFA4X0JiM2ZydjE5QUh0NlRHSEVkODBoMzZGLTFIS2xuLVIxUF9kb3hfbjRMYTRmWWxuY3RwQ1dwOGVHNlN6aTZHRlJYRmhNMHN6eFhwa04wY0hPWDFFUGtPZGFkSmZYcDVOX3dOSEdqUWk2UUoxUVhR?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 16:28:34 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W43",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
     "2026-W44": {
+      "talarico": {
+        "positive": 4,
+        "negative": 1,
+        "total": 8
+      },
       "both": {
         "positive": 2,
         "negative": 2,
@@ -2155,11 +2162,6 @@
         "positive": 2,
         "negative": 0,
         "total": 14
-      },
-      "talarico": {
-        "positive": 3,
-        "negative": 1,
-        "total": 7
       },
       "paxton": {
         "positive": 3,
@@ -2183,7 +2185,7 @@
       "paxton": {
         "positive": 1,
         "negative": 0,
-        "total": 6
+        "total": 5
       },
       "both": {
         "positive": 0,
