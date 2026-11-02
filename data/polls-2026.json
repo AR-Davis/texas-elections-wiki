@@ -4,6 +4,17 @@
   "source": "Wikipedia: 2026 United States Senate election in Texas (General election polling)",
   "polls": [
     {
+      "pollster": "New York Times/Siena University",
+      "sponsor": "Independent",
+      "date": "2026-11-01",
+      "sampleSize": 1215,
+      "marginError": 3.4,
+      "talarico": 50,
+      "paxton": 43,
+      "undecided": 0,
+      "method": "LV"
+    },
+    {
       "pollster": "Kreate Strategies",
       "sponsor": "Independent",
       "date": "2026-10-27",
@@ -832,6 +843,6 @@
   "averages": {
     "talarico": 47.4,
     "paxton": 45,
-    "undecided": 2
+    "undecided": 1.9
   }
 }

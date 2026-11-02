@@ -1,6 +1,14 @@
 {
   "updates": [
     {
+      "detectedAt": "2026-11-02T02:58:59.199Z",
+      "pollster": "New York Times/Siena University",
+      "date": "2026-11-01",
+      "paxton": 43,
+      "talarico": 50,
+      "undecided": 0
+    },
+    {
       "detectedAt": "2026-10-31T16:12:18.572Z",
       "pollster": "KStrat",
       "date": "2026-10-27",
