@@ -1,9 +1,105 @@
 {
-  "analyzedAt": "2026-11-02T01:22:52.583Z",
-  "newsFetchedAt": "2026-11-01T21:53:44.989Z",
+  "analyzedAt": "2026-11-02T08:03:42.674Z",
+  "newsFetchedAt": "2026-11-02T01:24:15.841Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 5,
   "stories": [
+    {
+      "title": "Ken Paxton appears to cancel final rally of his “Come and Take It” tour at the Alamo",
+      "link": "https://feeds.texastribune.org/link/16799/17512198/ken-paxton-alamo-election-2026-james-talarico",
+      "pubDate": "Sat, 31 Oct 2026 22:51:16 +0000",
+      "feedSource": "texastribune",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W44",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas ICE agent indicted for striking fleeing Houston pedestrian with vehicle",
+      "link": "https://feeds.texastribune.org/link/16799/17511574/ice-agent-indictment-criminal-charges-texas",
+      "pubDate": "Fri, 30 Oct 2026 15:36:39 +0000",
+      "feedSource": "texastribune",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "harris county"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W44",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "In volatile Tarrant County, both political parties are on the prowl for moderate Republicans",
+      "link": "https://feeds.texastribune.org/link/16799/17512375/tarrant-county-midterm-election-moderate-republicans",
+      "pubDate": "Sun, 01 Nov 2026 11:00:00 +0000",
+      "feedSource": "texastribune",
+      "raceScore": 4,
+      "matchedKeywords": [
+        "tarrant county"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W44",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas Supreme Court blocks deposition intended to identify group behind transgender mailers",
+      "link": "https://feeds.texastribune.org/link/16799/17511679/texas-trans-mailers-supreme-court-block-deposition",
+      "pubDate": "Fri, 30 Oct 2026 20:38:58 +0000",
+      "feedSource": "texastribune",
+      "raceScore": 4,
+      "matchedKeywords": [
+        "travis county"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W44",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Harris County, Texas AG’s office reach agreement on removal of get-out-the-vote ad tags",
+      "link": "https://feeds.texastribune.org/link/16799/17510944/texas-attorney-general-lawsuit-harris-county-ads",
+      "pubDate": "Thu, 29 Oct 2026 22:19:23 +0000",
+      "feedSource": "texastribune",
+      "raceScore": 4,
+      "matchedKeywords": [
+        "harris county"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W44",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Talarico Maintains His Lead in Texas Senate Race - Political Wire",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVl9CQlFOR1Z0MkprM2NyUkFrQ0ItaUU5TWRnemtHS0txLWoyZVNDTlVLd0s2Q0dHcUZyS21FM2QwUWwyWjFsbTJqbmNDMjg1VkhhSGVEVV9CcVlHZS1oeHFrUnhkRDE5M1lGRThyUl9qLWljb3FWUXMzRTV5VFliSmE1ZGk0RVRjM1JWY3ZaUQ?oc=5",
@@ -2033,121 +2129,20 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "Texas Senate race heats up as Talarico, Paxton court voters with 10 days to go - KABB",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaWZFN3VLbGZwQTIyYUVaVkJUN3poU2MzQ3hrT1lZeFJWdnJETUVmVUhBWFE4dTNmeGE5RnprTmdFUDBWZ3ZnTjZYVXZWc1VfMEt2VEtUb210RXlIMXNFTFlqWmg4OS1kRnloaWc3eDBWbVBLdFdKaGtmV2tjcVpoSW11bG12Qm43YzJrZkhRWEtFdjBzb2xnLUtlUFpKV1ZUTlNjdHV0MFRhbDk4TWQyTVJ3UXctemJDQ3RnN3hLRUZ1aEVnaWlyUTZtYTJaYV96NU44MElRREl5Zw?oc=5",
-      "pubDate": "Sun, 25 Oct 2026 06:44:56 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W43",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Ken Paxton vs. James Talarico: Why the Texas Senate race matters and what's at stake - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMmpKSmx4RmcwU2oxZGZueGJ4OERxaTc5Ym8xVTM2NTlMOGNvNXlkTElGN3pnTXFpblM1Q0owVnJ1eHRxQUNNT2pYOUhoZGVVcF9Dd1ctX2pQRHRnbDNjc2RJRlU1cXFqS0hpZjE4eGZSYnRXNnoycXkzUTlnbkozVkI0RFZySm1kaWlIUkdjQ3g3VUpqUk9qMGlvQkRXNjJVQnhXOHlyUkNaN0NH?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 21:45:01 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 38,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W43",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "NRSC accuses Talarico of gun confiscation in Texas Senate race - Crypto Briefing",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb3BsTHZodGpVcTBQVk44M0w2TG9LVjUteDlyOGRWcGVjNXFVNXp2Qzk2M3NIWElITE9GSTFHUm1TekFWSzVrUEhEZlJXVW1jV1ZKZmtUc01BdUJhWl9PSjd0OGNCdWY2QWdSNmNGRlY0XzdJZjRGanNIN19qY1RyaGpCNU1yQ2prRmVEMEh3UldHczdv?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 00:11:45 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W43",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "James Talarico rallies El Paso crowd in final Texas Senate push - El Paso Times",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeVJXNmhQcFA5ZWhZUG9RbGctT0FXN0ZhY1piWWJrRk9vMVRYZFZzbWV0SGZGblB4ZHNuSWNFWUJfVTUxNWwyazNhaHRTdnpGYndtOEJvWkpwUEkyR0l2TEZMT0Z1V0VGR0xCNGZuaHJSZFFNRlppNFlWWC1IejhjV28xOVU3SmJWTElJTUZmelllcFU0bzNQSDdzMWx2UTV6X2hjYXpBelVXSm9FLXRpTmljbndzUzNpSHJ3bkNtcTd6MEU1N3ZUejFRRmJzdVc3MzE0N0VYMksxVnlLSnNWUWlkOUx3c0xxYmww?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 17:14:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 18,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W43",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Here's why Greg Abbott and Ken Paxton are blitzing deep-red Texas counties - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONGNSaldYSUlnZGdzczJEaERUckhob3NNWk1NODVPUnM1U0tKVEtVSFBPYklXNlNRQUMwd3V5LU8yM1JtQThVT29wRUY3bHoyOFBOb2o3ejIxNUZjRklnMW5vTjVvMTg3bmtwZnA4S2xGTDl3Sncza1VxOVdCVVlfRFBEb0xOcXNfaDBaTTNqUDlqM1dicWU2MUwzVkxCR0tJXzQ0?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 16:38:56 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W43",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
     "2026-W44": {
+      "paxton": {
+        "positive": 4,
+        "negative": 0,
+        "total": 11
+      },
+      "general": {
+        "positive": 2,
+        "negative": 1,
+        "total": 18
+      },
       "talarico": {
         "positive": 4,
         "negative": 1,
@@ -2157,16 +2152,6 @@
         "positive": 2,
         "negative": 2,
         "total": 44
-      },
-      "general": {
-        "positive": 2,
-        "negative": 0,
-        "total": 14
-      },
-      "paxton": {
-        "positive": 3,
-        "negative": 0,
-        "total": 10
       }
     },
     "2026-W32": {
@@ -2178,19 +2163,19 @@
     },
     "2026-W43": {
       "talarico": {
-        "positive": 5,
+        "positive": 4,
         "negative": 0,
-        "total": 9
+        "total": 7
       },
       "paxton": {
         "positive": 1,
         "negative": 0,
-        "total": 5
+        "total": 4
       },
       "both": {
         "positive": 0,
         "negative": 0,
-        "total": 6
+        "total": 4
       },
       "general": {
         "positive": 0,
