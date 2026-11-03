@@ -1,8 +1,19 @@
 {
   "race": "2026 Texas U.S. Senate (Paxton vs Talarico)",
-  "lastUpdated": "2026-11-02",
+  "lastUpdated": "2026-11-03",
   "source": "Wikipedia: 2026 United States Senate election in Texas (General election polling)",
   "polls": [
+    {
+      "pollster": "Research Co.",
+      "sponsor": "Independent",
+      "date": "2026-11-02",
+      "sampleSize": 450,
+      "marginError": 4.6,
+      "talarico": 49,
+      "paxton": 46,
+      "undecided": 1,
+      "method": "LV"
+    },
     {
       "pollster": "Trafalgar Group (R)",
       "sponsor": "Republican",
@@ -10,6 +21,17 @@
       "sampleSize": 1089,
       "marginError": 2.9,
       "talarico": 48,
+      "paxton": 48,
+      "undecided": 2,
+      "method": "LV"
+    },
+    {
+      "pollster": "Emerson College",
+      "sponsor": "Independent",
+      "date": "2026-11-01",
+      "sampleSize": 500,
+      "marginError": null,
+      "talarico": 50,
       "paxton": 48,
       "undecided": 2,
       "method": "LV"
@@ -23,7 +45,7 @@
       "talarico": 51,
       "paxton": 45,
       "undecided": 3,
-      "method": "A"
+      "method": "LV"
     },
     {
       "pollster": "New York Times/Siena University",
@@ -863,7 +885,7 @@
     }
   ],
   "averages": {
-    "talarico": 47.5,
+    "talarico": 47.6,
     "paxton": 45.1,
     "undecided": 2
   }
