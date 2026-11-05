@@ -1,9 +1,34 @@
 {
-  "analyzedAt": "2026-11-05T10:34:00.575Z",
-  "newsFetchedAt": "2026-11-05T07:13:51.195Z",
+  "analyzedAt": "2026-11-05T18:14:02.090Z",
+  "newsFetchedAt": "2026-11-05T15:43:10.503Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "James Talarico defeats Ken Paxton in Texas Senate race, flipping seat for Democrats - NBC Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc3NjTk95VHJ5VksyWEYxTDJNZkVDUV92SVFQTWpYQTV0ODkwS3VfdVB5X095bjZxN2RIYlpqZ2lva1RZU3lPS0dMM0VicEpOOUxqY09vWWZHeUJrdUt3Q2hqel9aZ1Z6SFE1V2dHMWR2Q1dSdTVubkd1NHlZVW1vS1hHOEg1SG5RM2NUQjdZS2VmTXVZZVhOX3V5WdIBowFBVV95cUxPREdHbnUyMVExUU9Wc2ZLNlYxSENZLXNIUmdSblBUMXRiMTVGSjZBemdsTnBKMTAtVGpvTDZtRlg3NmNmbnZJNGhaSnNVb0ZfUzk5V0Z0aFQ5TUUtUHhtZjh0bGVycEdBTEFaMTh4UDNuWk1fSjlKN004MXVqcHYzU1RZeW1HWUtFNmkyTVNlZXQ3YU15UWw0R01JcHNfN1E5cS1J?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 04:00:12 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 38,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W44",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Live election night results: Who won the Texas Senate race 2026 between Ken Paxton and James Talarico? - WCNC",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPT2V3MFpSMEg3WDBwVE5sV2hrX3VpUUdCN0pJV2FrTDhEQThWT1RWek5wWEZLLXNuTzZLanlwUWRnZ2k1MXpvNHJXaU8zYmZCakFnSjlGaEJOeVUtc3dEd3FoTzdCSGNWYS1NbEQwOFl0c0NJWW5wWV8tOTN4U3pndWFIOWlRejZrblFlNHJXOVF1MktJYi1td2hkM1dzSEd2N3JmSHdreVMwMFdOM3BvVzZtdmliQVBfcmNzZWFaRVJOMElzclB3TERzM1dfQm9XU1Q3cExYa0pqUS1DRmZWLTZoUQ?oc=5",
@@ -2227,27 +2252,6 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "The issue that could tip the scales in the Texas Senate race - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zZ281NnBzT2FQT1NGQWptaW5jQjB6N3ItOHJSdDk2TV9uNHBTTWZVaEVJN3pnMXZWQ0MxQTVQMDd4M1pFblBXc2ZEZGpoUHFOS3Q2UFIwMmF3WHotZEZxN0lUaFhic3pUYVV2NllYNjBWVE5KQlFxZW04SWVPdw?oc=5",
-      "pubDate": "Sun, 01 Nov 2026 14:37:06 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W44",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
@@ -2255,7 +2259,7 @@
       "both": {
         "positive": 17,
         "negative": 2,
-        "total": 70
+        "total": 71
       },
       "talarico": {
         "positive": 4,
@@ -2270,7 +2274,7 @@
       "general": {
         "positive": 0,
         "negative": 1,
-        "total": 16
+        "total": 15
       }
     }
   }
