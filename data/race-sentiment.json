@@ -1,9 +1,75 @@
 {
-  "analyzedAt": "2026-11-04T22:29:14.376Z",
-  "newsFetchedAt": "2026-11-04T18:31:58.536Z",
+  "analyzedAt": "2026-11-05T02:41:10.764Z",
+  "newsFetchedAt": "2026-11-05T00:15:23.054Z",
   "totalAnalyzed": 100,
   "newThisRun": 3,
   "stories": [
+    {
+      "title": "Ken Paxton’s Teflon-esque run ends in loss to James Talarico - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNkd5d1VQNktnMFdHRmdOdjdiSkNLWFQ1aHFGZ3hqZ1pIUEFJdGU1M084ek1maG1jTVZVMHgzbC1jNnl6QUllRGF1aWR1ZWMwSnMtOW1HTXY5Zlc3WWZPdkZHdjJER2Nld3VZMDVZajRTUXFVOUd6T1BXQzc1UEVNMDBBUUxzQ2Z3NHc4cVl1dW91SWNu?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 18:48:08 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W44",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "James Talarico wins Texas. Democrats can thank Ken Paxton | Opinion - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc203Wk1DdVhsVXNGYkhDNm9aVVQ0QUFQYzh3QUdjekFpbjJkS1dhOXgzejNHMFFFS1R1b1pNSEV6Znk2b0hGMzRGT3RUbi1qdVpfMkJzejhtRmF6RWs2OTF6TVBlNEtfTHBDdG9IYkl1WlBYajZFUGE1Tl91djYtWHhEYng2YXZ5TjhGYS1mRzhKaTV3NGtoRDhuNDN2Z1VQSmotT2dXOUlpdXN6OEVPVURDZzE3VkZMMDgzcHktdzhQUQ?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 11:27:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W44",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "James Talarico defeated Ken Paxton—and the world's richest man—to make history in Texas - Mother Jones",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQS1ZpWml0c2dJUlV0ek1kejJIWXg1NHRKTkZ0bXZDZG10ZmpQUW1UcG1iQzFrdG8zY0VueGtIc3pjQ2ZFYVlGNDM2V2t3eG1EOWt2dTJ2YjVaMUtBd21NNkR6dDRyZHNfdFFsUG84STE0OGxLdGd6NkIta3NGR0d5ME12aWtIcUdROFMwQVJpdTQwbDBvUUU1SlF5TzFFRTBz?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 04:12:41 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 23,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W44",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Democrat James Talarico will win Texas Senate race, defeating Ken Paxton - KOMU 8",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMlFoaW9LMXJZNGM5a01mTDNsSkFyN0hFUzh6NFFEeU9PM3RhS1FyM3J4SmszbUlHNTQwVWFmemd0djJUX0kzeWluT1BONVIwQk9sd3Q2M282T21nQkZjZEtmRUgzVzFUTWxDNURnblBWMWp1VmMtTS1xTWsxT3VWbElPZ1FZc18zYlZMVTZicDhJWVZ6X1BqTnhmWXRpN2ZsOWxVa2JuM05LdXlOMTQ2WUF1TVBLcm1KdWFuczk1eGt2OWZDMFFETWYtcGdERERoVTkyd1d5aDVNU2NKNGdYbm1uc1BNcFNMUEFjdVZB0gHzAUFVX3lxTE0wNXNqMzZlVVlSVjZPU0NhdDZKY2lwY0ozYklXYUNQckljOEVfTzRZVGhSb09CLUh1dFc0VS1QMXp0YjlZWFdfSHpCY0N6X3A1Ykx5NFc0TlpqbGxYYUU5Qkx5ZHZvbDNpNktHMjlwMlNNbTgwOXJVUTIzbDV1ejQzV0stYUdueE56ck5UQ3JpVnNWQVM4S09nbFpDZlBPdVdkdE00SGdUR0hycG9jbDRCdjR1ckNpeUc2cTR3YmlWYnBTY0k2bWk2Q0sxcWdocVlqMy14c2o3bTJYUTIzajlhOVdzSWZxLVBZOVR6YUdPZDhjRQ?oc=5",
@@ -2175,89 +2241,19 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "Washington Post. . The Texas Senate race between James Talarico and Ken Paxton (R) has revolved around the issue of government corruption, a top voter concern this election. Texas Republicans are scrambling to prevent the first Senate Democratic victory - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVEI5YlR2S2c2RVgzeGstYV96ZklyaXgySld3VmEwbmVKVFFGRWo2N3FfaXJseUJKQkVwb1Q0V241SG40SzViS096RnJYSXdnalZXTUQ0bHRhV3ZTdFZLTGNoX0Y3d09Rd2ZabXN4LXRVM2hhcDV3TF90YXVlNmJwdnVaVGdEWDJucEJDRTdyMkYzMzlTejRSd1dyLXRwOUJ2Mi1IU0g2Nmp3V0RFd0xrbE5NSFhFQU1QRmplcUpjdGlhMGpNbS1uZmlEU3hzOXBSVndUM0VMNXItaW5vYUE?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 23:30:04 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 41,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race",
-        "texas republican"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W44",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Texas Senate race heats up as James Talarico rallies hundreds in Houston ahead of Election Day - KHOU",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPS0ZWQzJDb01rUVd0d2ZFVnowU0l1c2dlQXBfTVA0d3F3SDRFb0lYZnpzLTQ2VUpXUU85TzNaVlFrVUtJdWtuZXVfWHBuemtqcTBvLXBEdmk1VGoyVXk2WVRRVlFYd1Q1eWF0b0tqY0dJazVta3huNFZySVVhcWJrd3cyVWt1c3N0c2RpNXlsZHZabHZWMWFjZFVjS1dIOFZvY2NLeU93ZDhOUUVWNjh6RlR5VVBGOExzaUpFTjVCTk9EM1dPd2Z1UVV2aEhhSHVTbXlzRUFtYzR3QTlCZ0FtTE8waGtESEtiSGhQNk5FY0ZMdFc1cm5EZWM3SzNiX3ozdF84?oc=5",
-      "pubDate": "Sun, 01 Nov 2026 03:21:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 28,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W44",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Paxton and Talarico tussle for Texas Senate seat. Trump to campaign virtually instead of in person - Click2Houston",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbUpZazZaVmU0R0g1elhRdDAwNUl5M1Y1ODd2dGpzOU1oQndobXdjSEgxWmg1U3dORVBjUTdaT3RfSTlXS19hTmNJSExaVmpiMHVCcTZUZDBGSE5KYnF6XzRwTFJYcFdzSlBCSHFYOEtod2tHS2NWb012VjhfR2s3bjZkRGhkUFAxRUxRamdFVlJFbFJyVUxGbEc0ajFGRHUwZnJwX0NJc0xyRTJYTDJ2TTU0a29PaWoyXzlrek43SFY3Z2ZUdmowelphdkpib01rQVlUd1J6VXdGalRqNjVFdFBBOHJfSU0?oc=5",
-      "pubDate": "Sat, 31 Oct 2026 19:05:42 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W44",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
     "2026-W44": {
       "both": {
-        "positive": 15,
+        "positive": 16,
         "negative": 2,
-        "total": 66
+        "total": 67
       },
       "talarico": {
-        "positive": 5,
+        "positive": 4,
         "negative": 1,
-        "total": 8
+        "total": 7
       },
       "paxton": {
         "positive": 3,
