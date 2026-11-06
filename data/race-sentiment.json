@@ -1,9 +1,53 @@
 {
-  "analyzedAt": "2026-11-06T05:53:12.553Z",
-  "newsFetchedAt": "2026-11-06T02:08:10.920Z",
+  "analyzedAt": "2026-11-06T13:59:25.780Z",
+  "newsFetchedAt": "2026-11-06T09:43:40.924Z",
   "totalAnalyzed": 100,
   "newThisRun": 2,
   "stories": [
+    {
+      "title": "Talarico Delivers Victory Speech After Winning Texas Senate Race - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcWI4d1d0OHlFeVhXczNnSUQ5XzUtNzlBVTVtOW5MeS1aN1BZQ296NkRNcXZobVZLRDY4NVZZajhzWXg2YnhxcG9tQjg0SDdjQzczMG51S19RdzlucTZZQ3BBelMxZ2xQN2UwQWNyRHFyY2k2YklOcTBiMGcxTW5Ob1ZWWTVhTE1yNXdMcWlRN0t6SFdLNVpDQkRXbUtCY25icTJPWkdCNXlfTTM4MVR3MlBfakJNYTU0cWJCOW9DdENSd05rUlJSVjd5UjRFQ3BWNGFYR2JWeXRVOWpRc1FsRVFnUk50TjVCcGVudXh3cTl2MnpMS1B4M01JQ2o?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 07:15:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W44",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Map: How did neighborhoods across Dallas County vote in the Texas Senate race? - Dallas News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWWJhYjZYX0pna3lMS2FXYlYwQ285cmd4Wi1CRFRJMUQ0Q2JtMXMxdktaOHdHN2hLRm4ybE9rWmFvQkxuVUtXaG1tRWJMYlF1T3dLT05tTXdRLTZCRFhtUHB3N3JYXzVrX2h1YzhSY21FbGs0V2w1SkRVTmtEa1FTUTV2SWRsQ1YtSmM5U2d0TGpuTG5YVFl1bkJUQkJONjhGcnc0Sm1uZl9nWHpjMnlr?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 18:15:14 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 20,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race",
+        "dallas county"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W44",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Talarico’s early vote alone surpassed Paxton’s total in Texas Senate race, data shows - KVIA",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeHA5ajhVWWRsR1VTbGE3SlJzRTZGWDRKejNxU1V0S0JmSHBmZzJuZXhvSjVzWHRzZmxRMlJOdjZUZV9lc2VsdWxxNExpbHVRVEczbWFKT1dwRVRtRUp5R2tsX0JiUHNUWThieTR3YnllckttYzVISnpkY05WRWhkVGx0aEpPZExJMEgxSk9CbjY0Ung4TktCQVM2cEJacTR1ZkhDYlRvNzNUWTAyNWFPQlZMVzRLTFF0T0U1NXNLRnJIby16Y2t6YVRqTEk?oc=5",
@@ -2224,74 +2268,36 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "Texas ICE agent indicted for striking fleeing Houston pedestrian with vehicle",
-      "link": "https://feeds.texastribune.org/link/16799/17511574/ice-agent-indictment-criminal-charges-texas",
-      "pubDate": "Fri, 30 Oct 2026 15:36:39 +0000",
-      "feedSource": "texastribune",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "harris county"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W44",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "In volatile Tarrant County, both political parties are on the prowl for moderate Republicans",
-      "link": "https://feeds.texastribune.org/link/16799/17512375/tarrant-county-midterm-election-moderate-republicans",
-      "pubDate": "Sun, 01 Nov 2026 11:00:00 +0000",
-      "feedSource": "texastribune",
-      "raceScore": 4,
-      "matchedKeywords": [
-        "tarrant county"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W44",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
-    "2026-W45": {
-      "both": {
+    "2026-W44": {
+      "talarico": {
+        "positive": 4,
+        "negative": 1,
+        "total": 8
+      },
+      "general": {
         "positive": 0,
         "negative": 0,
-        "total": 1
-      }
-    },
-    "2026-W44": {
+        "total": 11
+      },
       "both": {
         "positive": 18,
         "negative": 1,
         "total": 73
       },
-      "talarico": {
-        "positive": 4,
-        "negative": 1,
-        "total": 7
-      },
       "paxton": {
         "positive": 3,
         "negative": 1,
         "total": 7
-      },
-      "general": {
+      }
+    },
+    "2026-W45": {
+      "both": {
         "positive": 0,
-        "negative": 1,
-        "total": 12
+        "negative": 0,
+        "total": 1
       }
     }
   }
