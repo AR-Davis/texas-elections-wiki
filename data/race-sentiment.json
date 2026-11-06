@@ -1,9 +1,54 @@
 {
-  "analyzedAt": "2026-11-05T23:47:15.800Z",
-  "newsFetchedAt": "2026-11-05T21:51:30.601Z",
+  "analyzedAt": "2026-11-06T05:53:12.553Z",
+  "newsFetchedAt": "2026-11-06T02:08:10.920Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Talarico’s early vote alone surpassed Paxton’s total in Texas Senate race, data shows - KVIA",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeHA5ajhVWWRsR1VTbGE3SlJzRTZGWDRKejNxU1V0S0JmSHBmZzJuZXhvSjVzWHRzZmxRMlJOdjZUZV9lc2VsdWxxNExpbHVRVEczbWFKT1dwRVRtRUp5R2tsX0JiUHNUWThieTR3YnllckttYzVISnpkY05WRWhkVGx0aEpPZExJMEgxSk9CbjY0Ung4TktCQVM2cEJacTR1ZkhDYlRvNzNUWTAyNWFPQlZMVzRLTFF0T0U1NXNLRnJIby16Y2t6YVRqTEk?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 22:22:35 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 26,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W45",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Talarico projected to beat Ken Paxton, marking historic moment in Texas politics - KCENTV.com",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWk1ZMEc2OXhNRWhEeURHZGlLSHJXanY4bVk3eEUwNDFuMkRxSzUxZXRpemViV1M3cG9HbFk0Rk1HTjNpSkxmd0dvdXdOS3NWeVZ2M0dneWQ0aFRhYXdqWnRXbHMxdEhxTU5lbnBCZ1dNRTdkV2w2X2hRQUtEVnhLQjMzSzR0OTItdnBwTVNfalFMdEk2Y3pxNElyZFVlTnhfeFRrdVNFN1ZJTmhXUllCM09ZTU1zZ0dHUWNfRmctU3JzUWppaEhpMExYdXdhLTRXaFBhRERkR2ViWFRqc1BGRmVFdXVqWFdnQlIxNVdzblpNQQ?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 12:21:49 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 21,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "ken paxton",
+        "texas politics"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W44",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Washington Post. . State Rep. James Talarico (D) has defeated Texas's Republican attorney general, Ken Paxton, winning a seat in the U.S. Senate. How did voters shift the state from a deep-red stronghold to blue? Here's what the data shows. Read more: htt - Facebook",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYW1OTHhWVldTY2M3aWJ5V1FDS3ZvY21iU19SaDJScm4wOFVRc3d3U3l4Ym1IOXFReGFoUjJzeDhVN25YWEN5TEZWVkxqekt6QlVKeDU3OW9NMHE2bHQ1YjdDQzBMM2pyU182VG5VeFRjaGtGVHVyMDdLUVN2Wm5Jal9jcmQyWXJGUUQwYkNBVGlnLTlfcFF5WWV0R0RUem9FaHJzUHduamxyUE42UzNfVk1QdEhqd3dIY09KWDV5dTliZC1zMV9iNl9mb3VGQTBLV3FzSUNJb3hsWUtxcFE?oc=5",
@@ -2217,52 +2262,21 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "Texas Supreme Court blocks deposition intended to identify group behind transgender mailers",
-      "link": "https://feeds.texastribune.org/link/16799/17511679/texas-trans-mailers-supreme-court-block-deposition",
-      "pubDate": "Fri, 30 Oct 2026 20:38:58 +0000",
-      "feedSource": "texastribune",
-      "raceScore": 4,
-      "matchedKeywords": [
-        "travis county"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W44",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Harris County, Texas AG’s office reach agreement on removal of get-out-the-vote ad tags",
-      "link": "https://feeds.texastribune.org/link/16799/17510944/texas-attorney-general-lawsuit-harris-county-ads",
-      "pubDate": "Thu, 29 Oct 2026 22:19:23 +0000",
-      "feedSource": "texastribune",
-      "raceScore": 4,
-      "matchedKeywords": [
-        "harris county"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W44",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
+    "2026-W45": {
+      "both": {
+        "positive": 0,
+        "negative": 0,
+        "total": 1
+      }
+    },
     "2026-W44": {
       "both": {
         "positive": 18,
         "negative": 1,
-        "total": 72
+        "total": 73
       },
       "talarico": {
         "positive": 4,
@@ -2277,7 +2291,7 @@
       "general": {
         "positive": 0,
         "negative": 1,
-        "total": 14
+        "total": 12
       }
     }
   }
