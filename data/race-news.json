@@ -1,9 +1,23 @@
 {
-  "fetchedAt": "2026-11-08T13:04:19.117Z",
+  "fetchedAt": "2026-11-08T18:26:21.015Z",
   "count": 25,
   "feedsChecked": 8,
-  "itemsScanned": 113,
+  "itemsScanned": 110,
   "items": [
+    {
+      "title": "Democrat James Talarico defeats Republican Ken Paxton in Texas U.S. Senate race - Fort Worth Star-Telegram",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR3hqYzVYZy1jZUdEVzhLN2JjM09URDRkZTF6ZzVwZEp6dWdYVWllelpOcGx6QmEwbmxXcjB5YjI4U3lENkJaLU1UcUVZX1BvSTBSeFZKb0hrN3NJRkxHaDEzNXJxVl8xZDRvY2hTeWxXQzlrcXhQSXRwWmNFOTZ5eDk0bjhXX3F4eHllcVBR0gGOAUFVX3lxTE1IdjNMbnRBYXJvSndYSzgwQ2tyb3BUYWhlSzlHTzIyOTVrb0NDd2pPeFgwMW5rNHk0WkVvQm0zSmZGWFdTdEV1OFAtOVpvZVRxcjBMMFBoMGFZNlR3S1VyZVl0TTNKLU1jb3FiZ0VNTzY3SmRFVC1uaXQ0SFh5cllTdW54NEt4QWZzZHVFWWc?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 18:30:21 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 27,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ]
+    },
     {
       "title": "Talarico’s early vote alone surpassed Paxton’s total in Texas Senate race, data shows - KVIA",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeHA5ajhVWWRsR1VTbGE3SlJzRTZGWDRKejNxU1V0S0JmSHBmZzJuZXhvSjVzWHRzZmxRMlJOdjZUZV9lc2VsdWxxNExpbHVRVEczbWFKT1dwRVRtRUp5R2tsX0JiUHNUWThieTR3YnllckttYzVISnpkY05WRWhkVGx0aEpPZExJMEgxSk9CbjY0Ung4TktCQVM2cEJacTR1ZkhDYlRvNzNUWTAyNWFPQlZMVzRLTFF0T0U1NXNLRnJIby16Y2t6YVRqTEk?oc=5",
@@ -32,19 +46,6 @@
       ]
     },
     {
-      "title": "Texas Democrat James Talarico speaks out after projected win against Paxton - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeXU4UjFOdUExeFpjNEt4X3N4QVloLXN0akZGR2NlWndZTTVPOEJnN1Y2eXdiSEpzejQ0bkxyZzI3RzJBNEVjVlNpWGgyMzZJejQwWF9RYkhBRVFRYmViWEF0UkpzZDE2bFRLWTVJMERCS1VnUXNGbEp1Q21mZ1BzSlc4QzNiRTJvQzk4eE14RkRtWFd5YUx3bmVZcWV5cHotYVIw0gGoAUFVX3lxTFBVb0JMOTNiSVhEWThGR25OQjRpaVZLNWp5ZGxjdi1QTFFic0xVR0M0V0dKdVlWS1FyQ2EwX3daN21HbVZXb3RTZHRfMnViOFRiWmM0bjNVdTZqWTE5VTZxbGdxSV9sczdCU2JobjdFbFpNYUxjUl9lM2dSRGNWc21JWDFkd25kTUdIRUlnaUxwSFFLam1QRW5tcFZ3TzVaMkxvZExVeHFIYw?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 04:06:34 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 20,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "texas democrat"
-      ]
-    },
-    {
       "title": "Texas Senate: James Talarico (D) - The Well News",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU1g5UWR1Zi1zWHJhYzROYmtKZFJ3YUx1UVByYXZmNEN2TE1tcUlsQ2hXQ0d4bURCSXRyZTdzRTJRTXhlcXJhVGVnMkYwMlBldGRZM2JoOHFkM05WOU9xdE1salg2YWctNWluYThvSjNVa3FKN0xOMTJheFJkMTNBNXUzbzVneDQ1a3RNa3JaMWlicnJCa2h1Sk51M2F4c1RMc3ZwcA?oc=5",
       "pubDate": "Fri, 06 Nov 2026 20:47:18 GMT",
@@ -57,27 +58,15 @@
       ]
     },
     {
-      "title": "‘Favorite dosa on us’: Indian restaurant celebrates James Talarico’s Texas Senate win - The American Bazaar",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaVlSeEpmejhEQkVXcTNveUJTQmZVZ0JFSjI3NmViWm93cWJEN3Q3UmNxV1dhNF9Ua1ZHNWhqS0ZoMDRFLUgzVXJZRUdHaEdBMDg5M21kWWZtc2tKRlJoVjJaYy1WaHFHRS11bERjeUNLeTNJTm01Rk1nNkRRN2tFNk9TU3liZ3VNYUJ6Q1JaczhMcmstakw5WmVRVEhZcFFiMUwwY3pGQUdDdWplblQ3cU9MSQ?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 16:14:48 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate"
-      ]
-    },
-    {
-      "title": "Texas 2026 live primary election results: Cornyn and Paxton headed to runoff, Talarico advances - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaDdzclZQZjY4dW9wTl93S3JKZ2ZsbUlnTDBnNVlKb0p3SU0zRXI2V2Z3QjJJYmNKc1pzUFhlTjdURnIxelRSYVJEeHJITzRkZUxvdDdTR0F3NW1lNks0M1RaRWduUDEyOF9UbWVlcmhtejRDUU8zYzVraFdZRkJ1WDExSDU5SElJazdsVllLdEFNd9IBlwFBVV95cUxPQlR3VjMwVnBZQW5FVEowci1LbTFoelgxYk1NQTRWaFRrTm5Wd0pKU0x4Y1gzN25TNGpCSDRuX25MZWtfZEJmcnFtN0xDRFRMTXduMXpLV1NHaU5hZzN2ekhDREJXc3FZaEJVOTZMcmVTSG1TV3o3QXJaREtreVBtelVWYzVSSV9HdFFmbXpOMlkyMFJ5TkIw?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 02:44:45 GMT",
+      "title": "Texas Democrat James Talarico appears on ‘SNL’ following historic Senate win in state - KUTV",
+      "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPdURVLWctb25VcjhJaGlzZHF4WlBZeTgtd0U3U3p1Qll1bzdkTS1HdktpLUZHNnlQSFpjWDl1TkxFYjVYLVhIb0JnOEFvMEFSUUpicE1mTEFSUGFLaEdUWUhhLW43eW5NaHByczg5d3liNmJoSkdRLTB6emh2YjJrZ3BHRVEwTmw1TjRxaWFiekhqdm5qT01YNkVLUHlYMjZ1ZGQ1QjItNFRsSWthY0NqMU8zVU1jdEVwQVlXTF9hWjhqUW1ycEJOUVZEMC1fMWJaNllfZzZITXVLVGxGejNkM2liVEJqMzhHdnE4ckZzWGNGcUZMR3hzekNnZjIwSXFmUko5YmVTQnNfVHlxVFhBYzFKZkhmMVI2WTEwNU9tZFBYMVhQakVIdTJFY2djakN0amVxUjA5Q3JHNEJWUkxfVUZyYzBYY3V5aGRCejRyMl92cHBRbXRicmlWckNRXy04ODg2OGM2NTR1aG1QWEtCemh3TnhJRUxKZ0VLMm1RRUJSS2pXTFpWSGlSUXBQR3hlV2FyNThPLUcyRVE?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 16:41:59 GMT",
       "feedSource": "google-news-race",
       "raceScore": 15,
       "matchedKeywords": [
         "talarico",
-        "paxton",
-        "cornyn"
+        "james talarico",
+        "texas democrat"
       ]
     },
     {
@@ -93,15 +82,15 @@
       ]
     },
     {
-      "title": "Marshall in The Times: How Democrat James Talarico Won His Senate Race and Turned Texas Blue - Progressive Policy Institute",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNb1BUVzhtUE9XWTRHYjdhdG9SalpXWUFkeDNacTFndXFZcjI3am1HemRZaWRidXU0UDhWc0M0MHpuT253UFFOSHJuWjNyTFA2R1ZhVFFZdE4yc1lYMzFRMjZqemsyeTZmWWtjcUVMZEpRaHdCaG9QYUNZMDJFa0xoWlZ5ZnJNUEk2OU45VlBnLXQtQnZXQ2pUakdadmdUNWlFZ2lHdkQ0Nk50OVVTdDNPSy1KVEk3VGhGa21QdlF0YzR6VkVx?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 17:18:46 GMT",
+      "title": "Texas 2026 live primary election results: Cornyn and Paxton headed to runoff, Talarico advances - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaDdzclZQZjY4dW9wTl93S3JKZ2ZsbUlnTDBnNVlKb0p3SU0zRXI2V2Z3QjJJYmNKc1pzUFhlTjdURnIxelRSYVJEeHJITzRkZUxvdDdTR0F3NW1lNks0M1RaRWduUDEyOF9UbWVlcmhtejRDUU8zYzVraFdZRkJ1WDExSDU5SElJazdsVllLdEFNd9IBlwFBVV95cUxPQlR3VjMwVnBZQW5FVEowci1LbTFoelgxYk1NQTRWaFRrTm5Wd0pKU0x4Y1gzN25TNGpCSDRuX25MZWtfZEJmcnFtN0xDRFRMTXduMXpLV1NHaU5hZzN2ekhDREJXc3FZaEJVOTZMcmVTSG1TV3o3QXJaREtreVBtelVWYzVSSV9HdFFmbXpOMlkyMFJ5TkIw?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT",
       "feedSource": "google-news-race",
       "raceScore": 15,
       "matchedKeywords": [
         "talarico",
-        "james talarico",
-        "senate race"
+        "paxton",
+        "cornyn"
       ]
     },
     {
@@ -117,23 +106,67 @@
       ]
     },
     {
-      "title": "Republicans' grip on Texas is on the line in a close US Senate race between Paxton, Talarico - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdWlaTXVLd0JjLXNnaFdCVm1XWldtMVNwSVNjeHQ5SVFhYmJldHhSZTQ5THk2S0xpellfTmhtQVFEVVpSN0tKaVduQVlWQlZtQUl2MXlzdHl1cDZTdTZBUUUxY2U0MnllWUxobUxkd0JtLXhDZ2E4WHVDUEpKNGlLRXIwMlFSNEZMd082eE9mWjNNRjBWOUU2UnVJQ0wxQdIBowFBVV95cUxPd2Z1NFZ6aVRKMkV1WXVUS2FDTTRmV0Y0eUNmMUdpOXkwcFBHVU1XTy1ST2FCdWdVYklpcmxrOHE1TVIzM2RVOVpMQnhYNm5EMHE5YU5VR0NqSGg2T2I0UXM2MlVGU0pqcDhIazV4UHNWdk1objVFaHN4elVJZzVoQXVrSlNvMFdjSjkxbGc5OFNNNTFxRlJsa0duWmtuenpPYnYw?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT",
+      "title": "Watch as Texas Senator-elect James Talarico makes 'SNL' appearance - El Paso Times",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcVhLOEVKT1BXYllKUWRYemVBZG9lOVB2YUFPbVFYblQ3a2NuaEtZUUZhUV9sbTRabFVBWWNXVzdnMm50NEVOdGljYkE1TkJUdzRkb3ZHZlZacTdGbThlWVhpUG1ycWx5Qy0xMHRfbUFFVm95TkstYlRCY3A1eWxjSm5zT29ITTFZWjM4aWVtTm00SUt0Y1lBemxkdm4yaWhCLXZ1WFluR2JaMlozOXpiZGtVZW1jWlowUW12WHRYZHFjLUVIY0h6Wkkxa1dTdw?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 14:52:00 GMT",
       "feedSource": "google-news-race",
-      "raceScore": 14,
+      "raceScore": 13,
       "matchedKeywords": [
         "talarico",
-        "paxton",
-        "senate race"
+        "james talarico"
       ]
     },
     {
-      "title": "How James Talarico won Texas: 2026 Senate results by county - Dallas News",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYUdIeVBLWHZpMVJNeUhLWkxEeXhrU2tQSzhURVREMGZvVHl0c2VKUzVpRHBkU1lpcWpoTWxPSmcyc3NRbHBlRkhadTc1RWk0N3VrM08yZDk0U3lWOG9SLTNXd3BSTGprUEtmaG45a052M0NBT1NMY3JVNThUN3B1azM0RkVSUTFvaERZ?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 18:00:00 GMT",
+      "title": "Trump-backed Paxton will beat incumbent Cornyn in Texas GOP Senate runoff, AP projects - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbmNCQVBFclB5WnZlaks4UnZiUWVkenNZdTdkYlZKOEZRZFhYcGMxNDEyemhBYUt1bV9QaEFHdzBWcW1XMDZENFdZRkVSamZuWXFDa1dQX3VnTXF6ci1MdHptZVlkb2VRd05QamF3akJDVFJGdktUeWhXOGZ2OEVRNGY5QWtJVU45dHd5QUVodDdIb2Q00gGaAUFVX3lxTFA5Q0ZVS01wSmplbWVESnVkdTJWdDRBZHlDU0ZmRWlXS2dSa2VrZFdkay1PZ21sU2FGT0xwMmszQ0xBWkhXbU1NQ2RfVWNxU1lFb09hcE9PVVY1M0tIcE9ZZ2hoZmwtUEhHaVFhSG5Na09lMW5ubUVOZ0FSYXhFYzZYUUtIczdka05UalVjOGxxaEZyRU1nb1VtM1E?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT",
       "feedSource": "google-news-race",
       "raceScore": 13,
+      "matchedKeywords": [
+        "paxton",
+        "cornyn",
+        "texas gop"
+      ]
+    },
+    {
+      "title": "‘That’s Senator Talafreako’: James Talarico surprises ‘SNL’ audience - Dallas News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObkpuT2tDcWd2REdVYlFlUG1rZElwaldXTGo2QWZPOFhDUmo3UVplN2EyOUR6Y0I0M0FJaFVhSDRUNUJJMW84MUI1MG5tSFNIUzJRSzQ4UGlTNFI5ZF85RVgxeHZoZVNBUjJSLWlaTzV4VnN6UVVCRUhJUkVQNVdRNjUwLUFRYTVhdTlReExJU0kwUUJxV1pPR3hyNlVVaHE2UUstaFpBNjNnamZVZGM0X2VlSQ?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 16:30:57 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ]
+    },
+    {
+      "title": "SNL audience erupts as James Talarico drops in during cold open - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM1ZXeVQxSVlVVWJJWkhhS2FiUjVfOFJQQ1FuM2hINmxmdWE2VExWYkc1bkxSMXc1bFZKWDlrX0UyTTJ5WTdUWkcySng2WkV1T2YzS2JwbG1RbGd4aGxOMzVwYTFTWmhBWl9BSlZqYXA2TEJlQUo3NERzM2I1eXV1dkR6Y2RsZGJXYTV6Y2Qzd3pkM21MLWh3aGEzXy1ZOWFheFBwZ3hzd281UFVlM1lF?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 15:23:30 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ]
+    },
+    {
+      "title": "James Talarico pays respect in Houston before surprise 'SNL' cameo - Chron",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM2tmZUoxcjU1QkRjR1VSa1Z0VUlrU3dIQ3h2RXdpOWR6Z1NJN2d0NVdlM1dnNWlIMk9tUXZ1aVNwaFlOREdZejZuOEFXbGRGbV93VnJCWVFuNmRfTG9VZEJNSGxWOGtGeFVzN0R6cGVuTFAzbW5FdVJhSF9IdDNJNlJoMFJmbnc5b3ZXNQ?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 14:43:06 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ]
+    },
+    {
+      "title": "New Texas Senator James Talarico Crashed Donald Trump's Post-Midterm Cold Open on SNL - NBC TV",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObDl3SFAzOEozRFdTSmFkTXNhRTB6aFRra2ZtY3FJTmNfc0trSy0xNnZfcnVLM3U1NTJ3dXIyY3hqXy1nUWtNdjI1UHZqSlVOa2hlMWlDSmpnNFJCeUFKa2J6RnFYUFI5TlhyYm1YVzdkQ1RWWXkyUkMwVHVELXV0QXhBS3pkTjBvNWdSLUF2ZzFFY29qRVE?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 14:01:04 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
       "matchedKeywords": [
         "talarico",
         "james talarico"
@@ -173,11 +206,11 @@
       ]
     },
     {
-      "title": "‘Texas is blue’: Ted Cruz reacts to James Talarico’s historic Senate win as lone remaining statewide Republican - KWTX",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY25venNIQ0FvejJoYlNKR0ppaVBBZEZoQkZBWjlYTGxjT0hjNm5Nd0xXWEhBa3p4TlhwQU1tM3h0WFNEZHRpNDJtMF96SDJlcngxSUxqRnM4WUhNQjYxSlZNOElaM2w4ZVhEV1RMX1NINXZYQXhKcTNXQWhzbkhHSzYya09ETFlpZVJDVlFURElNVDg1b1RFZi1JLVczUnV1bUJrM1pWb0VZdDl6RVJ0aldpek9DT0MtemY3R0pFenozMkZsUWxrQ25FMHZQMjDSAeMBQVVfeXFMT0hPQ251SUp1SVpGY05UWkg0Vml0Yll6UmFYQ0FZMy1NUDlXOEljWDBnR1QxaWUxU0ZTb1FEa3czb1FTQnZyOEJFMEgxemdvTThYYnN1QkVKMkVVOGZiUFhrSjA2VTNjemFPemJhcjUtal96V1pNNXY2MkxTbjRlTTFGNWxEZmVqS29DMVowRVhlUG5faXhFYXF6RjJhczVLel9YSGhRXzJXa3YwbW5lSVVxSWVkVFNSNDdPcHJoTHhPa0xnNE1SamlOcnV2UFpQaTI3WUVHNjAydTZxRVhXMGtDZ00?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 14:08:00 GMT",
+      "title": "On ‘S.N.L.,’ James Talarico Gets to Interrupt Trump - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTm5GLXNMWFRPWHRWMGVTektVcWVrcFV2ZFpiZVZUdUxmN1ZpMnRSZTkydlh0bXhjWEtUODlGLTdscGN1czJNOHQ3aWJQejFpR3JGQnJ1TEtkc0lQSm00TnEzVmx2S3hyd1hNVXBiRFpJY1R1TDJYX2lJNU9rb18wWjAwQUM0d2FIMk1rVUxSZFlEX2ZPRF93VzhR?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 14:26:52 GMT",
       "feedSource": "google-news-race",
-      "raceScore": 12,
+      "raceScore": 11,
       "matchedKeywords": [
         "talarico",
         "james talarico"
@@ -239,17 +272,6 @@
       ]
     },
     {
-      "title": "Election triumphs, a series of scandals dot Ken Paxton's political timeline - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVlGUDlUSDhmNnllbllSSHVTQlNIcE1iTGRpcHVsdDZfN29hTlJpdDVLSW1fM05zbXhHb2pIM0RqU1NZcXhNUG52ZzJReEVrRkhsLUEwX3JfSjViZWZwdDliZlljWVVBNHpPVWRHRzcxakUzakhrQjV4a0g3SXVzX0NGWjFoSTNlLUIwdFRwanNadmw3azJIQ1JBNXM1blBlTUM5UUZtMDB5bDjSAbABQVVfeXFMUDQyZ0RKenVWMF9sYkRyM0QxZnREc0E2SE96a2R1ZUlEYm1EaWYzdkNobkU5cFR0LVdmQkl0c2ZUYURrbm1oNmhFci1xeUlRYXZjUlBUc3hUTnlYNnJqd1JGeUxQNjF0WEhUV1N6eFhjVWFKRDJSLXR3NGd6X0kwc2hlUDhwVFpPNHAyU0FHdTJfOXNvREs1WFdGNTdJZHR4Y19OVTg0V084RVBGSDNobGE?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ]
-    },
-    {
       "title": "The Many Meanings of James Talarico’s Cowboy Boots - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTk9zMkdrc3VTS08wbjBFLU84YUpiNmlWWlJ1blVoUHBPSEt6a1ZxQ2VZRzY4TldrTWFVVFVPZHhUc204M1IxaW93TmJhMjFxN1lhUHNIRmlpSkZpNnlwNFBKTUx0b2M2WXdyc295QktTWkVzQzN5ZlRzY3VGUFppYkFLVUtfaUh5bDhkeXEyZ0ZRdFBMR0E?oc=5",
       "pubDate": "Thu, 05 Nov 2026 22:08:28 GMT",
@@ -263,34 +285,12 @@
     {
       "title": "Talarico walks back comments on religion and gender after Paxton's win - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTlBjOGxUYUZyTnFyci04a1NVcWZMb1QwMmlXOGdxaThhd0dyRkM3cENLOGhxbUxQWDZadmtWR2ZVNDNMQVJfNG1QR2cyS2JkOHczdHR1SV9KMy1SaUJrZGdPXzAzUW92a1B1N2E1TkxoVWJHbzNqVmhBLW04NkQ1ei1xTy15R1pydjhnV1EwcEtWTlFDUlJvU2hmaU1BM01lWVBGWGhGY1Jpd9IBrwFBVV95cUxNR3ZxR0lCd3piTnlxTDFOQzZHQktKYldfSWV1dmNVcHloUlNfY28ycHR1Y054dnQxSXVDaTVUYU5pWXNadTFuak5OLTRMNWY5QXBYVW5HWmFvTGFPclU4dG9lR0tRTDgyZXRDTGVfRjNRRkdGbjhSeTRVTjZ2Vm1QbHVpUUpqam9MeUlfMXdvbFluOURGWmdidU5OcXA2X3hWQjE5dDhZb0VkcnFvUWFr?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 06:31:12 GMT",
+      "pubDate": "Sat, 07 Nov 2026 14:35:01 GMT",
       "feedSource": "google-news-race",
       "raceScore": 10,
       "matchedKeywords": [
         "talarico",
         "paxton"
-      ]
-    },
-    {
-      "title": "State of Texas: Attorney General-elect to review Paxton-era cases - KXAN Austin",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcWx5R3pMOWV3a0lCZUxTTkwzQVJpeVd2aDJfM3pXWVFlS0Iwd0ZkMFZUY202bjZnRHlMNFNTYk9mQi02ZmJPRU52d1h4bnhrcV8wNXo0XzBVUDNvX1BsOWNxMzIza2tRbDBHcUU3aFJmRjc0dHctSE9GbmpaMXhFM3RkMnpqSHFWQVUwV1hTMTRaOXlLT0t1M2JUMW1LYUVMV3U0?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 22:07:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 9,
-      "matchedKeywords": [
-        "paxton",
-        "attorney general"
-      ]
-    },
-    {
-      "title": "Former President Bush and Sen. Cornyn take part in fundraiser for battleground Senate candidates -- without Paxton - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRVNWemtQR2wteXBzeWZHald6YmRYSEVMcDc4X2QwQXh2OXVEMUNHRUJvNWRSOFlTME12WC05eHVqVUdwOVdGSGdzUDR5QUxzZlZfcFlqTjdxOVZIR0d3dDUxQU8zRFgxNFZ3Rnk4eE1leTMzQkxKdkhsVWxVSEtGbUNaOTJSWmxZRmhkbWtCenZoekNZcGlCQXFUbnExU2VNZ2ZzVzhTaW5XVG4tWkHSAbMBQVVfeXFMTjZYbXdrN1dxS2R1WkZydUFPSEV1LVExZElFLWdMeEkxOTFsNkNqcE5BOExCYzRINzlBaFR4VFZ4NEFKY3VLcFlsclBtelQwZllXQnFncmFaZmg2UTNTYmxLQkV5Y0JENnAxNzJud3dyeThTZFM3aGJMLTBsQ3pOQnFYMFpxWHV3WWk0RTMzQVVseVhwYzhPelF0TV83bFRfTEdfcHRCZi0yYnlHb2xwNUxHVTQ?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 9,
-      "matchedKeywords": [
-        "paxton",
-        "cornyn"
       ]
     }
   ]
