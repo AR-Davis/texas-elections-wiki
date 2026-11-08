@@ -1,9 +1,151 @@
 {
-  "analyzedAt": "2026-11-07T22:12:56.852Z",
-  "newsFetchedAt": "2026-11-07T20:03:23.299Z",
+  "analyzedAt": "2026-11-08T01:43:39.024Z",
+  "newsFetchedAt": "2026-11-07T23:50:32.435Z",
   "totalAnalyzed": 100,
-  "newThisRun": 10,
+  "newThisRun": 7,
   "stories": [
+    {
+      "title": "Texas Senate: James Talarico (D) - The Well News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU1g5UWR1Zi1zWHJhYzROYmtKZFJ3YUx1UVByYXZmNEN2TE1tcUlsQ2hXQ0d4bURCSXRyZTdzRTJRTXhlcXJhVGVnMkYwMlBldGRZM2JoOHFkM05WOU9xdE1salg2YWctNWluYThvSjNVa3FKN0xOMTJheFJkMTNBNXUzbzVneDQ1a3RNa3JaMWlicnJCa2h1Sk51M2F4c1RMc3ZwcA?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 20:47:18 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W45",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Trump-backed Paxton will beat incumbent Cornyn in Texas GOP Senate runoff, AP projects - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbmNCQVBFclB5WnZlaks4UnZiUWVkenNZdTdkYlZKOEZRZFhYcGMxNDEyemhBYUt1bV9QaEFHdzBWcW1XMDZENFdZRkVSamZuWXFDa1dQX3VnTXF6ci1MdHptZVlkb2VRd05QamF3akJDVFJGdktUeWhXOGZ2OEVRNGY5QWtJVU45dHd5QUVodDdIb2Q00gGaAUFVX3lxTFA5Q0ZVS01wSmplbWVESnVkdTJWdDRBZHlDU0ZmRWlXS2dSa2VrZFdkay1PZ21sU2FGT0xwMmszQ0xBWkhXbU1NQ2RfVWNxU1lFb09hcE9PVVY1M0tIcE9ZZ2hoZmwtUEhHaVFhSG5Na09lMW5ubUVOZ0FSYXhFYzZYUUtIczdka05UalVjOGxxaEZyRU1nb1VtM1E?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 08:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "paxton",
+        "cornyn",
+        "texas gop"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W45",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Democrat James Talarico flips a US Senate seat in Texas and sends a shock through the GOP - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZnNpMm9rTWRZTHktaEt6R2x6UFU5ekdPQjdCVi13MkdVQ00zRXlvU214OFhfeEVCdWRwMEEzTld2MXBBUU1OSVIzZ3ZoUFRSRXl2dkk0WVYtbmJxX0dqWnVIQ1VLX3V3YnFldVRGZzB0Tnp6SUIwem5LRWRjRkVEMi1uZ2c5UnFIM2dFcUItR2I2LVYyU3ZxLXJrUTFXMGwyelRZWWEzbERSQjMxR0N3WmYyNA?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 03:44:40 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W45",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Talarico walks back comments on religion and gender after Paxton's win - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTlBjOGxUYUZyTnFyci04a1NVcWZMb1QwMmlXOGdxaThhd0dyRkM3cENLOGhxbUxQWDZadmtWR2ZVNDNMQVJfNG1QR2cyS2JkOHczdHR1SV9KMy1SaUJrZGdPXzAzUW92a1B1N2E1TkxoVWJHbzNqVmhBLW04NkQ1ei1xTy15R1pydjhnV1EwcEtWTlFDUlJvU2hmaU1BM01lWVBGWGhGY1Jpd9IBrwFBVV95cUxNR3ZxR0lCd3piTnlxTDFOQzZHQktKYldfSWV1dmNVcHloUlNfY28ycHR1Y054dnQxSXVDaTVUYU5pWXNadTFuak5OLTRMNWY5QXBYVW5HWmFvTGFPclU4dG9lR0tRTDgyZXRDTGVfRjNRRkdGbjhSeTRVTjZ2Vm1QbHVpUUpqam9MeUlfMXdvbFluOURGWmdidU5OcXA2X3hWQjE5dDhZb0VkcnFvUWFr?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 08:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 10,
+      "matchedKeywords": [
+        "talarico",
+        "paxton"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W45",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Herman: How Texas Democrats finally found their way out of the desert - Austin American-Statesman",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOF9HdEVGOXNldnp3ZEdLRktUZ29NMW1mbVJ0bTkzRTVuUm9CNV92Smo4WUNFUVlwY0VaT093a290Sm1nOENod1U2eXhGZHBiNUZHWFpzbng1Sm8tUTg5dWpLQ05sWVVWZEppX3BvS25KY2hCQlIycklyanFpV1pkQ3U2UWJKZzhoTktRbGxEUDJ4LTBYb0czdFY3RDJRdmxSdTAtUXh3?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 11:07:44 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 8,
+      "matchedKeywords": [
+        "texas democrat",
+        "texas democrats"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W45",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "When will Gina Hinojosa take office? Key dates as Texas Democrats take control. - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOVd6LWd1RWZ1cFpPeG9XMXByd2t6VWVvbnBraGJQQy1CVlZ2UVFjVzVrX09KaG5wRF9JakFYV21nZ1kwVXNWMjg3N2NPWVgwcW9KcWlUdUFNN3ByWkRJNVZEa29XTW9fUXJsdDI2Z01jc1lyTUxNMXphS2NXNzJRTkNwSXRXWVl6aElWRldSSQ?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 08:39:39 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 8,
+      "matchedKeywords": [
+        "texas democrat",
+        "texas democrats"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W45",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas Democrats already angling to be the next House speaker",
+      "link": "https://feeds.texastribune.org/link/16799/17516206/texas-democrats-house-speaker-senfronia-thompson-eddie-morales",
+      "pubDate": "Thu, 05 Nov 2026 21:48:20 +0000",
+      "feedSource": "texastribune",
+      "raceScore": 8,
+      "matchedKeywords": [
+        "texas democrat",
+        "texas democrats"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W45",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Ken Paxton loses Texas US Senate race - FOX 7 Austin",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MeDRQNXRlbkQ1UkoxcFlQSlFlRGdjWk1aM2FhdE9KWnVodHNWZFFUYmRjYkdVNFIwR1FiRnIxa2kzTEwxanRjM01pTzFXY0VEMVV4YjZLZWtmaVBvai1VT3JyONIBaEFVX3lxTFB5M1JJX2E4d09mYmdaRVhhTG1nWlc3OWFKbFZJTlVUVkVTRWUxVXRrSHZYUXdDb2pZTl9VYWhhQWZTTVBFOUs4M3gyZnh0NnVveXdNVW1pdUljdTFSNTZqbFpWT0pudDk3?oc=5",
@@ -2055,179 +2197,36 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "Could Texas elect its first Democratic Senator in decades? Our election data reporter Christine Zhang discusses what counties to watch in the competitive Texas Senate race between James Talarico and Ken Paxton. https://nyti.ms/47RBidF - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNek8tWTZrSW41RHJXdjB6SFVyY2lfOG9VUzNMSmFTMzB2bkFPRmxaaDZtUEVJVGVGVFFCcU9GdEEzSloweEtIU1F3d0hvWVZ1MnFYdDlGS1JmUlFkNDJua0JaYzRpc25NUkE2a1l3QkloWG54X0gwNFo0VmdRakwyeVdzTjB3amxCUnNENlFQcl9SMzRkWXBfcTZucTRpM3lHTnFpWEtlaGVnY3JER2JlaDgxc3BSbjg5TTNxS05TRzJ3WGxpWEJuMEhJZ0hmUG95WDJj?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 20:08:56 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 38,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W44",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Texas Senate Election 2026 Live Updates: James Talarico takes on Ken Paxton in high-stakes race - Firstpost",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNmpQWk9nYTVLc0VNeHN2Q0Mtc01wSVNmOTg0eG9YZC15b0NaaFIxQUZlZlJyelNDdFZWSC1qRW9PZlZSQ3BINy1vYWdnckJuOWZ5N2xWVFV5TW4zdXhnVjhxQWZoZjJJQ1hYOXYwa3RfMkgwUS0wdFJxM19IVndENjhSbjhDSXpqN0FJQ2ozcXBlX0YxRGNzdkVFa1NhTDFkR01BUXgxLWhpdDZDeDFBZ21NOWVjVVdKbUFhQ3F1VlNiYXVyd1VlNVRmei1mV1HSAdQBQVVfeXFMTXRxYTRleTV5Z2ZiVzVKVjU5N01pV0FPYTRfWnVSY0hYWjN6X3JoRW5pS1d3SWdqbWYyVU5Vc0VHTm92MVVZdVdaTFpUQzk5Rm5GbW11dzFkdUZwTE5NS0ZXYkZhNXFTLXYzWXZMdVZiaUYtdkJCU0hCMHFGbUZPbGZyaFV1TVY4WWYzeUwzVFhoTDNPdjdSN1FvdHBuZFdONnlYN1JSNUpqRkp4cTIyVVZuZWUxVVhLaV9zWmxqSHUwcXd1WUJISlZaOVV0eW9PZDdWT0Q?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 21:39:50 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 31,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "texas senate",
-        "senate election"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W44",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Talarico vs Paxton Odds: How to Bet on the Texas Senate Race Ahead of Polls Closing - Oddschecker",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNUpuNFpVN1pfWE1TazhmU096YzBVMllQMWJzck5hSk1lcEhkeWo4eHQ1aDJKMmhIMzlTa3F0SFMyYmE4RGluNTZXZFFSWWVmdmZ5cmtrN09tSlZucmpTU3JkQWNFR1lOU3dDcmQwLWItcFhJc09PenpXUEZCT0UtZ2E0UVJLbHpTQ3BpWC1Fd3g0Qk1aS054eFRxeGZFR2tzb19YM1JUWjZBQlJEQWQ2NWR1SHFGU2JDcHNuUTVpbHJPemFQOUNVck5fc2JNeFdHelRHN0hlSGppLWVEVHhwTGJ3?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 21:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W44",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Texas Senate Race Vegas Odds: Paxton vs. Talarico - VegasInsider",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUHBxSG9jVnE3MU1oRmppYVBqZkNNMmNhRWdtSzRSOEl6aUo0QXBEbzVOTlNEU3k1cVFqYnVfak9qTjNabXM5VzZZR0YwWThQaWltdnJnU0w0RmJ1TXhPdDBjXzVod2tHX09wdG94OWtwV0NUYncydkRPNUNpSUtsZU9BWF9EYTNLT2hIdmZaUkhJNllRN1RfR0w1V2FqMUl6cFE?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 18:45:38 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W44",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Who Will Win Texas Senate Race? Talarico vs. Paxton Midterm Predictions &amp; Analysis - Covers.com",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU1BHTjB1YXZudU1tcGJsQU1DM3BFei1SMlVPVkN2OEV0cGkydjJ2eUp4TkxiY3o2LUdFSm1tb2J5dHJnWHM0T2l2bzYzQnBrWjJsdnR4SzY0UXN4U0lXbVZIZUxIbVg0TkR4OC10Z3B0aEdoX0hFUnFLWXVaSVpOUTdvQ0JJWnhpc0lWZndGa3lXUDd4TUxjX1ZHYVY?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 18:24:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W44",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Ken Paxton rallies Collin County Republicans in final push before Texas Senate election - NBC 5 Dallas-Fort Worth",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVi1Qbk1VV0FnQkxjVW13V1FORnlpSTUxLVNnMkJSZ1FPdzNJS2RheWdNbXZkcFgyaHlZQlVXd2RzN1M3WmhvTjBsX3hzTUE5ZXo0cjQ3NHhlUWZFOVp3X3pZTThzS3lCVFF3U2d1MXptVFhfR2tsQWxSRzhlNGZ2ejI2aUh6cWZhRUh6T3FSWmJvLXJkcm9fWHFseHJaNjFrSzJMa1dGSTBNNjJ0YVl4TUZxVGhBRXFCYzlVMEVTWHBLMzM4ZWlOaHVjclN5V25ObjFYc1JXRFdEbklhWDM3NGs0RmVDSUJjVWZENkNYa9IB9wFBVV95cUxORTJpVWJ0UXQ0d1hkT0lYS1FhbEtoTjVjOUxNbVdEVWp5b3kzejhDQzBtSWhidGlYU2t2SDFYbXBXb1RxQ0U3ajJqVTBxVllDZVRnSzVHM3hydmh0dFJTWk03eVVtWW5FbHZES25OUFRnc3lzWG1ackhIUDVNNm1sSTRSV1o1SXVvRjdDc0VPMk42cW84TkJvbVB2R1FFNVQ1UGxNQlZXbFZwdWhPckROS0RzZlFKM01MS2hzeHJweWJhOWQxNW5zSzBNbFRjWWdyVlhaWTdFOTNjREx3Nkl6NHlWSlNiNXlHQjBvX0F1dXlzbjljNTc0?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 04:14:37 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "texas senate",
-        "senate election"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W44",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Live results: Ken Paxton faces James Talarico in Texas Senate race - NewsNation",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMnA5N2xrSlNOUzJkanpZQk5JUy1zSUQ0UlJNMzFKS1N5UlBlM2NLcWFWczUxT08tRXZkVjBYQ1BlODRaQ1ZwY1pqQ3d6SXR6amZCZVc2QzVtNjVFN2pib1lpVW1mUl83OXQ5cVhxVXZDankyN1V5NTl1VG5ZSWQtdFA2N0NlZlRab2ZmSGpnSWZ5QTF3aEhuWFFuWjNIQdIBowFBVV95cUxNSDRFVHRGWU94QkUzVFhQWXZvSDY3bTg2bHhMYTNUWWlBQmtJQTFFMEFFQmlWaV8wZTAzeUV0cHBYVTI5dGhKcHpWMnYwUXRxY0J6bDJwVGd2c2lEdUQ2d2tSWVVnNm5kX1Z1bHBTZUtETFk5UTZ1NWVPZkdPM0UxUGs2NVNBLWh1SUVyemVhSkNZLWxWY3VUeXJpbDBsNnFWNV9v?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 16:02:46 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 38,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W44",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
+    "2026-W45": {
+      "talarico": {
+        "positive": 4,
+        "negative": 1,
+        "total": 16
+      },
+      "paxton": {
+        "positive": 0,
+        "negative": 0,
+        "total": 2
+      },
+      "both": {
+        "positive": 2,
+        "negative": 0,
+        "total": 5
+      },
+      "general": {
+        "positive": 0,
+        "negative": 0,
+        "total": 6
+      }
+    },
     "2026-W44": {
       "paxton": {
-        "positive": 1,
+        "positive": 0,
         "negative": 2,
-        "total": 6
+        "total": 5
       },
       "talarico": {
         "positive": 12,
@@ -2240,31 +2239,9 @@
         "total": 3
       },
       "both": {
-        "positive": 14,
+        "positive": 12,
         "negative": 1,
-        "total": 52
-      }
-    },
-    "2026-W45": {
-      "talarico": {
-        "positive": 4,
-        "negative": 1,
-        "total": 14
-      },
-      "both": {
-        "positive": 1,
-        "negative": 0,
-        "total": 4
-      },
-      "general": {
-        "positive": 0,
-        "negative": 0,
-        "total": 3
-      },
-      "paxton": {
-        "positive": 0,
-        "negative": 0,
-        "total": 1
+        "total": 46
       }
     }
   }
