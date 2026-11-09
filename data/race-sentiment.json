@@ -1,9 +1,89 @@
 {
-  "analyzedAt": "2026-11-08T23:55:39.194Z",
-  "newsFetchedAt": "2026-11-08T22:23:22.086Z",
+  "analyzedAt": "2026-11-09T05:34:44.947Z",
+  "newsFetchedAt": "2026-11-09T01:52:01.102Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 4,
   "stories": [
+    {
+      "title": "'That's Senator Talafreako': James Talarico makes surprise 'SNL' appearance - Austin American-Statesman",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ3J1cmlweTRoZkN4eWFuVTA1QUx2b2RqVE9Sd2p4WjJNVG5mbWxFV3ZTWjZPX0U1d1dwLVhGZU9rUjRJSEEwek1qaEdWWGppVEFzcnQ3N2YzTW10NlFRWUVlNllUUmYyM1Q2RkZHaGYta2FxaFVQeG9ULXNoTFhORS1sV3ZpTlBDa1ZCN1pGMms5UDI5Unk5NFIzckFXX19oQXBRY3ozNFZZcWRabEUxS2V6aloyMjNfdF93?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 15:39:49 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W45",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "New Texas senator-elect James Talarico makes surprise appearance on Saturday Night Live during yet another sketch mocking Trump - Daily Mail",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORmJUZVVhUXFETHFPX2poS2ZBU1pwaFl0VndEcDZBb0hzNmNweDlmNnlMY1k4d1FFYmpVMHB6T0NXbTlScUtBSlpRWFVUVi1HY2dnN2dxSy1mVEZBeVQ0OWJUSjkxZGdhYXd4Q3JxX0JSRDNKTmY5TE9paWtZOGpMT3l6TlZqaUROb0JOdGRfczVidER3RlBEV2ZlZ1NQRGd4UXNodXdHN3VuQU0tM3lyZUE0ZUlvUdIBuwFBVV95cUxNZWhNalJPeWpqMDlldlB4cHY5ZFh2RDIzV3VlS3YzNWJNTWtLQ0ppVFpscUI4VE1iSmQ2Z0pwNHFMWm5fRXFlZmtPbXVUZ3NsSGVBbmJhNkh1U1hPVHdPYnU5eV92dHFyUFA1RnJ2aFBXT1R0MVVsLTBKUExUaURVcEhIcVJQZXpFSklhMzlyWE4wSlNnYmQyT3BBZDZEYlliM0V4QUZMNWt4ZU9lVVFpbk9kME1GdVBwbFQ0?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 06:50:19 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W45",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "President Trump shares claims about 'unusual patterns' in midterm elections and questions James Talarico's victory in Texas... despite saying he would accept the results - Daily Mail",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONlpKdG51UUF2a0FiVjVScHpidUhBeEpJWktKcllhWkZpaW04S2NaNzYtWHBDSEc2NmcyVTFZZlE2ajZIRDU0TFhfUFduNS1wVnJWTVpwSWJ1RmxFb2hlU2V2TlUyQm42WllPem5CWWlHOGJ4SkE5YldCQ21qSERodTdQQ0EyY1E0SVducnZqU1BhTU95S1RfREJuZUxaM2VKX0JQUnllWU1MRUhwckxNMTJlOHdwRWRXTE0wLTVpR19mWU1mNkNVamlrVzI1Vmpta1J5aW9XWdIB3AFBVV95cUxQdnlBZFZUQUNUMDVzcG5JaEgtZ283VWdNYTB0U2g1Y3luelY3MWdlLWVXS3FneW5RdmRwZC1fdUVQTWdkbUx4dDdaalFyTXhZSGxuZEM5VmVqaktScEpnWnBzdTJqazd3SFM3VTBFSm1VLURNYjFVX0lQWDcxbGhueHVUSmlMTm1VSzdWZ18tcEJFMGRnYWIzMmVsNml1YVZtZWNPUkFyQ0ZOTElDM01jQkF5U1J5WlE5dXd0cVV5TFF2VkRnLUZEWjloU1Jzc0ZkTVhSRzNYRktMQ241?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 01:57:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W45",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Former President Bush and Sen. Cornyn take part in fundraiser for battleground Senate candidates -- without Paxton - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRVNWemtQR2wteXBzeWZHald6YmRYSEVMcDc4X2QwQXh2OXVEMUNHRUJvNWRSOFlTME12WC05eHVqVUdwOVdGSGdzUDR5QUxzZlZfcFlqTjdxOVZIR0d3dDUxQU8zRFgxNFZ3Rnk4eE1leTMzQkxKdkhsVWxVSEtGbUNaOTJSWmxZRmhkbWtCenZoekNZcGlCQXFUbnExU2VNZ2ZzVzhTaW5XVG4tWkE?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 00:49:43 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 9,
+      "matchedKeywords": [
+        "paxton",
+        "cornyn"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W45",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "James Talarico Makes Cameo Appearance on 'Saturday Night Live' - TMZ",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBaVFhrVzJfUk0yRE12dW5jNFlheUdWTUdNTHBsb3VMbGdvXzdXU0Uxc1hWOTJDWlJoZHBSOVlrS2tpemhWQ1lkLS1sSkVpSHVTaDJkNzlwWi11SGdON08zSGQyVVBtaEx2SlAyTVVR?oc=5",
@@ -2033,98 +2113,6 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "James Talarico flips Texas Senate seat after defeating Ken Paxton in upset - Chron",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd2FSOFFBT2FXeVNUclJWdjFpSncxdi1sUTVJVll2N2Fib3Q5dHlYcU85VF9fQmhhcHhvb1phQUFycEwwdTZnS0Ywc0M2QktRc0ZIdVAteVc3WERQRWMyZzVxOTZqV0xDV2R3RzlrZDBfX1FTamh5SFo0dHNRMzJ4bHNReVhDM0E5MHdxbkpB?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 05:13:43 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 28,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "texas senate"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W44",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "James Talarico Defeats Ken Paxton, Flipping Texas Senate Seat for the First Time Since 1988 - People.com",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUXoyMk1neHJpVzZ0dVd5Q2pKTnc3Y0thUm1vYXoxSXVWQkdLRk9UVlRMd3ZQWERBLThuUWE0NlBHd1hQenlDRjZ0bnliQ0ZoMDI5VFFET0Jyc19LRF9lWGc1NEt5MUVROXFtRDJieWlfM2hELWVOdGtHSlNzNkoyZXJibGxHU3AzSml0NG5QaEk?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 04:18:54 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 28,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "texas senate"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W44",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Democrat James Talarico turns Texas Senate seat blue, defeating Ken Paxton - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONmZWUUxrbnBaYWIxekJVdHliU090bXlTTmZlQ1REMWFyb21MaDg1bldsdFA2aVZTOTl5M0R1N0YzRU12OXBITDJaSmx6MDZqelBlaHRrU1I2cWx3V1lQdlczQktVNy12am9CX3VZRXN4c1JSX3RLREktYjFaalVIeFJuR0ZzZXFvSTVfV3FLaG9ONW45OFRaeTRZcHJvVXhSS0ZfTXZ2b09WVXVQVzRIamJCQUNIdw?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 03:53:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 28,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "texas senate"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W44",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "James Talarico wins Texas Senate race in a massive flip for Democrats - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdVo1TE9wcld5T1dmTnM5dk1fWU1zYmoxTDh1NG9XczBVVDdteEE0ejYxcTRfbXVWQUtDQTNFb2RxWnpJQVBSNEJnR19VVG5leGNmNFh5bnowWjhwTTlWdUhTVXlZejBMLTVFTUx0OS1XdUNlOERqTXhhZmJhZG0tLWFzZGktM1RBYk9TMW9HLWVadVhKeS1UdWpFbUR0WXBuV2dXaTJ2YUFOak82OHp4c0t3RDhRb1o5a2ZxU3NrVUNpdw?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 07:08:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W44",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
@@ -2132,7 +2120,12 @@
       "talarico": {
         "positive": 7,
         "negative": 3,
-        "total": 33
+        "total": 36
+      },
+      "paxton": {
+        "positive": 0,
+        "negative": 1,
+        "total": 8
       },
       "general": {
         "positive": 1,
@@ -2143,11 +2136,6 @@
         "positive": 2,
         "negative": 0,
         "total": 7
-      },
-      "paxton": {
-        "positive": 0,
-        "negative": 1,
-        "total": 7
       }
     },
     "2026-W44": {
@@ -2157,9 +2145,9 @@
         "total": 4
       },
       "talarico": {
-        "positive": 11,
+        "positive": 10,
         "negative": 0,
-        "total": 15
+        "total": 14
       },
       "general": {
         "positive": 0,
@@ -2169,7 +2157,7 @@
       "both": {
         "positive": 6,
         "negative": 1,
-        "total": 24
+        "total": 21
       }
     }
   }
