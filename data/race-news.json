@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-11-08T22:23:22.086Z",
+  "fetchedAt": "2026-11-09T01:52:01.102Z",
   "count": 25,
   "feedsChecked": 8,
-  "itemsScanned": 99,
+  "itemsScanned": 91,
   "items": [
     {
       "title": "James Talarico (D) defeated Ken Paxton (R) and five other candidates to win the general election for U.S. Senate in Texas - Ballotpedia News",
@@ -54,18 +54,6 @@
       ]
     },
     {
-      "title": "Attorney General-elect explains how he’ll enforce Texas abortion law, whether he’ll investigate Ken Paxton, more - WFAA",
-      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPeVBSaWxSWUVtWXZVWC1NaFhnLVczWWlUVzRlaWYtRFhyQXFnc2JrNDBKa0VBTi1MV2dxZy1HU251YkQwallvWGVUSXdfQUpvbzZjend2bVhOU2lqU1RuM05fZDdTNmI4LTFiSlRmaFYxVndESXI0dXNocG1zcnhsT2N5MVJmTHZFUkdRR085T3pVcy1iN3NQLVR6NEFqZkk3UDdUb1Q3RW5TcTV6M1hweFBza1BnYUhDQzZmTUhBeGt2UVpMRnpyUmk3QlBFc1E2ODk4aXZPQk1oLTd1TVpCNWx1SFFlN084ZVVPRmJvUWJZSEJhZU5Pb2NvM0tZN09EWEd4ZW1xaFctMWdhZlk2aXVySWVEdTZjbFQ5ejAwNjNWakRvbjJPUlczbl9kWVZBanZoT3o0WU0zTElncmQwNEZlLVFXdw?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 01:28:31 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "attorney general"
-      ]
-    },
-    {
       "title": "Watch as Texas Senator-elect James Talarico makes 'SNL' appearance - El Paso Times",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcVhLOEVKT1BXYllKUWRYemVBZG9lOVB2YUFPbVFYblQ3a2NuaEtZUUZhUV9sbTRabFVBWWNXVzdnMm50NEVOdGljYkE1TkJUdzRkb3ZHZlZacTdGbThlWVhpUG1ycWx5Qy0xMHRfbUFFVm95TkstYlRCY3A1eWxjSm5zT29ITTFZWjM4aWVtTm00SUt0Y1lBemxkdm4yaWhCLXZ1WFluR2JaMlozOXpiZGtVZW1jWlowUW12WHRYZHFjLUVIY0h6Wkkxa1dTdw?oc=5",
       "pubDate": "Sun, 08 Nov 2026 14:52:00 GMT",
@@ -92,6 +80,17 @@
       "title": "‘That’s Senator Talafreako’: James Talarico surprises ‘SNL’ audience - Dallas News",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObkpuT2tDcWd2REdVYlFlUG1rZElwaldXTGo2QWZPOFhDUmo3UVplN2EyOUR6Y0I0M0FJaFVhSDRUNUJJMW84MUI1MG5tSFNIUzJRSzQ4UGlTNFI5ZF85RVgxeHZoZVNBUjJSLWlaTzV4VnN6UVVCRUhJUkVQNVdRNjUwLUFRYTVhdTlReExJU0kwUUJxV1pPR3hyNlVVaHE2UUstaFpBNjNnamZVZGM0X2VlSQ?oc=5",
       "pubDate": "Sun, 08 Nov 2026 16:30:57 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ]
+    },
+    {
+      "title": "'That's Senator Talafreako': James Talarico makes surprise 'SNL' appearance - Austin American-Statesman",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ3J1cmlweTRoZkN4eWFuVTA1QUx2b2RqVE9Sd2p4WjJNVG5mbWxFV3ZTWjZPX0U1d1dwLVhGZU9rUjRJSEEwek1qaEdWWGppVEFzcnQ3N2YzTW10NlFRWUVlNllUUmYyM1Q2RkZHaGYta2FxaFVQeG9ULXNoTFhORS1sV3ZpTlBDa1ZCN1pGMms5UDI5Unk5NFIzckFXX19oQXBRY3ozNFZZcWRabEUxS2V6aloyMjNfdF93?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 15:39:49 GMT",
       "feedSource": "google-news-race",
       "raceScore": 12,
       "matchedKeywords": [
@@ -144,9 +143,31 @@
       ]
     },
     {
+      "title": "New Texas senator-elect James Talarico makes surprise appearance on Saturday Night Live during yet another sketch mocking Trump - Daily Mail",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORmJUZVVhUXFETHFPX2poS2ZBU1pwaFl0VndEcDZBb0hzNmNweDlmNnlMY1k4d1FFYmpVMHB6T0NXbTlScUtBSlpRWFVUVi1HY2dnN2dxSy1mVEZBeVQ0OWJUSjkxZGdhYXd4Q3JxX0JSRDNKTmY5TE9paWtZOGpMT3l6TlZqaUROb0JOdGRfczVidER3RlBEV2ZlZ1NQRGd4UXNodXdHN3VuQU0tM3lyZUE0ZUlvUdIBuwFBVV95cUxNZWhNalJPeWpqMDlldlB4cHY5ZFh2RDIzV3VlS3YzNWJNTWtLQ0ppVFpscUI4VE1iSmQ2Z0pwNHFMWm5fRXFlZmtPbXVUZ3NsSGVBbmJhNkh1U1hPVHdPYnU5eV92dHFyUFA1RnJ2aFBXT1R0MVVsLTBKUExUaURVcEhIcVJQZXpFSklhMzlyWE4wSlNnYmQyT3BBZDZEYlliM0V4QUZMNWt4ZU9lVVFpbk9kME1GdVBwbFQ0?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 06:50:19 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ]
+    },
+    {
       "title": "James Talarico, the new senator-elect of Texas, has a message for Trump in ‘SNL’ cold open - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRkpRRTVBRjUwNzF5YzhubjFNZWdxUVppMXJmRl9FMDJRSDdWYTNNaDVXMGlIS1FSaGJvQTFqeWFkZDBndmhvSDdSY2xfaUdzSzJQQ01rLWdzblZLeHlOdGFxNUZnWERvMmdmSWVZZ0hlNFp0Z2I4X3dYRUhiT0ZpV2VWZmRwa1hjQ1lZS2ZSVkFOYkVkUzl6MU9JdGdtQVZ1TlRhbW5HYVk?oc=5",
       "pubDate": "Sun, 08 Nov 2026 05:30:04 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ]
+    },
+    {
+      "title": "President Trump shares claims about 'unusual patterns' in midterm elections and questions James Talarico's victory in Texas... despite saying he would accept the results - Daily Mail",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONlpKdG51UUF2a0FiVjVScHpidUhBeEpJWktKcllhWkZpaW04S2NaNzYtWHBDSEc2NmcyVTFZZlE2ajZIRDU0TFhfUFduNS1wVnJWTVpwSWJ1RmxFb2hlU2V2TlUyQm42WllPem5CWWlHOGJ4SkE5YldCQ21qSERodTdQQ0EyY1E0SVducnZqU1BhTU95S1RfREJuZUxaM2VKX0JQUnllWU1MRUhwckxNMTJlOHdwRWRXTE0wLTVpR19mWU1mNkNVamlrVzI1Vmpta1J5aW9XWdIB3AFBVV95cUxQdnlBZFZUQUNUMDVzcG5JaEgtZ283VWdNYTB0U2g1Y3luelY3MWdlLWVXS3FneW5RdmRwZC1fdUVQTWdkbUx4dDdaalFyTXhZSGxuZEM5VmVqaktScEpnWnBzdTJqazd3SFM3VTBFSm1VLURNYjFVX0lQWDcxbGhueHVUSmlMTm1VSzdWZ18tcEJFMGRnYWIzMmVsNml1YVZtZWNPUkFyQ0ZOTElDM01jQkF5U1J5WlE5dXd0cVV5TFF2VkRnLUZEWjloU1Jzc0ZkTVhSRzNYRktMQ241?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 01:57:00 GMT",
       "feedSource": "google-news-race",
       "raceScore": 12,
       "matchedKeywords": [
@@ -210,17 +231,6 @@
       ]
     },
     {
-      "title": "Election triumphs, a series of scandals dot Ken Paxton's political timeline - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVlGUDlUSDhmNnllbllSSHVTQlNIcE1iTGRpcHVsdDZfN29hTlJpdDVLSW1fM05zbXhHb2pIM0RqU1NZcXhNUG52ZzJReEVrRkhsLUEwX3JfSjViZWZwdDliZlljWVVBNHpPVWRHRzcxakUzakhrQjV4a0g3SXVzX0NGWjFoSTNlLUIwdFRwanNadmw3azJIQ1JBNXM1blBlTUM5UUZtMDB5bDjSAbABQVVfeXFMUDQyZ0RKenVWMF9sYkRyM0QxZnREc0E2SE96a2R1ZUlEYm1EaWYzdkNobkU5cFR0LVdmQkl0c2ZUYURrbm1oNmhFci1xeUlRYXZjUlBUc3hUTnlYNnJqd1JGeUxQNjF0WEhUV1N6eFhjVWFKRDJSLXR3NGd6X0kwc2hlUDhwVFpPNHAyU0FHdTJfOXNvREs1WFdGNTdJZHR4Y19OVTg0V084RVBGSDNobGE?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 17:18:54 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ]
-    },
-    {
       "title": "Ken Paxton heard saying Trump's GOP midterm convention hurt him: Report - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUXVpUG0zRXVVVUI0bm5WbEQ0VkVuclE0akVXUEdZdUk0bndvYmx0SzRNRTl1aE92di02R0didldwLS1NRmxTNkJybGVTNjhfTmkxQ3BRVmR4U2JhcUh5aThCRm9MSHhjcmxXTktQYmZILUU5NHgxMlhKbm5zUGt5V19mZmljeDAxUjBLLVBHeXNDaVUyY0JTYk1jODlYQ2Fm0gGmAUFVX3lxTFBERU5TcjVYUjdiTXQ3RmhNWF9NZlYzRWZId0tPRmZtdWlJSFdhWUJiMVE4TlVxVWVFNjJlbWprdkN3RDNkUlN6Ul9rbmRfM2FTTGdFXzBKZWNjRVJzcndCTWQ2cEZzNkx3RVVqT1BRSFdpNXJtYmxBNkxPY1ktTDMwMGU2UGFxX1FDR2lhUHEyYTJRNG9FN0VyS2l2RGM3SGtDN3Myc3c?oc=5",
       "pubDate": "Sat, 07 Nov 2026 17:01:21 GMT",
@@ -229,17 +239,6 @@
       "matchedKeywords": [
         "paxton",
         "ken paxton"
-      ]
-    },
-    {
-      "title": "Talarico walks back comments on religion and gender after Paxton's win - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTlBjOGxUYUZyTnFyci04a1NVcWZMb1QwMmlXOGdxaThhd0dyRkM3cENLOGhxbUxQWDZadmtWR2ZVNDNMQVJfNG1QR2cyS2JkOHczdHR1SV9KMy1SaUJrZGdPXzAzUW92a1B1N2E1TkxoVWJHbzNqVmhBLW04NkQ1ei1xTy15R1pydjhnV1EwcEtWTlFDUlJvU2hmaU1BM01lWVBGWGhGY1Jpd9IBrwFBVV95cUxNR3ZxR0lCd3piTnlxTDFOQzZHQktKYldfSWV1dmNVcHloUlNfY28ycHR1Y054dnQxSXVDaTVUYU5pWXNadTFuak5OLTRMNWY5QXBYVW5HWmFvTGFPclU4dG9lR0tRTDgyZXRDTGVfRjNRRkdGbjhSeTRVTjZ2Vm1QbHVpUUpqam9MeUlfMXdvbFluOURGWmdidU5OcXA2X3hWQjE5dDhZb0VkcnFvUWFr?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 14:35:01 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 10,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
       ]
     },
     {
@@ -255,8 +254,8 @@
     },
     {
       "title": "Former President Bush and Sen. Cornyn take part in fundraiser for battleground Senate candidates -- without Paxton - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRVNWemtQR2wteXBzeWZHald6YmRYSEVMcDc4X2QwQXh2OXVEMUNHRUJvNWRSOFlTME12WC05eHVqVUdwOVdGSGdzUDR5QUxzZlZfcFlqTjdxOVZIR0d3dDUxQU8zRFgxNFZ3Rnk4eE1leTMzQkxKdkhsVWxVSEtGbUNaOTJSWmxZRmhkbWtCenZoekNZcGlCQXFUbnExU2VNZ2ZzVzhTaW5XVG4tWkHSAbMBQVVfeXFMTjZYbXdrN1dxS2R1WkZydUFPSEV1LVExZElFLWdMeEkxOTFsNkNqcE5BOExCYzRINzlBaFR4VFZ4NEFKY3VLcFlsclBtelQwZllXQnFncmFaZmg2UTNTYmxLQkV5Y0JENnAxNzJud3dyeThTZFM3aGJMLTBsQ3pOQnFYMFpxWHV3WWk0RTMzQVVseVhwYzhPelF0TV83bFRfTEdfcHRCZi0yYnlHb2xwNUxHVTQ?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 16:59:58 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRVNWemtQR2wteXBzeWZHald6YmRYSEVMcDc4X2QwQXh2OXVEMUNHRUJvNWRSOFlTME12WC05eHVqVUdwOVdGSGdzUDR5QUxzZlZfcFlqTjdxOVZIR0d3dDUxQU8zRFgxNFZ3Rnk4eE1leTMzQkxKdkhsVWxVSEtGbUNaOTJSWmxZRmhkbWtCenZoekNZcGlCQXFUbnExU2VNZ2ZzVzhTaW5XVG4tWkE?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 00:49:43 GMT",
       "feedSource": "google-news-race",
       "raceScore": 9,
       "matchedKeywords": [
