@@ -1,9 +1,29 @@
 {
-  "analyzedAt": "2026-11-10T04:44:54.695Z",
-  "newsFetchedAt": "2026-11-10T03:20:26.133Z",
+  "analyzedAt": "2026-11-10T13:20:15.973Z",
+  "newsFetchedAt": "2026-11-10T11:37:04.179Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "After nearly three years, AG Ken Paxton drops fight to shut down El Paso migrant shelter network",
+      "link": "https://feeds.texastribune.org/link/16799/17521262/el-paso-annunciation-house-migrant-paxton-lawsuit-dropped",
+      "pubDate": "Tue, 10 Nov 2026 02:33:56 +0000",
+      "feedSource": "texastribune",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W45",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Trump and Paxton attack Texas Senate candidate Talarico for absence from the campaign trail - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVGlUZlFrbnBNSGVINWRvajE4UkFhbDBWbi1JTnZyWUdGSzNYV214TFF0RVZNSnNhdkVEQ3ZRbjNOWmZ4b19Rc1dUbjJOV2x5U2NVYkZpVjJsY3ZGODF4N2gtZEkwblNvZFBqcHhYWDdtZUNzd1V3OHlNUTJHeHZ2VW1pcnRBSmRTdTZtOWZsLWE5VUdPVl9JeENPZERWOGpIUUZRR1hRM0ZaNEHSAbABQVVfeXFMTTVsclpzdmJJenRIUm80WmQ1VXZQWEY0ZEpHeGxUVXVjREVrejR1Y1J1X2RCY1FpbnRzZjVEa29sWGF2UWY5amhhOTh2SGt5VTlHX3cwV2laNkZ4N1duZENxcEF1U1RpajMyNzZ4WWd4Z3M1Y3NFajloNVp4X2VXZE81SldKX3hPcjBCbDBMZFlnTUlWNWhtdnRFNEwwLWg4WHhFSktIM01mUmJmencwa3U?oc=5",
@@ -2053,35 +2073,15 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "James Talarico defeats Ken Paxton in Texas Senate race, flipping seat for Democrats - NBC Los Angeles",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc3NjTk95VHJ5VksyWEYxTDJNZkVDUV92SVFQTWpYQTV0ODkwS3VfdVB5X095bjZxN2RIYlpqZ2lva1RZU3lPS0dMM0VicEpOOUxqY09vWWZHeUJrdUt3Q2hqel9aZ1Z6SFE1V2dHMWR2Q1dSdTVubkd1NHlZVW1vS1hHOEg1SG5RM2NUQjdZS2VmTXVZZVhOX3V5WdIBowFBVV95cUxPREdHbnUyMVExUU9Wc2ZLNlYxSENZLXNIUmdSblBUMXRiMTVGSjZBemdsTnBKMTAtVGpvTDZtRlg3NmNmbnZJNGhaSnNVb0ZfUzk5V0Z0aFQ5TUUtUHhtZjh0bGVycEdBTEFaMTh4UDNuWk1fSjlKN004MXVqcHYzU1RZeW1HWUtFNmkyTVNlZXQ3YU15UWw0R01JcHNfN1E5cS1J?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 04:00:12 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 38,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W44",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
     "2026-W45": {
+      "paxton": {
+        "positive": 0,
+        "negative": 2,
+        "total": 9
+      },
       "both": {
         "positive": 2,
         "negative": 1,
@@ -2096,11 +2096,6 @@
         "positive": 2,
         "negative": 0,
         "total": 11
-      },
-      "paxton": {
-        "positive": 0,
-        "negative": 1,
-        "total": 8
       }
     },
     "2026-W44": {
@@ -2122,7 +2117,7 @@
       "both": {
         "positive": 2,
         "negative": 0,
-        "total": 10
+        "total": 9
       }
     }
   }
