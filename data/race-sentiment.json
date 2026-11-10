@@ -1,9 +1,110 @@
 {
-  "analyzedAt": "2026-11-10T13:20:15.973Z",
-  "newsFetchedAt": "2026-11-10T11:37:04.179Z",
+  "analyzedAt": "2026-11-10T20:33:20.483Z",
+  "newsFetchedAt": "2026-11-10T19:31:25.106Z",
   "totalAnalyzed": 100,
-  "newThisRun": 1,
+  "newThisRun": 5,
   "stories": [
+    {
+      "title": "Ken Paxton drops lawsuit seeking to shut down immigration aid group FIEL Houston",
+      "link": "https://feeds.texastribune.org/link/16799/17521687/ken-paxton-attorney-general-fiel-immigration-lawsuit-houston",
+      "pubDate": "Tue, 10 Nov 2026 18:31:08 +0000",
+      "feedSource": "texastribune",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "attorney general"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W45",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Why James Talarico’s “Love Thy Neighbor” Politics Infuriates So Many - Texas Monthly",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YUlRDRzJwdWRTYTIxREx3TzBPWmZYOV9BY0ZLQlpOZXBKYU16VS1xXzZFQ0pwS1BfbTB6OUZlMm9jUVh5bVN3ckNhbTJmeDVBdE5PSHZ6N25oRENnYW5kM3htSlhlb3RRTkpqTUx1aFFRUQ?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 17:23:10 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W45",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "James Talarico places ‘I voted’ sticker on Lorenzo Salgado’s memorial in Houston in first public appearance since win - Click2Houston",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTGgzN3A1VmJ6ek9CTnVLVHpOQW5nemhna09XTDFfb3NqbFVneENpS0RNUGN3alJnRFhwZXNoNERHdHRHSk5CczRZM05ibGNGRHlMc2ZrOWJVSEhTYmZic3ozUUxPYm5EN2RyaTNfRzBBUjB0a1dhandvUHAybS1BZk5lUHhyQmFfMGtyXzQxYzRoWmZXeGdSU1U3dllyYkttZ1BrM01Cd19RM0JxMm1HaGpkX2V0SE9panJBdU9sN0s1b0htODY1SUl0SmJkQTZmeFE5VEd0RDhIazh1RjA3VkhNbGhKMVVCSjlJdUF0OHVnWmh1MUpBd3pOOA?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 17:58:16 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W45",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Cornyn meets with Talarico and calls him 'basically ... a good person' - Mezha.net",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWHo3QUg5QkpjZW5ocUVFaTRKVnE5NlNoVmtEV0h3U0dkbjlMTVBFQkY1UEY1Qy1BWWFLMVdSd0dTamczMHdUMF9lUVI1cHVKVzNOVUFpWUo1dDc4ZVoxQWJFS2FrVG9jcldLSVBHVUpXanB4QzB0OGZVRFVoREpZZzFB?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 16:51:07 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 9,
+      "matchedKeywords": [
+        "talarico",
+        "cornyn"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W45",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Cornyn meets with Sen-elect Talarico, describes him as 'basically ... a good person' - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdkcyRy03bDhhal82OEFCSnJwc19mSDJ6ZUNWV01aUEJYY2toUVlBNElIU01NSF9FTm1SYndMdHVRaElxVHJ6VWptcVRxcDY4WlhJakkyeTlEMXFEUlowQVVyVVJHQlEwSGF2dENtdEl4TUd6X24xdldJa3I2bFB2VWZCMkpfNDFqeVFRVEY1aWM3RDlVclE?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 16:37:49 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 9,
+      "matchedKeywords": [
+        "talarico",
+        "cornyn"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W45",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "After nearly three years, AG Ken Paxton drops fight to shut down El Paso migrant shelter network",
       "link": "https://feeds.texastribune.org/link/16799/17521262/el-paso-annunciation-house-migrant-paxton-lawsuit-dropped",
@@ -1961,136 +2062,24 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "Talarico’s early vote alone surpassed Paxton’s total in Texas Senate race, data shows - KVIA",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeHA5ajhVWWRsR1VTbGE3SlJzRTZGWDRKejNxU1V0S0JmSHBmZzJuZXhvSjVzWHRzZmxRMlJOdjZUZV9lc2VsdWxxNExpbHVRVEczbWFKT1dwRVRtRUp5R2tsX0JiUHNUWThieTR3YnllckttYzVISnpkY05WRWhkVGx0aEpPZExJMEgxSk9CbjY0Ung4TktCQVM2cEJacTR1ZkhDYlRvNzNUWTAyNWFPQlZMVzRLTFF0T0U1NXNLRnJIby16Y2t6YVRqTEk?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 22:22:35 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 26,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Talarico projected to beat Ken Paxton, marking historic moment in Texas politics - KCENTV.com",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWk1ZMEc2OXhNRWhEeURHZGlLSHJXanY4bVk3eEUwNDFuMkRxSzUxZXRpemViV1M3cG9HbFk0Rk1HTjNpSkxmd0dvdXdOS3NWeVZ2M0dneWQ0aFRhYXdqWnRXbHMxdEhxTU5lbnBCZ1dNRTdkV2w2X2hRQUtEVnhLQjMzSzR0OTItdnBwTVNfalFMdEk2Y3pxNElyZFVlTnhfeFRrdVNFN1ZJTmhXUllCM09ZTU1zZ0dHUWNfRmctU3JzUWppaEhpMExYdXdhLTRXaFBhRERkR2ViWFRqc1BGRmVFdXVqWFdnQlIxNVdzblpNQQ?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 12:21:49 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "ken paxton",
-        "texas politics"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W44",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Washington Post. . State Rep. James Talarico (D) has defeated Texas's Republican attorney general, Ken Paxton, winning a seat in the U.S. Senate. How did voters shift the state from a deep-red stronghold to blue? Here's what the data shows. Read more: htt - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYW1OTHhWVldTY2M3aWJ5V1FDS3ZvY21iU19SaDJScm4wOFVRc3d3U3l4Ym1IOXFReGFoUjJzeDhVN25YWEN5TEZWVkxqekt6QlVKeDU3OW9NMHE2bHQ1YjdDQzBMM2pyU182VG5VeFRjaGtGVHVyMDdLUVN2Wm5Jal9jcmQyWXJGUUQwYkNBVGlnLTlfcFF5WWV0R0RUem9FaHJzUHduamxyUE42UzNfVk1QdEhqd3dIY09KWDV5dTliZC1zMV9iNl9mb3VGQTBLV3FzSUNJb3hsWUtxcFE?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 19:45:03 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 25,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "attorney general"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W44",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "What Sen. John Cornyn said after James Talarico's historic win in Texas - KHOU",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVEpzMkpkRUlsTnhINHB0dHFEXzExbk5KQi1LZVlDYzdMWWpUOTlVUEt2QzBwSlhVajFoVUxNWW9SaFdPSFd3UXJEbkt2QlJzSl9hd1IwcVA5SGJKeEYwUm83Skp0a25la2Q3WTk1U2cwU09FZHBrZzQtQ2d1M0RzTlV2cEx2U2w3cHhzcUM3ejM2dzZ5ZGRKRW92Tks2QS1ycTQ3YzIzN1dlNXg5WkQtVHktV05YNmtUM2tCYmNVN3ozS3pOVGZGZzgtcHdyYmVVUHk2N3V0MUZQTTVfeUZFTg?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 16:03:38 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "cornyn",
-        "john cornyn"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W44",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "James Talarico projected to win Texas’ US Senate race, defeating Paxton - KXAN Austin",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNHUwSzU4Y1g3dWVqblBPdTdVbWEtOXp2QTlGUnZUMURFNXZnMUFObzRkazl4aWRvVzN3cWRrRV9VaHc3a0xUS29lVFNyUVpoVWZ2ZWpIclItTVptWkltTFZsdFV5VzUyeW9HcTI2ZlFJWHRUOThYQ2FIN1A4U2ZiWDl4aUpZWlhNY2Ixa01pTHRmSi1vclAwSlVWajRKSUNsMjl1NnNjamVIX21HS3pObTZn0gG3AUFVX3lxTE5heXR2Rmd4NU13cFl5LTFERGFNUklOcjcyb1dlQmU2RkZ4bDJVRXFQMFFZcmZXRFRHdlo5allRdUlsemNpMkxHZHV0dTNwWlFRN0R5V2FHLXhRVm1IaG9oUWNvM0JhaTRBQllzN016WVpEWDBuYThSdjZCRGRQbkRhWWllUFMtYmRONDVnUGhDSGNZZ3E3cjh4SlMtaTZjLU5maWJJMzFZcEtra0R0WDJjRUNsV0RWaw?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 04:15:26 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "senate race"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W44",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
     "2026-W45": {
       "paxton": {
         "positive": 0,
-        "negative": 2,
-        "total": 9
+        "negative": 3,
+        "total": 10
+      },
+      "talarico": {
+        "positive": 10,
+        "negative": 3,
+        "total": 47
       },
       "both": {
         "positive": 2,
         "negative": 1,
-        "total": 10
-      },
-      "talarico": {
-        "positive": 9,
-        "negative": 3,
-        "total": 43
+        "total": 9
       },
       "general": {
         "positive": 2,
@@ -2105,9 +2094,9 @@
         "total": 3
       },
       "talarico": {
-        "positive": 10,
+        "positive": 9,
         "negative": 0,
-        "total": 13
+        "total": 12
       },
       "general": {
         "positive": 0,
@@ -2115,9 +2104,9 @@
         "total": 2
       },
       "both": {
-        "positive": 2,
+        "positive": 1,
         "negative": 0,
-        "total": 9
+        "total": 6
       }
     }
   }
