@@ -1,9 +1,49 @@
 {
-  "analyzedAt": "2026-11-10T20:33:20.483Z",
-  "newsFetchedAt": "2026-11-10T19:31:25.106Z",
+  "analyzedAt": "2026-11-11T00:50:20.561Z",
+  "newsFetchedAt": "2026-11-11T00:29:38.088Z",
   "totalAnalyzed": 100,
-  "newThisRun": 5,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Talarico's Texas Senate Victory Ends 38-Year Democratic Drought - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSDJSQy1peEZmaGxrM3BkOVl5VjNUUTF4VlJ2SFgtVzZSR3BkbDdmTzBCN1BvWVRUQnhDTDhtaEpTNHQzZlNDZV82bjZhRVBQZ1lHZ18xWWU5aldmUmU0V29HcVdDYzBsMUZWcElkTnAzdmEydEs0OUxTN08zTG5XckVnY2Y?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 23:57:05 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "texas senate"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W45",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Cornyn meets with Sen-elect Talarico, describes him as ‘basically … a good person’ - 930 WFMD Free Talk",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNk1Mekg0ZlMtV1Z1ZE1iZWVjQTZLbzV2ZkJWOWt6TWF0aE5QV3JUTFp4ZE1fSkp0V2M4bjJSOTZCaW1xZGhJcHpSOWFveHZ3TWo0SGVXMUNpNkJfWHJuV1BYNU8xU3FYOXE3WEhrRUhaTUJremdscmhhUHNwQmxQQnhGT2E0ZFU2TEp2Q2oxY2V0a3FLa0NGWUs2SVp4T0ZTQjRITzVfbC0zWE5FV2Qw?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 16:53:40 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 9,
+      "matchedKeywords": [
+        "talarico",
+        "cornyn"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W45",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Ken Paxton drops lawsuit seeking to shut down immigration aid group FIEL Houston",
       "link": "https://feeds.texastribune.org/link/16799/17521687/ken-paxton-attorney-general-fiel-immigration-lawsuit-houston",
@@ -2018,63 +2058,19 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "Talarico Delivers Victory Speech After Winning Texas Senate Race - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcWI4d1d0OHlFeVhXczNnSUQ5XzUtNzlBVTVtOW5MeS1aN1BZQ296NkRNcXZobVZLRDY4NVZZajhzWXg2YnhxcG9tQjg0SDdjQzczMG51S19RdzlucTZZQ3BBelMxZ2xQN2UwQWNyRHFyY2k2YklOcTBiMGcxTW5Ob1ZWWTVhTE1yNXdMcWlRN0t6SFdLNVpDQkRXbUtCY25icTJPWkdCNXlfTTM4MVR3MlBfakJNYTU0cWJCOW9DdENSd05rUlJSVjd5UjRFQ3BWNGFYR2JWeXRVOWpRc1FsRVFnUk50TjVCcGVudXh3cTl2MnpMS1B4M01JQ2o?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 07:15:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W44",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Map: How did neighborhoods across Dallas County vote in the Texas Senate race? - Dallas News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWWJhYjZYX0pna3lMS2FXYlYwQ285cmd4Wi1CRFRJMUQ0Q2JtMXMxdktaOHdHN2hLRm4ybE9rWmFvQkxuVUtXaG1tRWJMYlF1T3dLT05tTXdRLTZCRFhtUHB3N3JYXzVrX2h1YzhSY21FbGs0V2w1SkRVTmtEa1FTUTV2SWRsQ1YtSmM5U2d0TGpuTG5YVFl1bkJUQkJONjhGcnc0Sm1uZl9nWHpjMnlr?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 18:15:14 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 20,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race",
-        "dallas county"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W44",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
     "2026-W45": {
+      "talarico": {
+        "positive": 10,
+        "negative": 3,
+        "total": 49
+      },
       "paxton": {
         "positive": 0,
         "negative": 3,
         "total": 10
-      },
-      "talarico": {
-        "positive": 10,
-        "negative": 3,
-        "total": 47
       },
       "both": {
         "positive": 2,
@@ -2096,12 +2092,12 @@
       "talarico": {
         "positive": 9,
         "negative": 0,
-        "total": 12
+        "total": 11
       },
       "general": {
         "positive": 0,
         "negative": 0,
-        "total": 2
+        "total": 1
       },
       "both": {
         "positive": 1,
