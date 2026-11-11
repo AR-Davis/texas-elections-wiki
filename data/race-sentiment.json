@@ -1,9 +1,89 @@
 {
-  "analyzedAt": "2026-11-11T00:50:20.561Z",
-  "newsFetchedAt": "2026-11-11T00:29:38.088Z",
+  "analyzedAt": "2026-11-11T07:37:07.358Z",
+  "newsFetchedAt": "2026-11-11T07:00:24.713Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 4,
   "stories": [
+    {
+      "title": "Talarico, Cornyn meet in Washington - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMDJLdExVazJNQkt6V0ZIdDlsSWdCUTZuSDNGVmdKMlRMUEw0Y3hkTk5FYkR1bnRseFNvRWJFc3ltQXFKTnVVVG9XMGZxS0ZmNjZEamVmd3B3M1h5eEdWbDJkWnRtTEVzbHBpSVVFUHpQM3d0QmdRZDJSREhrQTdDcnZR0gGHAUFVX3lxTE9IVF9SN2tZOW5BNlU0VDhueVRSYTRhOFhfLWpzVFRLN2JwYXZJLUVnVmNBMThPSzR4NEZldm0zaV9mQzJveEJZdGpwUFdwRW52N1VBSU1zYVdBaVgtRVhlQXNjUWk3blJPV0dyOHVSZVdfZUpxZklFZ3ppQUFoZTJzNG1mME12OA?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 20:44:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 9,
+      "matchedKeywords": [
+        "talarico",
+        "cornyn"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W45",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "State of Texas: After historic wins, Texas Democrats prepare to govern for ‘all the people’ - CW39 Houston",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONFV5UWNMVS02M1MzWmxRQnlvbEdlOE9YdWIxZkZMVGY4U2VzRjJDU2tuY19MWU5vX0NLbEJ2b194MzJJRXg4LXgzaVJ6Zkt3ZWZHNzd3dmlOM2lnZ3gxTlR6dWtZZjVDRzJnNlQtcXZnZDRudXVpQnR5YlRaVEtWOFNuc0Z2SVVQVzJ6UlJ5bk9pNElhSjRyYS1QcUhaMW1CYVk3NF85QmItQ25GLU1qNlpZQ3BrUDVuUXlRN1BvVkIxSkhMdmgzT9IByAFBVV95cUxONFV5UWNMVS02M1MzWmxRQnlvbEdlOE9YdWIxZkZMVGY4U2VzRjJDU2tuY19MWU5vX0NLbEJ2b194MzJJRXg4LXgzaVJ6Zkt3ZWZHNzd3dmlOM2lnZ3gxTlR6dWtZZjVDRzJnNlQtcXZnZDRudXVpQnR5YlRaVEtWOFNuc0Z2SVVQVzJ6UlJ5bk9pNElhSjRyYS1QcUhaMW1CYVk3NF85QmItQ25GLU1qNlpZQ3BrUDVuUXlRN1BvVkIxSkhMdmgzTw?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 05:53:41 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 8,
+      "matchedKeywords": [
+        "texas democrat",
+        "texas democrats"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W45",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas Democrats set sights on 2027 legislative session as bill filing begins - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVVlEMXpkYS1GRWxDM1p5WV9WRDZveDNkMGt6ZFRSMkNUQlpZYkVXaVFCMldIOTlteWZhR09HUm0xOTk5LWg3eWY0ZVJZSW1ReG5TV2t0bUJsZi1mQjRPX1dnUzVzVWdVV0xIZVBremJCNUFSV3Y3SnpBNlFhOU03WDJZSWs3LUtQQ1VOZ3NDS1JQN0Z3WkFKUnktUmNpcTllX21PTTI2WUEtV2lwbV80aXJPMGZyTjZKbl9QUGNHY1hxMWZoRDFUdjNMa3F2VnZud1Z1UzNJanVCZHAxSXQ2TVNScXZhVzRU0gHwAUFVX3lxTE5IZXlOVzNzUFIzY2NRa1p5Q294SXZKR3AyaEN4NkpmcHRlOWNKR1lKOTFOdUlzN01yaU1TVGlqUTl1UXAwS1U4b2lJQ3hNLXZGTXhrQTRUX1dnN0VFRHZtVy1CMmRvZDlWRk9sZmU3QkhKeGdBMF9lRWJFVlMySlFfUGJvaE5KNEktaGtlRFVGaTNjQ3dvQ1RMY1lscEZvUDA3S0FHOXJWajh5dzV5d19TeTZCSFIyQ0RxOS1IY0dvMzZpOE55WnVEbjd1QVFNSGN3Ylp0OUNqUjhyaUk2LXFhbXBUSE1XdGwySEZ0UmdUUg?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 21:05:52 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 8,
+      "matchedKeywords": [
+        "texas democrat",
+        "texas democrats"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W45",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas Democrats Introduce Deluge of Gun Control Legislation on First Day of Pre-Filing - The Texan",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPZnFjWERqRlhWWmd3RUpONjI2Z1h3c3h6MDFwQmVwcVo0OHJ0RVhYVFJDcEFTVXlrcjdyUGI0VS1TTmY0XzRTUGwyV3lYQnU3bjBkbFdHMjFSZTR2SFI4bnFOTjd1bG5zby1TMkkyMTQtLS1COV9qWVdDRmhkVmNsNlBiVUtfYWItX0N4MTcxckZIT3lBZlFnYU1yWGNoWURncjN2UUVhVERhMkZ5Zy1UNEtkbVJxSDJSaFlnUi15Y3EyZENWYkJvQ2hjUTJXeHJ5aXo4b3NrRDNrZ1haQ01vUkRkQTByWmVleF9hQ3AyT2FNdlBkdG9yY1c3RWZCZ3MyVzNMMFd5SmNKMW1VMW9n?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 15:53:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 7,
+      "matchedKeywords": [
+        "texas democrat",
+        "texas democrats"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W45",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Talarico's Texas Senate Victory Ends 38-Year Democratic Drought - 조선일보",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSDJSQy1peEZmaGxrM3BkOVl5VjNUUTF4VlJ2SFgtVzZSR3BkbDdmTzBCN1BvWVRUQnhDTDhtaEpTNHQzZlNDZV82bjZhRVBQZ1lHZ18xWWU5aldmUmU0V29HcVdDYzBsMUZWcElkTnAzdmEydEs0OUxTN08zTG5XckVnY2Y?oc=5",
@@ -1972,92 +2052,6 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "Election 2026: James Talarico tops Ken Paxton for US Senate seat in Texas - WHIO TV",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQjdQZ1JKdlVPOGs2SDFORVRHSWFBQlNaNnh1Y0tHbXlUb0N3azQ2bHVubFUwbG0yVFVBRC1JUE54cC1UaHkzMzV1VEdXM1JnNDBCZ0xlZ3poSEVTamFab0paNWZ6Z2dvcTBqQVNSbDhFMURHeXB6YzhUOEpNbHNDcnlNUFBVeEsxVEFSZUw3dEdKWmxhUXRZdEs0QW5IczNHcTIwMEFLZ2tPOUZNS1U0eHVmMW52M0d3SnVFVFdNRkphTzVtMzI00gHbAUFVX3lxTE1ra3dFbkd1X3FPenRZUUpJbC16U2pBLW5tNnA0azhIc0g0ZEhleDJ5MTQxYTE0NWtIdkUzODE2dFZ2VDJibnZxd0RpNnNwZlU0VjU3dE5kM290OHJ1TFliaGF0YlVYM25SSXN6MlNQcFh0XzJpWVhra2NLZGlJX1UxdzlZNHdnNkNocHZmN1RPTE92YVYxaVVlNUsxTC1Ha1RfWnJZckViVnV6enBQRjRTZlFwdTBxWTJRVHA5RU55cXE4OE1QbzJ6YVBlRXZxSHYxUl9NSnNySlFZNA?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 12:20:17 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 23,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W44",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Texas Democrat James Talarico speaks out after projected win against Paxton - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeXU4UjFOdUExeFpjNEt4X3N4QVloLXN0akZGR2NlWndZTTVPOEJnN1Y2eXdiSEpzejQ0bkxyZzI3RzJBNEVjVlNpWGgyMzZJejQwWF9RYkhBRVFRYmViWEF0UkpzZDE2bFRLWTVJMERCS1VnUXNGbEp1Q21mZ1BzSlc4QzNiRTJvQzk4eE14RkRtWFd5YUx3bmVZcWV5cHotYVIw0gGoAUFVX3lxTFBVb0JMOTNiSVhEWThGR25OQjRpaVZLNWp5ZGxjdi1QTFFic0xVR0M0V0dKdVlWS1FyQ2EwX3daN21HbVZXb3RTZHRfMnViOFRiWmM0bjNVdTZqWTE5VTZxbGdxSV9sczdCU2JobjdFbFpNYUxjUl9lM2dSRGNWc21JWDFkd25kTUdIRUlnaUxwSFFLam1QRW5tcFZ3TzVaMkxvZExVeHFIYw?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 16:46:46 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 20,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "texas democrat"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W44",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Cheers, tears, joy: James Talarico's Texas Senate win captured in photos - El Paso Times",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMnZkRFVUNTRXWndNeE1ZbDFrek95bXFBX2k4c1VRWWszbDhqT1NTaHFPRlNxNE5tXzl3ZU0weHBXRFVYai1ja2JJX25adTdodGxWOTF5emNXS0RJdlhvdzFQYllXNzc5enFZZ1dsUHNpenJzc0R1eDhsb3NlYk1GZVZEVnZDZHRtcXBGUVdRVmdkb3dHeTI1eHlyWllJSHJYa1Nob2p4ek5WYUlYSXZ5X25rTE1CWjNfMmNPOHNMcEhvY3ZQbERCYkRKaWcwWDI3cU5nSGdwRlZYZGgxcFNrXzlpZw?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 20:50:43 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 18,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W44",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "James Talarico Takes Texas Senate Seat to Help Democrats Win the Majority - The 74",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVFA4SlY0R185SzRSTGxHWjdSOWJpZVRKZ0ViOWktZmtTU0RrcEZMT0kxUWRSLTl3ZjVzeDFZNW16Q3RfMElMSXYwdXU0dE5MbjhaajNZVzFaWVFHT0M4dVl3anVDOEZJMGhBNWt1WXd6X3RNdUZIcHdwYUNHR1BDMDUtY3dxMzM2SmFGaDVDMTdWSDU1ZDBEejdxaHl0NTh0UWpVTlpiLWF0UUZ2ZDFGRQ?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 19:05:46 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W44",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
@@ -2065,7 +2059,12 @@
       "talarico": {
         "positive": 10,
         "negative": 3,
-        "total": 49
+        "total": 50
+      },
+      "general": {
+        "positive": 3,
+        "negative": 0,
+        "total": 14
       },
       "paxton": {
         "positive": 0,
@@ -2076,11 +2075,6 @@
         "positive": 2,
         "negative": 1,
         "total": 9
-      },
-      "general": {
-        "positive": 2,
-        "negative": 0,
-        "total": 11
       }
     },
     "2026-W44": {
@@ -2090,9 +2084,9 @@
         "total": 3
       },
       "talarico": {
-        "positive": 9,
+        "positive": 7,
         "negative": 0,
-        "total": 11
+        "total": 9
       },
       "general": {
         "positive": 0,
@@ -2100,9 +2094,9 @@
         "total": 1
       },
       "both": {
-        "positive": 1,
+        "positive": 0,
         "negative": 0,
-        "total": 6
+        "total": 4
       }
     }
   }
