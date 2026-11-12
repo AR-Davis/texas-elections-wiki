@@ -1,9 +1,48 @@
 {
-  "analyzedAt": "2026-11-12T03:17:33.720Z",
-  "newsFetchedAt": "2026-11-11T22:33:39.412Z",
+  "analyzedAt": "2026-11-12T11:42:44.027Z",
+  "newsFetchedAt": "2026-11-12T03:41:37.236Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "John Cornyn says he’s looking for a job: ‘People who retire die’ - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVGFudjdySFV0MG5hM2h1a2hFWEhXeWJ1YWVvS0FvMklxNWFzOWhYNFY0T3ljeUlEU1NxbGxWS3RSTDVibGM1M3h0NUJCakpvY00zb0taV1BxbHZlQ05GY1pLYklCbThXVEZNdW5rZ3NudTlOMTVVcDFIUEFFQXg0eHVFN3liVFZvby1fa1l5azE4Q3hQLTVtYjlzeFB3VldJQ2F5MC11WUhNdw?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 07:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 9,
+      "matchedKeywords": [
+        "cornyn",
+        "john cornyn"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W45",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas politics: Proposed bill would give a one-time $1,500 to Texas households - ABC13 Houston",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUGV6UGxmeWJrb3drRC1xUklrbGhXaFlHNnVnMmRuSl9ISERnRFlTS2NmamJoT1BVSUVBWENoUjltYVJrcTFFbTlsbXZheVpqd2oyem5wQjFfcmsweU5CQkhqbEVJbWMzWGtNTjRaWHR3V09MTVhwU3BrbGZZZ2dzSWxiQkdyb1VhdEphUklXclJDZEFBYUh0aGd3?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 22:10:22 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W45",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Sen.-elect James Talarico starts learning the Senate ropes - Dallas News",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZlFhN2NuN1U2bUJ3MHp4N2FrTzJYWVhFSm10RDFPUmkyQjhjOWNnZ0RONFBEUTR1ZW41c3lVZmlIN2licThZeTVqemRqZ1R5UmtnTk5vcW8xcGRpS1BHdGdhYnAwQ1draHQ2ZXFYRVY2TmJteUN5V09CZ2h2a3RuR09jdDMtLXZlR2w4aUtwWnU0Z1FUUnNOYVdPdFBiRXk4RHJiZjFmWWJ4NDJ1RFkxQQ?oc=5",
@@ -1993,64 +2032,24 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "James Talarico and Gina Hinojosa Celebrated Their Historic Election Wins at This Texas Staple Fast Food Spot - People.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTDJ3QUxBUkJxRW5LOFJISS02aHg4TlZOUHl5aHVrWnZHc3dKMjdfa0FFaHdBRWR2Ri1oeU1LNnJsd192eTRsVmhpYm9LbDYybFdiWXRkREkzOHFUYUtXMVgwQ2g4M2VlSzkyeGUwT2hlNFhyeVhuZk1jWDgzUlBEV2ZabkJmc1dtX2VVUDJ2YjdpaHF2LXZDamVrSkUzRXVReEMtSFAtZ3VlVWZXRGdkUmplX2FTVG5yN3ljWWxB?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 16:30:15 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "James Talarico Won Texas Before Election Day Even Started - The New Republic",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcFZac3NTeWNJUFVQc21jSklubEpNY1JRMXBEdnZFNGljaXFGSTNWRlBlbFRPamxKNzFFazNSUFh3b3p0ODg5TUlGNnl5WTVVUWd1MERXVUxqVW1ILVlsSHFldjU0aUNjaTVwZlhtR2ZuYndSSlctVTB6cEpQWEZ1cFU4emdoSjNDek5IYmZsM2UtVzczVzUzWW9sX2JDN1IyS005bHhIUQ?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 16:04:42 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
     "2026-W45": {
+      "general": {
+        "positive": 3,
+        "negative": 0,
+        "total": 19
+      },
       "talarico": {
-        "positive": 9,
+        "positive": 7,
         "negative": 3,
-        "total": 53
+        "total": 51
       },
       "paxton": {
         "positive": 0,
         "negative": 3,
         "total": 12
-      },
-      "general": {
-        "positive": 3,
-        "negative": 0,
-        "total": 17
       },
       "both": {
         "positive": 1,
