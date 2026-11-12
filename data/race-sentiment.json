@@ -1,9 +1,49 @@
 {
-  "analyzedAt": "2026-11-12T11:42:44.027Z",
-  "newsFetchedAt": "2026-11-12T03:41:37.236Z",
+  "analyzedAt": "2026-11-12T19:42:47.103Z",
+  "newsFetchedAt": "2026-11-12T12:24:44.366Z",
   "totalAnalyzed": 100,
   "newThisRun": 2,
   "stories": [
+    {
+      "title": "Cornyn declines to say if he voted for Paxton, cites Paxton’s ‘corruption’ as issue - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRnQ4Y1liQ1ZjZEFjVW9DS1U1Sk9OcjNEWFRybXB1YnlxWmVlazI3R3BqTC00YlY2THYzSXc5M3A3emVkcmtod0kzLWtXY1o1NFc5bllhNHhwS1JmVXFsa1R1OVRmZm5hR1FjN1hDbm9fQTV1UlgyS1ItTkl0dGNEaG5fekdzMHZuRjQ40gGQAUFVX3lxTE9hOTh2TTBnOE5pZDRxZVhiN1pmcFdGWTJ3S2JFS2k0S1JEeTA2LW5WQU5YVF9Idi1SSHdOaldIWTV1aDZzbUdRNG9ZbWFJaS1Udjh2cnI5OVZoSm5jNHVCRjAtOUFJUHYxYkhwNVZheXRzdXFvaHdKUjhEcWxzUVAydU01Z1pLN3ZuZEdEVXZBWA?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 00:50:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 9,
+      "matchedKeywords": [
+        "paxton",
+        "cornyn"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W45",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Six Texas Democrats to watch in Congress in 2027 - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd2xqNnhmMlJaNmpxc3diQm84RWxqRlk5V3ZFdmEydnNBcmtfX1ZCRldIMHNndV95SUt4YkpFYW1saHl5aUExVVNvRkJybURMWDVneXJSYW95VGl2WlgyenY3RHYyNWRzUTZPSHhYM1NNcUU2azBubnlFblJNcjNSdnYtYmNwTEI5TDZabGgxWVdJTGl4TFIyVktVcmM2VU1nUWp4QkdKbGpRbUozLWhVSGZNcw?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 12:08:14 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 8,
+      "matchedKeywords": [
+        "texas democrat",
+        "texas democrats"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "John Cornyn says he’s looking for a job: ‘People who retire die’ - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVGFudjdySFV0MG5hM2h1a2hFWEhXeWJ1YWVvS0FvMklxNWFzOWhYNFY0T3ljeUlEU1NxbGxWS3RSTDVibGM1M3h0NUJCakpvY00zb0taV1BxbHZlQ05GY1pLYklCbThXVEZNdW5rZ3NudTlOMTVVcDFIUEFFQXg0eHVFN3liVFZvby1fa1l5azE4Q3hQLTVtYjlzeFB3VldJQ2F5MC11WUhNdw?oc=5",
@@ -1992,50 +2032,15 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "How James Talarico turned Texas blue: Inside the voting numbers behind his Senate win - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaXFqdzZrZTdyTUFCamE5R0ZkU1loVnV2VjZ5Z0VDa2Vfa2I1NXZJODZuUEtWM0V5M1k1WFE5aHRQSGN3S1BjUDF5RXhvbFJmaHdCb2RHazZEOEpVeVUwRE5EbEhxT0t2bXF3VEVFaVFPdnoyN3NFQ19pYXpkcUJNa2prMzR0N09GNzVrdG13?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 18:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W44",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Pastor Talarico, 3 Billion Views, and $56 Million on Broadcast: How James Talarico's Team Flipped Texas - ADWEEK",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMVUzRlh5Q2pnWGdmMjNBWFRQeU85b2ttMzIxeUFrX0ozWTYya1ZDU0NubEx5YVR4TFExbGNMUWVaNzluRXY3M3ZXMjYtc3h5eUxTUGtGbEVJY19ua0hhZW1JWFFfUDJXWF9zVXZNdzZHQXdxYjJDUlJTSUJYdFkyaUtSbzE4Uy1pNGhWcjFfdTN3ZmxIb3pkLWZwQS1ROFh1YXJLTjM1SWgzUkEya19NZlNUZFM4MjNBMGhQLS15MF9ObHdpZkQw?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 21:37:08 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
     "2026-W45": {
+      "paxton": {
+        "positive": 0,
+        "negative": 3,
+        "total": 13
+      },
       "general": {
         "positive": 3,
         "negative": 0,
@@ -2044,17 +2049,19 @@
       "talarico": {
         "positive": 7,
         "negative": 3,
-        "total": 51
-      },
-      "paxton": {
-        "positive": 0,
-        "negative": 3,
-        "total": 12
+        "total": 50
       },
       "both": {
         "positive": 1,
         "negative": 1,
         "total": 8
+      }
+    },
+    "2026-W46": {
+      "general": {
+        "positive": 0,
+        "negative": 0,
+        "total": 1
       }
     },
     "2026-W44": {
@@ -2064,9 +2071,9 @@
         "total": 3
       },
       "talarico": {
-        "positive": 4,
+        "positive": 3,
         "negative": 0,
-        "total": 5
+        "total": 4
       },
       "general": {
         "positive": 0,
