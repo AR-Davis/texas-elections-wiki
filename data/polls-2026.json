@@ -37,6 +37,17 @@
       "method": "LV"
     },
     {
+      "pollster": "HarrisX",
+      "sponsor": "Independent",
+      "date": "2026-11-01",
+      "sampleSize": 512,
+      "marginError": 4.3,
+      "talarico": 50,
+      "paxton": 44,
+      "undecided": 4,
+      "method": "LV"
+    },
+    {
       "pollster": "AtlasIntel",
       "sponsor": "Independent",
       "date": "2026-11-01",
