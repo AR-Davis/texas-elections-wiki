@@ -1,9 +1,129 @@
 {
-  "analyzedAt": "2026-11-13T07:41:51.079Z",
-  "newsFetchedAt": "2026-11-13T01:23:08.776Z",
+  "analyzedAt": "2026-11-13T15:59:55.436Z",
+  "newsFetchedAt": "2026-11-13T08:38:16.779Z",
   "totalAnalyzed": 100,
-  "newThisRun": 8,
+  "newThisRun": 6,
   "stories": [
+    {
+      "title": "Texas Attorney General Ken Paxton has finalized his divorce, lawyer says, ending long marriage - WABI",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUl9ldWtLWVRiYnhZWTk4UmI4QzJlNEVrbkxIYXVqUjZFUGRuaTRNdlhXUTZUdjA0WnNPUF80N0J0RXl1OWNRUVVBSFNRdG5zSkprd01sV1g0R0FjX2hZY3hPTWxOVDAwNjJvaDhtWDljVWxtYURRbURzcHR0cy0wZGVvQ0hLRjhqR0F5TXZTY282WXdxX2hHLUdfMXV6UXhKM2tEYmlTTUtabmh6YVpMeER2VG9ZZlpfa0h0YzFsUjY5dw?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 00:56:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "attorney general"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Ken Paxton Spotted Fleeing Texas With Girlfriend After Voters Reject His Senate Bid—Flying Coach To Fiji - View from the Wing",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeTBLcFB5eGZqYjJnRVE3NHNPZUZTdV9VbV9OTHZHTTMtSGNYcjU2dTcwOXN5WnBlRnRBZU5iVUl0ZC1GX2EyTXBNSWVyczF4bUYxVURla2JpYzV1TUpFSTdzbkprdkNuNGFMZWNGLWtSdUQxQkdFeEZtQUF2WVRpZi1kUjQ5X2EwRThZMG1MUktYNzN5RVdyNDlpYnhOaTY0Z0M5b1lfWFZBWjN1cU53c1BMUUlhOWhjWUd2eG9DOUJpMF8yMGFVcnBkRFVxQQ?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 00:06:48 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Democrats can’t wait until after Trump to produce results, James Talarico says - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVkhSQkRtR1lXRXhBZkUyS1N0SXZyQ2hBN0xUUlVydmtEcnNqTnIyNkJGRHZxX0lOeEt3RU8ydjB2cXNyRHpzbDRmRlYxLThxU0Y4QkRORk1tdElvd3BhVXdzbmxuS3BHTVdVX0Zkc25kSUVuQm1rTGZzRnhRZ0x1VDQ2alJMVkFHQ1hJMjJueU1GM09FODU0dUx1bWVCNEs1YlptWDNzcFY3MnFkckk2SHRnNXVMcTBHYXBn?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 01:28:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Ken Paxton Trades Campaign Trail for Vaca After Senate Loss - TMZ",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBvaVFpaU14S3REZW5VcDJ4TDNXNGFaclFNWVdIQ1dOcFpObVdtS0V6R0Y1bVRxN2dBLW5QdjNrXzZCRmlFZ0pnN3FjVG1oRGNNV3Uzd1ZoTU9VaE5iM2xKUkRBV05UVFRJNkJzN29sMHZXX0VOM0tVNjQwRQ?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 21:00:25 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Ken Paxton Divorce Is Finalized, His Lawyer Says - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HZWRmYnpiN1lJSG9qWWxuYlJTWnkxckJqNVNUa3NjWExiNXNYbENpa0Q5bFlTclNNRnFXSGxjNWFDQzlWZVVPbTFPLVpsRU9FSzI1MmpWemlkOGdxNVkya0RvS090ZU1TdGExMUxR?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 17:22:33 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "East Texas Republicans ran their campaigns differently than the rest of the state by bucking culture war rhetoric",
+      "link": "https://feeds.texastribune.org/link/16799/17522951/east-texas-republicans-midterm-elections-2026",
+      "pubDate": "Thu, 12 Nov 2026 17:00:00 +0000",
+      "feedSource": "texastribune",
+      "raceScore": 4,
+      "matchedKeywords": [
+        "texas republican"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "What The End Of Ken Paxton Marriage Really Means For Texas Politics - ИФЗ РАН",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSEtUY0lWdFJUR1R2YVF0Z3RjUFhHeThIZ2F2alJmTHdmR0owOEFob1hacFFzQ3ljaV95LWJBX3JsREg4eTBnQTdnLXg3ekw1M3BSdC1ocVlNT0VCc1JrVlU4Qll3eUlPUERUbEM1NS00cHRWcUJXZksydGdYU191ek9R?oc=5",
@@ -1898,170 +2018,14 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "Supposed Ken Paxton call to investigate Senate defeat is fabricated - AFP Fact Check",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmX1g1WW83eWpCdllHMUhpTEp2dlBhRzMwRHhSc29reEdZT1NrRDVTM1J2RUJTNkVyZC1aUnVFVkk1LXY3RjlpQ1QxMUZPa001cnQzUHZvbGE?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 21:50:03 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W44",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "What should Texas Democrats focus on? - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeVktUlQtVmgtb1ppWVM1UkE1UmVCd29IZmRYdzJFdGk0VUY4QmRtaFhpOFFCeGc1UlRDNjR3TDgxc2VTaTFnT0pPMEg1cjBvQ0lNc1FzZDlsZGl6ano1ZmJLUkozb3pnZno5UW9aOFFCaWJMTnZQa3o1ajBqSjdQREZmTVpkOEF6TkNpZzdZSkowUkU0REJkVlh1VGtWZG92cjhKTGVQcHNyY0NjMk9B?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 12:27:49 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 8,
-      "matchedKeywords": [
-        "texas democrat",
-        "texas democrats"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Texas Democrats swept statewide offices. What’s next? - Dallas Observer",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTk5vUWNQQXNoQklac3lJczFLZjBwV2hxTmgyVGlCWTFMN2FIQS1mQVlMMkdUY1FPWjg4MkRQTWxsa3pxcTZnVmNRYjJ2S3VyR1p5TE5wd0UzcERCUWM1LUZWcV80cXBMZV9GT25kWm0xM0FUOC1NSWUyWHhrTmMzcllRcl8yNDViVHk0REFBWHpDSEpJUy1zN2d1Z0k?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 15:15:14 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 8,
-      "matchedKeywords": [
-        "texas democrat",
-        "texas democrats"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Map: How did Denton County residents vote in the Texas Senate race? - Dallas News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS0tFZEo5bjFfcDh1c2d1TWc0ZU1iRGZCbjhEd05EQTBUQ1o5aWhxWGtKREhzSnJUTDJOSTYyTnBLY1ltLThKOHNyV0h6aUROQjd2bjctSGdYWTRyZTZTN3NETTRIRVZIZ2djNWp5c01NdXFJbjZzWEhFTzRrWkt4VHBHMkhCUTJERzdhNEVPRy1GNlNCVG5nM185WFVIZVJlZS1IRk1FcVEyMnVT?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 16:45:56 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W44",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Republicans' grip on Texas is on the line in a close US Senate race between Paxton, Talarico - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdWlaTXVLd0JjLXNnaFdCVm1XWldtMVNwSVNjeHQ5SVFhYmJldHhSZTQ5THk2S0xpellfTmhtQVFEVVpSN0tKaVduQVlWQlZtQUl2MXlzdHl1cDZTdTZBUUUxY2U0MnllWUxobUxkd0JtLXhDZ2E4WHVDUEpKNGlLRXIwMlFSNEZMd082eE9mWjNNRjBWOUU2UnVJQ0wxQdIBowFBVV95cUxPd2Z1NFZ6aVRKMkV1WXVUS2FDTTRmV0Y0eUNmMUdpOXkwcFBHVU1XTy1ST2FCdWdVYklpcmxrOHE1TVIzM2RVOVpMQnhYNm5EMHE5YU5VR0NqSGg2T2I0UXM2MlVGU0pqcDhIazV4UHNWdk1objVFaHN4elVJZzVoQXVrSlNvMFdjSjkxbGc5OFNNNTFxRlJsa0duWmtuenpPYnYw?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 08:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "senate race"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "‘Texas is blue’: Ted Cruz reacts to James Talarico’s historic Senate win as lone remaining statewide Republican - KWTX",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY25venNIQ0FvejJoYlNKR0ppaVBBZEZoQkZBWjlYTGxjT0hjNm5Nd0xXWEhBa3p4TlhwQU1tM3h0WFNEZHRpNDJtMF96SDJlcngxSUxqRnM4WUhNQjYxSlZNOElaM2w4ZVhEV1RMX1NINXZYQXhKcTNXQWhzbkhHSzYya09ETFlpZVJDVlFURElNVDg1b1RFZi1JLVczUnV1bUJrM1pWb0VZdDl6RVJ0aldpek9DT0MtemY3R0pFenozMkZsUWxrQ25FMHZQMjDSAeMBQVVfeXFMT0hPQ251SUp1SVpGY05UWkg0Vml0Yll6UmFYQ0FZMy1NUDlXOEljWDBnR1QxaWUxU0ZTb1FEa3czb1FTQnZyOEJFMEgxemdvTThYYnN1QkVKMkVVOGZiUFhrSjA2VTNjemFPemJhcjUtal96V1pNNXY2MkxTbjRlTTFGNWxEZmVqS29DMVowRVhlUG5faXhFYXF6RjJhczVLel9YSGhRXzJXa3YwbW5lSVVxSWVkVFNSNDdPcHJoTHhPa0xnNE1SamlOcnV2UFpQaTI3WUVHNjAydTZxRVhXMGtDZ00?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 14:08:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
     "2026-W46": {
       "paxton": {
         "positive": 0,
-        "negative": 2,
-        "total": 6
-      },
-      "general": {
-        "positive": 0,
-        "negative": 1,
-        "total": 5
-      }
-    },
-    "2026-W45": {
-      "general": {
-        "positive": 3,
-        "negative": 0,
-        "total": 20
-      },
-      "paxton": {
-        "positive": 0,
         "negative": 3,
-        "total": 12
-      },
-      "talarico": {
-        "positive": 7,
-        "negative": 2,
-        "total": 44
-      },
-      "both": {
-        "positive": 1,
-        "negative": 1,
-        "total": 8
-      }
-    },
-    "2026-W44": {
-      "paxton": {
-        "positive": 0,
-        "negative": 1,
-        "total": 3
+        "total": 10
       },
       "talarico": {
         "positive": 0,
@@ -2069,6 +2033,40 @@
         "total": 1
       },
       "general": {
+        "positive": 0,
+        "negative": 1,
+        "total": 6
+      }
+    },
+    "2026-W45": {
+      "general": {
+        "positive": 3,
+        "negative": 0,
+        "total": 18
+      },
+      "paxton": {
+        "positive": 0,
+        "negative": 3,
+        "total": 12
+      },
+      "talarico": {
+        "positive": 6,
+        "negative": 2,
+        "total": 43
+      },
+      "both": {
+        "positive": 1,
+        "negative": 1,
+        "total": 7
+      }
+    },
+    "2026-W44": {
+      "paxton": {
+        "positive": 0,
+        "negative": 1,
+        "total": 2
+      },
+      "talarico": {
         "positive": 0,
         "negative": 0,
         "total": 1
