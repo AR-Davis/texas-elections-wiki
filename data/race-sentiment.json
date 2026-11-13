@@ -1,9 +1,88 @@
 {
-  "analyzedAt": "2026-11-12T19:42:47.103Z",
-  "newsFetchedAt": "2026-11-12T12:24:44.366Z",
+  "analyzedAt": "2026-11-13T00:57:19.789Z",
+  "newsFetchedAt": "2026-11-12T20:18:34.161Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 4,
   "stories": [
+    {
+      "title": "Ken Paxton finalizes divorce from state Sen. Angela Paxton days after his U.S. Senate loss",
+      "link": "https://feeds.texastribune.org/link/16799/17523373/ken-paxton-angela-paxton-divorce-finalized",
+      "pubDate": "Thu, 12 Nov 2026 18:51:59 +0000",
+      "feedSource": "texastribune",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "attorney general"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Ken Paxton finalizes divorce from state Sen. Angela Paxton days after his U.S. Senate loss, per report - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMm9CUUdhalotMUF5dmpuT3JXb1Rudl9HNm02X2YxY1l6aExSMFhxNGJENEk5MjJ5SkRJRm5jU0NWbXFiV1pBMXpXVzNfUjZ0cTBXQzdhZnNwSk5DZVpONzRUUmZkRmRXb1cyNTEyQlNHdGZfQm9LWmxNSkxNN0xYOUZySm5IbUpyb2Rz?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 18:51:59 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "SpaceX drops $74 billion on AI as Texas politics shift - Rolling Out",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jU3hCOVh1b0JUbGRPSDZyTDIxTzFSdUo2NnE4M3YyT29jT3JLWkhFUDduWTYySUhPUTk0cE1KZHJsV0tNeG5UNUdvVVd4RTlVNlhfTlBaVVRxMl9sb0NjenowOGYtNWMtT21kU3RBd1pZRVVXSUE?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 17:39:52 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "What Do Microsoft's Neocloud Rethink and Texas Politics Mean for IREN's Delayed US$4 Billion ARR Target? - kalkine.ca",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORmc3dHdaZkVNSGdGVkxNVktwcUpKbUo0QWVqWTI5bE53RmFjT3NqSXplTnFRT1Z1UjA0em1SeTFqYjVYeXA1MHRlSjBoUk9Qb1VZM3BEc0hpc1pfQnBtSk5aam9RSGV3cWEzeGtteXdnZzRLZ1NneGR0QnhqV3h4RnZBMzBCVDEydW9la0xYVy1vV241Zk44ajZCZi1sM1NtN20xSE9qMGNuQ0RtS3NBWDk3RnBwQ1phckl5Z3VEeDMtX1pSWnhQMWNJX0JERGhmZ05wekgwZEJUZHZKcUNRVjlB?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 10:26:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Cornyn declines to say if he voted for Paxton, cites Paxton’s ‘corruption’ as issue - The Hill",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRnQ4Y1liQ1ZjZEFjVW9DS1U1Sk9OcjNEWFRybXB1YnlxWmVlazI3R3BqTC00YlY2THYzSXc5M3A3emVkcmtod0kzLWtXY1o1NFc5bllhNHhwS1JmVXFsa1R1OVRmZm5hR1FjN1hDbm9fQTV1UlgyS1ItTkl0dGNEaG5fekdzMHZuRjQ40gGQAUFVX3lxTE9hOTh2TTBnOE5pZDRxZVhiN1pmcFdGWTJ3S2JFS2k0S1JEeTA2LW5WQU5YVF9Idi1SSHdOaldIWTV1aDZzbUdRNG9ZbWFJaS1Udjh2cnI5OVZoSm5jNHVCRjAtOUFJUHYxYkhwNVZheXRzdXFvaHdKUjhEcWxzUVAydU01Z1pLN3ZuZEdEVXZBWA?oc=5",
@@ -1949,119 +2028,41 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "James Talarico wins Senate race in Texas, securing historic victory – video - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMGhJZnFRWk9SS2NkMWJIM21ObEVYVmZmSmtydlEzdW9oLW43WFZkNGNUejJnUGlOQmkza0EwWXhHc29EcXA4blE0ejJ2UlM3VGR5VmFocEhLTUoxOFZlOG1nckVzYnY4a1ZFdFlzd3Ewd1hocGhUbG1LZ2w5ZWNaNzBReG1hTGlkcE43VFJBWVo4MnBuT3Z0Tnd0OXI0QkFEc1hjQmZOemxUZ2dEWm1ERjI5LTRwNHhNMnlDNTVxTzl6VnM?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 16:33:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "senate race"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W44",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Attorney General-elect explains how he’ll enforce Texas abortion law, whether he’ll investigate Ken Paxton, more - WFAA",
-      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPeVBSaWxSWUVtWXZVWC1NaFhnLVczWWlUVzRlaWYtRFhyQXFnc2JrNDBKa0VBTi1MV2dxZy1HU251YkQwallvWGVUSXdfQUpvbzZjend2bVhOU2lqU1RuM05fZDdTNmI4LTFiSlRmaFYxVndESXI0dXNocG1zcnhsT2N5MVJmTHZFUkdRR085T3pVcy1iN3NQLVR6NEFqZkk3UDdUb1Q3RW5TcTV6M1hweFBza1BnYUhDQzZmTUhBeGt2UVpMRnpyUmk3QlBFc1E2ODk4aXZPQk1oLTd1TVpCNWx1SFFlN084ZVVPRmJvUWJZSEJhZU5Pb2NvM0tZN09EWEd4ZW1xaFctMWdhZlk2aXVySWVEdTZjbFQ5ejAwNjNWakRvbjJPUlczbl9kWVZBanZoT3o0WU0zTElncmQwNEZlLVFXdw?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 01:28:31 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "attorney general"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Attorney General-elect Nathan Johnson says he won’t sue out-of-state doctors who mail abortion pills to Texas",
-      "link": "https://feeds.texastribune.org/link/16799/17515637/texas-abortion-ban-democrats-nathan-johnson-gina-hinojosa",
-      "pubDate": "Thu, 05 Nov 2026 01:50:29 +0000",
-      "feedSource": "texastribune",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "attorney general"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "How James Talarico won Texas, county by county - Dallas News",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYUdIeVBLWHZpMVJNeUhLWkxEeXhrU2tQSzhURVREMGZvVHl0c2VKUzVpRHBkU1lpcWpoTWxPSmcyc3NRbHBlRkhadTc1RWk0N3VrM08yZDk0U3lWOG9SLTNXd3BSTGprUEtmaG45a052M0NBT1NMY3JVNThUN3B1azM0RkVSUTFvaERZ?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 18:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
+    "2026-W46": {
+      "paxton": {
+        "positive": 0,
+        "negative": 2,
+        "total": 2
+      },
+      "general": {
+        "positive": 0,
+        "negative": 1,
+        "total": 3
+      }
+    },
     "2026-W45": {
       "paxton": {
         "positive": 0,
         "negative": 3,
-        "total": 13
+        "total": 12
       },
       "general": {
         "positive": 3,
         "negative": 0,
-        "total": 19
+        "total": 18
       },
       "talarico": {
         "positive": 7,
         "negative": 3,
-        "total": 50
+        "total": 49
       },
       "both": {
         "positive": 1,
         "negative": 1,
         "total": 8
-      }
-    },
-    "2026-W46": {
-      "general": {
-        "positive": 0,
-        "negative": 0,
-        "total": 1
       }
     },
     "2026-W44": {
@@ -2071,9 +2072,9 @@
         "total": 3
       },
       "talarico": {
-        "positive": 3,
+        "positive": 2,
         "negative": 0,
-        "total": 4
+        "total": 3
       },
       "general": {
         "positive": 0,
