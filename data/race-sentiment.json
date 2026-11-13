@@ -1,9 +1,168 @@
 {
-  "analyzedAt": "2026-11-13T00:57:19.789Z",
-  "newsFetchedAt": "2026-11-12T20:18:34.161Z",
+  "analyzedAt": "2026-11-13T07:41:51.079Z",
+  "newsFetchedAt": "2026-11-13T01:23:08.776Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 8,
   "stories": [
+    {
+      "title": "What The End Of Ken Paxton Marriage Really Means For Texas Politics - ИФЗ РАН",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSEtUY0lWdFJUR1R2YVF0Z3RjUFhHeThIZ2F2alJmTHdmR0owOEFob1hacFFzQ3ljaV95LWJBX3JsREg4eTBnQTdnLXg3ekw1M3BSdC1ocVlNT0VCc1JrVlU4Qll3eUlPUERUbEM1NS00cHRWcUJXZksydGdYU191ek9R?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 23:11:41 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "texas politics"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas Attorney General Ken Paxton has finalized his divorce, lawyer says, ending 38-year marriage - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWnpIQXp1cmVjV3JVZUVpeWdQaHkzRnBLVjFuNGlVU1JLV2VIdnFxeVRmUGw5RGxRV1IxWVJZZGhyTWpzc3JZUEc0V0hhZGJ6VU44VFM5YlZUdkg5NmV4NHBEU1lNT3JXemlhR0gxVXBqaF9IRWlzLUNsbTA0Zm1CQ0U2NGtnRnN1T2Iya0gtcDQ5dGtJdTM0eFpZN0hyVWsxVnQ3VEJaUTlfVDVpVGR1czEwQWhGUQ?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 00:03:59 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "attorney general"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas Attorney General Ken Paxton has finalized his divorce, lawyer says, ending long marriage - ABC7 WWSB",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT0o4djkzaTBPbGIycjRXYzEybFV2WXFjQllYREJ0em5oN0JsWVhFRUwzLVpYQzY4Vng0WkpFakhjeHQ2U2NqR1o5ZGtodHhwQTVYSndYNVFrQUN3WFhUVE14UWxPcmczRW40YmJfN0lqclRlQnZLV2RyRTM0dmdoTkdleXNmOHhRTFBuRGFVNE1DRlpkWDlKTGZSNE92Ry0tS3llTm5hRlp4RmUwVlJaQ0dva08yRVA3SEpEVTYtMVJHY2c0ZkdEQUtYNA?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 00:56:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "attorney general"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Will Texas Democrats expand Medicaid? Advocates are hopeful after election - Fort Worth Star-Telegram",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ1NuNEFJcjIxSHVqQkpweTdEd0RSa2FJRVlpaEtISjJ2LXJydl9tZm84Mnd1dGNkYWdWb01nMmhOWG5JZVRVZEMwLW5adW43T09MRk5wOEw3V0V4R1JpZHhhd1VUcTJNMDY1MjJNS1B4akIxV1h1Qmh4dGRscmlRYnRzRHpUZTdadXFlTENIWThfRThHNGfSAZYBQVVfeXFMTkhxTi1sOTlCdW9hWkhqaXduRVV5ZW1xbl9uOEtNVnZ5dnVZRlg2ay1iY0ZRYXhsSjNvcjl4NmZlUTVfQmFvUkFPbkIwWXlXaEF0T28xVFVrQzl5NlJZZWJVd2RXSm1fVm1PTzkycFFwLWRNMHJndklkbUhINkMwb05rekFSanA2ZHVqeF82OE5KLV91elZn?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 22:07:05 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 8,
+      "matchedKeywords": [
+        "texas democrat",
+        "texas democrats"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "‘My husband cheated on me’ Google searches led to Paxton, Democratic strategist says - Washington Times",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeFFLUE82YmRic2FId001YUgtVzFlZFl0eHJMM0lqSVRMNFhtQWN4V3o1enI5Wjk0dXNGbGZjQXBaM1d3SXpFTHZTRVpWc1BDaDZaeEhqMUN1eUIyNXRhTnhfbWROTGphemJtTDg0ajd0T1J6OHYycU5fQnhJTVlyd3ZveE9yNkh4RXc3dDVmX3VDOGY4LWpaeVQ5bnV1T1lWUXBVeTlMblhIR3pQaUVVbWFEZERGVW0wT0E?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 16:35:42 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "paxton"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "What’s next for Texas Republicans? - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUEVpbnhlUHZFS0pCLUpTajh3SEl4NGNTck1zV09iQ0NON2Z5VkxpSlhmMUtORDkwVFpNV2FTaDBEVllleTJrNUlCRzJPRjQxWFRnTHlfbXFjSjA5VGtNWlhKNFhrUmhYTmU0bnpfeUE3WlloaUFvSDc3Ul9ldExuV0Rza3FZTTVEWVBBVjdPLVEyMjRSYldicm5wNVBNZV9IajB4LVhhUUtZd0hsYlROMVl5eFZsdXVhWW1Z?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 12:13:51 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas republican"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W45",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas Democrat files bill to deliver Gina Hinojosa’s $1,500 checks: What to know - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSHFYTVVJSHQyOERmYXRGcnA3YnlVVDlKM0hvM0tlX2YtdkhTOXR5LXJscmFFX0F5ZW5jYk91ZVV2VzFJZW4ycGs1VXFMWi1SLXM0RkxyZlRoRGQzY2lBbFBGWWVzbVl3eTBieGpoTm9zVXNNNENja1Q2NWNCektXRTl2UFdSd1p2S1UtVXYtSV8wSkV0YUp3?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 08:00:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas democrat"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W45",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Cornyn’s defeat leaves Republicans with a more vulnerable Senate nominee: ANALYSIS - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUldSMmNZSWJtTlNGVkdTUks0RWJvcm5OX3ZNZjFfNnpnaUVNXzlHLWN1aW1yUDV4YlZuVG9KeTFTT3ZnVGh2SHFOc2dYblFYdWUydVJ3Wlh0NERzM21MZkRiaGtKRkpNbHdTRU9ObjBPb1VJYVhpajhZRS0zckIteFBRYWZPdGlLUVVCUnNqX2FCOXVTSVR4MDlmbXd5SGNlZzNwM0NYNTlKcmpWdzRDZjdMdUk3UDDSAbwBQVVfeXFMT2FsUFk2amdIQm1XOTlkdy1xSXVTTFYzeTB5UERFXzJuWXNMZkxXejk5UWFPYTFYSTRURWxaOGFjRV9zaG1mb0c4OEhsbTNQMzVEUlJCVFpmc01LcUpmY3FwcXRVblNRVEc4M2xta016RUNKandqbDRQQ0p6aGtEdFNlb3JqVVNuUkpkemxqaWtTODRDTzFtSUxuZWMtakpldDFFYnZtX19MbktVSGRtT2pTdlNSd2FOOWdweFY?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 20:26:49 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 4,
+      "matchedKeywords": [
+        "cornyn"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Ken Paxton finalizes divorce from state Sen. Angela Paxton days after his U.S. Senate loss",
       "link": "https://feeds.texastribune.org/link/16799/17523373/ken-paxton-angela-paxton-divorce-finalized",
@@ -1861,173 +2020,6 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "James Talarico takes aim at Elon Musk after Texas U.S. Senate victory - KHOU",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNM1hHb1VhQlJ5VTQtekw3ZlQ3N2NVZHhUTml2eUNXeENMREI5eFZiRDE5Uzd1czVEV1prVlhJSUY4U2x6YWJxZjEwbDJFeGRaMGthUXdTQks0YjVWS2tUVlE3eGNnR2duTzFhMmR1V09DdEdsXzN4VFlfdzB5RTg1UWtleUFiRnhneVJ2Z1RKOG5hMWRXaUJmTENyaXo3dll2b1dzSUxaWkJuVkc5RTZzOVhEQ3RuRnNtem0td3Q2SV90OGNoaGFIa0dR?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 12:25:37 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Former SAISD student recalls teacher-turned-Texas senator-elect James Talarico - KSAT",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdUFkUkhFOVB5Mm9CUlBPU21fanZzNjRlNVhXZkkwMW84dVRJX3hYZFUxSDZOOG5RZm4ydmZxRVRoaU9ZOW9XbGE4XzI3Y01fVURtN1Q2enlqSGQtNmZxenVCMFJUVXd1NXA5WDhySTJ3UF9MNjdTX1o1OGt3T05adExIN3huUVBCMzVreVVPWDRselZvNk92ZjNXUEpvTmZ0eE5EaTFGb25CeHZtdkQ3cmNtS05EZmoxZVVlRFNwYw?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 12:14:10 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Former SAISD student recalls teacher-turned-Texas senator-elect James Talarico - KSAT",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcUQwbXZ1dGhfQ2RUb2dQbkpvZnZUenlZRmlpRW5pWnpkcDFfZERrb3ZfRk1zMlB5S01XNG94NkFubnNhWWNCUFgyRE5PcmFUYURadU1sbWZwNF9nMzBQY2plR2p3bXl6QTBmNXBMdVZkVmk0cTNTZF9fMzliYzFTNVdpaWhrR3lwWE1zVU5LQ3lmc2F1RU5ZWVl0ZzBYSElmWmx2MDBtTU1KVEZPWHp5eUprbmdVYkl2NHQ3cHE5TQ?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 11:44:56 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Election Dispatches: James Talarico Returns to Campaign Trail in Texas After Absence Raised Questions - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPc2NOTmVTTjdyM092d2VoNnRrWlNnQjlMQUVlYXJqUE9FWWg0TmNhaFZPZ3o4NVZMSmI0Mk0wRnVHYWc4VVNqcGlPcWhaU2w0TFJGNmdZeXhfamNnN3RvLTllNXYwekUzc1ROVGVR?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 08:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Democrat James Talarico Flips Texas Senate Seat After Defeating Ken Paxton - myupnow.com",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNOFVlVjdoZnhhVUhvUkk5NXB5Y0c5eVNVTmZpNGMzOWtnYmp0enBvckQzMzdEQnd6OHRQVk9qaTNUMzlxVTA3d0hiVlU4X2h0b1pkd0tzaWNLMTVGS0V3Q1ZOU3dseXhWWEd3OENxaXo2QTNEN0FCQUV0anNDaVFPRjhwUWVoaGlEQ3gzOUFjYXRqN09MM25YSGRNTTJQbmtLckpkcjB0WWQxZUhJRUpleGsweVg2M3R0LXdLMEdjYnQ1Q1FFRllwOFBYLVBaUlZaaFl4ZmQ4MC1vYnJIVDlMM25LTzhQWUFIRlBneHRB?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 14:57:11 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 28,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton",
-        "texas senate"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W44",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Talarico wins Texas Senate race, first statewide Democratic victory in over 30 years - KATU",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMGszbkR6NDEwT1pXeGdyY2otcEZpNEdSU0hmNkxDS3pjRnlNaVVYTFZMREdqR24yTWFuM2ZyQmhRTFM5RUtnOEtnTEluaElIN0VzNE5UeTdMYjRoMDVWQTgxZ01FSUpWQXBhdXM3akRqTWI2ejJXcEQ5OGJsd01GOGtYOFptNjd6SWJybHVkZkN0aDBHRUMwVUpaNkZTc3dHSEU5MFBubFU?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 09:20:38 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "talarico",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W44",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "James Talarico's Texas Senate win in photos: Cheers, tears, joy - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObVgydnRXd1NpX3dfLUpHeWxRMzNWcHh0T3FkZHlibFlFVW0xWWR2b05ZNE9TTjhYeTU1Z1ZablZya1Bsb2NMY3VsRmRRRDQxc1phTVlQTUMzLWlCNFpmQUZmZ2o0ekljOUdLWGVZSDI4NURwLV9SakQ0QjRBUEJCNUhhMkpHS0xJNml2aHVhUG81NW1wSHYw?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 18:01:33 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W44",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Marshall in The Times: How Democrat James Talarico Won His Senate Race and Turned Texas Blue - Progressive Policy Institute",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNb1BUVzhtUE9XWTRHYjdhdG9SalpXWUFkeDNacTFndXFZcjI3am1HemRZaWRidXU0UDhWc0M0MHpuT253UFFOSHJuWjNyTFA2R1ZhVFFZdE4yc1lYMzFRMjZqemsyeTZmWWtjcUVMZEpRaHdCaG9QYUNZMDJFa0xoWlZ5ZnJNUEk2OU45VlBnLXQtQnZXQ2pUakdadmdUNWlFZ2lHdkQ0Nk50OVVTdDNPSy1KVEk3VGhGa21QdlF0YzR6VkVx?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 17:18:46 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "senate race"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
@@ -2035,29 +2027,29 @@
       "paxton": {
         "positive": 0,
         "negative": 2,
-        "total": 2
+        "total": 6
       },
       "general": {
         "positive": 0,
         "negative": 1,
-        "total": 3
+        "total": 5
       }
     },
     "2026-W45": {
+      "general": {
+        "positive": 3,
+        "negative": 0,
+        "total": 20
+      },
       "paxton": {
         "positive": 0,
         "negative": 3,
         "total": 12
       },
-      "general": {
-        "positive": 3,
-        "negative": 0,
-        "total": 18
-      },
       "talarico": {
         "positive": 7,
-        "negative": 3,
-        "total": 49
+        "negative": 2,
+        "total": 44
       },
       "both": {
         "positive": 1,
@@ -2072,16 +2064,11 @@
         "total": 3
       },
       "talarico": {
-        "positive": 2,
-        "negative": 0,
-        "total": 3
-      },
-      "general": {
         "positive": 0,
         "negative": 0,
         "total": 1
       },
-      "both": {
+      "general": {
         "positive": 0,
         "negative": 0,
         "total": 1
