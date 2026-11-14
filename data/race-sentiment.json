@@ -1,9 +1,29 @@
 {
-  "analyzedAt": "2026-11-14T02:05:25.784Z",
-  "newsFetchedAt": "2026-11-13T22:46:58.448Z",
+  "analyzedAt": "2026-11-14T09:16:34.679Z",
+  "newsFetchedAt": "2026-11-14T02:57:48.977Z",
   "totalAnalyzed": 100,
-  "newThisRun": 7,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "Ken Paxton’s office drops lawsuit accusing NCAA of deceptive marketing of women’s sports - KSAT",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYXZjWnNSVEtDS01YNFpIamxaRVNtUHpHSzlxTE85RTQ2M2RaY0wzR2RySVJfdFh2RFpjVERQSVFPNjN6QllXSUhXSWtwdDBGMHZlNGVEazJtX3Ryc0ZuUnJkckV2OUlnLXkzMmFhMjg3ai1HX0tBTzVxOG56eGlPNTJ5T01Jc29iLVVuM29GaWc1cW5oN0RpUm11dmxpTlVKT1FwNl8tdjFBSGxOLS16VEhpZXd6QjhjekxTdDRMWGR3REhkbXRQYWFR?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 19:54:19 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "James Talarico says Democrats should work with Trump after Texas Senate win - KEYE",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNXJJYWRPLW9TUmlha2p1d2UyU1Nody13YVlDdlZCM25hZ3pkQTBuN1dOMEVJZkhfaUFUQXlZcm44Y1lkRDIza0U5UC1mdHE2eWxfckhiUHBSUWFVQXJEcUlGemxtT0JlbUpZYlg2UjZhUTRJQ3BwQ1BEa0gyVEdaek1zckVhaEgtT1VxMDF6VFpPSXE4bTZ4VzlFYVMxMjhDYTFQTHFMVzZNVFdo?oc=5",
@@ -1998,39 +2018,19 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "State of Texas: After historic wins, Texas Democrats prepare to govern beyond party - KXAN Austin",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZWFFMU1sSUJhQXpMaVVEZVptZGVTWTZoeVBhQ0ZQSFBCdlFzdnhZM1VSRFE5VUxqeWR2OU9lUy1qSm85cjd2Z2FGbDd6VTJkOEZCLXZZXzBHbVZrMWZLa0lBS1cwTXFYWW5naWlhbHo2Nzd1cmIzemhHMDVXNzFwWDF5Mk9BeXBpaDRIYzBfLURnaFpod2NOS1dXQXRiTld1cDcyS1VHMHRKaExWSDEwT21hSmVPZnVKZ2IwZmotN2pNdw?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 22:08:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 8,
-      "matchedKeywords": [
-        "texas democrat",
-        "texas democrats"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
     "2026-W46": {
+      "paxton": {
+        "positive": 0,
+        "negative": 8,
+        "total": 20
+      },
       "talarico": {
         "positive": 3,
         "negative": 0,
         "total": 5
-      },
-      "paxton": {
-        "positive": 0,
-        "negative": 7,
-        "total": 19
       },
       "general": {
         "positive": 0,
@@ -2040,9 +2040,9 @@
     },
     "2026-W45": {
       "general": {
-        "positive": 3,
+        "positive": 2,
         "negative": 0,
-        "total": 15
+        "total": 14
       },
       "paxton": {
         "positive": 0,
