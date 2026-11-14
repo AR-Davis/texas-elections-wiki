@@ -1,9 +1,150 @@
 {
-  "analyzedAt": "2026-11-13T21:50:55.494Z",
-  "newsFetchedAt": "2026-11-13T17:03:13.878Z",
+  "analyzedAt": "2026-11-14T02:05:25.784Z",
+  "newsFetchedAt": "2026-11-13T22:46:58.448Z",
   "totalAnalyzed": 100,
   "newThisRun": 7,
   "stories": [
+    {
+      "title": "James Talarico says Democrats should work with Trump after Texas Senate win - KEYE",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNXJJYWRPLW9TUmlha2p1d2UyU1Nody13YVlDdlZCM25hZ3pkQTBuN1dOMEVJZkhfaUFUQXlZcm44Y1lkRDIza0U5UC1mdHE2eWxfckhiUHBSUWFVQXJEcUlGemxtT0JlbUpZYlg2UjZhUTRJQ3BwQ1BEa0gyVEdaek1zckVhaEgtT1VxMDF6VFpPSXE4bTZ4VzlFYVMxMjhDYTFQTHFMVzZNVFdo?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 14:34:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 17,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "texas senate"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Ken Paxton’s office drops lawsuit accusing NCAA of deceptive marketing of women’s sports",
+      "link": "https://feeds.texastribune.org/link/16799/17524174/texas-ncaa-lawsuit-attorney-general-paxton",
+      "pubDate": "Fri, 13 Nov 2026 19:54:19 +0000",
+      "feedSource": "texastribune",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "attorney general"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Ken Paxton gave Tony Buzbee big state contracts that new AG may end - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ0pHekdXWXJTdWpEWmwzSXVpUWdFM3ZkVEFyb0Y1RzhkakNzM3lLX3BZSDliTks3LTYxek5WWG5uS0lLSXFBbUhaN1N5NThBdS1mdWdWeGRJdjVHMWlWWUlNeTZqdTFQeHdPRmxiMXJ1SWk1cWQzcXhyb01UeF9HQmZFeUNzaV9DTDhTM2tVMk8?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 17:43:49 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Ken Paxton's divorce from wife Angela finalized after Senate loss - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMFlRT2I1NGgtb3ZXcHQ1RTB5Tm1YMTg2SXJ0RUUtXzRBanlHWWRlUmU3ZjNOQ2F1eUF6bkhoeHlYMmpaQndCcGpGTnFSQTI1c3hfalpYcExBeFc3SGx0T1JkZ0tmRGZJWXU5NlJsWHBhTzRYSzRzLVJFdE9oQTA3WE1MdTVSR3lpN2ZlcHZFZEhXLUNlcFBPYVlDdGozcnNfZm9xbTdZeWFfNDRPckRrYllHa3VGOXpMVzg0aFFFUGNsaUgzQnBTWklQUQ?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 19:37:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Karl Rove: Texas midterms ‘would have been different’ if Cornyn received Senate nomination over Paxton - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbVkwVXpMSnFGMkRPbVh0dEdUN0U1bU1mMWV5cG9lUUdsSzNRZzFLcWFScXBsUDZzLVhuNV9MSXN4Vk9KS1RYYm5IT3Y0Rk9TM0VzanVVb0R4d3FjUGV6M0V5eVJJSWRtU3FzcUN0MkE2ZnJEQmh1V0Q2a1paNEUzZ29fd0xONTJNcEVv0gGTAUFVX3lxTE0ydk1RaHBubFlKYUpzdHVoRlBHT1lRMzhHbWstNlBhTXI0di1reVQ1d2hCbXJIb2pqNTYxVWZYQ3NpLVE0NEVpUk9ET0ozWlNvX1pBZ3Y4WFlPQW5weHFDMXB1MnhaY2l3RzNRZ19xMzItTUhDTmJ4c3ZoREhBMHAtcUVnbTRKWmlZbTAyalQtWjAwRQ?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 14:18:47 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "cornyn"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Ken Paxton finalizes divorce from state Sen. Angela Paxton days after his U.S. Senate loss, per report - KWTX",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZmk5R2FZY1ZBSFZ6d0lQVlM5RWptUHBrN2tjUDNOeEQ5czZ5VFI0NEhnWEFDNm9xcmJGU0tRclBYTUE3cEVTTXhnTWxCekctMXljZTNUSWtrVEdGaHZaVXdvdVd6TDVZVVVyekZoM25WT0ItZHJTNDJfVEVMM29HX2pkLVpkbGp2SEtROG9JN1dseDZaaERkeWJVdDV1MVdFcGI3bmlGR2RSbmttREhQdzkzLVNjY0dCeDQxLUxHN2lJRjJy0gHYAUFVX3lxTE44RzVfNnFFRlpLdGRRRlVRcWdseHdBLTBtRE1ESXRuQzV5ZnFsWXBjbGNxUWRuQzk2REM4aDVfaUx4NzRXc3dPMkJ4ZlJrV3JmUmxBZm9NZXVLNGc4MFk1M3VNeXQ1aG5heEtPQVNHdGRwTUE1cjVDVE00VEd1ZDVwU2JLNHY5NDM4c2xmY3RpRG1MT05KaTAtaFVZWEV6RzRSVExBQ05DNEczUnFjR3l6VlZXX3hSZXlHcDZpRlVYbmhnQ3FsUzM1clphU2gyd2FzbFp5aXlJLQ?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 20:33:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas politics changed by this week’s midterm elections - el-observador.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVVJSYTlsMGRBTmhONnZGSDhfTjRqR214ME56a2NYcTlabnlXZE5yUFZCYUFWNDV3eURZQ1Z6YlhNb2pkRGVKek5qMlJYX1lBUWdRcWtLdGczbG91TjdiY3R1WEd6eldyTWhqYWQ0VHA0Q1RiUy1aR3hlaDJSaFRnSFpOZVN2d25ZLWFJeW1KR0QyQ2N0OGtV?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 19:33:23 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "James Talarico says Democrats should work with Trump after Texas Senate win - KATV",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZDZLVFVwbGVEWDVUTW8wWkFBWmZRQzI2bUVYU0hsMWo3RjBwN2toT19kY2g3THh1SDFndVlJVE90ckNVelh2ZDZGdmV4VEVUSV84VFpjamU3bkpRQmJjeVhuN0p0V2psUjlUYUZIZFVGMmNkemdtRTVwLVFmbi0xaTV5ZmFERXJXLVBGLUlnWHNSUzVwYnExWVBKbWRWSktPUUpEZ3E0UmtneXpRRWphcWZIMXJHelpmS0ZYQUtlZkQtTFN4dV8tenIyaDc?oc=5",
@@ -1877,188 +2018,46 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "Texas Senate: James Talarico (D) - The Well News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU1g5UWR1Zi1zWHJhYzROYmtKZFJ3YUx1UVByYXZmNEN2TE1tcUlsQ2hXQ0d4bURCSXRyZTdzRTJRTXhlcXJhVGVnMkYwMlBldGRZM2JoOHFkM05WOU9xdE1salg2YWctNWluYThvSjNVa3FKN0xOMTJheFJkMTNBNXUzbzVneDQ1a3RNa3JaMWlicnJCa2h1Sk51M2F4c1RMc3ZwcA?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 20:47:18 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Trump-backed Paxton will beat incumbent Cornyn in Texas GOP Senate runoff, AP projects - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbmNCQVBFclB5WnZlaks4UnZiUWVkenNZdTdkYlZKOEZRZFhYcGMxNDEyemhBYUt1bV9QaEFHdzBWcW1XMDZENFdZRkVSamZuWXFDa1dQX3VnTXF6ci1MdHptZVlkb2VRd05QamF3akJDVFJGdktUeWhXOGZ2OEVRNGY5QWtJVU45dHd5QUVodDdIb2Q00gGaAUFVX3lxTFA5Q0ZVS01wSmplbWVESnVkdTJWdDRBZHlDU0ZmRWlXS2dSa2VrZFdkay1PZ21sU2FGT0xwMmszQ0xBWkhXbU1NQ2RfVWNxU1lFb09hcE9PVVY1M0tIcE9ZZ2hoZmwtUEhHaVFhSG5Na09lMW5ubUVOZ0FSYXhFYzZYUUtIczdka05UalVjOGxxaEZyRU1nb1VtM1E?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 08:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "paxton",
-        "cornyn",
-        "texas gop"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Democrat James Talarico flips a US Senate seat in Texas and sends a shock through the GOP - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZnNpMm9rTWRZTHktaEt6R2x6UFU5ekdPQjdCVi13MkdVQ00zRXlvU214OFhfeEVCdWRwMEEzTld2MXBBUU1OSVIzZ3ZoUFRSRXl2dkk0WVYtbmJxX0dqWnVIQ1VLX3V3YnFldVRGZzB0Tnp6SUIwem5LRWRjRkVEMi1uZ2c5UnFIM2dFcUItR2I2LVYyU3ZxLXJrUTFXMGwyelRZWWEzbERSQjMxR0N3WmYyNA?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 03:44:40 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Talarico walks back comments on religion and gender after Paxton's win - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTlBjOGxUYUZyTnFyci04a1NVcWZMb1QwMmlXOGdxaThhd0dyRkM3cENLOGhxbUxQWDZadmtWR2ZVNDNMQVJfNG1QR2cyS2JkOHczdHR1SV9KMy1SaUJrZGdPXzAzUW92a1B1N2E1TkxoVWJHbzNqVmhBLW04NkQ1ei1xTy15R1pydjhnV1EwcEtWTlFDUlJvU2hmaU1BM01lWVBGWGhGY1Jpd9IBrwFBVV95cUxNR3ZxR0lCd3piTnlxTDFOQzZHQktKYldfSWV1dmNVcHloUlNfY28ycHR1Y054dnQxSXVDaTVUYU5pWXNadTFuak5OLTRMNWY5QXBYVW5HWmFvTGFPclU4dG9lR0tRTDgyZXRDTGVfRjNRRkdGbjhSeTRVTjZ2Vm1QbHVpUUpqam9MeUlfMXdvbFluOURGWmdidU5OcXA2X3hWQjE5dDhZb0VkcnFvUWFr?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 08:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 10,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Herman: How Texas Democrats finally found their way out of the desert - Austin American-Statesman",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOF9HdEVGOXNldnp3ZEdLRktUZ29NMW1mbVJ0bTkzRTVuUm9CNV92Smo4WUNFUVlwY0VaT093a290Sm1nOENod1U2eXhGZHBiNUZHWFpzbng1Sm8tUTg5dWpLQ05sWVVWZEppX3BvS25KY2hCQlIycklyanFpV1pkQ3U2UWJKZzhoTktRbGxEUDJ4LTBYb0czdFY3RDJRdmxSdTAtUXh3?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 11:07:44 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 8,
-      "matchedKeywords": [
-        "texas democrat",
-        "texas democrats"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "When will Gina Hinojosa take office? Key dates as Texas Democrats take control. - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOVd6LWd1RWZ1cFpPeG9XMXByd2t6VWVvbnBraGJQQy1CVlZ2UVFjVzVrX09KaG5wRF9JakFYV21nZ1kwVXNWMjg3N2NPWVgwcW9KcWlUdUFNN3ByWkRJNVZEa29XTW9fUXJsdDI2Z01jc1lyTUxNMXphS2NXNzJRTkNwSXRXWVl6aElWRldSSQ?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 08:39:39 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 8,
-      "matchedKeywords": [
-        "texas democrat",
-        "texas democrats"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Texas Democrats already angling to be the next House speaker",
-      "link": "https://feeds.texastribune.org/link/16799/17516206/texas-democrats-house-speaker-senfronia-thompson-eddie-morales",
-      "pubDate": "Thu, 05 Nov 2026 21:48:20 +0000",
-      "feedSource": "texastribune",
-      "raceScore": 8,
-      "matchedKeywords": [
-        "texas democrat",
-        "texas democrats"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
     "2026-W46": {
       "talarico": {
-        "positive": 2,
+        "positive": 3,
         "negative": 0,
-        "total": 4
+        "total": 5
       },
       "paxton": {
         "positive": 0,
-        "negative": 4,
-        "total": 14
+        "negative": 7,
+        "total": 19
       },
       "general": {
         "positive": 0,
         "negative": 1,
-        "total": 6
+        "total": 7
       }
     },
     "2026-W45": {
       "general": {
         "positive": 3,
         "negative": 0,
-        "total": 18
+        "total": 15
       },
       "paxton": {
         "positive": 0,
         "negative": 3,
-        "total": 12
+        "total": 11
       },
       "talarico": {
         "positive": 6,
         "negative": 2,
-        "total": 40
+        "total": 38
       },
       "both": {
-        "positive": 1,
+        "positive": 0,
         "negative": 1,
-        "total": 6
+        "total": 5
       }
     }
   }
