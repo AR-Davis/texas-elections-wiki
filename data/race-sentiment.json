@@ -1,9 +1,69 @@
 {
-  "analyzedAt": "2026-11-14T20:30:59.475Z",
-  "newsFetchedAt": "2026-11-14T16:40:51.267Z",
+  "analyzedAt": "2026-11-15T00:08:10.753Z",
+  "newsFetchedAt": "2026-11-14T21:14:32.250Z",
   "totalAnalyzed": 100,
   "newThisRun": 3,
   "stories": [
+    {
+      "title": "Texas Attorney General Ken Paxton has finalized his divorce, lawyer says, ending long marriage - WCAX",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc0VOa2ZwNXVZZFp5MzNvbnkxeGhPTXIwcGtXRXJEVjdrWVpCRnBlOWpvWkJBX3JjNnFzODdjMkRueGF4TkpTekNKMTl5TDhQTXVvWnVHd1dsVVZuZUUzQkpyaUM2S1licWhBcTIzb0EtblV1bG1YcFR0b3p6b3ZXX1pUdmMycFpSMXhMY2FHVHUxYXBwYTJpWlAtakgyNVowbExOYnRfSTZ1YWJndzhySUktZmxlYkpIdGpVQmI1S2tWWmM?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 00:56:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "attorney general"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "How James Talarico turned Texas blue: Inside the voting numbers behind his Senate win - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaXFqdzZrZTdyTUFCamE5R0ZkU1loVnV2VjZ5Z0VDa2Vfa2I1NXZJODZuUEtWM0V5M1k1WFE5aHRQSGN3S1BjUDF5RXhvbFJmaHdCb2RHazZEOEpVeVUwRE5EbEhxT0t2bXF3VEVFaVFPdnoyN3NFQ19pYXpkcUJNa2prMzR0N09GNzVrdG13?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 15:09:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "EAST TEXAS POLITICS: Longview Republican discusses support for Houston Democrat in House speaker race - KLTV.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPODdqdnJJYzQzMGJxZE5iLWxiZlRJa0xBa2U0T1dyNTh3Z2ptTmszWHlDUXh2cFpOeHNvOWlPckFYTVpMS0VvR245Uk1WcnFpX3pPRXYwZzMza2tKcGcyOHBjVXZ5Z2d3R0k1TUYySWpFeGJqX29vemhFUGZubUlRZjlVMDJ2Qm56QnZiOGRfeWxYMzQwNkIwN2FRN2pqMm1QT1JXbG9VS2poTmVERkd3d2d4ZWlfOWZOLVNGQTA0R1IzUkNq0gHYAUFVX3lxTE9zR3M2RmptU291R3ZUNXJrdlJsS3hzTmQ3NjUxRW1Jb0tkZ19fRTE5Rzc5RmpfR2ZjM01semVWTUtBUzJNWWVCRlJFNjBQa001QUNjOERBUnNETnJzOXZWRDFWU1otQWJndXJ2N0Nqbk9GQkJ4Tk9xQ3hpT01OajFiWkpFMTc4VUlwenRWQUVHY2g4TEY5XzA0MC1BT1M0VmN6dWkwT3pab2tMS2sxVzJEcFpEQ3RReXFXWWtYYXJoZFFvRlhWaFpGSS1zaUQ5V0UtWFRPdVBUVA?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 00:56:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Who are the biggest donors backing Talarico and Paxton in the Texas Senate race? See the top ones. - Houston Chronicle",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZU3JMQzliMTVWSURSY1FPcGI5WXQtdHljOVI0M2k5UzNKaU9oSHVuUG9velRnRTV1TnhxbnA1TDA5cVQyNVZCZlo5X2NHemRscWJzcmJKaVlBVTdLS2NKLUtQamFQNTk1bEJEV1NkblI0THBUYWVxTkwwYUlUZUk?oc=5",
@@ -1959,96 +2019,36 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "James Talarico Crashes ‘SNL’ Cold Open, Apologizes for Texting Us So Much - The Hollywood Reporter",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdlZnVFNKMUZoWEdLTF92UVR2LUFULWszbUs1cWJabUFaNXU2ME1KQ0R3c0Z0UHVFaU1UNGlpOV84UzlJMXRZMVdYUDI4dGYxOHpSMzRsS2FuSlNVMC04b3dIYlpTbkJScTkwSVdTMEduM21pZ2lFc3JsUk1qU1hCRE9fR2hkT0JYbzVpRjdUR1dVd0hKOW5GajduMlFEcmhsNkVXV1JnS0FueVU1?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 05:36:16 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "James Talarico Crashes ‘SNL’ Cold Open: ‘I’m the Guy Who’s Been Texting You Every Day Asking for $5’ - Variety",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMGhDaVFzMFg0R1V4d1RNaHdrM2ZHTUdJMkZGODVFdzJ5eENyM29KSE1jZmt0T3d0djB2RGJwY2NzV0hJYTZ5Njktdlk1cVpxRkwxLXVlZkFwVDJiUmc5VWJralZYWS1xenllRlRqWmxhZmtpZ3B1eUF6LV95aXdWYkU5ZF9ZM01Kai1kcXBQeW82ZFBFWTBuVUhEQS1icDFNemRldA?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 04:53:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Election triumphs, a series of scandals dot Ken Paxton's political timeline - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVlGUDlUSDhmNnllbllSSHVTQlNIcE1iTGRpcHVsdDZfN29hTlJpdDVLSW1fM05zbXhHb2pIM0RqU1NZcXhNUG52ZzJReEVrRkhsLUEwX3JfSjViZWZwdDliZlljWVVBNHpPVWRHRzcxakUzakhrQjV4a0g3SXVzX0NGWjFoSTNlLUIwdFRwanNadmw3azJIQ1JBNXM1blBlTUM5UUZtMDB5bDjSAbABQVVfeXFMUDQyZ0RKenVWMF9sYkRyM0QxZnREc0E2SE96a2R1ZUlEYm1EaWYzdkNobkU5cFR0LVdmQkl0c2ZUYURrbm1oNmhFci1xeUlRYXZjUlBUc3hUTnlYNnJqd1JGeUxQNjF0WEhUV1N6eFhjVWFKRDJSLXR3NGd6X0kwc2hlUDhwVFpPNHAyU0FHdTJfOXNvREs1WFdGNTdJZHR4Y19OVTg0V084RVBGSDNobGE?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
     "2026-W46": {
+      "paxton": {
+        "positive": 0,
+        "negative": 10,
+        "total": 23
+      },
+      "talarico": {
+        "positive": 4,
+        "negative": 0,
+        "total": 6
+      },
+      "general": {
+        "positive": 1,
+        "negative": 1,
+        "total": 9
+      },
       "both": {
         "positive": 1,
         "negative": 0,
         "total": 2
-      },
-      "paxton": {
-        "positive": 0,
-        "negative": 10,
-        "total": 22
-      },
-      "general": {
-        "positive": 0,
-        "negative": 1,
-        "total": 8
-      },
-      "talarico": {
-        "positive": 3,
-        "negative": 0,
-        "total": 5
       }
     },
     "2026-W45": {
       "paxton": {
         "positive": 0,
         "negative": 2,
-        "total": 9
+        "total": 8
       },
       "general": {
         "positive": 2,
@@ -2058,7 +2058,7 @@
       "talarico": {
         "positive": 5,
         "negative": 2,
-        "total": 36
+        "total": 34
       },
       "both": {
         "positive": 0,
