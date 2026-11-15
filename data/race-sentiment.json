@@ -1,9 +1,111 @@
 {
-  "analyzedAt": "2026-11-15T00:08:10.753Z",
-  "newsFetchedAt": "2026-11-14T21:14:32.250Z",
+  "analyzedAt": "2026-11-15T07:00:15.143Z",
+  "newsFetchedAt": "2026-11-15T01:13:06.463Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 5,
   "stories": [
+    {
+      "title": "Texas Attorney General Ken Paxton has finalized his divorce, lawyer says, ending long marriage - AZ Family",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZF82SzlQdjFZS2VIYWpLT2s5TXlKVXA2LUJQaXRQYnpuVjV5djRTaE9BV3JPTDAwSUl1N0hYV001Z2diVGhOeDg1X1lGNU5KVWRKa0swMTNrbVRKaXdHRGRmUWRGaU01SFhPVkczNUZlN3dxc1ZpN1BaRXJtZkdwazNDbjNBeVBvTndYY1dMcnBHNVU0M3cySTRfNGphakR0eEdMOXo3RmVjRjltR21sUW5NVDMyM3FGNjRJMDVkLU1hUWRMcHlkNQ?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 00:56:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "attorney general"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Trump-backed Paxton will beat incumbent Cornyn in Texas GOP Senate runoff, AP projects - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbmNCQVBFclB5WnZlaks4UnZiUWVkenNZdTdkYlZKOEZRZFhYcGMxNDEyemhBYUt1bV9QaEFHdzBWcW1XMDZENFdZRkVSamZuWXFDa1dQX3VnTXF6ci1MdHptZVlkb2VRd05QamF3akJDVFJGdktUeWhXOGZ2OEVRNGY5QWtJVU45dHd5QUVodDdIb2Q00gGaAUFVX3lxTFA5Q0ZVS01wSmplbWVESnVkdTJWdDRBZHlDU0ZmRWlXS2dSa2VrZFdkay1PZ21sU2FGT0xwMmszQ0xBWkhXbU1NQ2RfVWNxU1lFb09hcE9PVVY1M0tIcE9ZZ2hoZmwtUEhHaVFhSG5Na09lMW5ubUVOZ0FSYXhFYzZYUUtIczdka05UalVjOGxxaEZyRU1nb1VtM1E?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 16:49:48 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "paxton",
+        "cornyn",
+        "texas gop"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Election triumphs, a series of scandals dot Ken Paxton's political timeline - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVlGUDlUSDhmNnllbllSSHVTQlNIcE1iTGRpcHVsdDZfN29hTlJpdDVLSW1fM05zbXhHb2pIM0RqU1NZcXhNUG52ZzJReEVrRkhsLUEwX3JfSjViZWZwdDliZlljWVVBNHpPVWRHRzcxakUzakhrQjV4a0g3SXVzX0NGWjFoSTNlLUIwdFRwanNadmw3azJIQ1JBNXM1blBlTUM5UUZtMDB5bDjSAbABQVVfeXFMUDQyZ0RKenVWMF9sYkRyM0QxZnREc0E2SE96a2R1ZUlEYm1EaWYzdkNobkU5cFR0LVdmQkl0c2ZUYURrbm1oNmhFci1xeUlRYXZjUlBUc3hUTnlYNnJqd1JGeUxQNjF0WEhUV1N6eFhjVWFKRDJSLXR3NGd6X0kwc2hlUDhwVFpPNHAyU0FHdTJfOXNvREs1WFdGNTdJZHR4Y19OVTg0V084RVBGSDNobGE?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 13:06:47 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Will Texas Senate Republicans strip Democrat Lt. Gov.-elect Vikki Goodwin of power? Sen. Paul Bettencourt talks with Inside Texas Politics - KVUE",
+      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQd3VwdzJWWkw5cE1Hck5ubG9CUVNZXzFnam04endYU0ViSkIxZ0hrT29ES0lPMWxSR0pDeUFoQlVvUzFEaTFDYWlYTDdVZy1rQk5MX0I1Rm1neFNDeGxnTldGeHdISk5PVFlmWEd4UTVMZDExQ0owUUx4blVxR09FUzJ4Yzd5dTJYUkY5eGxLU0RCMTZSRkI4SU1DVmFWcV92NnhWZXRVZENtbmdQWDdWVjJhN21zSEpuZDA0enZKRDBlanRqbmsxSFNFWkRxTm1Kc2lYRXY1TThKck1uLXBaZzBLMEJWUDVxNXhoTEtkaHRfT2M1SGNvMzhkMlJEaGJHeGRMUWpHa2xDZlM5UkJvdV9SejdFTWJlaWFYcnFrX1ZtcVo2R2FHZVpaT3U1X0Z2TmlpU0w5MWtySWowaXY4a1ZfQzA2eWNpQjB1eU9LSXg0eFU5b04ySlFDSDZUT0xsOTlXdGVPamI?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 22:15:32 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 10,
+      "matchedKeywords": [
+        "texas senate",
+        "texas politics"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Former President Bush and Sen. Cornyn take part in fundraiser for battleground Senate candidates -- without Paxton - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRVNWemtQR2wteXBzeWZHald6YmRYSEVMcDc4X2QwQXh2OXVEMUNHRUJvNWRSOFlTME12WC05eHVqVUdwOVdGSGdzUDR5QUxzZlZfcFlqTjdxOVZIR0d3dDUxQU8zRFgxNFZ3Rnk4eE1leTMzQkxKdkhsVWxVSEtGbUNaOTJSWmxZRmhkbWtCenZoekNZcGlCQXFUbnExU2VNZ2ZzVzhTaW5XVG4tWkHSAbMBQVVfeXFMTjZYbXdrN1dxS2R1WkZydUFPSEV1LVExZElFLWdMeEkxOTFsNkNqcE5BOExCYzRINzlBaFR4VFZ4NEFKY3VLcFlsclBtelQwZllXQnFncmFaZmg2UTNTYmxLQkV5Y0JENnAxNzJud3dyeThTZFM3aGJMLTBsQ3pOQnFYMFpxWHV3WWk0RTMzQVVseVhwYzhPelF0TV83bFRfTEdfcHRCZi0yYnlHb2xwNUxHVTQ?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 19:16:50 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 9,
+      "matchedKeywords": [
+        "paxton",
+        "cornyn"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Texas Attorney General Ken Paxton has finalized his divorce, lawyer says, ending long marriage - WCAX",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc0VOa2ZwNXVZZFp5MzNvbnkxeGhPTXIwcGtXRXJEVjdrWVpCRnBlOWpvWkJBX3JjNnFzODdjMkRueGF4TkpTekNKMTl5TDhQTXVvWnVHd1dsVVZuZUUzQkpyaUM2S1licWhBcTIzb0EtblV1bG1YcFR0b3p6b3ZXX1pUdmMycFpSMXhMY2FHVHUxYXBwYTJpWlAtakgyNVowbExOYnRfSTZ1YWJndzhySUktZmxlYkpIdGpVQmI1S2tWWmM?oc=5",
@@ -1918,107 +2020,6 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "Texas GOP Senate candidate Ken Paxton works to overcome fundraising woes, with President Trump's help - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMmdWTmVmZlJmQk12aXJZSlNaa2c0MHJic2F2ZHZxODdtN0tNOUdVcGYtVnZBX3J6Z3RMWGZKQmZSNjVpbkZ0TXR0aTJQM05Ia1dEQlRaY2NZTTVXS3g4ckJvdnMyWXIyRzRleUJkdGVzRjZodnRVWG5tX0Jvbk5zUmQ1bFBfWmhSZmRRd3M1R1N3LXo0U1pOSHJieEFGVVpVdlHSAacBQVVfeXFMUFVCVjdaWlpjQlktRzNLZGhCV2wtZlZmRldlZVhlT2NOc3A2RXk4OHNkN3kwdl85ZnBfaTcxMHNYZ0dvUnNZMUdIbHpXcnpQZXN4bmltUndYQWF1clBBTE42WHZFXzdpRHdBcUtxSHVielFaWFNQUVIycHpLRGxFUU1LbHBVUURVaEdza1FicXN6dVpwMDh2NHd3TTFwUGhLVjVxSmh4cjA?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "texas gop"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Texas senator James Talarico takes brutal swipe at 'Trump freezers' on SNL following 'blue tsunami' midterm sweep - UNILAD",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaDltWHNuNm1tY09EVHo1LVhzY0hXOTZWN0VVeUdFVy1KU29iVDFYYWRPLWdvZ2I2blZpTFpURVkwclhkZ2NTQ1hVdFAzZDJWZ2Y1b2w0cDZTZFh0UjN2Um1iQVc3clhocnF1SUxFRkstZ1Q2N3puZlliOUNrNjRmYmJBZTlHX3dSZTk0M243a1l5NG9xQldBMXZZSUFqMzRnanhxMnRRcllzRlE?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 10:03:54 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "James Talarico, the new senator-elect of Texas, has a message for Trump in ‘SNL’ cold open - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRkpRRTVBRjUwNzF5YzhubjFNZWdxUVppMXJmRl9FMDJRSDdWYTNNaDVXMGlIS1FSaGJvQTFqeWFkZDBndmhvSDdSY2xfaUdzSzJQQ01rLWdzblZLeHlOdGFxNUZnWERvMmdmSWVZZ0hlNFp0Z2I4X3dYRUhiT0ZpV2VWZmRwa1hjQ1lZS2ZSVkFOYkVkUzl6MU9JdGdtQVZ1TlRhbW5HYVk?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 05:30:04 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "“The guy who’s been texting you every day asking for five dollars”: James Talarico steals the show in ‘SNL’ cold open - primetimer.com",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMlVDLTFHX1UzM003aUZ5Uzg5T0VNU0x0SkVxcGg5SDg5UmFSVTMwSUZsa1Vic2U2WWx4al84SGx5cnQyT3YyMWRLb25jbFNvSjI5ek9LU3pVSWNyRkpseTFmc2hFLWFFdlpDa0ZGT3A0a3N4S0Rlb3l6NTBtN2MzREdjdkxuYUZSQkZCNjhCd3piWEZBSWhGWXowTFRZejhUdUZPSDRobHRfU1JZbGZHR3NjTlhIT1hXYUNtVlZwemxWMmhKLWppZWJULWcyUUJhQm0zTHFaclNhUkJL?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 07:53:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "James Talarico makes a cameo on ‘SNL’ - CNN",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSGdHamlJR0pqV2g5VGZScFpGNGZDTktNeU05YXZMdFJKdVhsSjJWU1VFakdwUE5yeW50Tm1kbm1tNEVSc0F2eExnbGhnSXN6TzQxWUUzOWVCZHRPbklHZ040QVp0S29wSEJUV0RUelgyS2ROTU5Nd1NxTUNHbmJSSWc0NlQwa3ZUWUwwS2ptVW16MzBBT3BV?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 06:02:39 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
@@ -2026,17 +2027,17 @@
       "paxton": {
         "positive": 0,
         "negative": 10,
-        "total": 23
+        "total": 27
+      },
+      "general": {
+        "positive": 1,
+        "negative": 1,
+        "total": 10
       },
       "talarico": {
         "positive": 4,
         "negative": 0,
         "total": 6
-      },
-      "general": {
-        "positive": 1,
-        "negative": 1,
-        "total": 9
       },
       "both": {
         "positive": 1,
@@ -2048,7 +2049,7 @@
       "paxton": {
         "positive": 0,
         "negative": 2,
-        "total": 8
+        "total": 7
       },
       "general": {
         "positive": 2,
@@ -2058,7 +2059,7 @@
       "talarico": {
         "positive": 5,
         "negative": 2,
-        "total": 34
+        "total": 30
       },
       "both": {
         "positive": 0,
