@@ -1,9 +1,49 @@
 {
-  "analyzedAt": "2026-11-15T07:00:15.143Z",
-  "newsFetchedAt": "2026-11-15T01:13:06.463Z",
+  "analyzedAt": "2026-11-15T14:36:42.112Z",
+  "newsFetchedAt": "2026-11-15T08:19:06.352Z",
   "totalAnalyzed": 100,
-  "newThisRun": 5,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Ken Paxton’s office drops lawsuit accusing NCAA of deceptive marketing of women’s sports - Click2Houston",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxON0FsVEU1bXZmeW5GczJLcnVNcjlub2ZPdmZIWjJkbjRwMXYzOFFwV2ZES0lZTmszUEU4ckhKYWhlVHE5NV9EbFhPS2djVEZ6dTVFb3FEazNZcWJ1M3F2emhDXy1nd0xROHc3ZVVMNE9EV2VZZ3cwNnBUMzVJNVFmTnA5QmRrVENlckhxOEY4b2RGTmxHaHZyRWZlaUZobVpUZ2dLb1ZRSTlqbDdWREM4akpMcWhLSy1DSm5ZRlhGZmg3Y1poLXluRFcySXp2Qnh5bXVsT293?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 19:54:19 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Will Texas Senate Republicans strip Democrat Lt. Gov.-elect Vikki Goodwin of power? Sen. Paul Bettencourt talks with Inside Texas Politics - WFAA",
+      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQaXhhU09vQlRpS3hvMUJKN1BXbTk3Wml3YmpjZDhsYTJqZWtyRWZtT19BT2Z4c1ZPZFRUZGVDMExXeUE0WXNLOGdpRURBOGlUUmxRYjNjUHdKQW4yTk5HdVJualAtTUxMZ0c1dkh3ZkV1Z3RFR19YZkFDMndTLUxyQzJ0STRsOXdIZ09LTTExc3ZUSW9vRm1CVEVJNUh2YjBzQkkyOWNwSE00NXJHMEY0d2tlMXljeDh3MmJUR21SZDBra09FSUpWdXoxcko1QjU2bHBXX2ktRlQ3ZTN0SExWYWxvckZWWmlaMjY3SzNySi1xTnJIUjhLM3diQXpxd21EZUxwRnlLbmx3SmF3MG90ampQZGNudnREWnZLMnJHb3YyNjNfT0ZUcGVMMjBPRGctamdLWm55Nm13VXlPaktuLUpCQnFMcDJnLXRpOENIU3VQUEVnTUxwSU1ieFVpY3VJQTFpNEt0Zy0?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 22:16:17 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 10,
+      "matchedKeywords": [
+        "texas senate",
+        "texas politics"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Texas Attorney General Ken Paxton has finalized his divorce, lawyer says, ending long marriage - AZ Family",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZF82SzlQdjFZS2VIYWpLT2s5TXlKVXA2LUJQaXRQYnpuVjV5djRTaE9BV3JPTDAwSUl1N0hYV001Z2diVGhOeDg1X1lGNU5KVWRKa0swMTNrbVRKaXdHRGRmUWRGaU01SFhPVkczNUZlN3dxc1ZpN1BaRXJtZkdwazNDbjNBeVBvTndYY1dMcnBHNVU0M3cySTRfNGphakR0eEdMOXo3RmVjRjltR21sUW5NVDMyM3FGNjRJMDVkLU1hUWRMcHlkNQ?oc=5",
@@ -1979,60 +2019,19 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "On ‘S.N.L.,’ James Talarico Gets to Interrupt Trump - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTm5GLXNMWFRPWHRWMGVTektVcWVrcFV2ZFpiZVZUdUxmN1ZpMnRSZTkydlh0bXhjWEtUODlGLTdscGN1czJNOHQ3aWJQejFpR3JGQnJ1TEtkc0lQSm00TnEzVmx2S3hyd1hNVXBiRFpJY1R1TDJYX2lJNU9rb18wWjAwQUM0d2FIMk1rVUxSZFlEX2ZPRF93VzhR?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 14:26:52 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "‘Favorite dosa on us’: Indian restaurant celebrates James Talarico’s Texas Senate win - The American Bazaar",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaVlSeEpmejhEQkVXcTNveUJTQmZVZ0JFSjI3NmViWm93cWJEN3Q3UmNxV1dhNF9Ua1ZHNWhqS0ZoMDRFLUgzVXJZRUdHaEdBMDg5M21kWWZtc2tKRlJoVjJaYy1WaHFHRS11bERjeUNLeTNJTm01Rk1nNkRRN2tFNk9TU3liZ3VNYUJ6Q1JaczhMcmstakw5WmVRVEhZcFFiMUwwY3pGQUdDdWplblQ3cU9MSQ?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 16:14:48 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
     "2026-W46": {
       "paxton": {
         "positive": 0,
-        "negative": 10,
-        "total": 27
+        "negative": 11,
+        "total": 28
       },
       "general": {
         "positive": 1,
         "negative": 1,
-        "total": 10
+        "total": 11
       },
       "talarico": {
         "positive": 4,
@@ -2057,9 +2056,9 @@
         "total": 14
       },
       "talarico": {
-        "positive": 5,
-        "negative": 2,
-        "total": 30
+        "positive": 4,
+        "negative": 1,
+        "total": 28
       },
       "both": {
         "positive": 0,
