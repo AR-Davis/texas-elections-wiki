@@ -1,9 +1,67 @@
 {
-  "analyzedAt": "2026-11-15T20:13:31.268Z",
-  "newsFetchedAt": "2026-11-15T15:48:02.514Z",
+  "analyzedAt": "2026-11-16T00:13:01.577Z",
+  "newsFetchedAt": "2026-11-15T20:55:43.503Z",
   "totalAnalyzed": 100,
-  "newThisRun": 7,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Ken Paxton finalizes divorce from state Sen. Angela Paxton days after his U.S. Senate loss, per report - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPamhFREMyQmgzV2gydklYSjdEMXllUi01S3Q2ZGN3czFqOFBtVFNILTlvQXpyelZteVVKcjBnZnZMZWNIT1Zoa0ZIeFMtXzZXSFJjWGtKZTI0bHRQT0xkcWtYZGV0UEJ3VVdLLUpadEE2MWVPT3E3M29FVXNBbDdrWWtHQ1cyOUF0WEMzY3J2cEJ0MWIxbV9KaVBvZUJIQzRPUHJKanBtNGNuaWNOTFYxa1JrNkRzNy1rNVFfMlJiOHlkWUhCLUJjczlEX1VvMXFaU0VkeV9jVkFJSl83cGROUGxhelFXdk54QUxRMjloSkhoajJZcVRZbXE5ZjZJSFc3QWVGS09aTdIBjwJBVV95cUxPWWhkYklWSlM5VkNYbXcyTlBscWpuejAtemxmQXE5YzMxb0JEWGRfb1BkRmk4YWduMnNOWlNKaGE4YThyTkRnalVKZUtMMXUyOGNQNWpqTmQ0OEQ4NE5QVWlxSnNWSmNyZ0xHRUJZTllGdW5lbFdaUVIwYldyX1VRVnFLbkl6SWZ0ak56dGdxeFdoOTBiQ2F2Um9BeVBzOUNkQmxCVTkzZVdZMG5VRDl6NVhtamJ2WlVFckNQWEVKR0FOd2xkQmg3dkw0c2J3YmJLcndEX0lVdUJRZkN2a1RfQnE1aUhWVDdmbVhzbjhTUG9qSEU3TllXSzlxbzhIb0djVUpwUktGVEUxWkRpbHNv?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 14:50:27 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Inside Texas Politics - WFAA",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQXVQenkxNW4tVGJaMmVUbTAzRy1WTEo2VnFwWjZXX3FOQzI3Nnl1OXlheFhvTHdFU3lkUDRQMm9DSF8zeUlrdW9rN2VDbWxDSVhhT1BfR2dpeEhfSVluZ0ZZRXZXQzN0Mm1QeWVZakhDQ3F3Z3dKdDZHbF92cGNVM0xMajhLbGVGdUwzamNSMmszbV9FXzdyWTMwWGtfMHBhWWg1NUQ5YmNMQQ?oc=5",
+      "pubDate": "Sun, 15 Nov 2026 15:00:47 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "After Democratic sweep, Texas looms as “big kahuna”  in the 2028 presidential race",
+      "link": "https://feeds.texastribune.org/link/16799/17522063/texas-2028-presidential-election-blue-wave-electoral-votes",
+      "pubDate": "Wed, 11 Nov 2026 11:00:00 +0000",
+      "feedSource": "texastribune",
+      "raceScore": 4,
+      "matchedKeywords": [
+        "senate race"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W45",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Washington Power Struggles, Texas Politics and the Battle for What’s Next - Houston Public Media",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWWczbVVSTGZFVzJ2VFk3SXhrd0dIOV9LaDlLTkd4TW52VlhyQVczdWlsUFU1d1FMcjlVYW1ZNG9wUW9uaEZjMzMzRFNadXhIc1E3a0ZMYlJ2NTdQeU52Z3hOdm1OOFpRZy1aNzh4dF8wYlBvb3R1UFJoT2lSNG9ValpHcnVabFU4aHNjbkxXREtIbXJMRzUteVlrR0tuX2tnYmQxcXdodUdOb0RxcjFXc0RBSUdzdXZaWWZfOU1SdFE4TkhJRjFTZFdmNTVkRmFFUjltTU5tTHpsbnJMcVV3TGpQcjc2Vjc3RzV30gHzAUFVX3lxTFBPYnFrWkVNcVNOWGk5cmk0SUNzdU1PLV9Fc2F3YUNybjVPRGFlcXRVT2VxbTN4X0FhVVVRdThsemlOcU5kN2N2ZFV3cjBNSVhSUkUwUnB5UE5WOEt5MldPcVk4VndNejUyR1pOdXFiaUpHeFVVNlR2NVpjSW5jcUl2ODFtdXRycy0tTFBpbVBMUzlISmVNT1JXZG1rVDVXLWlFN1dnYkotcE1hSnFodFBTV1NWUWRpNXoycmpPN1N0bHlBVWZiS3BJT1Nac0gxdGRCTUM3Q2VhdmhELTJHUnBYTXNOWnVyY29YcEtielptNGZudw?oc=5",
@@ -1948,84 +2006,24 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "Former President Bush and Sen. Cornyn take part in fundraiser for battleground Senate candidates -- without Paxton - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRVNWemtQR2wteXBzeWZHald6YmRYSEVMcDc4X2QwQXh2OXVEMUNHRUJvNWRSOFlTME12WC05eHVqVUdwOVdGSGdzUDR5QUxzZlZfcFlqTjdxOVZIR0d3dDUxQU8zRFgxNFZ3Rnk4eE1leTMzQkxKdkhsVWxVSEtGbUNaOTJSWmxZRmhkbWtCenZoekNZcGlCQXFUbnExU2VNZ2ZzVzhTaW5XVG4tWkE?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 00:49:43 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 9,
-      "matchedKeywords": [
-        "paxton",
-        "cornyn"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "James Talarico Makes Cameo Appearance on 'Saturday Night Live' - TMZ",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBaVFhrVzJfUk0yRE12dW5jNFlheUdWTUdNTHBsb3VMbGdvXzdXU0Uxc1hWOTJDWlJoZHBSOVlrS2tpemhWQ1lkLS1sSkVpSHVTaDJkNzlwWi11SGdON08zSGQyVVBtaEx2SlAyTVVR?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 13:00:33 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Texas Democrats won on borrowed time. Can they earn voters’ trust? - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS2hoOF9uaVdDOG40SWp2cm1UNUQ5YWJtZW9Xc2hXV0dubGRmTUlVMzBPR1BwN3RkS2Fyd3RVTzRYMzExa3Qwa1FXSl9IRktUSHdpdG9mOFJYcnRIYzQtUjAtTEZFU3h6NnBxdzg5Nzh2U1BYSkg2clNkWkU1Qkt4VVY3cEtTZmFTc3FsS3l1bUhQQS1pd04yMzNIVExaT2FDZzFKckdMY0x4QjlIenhUekxobWVWNC0ycVE?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 12:13:06 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 8,
-      "matchedKeywords": [
-        "texas democrat",
-        "texas democrats"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
     "2026-W46": {
+      "paxton": {
+        "positive": 0,
+        "negative": 12,
+        "total": 29
+      },
       "general": {
         "positive": 2,
         "negative": 2,
-        "total": 17
+        "total": 18
       },
       "talarico": {
         "positive": 5,
         "negative": 0,
         "total": 7
-      },
-      "paxton": {
-        "positive": 0,
-        "negative": 11,
-        "total": 28
       },
       "both": {
         "positive": 1,
@@ -2034,20 +2032,20 @@
       }
     },
     "2026-W45": {
-      "paxton": {
-        "positive": 0,
-        "negative": 2,
-        "total": 7
-      },
       "general": {
         "positive": 2,
         "negative": 0,
         "total": 14
       },
+      "paxton": {
+        "positive": 0,
+        "negative": 2,
+        "total": 6
+      },
       "talarico": {
         "positive": 3,
         "negative": 0,
-        "total": 22
+        "total": 21
       },
       "both": {
         "positive": 0,
