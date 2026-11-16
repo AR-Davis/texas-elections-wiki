@@ -1,9 +1,28 @@
 {
-  "analyzedAt": "2026-11-16T00:13:01.577Z",
-  "newsFetchedAt": "2026-11-15T20:55:43.503Z",
+  "analyzedAt": "2026-11-16T07:07:48.298Z",
+  "newsFetchedAt": "2026-11-16T00:54:01.629Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 1,
   "stories": [
+    {
+      "title": "EAST TEXAS POLITICS: Longview Republican discusses support for presumed house speaker - KLTV.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQM1hFcXhyT1pYVmNUSDA4emFScHlYYVFhRmR2Q3BQaU96dlVwcS1UTHpHSW03NDlVbHJHSnVFc2xvTi1nQWVEWDNiTU82T1RYTEExV1VKdVN4NkpfYXdTS2h5V29WNndha3pEUjljXzRYZXNOYXkwRmVVOEZKR1d3dGdLRS1kZjVYNTVOWXNCVkVPZEpPeV9kUjl4dTk3X3d3eDVTZVJNcUQwNDRTSGlQaDZfVXpNbEtObnpzSVZqN3ZIazNfbWdlSUo2cTNLMHM?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 01:08:24 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Ken Paxton finalizes divorce from state Sen. Angela Paxton days after his U.S. Senate loss, per report - Houston Public Media",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPamhFREMyQmgzV2gydklYSjdEMXllUi01S3Q2ZGN3czFqOFBtVFNILTlvQXpyelZteVVKcjBnZnZMZWNIT1Zoa0ZIeFMtXzZXSFJjWGtKZTI0bHRQT0xkcWtYZGV0UEJ3VVdLLUpadEE2MWVPT3E3M29FVXNBbDdrWWtHQ1cyOUF0WEMzY3J2cEJ0MWIxbV9KaVBvZUJIQzRPUHJKanBtNGNuaWNOTFYxa1JrNkRzNy1rNVFfMlJiOHlkWUhCLUJjczlEX1VvMXFaU0VkeV9jVkFJSl83cGROUGxhelFXdk54QUxRMjloSkhoajJZcVRZbXE5ZjZJSFc3QWVGS09aTdIBjwJBVV95cUxPWWhkYklWSlM5VkNYbXcyTlBscWpuejAtemxmQXE5YzMxb0JEWGRfb1BkRmk4YWduMnNOWlNKaGE4YThyTkRnalVKZUtMMXUyOGNQNWpqTmQ0OEQ4NE5QVWlxSnNWSmNyZ0xHRUJZTllGdW5lbFdaUVIwYldyX1VRVnFLbkl6SWZ0ak56dGdxeFdoOTBiQ2F2Um9BeVBzOUNkQmxCVTkzZVdZMG5VRDl6NVhtamJ2WlVFckNQWEVKR0FOd2xkQmg3dkw0c2J3YmJLcndEX0lVdUJRZkN2a1RfQnE1aUhWVDdmbVhzbjhTUG9qSEU3TllXSzlxbzhIb0djVUpwUktGVEUxWkRpbHNv?oc=5",
@@ -1986,39 +2005,19 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "President Trump shares claims about 'unusual patterns' in midterm elections and questions James Talarico's victory in Texas... despite saying he would accept the results - Daily Mail",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONlpKdG51UUF2a0FiVjVScHpidUhBeEpJWktKcllhWkZpaW04S2NaNzYtWHBDSEc2NmcyVTFZZlE2ajZIRDU0TFhfUFduNS1wVnJWTVpwSWJ1RmxFb2hlU2V2TlUyQm42WllPem5CWWlHOGJ4SkE5YldCQ21qSERodTdQQ0EyY1E0SVducnZqU1BhTU95S1RfREJuZUxaM2VKX0JQUnllWU1MRUhwckxNMTJlOHdwRWRXTE0wLTVpR19mWU1mNkNVamlrVzI1Vmpta1J5aW9XWdIB3AFBVV95cUxQdnlBZFZUQUNUMDVzcG5JaEgtZ283VWdNYTB0U2g1Y3luelY3MWdlLWVXS3FneW5RdmRwZC1fdUVQTWdkbUx4dDdaalFyTXhZSGxuZEM5VmVqaktScEpnWnBzdTJqazd3SFM3VTBFSm1VLURNYjFVX0lQWDcxbGhueHVUSmlMTm1VSzdWZ18tcEJFMGRnYWIzMmVsNml1YVZtZWNPUkFyQ0ZOTElDM01jQkF5U1J5WlE5dXd0cVV5TFF2VkRnLUZEWjloU1Jzc0ZkTVhSRzNYRktMQ241?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 01:57:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
     "2026-W46": {
+      "general": {
+        "positive": 3,
+        "negative": 2,
+        "total": 19
+      },
       "paxton": {
         "positive": 0,
         "negative": 12,
         "total": 29
-      },
-      "general": {
-        "positive": 2,
-        "negative": 2,
-        "total": 18
       },
       "talarico": {
         "positive": 5,
@@ -2045,7 +2044,7 @@
       "talarico": {
         "positive": 3,
         "negative": 0,
-        "total": 21
+        "total": 20
       },
       "both": {
         "positive": 0,
