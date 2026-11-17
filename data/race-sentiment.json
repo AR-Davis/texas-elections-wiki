@@ -1,9 +1,50 @@
 {
-  "analyzedAt": "2026-11-17T08:55:27.750Z",
-  "newsFetchedAt": "2026-11-17T01:59:03.548Z",
+  "analyzedAt": "2026-11-17T18:19:26.185Z",
+  "newsFetchedAt": "2026-11-17T10:33:10.823Z",
   "totalAnalyzed": 100,
-  "newThisRun": 7,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Trump and Paxton attack Texas Senate candidate Talarico for absence from the campaign trail - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVGlUZlFrbnBNSGVINWRvajE4UkFhbDBWbi1JTnZyWUdGSzNYV214TFF0RVZNSnNhdkVEQ3ZRbjNOWmZ4b19Rc1dUbjJOV2x5U2NVYkZpVjJsY3ZGODF4N2gtZEkwblNvZFBqcHhYWDdtZUNzd1V3OHlNUTJHeHZ2VW1pcnRBSmRTdTZtOWZsLWE5VUdPVl9JeENPZERWOGpIUUZRR1hRM0ZaNEHSAbABQVVfeXFMTTVsclpzdmJJenRIUm80WmQ1VXZQWEY0ZEpHeGxUVXVjREVrejR1Y1J1X2RCY1FpbnRzZjVEa29sWGF2UWY5amhhOTh2SGt5VTlHX3cwV2laNkZ4N1duZENxcEF1U1RpajMyNzZ4WWd4Z3M1Y3NFajloNVp4X2VXZE81SldKX3hPcjBCbDBMZFlnTUlWNWhtdnRFNEwwLWg4WHhFSktIM01mUmJmencwa3U?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 15:25:48 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas Democrats look to expand Medicaid with new control - ConchoValleyHomepage.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON0p0NmtsSktsT2J6YzZKQWt5LXVKaUR3ckpuX0dVVkNBWWhzVERHb0dKLTAtWHd2dTlndVg3RWpyazhkVDZPS1ZUOEdlTVZEZ1YtbUc1STZCR0FqVXdhSHVjaURyXzFjRXc4MmkzdG9NcUZZSXY2UzVYcHlNU0p0eU5fc3RkZGJsWUZVcVpfU3FRYllEcVdPcUtIaHBUOGE0eDYzbTRzY0tKcmhNX0prbHFYVWXSAboBQVVfeXFMUEtnb0Znb1F4TV9GeUpncnNzeGNPUmVUM3lPdzdJOUZaRjV4bFc1dzVmX20ycWdxaGgwRzNIdmt0ZjByemZtdHc4cEZrQUJqODlpTUQxZXZWN0lZX3M2SVpMbkx6WmxxZDBWUUpkX1QzU25ETE5FRkFXV2hST2NiRHZIM28tTTVkZWtVa0NSSGFMTmd2S3VocTlYM1B0c21fY3laQVdONTlYdzd4bkY2VWkyQkpxdGFuWkpn?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 13:54:37 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 7,
+      "matchedKeywords": [
+        "texas democrat",
+        "texas democrats"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Texas 2026 live primary election results: Cornyn and Paxton headed to runoff, Talarico advances - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaDdzclZQZjY4dW9wTl93S3JKZ2ZsbUlnTDBnNVlKb0p3SU0zRXI2V2Z3QjJJYmNKc1pzUFhlTjdURnIxelRSYVJEeHJITzRkZUxvdDdTR0F3NW1lNks0M1RaRWduUDEyOF9UbWVlcmhtejRDUU8zYzVraFdZRkJ1WDExSDU5SElJazdsVllLdEFNd9IBlwFBVV95cUxPQlR3VjMwVnBZQW5FVEowci1LbTFoelgxYk1NQTRWaFRrTm5Wd0pKU0x4Y1gzN25TNGpCSDRuX25MZWtfZEJmcnFtN0xDRFRMTXduMXpLV1NHaU5hZzN2ekhDREJXc3FZaEJVOTZMcmVTSG1TV3o3QXJaREtreVBtelVWYzVSSV9HdFFmbXpOMlkyMFJ5TkIw?oc=5",
@@ -1957,64 +1998,24 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "Cornyn meets with Talarico and calls him 'basically ... a good person' - Mezha.net",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWHo3QUg5QkpjZW5ocUVFaTRKVnE5NlNoVmtEV0h3U0dkbjlMTVBFQkY1UEY1Qy1BWWFLMVdSd0dTamczMHdUMF9lUVI1cHVKVzNOVUFpWUo1dDc4ZVoxQWJFS2FrVG9jcldLSVBHVUpXanB4QzB0OGZVRFVoREpZZzFB?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 16:51:07 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 9,
-      "matchedKeywords": [
-        "talarico",
-        "cornyn"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Cornyn meets with Sen-elect Talarico, describes him as 'basically ... a good person' - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdkcyRy03bDhhal82OEFCSnJwc19mSDJ6ZUNWV01aUEJYY2toUVlBNElIU01NSF9FTm1SYndMdHVRaElxVHJ6VWptcVRxcDY4WlhJakkyeTlEMXFEUlowQVVyVVJHQlEwSGF2dENtdEl4TUd6X24xdldJa3I2bFB2VWZCMkpfNDFqeVFRVEY1aWM3RDlVclE?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 16:37:49 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 9,
-      "matchedKeywords": [
-        "talarico",
-        "cornyn"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
     "2026-W46": {
       "both": {
         "positive": 1,
-        "negative": 1,
-        "total": 4
+        "negative": 2,
+        "total": 5
+      },
+      "general": {
+        "positive": 5,
+        "negative": 3,
+        "total": 27
       },
       "paxton": {
         "positive": 0,
         "negative": 15,
         "total": 33
-      },
-      "general": {
-        "positive": 5,
-        "negative": 3,
-        "total": 26
       },
       "talarico": {
         "positive": 6,
@@ -2036,7 +2037,7 @@
       "talarico": {
         "positive": 1,
         "negative": 0,
-        "total": 11
+        "total": 9
       }
     }
   }
