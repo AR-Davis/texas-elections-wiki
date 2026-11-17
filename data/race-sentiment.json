@@ -1,9 +1,149 @@
 {
-  "analyzedAt": "2026-11-17T00:59:06.548Z",
-  "newsFetchedAt": "2026-11-16T18:13:01.204Z",
+  "analyzedAt": "2026-11-17T08:55:27.750Z",
+  "newsFetchedAt": "2026-11-17T01:59:03.548Z",
   "totalAnalyzed": 100,
-  "newThisRun": 5,
+  "newThisRun": 7,
   "stories": [
+    {
+      "title": "Texas 2026 live primary election results: Cornyn and Paxton headed to runoff, Talarico advances - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaDdzclZQZjY4dW9wTl93S3JKZ2ZsbUlnTDBnNVlKb0p3SU0zRXI2V2Z3QjJJYmNKc1pzUFhlTjdURnIxelRSYVJEeHJITzRkZUxvdDdTR0F3NW1lNks0M1RaRWduUDEyOF9UbWVlcmhtejRDUU8zYzVraFdZRkJ1WDExSDU5SElJazdsVllLdEFNd9IBlwFBVV95cUxPQlR3VjMwVnBZQW5FVEowci1LbTFoelgxYk1NQTRWaFRrTm5Wd0pKU0x4Y1gzN25TNGpCSDRuX25MZWtfZEJmcnFtN0xDRFRMTXduMXpLV1NHaU5hZzN2ekhDREJXc3FZaEJVOTZMcmVTSG1TV3o3QXJaREtreVBtelVWYzVSSV9HdFFmbXpOMlkyMFJ5TkIw?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 16:06:17 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "cornyn"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Ken Paxton’s office drops lawsuit seeking to ban Muslim civil rights group in Texas",
+      "link": "https://feeds.texastribune.org/link/16799/17525897/texas-cair-ken-paxton-lawsuit-dropped",
+      "pubDate": "Mon, 16 Nov 2026 23:18:04 +0000",
+      "feedSource": "texastribune",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "attorney general"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Outgoing Texas AG Ken Paxton dismisses lawsuit against CAIR - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTkYyMVFNaUduT2tjQzZJX3BpYV9XSU56RUZsT3JpZGE1OE1xZWlrZXl6R3E3U1kweS1jRXhsUDVxVTNvc2lIRHJmXzNicERKWDFMbEtrVDRrZGZycXZzaTdDUW1CRnUzYXJuRjNxY3N4dnM1MnJfWUxFZnQtMTlsTFNSdWFRWjBCaDlSN3pVMFppemRJWkZVVlB1ODVNVFZaY1ZOOHZ2eEhvVmQtWkdtVDBGV25Rakk5RkhIV3RUclNlMlVRaFJGWnA2bG13ZGvSAc8BQVVfeXFMT05GMjFRTWlHbk9rY0M2SV9waWFfV0lOekVGbE9yaWRhNThNcWVpa2V5ekdxN1NZMHktY0V4bFA1cVUzb3NpSERyZl8zYnBESlgxTGxLa1Q0a2RmcnF2c2k3Q1FtQkZ1M2FybkYzcWNzeHZzNTJyX1lMRWZ0LTE5bExTUnVhUVowQmg5Ujd6VTBaaXpkSVpGVVZQdTg1TVRWWmNWTjh2dnhIb1ZkLVpHbVQwRlduUWpJOUZISFd0VHJTZTJVUWhSRlpwNmxtd2Rr?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 21:23:40 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Incoming attorney general taps Paxton whistleblower for transition team - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSGN4ZUxZS0x6bFI3RXRkSGFuejlxMlYxV2ZzdXdHc1BkOUc4R0pPMFVmN1VBUkJiVVpkbmVOaXNDV05rSkxtZDNqai1aWUUyZkNEbkZBTkFiSUhteXNkSENYWW1JQnBSejZMZnBJMlRYRWFweU4zSTkzQXlMR29xd1RueG1tQkFTOGFyWWJna0ZqVDUyak9xbFRLcF84b1ZX?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 00:56:55 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 8,
+      "matchedKeywords": [
+        "paxton",
+        "attorney general"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas Democrats ask for investigation into Big Bend border wall contracts - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTWJIZkNid2RwUXRxLWJ1VDF6WElHaUxYanA0aEVGbmR3YUZXdmJod0ZiRHkxRnczWXptT2VITWJzVU1FZ0hnOFJ1ME1pc1p2c1doTzNVUnZXOU5wZmtxLWdfdTJIQ1BEYlBOcGZqcWlOeEdjb1pCOTdoaVdQQk9ucEp5ckRyaTRQRkVvZUg4VkRCQ1lCY1U2YjFoVWo2MXFHWDA5UTlWSzJoRnNpUS03dW5abzlYNDUy?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 20:10:09 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 8,
+      "matchedKeywords": [
+        "texas democrat",
+        "texas democrats"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "AG Paxton Drops lawsuit seeking to label CAIR a terrorist organization in Texas - Click2Houston",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSXFaaWxiV3NhUE91U2pEVUZ3VXY2X2ZwZ1JaNGY2TFZLZFVXM1V5WFB1TTkwZTJQdDlQR29hajZhekJUbXlaLVI1YW1fOEdwZDZpWlVlbGMtVDlhaloxMmZ1WkZmaGowTlVXaVUyUVZwZDNNMW5TX2w5cW91OXJXLWgtbHFFOXJBTklQbVdZM2JvUzZ1ek5lLWxfV001QXZFYjlQSXpNcWVIdTl3enZiSFZnVU8za293VkwwcFE3NFktb3FxMV9MOWpVenA?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 00:21:45 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 7,
+      "matchedKeywords": [
+        "paxton"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "WATCH: Talarico says Trump can achieve historic accomplishments if he works with Democrats - Washington Times",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNejM0QzNhWVc4OGhvc2VzaGhQTTVsUVRYUHVpcUZ5NGktV0NKZC1uVEpZQVV3X1J6bnpwdnlUUHEydlh5dTdEbDZ6azB2RlZNSDhqNmJYT2tLYU8zMFdNMlBXQWM3Z3dXV0NJUHBWMDh1Ukx2cnNnTEJmVWRfeW5oQm5oZGdQdldoMV8zQXR0cEYxb3pRNnZKQzJ6dHhKRnY1dS0tV29TcE1uQzVjUkI4UHhzMFFQV1cydmc?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 16:16:22 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Ken Paxton’s divorce finalized days after Senate loss to James Talarico - The Roys Report",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY0txdGl0MktsVU5saUNoVHRQLVpnYXF0SjktSWVsOVFRYTZpNmFGTzFVYlY3MDNGRjcwdjRJU01hODE2N3paSFU2NDBnUjIyNUhHS3JPbEdrY25nbTV5THliTTdBRFQ0M25FQndPRFFNSzVFUDRkUFYwT2RoalNZV1VXM191Qnd6VWpYcFp5WC1kTzVBWU9BYS1B?oc=5",
@@ -1857,151 +1997,6 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "After nearly three years, AG Ken Paxton drops fight to shut down El Paso migrant shelter network",
-      "link": "https://feeds.texastribune.org/link/16799/17521262/el-paso-annunciation-house-migrant-paxton-lawsuit-dropped",
-      "pubDate": "Tue, 10 Nov 2026 02:33:56 +0000",
-      "feedSource": "texastribune",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Trump and Paxton attack Texas Senate candidate Talarico for absence from the campaign trail - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVGlUZlFrbnBNSGVINWRvajE4UkFhbDBWbi1JTnZyWUdGSzNYV214TFF0RVZNSnNhdkVEQ3ZRbjNOWmZ4b19Rc1dUbjJOV2x5U2NVYkZpVjJsY3ZGODF4N2gtZEkwblNvZFBqcHhYWDdtZUNzd1V3OHlNUTJHeHZ2VW1pcnRBSmRTdTZtOWZsLWE5VUdPVl9JeENPZERWOGpIUUZRR1hRM0ZaNEHSAbABQVVfeXFMTTVsclpzdmJJenRIUm80WmQ1VXZQWEY0ZEpHeGxUVXVjREVrejR1Y1J1X2RCY1FpbnRzZjVEa29sWGF2UWY5amhhOTh2SGt5VTlHX3cwV2laNkZ4N1duZENxcEF1U1RpajMyNzZ4WWd4Z3M1Y3NFajloNVp4X2VXZE81SldKX3hPcjBCbDBMZFlnTUlWNWhtdnRFNEwwLWg4WHhFSktIM01mUmJmencwa3U?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 00:04:48 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Cornyn Takes a Parting Swipe at Paxton with Gift to Senator-Elect Talarico - Mediaite",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOXhhZVN2ZFdlUU96X0J1VFAtZW54ejNpQTFWc25GcFJUMWRyZE1XMGxPeGNrLXZtYXVoZ194ZTNLazZZaGw4S0t6NUFvZG12cTdJTDRjRExnN1R3dTdTVEhqbHlpSksyMWpQdUFiaEpNa3BjWW9jS2IyeTlMSTdvaWZrem11QlNkeDB5QWNtSUN1N2pRM2tWM1Vybw?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 01:01:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "cornyn"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Sen.-elect James Talarico strikes bipartisan note as he arrives in DC - Spectrum News",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeC05M0FURHRsb0NhemVtZ1ZwQ0wzOUh5emlKNmlwM3pmZ2JodjNwZkQwbjZ4M1RLRzNKZVFiSXdsNHhFa0Y2bFlQdHd1ZWFrQXk5VWtkclZKcklZcWdEdURqenJ3M1lPT0N4Q2JXYWIwUnp1WG1nWXU3U2hTbV9FNTRmdjk3UUdXZEJHV29EZXV5b1FZZW9MSjA2c29RbnhkZTRQZk85WGZ5eUZ4T1VQYVlmWQ?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 00:45:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "MAP: Donors by Central Texas ZIP code to Talarico, Paxton campaigns - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1DYmptZkdfd3hUZ1ktZkhtZVRBU2hSR0tuaDBiZGpHb3RPZFY3Z1RtYkkwZnlscTBSRVlFMWJHUFlObFp4Zmo5UGRvbGJFM3ZpN0I2bGNmWW1ldzdCb1hkeU9VWDhwa3JvcHZKTV8wNElBYkRFd01rdGpSWXBqQQ?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 17:48:59 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "James Talarico meets with John Cornyn in Washington for 'advice and guidance' - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeFc3eWtwX21IeDc0MmZBT0N2aWZQVWRIOHVuTmdKNVNIRnp1eTdoM2xUR3lkd1lrMnVpdjVyMUVLV1NOV0l4cUNNemZVUHRZTFBzU0JOVEhoN056V0JQamVnRnhoaGlsejVlc2hIZEtmNWxYd0pydlYtVEQ3dVAzdjctbWlIMk80VTg4YnZjQTI5Zkh2eUxDYTdrejRUQ2lkRmlB?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 20:19:21 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 21,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "cornyn",
-        "john cornyn"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Texas Democrat James Talarico appears on ‘SNL’ following historic Senate win in state - KVII",
-      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxPZFFBMklwRmdZVHg5Q3RWeTlSa2d2VTNuTGF5SnZsYWJaZ2N0OXFITWJCbTFXN0daMXh3RDk2blVFdDlHS3VBS2JxazJ4cF9OektWajFtMVA2NHZESFYwR3pGX0FaU3FSVVpKbWZlQ19UZXdreThLOXZTNFJETTc1cTVHLUtaZFc2UHJHQS1vZEtKR1pMcWlyYTVkdkp2X25GRlBEb2FOSnROOHNjd2oybHROTDJpZzR6UWphRVoxZWJMN3B0Tlh5WDl1QjA5RmRTVDZOOW9BMi1FZDVYVDZOY3RBcUdsbDRhQUtSeFVrZHpSVG5HOXJmMUZLNWxfMTR2Nm13LTJ0S0EtWVNLbFBZcWJkZDV6Wk9aODNISmc1TlZmZHFxV1h3UkNGb1NjdFFXdXZVOE9iREVXYkpwSGZpaVg3LWRzcnFKa2o0ZHJZMHMyQkJaaXh1ZzBiYTVEVjljNTBFTnkwZmdDbWlKOWc4emx6anY5aTU1M2ZZQURtSUVyQkZNLTloSnJyR1E3TGJOY1Z5Y2wwMkktYXJt?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 18:25:22 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas democrat"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
@@ -2009,22 +2004,22 @@
       "both": {
         "positive": 1,
         "negative": 1,
-        "total": 3
+        "total": 4
+      },
+      "paxton": {
+        "positive": 0,
+        "negative": 15,
+        "total": 33
+      },
+      "general": {
+        "positive": 5,
+        "negative": 3,
+        "total": 26
       },
       "talarico": {
         "positive": 6,
         "negative": 0,
-        "total": 9
-      },
-      "general": {
-        "positive": 5,
-        "negative": 2,
-        "total": 25
-      },
-      "paxton": {
-        "positive": 0,
-        "negative": 12,
-        "total": 29
+        "total": 10
       }
     },
     "2026-W45": {
@@ -2035,18 +2030,13 @@
       },
       "paxton": {
         "positive": 0,
-        "negative": 2,
-        "total": 6
+        "negative": 1,
+        "total": 5
       },
       "talarico": {
-        "positive": 2,
+        "positive": 1,
         "negative": 0,
-        "total": 14
-      },
-      "both": {
-        "positive": 0,
-        "negative": 1,
-        "total": 3
+        "total": 11
       }
     }
   }
