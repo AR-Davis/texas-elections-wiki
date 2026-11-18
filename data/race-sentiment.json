@@ -1,9 +1,107 @@
 {
-  "analyzedAt": "2026-11-17T18:19:26.185Z",
-  "newsFetchedAt": "2026-11-17T10:33:10.823Z",
+  "analyzedAt": "2026-11-18T01:11:24.559Z",
+  "newsFetchedAt": "2026-11-17T19:42:05.109Z",
   "totalAnalyzed": 100,
-  "newThisRun": 2,
+  "newThisRun": 5,
   "stories": [
+    {
+      "title": "Outgoing Texas AG Ken Paxton dismisses lawsuit against CAIR - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdUtxUGk3UmpMVjF5T1BJN0s0SzVnRF9Pa1FNVDJPWmZYbmhFQXQzNGVaZGlaU2x4RE5TUzZTZk96a1dBSGg1cDhPejVnRlZNNDBBSlM1REpTN2Z3MEs3WjBQM0VYVXJWN3MzNGI0U3pYeVh5Q09hMXB4LUd3cm5fT00wMlQ1N2FoeldEdDZweXpXU0VheUN3bHE5VjRjT2Rxb0pWeXpKRjJld1VPcjQ4RzBFSDdfcG1XU3N3TGR3M3VVWUxLclFF0gHPAUFVX3lxTE9ORjIxUU1pR25Pa2NDNklfcGlhX1dJTnpFRmxPcmlkYTU4TXFlaWtleXpHcTdTWTB5LWNFeGxQNXFVM29zaUhEcmZfM2JwREpYMUxsS2tUNGtkZnJxdnNpN0NRbUJGdTNhcm5GM3Fjc3h2czUycl9ZTEVmdC0xOWxMU1J1YVFaMEJoOVI3elUwWml6ZElaRlVWUHU4NU1UVlpjVk44dnZ4SG9WZC1aR21UMEZXblFqSTlGSEhXdFRyU2UyVVFoUkZacDZsbXdkaw?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 21:23:40 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Senate loser Ken Paxton not cooperating with Dem successor: report - Raw Story",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45VGJjalVrWmVlRDh6YTdUMmRuQkVYX1BRN1FYWVJnQWxnSUJMa3hZdTdvd1NPdmJmckNwZTQ3eVh0OTlsSE1pREw0TFlLYnhqM0FJRzY2Y0xZb2_SAW5BVV95cUxNVnJ2YWc2Nl9qVml6ZmN5OFFBRWM3SjRZZWFSR0djS3BCc1E3R3ZkUGRpbWhib1dUNE83em1sLWM2ZXQ4T3h6ZjJXQU1rS2dVTTJiYmJwZWFqN1VfQXJHTnRxUy1qNWJTaTF2N3gzQQ?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 14:03:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas Democrats have started laying out their agenda. Where might Republicans draw the line? - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOekE3SmdldFF3LW83MjV2YWtRa0ktUmNZSEZJa0ZYUGlhckZKemhEdFBPdUNfQ3dUMzU1U1RybkZ2aGNuTkpjU0xad1B5NHZQNEItWUdCVzdRQXZqejlBamtITDJObnlQY05OakJkZVgxNlUwalRoSlVkUnh0U0ZXQ3lkN2JNNWotZ1A0dnc0OHd0dEh0cnJ2ZWNQNXZHUFppTm5JYW54YVd6czcyczFTdXlja3E1MjhlVFJYX1VUNlZ1MUt5OVkxajlZZjBJc1JYNXZZdGxaRGFaRHY4UEstZlZ3WEFiTW1OUUlGazhDRFJBbkYyX3ZiYWtlc9IBgwJBVV95cUxQY1dDeGhMeVEtYWx6TmR1RERfSWt5b3A5UTNlRnZ2SG9qWGpUbW5SZFgtZG9jUkhEajNkX2xJaVp2aHdEb3JveGpEdEUxVHZ6NWVUWlFycTUtcm1wWW9QZzRYY3E0bUVFbDgzcVFBSlAyWDdoRm9NSmRwWHhWOE91bW5RaEc3eXMwMFQyU09MSW5ublhERDlsQmpoR1ZldVhtVW9YVndpbkpITnhIQXFMSE9nMk01TXZ1c0IxUE12NDR1Y3BodzlfejNjcXY5NTBtemZGTnNSaThXUnVfNGktNHdpLVhtZWh4SGJqTHZ2SEdDVFZpdHFYWi1sT3RoTm40NDFV?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 16:28:21 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 8,
+      "matchedKeywords": [
+        "texas democrat",
+        "texas democrats"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "How far will Harris County cooperate with ICE? A decision is still pending. - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdjcwT2RzQXdCeTV1SFR2WFhYV1pCWWRmbjhfUHhqZkNUWHBzX0JrZGJJbVQ1T29qLWhqcGpMOUtCeF9sZUtFek5oV2c0Ui1NLVN6eWV0MFpVeUxoUjVxcGFUZTh4UDZ2R0xxWDhRVk1FSEpSWUdHdUxSMUcwUDdGak4yWjJoNTFubkh1WEk3Y1FRejNUTTNoTW9QbDFuUEUwOGNvSzUtZnpnWW5EOUFHN1daeWdia2RU?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 14:02:46 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 4,
+      "matchedKeywords": [
+        "harris county"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas Attorney General Drops Lawsuit Aiming to Ban Muslim Civil Rights Group - Truthout",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa19EaG5ocEhiQzFaSU50U3dtTTdGbFBOYTFPNjVFWFlhVGJjNkQ0Y2pkSWZhVklhbGpERVJ5aUc3RFVMSnFHTHRWX3RjRnhIdGVJUjhoVFJYMk9MM0s1X2haYzJVcGpNS1UzUW9fajc2NTUzd1AxalpaeUFKVjhmWllPa1lUYk1GSnFsUkduenhzZ2dXaTFIYnFVaHJhRDZPWm9LOFNOa09BQUk?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 17:33:23 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 3,
+      "matchedKeywords": [
+        "attorney general"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Trump and Paxton attack Texas Senate candidate Talarico for absence from the campaign trail - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVGlUZlFrbnBNSGVINWRvajE4UkFhbDBWbi1JTnZyWUdGSzNYV214TFF0RVZNSnNhdkVEQ3ZRbjNOWmZ4b19Rc1dUbjJOV2x5U2NVYkZpVjJsY3ZGODF4N2gtZEkwblNvZFBqcHhYWDdtZUNzd1V3OHlNUTJHeHZ2VW1pcnRBSmRTdTZtOWZsLWE5VUdPVl9JeENPZERWOGpIUUZRR1hRM0ZaNEHSAbABQVVfeXFMTTVsclpzdmJJenRIUm80WmQ1VXZQWEY0ZEpHeGxUVXVjREVrejR1Y1J1X2RCY1FpbnRzZjVEa29sWGF2UWY5amhhOTh2SGt5VTlHX3cwV2laNkZ4N1duZENxcEF1U1RpajMyNzZ4WWd4Z3M1Y3NFajloNVp4X2VXZE81SldKX3hPcjBCbDBMZFlnTUlWNWhtdnRFNEwwLWg4WHhFSktIM01mUmJmencwa3U?oc=5",
@@ -1897,125 +1995,24 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "Talarico's Texas Senate Victory Ends 38-Year Democratic Drought - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSDJSQy1peEZmaGxrM3BkOVl5VjNUUTF4VlJ2SFgtVzZSR3BkbDdmTzBCN1BvWVRUQnhDTDhtaEpTNHQzZlNDZV82bjZhRVBQZ1lHZ18xWWU5aldmUmU0V29HcVdDYzBsMUZWcElkTnAzdmEydEs0OUxTN08zTG5XckVnY2Y?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 23:57:05 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "texas senate"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Cornyn meets with Sen-elect Talarico, describes him as ‘basically … a good person’ - 930 WFMD Free Talk",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNk1Mekg0ZlMtV1Z1ZE1iZWVjQTZLbzV2ZkJWOWt6TWF0aE5QV3JUTFp4ZE1fSkp0V2M4bjJSOTZCaW1xZGhJcHpSOWFveHZ3TWo0SGVXMUNpNkJfWHJuV1BYNU8xU3FYOXE3WEhrRUhaTUJremdscmhhUHNwQmxQQnhGT2E0ZFU2TEp2Q2oxY2V0a3FLa0NGWUs2SVp4T0ZTQjRITzVfbC0zWE5FV2Qw?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 16:53:40 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 9,
-      "matchedKeywords": [
-        "talarico",
-        "cornyn"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Ken Paxton drops lawsuit seeking to shut down immigration aid group FIEL Houston",
-      "link": "https://feeds.texastribune.org/link/16799/17521687/ken-paxton-attorney-general-fiel-immigration-lawsuit-houston",
-      "pubDate": "Tue, 10 Nov 2026 18:31:08 +0000",
-      "feedSource": "texastribune",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "attorney general"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Why James Talarico’s “Love Thy Neighbor” Politics Infuriates So Many - Texas Monthly",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YUlRDRzJwdWRTYTIxREx3TzBPWmZYOV9BY0ZLQlpOZXBKYU16VS1xXzZFQ0pwS1BfbTB6OUZlMm9jUVh5bVN3ckNhbTJmeDVBdE5PSHZ6N25oRENnYW5kM3htSlhlb3RRTkpqTUx1aFFRUQ?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 17:23:10 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "James Talarico places ‘I voted’ sticker on Lorenzo Salgado’s memorial in Houston in first public appearance since win - Click2Houston",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTGgzN3A1VmJ6ek9CTnVLVHpOQW5nemhna09XTDFfb3NqbFVneENpS0RNUGN3alJnRFhwZXNoNERHdHRHSk5CczRZM05ibGNGRHlMc2ZrOWJVSEhTYmZic3ozUUxPYm5EN2RyaTNfRzBBUjB0a1dhandvUHAybS1BZk5lUHhyQmFfMGtyXzQxYzRoWmZXeGdSU1U3dllyYkttZ1BrM01Cd19RM0JxMm1HaGpkX2V0SE9panJBdU9sN0s1b0htODY1SUl0SmJkQTZmeFE5VEd0RDhIazh1RjA3VkhNbGhKMVVCSjlJdUF0OHVnWmh1MUpBd3pOOA?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 17:58:16 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
     "2026-W46": {
+      "paxton": {
+        "positive": 0,
+        "negative": 16,
+        "total": 35
+      },
+      "general": {
+        "positive": 5,
+        "negative": 4,
+        "total": 30
+      },
       "both": {
         "positive": 1,
         "negative": 2,
         "total": 5
-      },
-      "general": {
-        "positive": 5,
-        "negative": 3,
-        "total": 27
-      },
-      "paxton": {
-        "positive": 0,
-        "negative": 15,
-        "total": 33
       },
       "talarico": {
         "positive": 6,
@@ -2031,13 +2028,13 @@
       },
       "paxton": {
         "positive": 0,
-        "negative": 1,
-        "total": 5
+        "negative": 0,
+        "total": 4
       },
       "talarico": {
-        "positive": 1,
+        "positive": 0,
         "negative": 0,
-        "total": 9
+        "total": 5
       }
     }
   }
