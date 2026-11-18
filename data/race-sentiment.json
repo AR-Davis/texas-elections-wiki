@@ -1,9 +1,110 @@
 {
-  "analyzedAt": "2026-11-18T01:11:24.559Z",
-  "newsFetchedAt": "2026-11-17T19:42:05.109Z",
+  "analyzedAt": "2026-11-18T08:58:11.352Z",
+  "newsFetchedAt": "2026-11-18T02:16:16.200Z",
   "totalAnalyzed": 100,
   "newThisRun": 5,
   "stories": [
+    {
+      "title": "Cornyn blames Trump, Paxton for Texas Republicans’ election disaster - Washington Times",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRzByVFR5YnFENzBvcnZqTFhydWZKTEFZdy1jMlBPSTBLVlNKSzIwSWNxdFVjTDBLeHFweEpKaXJxVVBTbE5TbFgzaGVkNTdoNjlaRXk4YlQ0M21hYmgydE1mY2RnbWNMOFBRQ1VKSXF3ZWtneXJ0aDFoUFdYTnRTSEpGOHFudVZvSmdWVWJFQW81LVZHWlhXajBlalQwUGlXNzBlRVFVQW9GYW41MEZ5b1d3Z1FKUmlQOXAw?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 19:00:14 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "paxton",
+        "cornyn",
+        "texas republican"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Ken Paxton drops out of doctor’s lawsuit against the Texas Medical Board",
+      "link": "https://feeds.texastribune.org/link/16799/17526673/texas-attorney-general-ken-paxton-mary-talley-bowden",
+      "pubDate": "Tue, 17 Nov 2026 22:57:28 +0000",
+      "feedSource": "texastribune",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Ken Paxton renews lawsuit against Houston over HPD-ICE executive order - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRzZ0VTc4RGV3X2VQellNcmZBX0lUMERIdEJJUGFHWE95aC1VdU5MNUZ5ckx2NWxFcHlIZkV5eFRsa1ItNlNQSl9XemFPNUNjS283U3JiSmVKVVdWcVVoVk10SDNDYnJ3Qlp1YUt5VmFQS0pVaUVjYXBxaUZCbGM5ZmtiZXpHMklrQUZRa3d4Wnl1Q1hhaDVWVk0tX0lINXdXZ1ZpWUNMTDVVemlvMjByTVpsalpSV3lmNm9RelFB?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 20:18:57 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Ken Paxton’s office drops lawsuit seeking to ban Muslim civil rights group in Texas - KVUE",
+      "link": "https://news.google.com/rss/articles/CBMivARBVV95cUxNMV9IZWVkNGtmSmhMR1JjMXJ1S2NtZFZkSGIyZ1dkcGxxQXI3amE5ZVgteGpCVWhyc3ViT2RxRkM4eFM0YUNVS09wVW1NUXZrVnlvbFFQMm83dFpnbTVvNkphN1JwcGJKVWwyZzRLN24zaDUwcjY4Q3o1ZV93bTRGcldEMEQ0Rk44Rmc5aHJwNnR4OVV5cnN5Sm9CQ1BNaS11TVJFVjQ5eEZYZVptOXQ1ZUk2VWE1bWh3VlZQNzdVdDlKaWk5djF0eEJlbzJYeGlTOTZhREg2WGhseVV3N0JLbHNpN3dlZXhZeW1KNmNKTDJtcERSVE05TnRMRWV3OWVCVDBHcUZfMEFWWndqbmRhYVJKZ2g3dkpOaTZVcEtUMEl4RlRxbkhxUUl6ODJqaW5rTGRfQVpVdjYtbDFvaTJaV2lHLWxWNEtSSHViY3lwSTBBUXh5ZGttUFJpYUpVWTVlZzM4YzFCanpGU01RTW5qM19hOV8teWhCdWk3TVMzbXdrcmc4akZOWjg5ZkN2dzVpbktuSjJESHZSWXE0dkoxVXY5R3RwbjZTYU5EMVpXTkNZR2tjMTVxU0RsMU1VOWJ0aTBzVVNLblQzMnBlVFZma0Q0eW5rVFVvQVZpTmY2UWZqS3FyZVNZNGszU3daZ2REeXVNTjRWa3VsaUs2aHBvaGJNS0FaUHp1YW9NVUxDQnVmY1p6bHZZRVlJbVRQdEZMU0FXWTJpUVZoQUpqeG9XLVF5NGdSSWQzcUdJeA?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 08:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "The many meanings of James Talarico’s cowboy boots - Northwest Arkansas Democrat-Gazette",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMGI1ajV5R3FGMHpVU0NoU1c4azZESUprZUtzbFFFY1JUNHM1QUw5Y3NxcFhiWTRFYTBWajZfQ0VSeW13cmo4Ym9YZjMzQUFLU1pMdDJCMzhYdHhnekZ1VC1TaUgtVEhMcjNCRW1VOTVXYTNSaXRjMTMxZTl6Z0JFZ1NSeGQ2NXVXRGs1eFJkVUZ3OXJqSWJtTA?oc=5",
+      "pubDate": "Sun, 15 Nov 2026 09:25:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Outgoing Texas AG Ken Paxton dismisses lawsuit against CAIR - Houston Public Media",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdUtxUGk3UmpMVjF5T1BJN0s0SzVnRF9Pa1FNVDJPWmZYbmhFQXQzNGVaZGlaU2x4RE5TUzZTZk96a1dBSGg1cDhPejVnRlZNNDBBSlM1REpTN2Z3MEs3WjBQM0VYVXJWN3MzNGI0U3pYeVh5Q09hMXB4LUd3cm5fT00wMlQ1N2FoeldEdDZweXpXU0VheUN3bHE5VjRjT2Rxb0pWeXpKRjJld1VPcjQ4RzBFSDdfcG1XU3N3TGR3M3VVWUxLclFF0gHPAUFVX3lxTE9ORjIxUU1pR25Pa2NDNklfcGlhX1dJTnpFRmxPcmlkYTU4TXFlaWtleXpHcTdTWTB5LWNFeGxQNXFVM29zaUhEcmZfM2JwREpYMUxsS2tUNGtkZnJxdnNpN0NRbUJGdTNhcm5GM3Fjc3h2czUycl9ZTEVmdC0xOWxMU1J1YVFaMEJoOVI3elUwWml6ZElaRlVWUHU4NU1UVlpjVk44dnZ4SG9WZC1aR21UMEZXblFqSTlGSEhXdFRyU2UyVVFoUkZacDZsbXdkaw?oc=5",
@@ -1896,113 +1997,19 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "How Texas' religious traditions helped shape Talarico's Senate victory - WBUR",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JM0p4QWc3Si0ybDA3R2ItMTNkd0Q2UXd5SVptNEt3eThHUzNaWFZNTG5fc1dvaGRGNjBIRnFpdHlRQnM4MkJncVdmVUF4Zld3aUZkTm5YMF80QU9Va09YN29waUZYZTRIT0w3dy1Xa2RBcUZ5S2c?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 17:02:42 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "talarico"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Talarico, Cornyn meet in Washington - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMDJLdExVazJNQkt6V0ZIdDlsSWdCUTZuSDNGVmdKMlRMUEw0Y3hkTk5FYkR1bnRseFNvRWJFc3ltQXFKTnVVVG9XMGZxS0ZmNjZEamVmd3B3M1h5eEdWbDJkWnRtTEVzbHBpSVVFUHpQM3d0QmdRZDJSREhrQTdDcnZR0gGHAUFVX3lxTE9IVF9SN2tZOW5BNlU0VDhueVRSYTRhOFhfLWpzVFRLN2JwYXZJLUVnVmNBMThPSzR4NEZldm0zaV9mQzJveEJZdGpwUFdwRW52N1VBSU1zYVdBaVgtRVhlQXNjUWk3blJPV0dyOHVSZVdfZUpxZklFZ3ppQUFoZTJzNG1mME12OA?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 20:44:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 9,
-      "matchedKeywords": [
-        "talarico",
-        "cornyn"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "State of Texas: After historic wins, Texas Democrats prepare to govern for ‘all the people’ - CW39 Houston",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONFV5UWNMVS02M1MzWmxRQnlvbEdlOE9YdWIxZkZMVGY4U2VzRjJDU2tuY19MWU5vX0NLbEJ2b194MzJJRXg4LXgzaVJ6Zkt3ZWZHNzd3dmlOM2lnZ3gxTlR6dWtZZjVDRzJnNlQtcXZnZDRudXVpQnR5YlRaVEtWOFNuc0Z2SVVQVzJ6UlJ5bk9pNElhSjRyYS1QcUhaMW1CYVk3NF85QmItQ25GLU1qNlpZQ3BrUDVuUXlRN1BvVkIxSkhMdmgzT9IByAFBVV95cUxONFV5UWNMVS02M1MzWmxRQnlvbEdlOE9YdWIxZkZMVGY4U2VzRjJDU2tuY19MWU5vX0NLbEJ2b194MzJJRXg4LXgzaVJ6Zkt3ZWZHNzd3dmlOM2lnZ3gxTlR6dWtZZjVDRzJnNlQtcXZnZDRudXVpQnR5YlRaVEtWOFNuc0Z2SVVQVzJ6UlJ5bk9pNElhSjRyYS1QcUhaMW1CYVk3NF85QmItQ25GLU1qNlpZQ3BrUDVuUXlRN1BvVkIxSkhMdmgzTw?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 05:53:41 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 8,
-      "matchedKeywords": [
-        "texas democrat",
-        "texas democrats"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Texas Democrats set sights on 2027 legislative session as bill filing begins - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVVlEMXpkYS1GRWxDM1p5WV9WRDZveDNkMGt6ZFRSMkNUQlpZYkVXaVFCMldIOTlteWZhR09HUm0xOTk5LWg3eWY0ZVJZSW1ReG5TV2t0bUJsZi1mQjRPX1dnUzVzVWdVV0xIZVBremJCNUFSV3Y3SnpBNlFhOU03WDJZSWs3LUtQQ1VOZ3NDS1JQN0Z3WkFKUnktUmNpcTllX21PTTI2WUEtV2lwbV80aXJPMGZyTjZKbl9QUGNHY1hxMWZoRDFUdjNMa3F2VnZud1Z1UzNJanVCZHAxSXQ2TVNScXZhVzRU0gHwAUFVX3lxTE5IZXlOVzNzUFIzY2NRa1p5Q294SXZKR3AyaEN4NkpmcHRlOWNKR1lKOTFOdUlzN01yaU1TVGlqUTl1UXAwS1U4b2lJQ3hNLXZGTXhrQTRUX1dnN0VFRHZtVy1CMmRvZDlWRk9sZmU3QkhKeGdBMF9lRWJFVlMySlFfUGJvaE5KNEktaGtlRFVGaTNjQ3dvQ1RMY1lscEZvUDA3S0FHOXJWajh5dzV5d19TeTZCSFIyQ0RxOS1IY0dvMzZpOE55WnVEbjd1QVFNSGN3Ylp0OUNqUjhyaUk2LXFhbXBUSE1XdGwySEZ0UmdUUg?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 21:05:52 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 8,
-      "matchedKeywords": [
-        "texas democrat",
-        "texas democrats"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Texas Democrats Introduce Deluge of Gun Control Legislation on First Day of Pre-Filing - The Texan",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPZnFjWERqRlhWWmd3RUpONjI2Z1h3c3h6MDFwQmVwcVo0OHJ0RVhYVFJDcEFTVXlrcjdyUGI0VS1TTmY0XzRTUGwyV3lYQnU3bjBkbFdHMjFSZTR2SFI4bnFOTjd1bG5zby1TMkkyMTQtLS1COV9qWVdDRmhkVmNsNlBiVUtfYWItX0N4MTcxckZIT3lBZlFnYU1yWGNoWURncjN2UUVhVERhMkZ5Zy1UNEtkbVJxSDJSaFlnUi15Y3EyZENWYkJvQ2hjUTJXeHJ5aXo4b3NrRDNrZ1haQ01vUkRkQTByWmVleF9hQ3AyT2FNdlBkdG9yY1c3RWZCZ3MyVzNMMFd5SmNKMW1VMW9n?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 15:53:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 7,
-      "matchedKeywords": [
-        "texas democrat",
-        "texas democrats"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
     "2026-W46": {
       "paxton": {
         "positive": 0,
-        "negative": 16,
-        "total": 35
+        "negative": 19,
+        "total": 39
+      },
+      "talarico": {
+        "positive": 6,
+        "negative": 0,
+        "total": 11
       },
       "general": {
         "positive": 5,
@@ -2013,18 +2020,13 @@
         "positive": 1,
         "negative": 2,
         "total": 5
-      },
-      "talarico": {
-        "positive": 6,
-        "negative": 0,
-        "total": 10
       }
     },
     "2026-W45": {
       "general": {
-        "positive": 1,
+        "positive": 0,
         "negative": 0,
-        "total": 11
+        "total": 8
       },
       "paxton": {
         "positive": 0,
@@ -2034,7 +2036,7 @@
       "talarico": {
         "positive": 0,
         "negative": 0,
-        "total": 5
+        "total": 3
       }
     }
   }
