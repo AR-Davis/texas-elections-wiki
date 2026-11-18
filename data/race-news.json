@@ -1,13 +1,25 @@
 {
-  "fetchedAt": "2026-11-18T10:34:16.512Z",
+  "fetchedAt": "2026-11-18T19:18:12.297Z",
   "count": 23,
   "feedsChecked": 8,
-  "itemsScanned": 80,
+  "itemsScanned": 81,
   "items": [
+    {
+      "title": "Edison Finds Wide Podcast Reach Gap in Texas Senate Race - RADIO ONLINE",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMUJfdlpYZm03Zm9aN2JfdGRfUFNiN3VhdF8yVUlJTGJvVmhFSkpZZERidWdFZ1J4XzF6SFhGUVVjXzN3YWJBU1VQeFZMZERCWGtlbmFFdmFRUElQMEtIb21iTU5qX0ZtUzE2dDRrSVdrZ0xiXzAzUDhoUkxJRXdsTHI2TmJZSWhLWjhWZ1hpUFJERlVJNTF0MFRhMFV0U0EtSlBoNw?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 17:27:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "texas senate",
+        "senate race",
+        "texas senate race"
+      ]
+    },
     {
       "title": "Texas 2026 live primary election results: Cornyn and Paxton headed to runoff, Talarico advances - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaDdzclZQZjY4dW9wTl93S3JKZ2ZsbUlnTDBnNVlKb0p3SU0zRXI2V2Z3QjJJYmNKc1pzUFhlTjdURnIxelRSYVJEeHJITzRkZUxvdDdTR0F3NW1lNks0M1RaRWduUDEyOF9UbWVlcmhtejRDUU8zYzVraFdZRkJ1WDExSDU5SElJazdsVllLdEFNd9IBlwFBVV95cUxPQlR3VjMwVnBZQW5FVEowci1LbTFoelgxYk1NQTRWaFRrTm5Wd0pKU0x4Y1gzN25TNGpCSDRuX25MZWtfZEJmcnFtN0xDRFRMTXduMXpLV1NHaU5hZzN2ekhDREJXc3FZaEJVOTZMcmVTSG1TV3o3QXJaREtreVBtelVWYzVSSV9HdFFmbXpOMlkyMFJ5TkIw?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 16:06:17 GMT",
+      "pubDate": "Tue, 17 Nov 2026 13:13:26 GMT",
       "feedSource": "google-news-race",
       "raceScore": 15,
       "matchedKeywords": [
@@ -41,18 +53,6 @@
       ]
     },
     {
-      "title": "Cornyn blames Trump, Paxton for Texas Republicans’ election disaster - Washington Times",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRzByVFR5YnFENzBvcnZqTFhydWZKTEFZdy1jMlBPSTBLVlNKSzIwSWNxdFVjTDBLeHFweEpKaXJxVVBTbE5TbFgzaGVkNTdoNjlaRXk4YlQ0M21hYmgydE1mY2RnbWNMOFBRQ1VKSXF3ZWtneXJ0aDFoUFdYTnRTSEpGOHFudVZvSmdWVWJFQW81LVZHWlhXajBlalQwUGlXNzBlRVFVQW9GYW41MEZ5b1d3Z1FKUmlQOXAw?oc=5",
-      "pubDate": "Tue, 17 Nov 2026 19:00:14 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "paxton",
-        "cornyn",
-        "texas republican"
-      ]
-    },
-    {
       "title": "Trump-backed Paxton will beat incumbent Cornyn in Texas GOP Senate runoff, AP projects - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbmNCQVBFclB5WnZlaks4UnZiUWVkenNZdTdkYlZKOEZRZFhYcGMxNDEyemhBYUt1bV9QaEFHdzBWcW1XMDZENFdZRkVSamZuWXFDa1dQX3VnTXF6ci1MdHptZVlkb2VRd05QamF3akJDVFJGdktUeWhXOGZ2OEVRNGY5QWtJVU45dHd5QUVodDdIb2Q00gGaAUFVX3lxTFA5Q0ZVS01wSmplbWVESnVkdTJWdDRBZHlDU0ZmRWlXS2dSa2VrZFdkay1PZ21sU2FGT0xwMmszQ0xBWkhXbU1NQ2RfVWNxU1lFb09hcE9PVVY1M0tIcE9ZZ2hoZmwtUEhHaVFhSG5Na09lMW5ubUVOZ0FSYXhFYzZYUUtIczdka05UalVjOGxxaEZyRU1nb1VtM1E?oc=5",
       "pubDate": "Tue, 17 Nov 2026 07:22:45 GMT",
@@ -70,6 +70,17 @@
       "pubDate": "Mon, 16 Nov 2026 21:23:40 GMT",
       "feedSource": "google-news-race",
       "raceScore": 13,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ]
+    },
+    {
+      "title": "Ken Paxton Drops Lawsuit to Ban CAIR in Texas - The Daily Signal",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16eXduX0JzVkxfbnpPU28ySUdKVkduMnpKalJ2S0d3UTVhSVFpeHE0cjh5bVNaNkxKSnBmUndpeFBKRlhLQXBCdGlLVmJ2YTJEdkV2eXNPSHNwcXYtcmphM2syS3RRSk12bWJkb19NejNKZ2VzYjB5UnRHVQ?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 23:05:44 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
       "matchedKeywords": [
         "paxton",
         "ken paxton"
@@ -109,6 +120,17 @@
       ]
     },
     {
+      "title": "Election triumphs, a series of scandals dot Ken Paxton's political timeline - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVlGUDlUSDhmNnllbllSSHVTQlNIcE1iTGRpcHVsdDZfN29hTlJpdDVLSW1fM05zbXhHb2pIM0RqU1NZcXhNUG52ZzJReEVrRkhsLUEwX3JfSjViZWZwdDliZlljWVVBNHpPVWRHRzcxakUzakhrQjV4a0g3SXVzX0NGWjFoSTNlLUIwdFRwanNadmw3azJIQ1JBNXM1blBlTUM5UUZtMDB5bDjSAbABQVVfeXFMUDQyZ0RKenVWMF9sYkRyM0QxZnREc0E2SE96a2R1ZUlEYm1EaWYzdkNobkU5cFR0LVdmQkl0c2ZUYURrbm1oNmhFci1xeUlRYXZjUlBUc3hUTnlYNnJqd1JGeUxQNjF0WEhUV1N6eFhjVWFKRDJSLXR3NGd6X0kwc2hlUDhwVFpPNHAyU0FHdTJfOXNvREs1WFdGNTdJZHR4Y19OVTg0V084RVBGSDNobGE?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 15:49:01 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ]
+    },
+    {
       "title": "Senate loser Ken Paxton not cooperating with Dem successor: report - Raw Story",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45VGJjalVrWmVlRDh6YTdUMmRuQkVYX1BRN1FYWVJnQWxnSUJMa3hZdTdvd1NPdmJmckNwZTQ3eVh0OTlsSE1pREw0TFlLYnhqM0FJRzY2Y0xZb2_SAW5BVV95cUxNVnJ2YWc2Nl9qVml6ZmN5OFFBRWM3SjRZZWFSR0djS3BCc1E3R3ZkUGRpbWhib1dUNE83em1sLWM2ZXQ4T3h6ZjJXQU1rS2dVTTJiYmJwZWFqN1VfQXJHTnRxUy1qNWJTaTF2N3gzQQ?oc=5",
       "pubDate": "Tue, 17 Nov 2026 14:03:00 GMT",
@@ -120,14 +142,14 @@
       ]
     },
     {
-      "title": "Election triumphs, a series of scandals dot Ken Paxton's political timeline - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVlGUDlUSDhmNnllbllSSHVTQlNIcE1iTGRpcHVsdDZfN29hTlJpdDVLSW1fM05zbXhHb2pIM0RqU1NZcXhNUG52ZzJReEVrRkhsLUEwX3JfSjViZWZwdDliZlljWVVBNHpPVWRHRzcxakUzakhrQjV4a0g3SXVzX0NGWjFoSTNlLUIwdFRwanNadmw3azJIQ1JBNXM1blBlTUM5UUZtMDB5bDjSAbABQVVfeXFMUDQyZ0RKenVWMF9sYkRyM0QxZnREc0E2SE96a2R1ZUlEYm1EaWYzdkNobkU5cFR0LVdmQkl0c2ZUYURrbm1oNmhFci1xeUlRYXZjUlBUc3hUTnlYNnJqd1JGeUxQNjF0WEhUV1N6eFhjVWFKRDJSLXR3NGd6X0kwc2hlUDhwVFpPNHAyU0FHdTJfOXNvREs1WFdGNTdJZHR4Y19OVTg0V084RVBGSDNobGE?oc=5",
-      "pubDate": "Tue, 17 Nov 2026 03:22:10 GMT",
+      "title": "Talarico walks back comments on religion and gender after Paxton's win - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTlBjOGxUYUZyTnFyci04a1NVcWZMb1QwMmlXOGdxaThhd0dyRkM3cENLOGhxbUxQWDZadmtWR2ZVNDNMQVJfNG1QR2cyS2JkOHczdHR1SV9KMy1SaUJrZGdPXzAzUW92a1B1N2E1TkxoVWJHbzNqVmhBLW04NkQ1ei1xTy15R1pydjhnV1EwcEtWTlFDUlJvU2hmaU1BM01lWVBGWGhGY1Jpd9IBrwFBVV95cUxNR3ZxR0lCd3piTnlxTDFOQzZHQktKYldfSWV1dmNVcHloUlNfY28ycHR1Y054dnQxSXVDaTVUYU5pWXNadTFuak5OLTRMNWY5QXBYVW5HWmFvTGFPclU4dG9lR0tRTDgyZXRDTGVfRjNRRkdGbjhSeTRVTjZ2Vm1QbHVpUUpqam9MeUlfMXdvbFluOURGWmdidU5OcXA2X3hWQjE5dDhZb0VkcnFvUWFr?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 08:53:37 GMT",
       "feedSource": "google-news-race",
-      "raceScore": 11,
+      "raceScore": 10,
       "matchedKeywords": [
-        "paxton",
-        "ken paxton"
+        "talarico",
+        "paxton"
       ]
     },
     {
@@ -142,25 +164,36 @@
       ]
     },
     {
-      "title": "Talarico walks back comments on religion and gender after Paxton's win - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTlBjOGxUYUZyTnFyci04a1NVcWZMb1QwMmlXOGdxaThhd0dyRkM3cENLOGhxbUxQWDZadmtWR2ZVNDNMQVJfNG1QR2cyS2JkOHczdHR1SV9KMy1SaUJrZGdPXzAzUW92a1B1N2E1TkxoVWJHbzNqVmhBLW04NkQ1ei1xTy15R1pydjhnV1EwcEtWTlFDUlJvU2hmaU1BM01lWVBGWGhGY1Jpd9IBrwFBVV95cUxNR3ZxR0lCd3piTnlxTDFOQzZHQktKYldfSWV1dmNVcHloUlNfY28ycHR1Y054dnQxSXVDaTVUYU5pWXNadTFuak5OLTRMNWY5QXBYVW5HWmFvTGFPclU4dG9lR0tRTDgyZXRDTGVfRjNRRkdGbjhSeTRVTjZ2Vm1QbHVpUUpqam9MeUlfMXdvbFluOURGWmdidU5OcXA2X3hWQjE5dDhZb0VkcnFvUWFr?oc=5",
-      "pubDate": "Tue, 17 Nov 2026 01:01:41 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 10,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ]
-    },
-    {
       "title": "Former President Bush and Sen. Cornyn take part in fundraiser for battleground Senate candidates -- without Paxton - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRVNWemtQR2wteXBzeWZHald6YmRYSEVMcDc4X2QwQXh2OXVEMUNHRUJvNWRSOFlTME12WC05eHVqVUdwOVdGSGdzUDR5QUxzZlZfcFlqTjdxOVZIR0d3dDUxQU8zRFgxNFZ3Rnk4eE1leTMzQkxKdkhsVWxVSEtGbUNaOTJSWmxZRmhkbWtCenZoekNZcGlCQXFUbnExU2VNZ2ZzVzhTaW5XVG4tWkHSAbMBQVVfeXFMTjZYbXdrN1dxS2R1WkZydUFPSEV1LVExZElFLWdMeEkxOTFsNkNqcE5BOExCYzRINzlBaFR4VFZ4NEFKY3VLcFlsclBtelQwZllXQnFncmFaZmg2UTNTYmxLQkV5Y0JENnAxNzJud3dyeThTZFM3aGJMLTBsQ3pOQnFYMFpxWHV3WWk0RTMzQVVseVhwYzhPelF0TV83bFRfTEdfcHRCZi0yYnlHb2xwNUxHVTQ?oc=5",
-      "pubDate": "Tue, 17 Nov 2026 03:49:01 GMT",
+      "pubDate": "Wed, 18 Nov 2026 11:50:36 GMT",
       "feedSource": "google-news-race",
       "raceScore": 9,
       "matchedKeywords": [
         "paxton",
         "cornyn"
+      ]
+    },
+    {
+      "title": "Texas Democrats have a chance to expand voting access. They still need Republicans’ support. - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQalkwMF9xVUNsb1ZmY0NEUXlpdkFKeFRCZ1IyUzVlY1RrSlRhc0JnZDlGZmowRGNaS1NfTjJkSGdhSktSYUdTRUJYYnRQdnh6MVNqaVphVW16VC1xYWVKaFF5VnhmVE12SVN1UmI3ZjNkbEk4eV9uMHZxdHdLN2k5V05GZVdOd2x4TnVZZDluWlBXOXc1eWlyRngxM1FKNlFiZjlkRTI2SlVqM0ZpU1Y5LVBtM0lVV05yV2ZCRUZ6UE40SThBZHh5VHB0MXpKek1JaXluQ2NlMkpEWEZpOU9SdFZLcXJ4N1RLcWplQXN3SkVOcm4tZVZScDlsNl9XbWZvM2fSAYICQVVfeXFMUGpZMDBfcVVDbG9WZmNDRFF5aXZBSnhUQmdSMlM1ZWNUa0pUYXNCZ2Q5RmZqMERjWktTX04yZEhnYUpLUmFHU0VCWGJ0UHZ4ejFTamlaYVVtelQtcWFlSmhReVZ4ZlRNdklTdVJiN2YzZGxJOHlfbjB2cXR3SzdpOVdORmVXTndseE51WWQ5blpQVzl3NXlpckZ4MTNRSjZRYmY5ZEUyNkpVajNGaVNWOS1QbTNJVVdOcldmQkVGelBONEk4QWR4eVRwdDF6SnpNSWl5bkNjZTJKRFhGaTlPUnRWS3FyeDdUS3FqZUFzd0pFTnJuLWVWUnA5bDZfV21mbzNn?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 14:09:03 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 8,
+      "matchedKeywords": [
+        "texas democrat",
+        "texas democrats"
+      ]
+    },
+    {
+      "title": "Trump made it more expensive for Texas Democrats to expand Medicaid - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWGhGT19sa094b1lLY3BIa0Y2YW9ZQXFuel96bWduRVlUSTNfNzZ6bkdzd1pFaXplM0hMaENMYnBEQmZHbDhrREl2eHI4eUFnX1JZanYxQ0Q2R1dKdHNpTG9WaWViRUk2aEdWRE10YTA4RF9JUmZDUVNyd0wtQzVFc3B5UDl0UzBLaHBodGZHZFVheVQ2MnFEbEVsNXlWLWRkSGNqSm9rQnRQWVVGdVJMajEzNjlqUUky?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 12:09:55 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 8,
+      "matchedKeywords": [
+        "texas democrat",
+        "texas democrats"
       ]
     },
     {
@@ -186,11 +219,11 @@
       ]
     },
     {
-      "title": "Texas Democrats have started laying out their agenda. Where might Republicans draw the line? - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOekE3SmdldFF3LW83MjV2YWtRa0ktUmNZSEZJa0ZYUGlhckZKemhEdFBPdUNfQ3dUMzU1U1RybkZ2aGNuTkpjU0xad1B5NHZQNEItWUdCVzdRQXZqejlBamtITDJObnlQY05OakJkZVgxNlUwalRoSlVkUnh0U0ZXQ3lkN2JNNWotZ1A0dnc0OHd0dEh0cnJ2ZWNQNXZHUFppTm5JYW54YVd6czcyczFTdXlja3E1MjhlVFJYX1VUNlZ1MUt5OVkxajlZZjBJc1JYNXZZdGxaRGFaRHY4UEstZlZ3WEFiTW1OUUlGazhDRFJBbkYyX3ZiYWtlc9IBgwJBVV95cUxQY1dDeGhMeVEtYWx6TmR1RERfSWt5b3A5UTNlRnZ2SG9qWGpUbW5SZFgtZG9jUkhEajNkX2xJaVp2aHdEb3JveGpEdEUxVHZ6NWVUWlFycTUtcm1wWW9QZzRYY3E0bUVFbDgzcVFBSlAyWDdoRm9NSmRwWHhWOE91bW5RaEc3eXMwMFQyU09MSW5ublhERDlsQmpoR1ZldVhtVW9YVndpbkpITnhIQXFMSE9nMk01TXZ1c0IxUE12NDR1Y3BodzlfejNjcXY5NTBtemZGTnNSaThXUnVfNGktNHdpLVhtZWh4SGJqTHZ2SEdDVFZpdHFYWi1sT3RoTm40NDFV?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 16:28:21 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 8,
+      "title": "Texas Democrats have a chance to expand voting access. They still need Republicans’ support.",
+      "link": "https://feeds.texastribune.org/link/16799/17527010/texas-elections-voting-laws-legislation-online-voter-registration",
+      "pubDate": "Wed, 18 Nov 2026 11:00:00 +0000",
+      "feedSource": "texastribune",
+      "raceScore": 7,
       "matchedKeywords": [
         "texas democrat",
         "texas democrats"
@@ -218,17 +251,6 @@
       ]
     },
     {
-      "title": "Texas Democrats look to expand Medicaid with new control - ConchoValleyHomepage.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON0p0NmtsSktsT2J6YzZKQWt5LXVKaUR3ckpuX0dVVkNBWWhzVERHb0dKLTAtWHd2dTlndVg3RWpyazhkVDZPS1ZUOEdlTVZEZ1YtbUc1STZCR0FqVXdhSHVjaURyXzFjRXc4MmkzdG9NcUZZSXY2UzVYcHlNU0p0eU5fc3RkZGJsWUZVcVpfU3FRYllEcVdPcUtIaHBUOGE0eDYzbTRzY0tKcmhNX0prbHFYVWXSAboBQVVfeXFMUEtnb0Znb1F4TV9GeUpncnNzeGNPUmVUM3lPdzdJOUZaRjV4bFc1dzVmX20ycWdxaGgwRzNIdmt0ZjByemZtdHc4cEZrQUJqODlpTUQxZXZWN0lZX3M2SVpMbkx6WmxxZDBWUUpkX1QzU25ETE5FRkFXV2hST2NiRHZIM28tTTVkZWtVa0NSSGFMTmd2S3VocTlYM1B0c21fY3laQVdONTlYdzd4bkY2VWkyQkpxdGFuWkpn?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 13:54:37 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 7,
-      "matchedKeywords": [
-        "texas democrat",
-        "texas democrats"
-      ]
-    },
-    {
       "title": "Here’s How Texas Democrats Could Flip the Senate in 2028 After Republicans Held Strong This Year - The Texan",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNeXJIQ0N1T09hZmpsUjNBTXBLNDVtMjViZjUwVG96WlB3UUE1OVdzc2lFMHdtN2V3RHRfM1JEUElzNnFXbzZwLXhCemxTVzJmNFF0YmxNQmdYUE94b0JRa2R5MGVWaVcybXNCN0FmX1cwNm1jN01ZcTJLRDJ1cVlieFU5Zm0xQXNrOXdFRXpMNWlUTjVOdW02cVlWUmpvbERSUTZDa2VQNjVNMTJaQlVtN3lCRFRxRzAwdElqbUE2cXE0d2xUQnhKOXY1MVFVLVlKUF9MdWdCQXRCN0xTc040a3l5ZXViamY1Z0NKd3FISDdtSGRpSG1OYjZBVHVmdHVSU3FV?oc=5",
       "pubDate": "Mon, 16 Nov 2026 11:08:00 GMT",
@@ -237,26 +259,6 @@
       "matchedKeywords": [
         "texas democrat",
         "texas democrats"
-      ]
-    },
-    {
-      "title": "‘It’s the economy, stupid’: Texas GOP chair reflects on massive statewide losses - Dallas News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLXdDc1RTdVF5RGlQMHRUR1V4UXk0RF9YXzNYOG5ubWFOODBDc0I3dGFwbTExWHBfbTFxNVdDYlRkY2dhS1B2bHZtOGxpbnF3ZDczSm1kMDJYSDJ1NERub2lRc3Q1NG9kczgyaWV0Wkx4V2RWb29rVmlQeURjSWpRUGhpUFNNU3BBekdPSHppbG1PZUhKT2xqbXhSOHNsM19ZWWxwNHBzOFhfckktekg4?oc=5",
-      "pubDate": "Tue, 17 Nov 2026 21:19:04 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas gop"
-      ]
-    },
-    {
-      "title": "Talarico lays out 'super-agenda' against 'deep spiritual corruption' after Democratic wins - Christian Post",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR3VMbWlQY0xlX3lYR1BsZ1FQTlhsNUVxZER5MDhrejkxLWI1RXota1RZV3FPRUFpS1ZOLUJrWkJOVVZHcnppTE5nVmNocnl5RVk4UjNrd1ZQZ1Jwc1pydzBqbDlHSExtUEE0UGY3N2htckxycU9IRHFqVFVib2VVWVJRd3hxcHpKZ2V2VjVnM05lU2NKRjVLRmNyUjhZZ00?oc=5",
-      "pubDate": "Tue, 17 Nov 2026 10:40:25 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "talarico"
       ]
     }
   ]
