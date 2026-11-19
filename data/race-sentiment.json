@@ -1,9 +1,88 @@
 {
-  "analyzedAt": "2026-11-19T07:11:48.061Z",
-  "newsFetchedAt": "2026-11-19T01:23:47.557Z",
+  "analyzedAt": "2026-11-19T16:43:38.813Z",
+  "newsFetchedAt": "2026-11-19T09:18:47.667Z",
   "totalAnalyzed": 100,
-  "newThisRun": 6,
+  "newThisRun": 4,
   "stories": [
+    {
+      "title": "Cornyn blames Trump and Paxton for Texas Republican collapse - streamlinefeed.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWXB5QjhIbUwxN3NzQjhobTJXcVozUlNlbzM4eXBmWm1qLXBIOUxodVE5LXNwekZYa3lET3c1VFhoNTNFWjJsaUgxVDlzWWRNbVJiTWtPVGpuZERhS1VDbVMwZGVQaUZickJxcUdPeUc1NTJNQk45eXhyQ2lHNEhXdlZRVktFWHhKR0hySURsa1RjZWVHVUh6d25R?oc=5",
+      "pubDate": "Thu, 19 Nov 2026 08:25:57 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "paxton",
+        "cornyn",
+        "texas republican"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas Democrats Make Key Transition Moves - The Texas Signal",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BVmJNbzNpM24wajJQallVaVVjS041bnpvaEpxTDFJSVA5MWl6LVp6X0UwekJEbzF0dXdsbXg5Q2paVXppRTRjeU5ZVF9PWGhIa0NZNl8zc2l2UHVtNk5nVzEtSDlRR05rOXNDSmpFdXFYRlRQ?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 20:19:12 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 7,
+      "matchedKeywords": [
+        "texas democrat",
+        "texas democrats"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Trump blames Paxton's LAZY EYE for historic Texas rout - Daily Mail",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVzZyVENFcDU4YVdEWHZHRm15OGxjQzJqNWRiUGhaUlNNcmJZdS1xN3I1V0VmWHF1aHJoUWtlYWlselI0VE56VmY2TUIzbnUzVTZPM0h4MzRpWnptWk93dFlRREFER2ZnSksyeXp4Y1Y1by1Zd3FOWGZGeVd6OHdzRXZSNl9oRHo1QW82dGVtRXZEVWlkeWNUd0tvYzQ3eUc5elE?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 16:55:57 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "paxton"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas Secretary of State launches first-of-its-kind audit of U.S. Senate election, newly required by state law - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ2hFWjdqSVgtemxHMm9vckpzTHpfdklIRFFES2dTR1hIc2pwNksyOHVEbzhWNllEMU1Ja2s0NG9kbUlyaWoteW9xc3UyczhvOWZrU0VDSkZqelVSQkVadGpFNXVjY3FIWF81QVVwZ2lNeG1TY1gzbnVoTnMxaTBlTXlEcGZfRU1EbEdGem1DRFBUd1hRQV92OUg5LUpmejBGSjQ3ai1YTkhQZUxubm9ENWRPOGR6TGJyUW5idXJ6SkJYU1R3TkNpUjhLeGdfcVhzMUFhWVVR0gHeAUFVX3lxTE5HU0dzTk9sN2ZtU1hZa0dPMUxlQ3UzTVBlRFhCNDN4bzR0SkRzNW1iR0YwUjVleVdtOFJmSlJFeEtaZzVRYjdWOHg4NDlaWkozNGlYdDBmZGxPYnVldWtPaDZIdlJxZ3JsWVlySEpKUlkzd2wzMy1LVVJhbFZ1UFJSWnlCVjE1cHpuLWxDd2JPX1BZR284WG4yLUlDQ3IwdnVqNzZRVkROdTNnajhsYVBtWVRXMmdvbE9lSnh1UVpNQ0RUanlOY2dfSDd3bmhWWnRaY3JsTndaZWIzV0xXUQ?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 22:55:29 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "senate election"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Outgoing Sen. John Cornyn gives James Talarico a parting gift - Wonderwall",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPN1pWT21JYlBhSFdQVnRSV3BVR1FwRTNaUUl0cGdOLVdGU0RrZ25xRGIxN2FpOFg5UDUyNHB3MWF1d0ZpcExZZmxUeGowYTJEN1BkdXlPV1l6cDY3RWUzdjlUZmpXaDFvdmg1T2tOeUxaaTAzbk5XOTc4REtxWU1FWm9RVjdxMzJaMmhONlRsZklSelF5em1kZjgxTEc2Q1hrYzIxQjBjaDRtOHNjaW9seWkwcHpVd3E0bW9McDZqUjJybWZJN0FTR3ZFc1EzNTlwOFp6TUxQZTNDTnhSLVJ2Q0haQlVaQU9y?oc=5",
@@ -1922,86 +2001,15 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "‘My husband cheated on me’ Google searches led to Paxton, Democratic strategist says - Washington Times",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeFFLUE82YmRic2FId001YUgtVzFlZFl0eHJMM0lqSVRMNFhtQWN4V3o1enI5Wjk0dXNGbGZjQXBaM1d3SXpFTHZTRVpWc1BDaDZaeEhqMUN1eUIyNXRhTnhfbWROTGphemJtTDg0ajd0T1J6OHYycU5fQnhJTVlyd3ZveE9yNkh4RXc3dDVmX3VDOGY4LWpaeVQ5bnV1T1lWUXBVeTlMblhIR3pQaUVVbWFEZERGVW0wT0E?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 16:35:42 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "paxton"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "What’s next for Texas Republicans? - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUEVpbnhlUHZFS0pCLUpTajh3SEl4NGNTck1zV09iQ0NON2Z5VkxpSlhmMUtORDkwVFpNV2FTaDBEVllleTJrNUlCRzJPRjQxWFRnTHlfbXFjSjA5VGtNWlhKNFhrUmhYTmU0bnpfeUE3WlloaUFvSDc3Ul9ldExuV0Rza3FZTTVEWVBBVjdPLVEyMjRSYldicm5wNVBNZV9IajB4LVhhUUtZd0hsYlROMVl5eFZsdXVhWW1Z?oc=5",
-      "pubDate": "Wed, 11 Nov 2026 12:13:51 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas republican"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Texas Democrat files bill to deliver Gina Hinojosa’s $1,500 checks: What to know - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSHFYTVVJSHQyOERmYXRGcnA3YnlVVDlKM0hvM0tlX2YtdkhTOXR5LXJscmFFX0F5ZW5jYk91ZVV2VzFJZW4ycGs1VXFMWi1SLXM0RkxyZlRoRGQzY2lBbFBGWWVzbVl3eTBieGpoTm9zVXNNNENja1Q2NWNCektXRTl2UFdSd1p2S1UtVXYtSV8wSkV0YUp3?oc=5",
-      "pubDate": "Wed, 11 Nov 2026 08:00:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas democrat"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Cornyn’s defeat leaves Republicans with a more vulnerable Senate nominee: ANALYSIS - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUldSMmNZSWJtTlNGVkdTUks0RWJvcm5OX3ZNZjFfNnpnaUVNXzlHLWN1aW1yUDV4YlZuVG9KeTFTT3ZnVGh2SHFOc2dYblFYdWUydVJ3Wlh0NERzM21MZkRiaGtKRkpNbHdTRU9ObjBPb1VJYVhpajhZRS0zckIteFBRYWZPdGlLUVVCUnNqX2FCOXVTSVR4MDlmbXd5SGNlZzNwM0NYNTlKcmpWdzRDZjdMdUk3UDDSAbwBQVVfeXFMT2FsUFk2amdIQm1XOTlkdy1xSXVTTFYzeTB5UERFXzJuWXNMZkxXejk5UWFPYTFYSTRURWxaOGFjRV9zaG1mb0c4OEhsbTNQMzVEUlJCVFpmc01LcUpmY3FwcXRVblNRVEc4M2xta016RUNKandqbDRQQ0p6aGtEdFNlb3JqVVNuUkpkemxqaWtTODRDTzFtSUxuZWMtakpldDFFYnZtX19MbktVSGRtT2pTdlNSd2FOOWdweFY?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 20:26:49 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 4,
-      "matchedKeywords": [
-        "cornyn"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
     "2026-W47": {
+      "paxton": {
+        "positive": 0,
+        "negative": 0,
+        "total": 1
+      },
       "talarico": {
         "positive": 0,
         "negative": 0,
@@ -2009,15 +2017,15 @@
       }
     },
     "2026-W46": {
+      "general": {
+        "positive": 7,
+        "negative": 3,
+        "total": 38
+      },
       "paxton": {
         "positive": 0,
         "negative": 19,
         "total": 40
-      },
-      "general": {
-        "positive": 7,
-        "negative": 3,
-        "total": 37
       },
       "both": {
         "positive": 1,
@@ -2034,7 +2042,7 @@
       "general": {
         "positive": 0,
         "negative": 0,
-        "total": 3
+        "total": 1
       },
       "paxton": {
         "positive": 0,
