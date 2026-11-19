@@ -1,9 +1,130 @@
 {
-  "analyzedAt": "2026-11-19T00:04:19.738Z",
-  "newsFetchedAt": "2026-11-18T19:18:12.297Z",
+  "analyzedAt": "2026-11-19T07:11:48.061Z",
+  "newsFetchedAt": "2026-11-19T01:23:47.557Z",
   "totalAnalyzed": 100,
-  "newThisRun": 5,
+  "newThisRun": 6,
   "stories": [
+    {
+      "title": "Outgoing Sen. John Cornyn gives James Talarico a parting gift - Wonderwall",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPN1pWT21JYlBhSFdQVnRSV3BVR1FwRTNaUUl0cGdOLVdGU0RrZ25xRGIxN2FpOFg5UDUyNHB3MWF1d0ZpcExZZmxUeGowYTJEN1BkdXlPV1l6cDY3RWUzdjlUZmpXaDFvdmg1T2tOeUxaaTAzbk5XOTc4REtxWU1FWm9RVjdxMzJaMmhONlRsZklSelF5em1kZjgxTEc2Q1hrYzIxQjBjaDRtOHNjaW9seWkwcHpVd3E0bW9McDZqUjJybWZJN0FTR3ZFc1EzNTlwOFp6TUxQZTNDTnhSLVJ2Q0haQlVaQU9y?oc=5",
+      "pubDate": "Thu, 19 Nov 2026 00:28:53 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 20,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico",
+        "cornyn",
+        "john cornyn"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "AG Ken Paxton’s to-do list: dropping several politically charged lawsuits - KERA News Breakthroughs",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcjJQT3VvRF8wRVU5OXJFRU9xUVctNnFSWnV2ZnNjc213UVliX1ktMnE0WmwxWEdEVUpwSUhJdEhVRUhqRzBadF9Vbjg0bElNdFM0ZXdfcUZPcldCQ0FkakRQQ2ZfcnpHeUtnbzBZYVhzbldTbUd1YVU5Vi1qaDluWDVuNmlSNTlzaXE3UzhRbmxFak9MSTVOVS1xdDhEWm8tazVxdi1qNA?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 20:15:39 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Humiliated MAGA Star Ken Paxton Becomes the Ultimate Sore Loser - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQVBsTVNET2ZycjJ1OTZsdXlIRzViUDBRak1acndGZ21wRUlfeGxTZExHZFVEWkUyUEtnTGtWdWx5eUwzV3JpVXhQUlE1VldJNlZfYVVkQ3pPeVdXZGpLN2Z0MUhZRFJwbjJ2TENKcU54VmhvbmNKN29PVnlKN2w1dllZMUw5TkxlR1RmRTk5MXNqOVFFUGc?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 15:49:50 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Sen. John Cornyn blocks Trump nominee for federal judge in Texas",
+      "link": "https://feeds.texastribune.org/link/16799/17527376/texas-john-cornyn-trump-judge-gaiser-blocked",
+      "pubDate": "Wed, 18 Nov 2026 21:31:34 +0000",
+      "feedSource": "texastribune",
+      "raceScore": 10,
+      "matchedKeywords": [
+        "cornyn",
+        "john cornyn"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Sen. John Cornyn blocks Trump nominee for federal judge in Texas - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTlBQN0FkOUFoZG1xdG4zUlFuT2tqTXlTV0VhWXI1ZFZpRkQxOFdETTFuUS0zVVRPeVZJWl9EX0NHY29CczJ5M2lSd2hsZVQ5dlJ0VDdCVXNfMEdoWGxoVE00T29JRDljTThuNkluN1RRVi1KUDgtUV9jb2lQYmtLcHRtU2tGWUlQRk1sb2N3?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 21:31:34 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 10,
+      "matchedKeywords": [
+        "cornyn",
+        "john cornyn"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Cornyn blocks top Justice Department official nominated for judicial vacancy in Texas - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc09QTjI0aktGSG9ERG9rTFd6X0swZkZBS3F6SHdVZjljUVBrZHAzd0Q3Z2RySUFvV01ZREJnSlZHSXBDaVFPNS16TzVpN3lFbHBJTHdObG5QTjQ4bUljb3BXb1g0dUlWaUo5MzJ5TmlYNC1nRVdWdVllRVhUTWpSREFjVlg2R0FNM004TVBXZFNaN1Rfaks3QnA1Y1RtZk54Zmdab3ZmR2g3VHFjZ1EySGpSTQ?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 23:55:53 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "cornyn"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W46",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Edison Finds Wide Podcast Reach Gap in Texas Senate Race - RADIO ONLINE",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMUJfdlpYZm03Zm9aN2JfdGRfUFNiN3VhdF8yVUlJTGJvVmhFSkpZZERidWdFZ1J4XzF6SFhGUVVjXzN3YWJBU1VQeFZMZERCWGtlbmFFdmFRUElQMEtIb21iTU5qX0ZtUzE2dDRrSVdrZ0xiXzAzUDhoUkxJRXdsTHI2TmJZSWhLWjhWZ1hpUFJERlVJNTF0MFRhMFV0U0EtSlBoNw?oc=5",
@@ -1877,138 +1998,26 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "Ken Paxton finalizes divorce from state Sen. Angela Paxton days after his U.S. Senate loss",
-      "link": "https://feeds.texastribune.org/link/16799/17523373/ken-paxton-angela-paxton-divorce-finalized",
-      "pubDate": "Thu, 12 Nov 2026 18:51:59 +0000",
-      "feedSource": "texastribune",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "attorney general"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Ken Paxton finalizes divorce from state Sen. Angela Paxton days after his U.S. Senate loss, per report - The Texas Tribune",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMm9CUUdhalotMUF5dmpuT3JXb1Rudl9HNm02X2YxY1l6aExSMFhxNGJENEk5MjJ5SkRJRm5jU0NWbXFiV1pBMXpXVzNfUjZ0cTBXQzdhZnNwSk5DZVpONzRUUmZkRmRXb1cyNTEyQlNHdGZfQm9LWmxNSkxNN0xYOUZySm5IbUpyb2Rz?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 18:51:59 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "SpaceX drops $74 billion on AI as Texas politics shift - Rolling Out",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jU3hCOVh1b0JUbGRPSDZyTDIxTzFSdUo2NnE4M3YyT29jT3JLWkhFUDduWTYySUhPUTk0cE1KZHJsV0tNeG5UNUdvVVd4RTlVNlhfTlBaVVRxMl9sb0NjenowOGYtNWMtT21kU3RBd1pZRVVXSUE?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 17:39:52 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "What Do Microsoft's Neocloud Rethink and Texas Politics Mean for IREN's Delayed US$4 Billion ARR Target? - kalkine.ca",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORmc3dHdaZkVNSGdGVkxNVktwcUpKbUo0QWVqWTI5bE53RmFjT3NqSXplTnFRT1Z1UjA0em1SeTFqYjVYeXA1MHRlSjBoUk9Qb1VZM3BEc0hpc1pfQnBtSk5aam9RSGV3cWEzeGtteXdnZzRLZ1NneGR0QnhqV3h4RnZBMzBCVDEydW9la0xYVy1vV241Zk44ajZCZi1sM1NtN20xSE9qMGNuQ0RtS3NBWDk3RnBwQ1phckl5Z3VEeDMtX1pSWnhQMWNJX0JERGhmZ05wekgwZEJUZHZKcUNRVjlB?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 10:26:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Cornyn declines to say if he voted for Paxton, cites Paxton’s ‘corruption’ as issue - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRnQ4Y1liQ1ZjZEFjVW9DS1U1Sk9OcjNEWFRybXB1YnlxWmVlazI3R3BqTC00YlY2THYzSXc5M3A3emVkcmtod0kzLWtXY1o1NFc5bllhNHhwS1JmVXFsa1R1OVRmZm5hR1FjN1hDbm9fQTV1UlgyS1ItTkl0dGNEaG5fekdzMHZuRjQ40gGQAUFVX3lxTE9hOTh2TTBnOE5pZDRxZVhiN1pmcFdGWTJ3S2JFS2k0S1JEeTA2LW5WQU5YVF9Idi1SSHdOaldIWTV1aDZzbUdRNG9ZbWFJaS1Udjh2cnI5OVZoSm5jNHVCRjAtOUFJUHYxYkhwNVZheXRzdXFvaHdKUjhEcWxzUVAydU01Z1pLN3ZuZEdEVXZBWA?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 00:50:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 9,
-      "matchedKeywords": [
-        "paxton",
-        "cornyn"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Six Texas Democrats to watch in Congress in 2027 - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd2xqNnhmMlJaNmpxc3diQm84RWxqRlk5V3ZFdmEydnNBcmtfX1ZCRldIMHNndV95SUt4YkpFYW1saHl5aUExVVNvRkJybURMWDVneXJSYW95VGl2WlgyenY3RHYyNWRzUTZPSHhYM1NNcUU2azBubnlFblJNcjNSdnYtYmNwTEI5TDZabGgxWVdJTGl4TFIyVktVcmM2VU1nUWp4QkdKbGpRbUozLWhVSGZNcw?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 12:08:14 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 8,
-      "matchedKeywords": [
-        "texas democrat",
-        "texas democrats"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
+    "2026-W47": {
+      "talarico": {
+        "positive": 0,
+        "negative": 0,
+        "total": 1
+      }
+    },
     "2026-W46": {
-      "general": {
-        "positive": 7,
-        "negative": 4,
-        "total": 37
-      },
       "paxton": {
         "positive": 0,
-        "negative": 20,
+        "negative": 19,
         "total": 40
+      },
+      "general": {
+        "positive": 7,
+        "negative": 3,
+        "total": 37
       },
       "both": {
         "positive": 1,
@@ -2030,7 +2039,7 @@
       "paxton": {
         "positive": 0,
         "negative": 0,
-        "total": 2
+        "total": 1
       }
     }
   }
