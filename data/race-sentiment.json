@@ -1,9 +1,68 @@
 {
-  "analyzedAt": "2026-11-20T13:28:27.620Z",
-  "newsFetchedAt": "2026-11-20T09:00:47.158Z",
+  "analyzedAt": "2026-11-20T21:26:29.113Z",
+  "newsFetchedAt": "2026-11-20T17:56:43.496Z",
   "totalAnalyzed": 100,
   "newThisRun": 3,
   "stories": [
+    {
+      "title": "Ken Paxton is abandoning controversial lawsuits as he leaves office. Why? - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYzRaN1daamxNcU5NeXp2NnNVZlk0SmZaTF9UVmFVMkpNUFRiSUZXeVZzVXpPZDQ3RFM0MzZRcUJvNXBFMnozbjNON3UwSFVxSkJ0TGptNm9vdjZOaEpUcVd5UUI5YVM3N294LW5faWNYQW5UY1RhWUJ5WDhNck5fMXhCaTJuWGtpNFJOQ1BGbW9mR2lxN1VZ?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 16:01:25 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Ken Paxton, feds agree to keep razor wire at Texas border for the next 30 years - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSlZUU2twWXJLdjdUQ2tHSVZocWFIdEkwUkN4NHo0LWFxVFlyTHhIYUFSQWo4RUFTcUxyRnZqM3RBcnNPTWhEMFVHSGFHUjRkM1IyRWVKX1MxMmZuaHUzTWFoUnVxRURQUmpibWNQVWc0S3lwNy1IOGVFZTRsTzY5dkU3bjFSN2pS?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 02:30:25 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Austin's Chito Vela Resigns to Run for Texas Senate - Wisevoter",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUm9CcXVBY2Jkdnhia3NYam5LNURJc0FETlFCaWdmRlN6Yi1FUmhkaEk5V0pfRnpkMnYyV3F5Wi1QbWM0RUtwbjcxckpjMlhqcHNOdkg5MktTWHlBWTdRc2NlSVo3eGZIQVhiSkRWZmRNUHoyMEphWWw0R2tHelItMUV0ZW9hS2xYVE8wNGRJbXc4T3pHUWc?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 16:43:29 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 7,
+      "matchedKeywords": [
+        "texas senate"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Why a Central Texas elementary school is using James Talarico's name in a $15K fundraiser - KVUE",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOOWtDRmFxMUxjWk5mMVdScTMyTndwbmtTRjM3Y280aEMyQXo5c29tUVpVZmNlYkdfRzhwQURaTElaZVVGSE9kU0FqYXltY0VjT0xiR3JQVmpMUnpoaEhRWWtyWm5qalhVS0J6WF85V1E5a1R6XzY2eFUwQk0zYWtkdEhUdl9JZUZSbHRZYmlmZ2xGRTVuc0JTcThwaXdaSk1TT0xMMU9mWjlFTjZqVlNvV3pfdnRMLUNXQ2h0YmUzd1c5a1dBZjFBaENOd0kzUDhpMzAzODNCd3VveDVnVXVxQ1hnMGZ6cGgwTXdvY3JBa0tjY0U?oc=5",
@@ -1927,82 +1986,22 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "Ken Paxton finalizes divorce from state Sen. Angela Paxton days after his U.S. Senate loss, per report - KWTX",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZmk5R2FZY1ZBSFZ6d0lQVlM5RWptUHBrN2tjUDNOeEQ5czZ5VFI0NEhnWEFDNm9xcmJGU0tRclBYTUE3cEVTTXhnTWxCekctMXljZTNUSWtrVEdGaHZaVXdvdVd6TDVZVVVyekZoM25WT0ItZHJTNDJfVEVMM29HX2pkLVpkbGp2SEtROG9JN1dseDZaaERkeWJVdDV1MVdFcGI3bmlGR2RSbmttREhQdzkzLVNjY0dCeDQxLUxHN2lJRjJy0gHYAUFVX3lxTE44RzVfNnFFRlpLdGRRRlVRcWdseHdBLTBtRE1ESXRuQzV5ZnFsWXBjbGNxUWRuQzk2REM4aDVfaUx4NzRXc3dPMkJ4ZlJrV3JmUmxBZm9NZXVLNGc4MFk1M3VNeXQ1aG5heEtPQVNHdGRwTUE1cjVDVE00VEd1ZDVwU2JLNHY5NDM4c2xmY3RpRG1MT05KaTAtaFVZWEV6RzRSVExBQ05DNEczUnFjR3l6VlZXX3hSZXlHcDZpRlVYbmhnQ3FsUzM1clphU2gyd2FzbFp5aXlJLQ?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 20:33:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Texas politics changed by this week’s midterm elections - el-observador.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVVJSYTlsMGRBTmhONnZGSDhfTjRqR214ME56a2NYcTlabnlXZE5yUFZCYUFWNDV3eURZQ1Z6YlhNb2pkRGVKek5qMlJYX1lBUWdRcWtLdGczbG91TjdiY3R1WEd6eldyTWhqYWQ0VHA0Q1RiUy1aR3hlaDJSaFRnSFpOZVN2d25ZLWFJeW1KR0QyQ2N0OGtV?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 19:33:23 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "James Talarico says Democrats should work with Trump after Texas Senate win - KATV",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZDZLVFVwbGVEWDVUTW8wWkFBWmZRQzI2bUVYU0hsMWo3RjBwN2toT19kY2g3THh1SDFndVlJVE90ckNVelh2ZDZGdmV4VEVUSV84VFpjamU3bkpRQmJjeVhuN0p0V2psUjlUYUZIZFVGMmNkemdtRTVwLVFmbi0xaTV5ZmFERXJXLVBGLUlnWHNSUzVwYnExWVBKbWRWSktPUUpEZ3E0UmtneXpRRWphcWZIMXJHelpmS0ZYQUtlZkQtTFN4dV8tenIyaDc?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 14:40:42 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
     "2026-W47": {
-      "talarico": {
-        "positive": 1,
-        "negative": 0,
-        "total": 5
-      },
       "paxton": {
         "positive": 0,
-        "negative": 0,
-        "total": 3
+        "negative": 1,
+        "total": 5
       },
       "general": {
         "positive": 0,
+        "negative": 0,
+        "total": 6
+      },
+      "talarico": {
+        "positive": 1,
         "negative": 0,
         "total": 5
       }
@@ -2011,7 +2010,7 @@
       "general": {
         "positive": 7,
         "negative": 4,
-        "total": 38
+        "total": 37
       },
       "both": {
         "positive": 1,
@@ -2019,14 +2018,14 @@
         "total": 7
       },
       "talarico": {
-        "positive": 6,
+        "positive": 5,
         "negative": 0,
-        "total": 10
+        "total": 9
       },
       "paxton": {
         "positive": 0,
-        "negative": 17,
-        "total": 30
+        "negative": 16,
+        "total": 29
       }
     },
     "2026-W45": {
