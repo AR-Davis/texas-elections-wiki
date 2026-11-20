@@ -1,9 +1,68 @@
 {
-  "analyzedAt": "2026-11-20T04:11:48.484Z",
-  "newsFetchedAt": "2026-11-20T01:07:30.292Z",
+  "analyzedAt": "2026-11-20T13:28:27.620Z",
+  "newsFetchedAt": "2026-11-20T09:00:47.158Z",
   "totalAnalyzed": 100,
-  "newThisRun": 7,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Why a Central Texas elementary school is using James Talarico's name in a $15K fundraiser - KVUE",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOOWtDRmFxMUxjWk5mMVdScTMyTndwbmtTRjM3Y280aEMyQXo5c29tUVpVZmNlYkdfRzhwQURaTElaZVVGSE9kU0FqYXltY0VjT0xiR3JQVmpMUnpoaEhRWWtyWm5qalhVS0J6WF85V1E5a1R6XzY2eFUwQk0zYWtkdEhUdl9JZUZSbHRZYmlmZ2xGRTVuc0JTcThwaXdaSk1TT0xMMU9mWjlFTjZqVlNvV3pfdnRMLUNXQ2h0YmUzd1c5a1dBZjFBaENOd0kzUDhpMzAzODNCd3VveDVnVXVxQ1hnMGZ6cGgwTXdvY3JBa0tjY0U?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 03:21:22 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Ken Paxton, feds agree to keep razor wire at Texas border for the next 30 years",
+      "link": "https://feeds.texastribune.org/link/16799/17535927/texas-border-wire-immigration-ken-paxton",
+      "pubDate": "Fri, 20 Nov 2026 02:30:25 +0000",
+      "feedSource": "texastribune",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas Launches Audit of Senate Race Results after Democratic Sweep - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcVJZNXRkeS01TFg4VXp2U09HVGNjRmVHeU5KTWRxclhOdlNuUjVFRG0xZVlLdUt3bjB5TURiUHZ1REV4bmphYnJ1TS1NcFRGeE1JZXBaOTI4dmJLc1FUand4bF9ZVzRfQjhWWlpYS0gyX0ZFYWcwblozU1N5TW52QmpaZmZ1MkhEVVJlUzIwRzAzdGlWdDRjd1BBRzdrVW9lYlE?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 04:29:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 4,
+      "matchedKeywords": [
+        "senate race"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Ken Paxton mounts last-ditch effort to keep razor wire on Texas border - Houston Chronicle",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTXFvMWROZnEtU2dtbnk2UUJEeFpOa1ZwMmgyRlRRNWN1azh1S0Y5U1YzbUhxX2NOZ244SjhmTlZNcF9wYjhOekFKUnJDWW04V3VVUDdmMzFPV3IwUml0UFlERWRrRW1fOEdOWDFscmpxOU9keGpKTC1LU2o0TXF3LWRzLW5ObGFvbU4wa1gzQWNxSGEz?oc=5",
@@ -1928,86 +1987,24 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "James Talarico says Democrats should work with Trump after Texas Senate win - The National Desk",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOblE5OU5fZGJsWTA2MlZoSWs5SDlFRjdmX1M0NTFVYU93Rm1aakdJU2NnVGlkdXJxbWs5Z0cyZzFqRmNMbVI0R1FyX1lRUjgwdGk2cHhWVkthMnc1RFp1UURqZ3AwOHBvZWhKOENFcnhBRno3aUhmMzRiN2tmd2RNNFg0anpGQ2h2enZpcUs4bVVpM09pV3pXckU4ZGctLWVUSXpaaVpzVlpxb2FlU1RQelVxZHY?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 14:28:57 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Texas Attorney General Ken Paxton has finalized his divorce, lawyer says, ending long marriage - KFYR-TV",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZGY0OWNhdl8xQzFOZVluaFRFT2NGUHd0bG1pcXF6bzhzWW55NE5qdmlieGdQZWRBZGNnR1V4NGJBekJ1Q0dBbTBHTjNvTnhZOFlFeUpMY3BCZGVQM0tzOFpvZE8wMzBlXzlXWWRZRXYta1FTWGVTRHFXRE5UajdWMzFZMFBiWGwzdFhIcXFPNkJGanFRZ1Z6amFDR1hsOUU2OHlNUmdQbnQxNHJ6LXNtYUdUZDRITGJSTnhLSXlaTzViS3JPaFE?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 00:56:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "attorney general"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Ken Paxton finalizes divorce from state Sen. Angela Paxton days after his U.S. Senate loss, per report - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPWWhkYklWSlM5VkNYbXcyTlBscWpuejAtemxmQXE5YzMxb0JEWGRfb1BkRmk4YWduMnNOWlNKaGE4YThyTkRnalVKZUtMMXUyOGNQNWpqTmQ0OEQ4NE5QVWlxSnNWSmNyZ0xHRUJZTllGdW5lbFdaUVIwYldyX1VRVnFLbkl6SWZ0ak56dGdxeFdoOTBiQ2F2Um9BeVBzOUNkQmxCVTkzZVdZMG5VRDl6NVhtamJ2WlVFckNQWEVKR0FOd2xkQmg3dkw0c2J3YmJLcndEX0lVdUJRZkN2a1RfQnE1aUhWVDdmbVhzbjhTUG9qSEU3TllXSzlxbzhIb0djVUpwUktGVEUxWkRpbHNv0gGPAkFVX3lxTE9ZaGRiSVZKUzlWQ1htdzJOUGxxam56MC16bGZBcTljMzFvQkRYZF9vUGRGaThhZ24yc05aU0poYThhOHJORGdqVUplS0wxdTI4Y1A1ampOZDQ4RDg0TlBVaXFKc1ZKY3JnTEdFQllOWUZ1bmVsV1pRUjBiV3JfVVFWcUtuSXpJZnRqTnp0Z3F4V2g5MGJDYXZSb0F5UHM5Q2RCbEJVOTNlV1kwblVEOXo1WG1qYnZaVUVyQ1BYRUpHQU53bGRCaDd2TDRzYndiYktyd0RfSVV1QlFmQ3ZrVF9CcTVpSFZUN2ZtWHNuOFNQb2pIRTdOWVdLOXFvOEhvR2NVSnBSS0ZURTFaRGlsc28?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 14:50:27 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
     "2026-W47": {
-      "paxton": {
-        "positive": 0,
-        "negative": 0,
-        "total": 2
-      },
       "talarico": {
         "positive": 1,
         "negative": 0,
-        "total": 4
+        "total": 5
+      },
+      "paxton": {
+        "positive": 0,
+        "negative": 0,
+        "total": 3
       },
       "general": {
         "positive": 0,
         "negative": 0,
-        "total": 4
+        "total": 5
       }
     },
     "2026-W46": {
@@ -2022,14 +2019,14 @@
         "total": 7
       },
       "talarico": {
-        "positive": 7,
+        "positive": 6,
         "negative": 0,
-        "total": 11
+        "total": 10
       },
       "paxton": {
         "positive": 0,
-        "negative": 18,
-        "total": 32
+        "negative": 17,
+        "total": 30
       }
     },
     "2026-W45": {
