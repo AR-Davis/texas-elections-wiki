@@ -1,9 +1,21 @@
 {
-  "fetchedAt": "2026-11-21T06:36:34.237Z",
+  "fetchedAt": "2026-11-21T15:12:35.913Z",
   "count": 24,
   "feedsChecked": 8,
-  "itemsScanned": 80,
+  "itemsScanned": 78,
   "items": [
+    {
+      "title": "Ken Paxton Drops High-Profile Texas Lawsuits After Losing Senate Race - Speaks Media",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaW0taEp0LXZITDRBV1dwQWtDa3ZuY2dVTWRoSm5GeFI2RUhBb2J5N1NUcWFPTE1ZNjFxY0t3b2VwNGVSSElDS3dFaG1rU21DcE1nTF9GNmhPQjgxS08xbUNkVW5TdDF2cWFqbTlDSVh4dk5fcC1NN2U0MUJHMC1WYjJuRF9FN3dZWTFEQ1p2T2owdnlwNzN4Y0xQcnY?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 10:54:11 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ]
+    },
     {
       "title": "Texas Attorney General Ken Paxton drops ActBlue lawsuit - Dallas News",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR1phQ2taUFk4RXVpTjR0QXBkRlJETEJna3RETlVLMWM0Nm16M0VFclFubXpoOTVCRW8wVEdXaGE4b0ZLWG9wR0UtQzRudEY0QlVnem9fNzVwcXhyc0hsdmRGeE5mbGNWR3d1a2E3aWdGcm02OVdmT1NFelpiQS01cXI4RWwxRkR1SHUzZjBjVEVEM09UNWhXTFhSbGxQNE9tVzFxaTZPOUlXeEdyLXc?oc=5",
@@ -25,18 +37,6 @@
       "matchedKeywords": [
         "paxton",
         "ken paxton"
-      ]
-    },
-    {
-      "title": "Cornyn blames Trump and Paxton for Texas Republican collapse - https://streamlinefeed.co.ke/",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWXB5QjhIbUwxN3NzQjhobTJXcVozUlNlbzM4eXBmWm1qLXBIOUxodVE5LXNwekZYa3lET3c1VFhoNTNFWjJsaUgxVDlzWWRNbVJiTWtPVGpuZERhS1VDbVMwZGVQaUZickJxcUdPeUc1NTJNQk45eXhyQ2lHNEhXdlZRVktFWHhKR0hySURsa1RjZWVHVUh6d25R?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 08:25:57 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "paxton",
-        "cornyn",
-        "texas republican"
       ]
     },
     {
@@ -106,28 +106,6 @@
       ]
     },
     {
-      "title": "Ken Paxton heard saying Trump's GOP midterm convention hurt him: Report - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUXVpUG0zRXVVVUI0bm5WbEQ0VkVuclE0akVXUEdZdUk0bndvYmx0SzRNRTl1aE92di02R0didldwLS1NRmxTNkJybGVTNjhfTmkxQ3BRVmR4U2JhcUh5aThCRm9MSHhjcmxXTktQYmZILUU5NHgxMlhKbm5zUGt5V19mZmljeDAxUjBLLVBHeXNDaVUyY0JTYk1jODlYQ2Fm0gGmAUFVX3lxTFBERU5TcjVYUjdiTXQ3RmhNWF9NZlYzRWZId0tPRmZtdWlJSFdhWUJiMVE4TlVxVWVFNjJlbWprdkN3RDNkUlN6Ul9rbmRfM2FTTGdFXzBKZWNjRVJzcndCTWQ2cEZzNkx3RVVqT1BRSFdpNXJtYmxBNkxPY1ktTDMwMGU2UGFxX1FDR2lhUHEyYTJRNG9FN0VyS2l2RGM3SGtDN3Myc3c?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 15:16:21 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ]
-    },
-    {
-      "title": "Talarico walks back comments on religion and gender after Paxton's win - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTlBjOGxUYUZyTnFyci04a1NVcWZMb1QwMmlXOGdxaThhd0dyRkM3cENLOGhxbUxQWDZadmtWR2ZVNDNMQVJfNG1QR2cyS2JkOHczdHR1SV9KMy1SaUJrZGdPXzAzUW92a1B1N2E1TkxoVWJHbzNqVmhBLW04NkQ1ei1xTy15R1pydjhnV1EwcEtWTlFDUlJvU2hmaU1BM01lWVBGWGhGY1Jpd9IBrwFBVV95cUxNR3ZxR0lCd3piTnlxTDFOQzZHQktKYldfSWV1dmNVcHloUlNfY28ycHR1Y054dnQxSXVDaTVUYU5pWXNadTFuak5OLTRMNWY5QXBYVW5HWmFvTGFPclU4dG9lR0tRTDgyZXRDTGVfRjNRRkdGbjhSeTRVTjZ2Vm1QbHVpUUpqam9MeUlfMXdvbFluOURGWmdidU5OcXA2X3hWQjE5dDhZb0VkcnFvUWFr?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 18:59:11 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 10,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ]
-    },
-    {
       "title": "Sen. John Cornyn blocks Trump nominee for federal judge in Texas",
       "link": "https://feeds.texastribune.org/link/16799/17527376/texas-john-cornyn-trump-judge-gaiser-blocked",
       "pubDate": "Wed, 18 Nov 2026 21:31:34 +0000",
@@ -144,17 +122,6 @@
       "pubDate": "Wed, 18 Nov 2026 21:31:34 GMT",
       "feedSource": "google-news-race",
       "raceScore": 10,
-      "matchedKeywords": [
-        "cornyn",
-        "john cornyn"
-      ]
-    },
-    {
-      "title": "John Cornyn - Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxMlRaRi1pMVVVZ3Vhb3k2TXNiQUFvcV9PbG02T0FxV3lRTUpSZUpROVp6TzE0T19lTURfQ2dxS0l2Wlp3eXFuZHpLakwxb09JMERTMXgzbkVma3lC?oc=5",
-      "pubDate": "Wed, 18 Nov 2026 08:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 9,
       "matchedKeywords": [
         "cornyn",
         "john cornyn"
@@ -193,6 +160,16 @@
       ]
     },
     {
+      "title": "Looking ahead to a major change in Texas politics - KXAN Austin",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYkRCVUp3Vmh5dENrVmlfcHFpT1llOHhwMzEzR3RtWkRSazd5bm42WWlVcEpSZjA3U3NJaWR4OWJNUzUxSC1jLTRkeTlGaU1DUHNkZWhlM1lSVC1RME9rWFpuTWxudnNPRnNtYnRCTmxuR3I0TmFSS1R2c1VaNmR2cDhiN3F4WUt2Q0dZQVVNcw?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 11:24:03 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "texas politics"
+      ]
+    },
+    {
       "title": "Inside Texas Politics: Former Dallas mayor gives warning for city council regarding City Hall - WFAA",
       "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOczhYc0ViZE9nQkxpU1Y2M1ZBVHcxRURKSVdzVzFoWHZSNUJLeEZMTW95cVdBbC0zUVZ5aGhhZmc3RURQdWRQRGZ0dHlHMXgyNXBfdjc1MnNtVW5qVVhuelpfNzYzRXVkc1paeUR0eHVKbkNFSEJXeWNZLVljdllaWTRVRi1NQ1dDaTNGajZ6cndKaGVJVTRMNGxQMnp6YU5tY0FLalRqYmZaa2xOb0psenRTZWxtWHNfaE1tUnZPM3NwX1dIa0IwRVZRUHNmRDZ5LU1FbmRlMS1KZVlUWjFTbEdHOWU1cnZ2ejhpQ1hldXFpVHdlQjlVMzBxbFlaZVEzNEVHQlZjbU0yMkdCZXJhMHZQeFFtb0I5VHl4ZjJjZUFPdw?oc=5",
       "pubDate": "Sat, 21 Nov 2026 04:20:18 GMT",
@@ -213,16 +190,6 @@
       ]
     },
     {
-      "title": "Paxton owes Texas voters an audit - American Thinker",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLTRpYXZSZk0zTnNpSHVXMGN0M2x3SUxpVi1sR1Q0QkFKaVJ6Q3lFWEpuZDA2OUs1bDBMSkxzYWEwNC0yX3NYcUZxTXNhX1RfV2hLVGJ2dUtZOXUzM2NXWFYxMkU4ZVFGTTM1cWRBanFORFNzcEc4V0pGUFBXNlpZa0taWWN5QQ?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 22:02:18 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "paxton"
-      ]
-    },
-    {
       "title": "Cruz makes conciliatory move toward Talarico after bitter Texas flip: ‘Might even give him a shot of tequila’ - Washington Examiner",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWGRIbTZ0U2JsekxlM25JTEJ6cXg2aFdIMTJkZXdfVFVBVi1LSUR6WFpFRjVSaWU0a1NaUmliX3huTnI4cTdKTUlXYlMxRlZTcGI1bHZ4b3RMcVlBY1VuTHhTT0pZbEVKQzJzVEN4Zk9xWmQxdFh2UDYyXzJaeUY1dVJoT1RNT29wcjhQM3dQRTBndkxuOFpSekxGTlk5UQ?oc=5",
       "pubDate": "Thu, 19 Nov 2026 19:17:51 GMT",
@@ -230,16 +197,6 @@
       "raceScore": 6,
       "matchedKeywords": [
         "talarico"
-      ]
-    },
-    {
-      "title": "Looking ahead to a major change in Texas politics - KXAN Austin",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYkRCVUp3Vmh5dENrVmlfcHFpT1llOHhwMzEzR3RtWkRSazd5bm42WWlVcEpSZjA3U3NJaWR4OWJNUzUxSC1jLTRkeTlGaU1DUHNkZWhlM1lSVC1RME9rWFpuTWxudnNPRnNtYnRCTmxuR3I0TmFSS1R2c1VaNmR2cDhiN3F4WUt2Q0dZQVVNcw?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 18:13:52 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "texas politics"
       ]
     },
     {
@@ -260,6 +217,46 @@
       "raceScore": 5,
       "matchedKeywords": [
         "texas politics"
+      ]
+    },
+    {
+      "title": "Texas Railroad Commissioner-elect discusses his priorities: Inside Texas Politics - WFAA",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNcC1YYXRoTG9MR25oVGVKenRmeHNNMTVpcnBGRUZQekh5RGx3RFl6eXVBdUowT09YTld2RU1xUXZJYm10NENIMWc5Z2k2UUhaRmtxN2xzMm5iTjVOS2h6LXZQVFdRRHNHVUUzRm1EcXpFN0ZYSGdzbml2UWNrRklSYzhKUUhTclRoRUM0OU1PamxIV3ZHZjlrQzlFWjcxUU1IWkdhajd5UTh3MV9INHhtcXV5MVVmOEtEcTZZa0UweW1Ha2p6b084RWRQaVFFQlBCbjhNSXRWa09nbndiWUZtNnZFQ2dXMDVsbDI1ZTAwRlJpQ0t1VUZGaktjZC1fd0Zxai1faU16MGZoNlpaUjhQeg?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 00:24:20 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas politics"
+      ]
+    },
+    {
+      "title": "Editorial: As Paxton ends AG term, religious organizations can finally breathe easier - MyRGV.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNk5fYnZwSmNYc3FQazZwU2ZjQ2J3alExMExiSS1iX1F6LWpic1hCYm42bDZvVUdkM3IyVk04bXlxMFlQOVJhV3ktb0xLX3RHVUgwT1llVFBKTy00MC1qQVlnOFllby15aTZzc0N4TzlQV0RKNXV2WFg4YUdSTW5sTEhtQkx0SGZqT05CSmUwQkdINXlsN1ZGWktFUzBNb1VSOHgxYUVmVnozU1JsR2xUVmJzSjFVblk5Y3ZWVmZlQThvb0hwOC1ZQjdJN0M?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 19:19:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "paxton"
+      ]
+    },
+    {
+      "title": "Looking ahead to a major change in Texas politics - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ0o0WElBLXo1eGNNcUhSUFktSkNYLUdKaVd1RzZQT3lpRUMzM0pFdWZpREhRVlJvWm5aU2lQY3JLNVNaRGN0elZkQzZPbGptcm5pNXdfZ0cxYnFQQ3k0THhva2o3RW4tSS1aUlpmN0Rva21JMXJ6VnFOVDFDMnBjT2VKTVNXOTNV?oc=5",
+      "pubDate": "Thu, 19 Nov 2026 18:13:52 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas politics"
+      ]
+    },
+    {
+      "title": "Texas Secretary of State launches first-of-its-kind audit of U.S. Senate election, newly required by state law - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ2hFWjdqSVgtemxHMm9vckpzTHpfdklIRFFES2dTR1hIc2pwNksyOHVEbzhWNllEMU1Ja2s0NG9kbUlyaWoteW9xc3UyczhvOWZrU0VDSkZqelVSQkVadGpFNXVjY3FIWF81QVVwZ2lNeG1TY1gzbnVoTnMxaTBlTXlEcGZfRU1EbEdGem1DRFBUd1hRQV92OUg5LUpmejBGSjQ3ai1YTkhQZUxubm9ENWRPOGR6TGJyUW5idXJ6SkJYU1R3TkNpUjhLeGdfcVhzMUFhWVVR0gHeAUFVX3lxTE5HU0dzTk9sN2ZtU1hZa0dPMUxlQ3UzTVBlRFhCNDN4bzR0SkRzNW1iR0YwUjVleVdtOFJmSlJFeEtaZzVRYjdWOHg4NDlaWkozNGlYdDBmZGxPYnVldWtPaDZIdlJxZ3JsWVlySEpKUlkzd2wzMy1LVVJhbFZ1UFJSWnlCVjE1cHpuLWxDd2JPX1BZR284WG4yLUlDQ3IwdnVqNzZRVkROdTNnajhsYVBtWVRXMmdvbE9lSnh1UVpNQ0RUanlOY2dfSDd3bmhWWnRaY3JsTndaZWIzV0xXUQ?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 22:55:29 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "senate election"
       ]
     }
   ]
