@@ -1,9 +1,187 @@
 {
-  "analyzedAt": "2026-11-21T02:42:14.398Z",
-  "newsFetchedAt": "2026-11-20T23:54:58.364Z",
+  "analyzedAt": "2026-11-21T10:47:59.567Z",
+  "newsFetchedAt": "2026-11-21T06:36:34.237Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 9,
   "stories": [
+    {
+      "title": "Texas Attorney General Ken Paxton drops ActBlue lawsuit - Dallas News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR1phQ2taUFk4RXVpTjR0QXBkRlJETEJna3RETlVLMWM0Nm16M0VFclFubXpoOTVCRW8wVEdXaGE4b0ZLWG9wR0UtQzRudEY0QlVnem9fNzVwcXhyc0hsdmRGeE5mbGNWR3d1a2E3aWdGcm02OVdmT1NFelpiQS01cXI4RWwxRkR1SHUzZjBjVEVEM09UNWhXTFhSbGxQNE9tVzFxaTZPOUlXeEdyLXc?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 01:09:03 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "attorney general"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "State dismisses lawsuit against Latino voting group Jolt Initiative",
+      "link": "https://feeds.texastribune.org/link/16799/17536631/texas-attorney-general-ken-paxton-jolt-initiaitive",
+      "pubDate": "Sat, 21 Nov 2026 04:21:37 +0000",
+      "feedSource": "texastribune",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas drops abortion pill lawsuits against out-of-state medical providers",
+      "link": "https://feeds.texastribune.org/link/16799/17536632/texas-paxton-abortion-pill-lawsuits-dropped-california-delaware",
+      "pubDate": "Sat, 21 Nov 2026 04:03:05 +0000",
+      "feedSource": "texastribune",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Ken Paxton drops lawsuit against Democratic donor platform ActBlue",
+      "link": "https://feeds.texastribune.org/link/16799/17322407/ken-paxton-act-blue-democratic-fundraising",
+      "pubDate": "Mon, 20 Apr 2026 17:46:36 +0000",
+      "feedSource": "texastribune",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W16",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas GOP Chair D'rinda Randall on what caused midterm losses: Inside Texas Politics - WFAA",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNa0twWjd0YkZWNmNja2RIbDh2OFY4Mlg5Mlo4c01WeWIzMDRRRkxxVnVZV055cmVJQmY2XzlqendXeVVyVVh5Y2lnMko2T2lQbThfZ1R4UkdtZm1VRE5uOE15Z2kyZEFRNzN4VWVXOGR2MXFpT1o2Zkp2dEsybTNRU3oxRm03enVxSU5Od0RKOURYeURwLWJvRkhhNjZ0bm44WnBpb1QxSXIwbnhFMXVfRDl5bVpCNmpSRmFpWG5zMkdOUnBja2pMaG1BVWl0T1FWTmRqRy1TUmVNMXpxUXA0b1gzNnZtb3Q5Zml0LUVVZU01MzFRVGFTSlkzWXEwZC1Fa2NHd1BPaGk?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 23:54:20 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 8,
+      "matchedKeywords": [
+        "texas politics",
+        "texas gop"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas GOP chair blames economy, messaging on midterm losses | Inside Texas Politics: Nov. 22, 2026 - newswest9.com",
+      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPZWJVN3E1M29tVmRYNExsN3ZLQlE5RUJaMUNybEVhNnpTTkRxS3JmR0Q4b0xzOG5uaFE5X2JpakNPZlRkYUZUSms1QmpTZzVGTW9BN01WVHFTb3RTNER1aC1mSXVPSmE0QlZCUkJRdG1BeGVVVnVJaFMxbDVXbFNkYW56eGNIUGxpVnlVSlZqcWNQMlZHUFRjYVBFbDRuR1JfUEtMMjV1Y3NVWGpYSTV5N1dqWHVTYm9CRmJMeWl4a0g0S2dCZjNfOWJGOFNjcF9Td2tHZEVsS0Vud0VnM1lmaE95Z2h0dkt5TzBXUk1pYkVkN28zQkROWmlISGxhSG9BdnVkQndRNTdJYmtoUlBHZTMyV0llZGwwQWpEUWl5QldzZkRxZE9vVWxaa2xHVmZ2?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 23:52:42 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 8,
+      "matchedKeywords": [
+        "texas politics",
+        "texas gop"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Inside Texas Politics: Former Dallas mayor gives warning for city council regarding City Hall - WFAA",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOczhYc0ViZE9nQkxpU1Y2M1ZBVHcxRURKSVdzVzFoWHZSNUJLeEZMTW95cVdBbC0zUVZ5aGhhZmc3RURQdWRQRGZ0dHlHMXgyNXBfdjc1MnNtVW5qVVhuelpfNzYzRXVkc1paeUR0eHVKbkNFSEJXeWNZLVljdllaWTRVRi1NQ1dDaTNGajZ6cndKaGVJVTRMNGxQMnp6YU5tY0FLalRqYmZaa2xOb0psenRTZWxtWHNfaE1tUnZPM3NwX1dIa0IwRVZRUHNmRDZ5LU1FbmRlMS1KZVlUWjFTbEdHOWU1cnZ2ejhpQ1hldXFpVHdlQjlVMzBxbFlaZVEzNEVHQlZjbU0yMkdCZXJhMHZQeFFtb0I5VHl4ZjJjZUFPdw?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 04:20:18 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "EAST TEXAS POLITICS: Former Gov. Rick Perry on Democratic wins: ‘I’m not going to tell you I saw that coming’ - KLTV.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUnFUU3NKSlR5OXFvd202VjZsc3ppUVpBZjhRdjJlMFJSQ19OTFR6cl9TajVpeVJYT19RR1JjcDFweXZ4ZHM3Y0NKV1B6NEZWUEZNRkk3Z0lVeDl0VUdJWUZCbTBkTlU4R1RGb0x6cXN4M1BKQ2ljRjFxV2ZQR0ktU0hDMlFKUFBvZkpKWl9WYV9FRno4Qm9ZR0JFN3dOY1VFZzZsUlJrWDdGbV9rV1JxWlZrZExCV2UwY0dGOWl3dW01dmU3NVgwcmZn0gHeAUFVX3lxTFBmWUJ6OW9LSFM1QWstTkstYjlYUktPcFZsUGVubHAwelZZLTJMYVpOVTBFTG9zeVA2OHVScDJJZG5VMlAzbDdLelIzcEpQYUxzVG5FMGI3VDdiYWFPNGtPcmdZN1hscTNpcnZNVkQ4ZGlUWFVESks2NV9jUmItclp2YjljaVZWZHFQa2NhSTktQUJwYUlzdGppYklGU1pvSmJ2c251MkhHQVJtQ0puUXBCa3lJWWVYdU5taFZCdFNHYmNET2txdW1rQ2dWZ25MdndkQlppMzdYcXNuSU9Zdw?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 00:58:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas Railroad Commissioner-elect joins Inside Texas Politics to discuss priorities, how he plans to double its budget - WFAA",
+      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOOTJPWjk2ZGJmUVdhNTZ6c2o4VkZvZXRVakJwSnY4bmFvb3dHMUFzY1pRS0lhalFNdXI3dy1ib3p4bndobFRFdlVzdXItZmNGSjNqM0M0eTIzMXFhWmJmeGJiSEdQajUtVG1iLXVkb2Nra0NIenEtMTRMSkljN1NrQkJ0VHZybzl3ZVdxQm1jeTRLYjgwbG5PVEJZaWdpd1RhVWF0MHpqWHBVOGZRbTIzMXZHR0p2cVZkemlHUTg1ZFhVVXc1UWpDWGtuNkhRWXg4SU9vR2dBWGhIREVVZkZ0a21zRWVYeEJtdE1lVlBQZHA4Z3BDYWZkajh2Nk5jSUpRNENndXFmVS15Z0pJMWtMRjRWenpTYm5JUEViR2pNd1F5VUVfX1k2Ni14d1Zvd2dKM2E0MGsyOXFXM0djYWpWWnNpOGs?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 00:30:39 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "John Cornyn - Britannica",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxMlRaRi1pMVVVZ3Vhb3k2TXNiQUFvcV9PbG02T0FxV3lRTUpSZUpROVp6TzE0T19lTURfQ2dxS0l2Wlp3eXFuZHpLakwxb09JMERTMXgzbkVma3lC?oc=5",
@@ -1800,224 +1978,19 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "EAST TEXAS POLITICS: Longview Republican discusses support for Houston Democrat in House speaker race - KLTV.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPODdqdnJJYzQzMGJxZE5iLWxiZlRJa0xBa2U0T1dyNTh3Z2ptTmszWHlDUXh2cFpOeHNvOWlPckFYTVpMS0VvR245Uk1WcnFpX3pPRXYwZzMza2tKcGcyOHBjVXZ5Z2d3R0k1TUYySWpFeGJqX29vemhFUGZubUlRZjlVMDJ2Qm56QnZiOGRfeWxYMzQwNkIwN2FRN2pqMm1QT1JXbG9VS2poTmVERkd3d2d4ZWlfOWZOLVNGQTA0R1IzUkNq0gHYAUFVX3lxTE9zR3M2RmptU291R3ZUNXJrdlJsS3hzTmQ3NjUxRW1Jb0tkZ19fRTE5Rzc5RmpfR2ZjM01semVWTUtBUzJNWWVCRlJFNjBQa001QUNjOERBUnNETnJzOXZWRDFWU1otQWJndXJ2N0Nqbk9GQkJ4Tk9xQ3hpT01OajFiWkpFMTc4VUlwenRWQUVHY2g4TEY5XzA0MC1BT1M0VmN6dWkwT3pab2tMS2sxVzJEcFpEQ3RReXFXWWtYYXJoZFFvRlhWaFpGSS1zaUQ5V0UtWFRPdVBUVA?oc=5",
-      "pubDate": "Sat, 14 Nov 2026 00:56:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Who are the biggest donors backing Talarico and Paxton in the Texas Senate race? See the top ones. - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZU3JMQzliMTVWSURSY1FPcGI5WXQtdHljOVI0M2k5UzNKaU9oSHVuUG9velRnRTV1TnhxbnA1TDA5cVQyNVZCZlo5X2NHemRscWJzcmJKaVlBVTdLS2NKLUtQamFQNTk1bEJEV1NkblI0THBUYWVxTkwwYUlUZUk?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 14:50:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 27,
-      "matchedKeywords": [
-        "talarico",
-        "paxton",
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Ken Paxton heard saying Trump's GOP midterm convention hurt him: Report - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUXVpUG0zRXVVVUI0bm5WbEQ0VkVuclE0akVXUEdZdUk0bndvYmx0SzRNRTl1aE92di02R0didldwLS1NRmxTNkJybGVTNjhfTmkxQ3BRVmR4U2JhcUh5aThCRm9MSHhjcmxXTktQYmZILUU5NHgxMlhKbm5zUGt5V19mZmljeDAxUjBLLVBHeXNDaVUyY0JTYk1jODlYQ2Fm0gGmAUFVX3lxTFBERU5TcjVYUjdiTXQ3RmhNWF9NZlYzRWZId0tPRmZtdWlJSFdhWUJiMVE4TlVxVWVFNjJlbWprdkN3RDNkUlN6Ul9rbmRfM2FTTGdFXzBKZWNjRVJzcndCTWQ2cEZzNkx3RVVqT1BRSFdpNXJtYmxBNkxPY1ktTDMwMGU2UGFxX1FDR2lhUHEyYTJRNG9FN0VyS2l2RGM3SGtDN3Myc3c?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 04:19:01 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Texas Democrats look to expand Medicaid with new control - KXAN Austin",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTWdCRTRWYXhrbWZSZ0ItWnBWdHRfYUx4d25zZHJ6NFNfM19WTlFKbjBYcVh4TGpsV3FnMWNRLWtvaDUxMGJyU0JYMjZ1X2ktLXlpMzVIbXVSTHlFZnhyY1I1TG5xQUdIbE9haEI1UzIzaVV2R0YzNG9RaC1nVWp5V3NPb19SODZzMzR6cUtoWnp2bmFGblZ5TFpDTmxlenfSAaQBQVVfeXFMTmVmNmkzaXVjUTdZWmtyNG5mclpGR0JUTXRJeG8wcnNTc3NkWjV1NjJfc3JKNzktVjU1TmYyd3A0WXpSRk5fS093amxRYXlSY216TWZOWWsxU1ZnYThaMkpsZWZQcVRHV1BScC1wWEFoSkk3S2pvaXBzcDY0RW02QXJzdWtLbWsyN3FwcFl4bmpsdl9IZlVwMWxVQWhVQ1FqZE1aV2c?oc=5",
-      "pubDate": "Sat, 14 Nov 2026 01:09:02 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 8,
-      "matchedKeywords": [
-        "texas democrat",
-        "texas democrats"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "It’s not us, it’s you – Why Collin County voters broke up with Ken Paxton - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNN2xESk5hQ2ZRZDNKYzU4dGZDNU9CdEtlQ1RxMk9wZDZHNmoydzl0aWtodXRwNFBxODd1RGZQdlY2ZXhrT3Y1SGdlSGpRYWpnQ0VsaDZlRE10OVgzYnBELXI2MkJIUWZaVld3T2FnZlVqVms3SVBxTTFxbFd3VldBWE9QQlFPektsV29KOU5aWjcxZVVGaU8xVHlCWnJDN3IxcGI1SThSQms2Nm50WFlzMmpCcmpWNmNxVmhrQWtGTkJoS0VZZjVxU1p6Yk5kbEJxa1RRY2M4aDUtX0ZKSFHSAeYBQVVfeXFMTW9NbTNKY3Uwak5BaTZDaXVkb0EwNXBDUWtBb0hTNUpOVmt1TTZ6c0lxSjZxWTFvNWE1SnA4X1lna2NKdTV1UDRWZmxsTkhsSmRBZklWRmkzcS1zSktDN2lzbXlia1YxVC1IbmR5Rzg2UXdSM255ZkJzd2FESzhfd2pxd2lkM3YtQkdQN3pxVTVLY2hERENGaWFYU1k4OUZhRTRib2I3QTBOdnVVV2J0SU9vUmtGNmJiUktjenZNVmFlZmlYbEY3YVFPUkhlY1E4MVRNcWthakhnZHlwV0kySG1VQ09OdFE?oc=5",
-      "pubDate": "Wed, 11 Nov 2026 16:12:28 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W45",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Ken Paxton's divorce from wife Angela finalized after Senate loss - The Patriot Ledger",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLUdTNXhFRG5jWjhxMnVGd1A4X2llQTNkSXAyT1o5LUU4MTEyMzhhTFJ4MXRjUGFzZkxmUW1RS0lfUGpYQVFmZWxoSE50MWpJX2VqTXJUX1dwc2ZmZk94RGZ1Sk5kcHQ5R0ZkNDVRSV9odnhoZ0s3WHhhTHRNN0lYX0FNZnVsVVpVek9kVU9NOW9uYm5fNUUtdmNaQ0o3Rk55N1c3R1REbFBqZEFxZEFULUc2VjNJaWwyWXZzVEVaellCZnhvNDJ4UVJJb0VoSEFqd0E?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 19:37:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Talarico walks back comments on religion and gender after Paxton's win - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTlBjOGxUYUZyTnFyci04a1NVcWZMb1QwMmlXOGdxaThhd0dyRkM3cENLOGhxbUxQWDZadmtWR2ZVNDNMQVJfNG1QR2cyS2JkOHczdHR1SV9KMy1SaUJrZGdPXzAzUW92a1B1N2E1TkxoVWJHbzNqVmhBLW04NkQ1ei1xTy15R1pydjhnV1EwcEtWTlFDUlJvU2hmaU1BM01lWVBGWGhGY1Jpd9IBrwFBVV95cUxNR3ZxR0lCd3piTnlxTDFOQzZHQktKYldfSWV1dmNVcHloUlNfY28ycHR1Y054dnQxSXVDaTVUYU5pWXNadTFuak5OLTRMNWY5QXBYVW5HWmFvTGFPclU4dG9lR0tRTDgyZXRDTGVfRjNRRkdGbjhSeTRVTjZ2Vm1QbHVpUUpqam9MeUlfMXdvbFluOURGWmdidU5OcXA2X3hWQjE5dDhZb0VkcnFvUWFr?oc=5",
-      "pubDate": "Sat, 14 Nov 2026 00:12:50 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 10,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Ken Paxton’s office drops lawsuit accusing NCAA of deceptive marketing of women’s sports - KSAT",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYXZjWnNSVEtDS01YNFpIamxaRVNtUHpHSzlxTE85RTQ2M2RaY0wzR2RySVJfdFh2RFpjVERQSVFPNjN6QllXSUhXSWtwdDBGMHZlNGVEazJtX3Ryc0ZuUnJkckV2OUlnLXkzMmFhMjg3ai1HX0tBTzVxOG56eGlPNTJ5T01Jc29iLVVuM29GaWc1cW5oN0RpUm11dmxpTlVKT1FwNl8tdjFBSGxOLS16VEhpZXd6QjhjekxTdDRMWGR3REhkbXRQYWFR?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 19:54:19 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "James Talarico says Democrats should work with Trump after Texas Senate win - KEYE",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNXJJYWRPLW9TUmlha2p1d2UyU1Nody13YVlDdlZCM25hZ3pkQTBuN1dOMEVJZkhfaUFUQXlZcm44Y1lkRDIza0U5UC1mdHE2eWxfckhiUHBSUWFVQXJEcUlGemxtT0JlbUpZYlg2UjZhUTRJQ3BwQ1BEa0gyVEdaek1zckVhaEgtT1VxMDF6VFpPSXE4bTZ4VzlFYVMxMjhDYTFQTHFMVzZNVFdo?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 14:34:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
-    "2026-W46": {
-      "general": {
-        "positive": 7,
-        "negative": 4,
-        "total": 38
-      },
-      "both": {
-        "positive": 1,
+    "2026-W47": {
+      "paxton": {
+        "positive": 0,
         "negative": 2,
         "total": 7
       },
-      "talarico": {
-        "positive": 5,
-        "negative": 0,
-        "total": 9
-      },
-      "paxton": {
-        "positive": 0,
-        "negative": 14,
-        "total": 25
-      }
-    },
-    "2026-W47": {
       "general": {
-        "positive": 0,
-        "negative": 0,
-        "total": 8
-      },
-      "paxton": {
-        "positive": 0,
-        "negative": 1,
-        "total": 6
+        "positive": 1,
+        "negative": 2,
+        "total": 15
       },
       "talarico": {
         "positive": 1,
@@ -2025,13 +1998,37 @@
         "total": 5
       }
     },
-    "2026-W45": {
-      "general": {
+    "2026-W16": {
+      "paxton": {
         "positive": 0,
-        "negative": 0,
+        "negative": 1,
         "total": 1
+      }
+    },
+    "2026-W46": {
+      "general": {
+        "positive": 6,
+        "negative": 4,
+        "total": 36
+      },
+      "both": {
+        "positive": 0,
+        "negative": 2,
+        "total": 5
+      },
+      "talarico": {
+        "positive": 4,
+        "negative": 0,
+        "total": 8
       },
       "paxton": {
+        "positive": 0,
+        "negative": 11,
+        "total": 22
+      }
+    },
+    "2026-W45": {
+      "general": {
         "positive": 0,
         "negative": 0,
         "total": 1
