@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-11-21T15:12:35.913Z",
+  "fetchedAt": "2026-11-21T21:00:04.097Z",
   "count": 24,
   "feedsChecked": 8,
-  "itemsScanned": 78,
+  "itemsScanned": 74,
   "items": [
     {
       "title": "Ken Paxton Drops High-Profile Texas Lawsuits After Losing Senate Race - Speaks Media",
@@ -128,6 +128,16 @@
       ]
     },
     {
+      "title": "Paxton drops suit against Dallas pediatrician over transgender care as he prepares to leave office",
+      "link": "https://feeds.texastribune.org/link/16799/17536922/texas-ken-paxton-lawsuit-dropped-brett-cooper-transgender-care-sb-14",
+      "pubDate": "Sat, 21 Nov 2026 18:13:46 +0000",
+      "feedSource": "texastribune",
+      "raceScore": 8,
+      "matchedKeywords": [
+        "paxton"
+      ]
+    },
+    {
       "title": "Texas GOP Chair D'rinda Randall on what caused midterm losses: Inside Texas Politics - WFAA",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNa0twWjd0YkZWNmNja2RIbDh2OFY4Mlg5Mlo4c01WeWIzMDRRRkxxVnVZV055cmVJQmY2XzlqendXeVVyVVh5Y2lnMko2T2lQbThfZ1R4UkdtZm1VRE5uOE15Z2kyZEFRNzN4VWVXOGR2MXFpT1o2Zkp2dEsybTNRU3oxRm03enVxSU5Od0RKOURYeURwLWJvRkhhNjZ0bm44WnBpb1QxSXIwbnhFMXVfRDl5bVpCNmpSRmFpWG5zMkdOUnBja2pMaG1BVWl0T1FWTmRqRy1TUmVNMXpxUXA0b1gzNnZtb3Q5Zml0LUVVZU01MzFRVGFTSlkzWXEwZC1Fa2NHd1BPaGk?oc=5",
       "pubDate": "Fri, 20 Nov 2026 23:54:20 GMT",
@@ -150,13 +160,23 @@
       ]
     },
     {
-      "title": "Austin's Chito Vela Resigns to Run for Texas Senate - Wisevoter",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUm9CcXVBY2Jkdnhia3NYam5LNURJc0FETlFCaWdmRlN6Yi1FUmhkaEk5V0pfRnpkMnYyV3F5Wi1QbWM0RUtwbjcxckpjMlhqcHNOdkg5MktTWHlBWTdRc2NlSVo3eGZIQVhiSkRWZmRNUHoyMEphWWw0R2tHelItMUV0ZW9hS2xYVE8wNGRJbXc4T3pHUWc?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 16:43:29 GMT",
-      "feedSource": "google-news-texas",
+      "title": "Austin City Council Member Chito Vela announces bid for Texas Senate - KUT",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNEg4a2wtTTVVcXJRYnNyeHJ3SURwMzlwRi1RSzNFcDlyS1hoWC1ycGlObzJKSnF3Yzc1YWRvSnVCS2w3dUtBemFXS0ZRaVdpUUxWOGZzYWhYZDlyc3dyMzduU1p0Qmd1STNTS21TUXlPSm1JZVE4NVZlSXphM0NBd2o5bWFvNWNfQnA0MEVQamY0QVNyWE14YWFIQlY3RjdaeGlxUzVB?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 17:04:55 GMT",
+      "feedSource": "google-news-race",
       "raceScore": 7,
       "matchedKeywords": [
         "texas senate"
+      ]
+    },
+    {
+      "title": "Cruz says he is already working with Talarico on bringing Space Academy to Texas - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQngtVXhwOFp0a1NzVk5JeVd3NkNjRmE1MmpHWTlUeG1pampEbl9naWdlczVob19vSUI4UzhxVFB0VzdxX2hOX2x3RU4xZ3NRWXVsUGJhQTFTZ2JDaDh5V1AxdXZFTUVvUGZXX0h1OVdhMDM4cGZTN1dKMmpFOXJkLVFhVW7SAYoBQVVfeXFMT09oTmVuNVRGY2RKZkQ0YXNvSnVpOXY3cWRRVTdzNURMdEpwZ2pha2VNQkJIS2pyT3NSM0tiNFhCZ1RJeV81LUFHdUdNNEJyLVY1WjhOSExDZWx5RGpqcEF5bEVzajR6VE1qS2RnZW9fLXdzWGlTVHpqdXZDUmkzMHdmVE1aTE4tMW1n?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 19:09:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "talarico"
       ]
     },
     {
@@ -237,26 +257,6 @@
       "raceScore": 5,
       "matchedKeywords": [
         "paxton"
-      ]
-    },
-    {
-      "title": "Looking ahead to a major change in Texas politics - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ0o0WElBLXo1eGNNcUhSUFktSkNYLUdKaVd1RzZQT3lpRUMzM0pFdWZpREhRVlJvWm5aU2lQY3JLNVNaRGN0elZkQzZPbGptcm5pNXdfZ0cxYnFQQ3k0THhva2o3RW4tSS1aUlpmN0Rva21JMXJ6VnFOVDFDMnBjT2VKTVNXOTNV?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 18:13:52 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ]
-    },
-    {
-      "title": "Texas Secretary of State launches first-of-its-kind audit of U.S. Senate election, newly required by state law - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ2hFWjdqSVgtemxHMm9vckpzTHpfdklIRFFES2dTR1hIc2pwNksyOHVEbzhWNllEMU1Ja2s0NG9kbUlyaWoteW9xc3UyczhvOWZrU0VDSkZqelVSQkVadGpFNXVjY3FIWF81QVVwZ2lNeG1TY1gzbnVoTnMxaTBlTXlEcGZfRU1EbEdGem1DRFBUd1hRQV92OUg5LUpmejBGSjQ3ai1YTkhQZUxubm9ENWRPOGR6TGJyUW5idXJ6SkJYU1R3TkNpUjhLeGdfcVhzMUFhWVVR0gHeAUFVX3lxTE5HU0dzTk9sN2ZtU1hZa0dPMUxlQ3UzTVBlRFhCNDN4bzR0SkRzNW1iR0YwUjVleVdtOFJmSlJFeEtaZzVRYjdWOHg4NDlaWkozNGlYdDBmZGxPYnVldWtPaDZIdlJxZ3JsWVlySEpKUlkzd2wzMy1LVVJhbFZ1UFJSWnlCVjE1cHpuLWxDd2JPX1BZR284WG4yLUlDQ3IwdnVqNzZRVkROdTNnajhsYVBtWVRXMmdvbE9lSnh1UVpNQ0RUanlOY2dfSDd3bmhWWnRaY3JsTndaZWIzV0xXUQ?oc=5",
-      "pubDate": "Wed, 18 Nov 2026 22:55:29 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "senate election"
       ]
     }
   ]
