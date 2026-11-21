@@ -1,9 +1,68 @@
 {
-  "analyzedAt": "2026-11-21T10:47:59.567Z",
-  "newsFetchedAt": "2026-11-21T06:36:34.237Z",
+  "analyzedAt": "2026-11-21T17:54:43.336Z",
+  "newsFetchedAt": "2026-11-21T15:12:35.913Z",
   "totalAnalyzed": 100,
-  "newThisRun": 9,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Ken Paxton Drops High-Profile Texas Lawsuits After Losing Senate Race - Speaks Media",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaW0taEp0LXZITDRBV1dwQWtDa3ZuY2dVTWRoSm5GeFI2RUhBb2J5N1NUcWFPTE1ZNjFxY0t3b2VwNGVSSElDS3dFaG1rU21DcE1nTF9GNmhPQjgxS08xbUNkVW5TdDF2cWFqbTlDSVh4dk5fcC1NN2U0MUJHMC1WYjJuRF9FN3dZWTFEQ1p2T2owdnlwNzN4Y0xQcnY?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 10:54:11 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas Railroad Commissioner-elect discusses his priorities: Inside Texas Politics - WFAA",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNcC1YYXRoTG9MR25oVGVKenRmeHNNMTVpcnBGRUZQekh5RGx3RFl6eXVBdUowT09YTld2RU1xUXZJYm10NENIMWc5Z2k2UUhaRmtxN2xzMm5iTjVOS2h6LXZQVFdRRHNHVUUzRm1EcXpFN0ZYSGdzbml2UWNrRklSYzhKUUhTclRoRUM0OU1PamxIV3ZHZjlrQzlFWjcxUU1IWkdhajd5UTh3MV9INHhtcXV5MVVmOEtEcTZZa0UweW1Ha2p6b084RWRQaVFFQlBCbjhNSXRWa09nbndiWUZtNnZFQ2dXMDVsbDI1ZTAwRlJpQ0t1VUZGaktjZC1fd0Zxai1faU16MGZoNlpaUjhQeg?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 00:24:20 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Editorial: As Paxton ends AG term, religious organizations can finally breathe easier - MyRGV.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNk5fYnZwSmNYc3FQazZwU2ZjQ2J3alExMExiSS1iX1F6LWpic1hCYm42bDZvVUdkM3IyVk04bXlxMFlQOVJhV3ktb0xLX3RHVUgwT1llVFBKTy00MC1qQVlnOFllby15aTZzc0N4TzlQV0RKNXV2WFg4YUdSTW5sTEhtQkx0SGZqT05CSmUwQkdINXlsN1ZGWktFUzBNb1VSOHgxYUVmVnozU1JsR2xUVmJzSjFVblk5Y3ZWVmZlQThvb0hwOC1ZQjdJN0M?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 19:19:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "paxton"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Texas Attorney General Ken Paxton drops ActBlue lawsuit - Dallas News",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR1phQ2taUFk4RXVpTjR0QXBkRlJETEJna3RETlVLMWM0Nm16M0VFclFubXpoOTVCRW8wVEdXaGE4b0ZLWG9wR0UtQzRudEY0QlVnem9fNzVwcXhyc0hsdmRGeE5mbGNWR3d1a2E3aWdGcm02OVdmT1NFelpiQS01cXI4RWwxRkR1SHUzZjBjVEVEM09UNWhXTFhSbGxQNE9tVzFxaTZPOUlXeEdyLXc?oc=5",
@@ -1917,80 +1976,19 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "Former President Bush and Sen. Cornyn take part in fundraiser for battleground Senate candidates -- without Paxton - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRVNWemtQR2wteXBzeWZHald6YmRYSEVMcDc4X2QwQXh2OXVEMUNHRUJvNWRSOFlTME12WC05eHVqVUdwOVdGSGdzUDR5QUxzZlZfcFlqTjdxOVZIR0d3dDUxQU8zRFgxNFZ3Rnk4eE1leTMzQkxKdkhsVWxVSEtGbUNaOTJSWmxZRmhkbWtCenZoekNZcGlCQXFUbnExU2VNZ2ZzVzhTaW5XVG4tWkHSAbMBQVVfeXFMTjZYbXdrN1dxS2R1WkZydUFPSEV1LVExZElFLWdMeEkxOTFsNkNqcE5BOExCYzRINzlBaFR4VFZ4NEFKY3VLcFlsclBtelQwZllXQnFncmFaZmg2UTNTYmxLQkV5Y0JENnAxNzJud3dyeThTZFM3aGJMLTBsQ3pOQnFYMFpxWHV3WWk0RTMzQVVseVhwYzhPelF0TV83bFRfTEdfcHRCZi0yYnlHb2xwNUxHVTQ?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 19:16:50 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 9,
-      "matchedKeywords": [
-        "paxton",
-        "cornyn"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Texas Attorney General Ken Paxton has finalized his divorce, lawyer says, ending long marriage - WCAX",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc0VOa2ZwNXVZZFp5MzNvbnkxeGhPTXIwcGtXRXJEVjdrWVpCRnBlOWpvWkJBX3JjNnFzODdjMkRueGF4TkpTekNKMTl5TDhQTXVvWnVHd1dsVVZuZUUzQkpyaUM2S1licWhBcTIzb0EtblV1bG1YcFR0b3p6b3ZXX1pUdmMycFpSMXhMY2FHVHUxYXBwYTJpWlAtakgyNVowbExOYnRfSTZ1YWJndzhySUktZmxlYkpIdGpVQmI1S2tWWmM?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 00:56:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 14,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "attorney general"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "How James Talarico turned Texas blue: Inside the voting numbers behind his Senate win - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaXFqdzZrZTdyTUFCamE5R0ZkU1loVnV2VjZ5Z0VDa2Vfa2I1NXZJODZuUEtWM0V5M1k1WFE5aHRQSGN3S1BjUDF5RXhvbFJmaHdCb2RHazZEOEpVeVUwRE5EbEhxT0t2bXF3VEVFaVFPdnoyN3NFQ19pYXpkcUJNa2prMzR0N09GNzVrdG13?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 15:09:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
     "2026-W47": {
       "paxton": {
         "positive": 0,
-        "negative": 2,
-        "total": 7
+        "negative": 3,
+        "total": 9
       },
       "general": {
         "positive": 1,
         "negative": 2,
-        "total": 15
+        "total": 16
       },
       "talarico": {
         "positive": 1,
@@ -2017,14 +2015,14 @@
         "total": 5
       },
       "talarico": {
-        "positive": 4,
+        "positive": 3,
         "negative": 0,
-        "total": 8
+        "total": 7
       },
       "paxton": {
         "positive": 0,
         "negative": 11,
-        "total": 22
+        "total": 20
       }
     },
     "2026-W45": {
