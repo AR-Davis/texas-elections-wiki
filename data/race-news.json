@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-11-22T01:09:40.461Z",
+  "fetchedAt": "2026-11-22T08:40:23.218Z",
   "count": 24,
   "feedsChecked": 8,
-  "itemsScanned": 71,
+  "itemsScanned": 74,
   "items": [
     {
       "title": "Ken Paxton Drops High-Profile Texas Lawsuits After Losing Senate Race - Speaks Media",
@@ -14,6 +14,18 @@
         "paxton",
         "ken paxton",
         "senate race"
+      ]
+    },
+    {
+      "title": "Texas 2026 live primary election results: Cornyn and Paxton headed to runoff, Talarico advances - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaDdzclZQZjY4dW9wTl93S3JKZ2ZsbUlnTDBnNVlKb0p3SU0zRXI2V2Z3QjJJYmNKc1pzUFhlTjdURnIxelRSYVJEeHJITzRkZUxvdDdTR0F3NW1lNks0M1RaRWduUDEyOF9UbWVlcmhtejRDUU8zYzVraFdZRkJ1WDExSDU5SElJazdsVllLdEFNd9IBlwFBVV95cUxPQlR3VjMwVnBZQW5FVEowci1LbTFoelgxYk1NQTRWaFRrTm5Wd0pKU0x4Y1gzN25TNGpCSDRuX25MZWtfZEJmcnFtN0xDRFRMTXduMXpLV1NHaU5hZzN2ekhDREJXc3FZaEJVOTZMcmVTSG1TV3o3QXJaREtreVBtelVWYzVSSV9HdFFmbXpOMlkyMFJ5TkIw?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 03:47:05 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "cornyn"
       ]
     },
     {
@@ -34,6 +46,17 @@
       "pubDate": "Sat, 21 Nov 2026 22:14:58 GMT",
       "feedSource": "google-news-race",
       "raceScore": 13,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ]
+    },
+    {
+      "title": "Texas Longhorns Visited by Senator-Elect James Talarico and Girlfriend - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSV82c05DU2thSGRmY1N5cTM0aDZLRGNHRVBkdHZsekhnMVlWU1JiYWN3U291Q01mQUF2RmJRTG5SYTNNYnZVVlFWeWhRbjNsT0F2ZENiY1BkTjUxbXI0ZXExT3NPaUJMb0N0aUItLW10VnltRWUxczJtMFRCd1MtTjZnOGpGQVljUE9LaGhPSQ?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 03:50:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
       "matchedKeywords": [
         "talarico",
         "james talarico"
@@ -73,17 +96,6 @@
       ]
     },
     {
-      "title": "Why a Central Texas elementary school is using James Talarico's name in a $15K fundraiser - KVUE",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOOWtDRmFxMUxjWk5mMVdScTMyTndwbmtTRjM3Y280aEMyQXo5c29tUVpVZmNlYkdfRzhwQURaTElaZVVGSE9kU0FqYXltY0VjT0xiR3JQVmpMUnpoaEhRWWtyWm5qalhVS0J6WF85V1E5a1R6XzY2eFUwQk0zYWtkdEhUdl9JZUZSbHRZYmlmZ2xGRTVuc0JTcThwaXdaSk1TT0xMMU9mWjlFTjZqVlNvV3pfdnRMLUNXQ2h0YmUzd1c5a1dBZjFBaENOd0kzUDhpMzAzODNCd3VveDVnVXVxQ1hnMGZ6cGgwTXdvY3JBa0tjY0U?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 03:21:22 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ]
-    },
-    {
       "title": "Ken Paxton, feds agree to keep razor wire at Texas border for the next 30 years",
       "link": "https://feeds.texastribune.org/link/16799/17535927/texas-border-wire-immigration-ken-paxton",
       "pubDate": "Fri, 20 Nov 2026 02:30:25 +0000",
@@ -114,6 +126,17 @@
       "matchedKeywords": [
         "cornyn",
         "john cornyn"
+      ]
+    },
+    {
+      "title": "Former President Bush and Sen. Cornyn take part in fundraiser for battleground Senate candidates -- without Paxton - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRVNWemtQR2wteXBzeWZHald6YmRYSEVMcDc4X2QwQXh2OXVEMUNHRUJvNWRSOFlTME12WC05eHVqVUdwOVdGSGdzUDR5QUxzZlZfcFlqTjdxOVZIR0d3dDUxQU8zRFgxNFZ3Rnk4eE1leTMzQkxKdkhsVWxVSEtGbUNaOTJSWmxZRmhkbWtCenZoekNZcGlCQXFUbnExU2VNZ2ZzVzhTaW5XVG4tWkHSAbMBQVVfeXFMTjZYbXdrN1dxS2R1WkZydUFPSEV1LVExZElFLWdMeEkxOTFsNkNqcE5BOExCYzRINzlBaFR4VFZ4NEFKY3VLcFlsclBtelQwZllXQnFncmFaZmg2UTNTYmxLQkV5Y0JENnAxNzJud3dyeThTZFM3aGJMLTBsQ3pOQnFYMFpxWHV3WWk0RTMzQVVseVhwYzhPelF0TV83bFRfTEdfcHRCZi0yYnlHb2xwNUxHVTQ?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 01:09:11 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 9,
+      "matchedKeywords": [
+        "paxton",
+        "cornyn"
       ]
     },
     {
@@ -236,26 +259,6 @@
       "raceScore": 6,
       "matchedKeywords": [
         "talarico"
-      ]
-    },
-    {
-      "title": "TIME Person of the Year odds: Talarico overtakes Mamdani in tight race - Kalshi News",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53YW55ZVpiWjRJeWh1c1NsaGdtcTNMdmdTXzNKazNtYXBDNlU4N1BFSzB2ZE4zeU94d0J4bGhVaWFFbVptbk9Wem81bDJrQVFPVXZPSV9HRmJhWENiQVY0bnhsRFhxYVNOMDVCRDllOHRGejExakJDcGw0cw?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 22:12:32 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "talarico"
-      ]
-    },
-    {
-      "title": "EAST TEXAS POLITICS: Former Gov. Rick Perry on Democratic wins: ‘I’m not going to tell you I saw that coming’ - KLTV.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUnFUU3NKSlR5OXFvd202VjZsc3ppUVpBZjhRdjJlMFJSQ19OTFR6cl9TajVpeVJYT19RR1JjcDFweXZ4ZHM3Y0NKV1B6NEZWUEZNRkk3Z0lVeDl0VUdJWUZCbTBkTlU4R1RGb0x6cXN4M1BKQ2ljRjFxV2ZQR0ktU0hDMlFKUFBvZkpKWl9WYV9FRno4Qm9ZR0JFN3dOY1VFZzZsUlJrWDdGbV9rV1JxWlZrZExCV2UwY0dGOWl3dW01dmU3NVgwcmZn0gHeAUFVX3lxTFBmWUJ6OW9LSFM1QWstTkstYjlYUktPcFZsUGVubHAwelZZLTJMYVpOVTBFTG9zeVA2OHVScDJJZG5VMlAzbDdLelIzcEpQYUxzVG5FMGI3VDdiYWFPNGtPcmdZN1hscTNpcnZNVkQ4ZGlUWFVESks2NV9jUmItclp2YjljaVZWZHFQa2NhSTktQUJwYUlzdGppYklGU1pvSmJ2c251MkhHQVJtQ0puUXBCa3lJWWVYdU5taFZCdFNHYmNET2txdW1rQ2dWZ25MdndkQlppMzdYcXNuSU9Zdw?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 00:58:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
       ]
     }
   ]
