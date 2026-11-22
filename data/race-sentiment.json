@@ -1,9 +1,129 @@
 {
-  "analyzedAt": "2026-11-22T18:21:03.524Z",
-  "newsFetchedAt": "2026-11-22T16:59:40.801Z",
+  "analyzedAt": "2026-11-22T23:44:53.506Z",
+  "newsFetchedAt": "2026-11-22T22:24:45.609Z",
   "totalAnalyzed": 100,
-  "newThisRun": 5,
+  "newThisRun": 6,
   "stories": [
+    {
+      "title": "James Talarico’s girlfriend Brianna Menard steals show at Texas game in ‘thrifted’ dress - The Big Lead",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWndIN3pPWHpyZ2pRX3JaTTdlRmk5VmhLamJJbm1GdUpYNUhyWFpaQTBqVmdaZGlKLXJfX3FSN2ZHTGtYNGZJREV2Q1VMNjA5WEJYY1BBajZjRHlKVURJNk5CZVl2a2hoNmo1UmpZZVdXSDBtalZPdXBYMDRjMTlCZjlIazhLODVxanhoMGZiWDVYMkY2RnV3QjVsRQ?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 13:30:32 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "James Talarico &amp; Girlfriend Brianna Menard Make Rare Appearance Together - TV Insider",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTTZhN1ozeEpkdjRaMjM1b05DenJOMThueWFLU1FNTjB4Vk9jUWNELXBNa21jdVZnZGZ1c3ZzUGxyaFV4RmhaODVVc2tnNWRwR1NMMFNJbmRqOWZmT2haSTRvN3BkSEhhdWszczBpTzY3Sy1OeXlRRXpvQmlNdGVjMlZmeWkzY3hoUl9xNXhLMEh1TWI2M01YQ2RQWjZtdmJabU1Gd0dEODFZMGgzN2pqWWlVcXNDQQ?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 20:59:11 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Ken Paxton Drops Lawsuits Against Political Opponents - cwibc.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ob19Xd1Bjck1CLXkyc1RITXp0Uk44dG1ESVJNelA2LXJXeHltVkJPZHBuYU43akFvTUVqclJuVTJWeExZRlF4NE5IckZ4UDhhd052bkJhcmtnb1ZQQU1Ib2lNSWk?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 06:56:35 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Paxton Drops ActBlue Lawsuit as Texas Attorney General Transition Nears - SuaraGarut.ID",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sb183RE1wTWFTWHR5WHN4RHdxV1d2d2Z3bGoxS2dFTWNpSTlDWDBxcHZnMEctLXhDQWVPbEUyR0oxdmV2WFBaaWZLZDNxRFBJR0Y1LUNJcENRanV3X2pwRWFVaw?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 07:12:53 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 8,
+      "matchedKeywords": [
+        "paxton",
+        "attorney general"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Paxton Drops ActBlue Lawsuit as Texas Attorney General Exit Nears - Limapagi",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90WUFtX0lYRWJVblJ3bUFkQW9VMGRtSmlIaTJPLWFrYTVtR2wyekxvcktRS0ZoQ3diMzlEY3hRVkw0Rmh2dUxOa2M5R2hBX2k3MlZ2R25JcjF2bWxseTBqMVhUZC1BQQ?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 06:57:53 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 8,
+      "matchedKeywords": [
+        "paxton",
+        "attorney general"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Paxton Drops ActBlue Lawsuit as Texas Attorney General Exits - Demokratis.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEOHp0NWE5VGxTdEtHcTE2bVBicFEyTjRWRzVpQkNOX3hlaDNHcEowbVMzMTJnUGQ2VDd6QjBrMjAtaF9QNTZhVzA2RDkyZERjTklqQUZvMjVXQXFZeUxYT0VELTJuMVE?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 06:57:52 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 8,
+      "matchedKeywords": [
+        "paxton",
+        "attorney general"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Trump-backed Paxton will beat incumbent Cornyn in Texas GOP Senate runoff, AP projects - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbmNCQVBFclB5WnZlaks4UnZiUWVkenNZdTdkYlZKOEZRZFhYcGMxNDEyemhBYUt1bV9QaEFHdzBWcW1XMDZENFdZRkVSamZuWXFDa1dQX3VnTXF6ci1MdHptZVlkb2VRd05QamF3akJDVFJGdktUeWhXOGZ2OEVRNGY5QWtJVU45dHd5QUVodDdIb2Q00gGaAUFVX3lxTFA5Q0ZVS01wSmplbWVESnVkdTJWdDRBZHlDU0ZmRWlXS2dSa2VrZFdkay1PZ21sU2FGT0xwMmszQ0xBWkhXbU1NQ2RfVWNxU1lFb09hcE9PVVY1M0tIcE9ZZ2hoZmwtUEhHaVFhSG5Na09lMW5ubUVOZ0FSYXhFYzZYUUtIczdka05UalVjOGxxaEZyRU1nb1VtM1E?oc=5",
@@ -1861,134 +1981,19 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "Inside Texas Politics: Are voters really moving left, or were they just rejecting Trump? - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcWlPVEdKUEpEc1BCakNCUFMwdlMycUtvcTRyM3o0RU0zdC1YOWRjNkFuWVpqcTBIdUgwQXYzYlpMcVlNZTJWZnVWNl9pLVNBSGtrU3AwbjR0ejc4d1d1ZHVwRHQzWTZhUGxURWhMc1VtMkNkWDBfTHE3Q3FPdlRYNHRDMm4yWW5HQUZiOQ?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 04:44:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Second Reading Podcast: Early Signs as Democrats Prepare to Lead Divided Government in Texas - The Texas Politics Project",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS1FPdklYTmhkY1ZGT0Jvd3ZWQXh3UHgyRG52V2VpUWJNMXFUVXVwbS1GSmxGVHZBbzVpaVVHSGhSS1dSNW5DTnlFX2k5MDh4c2diZFg1OVJsVE5Pc2VUbkNFeW84dmFULTJkUzhiMDE2UmpqQ2UwcVYxUnYyNnVYbGdCWDdEMzdnTDBvaDdnVE0zVC1Ub0VId0dPVkZWZkFPQW1feVBQMWlOclYtaFAxd0g3Q1JMeDhOQTlQSTJmY3ZOSlduM0VYNg?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 00:31:46 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "How El-Sayed and Talarico connected with voters in historic Senate victories - UConn Daily Campus",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc3hqQXo2UEp2Qy1rVE91U0pzNS0zU2I5OE0wdGpsdktPdTFSSTgxamdyc3dUdFdaZFJqTXJvc0Q0U283NllsRVozLVZOQVVnWVpQVnRTRzBTVFpHUWstVU1tZGlUZURucERYSW1UeG5kYVdfLW9YUmJjdWZ0VUFIeV9FRGJBekhYVUx3ekxfUzZyNFhxMEhjaHRrRVo3WDRZUUVMN0RDa0pock5GLTlldzBn?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 11:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "talarico"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "EAST TEXAS POLITICS: Longview Republican discusses support for presumed house speaker - KLTV.com",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQM1hFcXhyT1pYVmNUSDA4emFScHlYYVFhRmR2Q3BQaU96dlVwcS1UTHpHSW03NDlVbHJHSnVFc2xvTi1nQWVEWDNiTU82T1RYTEExV1VKdVN4NkpfYXdTS2h5V29WNndha3pEUjljXzRYZXNOYXkwRmVVOEZKR1d3dGdLRS1kZjVYNTVOWXNCVkVPZEpPeV9kUjl4dTk3X3d3eDVTZVJNcUQwNDRTSGlQaDZfVXpNbEtObnpzSVZqN3ZIazNfbWdlSUo2cTNLMHM?oc=5",
-      "pubDate": "Sat, 14 Nov 2026 01:08:24 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Ken Paxton finalizes divorce from state Sen. Angela Paxton days after his U.S. Senate loss, per report - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPamhFREMyQmgzV2gydklYSjdEMXllUi01S3Q2ZGN3czFqOFBtVFNILTlvQXpyelZteVVKcjBnZnZMZWNIT1Zoa0ZIeFMtXzZXSFJjWGtKZTI0bHRQT0xkcWtYZGV0UEJ3VVdLLUpadEE2MWVPT3E3M29FVXNBbDdrWWtHQ1cyOUF0WEMzY3J2cEJ0MWIxbV9KaVBvZUJIQzRPUHJKanBtNGNuaWNOTFYxa1JrNkRzNy1rNVFfMlJiOHlkWUhCLUJjczlEX1VvMXFaU0VkeV9jVkFJSl83cGROUGxhelFXdk54QUxRMjloSkhoajJZcVRZbXE5ZjZJSFc3QWVGS09aTdIBjwJBVV95cUxPWWhkYklWSlM5VkNYbXcyTlBscWpuejAtemxmQXE5YzMxb0JEWGRfb1BkRmk4YWduMnNOWlNKaGE4YThyTkRnalVKZUtMMXUyOGNQNWpqTmQ0OEQ4NE5QVWlxSnNWSmNyZ0xHRUJZTllGdW5lbFdaUVIwYldyX1VRVnFLbkl6SWZ0ak56dGdxeFdoOTBiQ2F2Um9BeVBzOUNkQmxCVTkzZVdZMG5VRDl6NVhtamJ2WlVFckNQWEVKR0FOd2xkQmg3dkw0c2J3YmJLcndEX0lVdUJRZkN2a1RfQnE1aUhWVDdmbVhzbjhTUG9qSEU3TllXSzlxbzhIb0djVUpwUktGVEUxWkRpbHNv?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 14:50:27 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Inside Texas Politics - WFAA",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQXVQenkxNW4tVGJaMmVUbTAzRy1WTEo2VnFwWjZXX3FOQzI3Nnl1OXlheFhvTHdFU3lkUDRQMm9DSF8zeUlrdW9rN2VDbWxDSVhhT1BfR2dpeEhfSVluZ0ZZRXZXQzN0Mm1QeWVZakhDQ3F3Z3dKdDZHbF92cGNVM0xMajhLbGVGdUwzamNSMmszbV9FXzdyWTMwWGtfMHBhWWg1NUQ5YmNMQQ?oc=5",
-      "pubDate": "Sun, 15 Nov 2026 15:00:47 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
     "2026-W47": {
+      "talarico": {
+        "positive": 2,
+        "negative": 0,
+        "total": 13
+      },
       "paxton": {
         "positive": 0,
-        "negative": 6,
-        "total": 15
-      },
-      "talarico": {
-        "positive": 1,
-        "negative": 0,
-        "total": 11
+        "negative": 10,
+        "total": 19
       },
       "both": {
         "positive": 1,
@@ -2010,9 +2015,9 @@
     },
     "2026-W46": {
       "general": {
-        "positive": 5,
+        "positive": 3,
         "negative": 3,
-        "total": 28
+        "total": 24
       },
       "both": {
         "positive": 0,
@@ -2022,12 +2027,12 @@
       "talarico": {
         "positive": 2,
         "negative": 0,
-        "total": 6
+        "total": 5
       },
       "paxton": {
         "positive": 0,
-        "negative": 10,
-        "total": 16
+        "negative": 9,
+        "total": 15
       }
     }
   }
