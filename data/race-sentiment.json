@@ -1,9 +1,49 @@
 {
-  "analyzedAt": "2026-11-22T02:54:44.044Z",
-  "newsFetchedAt": "2026-11-22T01:09:40.461Z",
+  "analyzedAt": "2026-11-22T10:55:54.361Z",
+  "newsFetchedAt": "2026-11-22T08:40:23.218Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 2,
   "stories": [
+    {
+      "title": "Texas Longhorns Visited by Senator-Elect James Talarico and Girlfriend - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSV82c05DU2thSGRmY1N5cTM0aDZLRGNHRVBkdHZsekhnMVlWU1JiYWN3U291Q01mQUF2RmJRTG5SYTNNYnZVVlFWeWhRbjNsT0F2ZENiY1BkTjUxbXI0ZXExT3NPaUJMb0N0aUItLW10VnltRWUxczJtMFRCd1MtTjZnOGpGQVljUE9LaGhPSQ?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 03:50:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Former President Bush and Sen. Cornyn take part in fundraiser for battleground Senate candidates -- without Paxton - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRVNWemtQR2wteXBzeWZHald6YmRYSEVMcDc4X2QwQXh2OXVEMUNHRUJvNWRSOFlTME12WC05eHVqVUdwOVdGSGdzUDR5QUxzZlZfcFlqTjdxOVZIR0d3dDUxQU8zRFgxNFZ3Rnk4eE1leTMzQkxKdkhsVWxVSEtGbUNaOTJSWmxZRmhkbWtCenZoekNZcGlCQXFUbnExU2VNZ2ZzVzhTaW5XVG4tWkHSAbMBQVVfeXFMTjZYbXdrN1dxS2R1WkZydUFPSEV1LVExZElFLWdMeEkxOTFsNkNqcE5BOExCYzRINzlBaFR4VFZ4NEFKY3VLcFlsclBtelQwZllXQnFncmFaZmg2UTNTYmxLQkV5Y0JENnAxNzJud3dyeThTZFM3aGJMLTBsQ3pOQnFYMFpxWHV3WWk0RTMzQVVseVhwYzhPelF0TV83bFRfTEdfcHRCZi0yYnlHb2xwNUxHVTQ?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 01:09:11 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 9,
+      "matchedKeywords": [
+        "paxton",
+        "cornyn"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "James Talarico, Greg Abbott attend Texas football game vs Arkansas - Austin American-Statesman",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa1UzRnlISzF3QUQ3d3UwWVBRU05SRGVGcmNETkVVZ0hoV1JpTGgxaW5TZjVZYUFhaW56S1VFOE5PdUFlaDdnVGxZY1Z3VGduSllsOVhyU1B3YW5uNEU2bFNkVzJ3eEZLMFZuTmhuZGxhLUpPN21ORnkxZjFLVllMTGg3NExjNUFiZEZqS2xQWG5Lcm9md3NGRFFzUVZ0cFR1QzlTb1VlT0RfaDdENFE?oc=5",
@@ -1931,44 +1971,6 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "Inside Texas Politics | Full Interview on new state leadership with State Senator Roland Gutierrez - WFAA",
-      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNY0tCalRIN1NhVTVoZGo4ZzFWZ2l5YTJ4VkZXektTaU1tT3dWNTgweUYxUGprNFYwZTdNQVZHM2tGdkFSbjhuLUtUMDNvRmIyc3hGanN5ZHh4TW01UTZ6eWY0Q2luX3AycDZtZEY3YXRPMU41SzExSVJfSU1KbUZlM3NUeTRRclJZUW5XOVFRSlJ6NDFpUHhRTFVQUmVpS2Z5R0k0bF9jUzdvX01oZWdyMVVqRWdzaGJVbXB6M0pWX3MxenltMDdJa2QzTWxYeVpkVTU0MDJWdEU3ME4weTRCSFQzczh5TlZZNXVTWHNfVWVwT2NRSlBoVzRLTlhEQ3lhWFlkaVpXcWlzSUI1dGtpMGZ1ekUxMjYzSWhIQXE4aGwyRkZiWEY3RUZmdXAwakU4SjJB?oc=5",
-      "pubDate": "Sat, 14 Nov 2026 15:24:52 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "EAST TEXAS POLITICS: Longview Republican discusses support for presumed house speaker - KLTV.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMVp1UEZWbUhxY3JKUkdIMjZpOFFWR3paakhWWUdYUlBqZEJTNTZuRTFXWnJBWFFyZGd5cG1adHNKeVJTdHg4SHJ0eURvbzVvUDJYcjZpTzZtbldqWGJ1ZVlMOUpJN2VPdEItalprNlROanBFU19KaGZ1WGlZN2hLaGRQVGNmdzYwSV9sWWItOXVPMzVrYmhpWjd0WVZxV05WSzhqVEkyN25fMDJfaVZ3eS13NzlyQzQwb3FJ?oc=5",
-      "pubDate": "Sat, 14 Nov 2026 00:53:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
@@ -1976,12 +1978,12 @@
       "talarico": {
         "positive": 1,
         "negative": 0,
-        "total": 9
+        "total": 10
       },
       "paxton": {
         "positive": 0,
         "negative": 5,
-        "total": 11
+        "total": 12
       },
       "general": {
         "positive": 1,
@@ -1998,9 +2000,9 @@
     },
     "2026-W46": {
       "general": {
-        "positive": 6,
+        "positive": 5,
         "negative": 4,
-        "total": 34
+        "total": 32
       },
       "both": {
         "positive": 0,
