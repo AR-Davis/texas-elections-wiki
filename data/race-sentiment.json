@@ -1,9 +1,130 @@
 {
-  "analyzedAt": "2026-11-22T23:44:53.506Z",
-  "newsFetchedAt": "2026-11-22T22:24:45.609Z",
+  "analyzedAt": "2026-11-23T06:47:35.794Z",
+  "newsFetchedAt": "2026-11-23T03:00:21.028Z",
   "totalAnalyzed": 100,
   "newThisRun": 6,
   "stories": [
+    {
+      "title": "Ken Paxton survived scandal after scandal. He couldn’t survive a Senate race. - News From The States",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSWFubXVmX3JTbDJORkZrWmVzZURUZnpLaVNDcDU5SjR1T3VoZzlBcldrNmE0MVJ4NUlTSF9Mc1NmakQ4MGdKeHBsN0lWVWpJTllNRkktMXJxcklENGpqQnpTSGpiVHZ4dTZmSWhRaVdLR203dnZMcVlqUkw0SEhKblBBdVhBN1AzdGdqcVJnWFFER0prS05oTHpSOUJseHg1TXNKbTF1WnNMZU9Wcl9rcFpkSWQ?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 08:00:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "senate race"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas Longhorns Cheerleader Goes Viral For Snubbing James Talarico Sunday - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZnZlU1BSVF91Z0dQNjVPTHo1UmQta1g5WEJuWUlYbnFRU2FNM1F1cjg4RS1iSVFhcHJ3ZmYyamlDZ2h5Y0FvU2JicmxpX1ZOVUhxZ0p0UUl0LUJvclVCOFhsMU9sTWFvbXk3aDhoT3BIRVpsYm5KYkptYktfeERqRTRWVTRPNmxiakw2MXNVaVg?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 22:59:13 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Meet Brianna Menard: James Talarico's Girlfriend and Texas Political Professional - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTTY2UjJXdWxjSlVlQW9Id0xzQWJ5eXpDQTJRa0xuOTFkdm9LWXV6UjRDU2NUXzdkLXR0ZEhPZ0Y0TktJQ1ljOFdJYi0zZVJXakk5WUpBUWNVSk5wWGh3TVZJT080NnRBUm1tNDVJRTZRV1JEZ2c5TzhpT1NUaVRLZGpwTW9PcVprUGgyTDVncTltR2RoaGZkRHpGMA?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 21:41:45 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "James Talarico's mom sets off frenzy with a 'hot' photo of senator-elect's girlfriend - Raw Story",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FWDA0aWF0MXZEQjMyMDIwLWduZjNXZjFRU29nd25XVEc0anpPNW9SVTI3WjIwc2kwQm40bFJFeU1hVm5iZ0YxSVZ1YklyZUtkNG5XOUw4VEViR0FvaEJiedIBc0FVX3lxTE9tZFNBZUd3Rkhhb2pkUXNLMndfTnYxdXBfb3ZURm0zeUhEbzRtNzVvbUswcldQQlRfd1pOS2JjQlI1WHRfZ0hxRm5KMzAtOE9IcUdZTGFsYXMtLV9iTWxRbWNXdG1Zb3FSNkRTSkpSS0hnTUk?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 19:56:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Ken Paxton heard saying Trump's GOP midterm convention hurt him: Report - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUXVpUG0zRXVVVUI0bm5WbEQ0VkVuclE0akVXUEdZdUk0bndvYmx0SzRNRTl1aE92di02R0didldwLS1NRmxTNkJybGVTNjhfTmkxQ3BRVmR4U2JhcUh5aThCRm9MSHhjcmxXTktQYmZILUU5NHgxMlhKbm5zUGt5V19mZmljeDAxUjBLLVBHeXNDaVUyY0JTYk1jODlYQ2Fm0gGmAUFVX3lxTFBERU5TcjVYUjdiTXQ3RmhNWF9NZlYzRWZId0tPRmZtdWlJSFdhWUJiMVE4TlVxVWVFNjJlbWprdkN3RDNkUlN6Ul9rbmRfM2FTTGdFXzBKZWNjRVJzcndCTWQ2cEZzNkx3RVVqT1BRSFdpNXJtYmxBNkxPY1ktTDMwMGU2UGFxX1FDR2lhUHEyYTJRNG9FN0VyS2l2RGM3SGtDN3Myc3c?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 00:24:25 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas GOP chair blames economy, messaging on midterm losses | Inside Texas Politics: Nov. 22, 2026 - myfoxzone.com",
+      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOQWgtTXcyckNENU9SamVudU5RaW1VSnhEa0NWZUktcEZEYWh1X3BmUERSZlAxT3o1YXNkQ3NzNVFRRm9YVGZhUXVYMnEyWG1melhJSG1ZOGoyVEx6aGxrbEVXYnlHNHdUa3dzMndLbk1YLTZCN2xUSDZXUjExLW01c2tBRUZBTnJEbjhfbVotQUd6YjZNS0d6bFA0bXpYbnlUU3hSdHNHQXhKMS1nSnhaR2htdHNYcG5GN3lWSGcwTnByNVBtMGRHek1ZVjNGckRHRkVCRWFoYWswbDNlTzEtUDlxanpsQTdRQjlFbU9DSFcxdTVicDhkS00zQURwODNGemhacEFEcGpCU0R0R0g3Z0dYdm9GbG9oMUE1ZGVZSDRBb1dtRGFIcFFxS0lxLWdC?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 10:18:53 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 8,
+      "matchedKeywords": [
+        "texas politics",
+        "texas gop"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "James Talarico’s girlfriend Brianna Menard steals show at Texas game in ‘thrifted’ dress - The Big Lead",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWndIN3pPWHpyZ2pRX3JaTTdlRmk5VmhLamJJbm1GdUpYNUhyWFpaQTBqVmdaZGlKLXJfX3FSN2ZHTGtYNGZJREV2Q1VMNjA5WEJYY1BBajZjRHlKVURJNk5CZVl2a2hoNmo1UmpZZVdXSDBtalZPdXBYMDRjMTlCZjlIazhLODVxanhoMGZiWDVYMkY2RnV3QjVsRQ?oc=5",
@@ -1861,149 +1982,29 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "Ken Paxton’s divorce finalized days after Senate loss to James Talarico - The Roys Report",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY0txdGl0MktsVU5saUNoVHRQLVpnYXF0SjktSWVsOVFRYTZpNmFGTzFVYlY3MDNGRjcwdjRJU01hODE2N3paSFU2NDBnUjIyNUhHS3JPbEdrY25nbTV5THliTTdBRFQ0M25FQndPRFFNSzVFUDRkUFYwT2RoalNZV1VXM191Qnd6VWpYcFp5WC1kTzVBWU9BYS1B?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 23:21:11 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 22,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "James Talarico says Democrats should work with Trump after Texas Senate win - WTGS",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNR2RzSjNUY2hKZk9tTkNYdUNSRzRuMDE2Yk5GWFR4cHF5WUpvdHNQMjJYU3M2RnNrbzM3QzhRRFpWM2RJNnlFeVVIR1FSSWI2UW56SzlrR1JfSkN3MW9xS3FOODJlZDZLc2NXczRHQ0pnOWpyMjJlSERMN1ExT1Jtd0xxNmwzZ1dCekp2VXphRkZyd3F6eF9HWkUtRkZFQlBLeDBqeDljSVk4RHhRM0NhRkFxUkxDazBzZUJWWC1kemwyUjAwS0JCQ19SRVlkeGJNQU1OSFVSaUI?oc=5",
-      "pubDate": "Sat, 14 Nov 2026 01:29:05 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 17,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "texas senate"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Here’s How Texas Democrats Could Flip the Senate in 2028 After Republicans Held Strong This Year - The Texan",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNeXJIQ0N1T09hZmpsUjNBTXBLNDVtMjViZjUwVG96WlB3UUE1OVdzc2lFMHdtN2V3RHRfM1JEUElzNnFXbzZwLXhCemxTVzJmNFF0YmxNQmdYUE94b0JRa2R5MGVWaVcybXNCN0FmX1cwNm1jN01ZcTJLRDJ1cVlieFU5Zm0xQXNrOXdFRXpMNWlUTjVOdW02cVlWUmpvbERSUTZDa2VQNjVNMTJaQlVtN3lCRFRxRzAwdElqbUE2cXE0d2xUQnhKOXY1MVFVLVlKUF9MdWdCQXRCN0xTc040a3l5ZXViamY1Z0NKd3FISDdtSGRpSG1OYjZBVHVmdHVSU3FV?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 11:08:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 7,
-      "matchedKeywords": [
-        "texas democrat",
-        "texas democrats"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Inside Texas Politics - myfoxzone.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNGU3NWlHeGhjMDNBd1ZSbnRsS2dKdG9URVFQb2NTNkp3YWh3cXAwRVpMS3dNNnpNQlFJMnRySEJ4dkozSGFYLXU5VUlBV3UxOXhDZGVyeWhxZWN3QkNwYkFDbEpuWXFKbFNQZWxONGoyTEF2VWdMVTZQMWJVSS1iTDhROXl5MG5Db0ZhbFpMRWN4N3ZxOVpUWWplY1RlVUQ5aW1GUi01eXQxVzhhVGtNRQ?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 01:37:09 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Inside Texas Politics | Full Interview with Democratic National Committee Chair Ken Martin - KCENTV.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQMEhuVm0tVFNRbGZDOXU5LVl2OHlYeWpGcV8zSk9LdW1BdEgtaVdZV2FZcElUM09mWFVOSHlHN1l2QnBvbW9sYWowZHZTeHppMW1vUFhlR3cyYlFqaWtocS1vZm5NcUthTXJUb0NIbkF0NVV3bWFybFRxTUhnVXQyOUw4SnV6UXRUUDBtME5CTFczWjFuQkxZNE9KY0lRdkpyS1FZU0FrRTdCRjJlLXhTUERlcGcwcjc5ZU44M3RKU0dvRVJKLTkzd0hXdUpzODg5WFhoNF9rT0l0UXppUDFkV3FSQklma3R0Rk1PaTVxQk1LNmlSaElpd29uT1ZGMGVCU1hCS0xUTk9hSkVGWFNGM2JFZXpYWkZpM1pfUFQ4cW10ZEY4YzFrU0ZaQQ?oc=5",
-      "pubDate": "Sat, 14 Nov 2026 22:54:02 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Inside Texas Politics: Are voters really moving left, or were they just rejecting Trump? - WFAA",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNVUk4VGlzR25JX1QxX1J1RGdZMnZrOFZTeFlaOVlVR0xTQm1saERnalZhOXBnNmlDS2ZocGlzRUoyTFNnVXFlbnZscTNDTTB4WnA1Wkdnd0xFX0dfbTdQc1g3U0lxMDdVbExDdk1ndjVBZ3B1VnY2V3VOcFJuRURoVWNTMVRLYkdENWtvWmlKamJ6VlR5eHpqWEtzQ2dSa3BTbW5BY2JTSFdyYnNDT2d5VmpjcUdMSTJjdmp0NjlvQlpzMHdlYnJUNmxLWGk2N3o1MWdkMnZGZkQzVGVnUFBvaXYxS2RQeVprY0pmbEF4cFhldzJDcDRwa0ZLRFdRUlJYMEdjRGFxZC1PT2l0Z1Zxb3NWbw?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 04:45:01 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
     "2026-W47": {
+      "paxton": {
+        "positive": 0,
+        "negative": 12,
+        "total": 21
+      },
       "talarico": {
         "positive": 2,
         "negative": 0,
-        "total": 13
+        "total": 16
       },
-      "paxton": {
-        "positive": 0,
-        "negative": 10,
-        "total": 19
+      "general": {
+        "positive": 1,
+        "negative": 2,
+        "total": 18
       },
       "both": {
         "positive": 1,
         "negative": 0,
         "total": 1
-      },
-      "general": {
-        "positive": 1,
-        "negative": 2,
-        "total": 17
       }
     },
     "2026-W16": {
@@ -2015,19 +2016,19 @@
     },
     "2026-W46": {
       "general": {
-        "positive": 3,
+        "positive": 2,
         "negative": 3,
-        "total": 24
+        "total": 20
       },
       "both": {
         "positive": 0,
-        "negative": 2,
-        "total": 5
+        "negative": 1,
+        "total": 4
       },
       "talarico": {
-        "positive": 2,
+        "positive": 1,
         "negative": 0,
-        "total": 5
+        "total": 4
       },
       "paxton": {
         "positive": 0,
