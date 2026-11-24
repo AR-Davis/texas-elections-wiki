@@ -1,9 +1,107 @@
 {
-  "analyzedAt": "2026-11-23T19:05:15.031Z",
-  "newsFetchedAt": "2026-11-23T13:31:19.309Z",
+  "analyzedAt": "2026-11-24T04:15:34.009Z",
+  "newsFetchedAt": "2026-11-24T01:33:27.787Z",
   "totalAnalyzed": 100,
-  "newThisRun": 9,
+  "newThisRun": 5,
   "stories": [
+    {
+      "title": "Blonde Texas Cheerleader Caught Trying to Avoid Picture With Senator James Talarico at Arch Manning's Last Home Game - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORERGZ2lDMFJwaHktWTE4cmNFUnNkelhKN3h3bHNVZFhsQjFrdUo0aW5QRGZSb2FGRlI0TG04VjZ1TkVoenVnZlJsMTBSMThqUHdEdEh1akh1N21NcGFtZFdHZlZuV3hnRDJMNXhkX3Q5RmtwNXF4TVhHeHpaQkhZX2ZjNGFyNjEzaUV6SFhMUTg?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 10:35:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "James Talarico attends Texas Longhorns game with girlfriend Brianna Menard as his mom shares adorable couple photo - MEAWW News",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNERSWUlhWTNPOFJXR2ZlVUVMMkhtSFlYa1FncW1rcC13alRqMmJzQkFBT3oxZkpMdk9JenMtX05PYlBNRE54VlJmWkduUTVEcG5LY3QwU3pxdDBYRDlCeDJZZGVlbjdiSGdZZU1DNjhCWmFDazZ2LTAxbEd3Q3dRcVNRN2gtVzBuVUlfNzUyRFJwMnZQNjFWLXkyUHVHUWZDQzM0dXRldkNrNXVreTI0aXpmN05vdlA2ekROTzNCcVpzT0dvWDR2NlpucGozQXh3elNlTU1NSQ?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 08:48:25 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Paxton drops suits against two Texas doctors over transgender care as he prepares to leave office - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQM0l3d2dNMC11azdHMGFMRDhoU3NRWnBRMXZnNU1jZVo0VF8tTWJ0NW9LTzdubGx0dXM5T1drcG5ZdzNYQjhyYkxlLUtXcGtIYjJ6YlIyV0lVRERTSGRpM1BIRnRDb1dRSnJ2aTY0UTZ1RXlUQXVWWXpUSThlX25WZFNHUjhBdnZ4MG1qRmhwbUgxdkZhMVNQNmotRFdRNERRUDZTM1ZfcWJkRkotSER2VklYb2laMm5LblJhYzdHZWxDZkRVb3NNVVNZTmp0bnNHYlRrbC1fZU44azhJTTdvbXpheDNpY2hqNzR6VWlXQ0NtbmR0T0ZFcEV30gGCAkFVX3lxTE1OWTdFRDhjdE9Xd3JDRWxQYnBxVERGamNCUUo0b0lGZ21ZajdUOFVLU0NxXzAxWkRDSzFQd1B3MUN2RzFxS2FiLVl5dy1ZWW5xOXBhY29paWUwbzFHZzlCTEMxTTZDZkgwY0cycWY3M0Y4MTZuVGRmMWdqNTh3Zm9WdjBPQ29KMXNWSWZ3dDQzbTBkbF9LR3U1Z0tPVnR1a0gzNHZ2U045XzJRTWx4d3RJUmtDY092OUdxbVYtbVRLeVZVN0taVlJIbE1PVWREVXl0MDlSRGZaMHhMb1I4X1Q1MzNqQktjTVVnM2ktU0tQWlR6NWFnYW9sZVZxSmkyVGs2Zw?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 14:04:48 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 7,
+      "matchedKeywords": [
+        "paxton"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas Democrats consider tax relief for homeowners and renters - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONXVzekZCZG9oaHdMOHZXeVJyU1FOeTJQajBHRk03cTFZdmhsUnNYb2p0c1F2SVlRX3hqZUdLMHVwWHlWMlpVNThTVnN1cnlKeTJlbTRDczNFSW41Vl9faThqWk9BUTRYZ2R5NEUxOS1OV3JReGpaanlPSk5QenZSalhfVkU?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 11:00:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 7,
+      "matchedKeywords": [
+        "texas democrat",
+        "texas democrats"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas GOP chair urges state Senate to block Democrats' agenda - San Antonio Express-News",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWFNIQkZVcG54d2lkcFRabmEwbXI0aGZmZWFnUWFBVGlZYzZBUmdsT1MwYkpGb1JjcDdpQm5xc3BBTXBkVUxOVG13XzBPUHJLSW13TlhfNEpTRk5EOVlEWVJQckRuNTdvN3lJWk9jbEs0QlVaR0t4TTNhRHZZRDVVOWkzVHZ4MjZiS2RPcVh3?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 16:18:05 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas gop"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "On the issues: A Q&amp;A with U.S. Senate candidates James Talarico, Ken Paxton and Ted Brown - News From The States",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU3RHZllEWTduN2lEaW01Yk9NdjljYTJzVEZtdlRXXzZsazJuMVd0OGFneGRwUHJkb05wQWdiN0w1QmZmSGVlblFIT0JUTndidjlYVkF4QXRzNHJnMjRfVzlsYUllRDdtUlAtc0NqR1J1ZW8tVkFSYUthWTJPUFJEVjJZeEZSNHp2bzNKU0tsZ080MThYY29TQjhKQWxLM2FlVVFqUnBkOTZ6T1BuSGRscjJB?oc=5",
@@ -1886,127 +1984,29 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "Outgoing Texas AG Ken Paxton dismisses lawsuit against CAIR - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdUtxUGk3UmpMVjF5T1BJN0s0SzVnRF9Pa1FNVDJPWmZYbmhFQXQzNGVaZGlaU2x4RE5TUzZTZk96a1dBSGg1cDhPejVnRlZNNDBBSlM1REpTN2Z3MEs3WjBQM0VYVXJWN3MzNGI0U3pYeVh5Q09hMXB4LUd3cm5fT00wMlQ1N2FoeldEdDZweXpXU0VheUN3bHE5VjRjT2Rxb0pWeXpKRjJld1VPcjQ4RzBFSDdfcG1XU3N3TGR3M3VVWUxLclFF0gHPAUFVX3lxTE9ORjIxUU1pR25Pa2NDNklfcGlhX1dJTnpFRmxPcmlkYTU4TXFlaWtleXpHcTdTWTB5LWNFeGxQNXFVM29zaUhEcmZfM2JwREpYMUxsS2tUNGtkZnJxdnNpN0NRbUJGdTNhcm5GM3Fjc3h2czUycl9ZTEVmdC0xOWxMU1J1YVFaMEJoOVI3elUwWml6ZElaRlVWUHU4NU1UVlpjVk44dnZ4SG9WZC1aR21UMEZXblFqSTlGSEhXdFRyU2UyVVFoUkZacDZsbXdkaw?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 21:23:40 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Senate loser Ken Paxton not cooperating with Dem successor: report - Raw Story",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45VGJjalVrWmVlRDh6YTdUMmRuQkVYX1BRN1FYWVJnQWxnSUJMa3hZdTdvd1NPdmJmckNwZTQ3eVh0OTlsSE1pREw0TFlLYnhqM0FJRzY2Y0xZb2_SAW5BVV95cUxNVnJ2YWc2Nl9qVml6ZmN5OFFBRWM3SjRZZWFSR0djS3BCc1E3R3ZkUGRpbWhib1dUNE83em1sLWM2ZXQ4T3h6ZjJXQU1rS2dVTTJiYmJwZWFqN1VfQXJHTnRxUy1qNWJTaTF2N3gzQQ?oc=5",
-      "pubDate": "Tue, 17 Nov 2026 14:03:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Texas Democrats have started laying out their agenda. Where might Republicans draw the line? - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOekE3SmdldFF3LW83MjV2YWtRa0ktUmNZSEZJa0ZYUGlhckZKemhEdFBPdUNfQ3dUMzU1U1RybkZ2aGNuTkpjU0xad1B5NHZQNEItWUdCVzdRQXZqejlBamtITDJObnlQY05OakJkZVgxNlUwalRoSlVkUnh0U0ZXQ3lkN2JNNWotZ1A0dnc0OHd0dEh0cnJ2ZWNQNXZHUFppTm5JYW54YVd6czcyczFTdXlja3E1MjhlVFJYX1VUNlZ1MUt5OVkxajlZZjBJc1JYNXZZdGxaRGFaRHY4UEstZlZ3WEFiTW1OUUlGazhDRFJBbkYyX3ZiYWtlc9IBgwJBVV95cUxQY1dDeGhMeVEtYWx6TmR1RERfSWt5b3A5UTNlRnZ2SG9qWGpUbW5SZFgtZG9jUkhEajNkX2xJaVp2aHdEb3JveGpEdEUxVHZ6NWVUWlFycTUtcm1wWW9QZzRYY3E0bUVFbDgzcVFBSlAyWDdoRm9NSmRwWHhWOE91bW5RaEc3eXMwMFQyU09MSW5ublhERDlsQmpoR1ZldVhtVW9YVndpbkpITnhIQXFMSE9nMk01TXZ1c0IxUE12NDR1Y3BodzlfejNjcXY5NTBtemZGTnNSaThXUnVfNGktNHdpLVhtZWh4SGJqTHZ2SEdDVFZpdHFYWi1sT3RoTm40NDFV?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 16:28:21 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 8,
-      "matchedKeywords": [
-        "texas democrat",
-        "texas democrats"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "How far will Harris County cooperate with ICE? A decision is still pending. - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdjcwT2RzQXdCeTV1SFR2WFhYV1pCWWRmbjhfUHhqZkNUWHBzX0JrZGJJbVQ1T29qLWhqcGpMOUtCeF9sZUtFek5oV2c0Ui1NLVN6eWV0MFpVeUxoUjVxcGFUZTh4UDZ2R0xxWDhRVk1FSEpSWUdHdUxSMUcwUDdGak4yWjJoNTFubkh1WEk3Y1FRejNUTTNoTW9QbDFuUEUwOGNvSzUtZnpnWW5EOUFHN1daeWdia2RU?oc=5",
-      "pubDate": "Tue, 17 Nov 2026 14:02:46 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 4,
-      "matchedKeywords": [
-        "harris county"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Texas Attorney General Drops Lawsuit Aiming to Ban Muslim Civil Rights Group - Truthout",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa19EaG5ocEhiQzFaSU50U3dtTTdGbFBOYTFPNjVFWFlhVGJjNkQ0Y2pkSWZhVklhbGpERVJ5aUc3RFVMSnFHTHRWX3RjRnhIdGVJUjhoVFJYMk9MM0s1X2haYzJVcGpNS1UzUW9fajc2NTUzd1AxalpaeUFKVjhmWllPa1lUYk1GSnFsUkduenhzZ2dXaTFIYnFVaHJhRDZPWm9LOFNOa09BQUk?oc=5",
-      "pubDate": "Tue, 17 Nov 2026 17:33:23 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 3,
-      "matchedKeywords": [
-        "attorney general"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
     "2026-W47": {
-      "both": {
-        "positive": 1,
-        "negative": 0,
-        "total": 2
-      },
       "talarico": {
         "positive": 2,
         "negative": 1,
+        "total": 24
+      },
+      "paxton": {
+        "positive": 0,
+        "negative": 13,
         "total": 22
       },
       "general": {
         "positive": 1,
         "negative": 2,
-        "total": 20
+        "total": 22
       },
-      "paxton": {
-        "positive": 0,
-        "negative": 12,
-        "total": 21
+      "both": {
+        "positive": 1,
+        "negative": 0,
+        "total": 2
       }
     },
     "2026-W16": {
@@ -2019,8 +2019,8 @@
     "2026-W46": {
       "general": {
         "positive": 2,
-        "negative": 2,
-        "total": 18
+        "negative": 1,
+        "total": 15
       },
       "both": {
         "positive": 0,
@@ -2034,8 +2034,8 @@
       },
       "paxton": {
         "positive": 0,
-        "negative": 6,
-        "total": 11
+        "negative": 5,
+        "total": 9
       }
     }
   }
