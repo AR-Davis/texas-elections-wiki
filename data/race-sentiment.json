@@ -1,9 +1,68 @@
 {
-  "analyzedAt": "2026-11-24T04:15:34.009Z",
-  "newsFetchedAt": "2026-11-24T01:33:27.787Z",
+  "analyzedAt": "2026-11-24T15:09:47.840Z",
+  "newsFetchedAt": "2026-11-24T12:14:53.102Z",
   "totalAnalyzed": 100,
-  "newThisRun": 5,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Texas Attorney General Ken Paxton drops lawsuits accusing doctors of illegally providing transgender youth care - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOFBxTHR2d1o5U3RNREU1YkNYYTZESFBnYnp3bEJqT3NRZkd3SU0zMTA2X3ZhREt5TUM2SkFfaTNXcnZfeDBRbEFZQ0hfMkpha3ZnZktlWDJPY0R4ODR0dlAzYTY3dlJ6S1QzVHRVUHNVcGh6aDNLM0ZOQjBHYnUyM1hSSzBpYkNtaDZoNzJNYnlPbXB6SmJaNkNyQUJua2dtc2FzT05xc2YxZ2Nvb29fQVFZaEJ1Y3VuY0dyRUR0QTRxU2c?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 00:42:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton",
+        "attorney general"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Paxton drops suits against two Texas doctors over transgender care as he prepares to leave office - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNTlk3RUQ4Y3RPV3dyQ0VsUGJwcVRERmpjQlFKNG9JRmdtWWo3VDhVS1NDcV8wMVpEQ0sxUHdQdzFDdkcxcUthYi1ZeXctWVlucTlwYWNvaWllMG8xR2c5QkxDMU02Q2ZIMGNHMnFmNzNGODE2blRkZjFnajU4d2ZvVnYwT0NvSjFzVklmd3Q0M20wZGxfS0d1NWdLT1Z0dWtIMzR2dlNOOV8yUU1seHd0SVJrQ2NPdjlHcW1WLW1US3lWVTdLWlZSSGxNT1VkRFV5dDA5UkRmWjB4TG9SOF9UNTMzakJLY01VZzNpLVNLUFpUejVhZ2FvbGVWcUppMlRrNmfSAYICQVVfeXFMTU5ZN0VEOGN0T1d3ckNFbFBicHFUREZqY0JRSjRvSUZnbVlqN1Q4VUtTQ3FfMDFaRENLMVB3UHcxQ3ZHMXFLYWItWXl3LVlZbnE5cGFjb2lpZTBvMUdnOUJMQzFNNkNmSDBjRzJxZjczRjgxNm5UZGYxZ2o1OHdmb1Z2ME9Db0oxc1ZJZnd0NDNtMGRsX0tHdTVnS09WdHVrSDM0dnZTTjlfMlFNbHh3dElSa0NjT3Y5R3FtVi1tVEt5VlU3S1pWUkhsTU9VZERVeXQwOVJEZloweExvUjhfVDUzM2pCS2NNVWczaS1TS1BaVHo1YWdhb2xlVnFKaTJUazZn?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 14:04:48 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 7,
+      "matchedKeywords": [
+        "paxton"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Talarico’s Medicare buy-in mirrors Texas doctor lobby’s stance, not Democratic base - njtoday.news",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdE1CcVhCWU5QM21MODJDLUQwWlYwYjZKdGgwaHg2RzlKWTJRY2hlemN4aHJQbW1vNGlRb1d5dGtKNEZ3ZnhXaUVDaEFRdzZERS1RMGR6M1EtZ2RNYjNuQ3gzdzg5a2w1NHVRSW5DYWVBSkVYYTBiNGJhbFJ1RWpfY19Uc0FlZUhvVEJyNUp0ZEdINFAwcjFrMW12aTZCN19acmpRX0YxLVhENzEwUWplMlNqSQ?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 07:13:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Blonde Texas Cheerleader Caught Trying to Avoid Picture With Senator James Talarico at Arch Manning's Last Home Game - Yahoo Sports",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORERGZ2lDMFJwaHktWTE4cmNFUnNkelhKN3h3bHNVZFhsQjFrdUo0aW5QRGZSb2FGRlI0TG04VjZ1TkVoenVnZlJsMTBSMThqUHdEdEh1akh1N21NcGFtZFdHZlZuV3hnRDJMNXhkX3Q5RmtwNXF4TVhHeHpaQkhZX2ZjNGFyNjEzaUV6SFhMUTg?oc=5",
@@ -1924,79 +1983,19 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "Ken Paxton renews lawsuit against Houston over HPD-ICE executive order - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRzZ0VTc4RGV3X2VQellNcmZBX0lUMERIdEJJUGFHWE95aC1VdU5MNUZ5ckx2NWxFcHlIZkV5eFRsa1ItNlNQSl9XemFPNUNjS283U3JiSmVKVVdWcVVoVk10SDNDYnJ3Qlp1YUt5VmFQS0pVaUVjYXBxaUZCbGM5ZmtiZXpHMklrQUZRa3d4Wnl1Q1hhaDVWVk0tX0lINXdXZ1ZpWUNMTDVVemlvMjByTVpsalpSV3lmNm9RelFB?oc=5",
-      "pubDate": "Tue, 17 Nov 2026 20:18:57 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Ken Paxton’s office drops lawsuit seeking to ban Muslim civil rights group in Texas - KVUE",
-      "link": "https://news.google.com/rss/articles/CBMivARBVV95cUxNMV9IZWVkNGtmSmhMR1JjMXJ1S2NtZFZkSGIyZ1dkcGxxQXI3amE5ZVgteGpCVWhyc3ViT2RxRkM4eFM0YUNVS09wVW1NUXZrVnlvbFFQMm83dFpnbTVvNkphN1JwcGJKVWwyZzRLN24zaDUwcjY4Q3o1ZV93bTRGcldEMEQ0Rk44Rmc5aHJwNnR4OVV5cnN5Sm9CQ1BNaS11TVJFVjQ5eEZYZVptOXQ1ZUk2VWE1bWh3VlZQNzdVdDlKaWk5djF0eEJlbzJYeGlTOTZhREg2WGhseVV3N0JLbHNpN3dlZXhZeW1KNmNKTDJtcERSVE05TnRMRWV3OWVCVDBHcUZfMEFWWndqbmRhYVJKZ2g3dkpOaTZVcEtUMEl4RlRxbkhxUUl6ODJqaW5rTGRfQVpVdjYtbDFvaTJaV2lHLWxWNEtSSHViY3lwSTBBUXh5ZGttUFJpYUpVWTVlZzM4YzFCanpGU01RTW5qM19hOV8teWhCdWk3TVMzbXdrcmc4akZOWjg5ZkN2dzVpbktuSjJESHZSWXE0dkoxVXY5R3RwbjZTYU5EMVpXTkNZR2tjMTVxU0RsMU1VOWJ0aTBzVVNLblQzMnBlVFZma0Q0eW5rVFVvQVZpTmY2UWZqS3FyZVNZNGszU3daZ2REeXVNTjRWa3VsaUs2aHBvaGJNS0FaUHp1YW9NVUxDQnVmY1p6bHZZRVlJbVRQdEZMU0FXWTJpUVZoQUpqeG9XLVF5NGdSSWQzcUdJeA?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 08:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "The many meanings of James Talarico’s cowboy boots - Northwest Arkansas Democrat-Gazette",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMGI1ajV5R3FGMHpVU0NoU1c4azZESUprZUtzbFFFY1JUNHM1QUw5Y3NxcFhiWTRFYTBWajZfQ0VSeW13cmo4Ym9YZjMzQUFLU1pMdDJCMzhYdHhnekZ1VC1TaUgtVEhMcjNCRW1VOTVXYTNSaXRjMTMxZTl6Z0JFZ1NSeGQ2NXVXRGs1eFJkVUZ3OXJqSWJtTA?oc=5",
-      "pubDate": "Sun, 15 Nov 2026 09:25:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
     "2026-W47": {
+      "paxton": {
+        "positive": 0,
+        "negative": 15,
+        "total": 24
+      },
       "talarico": {
         "positive": 2,
         "negative": 1,
-        "total": 24
-      },
-      "paxton": {
-        "positive": 0,
-        "negative": 13,
-        "total": 22
+        "total": 25
       },
       "general": {
         "positive": 1,
@@ -2030,12 +2029,12 @@
       "talarico": {
         "positive": 1,
         "negative": 0,
-        "total": 3
+        "total": 2
       },
       "paxton": {
         "positive": 0,
-        "negative": 5,
-        "total": 9
+        "negative": 3,
+        "total": 7
       }
     }
   }
