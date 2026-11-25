@@ -1,9 +1,130 @@
 {
-  "analyzedAt": "2026-11-25T08:12:35.880Z",
-  "newsFetchedAt": "2026-11-25T05:18:37.686Z",
+  "analyzedAt": "2026-11-25T18:47:05.075Z",
+  "newsFetchedAt": "2026-11-25T15:56:35.313Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 6,
   "stories": [
+    {
+      "title": "Trump and Paxton attack Texas Senate candidate Talarico for absence from the campaign trail - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVGlUZlFrbnBNSGVINWRvajE4UkFhbDBWbi1JTnZyWUdGSzNYV214TFF0RVZNSnNhdkVEQ3ZRbjNOWmZ4b19Rc1dUbjJOV2x5U2NVYkZpVjJsY3ZGODF4N2gtZEkwblNvZFBqcHhYWDdtZUNzd1V3OHlNUTJHeHZ2VW1pcnRBSmRTdTZtOWZsLWE5VUdPVl9JeENPZERWOGpIUUZRR1hRM0ZaNEHSAbABQVVfeXFMTTVsclpzdmJJenRIUm80WmQ1VXZQWEY0ZEpHeGxUVXVjREVrejR1Y1J1X2RCY1FpbnRzZjVEa29sWGF2UWY5amhhOTh2SGt5VTlHX3cwV2laNkZ4N1duZENxcEF1U1RpajMyNzZ4WWd4Z3M1Y3NFajloNVp4X2VXZE81SldKX3hPcjBCbDBMZFlnTUlWNWhtdnRFNEwwLWg4WHhFSktIM01mUmJmencwa3U?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 09:57:27 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 16,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "texas senate"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "James Talarico's Texas Victory Shows That the Left Must Rethink Its Relationship With Faith - TheWire.in",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTXZlSFZKczRGYWVQajNObVYxUXI0WVB4RFEtQ3MyMWU0UzhTa1RTMXNTdW4yeFhaMUFZNnprQTVOZXkyb2JZTzZoeWxRNS1Gbk0tcWNLaGJwUGlRa2prYllRaUhzWWVtMU4zYlFGUWw4SFBTYzVtMUY0dGQ5X2NUbWotalEzcjRXdzNlSzBhWFN5emIzUUhNa01pNTRUZHhjbGVFdW11dUY5MTktUU9Xcm1SOTVHUkNEZVBvLWtGQ2ZpcF9zakgw?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 12:57:22 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas cheerleader appears to skip photo with James Talarico - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS0ZtbldGTTNZQVZuclJMWTd2SkpLTjdIQ2JsUTBTT04tMU1ZZ0pLX3dLdkxDeXZ6UG1XMGZJUU9HM2wtNkZYdWRoZWFuUXRLRkhxSDYwSWViaTFUemNVMmRxSC1aSTZGUmQyY3J5T3FjLXlXY1NvNHdfS3BPUDNLV2trbHhNa1RWSEhzb2pR?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 13:00:43 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Who Is James Talarico’s Girlfriend? What to Know About Brianna Menard - People.com",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE91d09OQW41REtJTkFfWjRpcm95NzJtdDZ4N1ZlZ0tGWW5mdVZNdmwtb1YzZEJBeUFjX3laMy1oa1FyeFpfWXFIZUFkWElmMmpHcXhobzBma0xOLXRUWWRxTGFtZVoyM0Etc0R2MnQ4QjFwdw?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 14:44:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Can Texas Democrats set aside retribution and work for Texans? - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZEE3aHBqYkxwMG9RVy1zSk1wWEoyM1c4ck1LaUd5amFPMUdJWmFrOG9WR3FfN2hUelpURWJzcjJEd2FxNG9jWHpITVU1X2JSa2xydnZNV3pBQTJNTFZKSGxLdzI2N3JrWk5NZ3o5c0lEOEtvTXpZdDRFaXNvWEJBX1pKd1RMTDJCWjBlNE5ULV9vTGlkMTBTX2R4Ml9vcUpwMnM4XzhSeGpGZUtWWFF0dWJwZkhLUGdrTnZacw?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 12:08:29 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 8,
+      "matchedKeywords": [
+        "texas democrat",
+        "texas democrats"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas Democrats are about to take power. Here’s what to expect - Fort Worth Star-Telegram",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNjNWdTRnaEZaeDdSaFZvMmk0Y01iT1JUUGdLODJJekpBZGVsaFpKT29wNVNCZkZaN2E5Vl9pUXd3cy1KOXpIVVBJUkotQTJSX3dVWWphTXpfNVgxOHRfMmFIYjh0eWZTcHgzaEVvQ19lQ0psMjNoR0Q0bExEamtjNmpRdi04by0wLVZ6TlpuUzUteHFERXfSAZYBQVVfeXFMUE1LUG9rMGRuWkR1a05KX205SHhtaERtVHFGb2ZXNGFrbHZfeGVnU3IyWFhjYU5paEp0MmhqcFZYWnVuTmxzN18xdHZ3djVQdTlxX3BuSV9YQWI5bVN1REt1Wk9HQTV1eW9jWlhIUTNRQUxzMG5XOUJSWmstYi1zeEhGckNCbDZZcFBJd3NCRHJDcXVWQXlB?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 10:55:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 8,
+      "matchedKeywords": [
+        "texas democrat",
+        "texas democrats"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Texas 2026 live primary election results: Cornyn and Paxton headed to runoff, Talarico advances - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaDdzclZQZjY4dW9wTl93S3JKZ2ZsbUlnTDBnNVlKb0p3SU0zRXI2V2Z3QjJJYmNKc1pzUFhlTjdURnIxelRSYVJEeHJITzRkZUxvdDdTR0F3NW1lNks0M1RaRWduUDEyOF9UbWVlcmhtejRDUU8zYzVraFdZRkJ1WDExSDU5SElJazdsVllLdEFNd9IBlwFBVV95cUxPQlR3VjMwVnBZQW5FVEowci1LbTFoelgxYk1NQTRWaFRrTm5Wd0pKU0x4Y1gzN25TNGpCSDRuX25MZWtfZEJmcnFtN0xDRFRMTXduMXpLV1NHaU5hZzN2ekhDREJXc3FZaEJVOTZMcmVTSG1TV3o3QXJaREtreVBtelVWYzVSSV9HdFFmbXpOMlkyMFJ5TkIw?oc=5",
@@ -1862,145 +1983,24 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "Outgoing Sen. John Cornyn gives James Talarico a parting gift - Wonderwall",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPN1pWT21JYlBhSFdQVnRSV3BVR1FwRTNaUUl0cGdOLVdGU0RrZ25xRGIxN2FpOFg5UDUyNHB3MWF1d0ZpcExZZmxUeGowYTJEN1BkdXlPV1l6cDY3RWUzdjlUZmpXaDFvdmg1T2tOeUxaaTAzbk5XOTc4REtxWU1FWm9RVjdxMzJaMmhONlRsZklSelF5em1kZjgxTEc2Q1hrYzIxQjBjaDRtOHNjaW9seWkwcHpVd3E0bW9McDZqUjJybWZJN0FTR3ZFc1EzNTlwOFp6TUxQZTNDTnhSLVJ2Q0haQlVaQU9y?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 00:28:53 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 20,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "cornyn",
-        "john cornyn"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W47",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "AG Ken Paxton’s to-do list: dropping several politically charged lawsuits - KERA News Breakthroughs",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcjJQT3VvRF8wRVU5OXJFRU9xUVctNnFSWnV2ZnNjc213UVliX1ktMnE0WmwxWEdEVUpwSUhJdEhVRUhqRzBadF9Vbjg0bElNdFM0ZXdfcUZPcldCQ0FkakRQQ2ZfcnpHeUtnbzBZYVhzbldTbUd1YVU5Vi1qaDluWDVuNmlSNTlzaXE3UzhRbmxFak9MSTVOVS1xdDhEWm8tazVxdi1qNA?oc=5",
-      "pubDate": "Wed, 18 Nov 2026 20:15:39 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Humiliated MAGA Star Ken Paxton Becomes the Ultimate Sore Loser - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQVBsTVNET2ZycjJ1OTZsdXlIRzViUDBRak1acndGZ21wRUlfeGxTZExHZFVEWkUyUEtnTGtWdWx5eUwzV3JpVXhQUlE1VldJNlZfYVVkQ3pPeVdXZGpLN2Z0MUhZRFJwbjJ2TENKcU54VmhvbmNKN29PVnlKN2w1dllZMUw5TkxlR1RmRTk5MXNqOVFFUGc?oc=5",
-      "pubDate": "Tue, 17 Nov 2026 15:49:50 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Sen. John Cornyn blocks Trump nominee for federal judge in Texas",
-      "link": "https://feeds.texastribune.org/link/16799/17527376/texas-john-cornyn-trump-judge-gaiser-blocked",
-      "pubDate": "Wed, 18 Nov 2026 21:31:34 +0000",
-      "feedSource": "texastribune",
-      "raceScore": 10,
-      "matchedKeywords": [
-        "cornyn",
-        "john cornyn"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Sen. John Cornyn blocks Trump nominee for federal judge in Texas - The Texas Tribune",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTlBQN0FkOUFoZG1xdG4zUlFuT2tqTXlTV0VhWXI1ZFZpRkQxOFdETTFuUS0zVVRPeVZJWl9EX0NHY29CczJ5M2lSd2hsZVQ5dlJ0VDdCVXNfMEdoWGxoVE00T29JRDljTThuNkluN1RRVi1KUDgtUV9jb2lQYmtLcHRtU2tGWUlQRk1sb2N3?oc=5",
-      "pubDate": "Wed, 18 Nov 2026 21:31:34 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 10,
-      "matchedKeywords": [
-        "cornyn",
-        "john cornyn"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Cornyn blocks top Justice Department official nominated for judicial vacancy in Texas - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc09QTjI0aktGSG9ERG9rTFd6X0swZkZBS3F6SHdVZjljUVBrZHAzd0Q3Z2RySUFvV01ZREJnSlZHSXBDaVFPNS16TzVpN3lFbHBJTHdObG5QTjQ4bUljb3BXb1g0dUlWaUo5MzJ5TmlYNC1nRVdWdVllRVhUTWpSREFjVlg2R0FNM004TVBXZFNaN1Rfaks3QnA1Y1RtZk54Zmdab3ZmR2g3VHFjZ1EySGpSTQ?oc=5",
-      "pubDate": "Wed, 18 Nov 2026 23:55:53 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "cornyn"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
     "2026-W47": {
       "both": {
         "positive": 1,
-        "negative": 0,
-        "total": 3
+        "negative": 1,
+        "total": 4
       },
       "talarico": {
         "positive": 3,
         "negative": 1,
-        "total": 31
+        "total": 33
       },
       "general": {
         "positive": 1,
         "negative": 2,
-        "total": 24
+        "total": 26
       },
       "paxton": {
         "positive": 0,
@@ -2019,7 +2019,7 @@
       "general": {
         "positive": 0,
         "negative": 1,
-        "total": 8
+        "total": 5
       },
       "both": {
         "positive": 0,
@@ -2033,8 +2033,8 @@
       },
       "paxton": {
         "positive": 0,
-        "negative": 1,
-        "total": 4
+        "negative": 0,
+        "total": 2
       }
     }
   }
