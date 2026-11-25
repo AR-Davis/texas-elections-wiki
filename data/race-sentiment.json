@@ -1,9 +1,168 @@
 {
-  "analyzedAt": "2026-11-24T15:09:47.840Z",
-  "newsFetchedAt": "2026-11-24T12:14:53.102Z",
+  "analyzedAt": "2026-11-25T00:01:48.031Z",
+  "newsFetchedAt": "2026-11-24T22:41:41.650Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 8,
   "stories": [
+    {
+      "title": "Ken Paxton drops Texas lawsuits against doctors accused of illegally providing trans youth care - PinkNews",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rNDB3REJKOWhkSTdMWjVLeHdQSWItZHV2S2lCTGVkR2JGellvR3dncWhwWGNtVzdEalJ4aXQ3eWY0dG5GTjJOb2l5VElQbTNHX2RMSTJSTTFnQ2pUdk9FN3RBUVhoTnE3ZTdSWlFpOVMydDZiTnc?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 18:22:55 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "James Talaricos Texas Victory Shows That the Left Must Rethink Its Relationship With Faith - TheWire.in",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVDhrMlNiQ3RpMlZXZFY5a2tHV3ZxMTl3a3BLeHd2eXhQWkdsWFBoaEZmaGFsem15R3BRVmxWLThyWWRFNV9PajIwQzQxS01GUk9welNWVkFSOHpEclh6czZfMU1VUWNIQmZyMDVwNHlBTUtQWk1ibVNtNVZGX1lsMmNZblltb2EwbGpGckVjenN3WlB2TjlLXzFQaDZESVd3SklveEt0elBELVBMMnRrZ3hjWExFNjdYQkHSAcwBQVVfeXFMUFdJRVRVVDlIUUpZOW9NYmFUQTJFTnJHTGZFRXJkeGJhWFJsVFN0YllfQk96enFIQjZfS1ExRmIwLVlibzRmbEZwUG9iVnZHWFNCRTM0VFRrLVNlZGFLRC03dFVmZHk1d3UydURyVzV6ZWlLUmUzNmQ0ejA0TGJ4V1NrTXB2akZGT3Nwb0hFejUxMTFKanhWZWdaemYtVnRRNWhBNG5NcjVUTzNWOWw0SWNJOGl2TVlNX0R5czZPeVQtcW5oRFBoRnU5NTlC?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 13:02:10 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas Longhorns Cheerleader Goes Viral For Snubbing James Talarico Sunday - The Spun",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTGR3ZEY2cENKTnFUVGJ1eloyUGRsaURPbl83OUNLb3FZSHNHU1lUSmhZQmMyZnpmQVkzOFFLS1VUZmNCM0RoTzc1TktzbWp3WXRVdFZocFlMUEwyVGQyU19GWkdhWVdvSVBtbW1tUkNWVWdBZ1hlN3RCSi1FOGpLWlVXWmxMZU9Mc1hSdk9PX1FuTjQ1VmpiOU1VbjR0NS1GLUMzTnpXZ0QxcGlKTTVJ?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 00:38:08 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "James Talarico surprises Texas Longhorns fans after historic Senate win. Another prominent Texas politician also spotted nearby - Operation Sports",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOQVpKaUdGODlHTUg4RnBUR1U4cnNMTndtdE05d2J4R0w3MUpGWEpVYUhpUDlDeWxJSF9GTDFZSnA2eDc1eGZvRGdBd1ZEQUZrMGZpdzdnVm5MREpYeU4yLVRYb2FwRHQ5cjJNTFZ3UHBQRHV4TW5ZZWgwTDQ1MDY1U2N2UGRac3lyck14V1YxSUV1ZzNwaEliLWxhb1RHN3RzOVlyYzlZSzhKUWF4SkJhdkNFeXpRSlJlWEN3Tm5Eb3dMRjI4LWQ0MTV0dGtGYWlhdm1qeGtwTEdIblpNV1JYaVppWnVKdXBWY1g2SnU5YU0?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 18:30:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "James Talarico's girlfriend Brianna Menard draws buzz at UT game - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORmV6SnIwMEgwYmhrcnFzYkwtc2hQQXcyV21kQi1FNHBXb2tSTWRmSGNkQnVXM3RlcHgzREJkLWpadllCSFdlQV9ZOWwybzFkZ25kWXpNMEZFR0ZtUm9pdW91clIzRDZqR1FXWXI0cEwwUkR2d3dPYllweDM2N0psM2d3OVZUZEJVX1pXODVQQlVRY3N3b0NOSi1ORjlhd3BCSkdPRzctZlh1VmZlN0pPRWx5czBGZVJQXzFJ?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 15:30:50 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Paxton abandons multiple cases as he departs Texas attorney general’s office - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbkJWWW9kUkhrNUNlSWhYMTBzX0xraGdkc3JlV2NLZVU4MlBFbnk3RDlTbFJKT1JUY0pUcDl4ZnM1eVZPSDY3U24wNVRaMEd3cXd5Y2F3NzBWX2o3bHJITWtkWm4tVWhaeUdXam0zWkFzeVo0V3cyUDE0UVhIbGhkWmF0MNIBiAFBVV95cUxOZHJuTnNGTWlvQmh4NGxGZkR6emFRYnlfZE41bWtDR3h1OHBsb0VtMTRXY01kdHlmRnM5ZEFEN3Rsd0dDdUx5ZzNRMVRaQy05WGJRU0JjY1VLemtiWUZvNFc2aDZaalhvcVJjb1liSXpsQk5GeEt4RGhUcEpyYk1HT0huaXUzWDZj?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 20:34:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 8,
+      "matchedKeywords": [
+        "paxton",
+        "attorney general"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Paxton drops series of high-profile Texas lawsuits after election loss - NBC 5 Dallas-Fort Worth",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMFZqUjJqcnFNUVJLSWpnMGR5NV9MU1dWZzlIeTI4OVF4M0M4R2VjZ01ISDdCVFJqWUl4TG5TYy11eUxLX1AweGowREpJc0tuUEQ4cnRxT0FBemFqRGJGajFRWGg4VzltQmp1QVNOcWdqT091NmxiSS03dEw3dnByVVRhRExETnJjSS1JTzhRZm5CSGVpeDhIWGFLWWhnZTZMbGY3dFB4OURXdnlDSVNYUjBiWEdQYWhRMUxXaTVTRC14a0lybVBuS3c5UdIB0wFBVV95cUxPT2tudnlDdnUtbGt3OV81RkNmS0k1MlN4MWxmOHlZYjZPeF9YdDVpSTZDRF82VWJGcnQxVUVQOE1SY3hEb0tPU1hLVlB2cUxXNXdydFYxNVNvNDV6aHR4bVhpNXpCb25YSGdDWE56ZlJYWXZKeTh4Y0p1QTg4WWx3RTEzZzJIYnpmUjM0bTVYWEo1ZFI1RnJiQWhhdnBncmE2Z2RTLTBiTnBnRlZHS0ZnOEozdDJUUFBFRHhRNXBiR0wtV19rYXJTZzhLLTFQaDBLOHJV?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 22:47:45 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 8,
+      "matchedKeywords": [
+        "paxton"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "After decades, Texas Democrats have political capital. This is how they plan to spend it - Hawaii Tribune-Herald",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUnZTWVAtWHpFenFRaG1jY2c4UFRVUkZrMGlBWUFnRTZOZDgtajRVdVpYbnJYUENaM0p3VFNmY1EyNElUTHVXUC00SFQ5enVFX2JhTTEzUWtJOFJqUGVEcFJnVTJhQ1Y1YUJRSVZtUTV6aExYVnBreUlUenA4TUVseDBzWFMxWk1ncE5Ga0tCcTBGZGV2OHJiT0JyQ1Zfc1ZsQzhMUFBfWFNVNDYzcHBnRklEWUI4MWR2aDN4U0gxaGVRZVZGTDVFaFRqSy1qaC11ZnUxWFhRWF9vNzhualI0SUpiV2trSWdf?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 10:05:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 7,
+      "matchedKeywords": [
+        "texas democrat",
+        "texas democrats"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Texas Attorney General Ken Paxton drops lawsuits accusing doctors of illegally providing transgender youth care - CBS News",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOFBxTHR2d1o5U3RNREU1YkNYYTZESFBnYnp3bEJqT3NRZkd3SU0zMTA2X3ZhREt5TUM2SkFfaTNXcnZfeDBRbEFZQ0hfMkpha3ZnZktlWDJPY0R4ODR0dlAzYTY3dlJ6S1QzVHRVUHNVcGh6aDNLM0ZOQjBHYnUyM1hSSzBpYkNtaDZoNzJNYnlPbXB6SmJaNkNyQUJua2dtc2FzT05xc2YxZ2Nvb29fQVFZaEJ1Y3VuY0dyRUR0QTRxU2c?oc=5",
@@ -1824,183 +1983,24 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "Texas Democrats have a chance to expand voting access. They still need Republicans’ support.",
-      "link": "https://feeds.texastribune.org/link/16799/17527010/texas-elections-voting-laws-legislation-online-voter-registration",
-      "pubDate": "Wed, 18 Nov 2026 11:00:00 +0000",
-      "feedSource": "texastribune",
-      "raceScore": 7,
-      "matchedKeywords": [
-        "texas democrat",
-        "texas democrats"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Paxton, Talarico race picked for audit as Texas adds scrutiny - El Paso Times",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVDJFTEpkWTE3TkdDd3p5Tk42by05aEI1aUNyN2JCR2pMSVRrbzBLRTllMVdpZVpFTmRDV19aaFRaek94ZFowc085MkxwUVhlZk5QbDNWVzdHWGhaM1VUVFBVY1hnZk5iR1JISF9lT3g2akVQME9rLV9vQ3FoRFgxMDluTDRKZlBzS1V6d2xFemdUVWNDeDk5X29XVlN4WURFdmNWeGdBbUJiSkpyLXdHcjNnN0lER3loWGszRkY0WkZFNk05NW1QUGVZNWVHeFhCRldiSzlLN3YzbVE?oc=5",
-      "pubDate": "Tue, 17 Nov 2026 18:12:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "talarico",
-        "paxton"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "John Cornyn’s Vendetta Against Trump Could Cost Texas An Excellent Judge - The Federalist",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM0psTXJhNzdWcng3a3UwTldjVFd4VTQ5Rk8tT2lnWUpwNHo5WXk2MlBOOVdRT3ZGdjg0LVJPVVplZHRnYkliaTdmdmVHQlRoM29Pci1sQXg2MTZZeGNHOF9xR3MzN1J1SmZ0RjFTc0hQSXZmQU8zdnZvZXdPSmJjQjU1N0lVcHlxZ0IzLVBndmtreEdoNnNDR205dDZILV9KYmxPS1RpelZjRXgwbWc?oc=5",
-      "pubDate": "Wed, 18 Nov 2026 00:13:19 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 10,
-      "matchedKeywords": [
-        "cornyn",
-        "john cornyn"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Texas Democrats push for immigration reform following party’s decisive victories - Spectrum News",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc1JNbEVxVFU3Yktyb0FkY19zcUtLQ2xSQU8tektHSGd2c0NTS3BSNXZuLWpERG9nNEktSFM3NWRSN3VRcUI2QmpEdW1tQzQ5dE1NbEJyNENPTF9TWm5ZNjdZYUhmWDFxQ29XeGZVUnpLM2laSHhObmJBMzlWcFNhRFpHMlNjb0xlMEdGX050YXZMQ2NkaUVqUm1sVlhiOFhUUGt3dF9rYlp1UTczOGlrYlpn?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 21:19:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 7,
-      "matchedKeywords": [
-        "texas democrat",
-        "texas democrats"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "‘It’s the economy, stupid’: Texas GOP chair reflects on massive statewide losses - Dallas News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLXdDc1RTdVF5RGlQMHRUR1V4UXk0RF9YXzNYOG5ubWFOODBDc0I3dGFwbTExWHBfbTFxNVdDYlRkY2dhS1B2bHZtOGxpbnF3ZDczSm1kMDJYSDJ1NERub2lRc3Q1NG9kczgyaWV0Wkx4V2RWb29rVmlQeURjSWpRUGhpUFNNU3BBekdPSHppbG1PZUhKT2xqbXhSOHNsM19ZWWxwNHBzOFhfckktekg4?oc=5",
-      "pubDate": "Tue, 17 Nov 2026 21:19:04 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas gop"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Talarico lays out 'super-agenda' against 'deep spiritual corruption' after Democratic wins - Christian Post",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR3VMbWlQY0xlX3lYR1BsZ1FQTlhsNUVxZER5MDhrejkxLWI1RXota1RZV3FPRUFpS1ZOLUJrWkJOVVZHcnppTE5nVmNocnl5RVk4UjNrd1ZQZ1Jwc1pydzBqbDlHSExtUEE0UGY3N2htckxycU9IRHFqVFVib2VVWVJRd3hxcHpKZ2V2VjVnM05lU2NKRjVLRmNyUjhZZ00?oc=5",
-      "pubDate": "Tue, 17 Nov 2026 10:40:25 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "talarico"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Cornyn blames Trump, Paxton for Texas Republicans’ election disaster - Washington Times",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRzByVFR5YnFENzBvcnZqTFhydWZKTEFZdy1jMlBPSTBLVlNKSzIwSWNxdFVjTDBLeHFweEpKaXJxVVBTbE5TbFgzaGVkNTdoNjlaRXk4YlQ0M21hYmgydE1mY2RnbWNMOFBRQ1VKSXF3ZWtneXJ0aDFoUFdYTnRTSEpGOHFudVZvSmdWVWJFQW81LVZHWlhXajBlalQwUGlXNzBlRVFVQW9GYW41MEZ5b1d3Z1FKUmlQOXAw?oc=5",
-      "pubDate": "Tue, 17 Nov 2026 19:00:14 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "paxton",
-        "cornyn",
-        "texas republican"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Ken Paxton drops out of doctor’s lawsuit against the Texas Medical Board",
-      "link": "https://feeds.texastribune.org/link/16799/17526673/texas-attorney-general-ken-paxton-mary-talley-bowden",
-      "pubDate": "Tue, 17 Nov 2026 22:57:28 +0000",
-      "feedSource": "texastribune",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
     "2026-W47": {
       "paxton": {
         "positive": 0,
-        "negative": 15,
-        "total": 24
+        "negative": 17,
+        "total": 27
       },
       "talarico": {
-        "positive": 2,
+        "positive": 3,
         "negative": 1,
-        "total": 25
+        "total": 29
       },
       "general": {
         "positive": 1,
         "negative": 2,
-        "total": 22
+        "total": 23
       },
       "both": {
         "positive": 1,
@@ -2017,24 +2017,24 @@
     },
     "2026-W46": {
       "general": {
-        "positive": 2,
+        "positive": 1,
         "negative": 1,
-        "total": 15
+        "total": 11
       },
       "both": {
         "positive": 0,
         "negative": 0,
-        "total": 2
+        "total": 1
       },
       "talarico": {
-        "positive": 1,
+        "positive": 0,
         "negative": 0,
-        "total": 2
+        "total": 1
       },
       "paxton": {
         "positive": 0,
-        "negative": 3,
-        "total": 7
+        "negative": 2,
+        "total": 5
       }
     }
   }
