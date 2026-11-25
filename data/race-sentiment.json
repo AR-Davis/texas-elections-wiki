@@ -1,9 +1,90 @@
 {
-  "analyzedAt": "2026-11-25T00:01:48.031Z",
-  "newsFetchedAt": "2026-11-24T22:41:41.650Z",
+  "analyzedAt": "2026-11-25T08:12:35.880Z",
+  "newsFetchedAt": "2026-11-25T05:18:37.686Z",
   "totalAnalyzed": 100,
-  "newThisRun": 8,
+  "newThisRun": 4,
   "stories": [
+    {
+      "title": "Texas 2026 live primary election results: Cornyn and Paxton headed to runoff, Talarico advances - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaDdzclZQZjY4dW9wTl93S3JKZ2ZsbUlnTDBnNVlKb0p3SU0zRXI2V2Z3QjJJYmNKc1pzUFhlTjdURnIxelRSYVJEeHJITzRkZUxvdDdTR0F3NW1lNks0M1RaRWduUDEyOF9UbWVlcmhtejRDUU8zYzVraFdZRkJ1WDExSDU5SElJazdsVllLdEFNd9IBlwFBVV95cUxPQlR3VjMwVnBZQW5FVEowci1LbTFoelgxYk1NQTRWaFRrTm5Wd0pKU0x4Y1gzN25TNGpCSDRuX25MZWtfZEJmcnFtN0xDRFRMTXduMXpLV1NHaU5hZzN2ekhDREJXc3FZaEJVOTZMcmVTSG1TV3o3QXJaREtreVBtelVWYzVSSV9HdFFmbXpOMlkyMFJ5TkIw?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 03:07:57 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 15,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "cornyn"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "James Talarico's Mother Shares Photo With Girlfriend - SuaraGarut.ID",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tM3NLbjZ6SmEzX2ttb1laMVpkQmxlX2dCRmdPTmxUTTFMT0xKUkNDODNTSVN6R0ExcVZKcEhOWm50eUdreGZSUlFpMUs1TklUOFNpSXVvSUIwSkhhbTV6YkZIdGgwdjVXek9YNkJoZXlXUnM?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 14:26:20 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "James Talarico's Mother Shares Photo With Girlfriend - cwibc.co.id",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6R2hSWEFNRExGSG5jWkNxdk01UzNZc19NUzVacXRybW9xb1hHZjk0NTU0ajJxeHVKQVRZY3U3WkZVcXJZVnJBSzFpeEZ5aU9LcW04ZVVrcU1HVDdwYmE5U3Qzb0t1a1JGaVVJRHJ2YVI?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 14:15:03 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "After Decades, Texas Democrats Have Political Capital. This Is How They Plan to Spend It - GV Wire",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZWRqamd3eVNpS2hKV0x6ZllzelVNS0Y1dWJZQ19YU2djQmhDMkpTTHk1SVBkUlpsWHljc1hXd3hKeWdtNWFJVExnOEJ5c2g5WDd6aEcyd1VQaS04Z1BhRW9qY2c4ODhjRU1aYzdtTjNtM181U1UzdkREYzZmTjV3REtiYnlXdllpUnUyczA5VE5HVmdsMDdGUnlnaDRER0xPcWtRR09WRnlncFo3bTkyOGJfQVdZMG5y?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 20:51:02 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 7,
+      "matchedKeywords": [
+        "texas democrat",
+        "texas democrats"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Ken Paxton drops Texas lawsuits against doctors accused of illegally providing trans youth care - PinkNews",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rNDB3REJKOWhkSTdMWjVLeHdQSWItZHV2S2lCTGVkR2JGellvR3dncWhwWGNtVzdEalJ4aXQ3eWY0dG5GTjJOb2l5VElQbTNHX2RMSTJSTTFnQ2pUdk9FN3RBUVhoTnE3ZTdSWlFpOVMydDZiTnc?oc=5",
@@ -1902,110 +1983,29 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "Edison Finds Wide Podcast Reach Gap in Texas Senate Race - RADIO ONLINE",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMUJfdlpYZm03Zm9aN2JfdGRfUFNiN3VhdF8yVUlJTGJvVmhFSkpZZERidWdFZ1J4XzF6SFhGUVVjXzN3YWJBU1VQeFZMZERCWGtlbmFFdmFRUElQMEtIb21iTU5qX0ZtUzE2dDRrSVdrZ0xiXzAzUDhoUkxJRXdsTHI2TmJZSWhLWjhWZ1hpUFJERlVJNTF0MFRhMFV0U0EtSlBoNw?oc=5",
-      "pubDate": "Wed, 18 Nov 2026 17:27:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 16,
-      "matchedKeywords": [
-        "texas senate",
-        "senate race",
-        "texas senate race"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Ken Paxton Drops Lawsuit to Ban CAIR in Texas - The Daily Signal",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16eXduX0JzVkxfbnpPU28ySUdKVkduMnpKalJ2S0d3UTVhSVFpeHE0cjh5bVNaNkxKSnBmUndpeFBKRlhLQXBCdGlLVmJ2YTJEdkV2eXNPSHNwcXYtcmphM2syS3RRSk12bWJkb19NejNKZ2VzYjB5UnRHVQ?oc=5",
-      "pubDate": "Tue, 17 Nov 2026 23:05:44 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Texas Democrats have a chance to expand voting access. They still need Republicans’ support. - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQalkwMF9xVUNsb1ZmY0NEUXlpdkFKeFRCZ1IyUzVlY1RrSlRhc0JnZDlGZmowRGNaS1NfTjJkSGdhSktSYUdTRUJYYnRQdnh6MVNqaVphVW16VC1xYWVKaFF5VnhmVE12SVN1UmI3ZjNkbEk4eV9uMHZxdHdLN2k5V05GZVdOd2x4TnVZZDluWlBXOXc1eWlyRngxM1FKNlFiZjlkRTI2SlVqM0ZpU1Y5LVBtM0lVV05yV2ZCRUZ6UE40SThBZHh5VHB0MXpKek1JaXluQ2NlMkpEWEZpOU9SdFZLcXJ4N1RLcWplQXN3SkVOcm4tZVZScDlsNl9XbWZvM2fSAYICQVVfeXFMUGpZMDBfcVVDbG9WZmNDRFF5aXZBSnhUQmdSMlM1ZWNUa0pUYXNCZ2Q5RmZqMERjWktTX04yZEhnYUpLUmFHU0VCWGJ0UHZ4ejFTamlaYVVtelQtcWFlSmhReVZ4ZlRNdklTdVJiN2YzZGxJOHlfbjB2cXR3SzdpOVdORmVXTndseE51WWQ5blpQVzl3NXlpckZ4MTNRSjZRYmY5ZEUyNkpVajNGaVNWOS1QbTNJVVdOcldmQkVGelBONEk4QWR4eVRwdDF6SnpNSWl5bkNjZTJKRFhGaTlPUnRWS3FyeDdUS3FqZUFzd0pFTnJuLWVWUnA5bDZfV21mbzNn?oc=5",
-      "pubDate": "Wed, 18 Nov 2026 14:09:03 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 8,
-      "matchedKeywords": [
-        "texas democrat",
-        "texas democrats"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Trump made it more expensive for Texas Democrats to expand Medicaid - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWGhGT19sa094b1lLY3BIa0Y2YW9ZQXFuel96bWduRVlUSTNfNzZ6bkdzd1pFaXplM0hMaENMYnBEQmZHbDhrREl2eHI4eUFnX1JZanYxQ0Q2R1dKdHNpTG9WaWViRUk2aEdWRE10YTA4RF9JUmZDUVNyd0wtQzVFc3B5UDl0UzBLaHBodGZHZFVheVQ2MnFEbEVsNXlWLWRkSGNqSm9rQnRQWVVGdVJMajEzNjlqUUky?oc=5",
-      "pubDate": "Wed, 18 Nov 2026 12:09:55 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 8,
-      "matchedKeywords": [
-        "texas democrat",
-        "texas democrats"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
     "2026-W47": {
-      "paxton": {
-        "positive": 0,
-        "negative": 17,
-        "total": 27
+      "both": {
+        "positive": 1,
+        "negative": 0,
+        "total": 3
       },
       "talarico": {
         "positive": 3,
         "negative": 1,
-        "total": 29
+        "total": 31
       },
       "general": {
         "positive": 1,
         "negative": 2,
-        "total": 23
+        "total": 24
       },
-      "both": {
-        "positive": 1,
-        "negative": 0,
-        "total": 2
+      "paxton": {
+        "positive": 0,
+        "negative": 17,
+        "total": 27
       }
     },
     "2026-W16": {
@@ -2017,9 +2017,9 @@
     },
     "2026-W46": {
       "general": {
-        "positive": 1,
+        "positive": 0,
         "negative": 1,
-        "total": 11
+        "total": 8
       },
       "both": {
         "positive": 0,
@@ -2033,8 +2033,8 @@
       },
       "paxton": {
         "positive": 0,
-        "negative": 2,
-        "total": 5
+        "negative": 1,
+        "total": 4
       }
     }
   }
