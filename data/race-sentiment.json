@@ -1,9 +1,187 @@
 {
-  "analyzedAt": "2026-11-25T18:47:05.075Z",
-  "newsFetchedAt": "2026-11-25T15:56:35.313Z",
+  "analyzedAt": "2026-11-26T02:05:47.171Z",
+  "newsFetchedAt": "2026-11-26T00:08:40.223Z",
   "totalAnalyzed": 100,
-  "newThisRun": 6,
+  "newThisRun": 9,
   "stories": [
+    {
+      "title": "James Talarico, Ted Cruz unite to bring Donald Trump’s Space Academy to Texas - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWEtiemd0Rk9uVUN5b0hENWVOdTYxamlJT0IzMFJBdjRVdkZUOEJzVHJKWGIyQWs3a1NmbGFLSnVCUklRbVBQdjRqYi1hUnphSzByQUNmOHgyc2pfdHY2aU1kcVJWcU96a0dLLXlTcWh2QTJhNUFEaFltMEdRSVVLSlZRY3BsRnNodWxBRUVxX3FKWUFQNnE2OFpJcHg?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 19:39:31 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Sen. Ted Cruz and Sen.-elect James Talarico back Texas bid to host the new US Space Academy - KXXV",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU3poM01VdENTT3JMTW9QcVJBM01ncUZqT1Nvc2h1Z2RIM2lMb05hZnpDWW1GNEFtU0MtellLYmlDamFTZGdWMjU2TmZvaGZIaFI5MzZ1ajVKU1QwMEtPR2xDeTdTT2RRNmV5VTBfVHJyc3g5dG5uM3l3V0MwTnQwYS1Lb2d5M2dNbTJuRnpnY0RwS3NaOXlONVI2SlhaYklIc05uRUlqZGpCQzMydmJkbmJqd1VNZ1BGdHNDZkJmMGVoTkdV?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 17:19:36 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "In first show of unity, Cruz and Talarico endorse Texas bid for new U.S. Space Academy",
+      "link": "https://feeds.texastribune.org/link/16799/17540862/cruz-talarico-texas-space-academy",
+      "pubDate": "Wed, 25 Nov 2026 16:46:04 +0000",
+      "feedSource": "texastribune",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "‘We love Talarico’: Texas student section chants for James Talarico at Longhorns game - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVnh4OWFlZlhJeW1YVkQ4OHo2X0JzcVRUd1VTSW4xX25SV2ZIVEY4V3RkMUVLUEVfbk9yVlY5UTkyUUgtcXhVVFFfc2VXWkphVUtnYlZqRzhPNjBPLVdJbUtqT3Y4amRJWG1leG9xQmZ0NVBfVEVDamZScHRZb2ZfVWNiTmtCV1ZjejR0WQ?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 11:10:48 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "‘He’s got the juice’: James Talarico sparks reactions as stadium chants his name - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMGliV2FyN0F3X1NGSU15RUlmUjE1MTRFMVNwQ1NNd0loWEp2NmNaVjRQbF96OUEyQ0l5RzlSQkZzazhhdzBiN1NhcC1pT3ZobUZoQUZfUXo2dVlqdlhNOXlDaG1nZmxISmFYYUk3R080TVVVdDdtbEszMWt0VDBhSGNoOGxkYlE?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 12:00:18 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas Democrats assume office in January. Here's what to know - Fort Worth Star-Telegram",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTjdDdW9HTUtHdzFfZVg1VWtITm1HRkgtdEZwNm82YUE1T1JjVktGUWNTWEhnbjdSZy1WTlFjeTctbHBZNjllU2hzOUtGSlp2VDlnaHg3Q21oUk8tLTF2Vi1FQjAyR1hhWURsRFZzLW9VNFFRYVJnaERld1dpZ0toLTZVWXJ2RnUwLVVzNVlhSUduanNUc2fSAZYBQVVfeXFMUHZjV0ZUNk5YT2JNb1A2ejBsbmZrcnFqajYyeUdQbUJZTHBxMVVfdzlRRUU5ODd5S1FubllEbDhRS185ejJCLVZhWFJPLTh3NGRPY1lBWTQyODdhWXZyT3JPV2lETENtLUR4TEFqY2RzNDZMZnVuMTA1aU1OU0RvOEhjYnIxUEJUYXRrQmxVUzZpdUlmNjZR?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 20:53:31 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 8,
+      "matchedKeywords": [
+        "texas democrat",
+        "texas democrats"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "In first show of unity, Cruz and Talarico endorse Texas bid for new U.S. Space Academy - KXAN Austin",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMGY0WWgwRmVXTTUtd1pNalJaenRTWF9EeER0aG9uR2w1a3Q5cTJvdU02bk41LUVwQjZXUHJlUWY3M1JDT2xvcW9jT3E0eld1TnNnc25VSlhNZUdILWRuMkJ6VXBLMHZEOHZ5RldLTHhxdkRsSWNlVHFyRUEtOWZhNFg3UlpubzdDbWdnWWJB0gGTAUFVX3lxTE5LMmJzR2k1Wjg5YlRDYkg1QmxLRlVya3dEUW9hYnFueV9lTXV2ZWU0ZzdOZ0hiNDlrWmdhU1VQZlN5VXRfLS1zV1NOMndfTG5IYm9fVGI1bVJVNmJEOXpyMDhrTlQxSjBhSGRIcGQ3YmF4eENDMjctNGMydXJsZVNNN1hNN3FIU3NWaTVXUzlrSmk3bw?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 21:09:55 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 7,
+      "matchedKeywords": [
+        "talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "After decades, Texas Democrats have political capital. This is how they plan to spend it - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeU53dWdEVDJ2QmliNXl1TUJ4akkzYmtobXpsaVNUV0FRNHhQUXBBRjUta0ZxUGg3My13bFJ5VUxJUU9FVXNtOG82eE5fcTR0Q1hURUJCbmJEcjVPb1hmZFotZ0N5OVhlaUdSa2tMRWF3RGNDb1JaR2hPeWdpMDBTSVQ2MnFxNHYwa0o1T2JlTzduY0EwTU5aN1pmamdnT1YzSnEyNno3YndwaTNLbTlyTHM0aXZTMXJrVnZ6dkxmdzNqcU0?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 11:02:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 7,
+      "matchedKeywords": [
+        "texas democrat",
+        "texas democrats"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "In first show of unity, Cruz and Talarico endorse Texas bid for new U.S. Space Academy - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qY3NoRFMwdnpzdWVlVEFlOWtLNUVPRFl6VFVkdUEycnVpSVNkNm5tUkFQNjhYNkJEOGNrSVkwN0JWSEhKRWVVLWxEZURhQUNOTDJVU3FWWXNWV21yeDRDTTg2Nk5zNy0yM0hYQXdiTFZTVlJPU19BX1NnVm5DOVU?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 16:46:04 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Trump and Paxton attack Texas Senate candidate Talarico for absence from the campaign trail - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVGlUZlFrbnBNSGVINWRvajE4UkFhbDBWbi1JTnZyWUdGSzNYV214TFF0RVZNSnNhdkVEQ3ZRbjNOWmZ4b19Rc1dUbjJOV2x5U2NVYkZpVjJsY3ZGODF4N2gtZEkwblNvZFBqcHhYWDdtZUNzd1V3OHlNUTJHeHZ2VW1pcnRBSmRTdTZtOWZsLWE5VUdPVl9JeENPZERWOGpIUUZRR1hRM0ZaNEHSAbABQVVfeXFMTTVsclpzdmJJenRIUm80WmQ1VXZQWEY0ZEpHeGxUVXVjREVrejR1Y1J1X2RCY1FpbnRzZjVEa29sWGF2UWY5amhhOTh2SGt5VTlHX3cwV2laNkZ4N1duZENxcEF1U1RpajMyNzZ4WWd4Z3M1Y3NFajloNVp4X2VXZE81SldKX3hPcjBCbDBMZFlnTUlWNWhtdnRFNEwwLWg4WHhFSktIM01mUmJmencwa3U?oc=5",
@@ -1808,204 +1986,29 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "Ted Cruz says that he hasn't met James Talarico despite congratulating him on election night, has invited him to join him over coffee - primetimer.com",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPYUNRRlhZLUl5NjRubHlmMWFUMGQ4VGc0MXFqYmd1UjFPYVh3ak1UTVpXQndtdndudm9DY1hpNl9jeXcyVnBkUzduNGFoNEdQSzNzZGxPaGtaODhLekhKb1ZKc1UtU0hhQ1FSTmhCNUFEcV9iZ2U0Zm1CVDZlXzJ1eHE1OVJRYmZlNXN1aC1aRjA0V0lmcHBqNTh6djl2Zlk0TkpReTBHa2d4RnpZUXBtYjZyZVBYcjNGUzRQTVo3cW5GNlFGM3JmRm5MMUdsRW9yQVZnRFY3bHhwbFA4eHZvMGRkclhWdWlXUFRwbldraVp4RFpZMEE?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 14:42:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 11,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W47",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "US-NEWS-TEXASSENATE-TALARICO-FILEPIC-GET - Bryan College Station Eagle",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45U21mbDNFTWRCdVJnQXhZWGVqR1pWd3dIVW1HZnVmNVZURmpleWlOVUhCNzQyNlY0V0pSbGU2U1hnU3pTaHNDc0ZGMUFzcHpUSmw1TXdrc2pRUDlheWN6LVRoYTNuNzAyLWlpMG1DcFJwcHNjUDNR?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 09:35:32 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "talarico"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W47",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Curran: Where should Talarico go from here? - Dallas News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQk5ONWFSVnhTNWp6am9oTzY0Y3hEME55bWgzWnM3Rk4tdFI1LTZSSWZuaWN1OGZ1Z2N6X3NQT3dFNlZKX3lJMlBGQjJfMWl5UkZ6Y0ZoU09kMU5fWnZqRm9XRFNLVXhQMDNZcWItWG1ZU3BaZk9fTXFMZ2ZIdS1wZEZ1TlFEZGU0WllRUWJycDFVU3U1c05KRDFBcUE5YnZuV2QwQ2xXcHZfMC1FcWdfb0ZKaV8?oc=5",
-      "pubDate": "Tue, 17 Nov 2026 11:04:03 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "talarico"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Abbott, Paxton 'tough-on-crime' messaging didn't work. So what's next for Austin-area DAs? - KUT",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcDRRUHBuSkFhOTZTOFFEQ2h2RWM0eGhHY1BrVXJtMkU5eUlEY2EzNDhfZlNJSjR0WHlselVELUJEalRNM2hSaUk4a0JzOFg3SllwMHZmekVKMVlmNTJzYWxDOGRWVGlNQ19GZWFadkcxOHBVRmMwa05vdFdjVnpzQ3B0eWdUYURmQ3NmSlBR?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 19:40:53 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "paxton"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Texas Secretary of State launches first-of-its-kind audit of U.S. Senate election, newly required by state law - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOR1NHc05PbDdmbVNYWWtHTzFMZUN1M01QZURYQjQzeG80dEpEczVtYkdGMFI1ZXlXbThSZkpSRXhLWmc1UWI3Vjh4ODQ5WlpKMzRpWHQwZmRsT2J1ZXVrT2g2SHZScWdybFlZckhKSlJZM3dsMzMtS1VSYWxWdVBSUlp5QlYxNXB6bi1sQ3diT19QWUdvOFhuMi1JQ0NyMHZ1ajc2UVZETnUzZ2o4bGFQbVlUVzJnb2xPZUp4dVFaTUNEVGp5TmNnX0g3d25oVlp0WmNybE53WmViM1dMV1HSAd4BQVVfeXFMTkdTR3NOT2w3Zm1TWFlrR08xTGVDdTNNUGVEWEI0M3hvNHRKRHM1bWJHRjBSNWV5V204UmZKUkV4S1pnNVFiN1Y4eDg0OVpaSjM0aVh0MGZkbE9idWV1a09oNkh2UnFncmxZWXJISkpSWTN3bDMzLUtVUmFsVnVQUlJaeUJWMTVwem4tbEN3Yk9fUFlHbzhYbjItSUNDcjB2dWo3NlFWRE51M2dqOGxhUG1ZVFcyZ29sT2VKeHVRWk1DRFRqeU5jZ19IN3duaFZadFpjcmxOd1plYjNXTFdR?oc=5",
-      "pubDate": "Wed, 18 Nov 2026 22:55:29 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "senate election"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Cornyn blames Trump and Paxton for Texas Republican collapse - streamlinefeed.co.ke",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWXB5QjhIbUwxN3NzQjhobTJXcVozUlNlbzM4eXBmWm1qLXBIOUxodVE5LXNwekZYa3lET3c1VFhoNTNFWjJsaUgxVDlzWWRNbVJiTWtPVGpuZERhS1VDbVMwZGVQaUZickJxcUdPeUc1NTJNQk45eXhyQ2lHNEhXdlZRVktFWHhKR0hySURsa1RjZWVHVUh6d25R?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 08:25:57 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 13,
-      "matchedKeywords": [
-        "paxton",
-        "cornyn",
-        "texas republican"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W47",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Texas Democrats Make Key Transition Moves - The Texas Signal",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BVmJNbzNpM24wajJQallVaVVjS041bnpvaEpxTDFJSVA5MWl6LVp6X0UwekJEbzF0dXdsbXg5Q2paVXppRTRjeU5ZVF9PWGhIa0NZNl8zc2l2UHVtNk5nVzEtSDlRR05rOXNDSmpFdXFYRlRQ?oc=5",
-      "pubDate": "Tue, 17 Nov 2026 20:19:12 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 7,
-      "matchedKeywords": [
-        "texas democrat",
-        "texas democrats"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Trump blames Paxton's LAZY EYE for historic Texas rout - Daily Mail",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVzZyVENFcDU4YVdEWHZHRm15OGxjQzJqNWRiUGhaUlNNcmJZdS1xN3I1V0VmWHF1aHJoUWtlYWlselI0VE56VmY2TUIzbnUzVTZPM0h4MzRpWnptWk93dFlRREFER2ZnSksyeXp4Y1Y1by1Zd3FOWGZGeVd6OHdzRXZSNl9oRHo1QW82dGVtRXZEVWlkeWNUd0tvYzQ3eUc5elE?oc=5",
-      "pubDate": "Wed, 18 Nov 2026 16:55:57 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "paxton"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Texas Secretary of State launches first-of-its-kind audit of U.S. Senate election, newly required by state law - Houston Public Media",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ2hFWjdqSVgtemxHMm9vckpzTHpfdklIRFFES2dTR1hIc2pwNksyOHVEbzhWNllEMU1Ja2s0NG9kbUlyaWoteW9xc3UyczhvOWZrU0VDSkZqelVSQkVadGpFNXVjY3FIWF81QVVwZ2lNeG1TY1gzbnVoTnMxaTBlTXlEcGZfRU1EbEdGem1DRFBUd1hRQV92OUg5LUpmejBGSjQ3ai1YTkhQZUxubm9ENWRPOGR6TGJyUW5idXJ6SkJYU1R3TkNpUjhLeGdfcVhzMUFhWVVR0gHeAUFVX3lxTE5HU0dzTk9sN2ZtU1hZa0dPMUxlQ3UzTVBlRFhCNDN4bzR0SkRzNW1iR0YwUjVleVdtOFJmSlJFeEtaZzVRYjdWOHg4NDlaWkozNGlYdDBmZGxPYnVldWtPaDZIdlJxZ3JsWVlySEpKUlkzd2wzMy1LVVJhbFZ1UFJSWnlCVjE1cHpuLWxDd2JPX1BZR284WG4yLUlDQ3IwdnVqNzZRVkROdTNnajhsYVBtWVRXMmdvbE9lSnh1UVpNQ0RUanlOY2dfSDd3bmhWWnRaY3JsTndaZWIzV0xXUQ?oc=5",
-      "pubDate": "Wed, 18 Nov 2026 22:55:29 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "senate election"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
     "2026-W47": {
+      "talarico": {
+        "positive": 6,
+        "negative": 1,
+        "total": 38
+      },
+      "general": {
+        "positive": 1,
+        "negative": 2,
+        "total": 28
+      },
       "both": {
         "positive": 1,
         "negative": 1,
         "total": 4
       },
-      "talarico": {
-        "positive": 3,
-        "negative": 1,
-        "total": 33
-      },
-      "general": {
-        "positive": 1,
-        "negative": 2,
-        "total": 26
-      },
       "paxton": {
         "positive": 0,
         "negative": 17,
-        "total": 27
+        "total": 26
       }
     },
     "2026-W16": {
@@ -2019,22 +2022,12 @@
       "general": {
         "positive": 0,
         "negative": 1,
-        "total": 5
+        "total": 2
       },
       "both": {
         "positive": 0,
         "negative": 0,
         "total": 1
-      },
-      "talarico": {
-        "positive": 0,
-        "negative": 0,
-        "total": 1
-      },
-      "paxton": {
-        "positive": 0,
-        "negative": 0,
-        "total": 2
       }
     }
   }
