@@ -1,9 +1,69 @@
 {
-  "analyzedAt": "2026-11-26T02:05:47.171Z",
-  "newsFetchedAt": "2026-11-26T00:08:40.223Z",
+  "analyzedAt": "2026-11-26T11:21:56.923Z",
+  "newsFetchedAt": "2026-11-26T08:46:47.114Z",
   "totalAnalyzed": 100,
-  "newThisRun": 9,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "Texas Senator-elect James Talarico and Governor-elect Gina Hinojosa, both Democrats, cheer with their drinks while being surrounded by supporters at Whataburger in Austin - The Lufkin Daily News",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQS2hYUU1jYUJZTmdnb3BmWnRrTG1hNmxFRXl2cnJkZVpnUGtxMmhTMGp4aEJ4cEpaTUU5Z2h3VzFJcHVPaWU3Tmx5cURHT05QUV9wWFBsd0xPSm1BU2NBSjgxY1IwUzMteXh4OVVZTHN5cGJVdUV3eGhUUTRTNFh4MTk5VlJVZ2QwaUNoT1MtT3ljYmtYUUxUamVDYTZKN1NTc1JPT2NkbHBubTlBc3hEb2xhcU50d2lDUWFJME93Ny1GU1hQcEUwaldPb3BWRUd3YlJ2Z1N0RmotdEphd3c4VUhOdVZxRG9jNmF3Mi1ITi1SeUdKY1c2T1dxcDFrZWhMQ2dPTkJSZWp0MWZ1aG5LbWFpY2x4QlVtZ1FYR3lMdHZJaTA?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 11:11:46 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 13,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas cheerleader appears to avoid photo with James Talarico - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZDRTSmM2UzBqa0JvVlRwM3J1VG9yYjJOTmFuT3BDN3Jod1RPRk5Cc0EtODlTc1VVVUd4UV9LcVhmOW9rTUM0empJd1Jwdy1JanIwTmx2RlBBeXo4WU5vS2RQcGpLRGFmVmpBZjEyQS1XSkFiQ3R1MkJMdHpua05qS3luVTVKdGJtZU5qUUltYXdFYlBMbUFpay1mSnRUd3puSDB6b0RlaGk?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 19:17:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Ted Cruz and James Talarico Unite on Space Academy Bid After Election Clash - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRFE4eXVxNGNQUFpsNGNBZXRIM1l1cjRMamFnRnJ0N2ZjTWt6ZWs5a1hVd1NGXzh1cnpUVEJfT3ZuRFR1cG9HX0VKR0FNUXJWR3p1RE1KVFdBY3F6Xzl5VHZiUUhHOEZaUmdiNDBYblFqel9ZbTV3ZHZuVlhNUkltSGJoTEFNTkR5?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 23:12:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "James Talarico, Ted Cruz unite to bring Donald Trump’s Space Academy to Texas - Houston Chronicle",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWEtiemd0Rk9uVUN5b0hENWVOdTYxamlJT0IzMFJBdjRVdkZUOEJzVHJKWGIyQWs3a1NmbGFLSnVCUklRbVBQdjRqYi1hUnphSzByQUNmOHgyc2pfdHY2aU1kcVJWcU96a0dLLXlTcWh2QTJhNUFEaFltMEdRSVVLSlZRY3BsRnNodWxBRUVxX3FKWUFQNnE2OFpJcHg?oc=5",
@@ -1926,79 +1986,19 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "How Texas Republicans’ redistricting bet on Latino voters came up short",
-      "link": "https://feeds.texastribune.org/link/16799/17529146/texas-redistricting-2026-midterms-gop-congressional-map",
-      "pubDate": "Thu, 19 Nov 2026 11:00:00 +0000",
-      "feedSource": "texastribune",
-      "raceScore": 4,
-      "matchedKeywords": [
-        "texas republican"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W47",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Trump gives shocking excuse for Texas Republican’s massive midterm loss - AL.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY1pTRDcyS05pSUpGeGh6TmxMUU4tQjNZTDllWUNCdHBRUzhVaTlnNFFiQ3RLOXNSMjdnc01QTmhrcndqUm9GRDZlZW5OSEFJNGFaeE01SGh6VXA1ZFBsVk1XSXUyd3dycUlrd1c0ZG91eFVmREltSUdNckc2TzVpN004R3AwaHdVa2RGUVFHWFNFTGhJRHIwNFNTNUlCdXFvelk1UU1Zd3E1dzNFWGlEYg?oc=5",
-      "pubDate": "Wed, 18 Nov 2026 19:57:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 4,
-      "matchedKeywords": [
-        "texas republican"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "James Talarico | Texas, Senate Candidate, Ken Paxton Joe Rogan, Stephen Colbert, &amp; Biography - Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IREhFWWRfcWpQYk8zNnhxeU9jcWRrVzIxWlJfZXpFU2E2aU5qMDI2RE9rTTh0b1RYZEthRWZySHFrdEtXSThJZ1ZROU5aM3k0bVZTTHRXa1owbW83clF0MA?oc=5",
-      "pubDate": "Tue, 17 Nov 2026 08:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 23,
-      "matchedKeywords": [
-        "talarico",
-        "james talarico",
-        "paxton",
-        "ken paxton"
-      ],
-      "candidate": "both",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
     "2026-W47": {
       "talarico": {
-        "positive": 6,
+        "positive": 7,
         "negative": 1,
-        "total": 38
+        "total": 41
       },
       "general": {
         "positive": 1,
         "negative": 2,
-        "total": 28
+        "total": 27
       },
       "both": {
         "positive": 1,
@@ -2020,11 +2020,6 @@
     },
     "2026-W46": {
       "general": {
-        "positive": 0,
-        "negative": 1,
-        "total": 2
-      },
-      "both": {
         "positive": 0,
         "negative": 0,
         "total": 1
