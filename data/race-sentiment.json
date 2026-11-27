@@ -1,9 +1,69 @@
 {
-  "analyzedAt": "2026-11-26T20:26:53.586Z",
-  "newsFetchedAt": "2026-11-26T18:54:17.078Z",
+  "analyzedAt": "2026-11-27T03:07:29.563Z",
+  "newsFetchedAt": "2026-11-27T02:04:59.111Z",
   "totalAnalyzed": 100,
-  "newThisRun": 8,
+  "newThisRun": 3,
   "stories": [
+    {
+      "title": "James Talarico &amp; Girlfriend Brianna Menard Make Rare Public Appearance Together at Texas Football Game (Photo) - Just Jared",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQWZNalM4UFpRT0hfYU9HS2RUSnNFS0FKam40RXowdld6VDlxX3lGSDR3aFYwdWI0OUZqb2ROU3dlLVVjVUFWckgtUkxtZTFWMWlSY2ctVE9qMGd5c19pcHZiQnhRZzhMd2NSNUZUTFlzOG5yYzZVMlozVXozRlNiQ1hMZ215U25RY0R2ZHJLVDhPRjU0MUFSVVY4eVVHYnRadm95QkdQS213OU8zNlZNRGhqcUIxY0FEVDUtN2E5R2xnSktlLV9EY2diZjZuVDRWV0pBS3NQcFpNRVpw?oc=5",
+      "pubDate": "Thu, 26 Nov 2026 02:47:38 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W48",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas cheerleader appears to avoid photo with James Talarico - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNVZrcE5BUUxvcHhBMEVTTFR4NTJzRGxDUms0MFNNN0QySjJubjBVbXJITWNvNm5oWkJmU1d0N29jUl9XMkdFdElKRHQwWFc4ODhHWXhldDRtUEM1amZ5WlpyS3FVX2JfQ3pMWFhQTnFYRXNkY1RzbG9rVndTUnE1X1dkTjlyR2xEdzJFVTNFdHY1bHlJQmN3cF9FbVA3dw?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 19:17:57 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Top 3 things to know about James Talarico's girlfriend: 'She is my rock' - Christian Post",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY3NTMnlyVS1VRzF1NU9OX2lXdnF5dFdlVlNSLVRCYWgzcXUwWU1GaFBFaHNHRGllZUV5M0dWTm1IRS15NVJVZ3E5c1pXeUdtczY0bFRvU0c5NjRKTElXNFl2bWxRR3JmTFdWNHhTNkdYNXNzU1VYWlc0dlU2WlRXMTFVZFJiU0FkX29wMDZYa20zR2dKNG5rZGxGQUNkNm8?oc=5",
+      "pubDate": "Thu, 26 Nov 2026 11:02:08 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W48",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Ken Paxton unveils economic plan centered on tax breaks in U.S. Senate race - News From The States",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcklDeHhfV2x1RGM4blM0NDBQelB3SDBIbWRnc2ttS0xNMVluWl9FV2dXU19DN0tlSGwzODBDWE51Ny1tY0ExZW1NdXNReEZsZnhsRTk0M3lXWE8xTktVNE1xdlozMVdKcUJtX2dCZE84VVJvZ1dtQzN1dFlCTFY3TzZfWkMtd1ZaWUVPNFNLUmxOckpWcmE0WXVvQnBRVTh3NnBLRWZ1VkM1ajhCcGc?oc=5",
@@ -1933,75 +1993,16 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "Ken Paxton is abandoning controversial lawsuits as he leaves office. Why? - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYzRaN1daamxNcU5NeXp2NnNVZlk0SmZaTF9UVmFVMkpNUFRiSUZXeVZzVXpPZDQ3RFM0MzZRcUJvNXBFMnozbjNON3UwSFVxSkJ0TGptNm9vdjZOaEpUcVd5UUI5YVM3N294LW5faWNYQW5UY1RhWUJ5WDhNck5fMXhCaTJuWGtpNFJOQ1BGbW9mR2lxN1VZ?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 16:01:25 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W47",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Ken Paxton, feds agree to keep razor wire at Texas border for the next 30 years - The Texas Tribune",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSlZUU2twWXJLdjdUQ2tHSVZocWFIdEkwUkN4NHo0LWFxVFlyTHhIYUFSQWo4RUFTcUxyRnZqM3RBcnNPTWhEMFVHSGFHUjRkM1IyRWVKX1MxMmZuaHUzTWFoUnVxRURQUmpibWNQVWc0S3lwNy1IOGVFZTRsTzY5dkU3bjFSN2pS?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 02:30:25 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W47",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Austin's Chito Vela Resigns to Run for Texas Senate - Wisevoter",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUm9CcXVBY2Jkdnhia3NYam5LNURJc0FETlFCaWdmRlN6Yi1FUmhkaEk5V0pfRnpkMnYyV3F5Wi1QbWM0RUtwbjcxckpjMlhqcHNOdkg5MktTWHlBWTdRc2NlSVo3eGZIQVhiSkRWZmRNUHoyMEphWWw0R2tHelItMUV0ZW9hS2xYVE8wNGRJbXc4T3pHUWc?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 16:43:29 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 7,
-      "matchedKeywords": [
-        "texas senate"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W47",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
     "2026-W48": {
-      "paxton": {
+      "talarico": {
         "positive": 0,
         "negative": 0,
-        "total": 2
+        "total": 4
       },
-      "talarico": {
+      "paxton": {
         "positive": 0,
         "negative": 0,
         "total": 2
@@ -2016,12 +2017,12 @@
       "talarico": {
         "positive": 6,
         "negative": 1,
-        "total": 42
+        "total": 43
       },
       "general": {
         "positive": 1,
         "negative": 2,
-        "total": 23
+        "total": 22
       },
       "both": {
         "positive": 1,
@@ -2030,8 +2031,8 @@
       },
       "paxton": {
         "positive": 0,
-        "negative": 17,
-        "total": 24
+        "negative": 16,
+        "total": 22
       }
     },
     "2026-W16": {
