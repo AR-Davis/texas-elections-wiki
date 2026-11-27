@@ -1,9 +1,104 @@
 {
-  "analyzedAt": "2026-11-27T03:07:29.563Z",
-  "newsFetchedAt": "2026-11-27T02:04:59.111Z",
+  "analyzedAt": "2026-11-27T12:59:06.666Z",
+  "newsFetchedAt": "2026-11-27T11:15:58.388Z",
   "totalAnalyzed": 100,
-  "newThisRun": 3,
+  "newThisRun": 5,
   "stories": [
+    {
+      "title": "Inside Texas Politics: The 2026 Turkey Awards - WFAA",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbHNYNkhYRFFEd0FBQ3NZX0NOcWo5MnVBRzVkRVJYMGM1MllVdTJNN0dHcTVZaGlRbHM0czFJazd0VU5xUkxJUmk2UGJCblQ2UGZhYnlRX3RwbWQySDAxcWZWbmJhdkFUYVVJRFA5WllSbV9aSjVuV01BazJZZ1Noem1teWV0ZWVJWnhuOTZ3cV9FeTBIaUFCblVrNDhJYXBGRGtEaFRkdXI2bGJ0VkVzWldjQ0x5MXZRZHdsSFJZY3IyRE5vdUNGQV9rZmdacDBlT05JSHREaWVSQmc4XzJhMkNseTJ6MDMzZUdn?oc=5",
+      "pubDate": "Thu, 26 Nov 2026 15:56:41 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W48",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Inside Texas Politics | The 2026 Turkey Awards - WFAA",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVUlaamp2SThHbl9YdDlVNTIzRUdkX0l1WmxGUW00VnVHMEFsM0dvdC04cG5qdmJ4QzNKa1BqZ0JwNkxoYzduS2p1cnRaZWZ5bXNjWnlyeWxiVTk0eUt2TkhYdUxGdWN0XzNlX3owaFhHSXNjSzZSejFyQXhMYmg3aFY3ODlHOGwzU2ppdEpnZVpVWFFoREc5bEZVTTduS0FMdlRuUUlNeUVfV0MycDBvbGtWYWF2UWMtb2lPQ3lXcG1COWNkQzlnNkUtcWdUVWVFQ3p0OXJLUlZoYm11ZzVkbkFXRlRvYWVQNzBpVmZR?oc=5",
+      "pubDate": "Thu, 26 Nov 2026 15:19:55 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W48",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "TCU coach’s goodbye, Texas politics and more. Today’s top stories - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTHNKQnE5aDQ1OEJYNDdpZm5fM0ZETzFRMnRVX1pieEVwd2pHQ0dBNFkwcUZwNzE1Q0FISlZOSkNnNnZMWkE5VjkwaV9QaDl6ci1vRmhVYm54RDRiM1I4eUVtY3pjTlVCM0hzMl84NzdGWW0yb1NpY25PVjFzVVhmWjFUSU9ISEF6MkVnb1V1MA?oc=5",
+      "pubDate": "Thu, 26 Nov 2026 01:42:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W48",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Data: Breaking down Texas Republicans' ad spending in midterm loss - Dallas News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORXhHNFpYSmFxcS16eWVlTXAtNDc1aUpuZ0tOSzVJUC0tV3RXSURGUmpVRFl3cVZtU3FILVRTS3VrREdrNU5MOGZIbzNqZ2RBdkJCdUdYS0gyR01DM1ROYnBCNHZBR2ZQcUdYMk5MYWktbWRDOXMzYUdTb2U2YTRMMW1UNFh3b0VJcGd3SERMTXY5a2lFYzdYZHhNcTFVM3ZnQWluX1QwSTRGMk0?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 23:13:44 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas republican"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas GOP Lawmakers Reject Cruz’s Doom-and-Gloom Narrative for State - newsfire.gr",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWWRYTHlBV3lpRGJoMlprVC15aGFEX3YxRWNjLU9GbEpkVnVLT2c5bS1ESGFZRG1aODdvMXo2UlFXTE5taUhEclZSRkNCdFVPTUEyclJxZE1xY3ZwbllWWE43YUJzajdabEZiSTlVdmF0QnZEamdyVmU2a2tfTzh3R25IaTRCNzRjbWJWRkFXUkk2VkpPSGc?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 20:56:21 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 4,
+      "matchedKeywords": [
+        "texas gop"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "James Talarico &amp; Girlfriend Brianna Menard Make Rare Public Appearance Together at Texas Football Game (Photo) - Just Jared",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQWZNalM4UFpRT0hfYU9HS2RUSnNFS0FKam40RXowdld6VDlxX3lGSDR3aFYwdWI0OUZqb2ROU3dlLVVjVUFWckgtUkxtZTFWMWlSY2ctVE9qMGd5c19pcHZiQnhRZzhMd2NSNUZUTFlzOG5yYzZVMlozVXozRlNiQ1hMZ215U25RY0R2ZHJLVDhPRjU0MUFSVVY4eVVHYnRadm95QkdQS213OU8zNlZNRGhqcUIxY0FEVDUtN2E5R2xnSktlLV9EY2diZjZuVDRWV0pBS3NQcFpNRVpw?oc=5",
@@ -1896,107 +1991,15 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "Texas Railroad Commissioner-elect joins Inside Texas Politics to discuss priorities, how he plans to double its budget - WFAA",
-      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOOTJPWjk2ZGJmUVdhNTZ6c2o4VkZvZXRVakJwSnY4bmFvb3dHMUFzY1pRS0lhalFNdXI3dy1ib3p4bndobFRFdlVzdXItZmNGSjNqM0M0eTIzMXFhWmJmeGJiSEdQajUtVG1iLXVkb2Nra0NIenEtMTRMSkljN1NrQkJ0VHZybzl3ZVdxQm1jeTRLYjgwbG5PVEJZaWdpd1RhVWF0MHpqWHBVOGZRbTIzMXZHR0p2cVZkemlHUTg1ZFhVVXc1UWpDWGtuNkhRWXg4SU9vR2dBWGhIREVVZkZ0a21zRWVYeEJtdE1lVlBQZHA4Z3BDYWZkajh2Nk5jSUpRNENndXFmVS15Z0pJMWtMRjRWenpTYm5JUEViR2pNd1F5VUVfX1k2Ni14d1Zvd2dKM2E0MGsyOXFXM0djYWpWWnNpOGs?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 00:30:39 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W47",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "John Cornyn - Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxMlRaRi1pMVVVZ3Vhb3k2TXNiQUFvcV9PbG02T0FxV3lRTUpSZUpROVp6TzE0T19lTURfQ2dxS0l2Wlp3eXFuZHpLakwxb09JMERTMXgzbkVma3lC?oc=5",
-      "pubDate": "Wed, 18 Nov 2026 08:00:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 9,
-      "matchedKeywords": [
-        "cornyn",
-        "john cornyn"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W46",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Texas GOP chair blames economy, messaging on midterm losses | Inside Texas Politics: Nov. 22, 2026 - WFAA",
-      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOM0RYRDJUc1dVWDVYdGV3TXRuS0tNQ1FGem5Uc1N4WFk5M01NLWhrZ3k4bFV4ZDM1c1MyaFlXaDYxMVVaLXZhckUydXBwSEgzRW0xRzh5LWk0a0hpWm40ZmpTMF9QVUVSY1pwWWNIUE5ZeFZhTWFwLU1nUUxXU09YZjl0UXdVcUdWTkhMVjN1UEpDaXp0RWZCMnlvU0VoR2tDT3ZGNHZrT2Fwc1IwVFJoX2xWek96VVh5ZGdpWU5ZTl84cWxoczVuZHNxY3E4V3hyV0NoMlBReTZJeXdhWjVoSFc1enEtdEFQZzg0Z1pHeVlMcnNGdjRIVjc1aXB3Sm5YdnVnbHh5a1luQkw2VTdwSEh5VFNVbVllLXhSeWJRbFRLcGJUR0JzQURB?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 23:54:11 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 8,
-      "matchedKeywords": [
-        "texas politics",
-        "texas gop"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W47",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Former Dallas Mayor Laura Miller on saving Dallas City Hall: Inside Texas Politics - WFAA",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNd3FzWGJiQ24yNXVCb19EUl9BMXIyWGE0RDg2dE1HbTZoMFY1ZVlzNGdtLWlNc3FJTjdMX0daWktteUNmOG1UTGNBZDdsWTBXVi03b3ZQUGdpcWRaM2s3RlZ5M1RIZmxiMm5LSTBYNm10NjZFajFKRVpEYlFfak45NXR6M0NjOGVLUXFWODZZUGpoZDcwV2xRQ0FtdWt3RzUyeno5bWI0bURZaVFkZFZuUzdEd084RmpxQkRoa2diQ1lCNHpqczJiUzJvejJnclJ5SnBYY1psVGJkeUdpQjBtckVva2JocHVNeDdnUkpNSnF0WndOOXpPT2N1dDEzWGNoT0xiTmhtX0M?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 23:39:41 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W47",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Paxton owes Texas voters an audit - American Thinker",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLTRpYXZSZk0zTnNpSHVXMGN0M2x3SUxpVi1sR1Q0QkFKaVJ6Q3lFWEpuZDA2OUs1bDBMSkxzYWEwNC0yX3NYcUZxTXNhX1RfV2hLVGJ2dUtZOXUzM2NXWFYxMkU4ZVFGTTM1cWRBanFORFNzcEc4V0pGUFBXNlpZa0taWWN5QQ?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 22:02:18 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "paxton"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W47",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
     "2026-W48": {
+      "general": {
+        "positive": 0,
+        "negative": 0,
+        "total": 4
+      },
       "talarico": {
         "positive": 0,
         "negative": 0,
@@ -2006,23 +2009,18 @@
         "positive": 0,
         "negative": 0,
         "total": 2
-      },
-      "general": {
-        "positive": 0,
-        "negative": 0,
-        "total": 1
       }
     },
     "2026-W47": {
+      "general": {
+        "positive": 1,
+        "negative": 3,
+        "total": 21
+      },
       "talarico": {
         "positive": 6,
         "negative": 1,
         "total": 43
-      },
-      "general": {
-        "positive": 1,
-        "negative": 2,
-        "total": 22
       },
       "both": {
         "positive": 1,
@@ -2032,20 +2030,13 @@
       "paxton": {
         "positive": 0,
         "negative": 16,
-        "total": 22
+        "total": 21
       }
     },
     "2026-W16": {
       "paxton": {
         "positive": 0,
         "negative": 1,
-        "total": 1
-      }
-    },
-    "2026-W46": {
-      "general": {
-        "positive": 0,
-        "negative": 0,
         "total": 1
       }
     }
