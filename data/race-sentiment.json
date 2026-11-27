@@ -1,9 +1,86 @@
 {
-  "analyzedAt": "2026-11-27T12:59:06.666Z",
-  "newsFetchedAt": "2026-11-27T11:15:58.388Z",
+  "analyzedAt": "2026-11-27T21:51:19.415Z",
+  "newsFetchedAt": "2026-11-27T20:11:17.458Z",
   "totalAnalyzed": 100,
-  "newThisRun": 5,
+  "newThisRun": 4,
   "stories": [
+    {
+      "title": "Texas Democrats File 10 Bills to Repeal School Choice - The Daily Signal",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY0xvTGIwcmU5T1hyblh5aXJJeTNqWlZtZlZXT2I5ak1MLW9vVXhaN1MxbU9pbC1sQldjZlZNSjE3eVpVbmdiZzlBWE5acUsxTVNVTlR5OXpmRXp1V1hFR3pHbURYV1FOOGRiYkdxY0ZnYVNLSHE1ZVUtWjczWXJVUldfT3dCSFljeHc?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 18:00:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 7,
+      "matchedKeywords": [
+        "texas democrat",
+        "texas democrats"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W48",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "A Texas Senate bill could make it a felony to officiate same-sex weddings - Advocate.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDcVhNMU9VZU5tUDVvVDYtSnltanRoMThabmhhNEY5UktCZzdXQnV6Mkk2U2VnVFYtUjlKbWxpTmVvdGVkQjZSMU5BX3poSHpZUWlhYTJmek5pUUcwSk5RSG5ES2Nvc0JFZzI5dTRB?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 19:14:48 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "texas senate"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Paxton Drops Lawsuits Before Leaving Texas Office - Wisevoter",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONHR2TVFZVGdsVEVRRHluVjBLbXBXd0RwY2VVZVFGdG5XVVpBSFpjaUVheUxuWlNkbWlZQ25icUJwQjdqZUduM2tHeDBZeElmU0tWSERkeXUxVmtvMXhwM1BGQ2FYQ09XNkR5TFBSSElWVTZCSm9DY2hORlhBV01lV1VuWm1FLUdJX25YRUlTZ2Z4cFJsbjdDek5B?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 15:37:42 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "paxton"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas’ First ‘Risk-Limiting Audit’ Supports Talarico Win - Texas Scorecard",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU1I1WlgxU2ZCQUZjMDVTVDV6SmlROXVTUTRYY1czOWloVDZ5SGhzWFJuaHUybng3dzNiRFZhanNpc1I5bVJMOTlJLTgtRDhNeGVVWUcydmNOLTNKZ203TDJZWTRmRTh6ektNTXZtZjNaLUhqY3M2UkhSOWFFNTZpZDZuZmRaa2VJZ3puV28tTlk?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 22:48:57 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Inside Texas Politics: The 2026 Turkey Awards - WFAA",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbHNYNkhYRFFEd0FBQ3NZX0NOcWo5MnVBRzVkRVJYMGM1MllVdTJNN0dHcTVZaGlRbHM0czFJazd0VU5xUkxJUmk2UGJCblQ2UGZhYnlRX3RwbWQySDAxcWZWbmJhdkFUYVVJRFA5WllSbV9aSjVuV01BazJZZ1Noem1teWV0ZWVJWnhuOTZ3cV9FeTBIaUFCblVrNDhJYXBGRGtEaFRkdXI2bGJ0VkVzWldjQ0x5MXZRZHdsSFJZY3IyRE5vdUNGQV9rZmdacDBlT05JSHREaWVSQmc4XzJhMkNseTJ6MDMzZUdn?oc=5",
@@ -1913,84 +1990,6 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "Texas GOP Chair D'rinda Randall on what caused midterm losses: Inside Texas Politics - WFAA",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNa0twWjd0YkZWNmNja2RIbDh2OFY4Mlg5Mlo4c01WeWIzMDRRRkxxVnVZV055cmVJQmY2XzlqendXeVVyVVh5Y2lnMko2T2lQbThfZ1R4UkdtZm1VRE5uOE15Z2kyZEFRNzN4VWVXOGR2MXFpT1o2Zkp2dEsybTNRU3oxRm03enVxSU5Od0RKOURYeURwLWJvRkhhNjZ0bm44WnBpb1QxSXIwbnhFMXVfRDl5bVpCNmpSRmFpWG5zMkdOUnBja2pMaG1BVWl0T1FWTmRqRy1TUmVNMXpxUXA0b1gzNnZtb3Q5Zml0LUVVZU01MzFRVGFTSlkzWXEwZC1Fa2NHd1BPaGk?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 23:54:20 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 8,
-      "matchedKeywords": [
-        "texas politics",
-        "texas gop"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W47",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Texas GOP chair blames economy, messaging on midterm losses | Inside Texas Politics: Nov. 22, 2026 - newswest9.com",
-      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPZWJVN3E1M29tVmRYNExsN3ZLQlE5RUJaMUNybEVhNnpTTkRxS3JmR0Q4b0xzOG5uaFE5X2JpakNPZlRkYUZUSms1QmpTZzVGTW9BN01WVHFTb3RTNER1aC1mSXVPSmE0QlZCUkJRdG1BeGVVVnVJaFMxbDVXbFNkYW56eGNIUGxpVnlVSlZqcWNQMlZHUFRjYVBFbDRuR1JfUEtMMjV1Y3NVWGpYSTV5N1dqWHVTYm9CRmJMeWl4a0g0S2dCZjNfOWJGOFNjcF9Td2tHZEVsS0Vud0VnM1lmaE95Z2h0dkt5TzBXUk1pYkVkN28zQkROWmlISGxhSG9BdnVkQndRNTdJYmtoUlBHZTMyV0llZGwwQWpEUWl5QldzZkRxZE9vVWxaa2xHVmZ2?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 23:52:42 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 8,
-      "matchedKeywords": [
-        "texas politics",
-        "texas gop"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W47",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Inside Texas Politics: Former Dallas mayor gives warning for city council regarding City Hall - WFAA",
-      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOczhYc0ViZE9nQkxpU1Y2M1ZBVHcxRURKSVdzVzFoWHZSNUJLeEZMTW95cVdBbC0zUVZ5aGhhZmc3RURQdWRQRGZ0dHlHMXgyNXBfdjc1MnNtVW5qVVhuelpfNzYzRXVkc1paeUR0eHVKbkNFSEJXeWNZLVljdllaWTRVRi1NQ1dDaTNGajZ6cndKaGVJVTRMNGxQMnp6YU5tY0FLalRqYmZaa2xOb0psenRTZWxtWHNfaE1tUnZPM3NwX1dIa0IwRVZRUHNmRDZ5LU1FbmRlMS1KZVlUWjFTbEdHOWU1cnZ2ejhpQ1hldXFpVHdlQjlVMzBxbFlaZVEzNEVHQlZjbU0yMkdCZXJhMHZQeFFtb0I5VHl4ZjJjZUFPdw?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 04:20:18 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W47",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "EAST TEXAS POLITICS: Former Gov. Rick Perry on Democratic wins: ‘I’m not going to tell you I saw that coming’ - KLTV.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUnFUU3NKSlR5OXFvd202VjZsc3ppUVpBZjhRdjJlMFJSQ19OTFR6cl9TajVpeVJYT19RR1JjcDFweXZ4ZHM3Y0NKV1B6NEZWUEZNRkk3Z0lVeDl0VUdJWUZCbTBkTlU4R1RGb0x6cXN4M1BKQ2ljRjFxV2ZQR0ktU0hDMlFKUFBvZkpKWl9WYV9FRno4Qm9ZR0JFN3dOY1VFZzZsUlJrWDdGbV9rV1JxWlZrZExCV2UwY0dGOWl3dW01dmU3NVgwcmZn0gHeAUFVX3lxTFBmWUJ6OW9LSFM1QWstTkstYjlYUktPcFZsUGVubHAwelZZLTJMYVpOVTBFTG9zeVA2OHVScDJJZG5VMlAzbDdLelIzcEpQYUxzVG5FMGI3VDdiYWFPNGtPcmdZN1hscTNpcnZNVkQ4ZGlUWFVESks2NV9jUmItclp2YjljaVZWZHFQa2NhSTktQUJwYUlzdGppYklGU1pvSmJ2c251MkhHQVJtQ0puUXBCa3lJWWVYdU5taFZCdFNHYmNET2txdW1rQ2dWZ25MdndkQlppMzdYcXNuSU9Zdw?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 00:58:00 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W47",
-      "sentiment": {
-        "positive": 1,
-        "negative": 0,
-        "label": "positive",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
@@ -1998,7 +1997,7 @@
       "general": {
         "positive": 0,
         "negative": 0,
-        "total": 4
+        "total": 5
       },
       "talarico": {
         "positive": 0,
@@ -2013,24 +2012,24 @@
     },
     "2026-W47": {
       "general": {
-        "positive": 1,
+        "positive": 0,
         "negative": 3,
-        "total": 21
+        "total": 18
+      },
+      "paxton": {
+        "positive": 0,
+        "negative": 17,
+        "total": 22
       },
       "talarico": {
         "positive": 6,
         "negative": 1,
-        "total": 43
+        "total": 44
       },
       "both": {
         "positive": 1,
         "negative": 1,
         "total": 4
-      },
-      "paxton": {
-        "positive": 0,
-        "negative": 16,
-        "total": 21
       }
     },
     "2026-W16": {
