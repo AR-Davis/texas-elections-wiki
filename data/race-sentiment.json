@@ -1,9 +1,87 @@
 {
-  "analyzedAt": "2026-11-28T03:47:07.352Z",
-  "newsFetchedAt": "2026-11-28T02:53:53.816Z",
+  "analyzedAt": "2026-11-28T12:48:33.210Z",
+  "newsFetchedAt": "2026-11-28T11:31:17.151Z",
   "totalAnalyzed": 100,
-  "newThisRun": 7,
+  "newThisRun": 4,
   "stories": [
+    {
+      "title": "State dismisses lawsuit against Latino voting group Jolt Initiative",
+      "link": "https://feeds.texastribune.org/link/16799/17536631/texas-attorney-general-ken-paxton-jolt-initiaitive",
+      "pubDate": "Sat, 21 Nov 2026 04:21:37 +0000",
+      "feedSource": "texastribune",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas drops abortion pill lawsuits against out-of-state medical providers",
+      "link": "https://feeds.texastribune.org/link/16799/17536632/texas-paxton-abortion-pill-lawsuits-dropped-california-delaware",
+      "pubDate": "Sat, 21 Nov 2026 04:03:05 +0000",
+      "feedSource": "texastribune",
+      "raceScore": 12,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Helen Giddings discusses her 26-year career in the Texas House, the state of Texas politics, and her - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcGF5bkhRSU5yc0xzZ3hobUFaMV9PSlNMck4tSk8wa1FvM2lZOTdkdktNNDVEYU1wYThIaXV2UUJNajNMZUJhcXBXZmVzRWMxcEdjVExUSG4tWTEtRk9jM0FUSjBHelhKQmtMcUNXZ2pQeDFONkJOcmV5emF1WG5tQ3JEVFczczNabG5yRVpQa3NCMkZuTUxFZV9NNVlnbk1RYTI2a0E0ZDJJNHdUdkd1UTEtbU5pcVdMRGpOQ1lzYUpzR2dsZ2xVZ1dSVHYwT3hF?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 20:31:00 GMT",
+      "feedSource": "google-news-texas",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "texas politics"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W48",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Trump blames Paxton's midterm loss on drooping eye - Wonderwall",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX0ZsbmRqQ0NsSG45Z3pvNXR3OGpIMWdiUEFYUmhvd1paRE5EMS13TERubW1LWDNGNktlcGdTdlV4WWRfWmR3R3M0amVnYzNrYmp2QVdvVnAwRElHOFg5MzRwWENRN2lOYlZwZHk2VzBxUGZLTGZpWXM0R01GRUVXWlJWSFI5TFJINmprcUdsMUdma2lKajM0Q2Q0MlVXdjMzOXNPWmdYSm5jdw?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 16:52:56 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 5,
+      "matchedKeywords": [
+        "paxton"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W48",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Who’s leading Texas’ U.S. Senate race? Tracking Paxton vs. Talarico polls - KABB",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOc2FzZm9RbmswTHZWRTE5ZHAtQUdaaVF0Wk1ZclNKb21IenN6YnpWeTNnejZvUWwtYjVXNkR1TnRxSEpqS1BoUVNpaFJXY1g0djdqSE5Eal9pTlY1aHZmOFJ3SG5BdUE4Z1R6NlJhSmNraU1sRkozNlRBaC1LUFJMMm5ibHR2dGFncjlERlVsTjJJTXJxZnhCX0dHb2g2eTVsVDNpLXROc042b29WaHdINU1KRmZSLVBhWUlkV0ZiNFY3Tmwzem5ZUDFhMFFSeng4cHM2cElLRnRtblVVcXBfMkZ1UWt4dUFGWmx0RFowWnd6LTl6OUFGZUVUM2w?oc=5",
@@ -1912,127 +1990,51 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "TIME Person of the Year odds: Talarico overtakes Mamdani in tight race - Kalshi News",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53YW55ZVpiWjRJeWh1c1NsaGdtcTNMdmdTXzNKazNtYXBDNlU4N1BFSzB2ZE4zeU94d0J4bGhVaWFFbVptbk9Wem81bDJrQVFPVXZPSV9HRmJhWENiQVY0bnhsRFhxYVNOMDVCRDllOHRGejExakJDcGw0cw?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 22:12:32 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "talarico"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W47",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Paxton drops suit against Dallas pediatrician over transgender care as he prepares to leave office",
-      "link": "https://feeds.texastribune.org/link/16799/17536922/texas-ken-paxton-lawsuit-dropped-brett-cooper-transgender-care-sb-14",
-      "pubDate": "Sat, 21 Nov 2026 18:13:46 +0000",
-      "feedSource": "texastribune",
-      "raceScore": 8,
-      "matchedKeywords": [
-        "paxton"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W47",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Austin City Council Member Chito Vela announces bid for Texas Senate - KUT",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNEg4a2wtTTVVcXJRYnNyeHJ3SURwMzlwRi1RSzNFcDlyS1hoWC1ycGlObzJKSnF3Yzc1YWRvSnVCS2w3dUtBemFXS0ZRaVdpUUxWOGZzYWhYZDlyc3dyMzduU1p0Qmd1STNTS21TUXlPSm1JZVE4NVZlSXphM0NBd2o5bWFvNWNfQnA0MEVQamY0QVNyWE14YWFIQlY3RjdaeGlxUzVB?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 17:04:55 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 7,
-      "matchedKeywords": [
-        "texas senate"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W47",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Cruz says he is already working with Talarico on bringing Space Academy to Texas - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQngtVXhwOFp0a1NzVk5JeVd3NkNjRmE1MmpHWTlUeG1pampEbl9naWdlczVob19vSUI4UzhxVFB0VzdxX2hOX2x3RU4xZ3NRWXVsUGJhQTFTZ2JDaDh5V1AxdXZFTUVvUGZXX0h1OVdhMDM4cGZTN1dKMmpFOXJkLVFhVW7SAYoBQVVfeXFMT09oTmVuNVRGY2RKZkQ0YXNvSnVpOXY3cWRRVTdzNURMdEpwZ2pha2VNQkJIS2pyT3NSM0tiNFhCZ1RJeV81LUFHdUdNNEJyLVY1WjhOSExDZWx5RGpqcEF5bEVzajR6VE1qS2RnZW9fLXdzWGlTVHpqdXZDUmkzMHdmVE1aTE4tMW1n?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 19:09:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 6,
-      "matchedKeywords": [
-        "talarico"
-      ],
-      "candidate": "talarico",
-      "weekKey": "2026-W47",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
-    "2026-W48": {
-      "both": {
-        "positive": 1,
-        "negative": 0,
-        "total": 1
-      },
-      "paxton": {
-        "positive": 0,
-        "negative": 1,
-        "total": 3
-      },
-      "talarico": {
-        "positive": 0,
-        "negative": 0,
-        "total": 6
-      },
+    "2026-W47": {
       "general": {
         "positive": 0,
-        "negative": 0,
-        "total": 6
-      }
-    },
-    "2026-W47": {
+        "negative": 3,
+        "total": 16
+      },
       "talarico": {
         "positive": 6,
         "negative": 1,
-        "total": 46
-      },
-      "general": {
-        "positive": 0,
-        "negative": 1,
-        "total": 15
+        "total": 44
       },
       "paxton": {
         "positive": 0,
-        "negative": 15,
-        "total": 19
+        "negative": 14,
+        "total": 18
       },
       "both": {
         "positive": 1,
         "negative": 1,
         "total": 4
+      }
+    },
+    "2026-W48": {
+      "general": {
+        "positive": 0,
+        "negative": 0,
+        "total": 7
+      },
+      "paxton": {
+        "positive": 0,
+        "negative": 2,
+        "total": 4
+      },
+      "both": {
+        "positive": 1,
+        "negative": 0,
+        "total": 1
+      },
+      "talarico": {
+        "positive": 0,
+        "negative": 0,
+        "total": 6
       }
     }
   }
