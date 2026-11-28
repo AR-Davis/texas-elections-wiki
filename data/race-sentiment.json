@@ -1,9 +1,147 @@
 {
-  "analyzedAt": "2026-11-27T21:51:19.415Z",
-  "newsFetchedAt": "2026-11-27T20:11:17.458Z",
+  "analyzedAt": "2026-11-28T03:47:07.352Z",
+  "newsFetchedAt": "2026-11-28T02:53:53.816Z",
   "totalAnalyzed": 100,
-  "newThisRun": 4,
+  "newThisRun": 7,
   "stories": [
+    {
+      "title": "Who’s leading Texas’ U.S. Senate race? Tracking Paxton vs. Talarico polls - KABB",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOc2FzZm9RbmswTHZWRTE5ZHAtQUdaaVF0Wk1ZclNKb21IenN6YnpWeTNnejZvUWwtYjVXNkR1TnRxSEpqS1BoUVNpaFJXY1g0djdqSE5Eal9pTlY1aHZmOFJ3SG5BdUE4Z1R6NlJhSmNraU1sRkozNlRBaC1LUFJMMm5ibHR2dGFncjlERlVsTjJJTXJxZnhCX0dHb2g2eTVsVDNpLXROc042b29WaHdINU1KRmZSLVBhWUlkV0ZiNFY3Tmwzem5ZUDFhMFFSeng4cHM2cElLRnRtblVVcXBfMkZ1UWt4dUFGWmx0RFowWnd6LTl6OUFGZUVUM2w?oc=5",
+      "pubDate": "Thu, 26 Nov 2026 14:07:07 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 14,
+      "matchedKeywords": [
+        "talarico",
+        "paxton",
+        "senate race"
+      ],
+      "candidate": "both",
+      "weekKey": "2026-W48",
+      "sentiment": {
+        "positive": 1,
+        "negative": 0,
+        "label": "positive",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Ken Paxton quietly abandons his MAGA crusades after humiliating Senate loss - Raw Story",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKWVUyZG9mUTduQW9sRm1pQWFEckhhOXBNZmZleVhEbUZQN3RUSlpQaERLQ3lQeEw0YU43Vmt1SEJEQ3BrRHAyd01oeHRkekZTR2VZbTduTHJlZHfSAW5BVV95cUxNdFlrTHdKbUJDQi1SNVVvX3JEYkxuTlczckQ2ZV9HRHBlVlAzdkwtdjNGWndHWVhzLU5iUU5tck1CSk5tajdnVmhDVktNNjNkLW1hYXg1Nl9NMm0yS3RDQzhDaU1NcnhlZU9qZGhpUQ?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 21:29:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "paxton",
+        "ken paxton"
+      ],
+      "candidate": "paxton",
+      "weekKey": "2026-W48",
+      "sentiment": {
+        "positive": 0,
+        "negative": 1,
+        "label": "negative",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Top 3 things to know about James Talarico's girlfriend: 'She is my rock' - Christian Post",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM1g4LXZ5NEhBZUVVRWFSWUllUU5rZWFkMURER2ljQWhXbmZnX0pXdk9PaTVJQ3RkTXlhSHRfRVNNU1NPSGVJSC1oVEVZY1dZUDlFQS1NaE9qU2JEa0hnRjRnWjFJQ3Q3YzF6SjV3NGJwbDM0bjFxYjR3WGlEc0ZqR3pVaUxNV3EtdEM3Z3NDdGlzUXZPRjk3UjdZcWg0MDZ2NHRVR2tmelY?oc=5",
+      "pubDate": "Thu, 26 Nov 2026 11:02:08 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 11,
+      "matchedKeywords": [
+        "talarico",
+        "james talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W48",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Texas Democrats are about to take power in Austin: Here’s what to expect - Tyler Morning Telegraph",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYTNSbmM2clpGREV2b2tVZWEzZEJuOUxpSFpYWDVEWnFPYkZ1c0dmZnhqSUFKZWhUanJvbHdxRDhDTEJMbUtFRjVVSngzSkZNbVlIVWtxRVd6VVVhczVhcXl4dVZvWklqTlVUbjV4N1hweUVEMF9WczBNU0pJLUpITnkxb25lWnJ5VmNHMC1XS3BqVzVONlVSdmtJRmp5cFVScmYtWlFqemo?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 11:11:19 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 8,
+      "matchedKeywords": [
+        "texas democrat",
+        "texas democrats"
+      ],
+      "candidate": "general",
+      "weekKey": "2026-W48",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Cruz, Talarico back push to bring U.S. Space Academy to Texas - KVUE",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUEhVN242NjI4TjQ2N1lhV1FhRG9KZHAzZklKMkJGek9BSE9mUktPeVlva3lPSkNRa3NxNlZXU2p2VHdFd3A1aV9GYXpVN0g2ZGowWlBHOUhOSW14czlDMkJOclhkal81dHlUQTcwMDRuR2NmclBEeV9hYndnTF9XLW9yU3F3WUpMZHVqN2FEbEMwMUpzdjFwSnlUeWVPalVsLUFtQXl4WUNhc2txM3dDdmJieEtNaF9jWVd6WjNEV2E0YXdmWFFmM3pFeFBrejBBWDlvU21kZw?oc=5",
+      "pubDate": "Thu, 26 Nov 2026 00:36:55 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W48",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Talarico joins Ted Cruz in campaigning for the US Space Academy to be built in Texas - Just The News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZllrNWFJX3lqUF93a1RlVURUbmlGdnhVV0kycjlIdjYtRjRRdWQ1a0lzaklKRk92VFVJX0NoajVZLTB3Z3ZKSThvWGU5eFN2NXEyY2txNWVSUlZvbFdWOFpqMGQzTEVOYW9ONHFtQXBtamRnMHl2OGtPYk50NFllU0o2bXJRbjBVNGtUSm5BRlMtSDJBdEVUb1RoLTZNbG1ENVk2Z1pxVVV6cGpmZ2pRMw?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 23:14:38 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
+    {
+      "title": "Talarico, Cruz push for Space Academy to be in Texas - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc2Z3QzZkWWZDaDR5aXM5YnJzM250RDhERzV4YU9FdllKSFdURi1mejlEYzQxS3kwVnhvcWJxRHZvR0EzRFl0OHMtREJyaXU2QUl1cWVENjNneWZyb2NFRzN5eHQxQXpkc09kcExjMF9rVHhIdmdaZjdDS0tsZFZEczFJVTlBTXV6OHBDVktPMnl4TFXSAZgBQVVfeXFMTlRPWHEweko3RTd6c0oxNjJkWFVwMDRfVVdQcXJfTXhaaHZyWWRBTnBNZ3VuSWhaaXlrTUFFX0RtWDdEZXVHUWprOUJmajZQelJEaTY1VGhtSWlRQ3F3RGZEcVFMVVZVSDFSZlNKcVRXNHNxdENRTGRUWFVfSXJWa0hQc3JYQ3NyNG5ieDRhNHg2aks1ckpFSHY?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 22:16:00 GMT",
+      "feedSource": "google-news-race",
+      "raceScore": 6,
+      "matchedKeywords": [
+        "talarico"
+      ],
+      "candidate": "talarico",
+      "weekKey": "2026-W47",
+      "sentiment": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "label": "neutral",
+        "source": "local-fallback"
+      },
+      "error": "HTTP 403"
+    },
     {
       "title": "Texas Democrats File 10 Bills to Repeal School Choice - The Daily Signal",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY0xvTGIwcmU5T1hyblh5aXJJeTNqWlZtZlZXT2I5ak1MLW9vVXhaN1MxbU9pbC1sQldjZlZNSjE3eVpVbmdiZzlBWE5acUsxTVNVTlR5OXpmRXp1V1hFR3pHbURYV1FOOGRiYkdxY0ZnYVNLSHE1ZVUtWjczWXJVUldfT3dCSFljeHc?oc=5",
@@ -1850,193 +1988,51 @@
         "source": "local-fallback"
       },
       "error": "HTTP 403"
-    },
-    {
-      "title": "Ken Paxton Drops High-Profile Texas Lawsuits After Losing Senate Race - Speaks Media",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaW0taEp0LXZITDRBV1dwQWtDa3ZuY2dVTWRoSm5GeFI2RUhBb2J5N1NUcWFPTE1ZNjFxY0t3b2VwNGVSSElDS3dFaG1rU21DcE1nTF9GNmhPQjgxS08xbUNkVW5TdDF2cWFqbTlDSVh4dk5fcC1NN2U0MUJHMC1WYjJuRF9FN3dZWTFEQ1p2T2owdnlwNzN4Y0xQcnY?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 10:54:11 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "senate race"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W47",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Texas Railroad Commissioner-elect discusses his priorities: Inside Texas Politics - WFAA",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNcC1YYXRoTG9MR25oVGVKenRmeHNNMTVpcnBGRUZQekh5RGx3RFl6eXVBdUowT09YTld2RU1xUXZJYm10NENIMWc5Z2k2UUhaRmtxN2xzMm5iTjVOS2h6LXZQVFdRRHNHVUUzRm1EcXpFN0ZYSGdzbml2UWNrRklSYzhKUUhTclRoRUM0OU1PamxIV3ZHZjlrQzlFWjcxUU1IWkdhajd5UTh3MV9INHhtcXV5MVVmOEtEcTZZa0UweW1Ha2p6b084RWRQaVFFQlBCbjhNSXRWa09nbndiWUZtNnZFQ2dXMDVsbDI1ZTAwRlJpQ0t1VUZGaktjZC1fd0Zxai1faU16MGZoNlpaUjhQeg?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 00:24:20 GMT",
-      "feedSource": "google-news-texas",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "texas politics"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W47",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Editorial: As Paxton ends AG term, religious organizations can finally breathe easier - MyRGV.com",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNk5fYnZwSmNYc3FQazZwU2ZjQ2J3alExMExiSS1iX1F6LWpic1hCYm42bDZvVUdkM3IyVk04bXlxMFlQOVJhV3ktb0xLX3RHVUgwT1llVFBKTy00MC1qQVlnOFllby15aTZzc0N4TzlQV0RKNXV2WFg4YUdSTW5sTEhtQkx0SGZqT05CSmUwQkdINXlsN1ZGWktFUzBNb1VSOHgxYUVmVnozU1JsR2xUVmJzSjFVblk5Y3ZWVmZlQThvb0hwOC1ZQjdJN0M?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 19:19:00 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 5,
-      "matchedKeywords": [
-        "paxton"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W47",
-      "sentiment": {
-        "positive": 0.5,
-        "negative": 0.5,
-        "label": "neutral",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Texas Attorney General Ken Paxton drops ActBlue lawsuit - Dallas News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR1phQ2taUFk4RXVpTjR0QXBkRlJETEJna3RETlVLMWM0Nm16M0VFclFubXpoOTVCRW8wVEdXaGE4b0ZLWG9wR0UtQzRudEY0QlVnem9fNzVwcXhyc0hsdmRGeE5mbGNWR3d1a2E3aWdGcm02OVdmT1NFelpiQS01cXI4RWwxRkR1SHUzZjBjVEVEM09UNWhXTFhSbGxQNE9tVzFxaTZPOUlXeEdyLXc?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 01:09:03 GMT",
-      "feedSource": "google-news-race",
-      "raceScore": 15,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton",
-        "attorney general"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W47",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "State dismisses lawsuit against Latino voting group Jolt Initiative",
-      "link": "https://feeds.texastribune.org/link/16799/17536631/texas-attorney-general-ken-paxton-jolt-initiaitive",
-      "pubDate": "Sat, 21 Nov 2026 04:21:37 +0000",
-      "feedSource": "texastribune",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W47",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Texas drops abortion pill lawsuits against out-of-state medical providers",
-      "link": "https://feeds.texastribune.org/link/16799/17536632/texas-paxton-abortion-pill-lawsuits-dropped-california-delaware",
-      "pubDate": "Sat, 21 Nov 2026 04:03:05 +0000",
-      "feedSource": "texastribune",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "candidate": "general",
-      "weekKey": "2026-W47",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
-    },
-    {
-      "title": "Ken Paxton drops lawsuit against Democratic donor platform ActBlue",
-      "link": "https://feeds.texastribune.org/link/16799/17322407/ken-paxton-act-blue-democratic-fundraising",
-      "pubDate": "Mon, 20 Apr 2026 17:46:36 +0000",
-      "feedSource": "texastribune",
-      "raceScore": 12,
-      "matchedKeywords": [
-        "paxton",
-        "ken paxton"
-      ],
-      "candidate": "paxton",
-      "weekKey": "2026-W16",
-      "sentiment": {
-        "positive": 0,
-        "negative": 1,
-        "label": "negative",
-        "source": "local-fallback"
-      },
-      "error": "HTTP 403"
     }
   ],
   "weekly": {
     "2026-W48": {
-      "general": {
-        "positive": 0,
+      "both": {
+        "positive": 1,
         "negative": 0,
-        "total": 5
+        "total": 1
+      },
+      "paxton": {
+        "positive": 0,
+        "negative": 1,
+        "total": 3
       },
       "talarico": {
         "positive": 0,
         "negative": 0,
-        "total": 4
+        "total": 6
       },
-      "paxton": {
+      "general": {
         "positive": 0,
         "negative": 0,
-        "total": 2
+        "total": 6
       }
     },
     "2026-W47": {
-      "general": {
-        "positive": 0,
-        "negative": 3,
-        "total": 18
-      },
-      "paxton": {
-        "positive": 0,
-        "negative": 17,
-        "total": 22
-      },
       "talarico": {
         "positive": 6,
         "negative": 1,
-        "total": 44
+        "total": 46
+      },
+      "general": {
+        "positive": 0,
+        "negative": 1,
+        "total": 15
+      },
+      "paxton": {
+        "positive": 0,
+        "negative": 15,
+        "total": 19
       },
       "both": {
         "positive": 1,
         "negative": 1,
         "total": 4
-      }
-    },
-    "2026-W16": {
-      "paxton": {
-        "positive": 0,
-        "negative": 1,
-        "total": 1
       }
     }
   }
